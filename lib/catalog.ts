@@ -19,6 +19,7 @@ export interface Cosmetic {
   nameOriginal: string;
   romanization: string;
   category: "outfit" | "hair" | "weapon_skin" | "effect" | "accessory" | "mount";
+  secondaryCategories?: ("outfit" | "hair" | "weapon_skin" | "effect" | "accessory" | "mount")[];
   sourceId: string;
   wikiDetails?: boolean;
   wikiOnly?: boolean;
@@ -35,7 +36,7 @@ export interface Cosmetic {
   cnRelease: { date: string | null; precision: "day" | "unknown"; timezone: null; contextual: boolean; basis: string };
   acquisition: Acquisition;
   global: { status: string; releaseDate: string | null; officialName: string | null };
-  images: { url: string; width: number; height: number; reusePermission: string }[];
+  images: { url: string; width: number; height: number; reusePermission: string; alt?: Bilingual; caption?: Bilingual }[];
   officialVideos: typeof research.cosmetics[number]["officialVideos"];
 }
 export const source = research.sources[0];
@@ -83,7 +84,7 @@ export function searchCosmetics(query: string, category: string = "all") {
   const q = query.normalize("NFKC").toLocaleLowerCase().trim();
   return cosmetics.filter(
     (c) =>
-      (category === "all" || c.category === category) &&
+      (category === "all" || c.category === category || c.secondaryCategories?.some(value => value === category)) &&
       [
         c.nameOriginal,
         ...(c.searchAliases ?? []),

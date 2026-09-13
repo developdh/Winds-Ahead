@@ -212,6 +212,7 @@ export default function SiteApp({
       >
         <Link
           onClick={event => quickView.show(event, c.id)}
+          prefetch={false}
           aria-haspopup={quickViewEnabled ? "dialog" : undefined}
           className="card-image"
           href={`/${l}/cosmetics/${c.id}${backQuery}`}
@@ -236,6 +237,7 @@ export default function SiteApp({
           <Link
             href={`/${l}/cosmetics/${c.id}${backQuery}`}
             onClick={event => quickView.show(event, c.id)}
+          prefetch={false}
             aria-haspopup={quickViewEnabled ? "dialog" : undefined}
             className="card-title"
           >
@@ -376,6 +378,7 @@ export default function SiteApp({
         </div>
         <div className="footer-links">
           <Link href={`/${l}/updates`}>{t("Updates", "업데이트")}</Link>
+          <a href="https://github.com/developdh/Winds-Ahead" target="_blank" rel="noreferrer">GitHub</a>
           <Link href={`/${l}/about`}>
             {t("About & sources", "소개와 출처")}
           </Link>
@@ -909,26 +912,26 @@ function About({ l }: { l: Locale }) {
           </p>
           <p>
             {t(
-              "This private MVP uses reduced official and credited community reference images for review. Rights remain with their owners; attribution does not establish redistribution permission. Public media clearance is still pending.",
-              "비공개 MVP는 검토용으로 크기를 줄인 공식 이미지와 출처를 명시한 커뮤니티 참고 이미지를 사용합니다. 권리는 원저작자에게 있으며 출처 표기는 재배포 허가를 뜻하지 않습니다. 공개 서비스용 미디어 권한은 확인이 필요합니다.",
+              "Game images and videos belong to their respective owners and are excluded from the code license. Source attribution does not grant redistribution permission. Use the correction channel below for attribution, replacement or removal requests.",
+              "게임 이미지와 영상의 권리는 원저작자에게 있으며 소스 코드 라이선스에 포함되지 않습니다. 출처 표기는 재배포 허가를 뜻하지 않습니다. 출처 수정·교체·삭제 요청은 아래 제보 창구로 보내주세요.",
             )}
           </p>
           <h2>{t("Your watchlist", "관심 목록")}</h2>
           <p>
             {t(
-              "Bookmarks stay in this browser. There is no account or cross-device sync. Clearing browser data also clears this list. Videos contact YouTube only after you choose to play.",
-              "관심 목록은 이 브라우저에 저장되며 계정이나 기기 간 동기화는 없습니다. 브라우저 데이터를 지우면 목록도 삭제됩니다. 동영상은 재생을 선택한 뒤 YouTube에 연결합니다.",
+              "Your language and watchlist stay in this browser; there is no cross-device sync. No advertising or analytics tracker is added by the app. Video players load only when you choose to play; external YouTube players then contact YouTube. The hosting provider may process access logs.",
+              "언어와 관심 목록은 이 브라우저에 저장되며 기기 간 동기화는 없습니다. 앱은 광고나 방문 분석 추적기를 추가하지 않습니다. 영상 플레이어는 재생을 선택한 뒤 불러오며 외부 YouTube 영상은 그때 YouTube에 연결합니다. 호스팅 제공자는 접속 로그를 처리할 수 있습니다.",
             )}
           </p>
           <a
             className="text-link"
-            href="https://github.com/developdh/Winds-Ahead/issues/new"
+            href="https://github.com/developdh/Winds-Ahead/issues/new/choose"
             target="_blank"
             rel="noreferrer"
           >
             {t(
-              "Report a correction · Repository access required",
-              "오류 제보 · 저장소 접근 필요",
+              "Report a correction",
+              "정보 수정·삭제 요청",
             )}
             <ArrowUpRight size={16} />
           </a>

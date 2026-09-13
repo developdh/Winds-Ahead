@@ -45,7 +45,7 @@ function GalleryFrame({ image, dimensions, active, preload, onReady, label, l }:
             src={image.full}
             width={dimensions.width}
             height={dimensions.height}
-            alt={label}
+            alt={dimensions.alt?.[l] ?? label}
             draggable={false}
             decoding="async"
             fetchPriority={active ? "high" : "low"}

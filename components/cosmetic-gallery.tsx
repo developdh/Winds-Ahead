@@ -24,7 +24,7 @@ export default function CosmeticGallery({ c, l, selected, onSelect, immersive = 
       <div className={immersive ? "quick-view-media" : undefined} style={immersive ? { '--preview-ratio': c.images[images[0].index].height / c.images[images[0].index].width } as CSSProperties : undefined}>
       <DialogTrigger asChild>
         <button className="detail-image" aria-label={t("Open full official image", "공식 이미지 크게 보기")}>
-          <img key={images[selected].full} src={immersive ? images[selected].full : images[selected].thumbnail} width={600} height={710} alt={`${c.nameOriginal} · ${t("Game appearance preview", "게임 외관 미리보기")}`} decoding="async" fetchPriority="high" />
+          <img key={images[selected].full} src={immersive ? images[selected].full : images[selected].thumbnail} width={600} height={710} alt={c.images[images[selected].index].alt?.[l] ?? `${c.nameOriginal} · ${t("Game appearance preview", "게임 외관 미리보기")}`} decoding="async" fetchPriority="high" />
           <span><ZoomIn size={17} />{t("View full image", "전체 이미지 보기")}</span>
         </button>
       </DialogTrigger>
@@ -34,6 +34,7 @@ export default function CosmeticGallery({ c, l, selected, onSelect, immersive = 
         <span className="quick-view-image-count" role="status">{selected + 1} / {images.length}</span>
       </>}
       </div>
+      {c.images[images[selected].index].caption && <p className="small-muted">{c.images[images[selected].index].caption?.[l]}</p>}
       <DialogContent className="gallery-dialog" showCloseButton={false}>
         <Suspense fallback={
           <div className="gallery-carousel">

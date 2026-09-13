@@ -92,6 +92,7 @@ const cosmeticSchema = z
     nameOriginal: z.string().min(1),
     romanization: z.string().min(1),
     category: z.enum(["outfit", "hair", "weapon_skin", "effect", "accessory", "mount"]),
+    secondaryCategories: z.array(z.enum(["outfit", "hair", "weapon_skin", "effect", "accessory", "mount"])).optional(),
     sourceId: z.string(),
     acquisitionServer: z.enum(["CN", "Global"]).optional(),
     mediaServer: z.enum(["CN", "Global"]).optional(),

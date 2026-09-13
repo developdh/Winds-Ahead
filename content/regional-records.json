@@ -9132,7 +9132,8 @@
       "status": "released",
       "sourceIds": [
         "global-1bf16bd98a9a",
-        "global-94c483cc789e"
+        "global-94c483cc789e",
+        "global-x-20260813-magpie-bridge"
       ],
       "verifiedAt": "2026-09-13",
       "releaseDate": "2026-08-16",
@@ -13037,6 +13038,156 @@
       "identityBasis": {
         "en": "Named CN appearance in the retained official announcement; an exact release day has not been established.",
         "ko": "보관된 공식 중국 예고의 외관명을 대조했습니다. 정확한 출시일은 확인되지 않았습니다."
+      }
+    },
+    {
+      "cosmeticId": "wu-sheng-gu",
+      "server": "Global",
+      "status": "announced",
+      "sourceIds": [
+        "global-x-20260912-bane-of-life"
+      ],
+      "verifiedAt": "2026-09-13",
+      "releaseDate": "2026-09-16",
+      "precision": "day",
+      "scope": {
+        "en": "After the September 16 version update (UTC); available until December 15, 2026 at 04:59 (UTC+8). Exact start hour is not stated.",
+        "ko": "9월 16일 업데이트 후(UTC) 출시 예정, 2026년 12월 15일 04:59(UTC+8)까지. 정확한 시작 시각은 미표기입니다."
+      },
+      "identityBasis": {
+        "en": "Matched the named CN and Global official artwork, including identical model, crown and ornaments.",
+        "ko": "이름이 표기된 중국·글로벌 공식 이미지의 모델·왕관·장식을 대조했습니다."
+      },
+      "acquisition": {
+        "kind": "unknown",
+        "pricing": "unknown",
+        "amount": null,
+        "regularAmount": null,
+        "currencyOriginal": null,
+        "location": {
+          "en": "Draw",
+          "ko": "추첨",
+          "original": "Draw"
+        },
+        "conditions": {
+          "en": "Official Global post identifies a Draw set but does not state its currency, price, exchange quantity or individual included rewards. CN costs are not Global prices.",
+          "ko": "글로벌 공지는 추첨 세트라고만 안내하며 재화·가격·교환 수량·개별 구성품은 명시하지 않았습니다. 중국 비용을 글로벌 가격으로 사용하지 않습니다."
+        },
+        "en": "Global Draw announcement; exact terms under review.",
+        "ko": "글로벌 추첨 공지 · 세부 조건 확인 중."
+      }
+    },
+    {
+      "cosmeticId": "chu-xin-pei",
+      "server": "Global",
+      "status": "announced",
+      "confirmationPending": true,
+      "sourceIds": [
+        "global-x-20260813-entwined-oath-mist-veiled-pass"
+      ],
+      "verifiedAt": "2026-09-13",
+      "releaseDate": "2026-08-16",
+      "precision": "day",
+      "scope": {
+        "en": "Official announced date: August 16, 2026 at 00:00 (UTC+8). This archive has not recorded a later release confirmation; current availability is unverified.",
+        "ko": "공식 예고일은 2026년 8월 16일 00:00(UTC+8)입니다. 이후 실제 출시 확인은 아직 기록하지 않았으며 현재 획득 가능 여부는 미확인입니다."
+      },
+      "identityBasis": {
+        "en": "Matched the named official CN reference with the corresponding Global promotional image.",
+        "ko": "이름이 붙은 공식 중국 자료와 글로벌 홍보 이미지의 동일한 외형을 대조했습니다."
+      },
+      "acquisition": {
+        "kind": "unknown",
+        "pricing": "unknown",
+        "amount": null,
+        "regularAmount": null,
+        "currencyOriginal": null,
+        "location": {
+          "en": "Under review",
+          "ko": "확인 중",
+          "original": "Unspecified"
+        },
+        "conditions": {
+          "en": "This Global announcement does not state the price or required currency. CN conditions are separate.",
+          "ko": "글로벌 공지에 가격과 재화가 명시되지 않았습니다. 중국 조건은 별개입니다."
+        },
+        "en": "See the official announcement.",
+        "ko": "공식 공지의 조건을 확인하세요."
+      }
+    },
+    {
+      "cosmeticId": "wu-yin-guan-luan",
+      "server": "Global",
+      "status": "announced",
+      "confirmationPending": true,
+      "sourceIds": [
+        "global-x-20260813-entwined-oath-mist-veiled-pass"
+      ],
+      "verifiedAt": "2026-09-13",
+      "releaseDate": "2026-08-16",
+      "precision": "day",
+      "scope": {
+        "en": "Official announced date: August 16, 2026 at 00:00 (UTC+8). This archive has not recorded a later release confirmation; current availability is unverified.",
+        "ko": "공식 예고일은 2026년 8월 16일 00:00(UTC+8)입니다. 이후 실제 출시 확인은 아직 기록하지 않았으며 현재 획득 가능 여부는 미확인입니다."
+      },
+      "identityBasis": {
+        "en": "Matched the named official CN reference with the corresponding Global promotional image.",
+        "ko": "이름이 붙은 공식 중국 자료와 글로벌 홍보 이미지의 동일한 외형을 대조했습니다."
+      },
+      "acquisition": {
+        "kind": "unknown",
+        "pricing": "unknown",
+        "amount": null,
+        "regularAmount": null,
+        "currencyOriginal": null,
+        "location": {
+          "en": "Under review",
+          "ko": "확인 중",
+          "original": "Unspecified"
+        },
+        "conditions": {
+          "en": "This Global announcement does not state the price or required currency. CN conditions are separate.",
+          "ko": "글로벌 공지에 가격과 재화가 명시되지 않았습니다. 중국 조건은 별개입니다."
+        },
+        "en": "See the official announcement.",
+        "ko": "공식 공지의 조건을 확인하세요."
+      }
+    },
+    {
+      "cosmeticId": "global-little-xiaoba",
+      "server": "Global",
+      "status": "announced",
+      "sourceIds": [
+        "global-x-20260908-little-xiaoba"
+      ],
+      "verifiedAt": "2026-09-13",
+      "releaseDate": null,
+      "precision": "unknown",
+      "scope": {
+        "en": "September 9–23 event; seven login days required. An exact item unlock date was not provided, so no calendar release day is manufactured.",
+        "ko": "9월 9~23일 이벤트의 7일 출석 보상입니다. 정확한 아이템 획득일이 명시되지 않아 캘린더 출시일을 임의로 만들지 않았습니다."
+      },
+      "identityBasis": {
+        "en": "Named Global accessory and official video poster; CN identity unverified.",
+        "ko": "글로벌 공식 공지의 이름과 영상 표지를 확인했으며 중국 동일 외관은 미확인입니다."
+      },
+      "acquisition": {
+        "kind": "event",
+        "pricing": "free",
+        "amount": null,
+        "regularAmount": null,
+        "currencyOriginal": null,
+        "location": {
+          "en": "Login event",
+          "ko": "출석 이벤트",
+          "original": "Login event"
+        },
+        "conditions": {
+          "en": "Log in on seven days during September 9–23, 2026. The announcement does not specify an exact unlock time or timezone.",
+          "ko": "2026년 9월 9~23일 중 7일 출석 보상입니다. 공지에는 정확한 획득 시작 시각과 시간대가 명시되지 않았습니다."
+        },
+        "en": "Seven-day login reward.",
+        "ko": "7일 출석 보상."
       }
     }
   ]

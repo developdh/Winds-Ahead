@@ -122,7 +122,7 @@ export default function Roadmap({ l, onCosmeticClick }: { l: Locale; onCosmeticC
           )}
         </div>
         <h3>
-          <Link href={`/${l}/cosmetics/${c.id}`} onClick={event => onCosmeticClick(event, c.id)} aria-haspopup="dialog">{nameOf(c, l)}</Link>
+          <Link href={`/${l}/cosmetics/${c.id}`} onClick={event => onCosmeticClick(event, c.id)} prefetch={false} aria-haspopup="dialog">{nameOf(c, l)}</Link>
         </h3>
         <p className="estimate-window">
           {f.precision === "month"
@@ -286,7 +286,7 @@ export default function Roadmap({ l, onCosmeticClick }: { l: Locale; onCosmeticC
                             key={e.id}
                             className={`day-event ${e.status === "cancelled" ? "cancelled" : ""}`}
                             href={`/${l}/cosmetics/${c.id}`}
-                            onClick={event => onCosmeticClick(event, c.id)}
+                            onClick={event => onCosmeticClick(event, c.id)} prefetch={false}
                             aria-haspopup="dialog"
                           >
                             <span>
@@ -312,7 +312,7 @@ export default function Roadmap({ l, onCosmeticClick }: { l: Locale; onCosmeticC
                 key={e.id}
                 className="agenda-event"
                 href={`/${l}/cosmetics/${c.id}`}
-                onClick={event => onCosmeticClick(event, c.id)}
+                onClick={event => onCosmeticClick(event, c.id)} prefetch={false}
                 aria-haspopup="dialog"
               >
                 <time dateTime={e.date}>{formatDay(e.date, l)}</time>
@@ -445,7 +445,7 @@ export default function Roadmap({ l, onCosmeticClick }: { l: Locale; onCosmeticC
         {unscheduled.length ? (
           <div className="unscheduled-list">
             {unscheduled.slice(0, 6).map((c) => (
-              <Link key={c.id} href={`/${l}/cosmetics/${c.id}`} onClick={event => onCosmeticClick(event, c.id)} aria-haspopup="dialog">
+              <Link key={c.id} href={`/${l}/cosmetics/${c.id}`} onClick={event => onCosmeticClick(event, c.id)} prefetch={false} aria-haspopup="dialog">
                 {imagesOf(c)[0] ? <img
                   src={imagesOf(c)[0].thumbnail}
                   alt=""
