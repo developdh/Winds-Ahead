@@ -3,14 +3,14 @@
 @import "../vendor/shadcn-tailwind-4.13.0.css";
 @font-face {
   font-family: WindsUI;
-  src: url("/fonts/winds-ui.woff2?v=751cb0079e1a") format("woff2");
+  src: url("/fonts/winds-ui.woff2?v=ae2b03f6a1c9") format("woff2");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: WindsHeading;
-  src: url("/fonts/winds-heading.woff2?v=ef54e1f6dc6b") format("woff2");
+  src: url("/fonts/winds-heading.woff2?v=cf3cba430812") format("woff2");
   font-weight: 500;
   font-style: normal;
   font-display: swap;
@@ -3608,6 +3608,10 @@ body:before {
   border: 0;
   min-width: 0;
 }
+.archive-toolbar .filters-row > [data-slot="tabs"] {
+  width: 100%;
+  min-width: 0;
+}
 .category-tabs {
   display: flex;
   gap: 25px;
@@ -3615,7 +3619,9 @@ body:before {
   height: auto;
   border: 0;
   background: none;
-  overflow: visible;
+  max-width: 100%;
+  overflow-x: auto;
+  scrollbar-width: none;
 }
 .category-tabs button {
   border: 0;
@@ -5538,4 +5544,7 @@ body {
 .media-pending { display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 18px; padding: 32px; text-align: center; color: var(--muted-foreground); background: radial-gradient(ellipse at 50% 38%, #242624, #111310 70%); width: 100%; height: 100%; }
 .media-pending > span { font-family: WindsHeading, serif; font-size: clamp(48px, 7vw, 86px); font-weight: 500; opacity: .17; line-height: 1; }
 .media-pending small { font-size: 12px; max-width: 28ch; line-height: 1.8; }
-.detail-image.media-pending { min-height: 400px; aspect-ratio: 6/7.1; }
+.detail-image.media-pending { height: auto; min-height: 300px; aspect-ratio: auto; }
+.detail-image.media-pending > span { position: static; transform: none; padding: 0; border: 0; background: none; backdrop-filter: none; font-size: 64px; }
+.detail-image.media-pending p { margin: 0; }
+@media (max-width: 640px) { .detail-image.media-pending { min-height: 250px; padding: 26px; } }

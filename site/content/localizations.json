@@ -3015,5 +3015,803 @@
       "en": "Outfit documented in the official Global archive. Regional availability and acquisition are recorded separately.",
       "ko": "공식 글로벌 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
     }
+  },
+  "global-magpie-s-farewell": {
+    "koName": "Magpie's Farewell",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-formless-disguise": {
+    "koName": "Formless Disguise",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-fleethoof": {
+    "koName": "Fleethoof",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-desert-wail": {
+    "koName": "Desert Wail",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-high-score": {
+    "koName": "High Score",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-silent-voice-kun-umbra": {
+    "koName": "Silent Voice: Kun Umbra",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-waveborn-majesty": {
+    "koName": "Waveborn Majesty",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-sinking-sun": {
+    "koName": "Sinking Sun",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-chasing-moonlight": {
+    "koName": "Chasing Moonlight",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-scarlet-sparrow": {
+    "koName": "Scarlet Sparrow",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-roaring-waves": {
+    "koName": "Roaring Waves",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-hollow-strokes": {
+    "koName": "Hollow Strokes",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-melody-of-dawn": {
+    "koName": "Melody of Dawn",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-green-veil": {
+    "koName": "Green Veil",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-flicker-of-faces": {
+    "koName": "Flicker of Faces",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-soaring-ambition": {
+    "koName": "Soaring Ambition",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-inkstone-reverie": {
+    "koName": "Inkstone Reverie",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-nine-tails-legacy": {
+    "koName": "Nine-Tails' Legacy",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-dancing-moonlight": {
+    "koName": "Dancing Moonlight",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-dragon-protector": {
+    "koName": "Dragon Protector",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-crystal-cascade": {
+    "koName": "Crystal Cascade",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-bamboo-spear": {
+    "koName": "Bamboo Spear",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-pursuing-leopard": {
+    "koName": "Pursuing Leopard",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-lilac-reverie": {
+    "koName": "Lilac Reverie",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-silent-voice-cosmos-sweep": {
+    "koName": "Silent Voice: Cosmos Sweep",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-serpent-s-spine": {
+    "koName": "Serpent's Spine",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-scorched-paths": {
+    "koName": "Scorched Paths",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-moon-gazer": {
+    "koName": "Moon Gazer",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-woven-sunlight": {
+    "koName": "Woven Sunlight",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-golden-aura": {
+    "koName": "Golden Aura",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-evergreen-magnolia": {
+    "koName": "Evergreen Magnolia",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-white-clad-asura": {
+    "koName": "White-clad Asura",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-general-s-glory": {
+    "koName": "General's Glory",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-soaring-crane": {
+    "koName": "Soaring Crane",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-feathered-grace": {
+    "koName": "Feathered Grace",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-frosted-plume": {
+    "koName": "Frosted Plume",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-crimson-glow": {
+    "koName": "Crimson Glow",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-rime-white-moon": {
+    "koName": "Rime-white Moon",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-waking-warbler": {
+    "koName": "Waking Warbler",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-reflected-blush": {
+    "koName": "Reflected Blush",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-moonlit-inquiry": {
+    "koName": "Moonlit Inquiry",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-benevolent-donkey": {
+    "koName": "Benevolent Donkey",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-little-mouser": {
+    "koName": "Little Mouser",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-moonfade": {
+    "koName": "Moonfade",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-argent-gleam": {
+    "koName": "Argent Gleam",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-flower-of-youth": {
+    "koName": "Flower of Youth",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-gilded-dream": {
+    "koName": "Gilded Dream",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-fading-harvest": {
+    "koName": "Fading Harvest",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-perky-perch": {
+    "koName": "Perky Perch",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-vermillion-dawnbreak": {
+    "koName": "Vermillion Dawnbreak",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-mirrored-heart": {
+    "koName": "Mirrored Heart",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-scorpion-s-heart": {
+    "koName": "Scorpion's Heart",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-silent-voice-dawnriven": {
+    "koName": "Silent Voice: Dawnriven",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-tiger-s-bane": {
+    "koName": "Tiger's Bane",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-fieryheart-of-war": {
+    "koName": "Fieryheart of War",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-bactrian-camel": {
+    "koName": "Bactrian Camel",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-moonlit-umbra": {
+    "koName": "Moonlit Umbra",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-crane-pierces-the-azure-sky": {
+    "koName": "Crane Pierces the Azure Sky",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-parting-arrow": {
+    "koName": "Parting Arrow",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-sacrificial-flame": {
+    "koName": "Sacrificial Flame",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-yin-yang-unveiled": {
+    "koName": "Yin-Yang Unveiled",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-rain-kissed-lotus": {
+    "koName": "Rain-kissed Lotus",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-moonlit-pavilion": {
+    "koName": "Moonlit Pavilion",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-boundless-heart": {
+    "koName": "Boundless Heart",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-dusk-rider": {
+    "koName": "Dusk Rider",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-leap-of-tumult": {
+    "koName": "Leap of Tumult",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-shaliwa-s-guise": {
+    "koName": "Shaliwa's Guise",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-where-clouds-repose": {
+    "koName": "Where Clouds Repose",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-sundered-vow": {
+    "koName": "Sundered Vow",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-lute-of-love": {
+    "koName": "Lute of Love",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-northern-star-s-dominion": {
+    "koName": "Northern Star's Dominion",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-unfurling-lotus": {
+    "koName": "Unfurling Lotus",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "zhui-bu-shang-e": {
+    "koName": "追不上鹅",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "yun-tou-zhuan-miao": {
+    "koName": "晕头转喵",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "xia-zhe-wu-ming": {
+    "koName": "侠者无名",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "yu-shan-san-e": {
+    "koName": "玉山三鹅",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "bu-xian-shen-xian": {
+    "koName": "不羡神仙",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "e-de-jiang-hu": {
+    "koName": "鹅的江湖",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "banlong-shen": {
+    "koName": "扮龙神",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "ding-hua-hu": {
+    "koName": "顶花虎",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "zhu-tong-qu": {
+    "koName": "逐童趣",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-launch-purple-dew-hairstyle": {
+    "koName": "Purple Dew",
+    "description": {
+      "en": "Hairstyle documented in the official Global archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 글로벌 자료에서 확인한 헤어입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "global-graceful-fox": {
+    "koName": "Graceful Fox",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-forest-sovereign": {
+    "koName": "Forest Sovereign",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-radiant-majesty": {
+    "koName": "Radiant Majesty",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-crimson-cloud": {
+    "koName": "Crimson Cloud",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-moonlit-howl": {
+    "koName": "Moonlit Howl",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-clear-frost": {
+    "koName": "Clear Frost",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-imperial-stag": {
+    "koName": "Imperial Stag",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-broom-and-rooster": {
+    "koName": "Broom and Rooster",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-silent-night-bell": {
+    "koName": "Silent Night Bell",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-goose-buster": {
+    "koName": "Goose Buster",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-starfrost-butterfly": {
+    "koName": "Starfrost Butterfly",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-severing-halberd": {
+    "koName": "Severing Halberd",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-mountain-s-veil": {
+    "koName": "Mountain's Veil",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-waking-brush": {
+    "koName": "Waking Brush",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-silent-voice-phoenix-ascent": {
+    "koName": "Silent Voice: Phoenix Ascent",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-inkveil-peak": {
+    "koName": "Inkveil Peak",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-moonlight-voyage": {
+    "koName": "Moonlight Voyage",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-vajra-s-awe": {
+    "koName": "Vajra's Awe",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-silent-voice-sunstriking": {
+    "koName": "Silent Voice: Sunstriking",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-twilight-of-dragons": {
+    "koName": "Twilight of Dragons",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-tiger-spring-reverie": {
+    "koName": "Tiger Spring Reverie",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-mist-of-dawn": {
+    "koName": "Mist of Dawn",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-leaning-on-the-wind": {
+    "koName": "Leaning on the Wind",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-toad-s-luminescence": {
+    "koName": "Toad's Luminescence",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-guardian-of-spirit": {
+    "koName": "Guardian of Spirit",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-returning-sparrow-dream": {
+    "koName": "Returning Sparrow Dream",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-wind-blows-into-the-painting": {
+    "koName": "Wind Blows into the Painting",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-bone-appetite": {
+    "koName": "Bone Appetite!",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-glassy-expanse": {
+    "koName": "Glassy Expanse",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-bluebird-s-blade": {
+    "koName": "Bluebird's Blade",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-crystal-surf": {
+    "koName": "Crystal Surf",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-harmonic-core-meow": {
+    "koName": "Harmonic Core: Meow",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
   }
 }

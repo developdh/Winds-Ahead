@@ -2,24 +2,24 @@
 
 [한국어](../ko/cross-server-catalog.md)
 
-The September 13, 2026 expansion covers China and Global appearances, including free rewards, accessories and mounts. Intake is in progress. The official announcement archive is a source inventory, not proof of the total number of items in either game client.
+The September 13, 2026 update expands 40 appearance records to **545**, with **455 static reference images** for 356 records. Official sources support 403 CN records and 215 Global records; **73 cross-server identities** have been linked through named artwork. Counts describe records, not a certified unique in-game total: unresolved regional matches can remain separate.
 
-## Regional records
+## What is included
 
-Cards show servers with verified historical release records. The server selector filters China, Global, or both; an absent badge means unverified, not unavailable or exclusive. Detail pages show each server independently, with source links, scope, review date and the rationale for matching differently named appearances. A release record does not assert current shop availability. Announcements and unknown dates remain distinct from released items and exact dates.
+Outfits, hair, weapons, effects, accessories (including clearly labeled companion cosmetics), and mounts. The Global intake includes 27 permanent launch-reward entries and 186 dated listing events. CN and Global prices, requirements, dates and current-availability limitations remain separate. Catalog cards prefer the documented Global acquisition terms when present and show the pricing server. Details show each server with its sources. Unknown is not exclusive or unreleased.
 
-`site/content/regional-records.json` records reviewed server evidence separately from calendar events. Existing verified CN records retain their primary-source history. Global-only records can use a Global source and leave their CN date unknown. Official English and Korean names take precedence when verified; original names and provisional aliases remain searchable. CN prices are never copied to Global.
+Official English/Korean names take precedence where reviewed; Chinese originals and provisional aliases remain searchable. Earlier Global records retain their reviewed English identifiers where Korean naming has not been checked. Four launch-reward Korean naming conflicts, differing launch dates (EN November 14 / KO November 15), and ambiguous currency wording are preserved. No timezone is invented; May source clock times explicitly retain UTC+8 in scope.
 
-## Collection workflow
+## Evidence and coverage
 
-Read complete official news indexes, extract named appearance sections, inspect associated game images, review acquisition facts, compare regional identities, and then add validated records. Machine-extracted headings and community catalogs remain research queues until reviewed. Do not count a weapon style, recolor, hairstyle or body variant as a distinct outfit without checking its item identity. Keep source media and temporary OCR output outside Git; commit bounded static derivatives and provenance only.
+The [source inventory](../research/2026-09-13-inventory.json) retains 601 CN index entries, 470 parsed CN pages, 565 raw name/category candidates, the 64-entry Global index, and 57 community catalog leads. Extraction candidates are not a game-total claim. Each published record has a primary official source; community captures are imagery only and cannot establish release dates or prices. Missing individual images are explicitly marked rather than filled with a different costume. Original files and OCR are outside Git; only bounded derivatives and provenance are committed.
 
-The initial page still renders 24 cards, with more loaded on request. All catalog images remain static; videos remain click-to-play. Additional content must not reintroduce animated thumbnails or eagerly mount a large media gallery.
+Random boxes and packages are distinguished from their individual contents. Six umbrella styles and three accessory components use their own images, and package/draw costs are not represented as fixed individual prices. A repeated English name in outfit and hair categories remains two records (for example Purple Dew).
 
-## Progress and validation
+## Performance and review
 
-The first implementation adds server filtering, independent regional evidence, Global-primary support and explicit free-reward acquisition semantics. Type checking and 21 domain/media tests pass at this foundation milestone. Full content coverage, real-item regional matching and final responsive checks are pending the intake batches; no all-items-complete claim is made.
+The first page renders 24 cards; more are shown on request. Thumbnails are static WebP, capped at 160 KB each; gallery files are capped at 2.5 MB each. GIF originals become a single still. No new autoplay video or remote iframe is introduced. Existing effect playback remains click-to-play. Media with unknown redistribution permission remains an owner-private reference preview; this update does not change access.
 
-## First content milestone
+GitHub milestones preserve the regional-data foundation, the first 431-record cohort, and the final archive review. Completed checks: schema/reference integrity; 21 domain/media tests; TypeScript; forecast-history preservation; and a successful production build. In-app Chromium checks covered CN/Global/both filters, official-name search, language/back-link state, and a no-image hair detail. Catalog and detail widths of 320, 360, 390, 768, 1024, and 1440 px were checked; an overflowing English category strip was fixed. The production build rendered 24 cards, zero video/iframe players, no broken loaded images, and no browser console errors in the checked catalog.
 
-431 appearance records, 361 static images, 87 Global regional records (60 dated listings and 27 launch rewards), and 48 visual CN/Global identity links were validated on September 13, 2026. 144 cited official source pages support this cohort. Some known appearances have no individually verified picture and explicitly say image under review. Source-linked historical notices can establish existence without establishing the first release date or current price. Earlier Global update overviews are being incorporated in the next cohort.
+The four visible thumbnails at 320 px total 175,936 bytes on disk; this is an asset-size check, not a network or Core Web Vitals measurement. Fonts total 315,176 bytes. All emitted client JavaScript, including lazy chunks, totals 368,241 bytes gzip; the full catalog data contributes a 153,497-byte gzip chunk. The 200 KB initial-JavaScript target is not certified: route-level data splitting and a throttled network measurement remain performance follow-ups. No physical iOS/Android device, Firefox, WebKit, field INP, or slow-network result is claimed. This expansion does not certify that every in-game cosmetic has been captured.

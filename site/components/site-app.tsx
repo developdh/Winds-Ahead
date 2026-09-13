@@ -486,7 +486,7 @@ function Catalog({
       </div>
       <div className="archive-caption">
         <span role="status">
-          {items.length} {t("cosmetics", "개의 외관")}
+          {items.length} {t("appearance records", "개의 외관 기록")}
         </span>
         <label className="server-filter">
           <span className="sr-only">{t("Release server", "출시 서버")}</span>
@@ -596,13 +596,13 @@ function Detail({
               ))}
             </div>
           )}
-          <p className="media-credit">
+          {images.length > 0 && <p className="media-credit">
             {c.mediaKind === "gameplay" ? "© NetEase · GamerSky / 瑞破受气包" : "© NetEase"} ·{" "}
             {t(
               "Game appearance reference. Check source and server details below.",
               "게임 외관 참고 이미지. 출처와 서버는 아래에서 확인하세요.",
             )}
-          </p>
+          </p>}
         </section>
         <section className="detail-copy">
           <div className="detail-title">
@@ -819,7 +819,7 @@ function About({ l }: { l: Locale }) {
           <p>
             {t(
               "Winds Ahead brings China and Global cosmetic records together with acquisition details, regional sources, and a release roadmap. It is not affiliated with or endorsed by NetEase or Everstone Studio.",
-              "연운경은 중국 서버의 공식 외관 미리보기와 획득 정보, 글로벌 확인 상태, 출시 로드맵을 함께 정리합니다. NetEase 및 Everstone Studio와 제휴하거나 공식 인증을 받은 사이트가 아닙니다.",
+              "연운경은 중국·글로벌 서버의 외관 기록과 획득 정보, 서버별 출처, 출시 로드맵을 함께 정리합니다. NetEase 및 Everstone Studio와 제휴하거나 공식 인증을 받은 사이트가 아닙니다.",
             )}
           </p>
           <h2>
@@ -851,14 +851,14 @@ function About({ l }: { l: Locale }) {
           <h2>{t("Names, dates, and media", "이름·날짜·미디어")}</h2>
           <p>
             {t(
-              "Chinese names identify the original cosmetics. Korean readings and English romanizations are provisional. Date-only records stay date-only. Unknown time zones are not converted.",
-              "중국 원명으로 외관을 식별합니다. 한국어 독음과 영어 로마자 표기는 편의 표기입니다. 날짜만 알려진 기록에 시각을 붙이거나 미확인 시간대를 변환하지 않습니다.",
+              "Reviewed official English and Korean names take precedence. Chinese originals and provisional readings remain searchable. Unresolved regional identities stay separate; the record count is not a certified game total. Date-only records stay date-only. Unknown time zones are not converted.",
+              "확인한 영어·한국어 공식명을 우선하며 중국 원명과 편의 표기도 검색할 수 있습니다. 동일 외관인지 미확인인 서버별 기록은 따로 유지하므로 기록 수가 게임 전체의 고유 외관 수를 뜻하지는 않습니다. 날짜만 알려진 기록에 시각을 붙이거나 미확인 시간대를 변환하지 않습니다.",
             )}
           </p>
           <p>
             {t(
-              "This private MVP uses reduced official reference images for review. Rights remain with their owners; attribution does not establish redistribution permission. Public media clearance is still pending.",
-              "비공개 MVP는 검토용으로 크기를 줄인 공식 참고 이미지를 사용합니다. 권리는 원저작자에게 있으며 출처 표기는 재배포 허가를 뜻하지 않습니다. 공개 서비스용 미디어 권한은 확인이 필요합니다.",
+              "This private MVP uses reduced official and credited community reference images for review. Rights remain with their owners; attribution does not establish redistribution permission. Public media clearance is still pending.",
+              "비공개 MVP는 검토용으로 크기를 줄인 공식 이미지와 출처를 명시한 커뮤니티 참고 이미지를 사용합니다. 권리는 원저작자에게 있으며 출처 표기는 재배포 허가를 뜻하지 않습니다. 공개 서비스용 미디어 권한은 확인이 필요합니다.",
             )}
           </p>
           <h2>{t("Your watchlist", "관심 목록")}</h2>
