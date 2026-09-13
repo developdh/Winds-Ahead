@@ -30,6 +30,7 @@ import {
   History,
   SlidersHorizontal,
 } from "lucide-react";
+import { regionalRecord, releasedOn, matchesServer, latestRelease, serverName, stateName } from "@/lib/regional-status";
 import { rememberLocale } from "@/lib/language-preference";
 import CosmeticVideos from "@/components/cosmetic-videos";
 import AcquisitionInfo from "@/components/acquisition-info";
@@ -149,7 +150,7 @@ export default function SiteApp({
   const langUrl = `${path.replace(/^\/(en|ko)(?=\/|$)/, l === "ko" ? "/en" : "/ko")}${params.toString() ? "?" + params.toString() : ""}`;
   const item = itemId ? findCosmetic(itemId) : undefined;
   const backParams = new URLSearchParams();
-  for (const k of ["q", "category"]) {
+  for (const k of ["q", "category", "server"]) {
     const v = params.get(k);
     if (v) backParams.set(k, v);
   }
@@ -181,7 +182,7 @@ export default function SiteApp({
   const card = (c: Cosmetic, i: number) => {
     const m = imagesOf(c)[0];
     const acquisition = c.acquisition;
-    const globalStatus = globalLabel(c.id, l);
+    const acquisitionServer = c.acquisitionServer ?? "CN";
     return (
       <article
         className="cosmetic-card"
@@ -197,7 +198,7 @@ export default function SiteApp({
             src={m.thumbnail}
             width={600}
             height={710}
-            alt={`${c.nameOriginal} · ${t("Official CN promotional preview", "중국 공식 미리보기")}`}
+            alt={`${c.nameOriginal} · ${t("Game appearance preview", "게임 외관 미리보기")}`}
             loading={i < 3 ? "eager" : "lazy"}
             fetchPriority={i === 0 ? "high" : "auto"}
             decoding="async"
@@ -219,22 +220,21 @@ export default function SiteApp({
             <span className="original-name" lang="zh-Hans" title={c.nameOriginal}>
               {c.nameOriginal}
             </span>
-            <span className="card-price" title={`CN · ${acquisitionSummary(c, l)}`}>
+            <span className="card-price" title={`${serverName(acquisitionServer, l)} · ${acquisitionSummary(c, l)}`}>
               {acquisition.pricing === 'fixed' ? <>
                 <span className="card-price-amount">{acquisition.amount!.toLocaleString(l === 'ko' ? 'ko-KR' : 'en-US')}</span>
                 <span>{currencyName(acquisition.currencyOriginal, l)}</span>
-              </> : acquisition.pricing === 'draw' ? t('Draw', '추첨') : acquisition.pricing === 'pass' ? t('Paid pass', '유료 강호령') : acquisition.kind === 'milestone' ? t('Milestone', '단계 보상') : t('Unpriced', '수량 미정')}
+              </> : acquisition.pricing === 'free' ? t('Free', '무료') : acquisition.pricing === 'draw' ? t('Draw', '추첨') : acquisition.pricing === 'pass' ? t('Paid pass', '유료 강호령') : acquisition.kind === 'milestone' ? t('Milestone', '단계 보상') : t('Unpriced', '수량 미정')}
             </span>
           </div>
           <div className="card-meta">
-            <span className="card-location" title={`CN · ${acquisition.location[l]}`}>
-              <span className="sr-only">{t('CN acquisition: ', '중국 획득처: ')}</span>{acquisition.location[l]}
+            <span className="card-location" title={`${serverName(acquisitionServer, l)} · ${acquisition.location[l]}`}>
+              <span className="sr-only">{serverName(acquisitionServer, l)} · </span>{acquisition.location[l]}
             </span>
             <span className="card-meta-separator" aria-hidden="true">·</span>
-            <span className="card-global" title={globalStatus}>
-              <Globe2 size={12} aria-hidden="true" />
-              <span className="sr-only">{t('Global: ', '글로벌: ')}</span>
-              {globalStatus.split(' · ')[1]}
+            <span className="card-servers" aria-label={t("Verified release servers", "출시 확인 서버")}>
+              {(["CN", "Global"] as const).filter(server => releasedOn(c, server)).map(server => <span key={server} title={`${serverName(server, l)} · ${stateName("released", l)}`}>{server === "CN" ? "CN" : t("Global", "글로벌")}</span>)}
+              {!releasedOn(c, "CN") && !releasedOn(c, "Global") && <span>{t("Announced", "발표됨")}</span>}
             </span>
           </div>
         </div>
@@ -376,22 +376,27 @@ function Catalog({
   const params = useSearchParams();
   const [query, setQuery] = useState(params.get("q") ?? "");
   const [visibleCount, setVisibleCount] = useState(24);
+  const [server, setServer] = useState(params.get("server") ?? "all");
   const initial = params.get("category") ?? "all";
   const [category, setCategory] = useState(
     initial in categoryNames ? initial : "all",
   );
   useEffect(() => {
     setQuery(params.get("q") ?? "");
+    const s = params.get("server") ?? "all";
+    setServer(["all", "cn", "global", "both"].includes(s) ? s : "all");
     const c = params.get("category") ?? "all";
     setCategory(c in categoryNames ? c : "all");
   }, [params]);
-  useEffect(() => { setVisibleCount(24); }, [query, category, view]);
-  function update(q: string, c: string) {
+  useEffect(() => { setVisibleCount(24); }, [query, category, server, view]);
+  function update(q: string, c: string, region = server) {
     setQuery(q);
     setCategory(c);
+    setServer(region);
     const p = new URLSearchParams(window.location.search);
     q ? p.set("q", q) : p.delete("q");
     c !== "all" ? p.set("category", c) : p.delete("category");
+    region !== "all" ? p.set("server", region) : p.delete("server");
     p.delete("sort");
     history.replaceState(
       null,
@@ -402,11 +407,11 @@ function Catalog({
   const items = useMemo(
     () =>
       searchCosmetics(query, category)
-        .filter((c) => view !== "watchlist" || saved.includes(c.id))
+        .filter((c) => (view !== "watchlist" || saved.includes(c.id)) && matchesServer(c, server))
         .sort((a, b) =>
-          (b.cnRelease.date ?? "").localeCompare(a.cnRelease.date ?? ""),
+          latestRelease(b).localeCompare(latestRelease(a)),
         ),
-    [query, category, view, saved],
+    [query, category, server, view, saved],
   );
   return (
     <>
@@ -482,12 +487,15 @@ function Catalog({
         <span role="status">
           {items.length} {t("cosmetics", "개의 외관")}
         </span>
-        <span>
-          {t(
-            "CN archive · Global dates checked separately",
-            "중국 출시 기록 · 글로벌 일정 별도 확인",
-          )}
-        </span>
+        <label className="server-filter">
+          <span className="sr-only">{t("Release server", "출시 서버")}</span>
+          <NativeSelect value={server} onChange={e => update(query, category, e.target.value)} aria-label={t("Release server", "출시 서버")}>
+            <option value="all">{t("All servers", "모든 서버")}</option>
+            <option value="cn">{t("Released in China", "중국 출시")}</option>
+            <option value="global">{t("Released globally", "글로벌 출시")}</option>
+            <option value="both">{t("Released in both", "양쪽 서버 출시")}</option>
+          </NativeSelect>
+        </label>
       </div>
       {view === "watchlist" && !ready ? (
         <div className="empty-state" role="status">
@@ -495,7 +503,7 @@ function Catalog({
         </div>
       ) : items.length ? (
         <>
-          <div className="cosmetic-grid" key={category}>
+          <div className="cosmetic-grid" key={`${category}:${server}`}>
             {items.slice(0, visibleCount).map(card)}
           </div>
           {items.length > visibleCount && <div className="archive-more"><button className="text-link" onClick={() => setVisibleCount(n => n + 24)}>{t("Show more", "더 보기")} · {visibleCount} / {items.length}</button></div>}
@@ -504,7 +512,7 @@ function Catalog({
         <div className="empty-state">
           <Bookmark size={30} />
           <h2>
-            {query || category !== "all"
+            {query || category !== "all" || server !== "all"
               ? t("No matching cosmetics", "일치하는 외관이 없어요")
               : t(
                   "A place for your next favorites",
@@ -512,7 +520,7 @@ function Catalog({
                 )}
           </h2>
           <p>
-            {query || category !== "all"
+            {query || category !== "all" || server !== "all"
               ? t(
                   "Try a different name or clear your filters.",
                   "다른 이름을 검색하거나 필터를 초기화하세요.",
@@ -522,10 +530,10 @@ function Catalog({
                   "외관 카드의 책갈피를 누르면 여기에 저장됩니다.",
                 )}
           </p>
-          {query || category !== "all" ? (
+          {query || category !== "all" || server !== "all" ? (
             <button
               className="outline-button"
-              onClick={() => update("", "all")}
+              onClick={() => update("", "all", "all")}
             >
               {t("Reset filters", "필터 초기화")}
             </button>
@@ -590,20 +598,20 @@ function Detail({
           <p className="media-credit">
             © NetEase ·{" "}
             {t(
-              "Official CN preview. Final in-game appearance may differ.",
-              "중국 공식 미리보기. 실제 게임 내 모습과 다를 수 있습니다.",
+              "Game appearance reference. Check source and server details below.",
+              "게임 외관 참고 이미지. 출처와 서버는 아래에서 확인하세요.",
             )}
           </p>
         </section>
         <section className="detail-copy">
           <div className="detail-title">
             <p className="eyebrow">
-              CN ARCHIVE / {categoryNames[c.category as Category][l]}
+              {categoryNames[c.category as Category][l]}
             </p>
             <h1>{nameOf(c, l)}</h1>
             <p className="detail-original">
               <span lang="zh-Hans">{c.nameOriginal}</span>
-              <span>{t("Provisional name", "편의 표기")}</span>
+              <span>{(l === "ko" ? c.officialNameKo : c.officialNameEn) ? t("Official name", "공식 명칭") : t("Provisional name", "편의 표기")}</span>
             </p>
             <p className="detail-description">{descriptions[c.id][l]}</p>
           </div>
@@ -619,9 +627,9 @@ function Detail({
               <ArrowUpRight size={16} />
             </a>
           </div>
-          <AcquisitionInfo c={c} l={l} />
           <GlobalPanel c={c} l={l} />
-          <div className="facts">
+          <AcquisitionInfo c={c} l={l} />
+          {source.server === "CN" && <div className="facts">
             <h2>
               <ShieldCheck size={18} />
               {t("China server facts", "중국 서버 정보")}
@@ -647,7 +655,7 @@ function Detail({
                 "과거 공지 기록이며 현재 판매 중이라는 뜻은 아닙니다. 원문에 시간대가 명시되지 않았습니다.",
               )}
             </p>
-          </div>
+          </div>}
         </section>
       </div>
       <div className="detail-bottom">
@@ -665,9 +673,8 @@ function Detail({
             {formatDay(source.displayedPublicationDate, l)}
           </p>
           <p>
-            {t("CN source reviewed", "중국 원문 확인")}{" "}
-            {formatDay(verifiedAt, l)} ·{" "}
-            {t("Global status unverified", "글로벌 정보 미확인")}
+            {t("Source reviewed", "원문 확인")}{" "}
+            {formatDay(verifiedAt, l)}
           </p>
           <small>
             {t(
@@ -675,7 +682,7 @@ function Detail({
               "주소의 날짜와 다를 수 있는 실제 공지 화면의 게시일을 기록했습니다. 출시일은 공지 본문을 기준으로 하며 시간대를 추정하지 않습니다.",
             )}
           </small>
-          {c.cnRelease.contextual && <p>{t("The September 9 announcement says these items arrive after tomorrow’s update. September 10 is derived from that wording; an exact hour was not stated.", "9월 9일 공지의 ‘내일 업데이트’와 각 항목의 업데이트 후 출시 안내를 연결해 9월 10일로 기록했습니다. 정확한 시각은 명시되지 않았습니다.")}</p>}
+          {c.cnRelease.contextual && <p>{t("The release day is derived from the update context, not the URL date. An exact time is not assumed.", "출시일은 주소의 날짜가 아닌 업데이트 문맥으로 확인했습니다. 정확한 시각은 추정하지 않습니다.")}</p>}
         </details>
         {c.category !== "effect" && c.officialVideos.length > 0 && <CosmeticVideos key={c.id} c={c} l={l} />}
       </div>
@@ -692,57 +699,23 @@ function Detail({
   );
 }
 function GlobalPanel({ c, l }: { c: Cosmetic; l: Locale }) {
-  const t = (en: string, ko: string) => (l === "ko" ? ko : en);
-  const e = globalEventFor(c.id);
-  return (
-    <div className="status-panel">
-      <div className="status-heading">
-        <Globe2 size={18} />
-        <h2>{t("Global release", "글로벌 출시")}</h2>
-        <span className="badge unknown">
-          {e
-            ? e.status === "released"
-              ? t("Released", "출시 기록")
-              : t("Announced", "발표됨")
-            : t("Not verified", "확인 중")}
-        </span>
-      </div>
-      {e ? (
-        <>
-          <p>
-            {formatDay(e.date, l)} · {e.scope[l]}
-          </p>
-          {e.sourceIds.map((id) => {
-            const s = globalSources.find((x) => x.id === id);
-            return s ? (
-              <a
-                className="text-link"
-                key={id}
-                href={s.url}
-                target="_blank"
-                rel="noreferrer"
-              >
-                {s.titleOriginal}
-                <ArrowUpRight size={15} />
-              </a>
-            ) : null;
-          })}
-        </>
-      ) : (
-        <p>
-          {t(
-            "Release date and official localized name are not verified yet.",
-            "출시일과 공식 한국어명은 아직 확인되지 않았습니다.",
-          )}
-        </p>
-      )}
-      <Link className="text-link" href={`/${l}/calendar`}>
-        {t("View calendar", "캘린더 보기")}
-        <ArrowRight size={15} />
-      </Link>
-    </div>
-  );
+  const t = (en: string, ko: string) => l === "ko" ? ko : en;
+  return <section className="regional-panel" aria-labelledby={`servers-${c.id}`}>
+    <h2 id={`servers-${c.id}`}>{t("Release servers", "출시 서버")}</h2>
+    <div className="regional-rows">{(["CN", "Global"] as const).map(server => {
+      const r = regionalRecord(c, server);
+      return <div className="regional-row" key={server}>
+        <div className="regional-row-title"><span>{serverName(server, l)}</span><span className={`regional-state ${r?.status ?? "unknown"}`}>{stateName(r?.status ?? "unknown", l)}</span></div>
+        {r ? <>
+          {r.releaseDate && <time dateTime={r.releaseDate}>{formatDay(r.releaseDate, l)}</time>}
+          <details className="regional-evidence"><summary>{t("Source & scope", "출처와 범위")}</summary><p>{r.scope[l]}</p><p>{r.identityBasis[l]}</p>{r.sourceIds.map(id => { const source = allSources.find(s => s.id === id); return source && <a key={id} href={source.url} target="_blank" rel="noreferrer">{source.titleOriginal}<ArrowUpRight size={13} /></a>; })}<small>{t("Checked", "확인")} {formatDay(r.verifiedAt, l)}</small></details>
+        </> : <p>{t("No verified release record yet.", "출시 근거를 아직 확인하지 못했습니다.")}</p>}
+      </div>;
+    })}</div>
+    <p className="small-muted">{t("A release record does not mean it is currently on sale.", "출시 기록이며 현재 판매 중이라는 뜻은 아닙니다.")}</p>
+  </section>;
 }
+
 function Updates({ l }: { l: Locale }) {
   const t = (en: string, ko: string) => (l === "ko" ? ko : en);
   return (

@@ -12,8 +12,8 @@ const bilingual = z.object({
 const day = z.string().refine(isDay, "Use a real YYYY-MM-DD date");
 z.record(bilingual).parse(terminology.currencies);
 export const acquisitionSchema = bilingual.extend({
-  kind: z.enum(["shop", "exchange", "exchange_shop", "limited_draw", "seasonal_draw", "battle_pass", "milestone"]),
-  pricing: z.enum(["fixed", "draw", "pass", "unknown"]),
+  kind: z.enum(["shop", "exchange", "exchange_shop", "limited_draw", "seasonal_draw", "battle_pass", "milestone", "event", "exploration", "quest", "achievement", "sect", "unknown"]),
+  pricing: z.enum(["fixed", "draw", "pass", "free", "unknown"]),
   amount: z.number().int().positive().nullable(),
   regularAmount: z.number().int().positive().nullable(),
   currencyOriginal: z.string().refine(v => Object.hasOwn(terminology.currencies, v), "Unknown currency").nullable(),
@@ -22,8 +22,10 @@ export const acquisitionSchema = bilingual.extend({
 }).passthrough().superRefine((a, ctx) => {
   const bad = message => ctx.addIssue({ code: z.ZodIssueCode.custom, message });
   const expected = ["limited_draw", "seasonal_draw"].includes(a.kind) ? "draw" : a.kind === "battle_pass" ? "pass" : a.kind === "milestone" ? "unknown" : "fixed";
-  const unpriced = a.pricing === "unknown" && ["shop", "exchange", "exchange_shop", "milestone"].includes(a.kind);
-  if (a.pricing !== expected && !unpriced) bad("Pricing must match the acquisition method");
+  const reward = ["event", "exploration", "quest", "achievement", "sect"].includes(a.kind);
+  const unpriced = a.pricing === "unknown" && !["limited_draw", "seasonal_draw"].includes(a.kind);
+  const free = a.pricing === "free" && reward && a.conditions !== null;
+  if (a.pricing !== expected && !unpriced && !free) bad("Pricing must match the acquisition method");
   if (a.pricing === "unknown" && !a.conditions) bad("Unknown amounts require source context");
   if (a.pricing === "fixed" && (a.amount === null || a.currencyOriginal === null)) bad("Fixed costs need a quantity and currency");
   if (a.pricing !== "fixed" && (a.amount !== null || a.regularAmount !== null)) bad("Unverified prices and reward totals must remain null");
@@ -88,8 +90,10 @@ const cosmeticSchema = z
     id: z.string().regex(/^[a-z0-9-]+$/),
     nameOriginal: z.string().min(1),
     romanization: z.string().min(1),
-    category: z.enum(["outfit", "hair", "weapon_skin", "effect"]),
+    category: z.enum(["outfit", "hair", "weapon_skin", "effect", "accessory", "mount"]),
     sourceId: z.string(),
+    acquisitionServer: z.enum(["CN", "Global"]).optional(),
+    mediaServer: z.enum(["CN", "Global"]).optional(),
     cnRelease: z
       .object({
         date: day.nullable(),
@@ -217,8 +221,10 @@ export function validateContent(research, media, forecastData, globalData) {
     }
   }
   for (const c of base.cosmetics) {
-    if (bySource.get(c.sourceId)?.server !== "CN")
-      throw new Error("CN facts require a CN source");
+    const primary = bySource.get(c.sourceId);
+    if (!primary) throw new Error("Missing cosmetic source");
+    if (c.cnRelease.date && primary.server !== "CN") throw new Error("CN facts require a CN source");
+    if ((c.acquisitionServer ?? "CN") !== primary.server) throw new Error("Acquisition server must match its source");
     for (const video of c.officialVideos) {
       if (!bySource.has(video.sourceId))
         throw new Error(`Unknown video source ${video.sourceId}`);
@@ -271,6 +277,32 @@ export function validateContent(research, media, forecastData, globalData) {
     globalEvents: global.events.length,
   };
 }
+export function validateRegional(research, globalData, regionalData) {
+  const schema = z.object({
+    schemaVersion: z.literal(1), verifiedAt: day,
+    records: z.array(z.object({
+      cosmeticId: z.string(), server: z.enum(["CN", "Global"]),
+      status: z.enum(["released", "announced"]), sourceIds: z.array(z.string()).min(1),
+      verifiedAt: day, releaseDate: day.nullable(), precision: z.enum(["day", "unknown"]),
+      scope: bilingual, identityBasis: bilingual,
+    }).strict().superRefine((r, ctx) => {
+      if ((r.releaseDate === null) !== (r.precision === "unknown")) ctx.addIssue({code:z.ZodIssueCode.custom,message:"Regional date precision must match its value"});
+      if (r.status === "released" && r.releaseDate && r.releaseDate > r.verifiedAt) ctx.addIssue({code:z.ZodIssueCode.custom,message:"Future listing cannot be released"});
+    })),
+  }).strict();
+  const data = schema.parse(regionalData);
+  const ids = new Set(research.cosmetics.map(c => c.id));
+  const sources = new Map([...research.sources, ...globalData.sources].map(s => [s.id,s]));
+  unique(data.records.map(r => `${r.cosmeticId}:${r.server}`), "regional record");
+  for (const r of data.records) {
+    if (!ids.has(r.cosmeticId)) throw new Error("Unknown regional cosmetic");
+    if (r.sourceIds.some(id => !sources.has(id))) throw new Error("Unknown regional source");
+    if (!r.sourceIds.some(id => sources.get(id).server === r.server)) throw new Error("Regional status needs evidence from that server");
+    if (r.verifiedAt > data.verifiedAt) throw new Error("Record review cannot follow the batch review");
+  }
+  return { regionalRecords: data.records.length };
+}
+
 export function validateEditorial(
   research,
   globalData,
@@ -327,6 +359,7 @@ if (
   const read = (name) =>
     JSON.parse(fs.readFileSync(path.join(root, "content", name), "utf8"));
   const media = read("media.json");
+  console.log(validateRegional(read("research.json"), read("global-events.json"), read("regional-records.json")));
   console.log(
     validateContent(
       read("research.json"),

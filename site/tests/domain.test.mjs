@@ -16,6 +16,7 @@ import {
   acquisitionSchema,
   forecastSchema,
   validateEditorial,
+  validateRegional,
   videoSchema,
   validateContent,
 } from "../scripts/validate-content.mjs";
@@ -254,4 +255,22 @@ test('unpriced exchanges and milestones preserve unknown costs without becoming 
   }
   assert.equal(acquisitionSchema.safeParse({...milestone, pricing: 'fixed', amount: 1, currencyOriginal: '八音窍'}).success, false);
   assert.equal(acquisitionSchema.safeParse({...exchange, kind: 'limited_draw'}).success, false);
+});
+
+
+test("regional release evidence cannot cross servers or manufacture dates", () => {
+  const record = { cosmeticId: research.cosmetics[0].id, server: "CN", status: "released", sourceIds: [research.sources[0].id], verifiedAt: "2026-09-13", releaseDate: null, precision: "unknown", scope: {en:"Test",ko:"테스트"}, identityBasis: {en:"Test",ko:"테스트"} };
+  const data = {schemaVersion:1,verifiedAt:"2026-09-13",records:[record]};
+  assert.equal(validateRegional(research, read("global-events.json"), data).regionalRecords, 1);
+  assert.throws(() => validateRegional(research, read("global-events.json"), {...data, records:[{...record,server:"Global"}]}), /that server/);
+  assert.throws(() => validateRegional(research, read("global-events.json"), {...data, records:[{...record,releaseDate:"2026-09-16",precision:"day"}]}), /Future listing/);
+  assert.throws(() => validateRegional(research, read("global-events.json"), {...data, records:[record,record]}), /Duplicate regional/);
+});
+
+test("free rewards need a documented reward method rather than an unknown price", () => {
+  const base = {en:"Reward",ko:"보상",kind:"event",pricing:"free",amount:null,regularAmount:null,currencyOriginal:null,location:{en:"Event",ko:"이벤트",original:"Event"},conditions:{en:"Earned by participation",ko:"참여 보상"}};
+  assert.ok(acquisitionSchema.safeParse(base).success);
+  assert.equal(acquisitionSchema.safeParse({...base,conditions:null}).success,false);
+  assert.equal(acquisitionSchema.safeParse({...base,kind:"shop"}).success,false);
+  assert.equal(acquisitionSchema.safeParse({...base,amount:0}).success,false);
 });

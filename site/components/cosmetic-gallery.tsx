@@ -21,7 +21,7 @@ export default function CosmeticGallery({ c, l, selected, onSelect }: {
     <Dialog>
       <DialogTrigger asChild>
         <button className="detail-image" aria-label={t("Open full official image", "공식 이미지 크게 보기")}>
-          <img src={images[selected].thumbnail} width={600} height={710} alt={`${c.nameOriginal} · ${t("Official CN preview", "중국 공식 미리보기")}`} fetchPriority="high" />
+          <img src={images[selected].thumbnail} width={600} height={710} alt={`${c.nameOriginal} · ${t("Game appearance preview", "게임 외관 미리보기")}`} fetchPriority="high" />
           <span><ZoomIn size={17} />{t("View full image", "전체 이미지 보기")}</span>
         </button>
       </DialogTrigger>
@@ -31,7 +31,7 @@ export default function CosmeticGallery({ c, l, selected, onSelect }: {
             <div className="gallery-header">
               <div>
                 <DialogTitle>{nameOf(c, l)}</DialogTitle>
-                <DialogDescription>{t("Official CN promotional image · NetEase", "중국 공식 홍보 이미지 · NetEase")}</DialogDescription>
+                <DialogDescription>{t("Game appearance reference · NetEase", "게임 외관 참고 이미지 · NetEase")}</DialogDescription>
               </div>
               <DialogClose className="icon-button gallery-close" aria-label={t("Close gallery", "갤러리 닫기")}><X size={21} /></DialogClose>
             </div>

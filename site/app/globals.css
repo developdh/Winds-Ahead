@@ -5510,3 +5510,26 @@ body {
   .acquisition-price > strong { font-size: 27px; }
   .acquisition-info dl > div { grid-template-columns: 84px minmax(0, 1fr); gap: 14px; }
 }
+
+/* Verified release records stay compact beside acquisition details. */
+.card-servers { display: inline-flex; align-items: center; gap: 7px; flex-shrink: 0; font-size: 12px; color: #a4bfad; }
+.card-servers > span + span::before { content: "/"; margin-right: 7px; opacity: .4; }
+.server-filter { display: inline-flex; min-width: 142px; }
+.server-filter select { min-height: 44px; background: transparent; border-color: transparent; color: var(--muted-foreground); font-size: 14px; padding-right: 30px; }
+.regional-panel { padding: 26px 0; border-top: 1px solid var(--border); }
+.regional-panel h2 { font-family: var(--font-body); font-size: 16px; font-weight: 400; margin: 0 0 18px; }
+.regional-rows { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; }
+.regional-row { min-width: 0; }
+.regional-row-title { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 6px 12px; font-size: 16px; }
+.regional-state { font-size: 12px; color: var(--muted-foreground); }
+.regional-state.released { color: #9cc7ad; }
+.regional-state.announced { color: #d5bd89; }
+.regional-row time, .regional-row > p { display: block; margin: 9px 0 0; color: var(--muted-foreground); font-size: 13px; line-height: 1.6; }
+.regional-evidence { margin-top: 9px; font-size: 13px; color: var(--muted-foreground); }
+.regional-evidence summary { cursor: pointer; padding: 5px 0; }
+.regional-evidence p { line-height: 1.65; margin: 8px 0; }
+.regional-evidence a { display: block; line-height: 1.6; margin: 8px 0; overflow-wrap: anywhere; }
+.regional-evidence a svg { display: inline; margin-left: 5px; }
+.regional-evidence small { display: block; margin-top: 10px; }
+.regional-panel > .small-muted { margin-top: 17px; font-size: 12px; }
+@media (max-width: 640px) { .regional-panel { padding: 20px 0; } .regional-rows { gap: 18px; } .card-servers { font-size: 11px; gap: 5px; } .card-servers > span + span::before { margin-right: 5px; } }
