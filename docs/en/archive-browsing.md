@@ -55,3 +55,7 @@ In-app Chromium: checked Korean/English detail dialogs, photo arrows, nested enl
 Viewport geometry at 320, 360, 390, 768, 1024 and 1440px kept the dialog inside the screen with no horizontal overflow. Dialog widths were 320, 360, 390, 704, 960 and 1000px; close targets remained 44px. EN 320px and KO 390px menus and photo-first layouts were visually inspected. The frame explicitly disables CSS size transitions, and changes photographs without scaling the outgoing frame.
 
 No physical mobile devices, Firefox/WebKit, 200% zoom, network throttling, native share destinations or live reduced-motion changes were tested. Reduced-motion and clipboard-failure paths were reviewed in code.
+
+## Build measurement
+
+The final production build emits 409,068 bytes of locally gzipped client JavaScript across all modules, including lazy modules (previous milestone: 388,229 bytes, +20,839). The largest catalog data module is 169,078 bytes gzip; the SiteApp module is 54,700 bytes gzip. Font subsets total 335,888 bytes. These are artifact measurements, not per-navigation transfer or field performance; the existing overall client budget remains unresolved. No new images or videos were added. Type checking, 28 tests, content validation and the production build passed.
