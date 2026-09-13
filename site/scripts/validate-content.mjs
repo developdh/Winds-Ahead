@@ -12,8 +12,8 @@ const bilingual = z.object({
 const day = z.string().refine(isDay, "Use a real YYYY-MM-DD date");
 z.record(bilingual).parse(terminology.currencies);
 export const acquisitionSchema = bilingual.extend({
-  kind: z.enum(["shop", "exchange", "exchange_shop", "limited_draw", "seasonal_draw", "battle_pass"]),
-  pricing: z.enum(["fixed", "draw", "pass"]),
+  kind: z.enum(["shop", "exchange", "exchange_shop", "limited_draw", "seasonal_draw", "battle_pass", "milestone"]),
+  pricing: z.enum(["fixed", "draw", "pass", "unknown"]),
   amount: z.number().int().positive().nullable(),
   regularAmount: z.number().int().positive().nullable(),
   currencyOriginal: z.string().refine(v => Object.hasOwn(terminology.currencies, v), "Unknown currency").nullable(),
@@ -21,10 +21,12 @@ export const acquisitionSchema = bilingual.extend({
   conditions: bilingual.nullable(),
 }).passthrough().superRefine((a, ctx) => {
   const bad = message => ctx.addIssue({ code: z.ZodIssueCode.custom, message });
-  const expected = ["limited_draw", "seasonal_draw"].includes(a.kind) ? "draw" : a.kind === "battle_pass" ? "pass" : "fixed";
-  if (a.pricing !== expected) bad("Pricing must match the acquisition method");
+  const expected = ["limited_draw", "seasonal_draw"].includes(a.kind) ? "draw" : a.kind === "battle_pass" ? "pass" : a.kind === "milestone" ? "unknown" : "fixed";
+  const unpriced = a.pricing === "unknown" && ["shop", "exchange", "exchange_shop", "milestone"].includes(a.kind);
+  if (a.pricing !== expected && !unpriced) bad("Pricing must match the acquisition method");
+  if (a.pricing === "unknown" && !a.conditions) bad("Unknown amounts require source context");
   if (a.pricing === "fixed" && (a.amount === null || a.currencyOriginal === null)) bad("Fixed costs need a quantity and currency");
-  if (a.pricing !== "fixed" && (a.amount !== null || a.regularAmount !== null)) bad("Unverified draw totals and pass prices must remain null");
+  if (a.pricing !== "fixed" && (a.amount !== null || a.regularAmount !== null)) bad("Unverified prices and reward totals must remain null");
   if (a.pricing === "draw" && a.currencyOriginal === null) bad("Draw rewards need their known draw currency");
   if (a.regularAmount !== null && (a.amount === null || a.regularAmount <= a.amount)) bad("A discount must be below its regular price");
 });

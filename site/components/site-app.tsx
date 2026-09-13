@@ -231,7 +231,7 @@ export default function SiteApp({
               {acquisition.pricing === 'fixed' ? <>
                 <span className="card-price-amount">{acquisition.amount!.toLocaleString(l === 'ko' ? 'ko-KR' : 'en-US')}</span>
                 <span>{currencyName(acquisition.currencyOriginal, l)}</span>
-              </> : acquisition.pricing === 'draw' ? t('Draw', '추첨') : t('Paid pass', '유료 강호령')}
+              </> : acquisition.pricing === 'draw' ? t('Draw', '추첨') : acquisition.pricing === 'pass' ? t('Paid pass', '유료 강호령') : acquisition.kind === 'milestone' ? t('Milestone', '단계 보상') : t('Unpriced', '수량 미정')}
             </span>
           </div>
           <div className="card-meta">

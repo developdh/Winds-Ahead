@@ -124,5 +124,159 @@
       "en": "Fiery red trails and sparks around an umbrella.",
       "ko": "우산을 감싸는 붉은 불꽃과 잔광."
     }
+  },
+  "fei-rong-qing-xiang": {
+    "koName": "비용청향",
+    "description": {
+      "en": "Jade green, gold and soft white feathers.",
+      "ko": "비취빛과 금빛, 흰 깃털이 어우러진 선녀 차림."
+    }
+  },
+  "zhen-han-liu": {
+    "koName": "침한류",
+    "description": {
+      "en": "Ink-white robes with blue irises.",
+      "ko": "푸른 붓꽃으로 장식한 먹빛과 흰색 도포."
+    }
+  },
+  "qian-nian-you-dai": {
+    "koName": "천년유대",
+    "description": {
+      "en": "Moon-white silk and lake-green layers.",
+      "ko": "호수빛 겹옷과 달빛 같은 흰 비단."
+    }
+  },
+  "qing-lin-fu-yu": {
+    "koName": "청린불우",
+    "description": {
+      "en": "Emerald silk, dark capes and serpent details.",
+      "ko": "청록 비단과 어두운 망토, 뱀을 본뜬 장식."
+    }
+  },
+  "long-teng-sui-yan": {
+    "koName": "용등세연",
+    "description": {
+      "en": "Flame-red robes with dragon ornaments.",
+      "ko": "용 장식이 돋보이는 불꽃빛 붉은 의상."
+    }
+  },
+  "ming-lu-xun-chun": {
+    "koName": "명록심춘",
+    "description": {
+      "en": "Golden antlers and orange-green silk.",
+      "ko": "금빛 사슴뿔과 주황·녹색 비단."
+    }
+  },
+  "dan-yuan-huan-yu": {
+    "koName": "단연환우",
+    "description": {
+      "en": "Black plumage and silver leopard details.",
+      "ko": "검은 깃털과 은빛 표범 장식."
+    }
+  },
+  "qing-feng-ying-xue": {
+    "koName": "청봉영설",
+    "description": {
+      "en": "White fur, aged gold and teal layers.",
+      "ko": "흰 털 장식과 고풍스러운 금빛·청록 옷자락."
+    }
+  },
+  "lian-du-you-luo": {
+    "koName": "연도유라",
+    "description": {
+      "en": "Violet lotus light and white fur.",
+      "ko": "보랏빛 연꽃과 흰 털 장식."
+    }
+  },
+  "wan-he-qing-xiang": {
+    "koName": "만학청향",
+    "description": {
+      "en": "Pale scholarly robes with landscape patterns.",
+      "ko": "산수 무늬를 담은 옅은 빛 문인 차림."
+    }
+  },
+  "you-hu-sui-sui": {
+    "koName": "유호수수",
+    "description": {
+      "en": "White and dark fox-inspired ceremonial robes.",
+      "ko": "흰 여우와 검은 여우의 형상을 담은 화려한 예복."
+    }
+  },
+  "feng-ru-hua": {
+    "koName": "풍입화",
+    "description": {
+      "en": "Earthy painter robes with colourful beadwork.",
+      "ko": "색색의 구슬과 소박한 화가의 옷차림."
+    }
+  },
+  "yin-pu-liu-yun": {
+    "koName": "은포유운",
+    "description": {
+      "en": "Pearlescent lavender silk and starlight.",
+      "ko": "별빛을 담은 진주광 연보라 비단."
+    }
+  },
+  "yao-si-han-que": {
+    "koName": "요사한궐",
+    "description": {
+      "en": "Floral court dress and flowing dark robes.",
+      "ko": "꽃으로 꾸민 궁중 의상과 유려한 검은 도포."
+    }
+  },
+  "qing-xiao-lue-ying": {
+    "koName": "청소략영",
+    "description": {
+      "en": "Dark falcon-inspired layers and gold embroidery.",
+      "ko": "매의 형상을 담은 어두운 겹옷과 금빛 자수."
+    }
+  },
+  "xuan-gu-zai-yuan": {
+    "koName": "현골재연",
+    "description": {
+      "en": "Black robes with icy skeletal ornaments.",
+      "ko": "얼음빛 뼈 장식이 돋보이는 검은 의상."
+    }
+  },
+  "qing-yuan-ru-hua": {
+    "koName": "경연입화",
+    "description": {
+      "en": "Fresh green layers and kite-inspired ornaments.",
+      "ko": "산뜻한 녹색 겹옷과 연을 본뜬 장식."
+    }
+  },
+  "nan-ming-you-meng": {
+    "koName": "남명유몽",
+    "description": {
+      "en": "Black and white with crimson butterfly accents.",
+      "ko": "흑백 바탕에 붉은 나비를 더한 의상."
+    }
+  },
+  "fu-chen-wu-ji": {
+    "koName": "복진무기",
+    "description": {
+      "en": "White and green dance-inspired robes.",
+      "ko": "흰색과 녹색으로 풀어낸 무용 의상."
+    }
+  },
+  "jin-lv-sheng-lan": {
+    "koName": "금루생란",
+    "description": {
+      "en": "White-gold silk and delicate orchid ornaments.",
+      "ko": "흰색·금색 비단과 섬세한 난초 장식."
+    }
+  },
+  "lian-tai-he": {
+    "koName": "연대학",
+    "description": {
+      "en": "White robes with blue-green lotus details.",
+      "ko": "청록 연꽃 장식과 흰 도포."
+    }
+  },
+  "zi-yu-xiang-man": {
+    "koName": "자유향만",
+    "description": {
+      "en": "Lavender robes and glass grape ornaments.",
+      "ko": "보랏빛 도포와 유리 포도 장식."
+    }
   }
 }

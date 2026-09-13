@@ -241,3 +241,17 @@ test('limited discounts retain a larger regular price', () => {
   assert.ok(acquisitionSchema.safeParse(a).success);
   for (const regularAmount of [1, 2]) assert.equal(acquisitionSchema.safeParse({...a, regularAmount}).success, false);
 });
+
+test('unpriced exchanges and milestones preserve unknown costs without becoming free or fixed', () => {
+  const base = research.cosmetics.find(c => c.id === 'jumang').acquisition;
+  const exchange = {...base, pricing: 'unknown', amount: null, regularAmount: null,
+    conditions: {en: 'Exchange quantity not stated in the source.', ko: '공지에 교환 수량 미표기.'}};
+  const milestone = {...exchange, kind: 'milestone', currencyOriginal: null};
+  for (const a of [exchange, milestone]) {
+    assert.ok(acquisitionSchema.safeParse(a).success);
+    for (const bad of [{...a, amount: 0}, {...a, amount: 1}, {...a, regularAmount: 2}, {...a, conditions: null}])
+      assert.equal(acquisitionSchema.safeParse(bad).success, false);
+  }
+  assert.equal(acquisitionSchema.safeParse({...milestone, pricing: 'fixed', amount: 1, currencyOriginal: '八音窍'}).success, false);
+  assert.equal(acquisitionSchema.safeParse({...exchange, kind: 'limited_draw'}).success, false);
+});

@@ -65,3 +65,9 @@ Final body selection: [Gowun Dodum Regular](https://github.com/google/fonts/tree
 The latest intake adds nine appearances and one martial-art effect from two official CN announcements, bringing the private archive to 18 cosmetics and 22 image derivatives. [English evidence and performance report](en/content-expansion.md) / [한국어 근거·성능 기록](ko/content-expansion.md).
 
 중국 공식 공지 두 건에서 외관 9종과 무술 이펙트 1종을 추가해 비공개 도감은 외관 18종, 이미지 파생본 22개가 되었습니다. 게시일과 상대 출시일의 차이, 경쟁 사이트의 움직이는 WebP 확인, 영상 압축·재생 기준은 위 양언어 문서에 기록했습니다.
+
+## Outfit expansion · 의상 확장 (2026-09-13)
+
+14 additional official CN articles support 22 more outfits and 44 static references: 40 cosmetics / 29 outfits / 66 images total. The [English record](en/outfit-expansion.md) retains the source mapping, historical costs, unknown values, and validation.
+
+중국 공식 공지 14개를 추가 확인해 의상 22종·정적 참고 사진 44장을 등록했습니다. 총 외관 40종 / 의상 29종 / 사진 66장이며, [한국어 기록](ko/outfit-expansion.md)에 출처 대응·당시 비용·미정 값·검증을 보존합니다.

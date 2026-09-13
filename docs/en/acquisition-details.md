@@ -6,7 +6,7 @@ Each catalog card shows a short CN price/method summary and acquisition location
 
 The compact card layout places the price beside the original name as small, quantity-first text without a multiplication sign or dedicated price row. Acquisition location and Global status share one line; a globe marks Global status, with its full label retained for assistive technology and hover. Long secondary names/locations may ellipsize on narrow cards; currency and quantity stay visible and detail pages retain the complete facts. Draw and paid-pass cards use short method labels rather than implying a fixed price.
 
-The 18-item snapshot contains 13 fixed-price purchases/exchanges, four draw rewards, and one paid battle-pass reward. The quantities are historical CN facts, not current availability or Global prices. No real-money conversion is calculated.
+The initial 18-item snapshot contains 13 fixed-price purchases/exchanges, four draw rewards, and one paid battle-pass reward. The quantities are historical CN facts, not current availability or Global prices. No real-money conversion is calculated.
 
 ## Evidence and terminology
 
@@ -18,7 +18,7 @@ The 18-item snapshot contains 13 fixed-price purchases/exchanges, four draw rewa
 
 ## Maintenance and validation
 
-`acquisition.pricing` is `fixed`, `draw`, or `pass`. Every record requires a bilingual `location` with an original CN identifier; unknown quantities remain `null`. Fixed purchases need a positive integer and known currency. Draw/pass entries cannot acquire a fabricated fixed amount, and a regular price must exceed its discounted amount. `conditions` retain optional bilingual restrictions. The earlier `en`/`ko` acquisition prose remains as evidence context; the structured fields drive the UI.
+`acquisition.pricing` is `fixed`, `draw`, `pass`, or `unknown`. Every record requires a bilingual `location` with an original CN identifier; unknown quantities remain `null`. Fixed purchases need a positive integer and known currency. Draw/pass entries cannot acquire a fabricated fixed amount, and a regular price must exceed its discounted amount. `conditions` retain optional bilingual restrictions. Unpriced exchanges and `milestone` rewards use `unknown`, null amounts, and mandatory bilingual conditions; the UI explains the requirements without implying a free reward. The [outfit expansion](outfit-expansion.md) brings the archive to 40 items. The earlier `en`/`ko` acquisition prose remains as evidence context; the structured fields drive the UI.
 
 Type checking, content validation, the 18-test domain/media suite and the production build pass. In-app Chromium checks covered KO fixed purchases, effect exchanges, discounted exchanges and draw conditions, plus EN paid-pass unknowns. Catalog geometry has no horizontal overflow at 320, 360, 390, 768, 1024 and 1440 CSS px. Desktop KO and narrow mobile KO/EN detail layouts were visually inspected. No warning/error console entries were observed. The catalog and unplayed effect detail contain no video element; this change adds no media requests. Physical-device and slow-network certification are not implied.
 
