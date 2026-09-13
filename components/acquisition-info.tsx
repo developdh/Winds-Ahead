@@ -1,0 +1,27 @@
+import { currencyName } from '@/lib/acquisition';
+import type { Cosmetic, Locale } from '@/lib/catalog';
+export default function AcquisitionInfo({ c, l }: { c: Cosmetic; l: Locale }) {
+  const a = c.acquisition;
+  const t = (en: string, ko: string) => l === 'ko' ? ko : en;
+  const fixed = a.pricing === 'fixed';
+  const currency = currencyName(a.currencyOriginal, l);
+  return <section className="acquisition-info" aria-labelledby={`acquisition-${c.id}`}>
+    <div className="acquisition-heading">
+      <h2 id={`acquisition-${c.id}`}>{t('How to obtain', '획득 정보')}</h2>
+      <span>{t('CN record', '중국 기준')}</span>
+    </div>
+    <p className="acquisition-price">
+      {fixed ? <><span>{currency}</span><strong>× {a.amount!.toLocaleString(l === 'ko' ? 'ko-KR' : 'en-US')}</strong></> :
+        <strong>{a.pricing === 'draw' ? t('Draw reward', '추첨 보상') : t('Paid battle pass', '유료 강호령')}</strong>}
+    </p>
+    {a.regularAmount !== null && <p className="acquisition-discount">{t('Limited discount', '한정 할인')} · {t('Regular price', '정가')} <s>{currency} × {a.regularAmount}</s></p>}
+    <dl>
+      <div><dt>{t('Where', '획득처')}</dt><dd>{a.location[l]}<small lang="zh-Hans">{a.location.original}</small></dd></div>
+      <div><dt>{t('Method', '획득 방식')}</dt><dd>{a.pricing === 'draw' ? t('Chance reward', '확률형 추첨') : a.pricing === 'pass' ? t('Purchase + level reward', '구매 후 레벨 보상') : a.kind === 'shop' ? t('Direct purchase', '직접 구매') : t('Currency exchange', '재화 교환')}</dd></div>
+      <div><dt>{t('Currency', '필요 재화')}</dt><dd>{currency ?? t('Not stated', '공지 미표기')}{a.currencyOriginal && <small lang="zh-Hans">{a.currencyOriginal}</small>}</dd></div>
+      {!fixed && <div><dt>{t('Required amount', '필요 수량')}</dt><dd>{a.pricing === 'draw' ? t('Total not established', '총 필요 수량 미정') : t('Price not stated', '구매 가격 미정')}</dd></div>}
+    </dl>
+    {a.conditions && <p className="acquisition-conditions">{a.conditions[l]}</p>}
+    <p className="acquisition-scope">{t('Historical CN terms. Global prices and current availability are checked separately.', '중국 공지 당시 조건입니다. 글로벌 가격과 현재 판매 여부는 별도로 확인합니다.')}</p>
+  </section>;
+}

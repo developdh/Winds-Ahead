@@ -4,11 +4,30 @@ import { fileURLToPath } from "node:url";
 import { z } from "zod";
 import { isDay, isMonth } from "../lib/roadmap-domain.mjs";
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
+const terminology = JSON.parse(fs.readFileSync(path.join(root, "content/terminology.json"), "utf8"));
 const bilingual = z.object({
   en: z.string().trim().min(1),
   ko: z.string().trim().min(1),
 });
 const day = z.string().refine(isDay, "Use a real YYYY-MM-DD date");
+z.record(bilingual).parse(terminology.currencies);
+export const acquisitionSchema = bilingual.extend({
+  kind: z.enum(["shop", "exchange", "exchange_shop", "limited_draw", "seasonal_draw", "battle_pass"]),
+  pricing: z.enum(["fixed", "draw", "pass"]),
+  amount: z.number().int().positive().nullable(),
+  regularAmount: z.number().int().positive().nullable(),
+  currencyOriginal: z.string().refine(v => Object.hasOwn(terminology.currencies, v), "Unknown currency").nullable(),
+  location: bilingual.extend({ original: z.string().trim().min(1) }),
+  conditions: bilingual.nullable(),
+}).passthrough().superRefine((a, ctx) => {
+  const bad = message => ctx.addIssue({ code: z.ZodIssueCode.custom, message });
+  const expected = ["limited_draw", "seasonal_draw"].includes(a.kind) ? "draw" : a.kind === "battle_pass" ? "pass" : "fixed";
+  if (a.pricing !== expected) bad("Pricing must match the acquisition method");
+  if (a.pricing === "fixed" && (a.amount === null || a.currencyOriginal === null)) bad("Fixed costs need a quantity and currency");
+  if (a.pricing !== "fixed" && (a.amount !== null || a.regularAmount !== null)) bad("Unverified draw totals and pass prices must remain null");
+  if (a.pricing === "draw" && a.currencyOriginal === null) bad("Draw rewards need their known draw currency");
+  if (a.regularAmount !== null && (a.amount === null || a.regularAmount <= a.amount)) bad("A discount must be below its regular price");
+});
 const sourceSchema = z
   .object({
     id: z.string().min(1),
@@ -81,7 +100,7 @@ const cosmeticSchema = z
         (x) => (x.date === null) === (x.precision === "unknown"),
         "Date precision must match its value",
       ),
-    acquisition: bilingual.passthrough(),
+    acquisition: acquisitionSchema,
     global: z.object({
       status: z.literal("unknown"),
       releaseDate: z.null(),

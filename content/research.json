@@ -93,7 +93,19 @@
         "eventOriginal": "昙霄清梦",
         "currencyOriginal": "瑶昙心",
         "en": "Chance reward from event draws.",
-        "ko": "기간 한정 이벤트 추첨 보상."
+        "ko": "기간 한정 이벤트 추첨 보상.",
+        "pricing": "draw",
+        "amount": null,
+        "regularAmount": null,
+        "location": {
+          "en": "Limited-time event",
+          "ko": "기간 한정 이벤트",
+          "original": "昙霄清梦"
+        },
+        "conditions": {
+          "en": "Chance reward. The first draw is free. Yao Tan Xin can be exchanged with Echo Jade or Echo Beads; Echo Jade exchanges are capped at 18 Yao Tan Xin. The exchange rate, cost per draw and total needed for this cosmetic are not stated.",
+          "ko": "추첨 보상이며 첫 추첨은 무료입니다. 장명옥·장명주로 요담심을 교환할 수 있고, 장명옥으로 교환 가능한 요담심은 최대 18개입니다. 교환 비율, 1회 소모량과 외관 획득까지의 총 필요 수량은 공지에 없습니다."
+        }
       },
       "cnEnd": {
         "localDateTime": "2025-10-20T05:00:00",
@@ -140,7 +152,19 @@
         "eventOriginal": "昙霄清梦",
         "currencyOriginal": "瑶昙心",
         "en": "Chance reward from event draws.",
-        "ko": "기간 한정 이벤트 추첨 보상."
+        "ko": "기간 한정 이벤트 추첨 보상.",
+        "pricing": "draw",
+        "amount": null,
+        "regularAmount": null,
+        "location": {
+          "en": "Limited-time event",
+          "ko": "기간 한정 이벤트",
+          "original": "昙霄清梦"
+        },
+        "conditions": {
+          "en": "Chance reward. The first draw is free. Yao Tan Xin can be exchanged with Echo Jade or Echo Beads; Echo Jade exchanges are capped at 18 Yao Tan Xin. The exchange rate, cost per draw and total needed for this cosmetic are not stated.",
+          "ko": "추첨 보상이며 첫 추첨은 무료입니다. 장명옥·장명주로 요담심을 교환할 수 있고, 장명옥으로 교환 가능한 요담심은 최대 18개입니다. 교환 비율, 1회 소모량과 외관 획득까지의 총 필요 수량은 공지에 없습니다."
+        }
       },
       "cnEnd": {
         "localDateTime": "2025-10-20T05:00:00",
@@ -187,7 +211,19 @@
         "eventOriginal": "和鸣·玉振扬音 / 南吕传响",
         "currencyOriginal": "绕梁之音",
         "en": "Chance reward; draw currency exchanged with 长鸣玉.",
-        "ko": "추첨 보상. 长鸣玉로 추첨 재화를 교환."
+        "ko": "추첨 보상. 长鸣玉로 추첨 재화를 교환.",
+        "pricing": "draw",
+        "amount": null,
+        "regularAmount": null,
+        "location": {
+          "en": "Seasonal draw",
+          "ko": "시즌 공명",
+          "original": "和鸣·玉振扬音 / 南吕传响"
+        },
+        "conditions": {
+          "en": "Chance reward using Lingering Melody exchanged with Echo Jade. The exchange rate, cost per draw and total needed for this cosmetic are not stated.",
+          "ko": "장명옥으로 교환한 음의 선율을 사용하는 추첨 보상입니다. 교환 비율, 1회 소모량과 외관 획득까지의 총 필요 수량은 공지에 없습니다."
+        }
       },
       "global": {
         "status": "unknown",
@@ -229,7 +265,19 @@
         "eventOriginal": "和鸣·玉振扬音 / 南吕传响",
         "currencyOriginal": "绕梁之音",
         "en": "Rare hairstyle reward from seasonal draws.",
-        "ko": "시즌 추첨의 고급 헤어 보상."
+        "ko": "시즌 추첨의 고급 헤어 보상.",
+        "pricing": "draw",
+        "amount": null,
+        "regularAmount": null,
+        "location": {
+          "en": "Seasonal draw",
+          "ko": "시즌 공명",
+          "original": "和鸣·玉振扬音 / 南吕传响"
+        },
+        "conditions": {
+          "en": "Chance reward using Lingering Melody exchanged with Echo Jade. The exchange rate, cost per draw and total needed for this cosmetic are not stated.",
+          "ko": "장명옥으로 교환한 음의 선율을 사용하는 추첨 보상입니다. 교환 비율, 1회 소모량과 외관 획득까지의 총 필요 수량은 공지에 없습니다."
+        }
       },
       "global": {
         "status": "unknown",
@@ -272,7 +320,18 @@
         "amount": 2580,
         "currencyOriginal": "长鸣珠",
         "en": "Limited shop purchase.",
-        "ko": "기간 한정 상점 구매."
+        "ko": "기간 한정 상점 구매.",
+        "pricing": "fixed",
+        "regularAmount": null,
+        "location": {
+          "en": "Shop",
+          "ko": "상점",
+          "original": "商店"
+        },
+        "conditions": {
+          "en": "Limited listing; includes the portrait and outfit accessories.",
+          "ko": "기간 한정 판매. 초상화와 의상 장신구를 포함합니다."
+        }
       },
       "cnEnd": {
         "localDateTime": "2025-10-26T05:00:00",
@@ -320,7 +379,18 @@
         "amount": 1,
         "currencyOriginal": "八音窍",
         "en": "Shop exchange; animated avatar included.",
-        "ko": "상점 교환. 움직이는 프로필 이미지 포함."
+        "ko": "상점 교환. 움직이는 프로필 이미지 포함.",
+        "pricing": "fixed",
+        "regularAmount": null,
+        "location": {
+          "en": "Draw Shop",
+          "ko": "공명 상점",
+          "original": "和鸣商店"
+        },
+        "conditions": {
+          "en": "Includes an animated portrait.",
+          "ko": "동적 초상화를 포함합니다."
+        }
       },
       "global": {
         "status": "unknown",
@@ -360,7 +430,20 @@
       "acquisition": {
         "kind": "battle_pass",
         "en": "Purchased battle pass at a required level; exact level unstated.",
-        "ko": "유료 배틀패스 지정 단계 달성. 정확한 단계는 공지에 미표기."
+        "ko": "유료 배틀패스 지정 단계 달성. 정확한 단계는 공지에 미표기.",
+        "pricing": "pass",
+        "amount": null,
+        "currencyOriginal": null,
+        "regularAmount": null,
+        "location": {
+          "en": "Battle pass",
+          "ko": "강호령",
+          "original": "战令"
+        },
+        "conditions": {
+          "en": "Purchase the battle pass and reach its required level. Price, payment currency and exact reward level are not stated in this announcement.",
+          "ko": "강호령을 구매하고 지정 레벨에 도달해야 합니다. 공지에는 구매 가격·결제 재화·정확한 보상 레벨이 명시되지 않았습니다."
+        }
       },
       "global": {
         "status": "unknown",
@@ -404,7 +487,18 @@
         "amount": 1,
         "currencyOriginal": "八音窍",
         "en": "Shop exchange; weapon reforging supports alternate appearances.",
-        "ko": "상점 교환. 무기 재련으로 외형 변경 가능."
+        "ko": "상점 교환. 무기 재련으로 외형 변경 가능.",
+        "pricing": "fixed",
+        "regularAmount": null,
+        "location": {
+          "en": "Draw Shop",
+          "ko": "공명 상점",
+          "original": "和鸣商店"
+        },
+        "conditions": {
+          "en": "Weapon reforging supports alternate appearances.",
+          "ko": "무기 재련으로 외형을 바꿀 수 있습니다."
+        }
       },
       "global": {
         "status": "unknown",
@@ -457,7 +551,18 @@
         "currencyOriginal": "八音窍",
         "amount": 2,
         "en": "和鸣商店 · 87-day listing. Separate top and bottom; accessories and animated portrait included.",
-        "ko": "和鸣商店 · 87일 한정. 상하의 분리, 장신구와 동적 초상화 포함."
+        "ko": "和鸣商店 · 87일 한정. 상하의 분리, 장신구와 동적 초상화 포함.",
+        "pricing": "fixed",
+        "regularAmount": null,
+        "location": {
+          "en": "Draw Shop",
+          "ko": "공명 상점",
+          "original": "和鸣商店"
+        },
+        "conditions": {
+          "en": "87-day listing. Separate top and bottom; accessories and animated portrait included.",
+          "ko": "87일 한정 판매. 상하의 분리, 장신구와 동적 초상화를 포함합니다."
+        }
       },
       "global": {
         "status": "unknown",
@@ -510,7 +615,18 @@
         "currencyOriginal": "长鸣珠",
         "amount": 1280,
         "en": "Shop · Separate top and bottom; dyeable.",
-        "ko": "상점 · 상하의 분리 및 염색 지원."
+        "ko": "상점 · 상하의 분리 및 염색 지원.",
+        "pricing": "fixed",
+        "regularAmount": null,
+        "location": {
+          "en": "Shop",
+          "ko": "상점",
+          "original": "商店"
+        },
+        "conditions": {
+          "en": "Separate top and bottom; dyeable.",
+          "ko": "상하의 분리와 염색을 지원합니다."
+        }
       },
       "global": {
         "status": "unknown",
@@ -563,7 +679,15 @@
         "currencyOriginal": "长鸣珠",
         "amount": 680,
         "en": "Shop · Hengdao appearance.",
-        "ko": "상점 · 횡도 외관."
+        "ko": "상점 · 횡도 외관.",
+        "pricing": "fixed",
+        "regularAmount": null,
+        "location": {
+          "en": "Shop",
+          "ko": "상점",
+          "original": "商店"
+        },
+        "conditions": null
       },
       "global": {
         "status": "unknown",
@@ -605,7 +729,15 @@
         "currencyOriginal": "长鸣珠",
         "amount": 60,
         "en": "Shop · Modao appearance.",
-        "ko": "상점 · 맥도 외관."
+        "ko": "상점 · 맥도 외관.",
+        "pricing": "fixed",
+        "regularAmount": null,
+        "location": {
+          "en": "Shop",
+          "ko": "상점",
+          "original": "商店"
+        },
+        "conditions": null
       },
       "global": {
         "status": "unknown",
@@ -647,7 +779,18 @@
         "currencyOriginal": "长鸣珠",
         "amount": 2580,
         "en": "Shop · Separate top and bottom; dyeable, with accessories and portrait.",
-        "ko": "상점 · 상하의 분리 및 염색, 장신구와 초상화 포함."
+        "ko": "상점 · 상하의 분리 및 염색, 장신구와 초상화 포함.",
+        "pricing": "fixed",
+        "regularAmount": null,
+        "location": {
+          "en": "Shop",
+          "ko": "상점",
+          "original": "商店"
+        },
+        "conditions": {
+          "en": "Separate top and bottom; dyeable. Includes accessories and a portrait.",
+          "ko": "상하의 분리와 염색을 지원하며 장신구와 초상화를 포함합니다."
+        }
       },
       "global": {
         "status": "unknown",
@@ -700,7 +843,18 @@
         "currencyOriginal": "八音窍",
         "amount": 1,
         "en": "和鸣商店 · 90-day listing; dyeable, animated portrait included.",
-        "ko": "和鸣商店 · 90일 한정. 염색 및 동적 초상화 포함."
+        "ko": "和鸣商店 · 90일 한정. 염색 및 동적 초상화 포함.",
+        "pricing": "fixed",
+        "regularAmount": null,
+        "location": {
+          "en": "Draw Shop",
+          "ko": "공명 상점",
+          "original": "和鸣商店"
+        },
+        "conditions": {
+          "en": "90-day listing; dyeable. Includes an animated portrait.",
+          "ko": "90일 한정 판매. 염색을 지원하고 동적 초상화를 포함합니다."
+        }
       },
       "global": {
         "status": "unknown",
@@ -742,7 +896,18 @@
         "currencyOriginal": "音玉",
         "amount": 2,
         "en": "和鸣-闻音商店 · Discounted from 3 音玉; listed until Nov 2, 05:00 (time zone unstated).",
-        "ko": "和鸣-闻音商店 · 정가 3 音玉에서 할인. 11월 2일 05:00까지, 시간대 미명시."
+        "ko": "和鸣-闻音商店 · 정가 3 音玉에서 할인. 11월 2일 05:00까지, 시간대 미명시.",
+        "pricing": "fixed",
+        "regularAmount": 3,
+        "location": {
+          "en": "Draw Shop · Wenyin",
+          "ko": "공명 상점 · 문음",
+          "original": "和鸣-闻音商店"
+        },
+        "conditions": {
+          "en": "Limited discount from September 4 to November 2, 2026 at 05:00. Time zone not stated.",
+          "ko": "2026년 9월 4일~11월 2일 05:00 한정 할인입니다. 시간대는 명시되지 않았습니다."
+        }
       },
       "global": {
         "status": "unknown",
@@ -789,7 +954,15 @@
         "currencyOriginal": "长鸣珠",
         "amount": 1280,
         "en": "Shop · Dual-blade appearance.",
-        "ko": "상점 · 쌍도 외관."
+        "ko": "상점 · 쌍도 외관.",
+        "pricing": "fixed",
+        "regularAmount": null,
+        "location": {
+          "en": "Shop",
+          "ko": "상점",
+          "original": "商店"
+        },
+        "conditions": null
       },
       "global": {
         "status": "unknown",
@@ -831,7 +1004,15 @@
         "currencyOriginal": "长鸣珠",
         "amount": 1280,
         "en": "Shop · Gauntlet appearance.",
-        "ko": "상점 · 수갑 외관."
+        "ko": "상점 · 수갑 외관.",
+        "pricing": "fixed",
+        "regularAmount": null,
+        "location": {
+          "en": "Shop",
+          "ko": "상점",
+          "original": "商店"
+        },
+        "conditions": null
       },
       "global": {
         "status": "unknown",
@@ -873,7 +1054,18 @@
         "currencyOriginal": "八音窍",
         "amount": 1,
         "en": "和鸣商店 · 九重春色 martial-art effect; includes 九重·灼魂 pose.",
-        "ko": "和鸣商店 · 九重春色 무술 이펙트. 九重·灼魂 자세 포함."
+        "ko": "和鸣商店 · 九重春色 무술 이펙트. 九重·灼魂 자세 포함.",
+        "pricing": "fixed",
+        "regularAmount": null,
+        "location": {
+          "en": "Draw Shop",
+          "ko": "공명 상점",
+          "original": "和鸣商店"
+        },
+        "conditions": {
+          "en": "Martial-art effect for 九重春色. Includes the 九重·灼魂 pose.",
+          "ko": "九重春色 무술 이펙트이며 九重·灼魂 자세를 포함합니다."
+        }
       },
       "global": {
         "status": "unknown",

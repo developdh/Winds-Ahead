@@ -13,6 +13,7 @@ import {
   shiftMonth,
 } from "../lib/roadmap-domain.mjs";
 import {
+  acquisitionSchema,
   forecastSchema,
   validateEditorial,
   videoSchema,
@@ -218,4 +219,25 @@ test('official effects require inspected provenance and a bounded local video', 
     {...v, playback: {...v.playback, src: v.watchUrl}},
     {...v, playback: {...v.playback, src: '/media/videos/../escape.mp4'}},
   ]) assert.equal(videoSchema.safeParse(bad).success, false);
+});
+
+test('fixed acquisition costs require a real quantity, currency and location', () => {
+  const a = research.cosmetics.find(c => c.id === 'jumang').acquisition;
+  assert.ok(acquisitionSchema.safeParse(a).success);
+  for (const bad of [{...a, amount: null}, {...a, amount: 0}, {...a, amount: -1}, {...a, currencyOriginal: null}, {...a, currencyOriginal: 'unknown'}, {...a, location: {...a.location, ko: ''}}])
+    assert.equal(acquisitionSchema.safeParse(bad).success, false);
+});
+test('draws and paid passes do not acquire invented fixed cosmetic prices', () => {
+  for (const id of ['zui-penglai', 'zongheng', 'yunzhong-jinshu']) {
+    const a=research.cosmetics.find(c=>c.id===id).acquisition;
+    assert.ok(acquisitionSchema.safeParse(a).success);
+    assert.equal(acquisitionSchema.safeParse({...a, amount: 1}).success, false);
+    assert.equal(acquisitionSchema.safeParse({...a, pricing: 'fixed', amount: 1}).success, false);
+  }
+});
+test('limited discounts retain a larger regular price', () => {
+  const a = research.cosmetics.find(c => c.id === 'xuanying-lianchen-buran').acquisition;
+  assert.equal(a.amount, 2); assert.equal(a.regularAmount, 3);
+  assert.ok(acquisitionSchema.safeParse(a).success);
+  for (const regularAmount of [1, 2]) assert.equal(acquisitionSchema.safeParse({...a, regularAmount}).success, false);
 });
