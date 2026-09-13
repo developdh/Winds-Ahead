@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "cosmeticId": "long-teng-sui-yan",
+  "titleOriginal": "龙腾岁宴",
+  "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E9%BE%99%E8%85%BE%E5%B2%81%E5%AE%B4",
+  "revisionUrl": "https://yy16s.huijiwiki.com/wiki/%E7%89%B9%E6%AE%8A:%E7%BC%96%E8%BE%91%E5%B7%AE%E5%BC%82/20671",
+  "checkedAt": "2026-09-13",
+  "license": "CC BY-NC-SA 3.0",
+  "articleAvailable": true,
+  "category": "sets",
+  "grade": {
+    "en": "Gold",
+    "ko": "금색"
+  },
+  "gradeOriginal": "金",
+  "styleScore": 4940,
+  "flags": {
+    "dye": true,
+    "tailoring": null,
+    "gifting": null,
+    "trading": true
+  },
+  "components": [
+    {
+      "nameOriginal": "发型",
+      "label": {
+        "en": "Hair",
+        "ko": "헤어"
+      },
+      "styleScore": 1800,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E9%BE%99%E8%85%BE%E5%B2%81%E5%AE%B4/%E5%8F%91%E5%9E%8B"
+    },
+    {
+      "nameOriginal": "上衣",
+      "label": {
+        "en": "Top",
+        "ko": "상의"
+      },
+      "styleScore": 1300,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E9%BE%99%E8%85%BE%E5%B2%81%E5%AE%B4/%E4%B8%8A%E8%A1%A3"
+    },
+    {
+      "nameOriginal": "下装",
+      "label": {
+        "en": "Bottom",
+        "ko": "하의"
+      },
+      "styleScore": 900,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E9%BE%99%E8%85%BE%E5%B2%81%E5%AE%B4/%E4%B8%8B%E8%A3%85"
+    },
+    {
+      "nameOriginal": "披挂1",
+      "label": {
+        "en": "Outerwear 1",
+        "ko": "겉옷 1"
+      },
+      "styleScore": 90,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E9%BE%99%E8%85%BE%E5%B2%81%E5%AE%B4/%E6%8A%AB%E6%8C%821"
+    },
+    {
+      "nameOriginal": "披挂2",
+      "label": {
+        "en": "Outerwear 2",
+        "ko": "겉옷 2"
+      },
+      "styleScore": 300,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E9%BE%99%E8%85%BE%E5%B2%81%E5%AE%B4/%E6%8A%AB%E6%8C%822"
+    },
+    {
+      "nameOriginal": "面饰",
+      "label": {
+        "en": "Face accessory",
+        "ko": "얼굴 장신구"
+      },
+      "styleScore": 50,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E9%BE%99%E8%85%BE%E5%B2%81%E5%AE%B4/%E9%9D%A2%E9%A5%B0"
+    },
+    {
+      "nameOriginal": "发饰",
+      "label": {
+        "en": "Hair ornament",
+        "ko": "머리 장신구"
+      },
+      "styleScore": 50,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E9%BE%99%E8%85%BE%E5%B2%81%E5%AE%B4/%E5%8F%91%E9%A5%B0"
+    },
+    {
+      "nameOriginal": "耳饰",
+      "label": {
+        "en": "Earrings",
+        "ko": "귀 장신구"
+      },
+      "styleScore": 50,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E9%BE%99%E8%85%BE%E5%B2%81%E5%AE%B4/%E8%80%B3%E9%A5%B0"
+    }
+  ],
+  "reportedComponentCount": null,
+  "collectionReward": {
+    "amount": 100,
+    "currencyOriginal": "长鸣玉",
+    "currency": {
+      "en": "Echo Jade",
+      "ko": "장명옥"
+    }
+  },
+  "resultsAnimation": {
+    "available": true,
+    "styleScore": 200
+  },
+  "acquisition": null,
+  "timing": null,
+  "weapon": null,
+  "martialArt": null,
+  "replacedMove": null,
+  "mountType": null,
+  "sourceFields": {
+    "染色": "✔",
+    "交易": "✔",
+    "风华值": "4940",
+    "集齐奖励": "长鸣玉 x100",
+    "结算演出": "有（200 风华）"
+  }
+}

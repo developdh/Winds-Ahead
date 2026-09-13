@@ -1,0 +1,142 @@
+{
+  "schemaVersion": 1,
+  "cosmeticId": "fu-chen-wu-ji",
+  "titleOriginal": "茯尘无寄",
+  "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E8%8C%AF%E5%B0%98%E6%97%A0%E5%AF%84",
+  "revisionUrl": "https://yy16s.huijiwiki.com/wiki/%E7%89%B9%E6%AE%8A:%E7%BC%96%E8%BE%91%E5%B7%AE%E5%BC%82/20604",
+  "checkedAt": "2026-09-13",
+  "license": "CC BY-NC-SA 3.0",
+  "articleAvailable": true,
+  "category": "sets",
+  "grade": {
+    "en": "Purple",
+    "ko": "보라"
+  },
+  "gradeOriginal": "紫",
+  "styleScore": 335,
+  "flags": {
+    "dye": true,
+    "tailoring": false,
+    "gifting": true,
+    "trading": false
+  },
+  "components": [
+    {
+      "nameOriginal": "发型",
+      "label": {
+        "en": "Hair",
+        "ko": "헤어"
+      },
+      "styleScore": 70,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E8%8C%AF%E5%B0%98%E6%97%A0%E5%AF%84/%E5%8F%91%E5%9E%8B"
+    },
+    {
+      "nameOriginal": "上衣",
+      "label": {
+        "en": "Top",
+        "ko": "상의"
+      },
+      "styleScore": 130,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E8%8C%AF%E5%B0%98%E6%97%A0%E5%AF%84/%E4%B8%8A%E8%A1%A3"
+    },
+    {
+      "nameOriginal": "下衣",
+      "label": {
+        "en": "Bottom",
+        "ko": "하의"
+      },
+      "styleScore": 80,
+      "sourceUrl": null
+    },
+    {
+      "nameOriginal": "耳饰",
+      "label": {
+        "en": "Earrings",
+        "ko": "귀 장신구"
+      },
+      "styleScore": 10,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E8%8C%AF%E5%B0%98%E6%97%A0%E5%AF%84/%E8%80%B3%E9%A5%B0"
+    },
+    {
+      "nameOriginal": "发饰",
+      "label": {
+        "en": "Hair ornament",
+        "ko": "머리 장신구"
+      },
+      "styleScore": 15,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E8%8C%AF%E5%B0%98%E6%97%A0%E5%AF%84/%E5%8F%91%E9%A5%B0"
+    },
+    {
+      "nameOriginal": "小型配饰一",
+      "label": {
+        "en": "Small accessory 1",
+        "ko": "소형 장신구 1"
+      },
+      "styleScore": 30,
+      "sourceUrl": null
+    },
+    {
+      "nameOriginal": "下装",
+      "label": {
+        "en": "Bottom",
+        "ko": "하의"
+      },
+      "styleScore": 80,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E8%8C%AF%E5%B0%98%E6%97%A0%E5%AF%84/%E4%B8%8B%E8%A3%85"
+    },
+    {
+      "nameOriginal": "颈饰",
+      "label": {
+        "en": "Neck accessory",
+        "ko": "목 장신구"
+      },
+      "styleScore": 10,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E8%8C%AF%E5%B0%98%E6%97%A0%E5%AF%84/%E9%A2%88%E9%A5%B0"
+    },
+    {
+      "nameOriginal": "小型配饰",
+      "label": {
+        "en": "Small accessory",
+        "ko": "소형 장신구"
+      },
+      "styleScore": 30,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E8%8C%AF%E5%B0%98%E6%97%A0%E5%AF%84/%E5%B0%8F%E5%9E%8B%E9%85%8D%E9%A5%B0"
+    }
+  ],
+  "reportedComponentCount": 6,
+  "collectionReward": {
+    "amount": 100,
+    "currencyOriginal": "长鸣玉",
+    "currency": {
+      "en": "Echo Jade",
+      "ko": "장명옥"
+    }
+  },
+  "resultsAnimation": null,
+  "acquisition": {
+    "original": "商场购买，1280长鸣珠。",
+    "en": "Shop · 1,280 Echo Beads",
+    "ko": "상점 · 장명주 1,280개"
+  },
+  "timing": {
+    "original": "2026年5月29日更新后至6月26日4:59期间限时上架",
+    "en": "2026-05-29 after update — 6/26 (year unstated)4:59 · limited availability",
+    "ko": "2026-05-29 업데이트 후 — 6/26 (연도 미표기)4:59 · 기간 한정",
+    "timezone": null
+  },
+  "weapon": null,
+  "martialArt": null,
+  "replacedMove": null,
+  "mountType": null,
+  "sourceFields": {
+    "染色": "✔",
+    "裁造": "✘",
+    "赠送": "✔",
+    "交易": "✘",
+    "部件数量": "6",
+    "风华值": "335",
+    "上线时间": "2026年5月29日更新后至6月26日4:59期间限时上架",
+    "获取方式": "商场购买，1280长鸣珠。",
+    "集齐奖励": "100长鸣玉"
+  }
+}

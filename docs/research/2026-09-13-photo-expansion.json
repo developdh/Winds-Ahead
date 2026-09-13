@@ -1,0 +1,762 @@
+{
+  "checkedAt": "2026-09-13",
+  "scope": "Official CN reference photos; no release, pricing, or Global identity changes.",
+  "assets": [
+    {
+      "cosmeticId": "kuai-zai-feng",
+      "index": 0,
+      "originalUrl": "https://nie.res.netease.com/r/pic/20250722/7ca72663-4c25-48c7-ba03-1d67dc6e5aa0.jpg",
+      "sourcePage": "https://www.yysls.cn/news/official/20250722/37780_1249066.html",
+      "server": "CN",
+      "sourceDimensions": {
+        "width": 2000,
+        "height": 3556
+      },
+      "originalSha256": "149cce9833565284b41960d9edfcf34d114d7b213f4ba99c2ee84211af3cf8dd",
+      "description": {
+        "en": "Male model wearing olive, black and silver robes, a broad hat and metal face accessory in a bamboo grove.",
+        "ko": "대나무 숲에서 올리브색·검정·은색 의복과 넓은 모자, 금속 얼굴 장식을 착용한 남성 모델."
+      },
+      "depictionStatus": "official_reference_or_promotional_preview",
+      "reusePermission": "unknown",
+      "checkedAt": "2026-09-13",
+      "thumbnailBytes": 57068,
+      "fullBytes": 483712
+    },
+    {
+      "cosmeticId": "kuai-zai-feng",
+      "index": 1,
+      "originalUrl": "https://nie.res.netease.com/r/pic/20250722/dd0d0102-a3e8-4871-84b7-bdef092a5f88.jpg",
+      "sourcePage": "https://www.yysls.cn/news/official/20250722/37780_1249066.html",
+      "server": "CN",
+      "sourceDimensions": {
+        "width": 2000,
+        "height": 3556
+      },
+      "originalSha256": "6bbc6f3a9048ef029c022a2946fabe5f236f259c5d2c633696058f266db35056",
+      "description": {
+        "en": "Female model wearing olive, black and silver robes, a broad hat and metal face accessory in a bamboo grove.",
+        "ko": "대나무 숲에서 올리브색·검정·은색 의복과 넓은 모자, 금속 얼굴 장식을 착용한 여성 모델."
+      },
+      "depictionStatus": "official_reference_or_promotional_preview",
+      "reusePermission": "unknown",
+      "checkedAt": "2026-09-13",
+      "thumbnailBytes": 56498,
+      "fullBytes": 485030
+    },
+    {
+      "cosmeticId": "jin-wu-wei",
+      "index": 0,
+      "originalUrl": "https://nie.res.netease.com/r/pic/20250408/d9b9d4f3-b824-4773-a992-210ae6635196.png",
+      "sourcePage": "https://www.yysls.cn/news/official/20250408/37780_1225783.html",
+      "server": "CN",
+      "sourceDimensions": {
+        "width": 3840,
+        "height": 2160
+      },
+      "originalSha256": "4eb35680c0166fd80eca95f5cc1a9a634bf94ca3f2c83e1713ba93bdb6487d54",
+      "description": {
+        "en": "Two models in dark armor with gold helmets and shoulders, holding weapons against a neutral backdrop.",
+        "ko": "중립 배경에서 금빛 투구와 어깨 장식이 있는 검은 갑옷을 입고 무기를 든 두 모델."
+      },
+      "depictionStatus": "official_reference_or_promotional_preview",
+      "reusePermission": "unknown",
+      "checkedAt": "2026-09-13",
+      "thumbnailBytes": 19346,
+      "fullBytes": 60850
+    },
+    {
+      "cosmeticId": "dan-que",
+      "index": 0,
+      "originalUrl": "https://nie.res.netease.com/r/pic/20250123/41553e0d-60d3-4dbc-b831-ec9ce2498de0.png",
+      "sourcePage": "https://www.yysls.cn/news/official/20250123/37780_1209208.html",
+      "server": "CN",
+      "sourceDimensions": {
+        "width": 3840,
+        "height": 2094
+      },
+      "originalSha256": "8572f5725be19ee1f2599d27350254351948b25fee88a99a0fb13d86f2982781",
+      "description": {
+        "en": "Official event interface showing the red, black and gold armored outfit beside its reward track.",
+        "ko": "보상 목록 옆에 붉은색·검정·금색 갑옷 외관을 보여 주는 공식 이벤트 화면."
+      },
+      "depictionStatus": "official_in_game_interface",
+      "reusePermission": "unknown",
+      "checkedAt": "2026-09-13",
+      "thumbnailBytes": 33516,
+      "fullBytes": 114844
+    },
+    {
+      "cosmeticId": "dan-que",
+      "index": 1,
+      "originalUrl": "https://nie.res.netease.com/r/pic/20250123/ef4baed7-e040-49a2-870c-fdd634823374.png",
+      "sourcePage": "https://www.yysls.cn/news/official/20250123/37780_1209208.html",
+      "server": "CN",
+      "sourceDimensions": {
+        "width": 3840,
+        "height": 1933
+      },
+      "originalSha256": "5c89d2eb4473799528af3af8a92635c8ad9e80a1ac441b5d09a0cd3892c8a122",
+      "description": {
+        "en": "Official dye demonstration: the same armored outfit in white and gold beside red lanterns.",
+        "ko": "공식 염색 시연: 붉은 등롱 옆에서 흰색과 금색으로 염색한 갑옷 외관."
+      },
+      "depictionStatus": "dye_showcase",
+      "reusePermission": "unknown",
+      "checkedAt": "2026-09-13",
+      "thumbnailBytes": 25964,
+      "fullBytes": 88164
+    },
+    {
+      "cosmeticId": "xi-ji-zhui-ri",
+      "index": 0,
+      "originalUrl": "https://nie.res.netease.com/r/pic/20250123/ce485fde-1392-4b3e-9fe7-aa340fe1d642.jpg",
+      "sourcePage": "https://www.yysls.cn/news/official/20250123/37780_1209208.html",
+      "server": "CN",
+      "sourceDimensions": {
+        "width": 2514,
+        "height": 6542
+      },
+      "originalSha256": "f41b5a32c0b8e602d71f7fafcc3c9c095b5d5ea2cfd69bac1c732d86323be931",
+      "description": {
+        "en": "Named male promotional poster with red and gold torso armor and enlarged material details.",
+        "ko": "붉은색·금색 상체 갑옷과 확대된 소재 디테일을 담은 외관명 표시 남성 홍보 포스터."
+      },
+      "depictionStatus": "official_reference_or_promotional_preview",
+      "reusePermission": "unknown",
+      "checkedAt": "2026-09-13",
+      "thumbnailBytes": 32090,
+      "fullBytes": 230478
+    },
+    {
+      "cosmeticId": "xi-ji-zhui-ri",
+      "index": 1,
+      "originalUrl": "https://nie.res.netease.com/r/pic/20250123/dd6fdacf-ce03-4790-aaad-64ec16dd1ee5.png",
+      "sourcePage": "https://www.yysls.cn/news/official/20250123/37780_1209208.html",
+      "server": "CN",
+      "sourceDimensions": {
+        "width": 2514,
+        "height": 6542
+      },
+      "originalSha256": "7ad5e009ce5f6e9a116a364cf380f0c5c9384e17290da6d6c4c9c4d63af42b11",
+      "description": {
+        "en": "Named female promotional poster with teal, dark blue and gold clothing and enlarged jewelry details.",
+        "ko": "청록색·짙은 파랑·금색 의복과 확대된 장신구 디테일을 담은 외관명 표시 여성 홍보 포스터."
+      },
+      "depictionStatus": "official_reference_or_promotional_preview",
+      "reusePermission": "unknown",
+      "checkedAt": "2026-09-13",
+      "thumbnailBytes": 34988,
+      "fullBytes": 245432
+    },
+    {
+      "cosmeticId": "shu-xi-chun",
+      "index": 0,
+      "originalUrl": "https://nie.res.netease.com/r/pic/20250123/531af18e-6327-48e0-ad58-8f26c15e702c.png",
+      "sourcePage": "https://www.yysls.cn/news/official/20250123/37780_1209208.html",
+      "server": "CN",
+      "sourceDimensions": {
+        "width": 3840,
+        "height": 1928
+      },
+      "originalSha256": "e2dbc6af5a8d650a974c6d9e29ea15edfecf713e37e0762cd92b5b055225bd00",
+      "description": {
+        "en": "Female full-body reference in a red and white theatrical costume with an ornate crown.",
+        "ko": "화려한 관과 붉은색·흰색 연극풍 의상을 착용한 여성 전신 이미지."
+      },
+      "depictionStatus": "official_reference_or_promotional_preview",
+      "reusePermission": "unknown",
+      "checkedAt": "2026-09-13",
+      "thumbnailBytes": 19948,
+      "fullBytes": 30356
+    },
+    {
+      "cosmeticId": "shu-xi-chun",
+      "index": 1,
+      "originalUrl": "https://nie.res.netease.com/r/pic/20250123/46b8c82a-31e8-43e6-bd95-64049718da65.jpg",
+      "sourcePage": "https://www.yysls.cn/news/official/20250123/37780_1209208.html",
+      "server": "CN",
+      "sourceDimensions": {
+        "width": 8192,
+        "height": 4240
+      },
+      "originalSha256": "01aef33c3ebbc2d7f63b42c8db10222822fea1c54f904446d0a321e449119693",
+      "description": {
+        "en": "Male full-body reference in a red and teal theatrical costume on a neutral backdrop.",
+        "ko": "중립 배경에서 붉은색·청록색 연극풍 의상을 착용한 남성 전신 이미지."
+      },
+      "depictionStatus": "official_reference_or_promotional_preview",
+      "reusePermission": "unknown",
+      "checkedAt": "2026-09-13",
+      "thumbnailBytes": 19562,
+      "fullBytes": 32826
+    },
+    {
+      "cosmeticId": "feng-yin-bi-an",
+      "index": 0,
+      "originalUrl": "https://nie.res.netease.com/r/pic/20250829/4da5dd2e-cfc8-489f-bbd3-77f46878935d.jpg",
+      "sourcePage": "https://www.yysls.cn/news/official/20250829/37780_1256838.html",
+      "server": "CN",
+      "sourceDimensions": {
+        "width": 4000,
+        "height": 2250
+      },
+      "originalSha256": "bf0f27f5526b1ba39d8af14a774211c943acb1a0912dc3ae966fcc69fcdd9387",
+      "description": {
+        "en": "Official concept preview showing two red and black ceremonial outfits with tall headpieces.",
+        "ko": "높은 머리 장식과 붉은색·검정 예복 두 벌을 보여 주는 공식 콘셉트 사전 공개 이미지."
+      },
+      "depictionStatus": "concept_preview",
+      "reusePermission": "unknown",
+      "checkedAt": "2026-09-13",
+      "thumbnailBytes": 64438,
+      "fullBytes": 168040
+    },
+    {
+      "cosmeticId": "xiao-fu-wei-an",
+      "index": 0,
+      "originalUrl": "https://nie.res.netease.com/r/pic/20250808/04af8eb2-32aa-4f96-ab5e-ddb42ff525f9.jpg",
+      "sourcePage": "https://www.yysls.cn/news/official/20250808/37780_1252764.html",
+      "server": "CN",
+      "sourceDimensions": {
+        "width": 3840,
+        "height": 2100
+      },
+      "originalSha256": "395572d10bf5111bb2dcbf88b7444aa8117ed8f8f8211cdf9e6471991a627a4c",
+      "description": {
+        "en": "Named in-game shop reference showing a red and gold robe on a female model.",
+        "ko": "붉은색·금색 의복을 입은 여성 모델과 외관명이 표시된 게임 내 상점 이미지."
+      },
+      "depictionStatus": "official_in_game_interface",
+      "reusePermission": "unknown",
+      "checkedAt": "2026-09-13",
+      "thumbnailBytes": 31140,
+      "fullBytes": 73166
+    },
+    {
+      "cosmeticId": "tang-di-ying-xia",
+      "index": 0,
+      "originalUrl": "https://nie.res.netease.com/r/pic/20250729/b2fd4669-03d6-4082-bbae-0cde527d2bbd.png",
+      "sourcePage": "https://www.yysls.cn/news/official/20250729/37780_1250311.html",
+      "server": "CN",
+      "sourceDimensions": {
+        "width": 2448,
+        "height": 2272
+      },
+      "originalSha256": "cc5c3b9f0fbe2c9fb4a9000a515c60b70be962171ff622562f0147a872837935",
+      "description": {
+        "en": "Two-panel male and female reference in green and yellow robes with gold trim.",
+        "ko": "초록색·노란색 의복과 금색 장식을 착용한 남녀 모델의 2분할 이미지."
+      },
+      "depictionStatus": "official_reference_or_promotional_preview",
+      "reusePermission": "unknown",
+      "checkedAt": "2026-09-13",
+      "thumbnailBytes": 76272,
+      "fullBytes": 377904
+    },
+    {
+      "cosmeticId": "ran-jin-ming",
+      "index": 0,
+      "originalUrl": "https://nie.res.netease.com/r/pic/20250717/717efbae-c56a-48e2-ab64-2cad60f0f55e.jpg",
+      "sourcePage": "https://www.yysls.cn/news/official/20250717/37780_1247925.html",
+      "server": "CN",
+      "sourceDimensions": {
+        "width": 2304,
+        "height": 4096
+      },
+      "originalSha256": "2c8cf1b51eec3126d1eec1a9e85e9f7f4cea40cc260903a4e45470f870ec94db",
+      "description": {
+        "en": "Official dye feature showcase of a male model in dark blue robes holding a sword.",
+        "ko": "검을 든 남성 모델의 짙은 파란색 의복을 보여 주는 공식 염색 기능 소개 이미지."
+      },
+      "depictionStatus": "dye_showcase",
+      "reusePermission": "unknown",
+      "checkedAt": "2026-09-13",
+      "thumbnailBytes": 34746,
+      "fullBytes": 321660
+    },
+    {
+      "cosmeticId": "ran-jin-ming",
+      "index": 1,
+      "originalUrl": "https://nie.res.netease.com/r/pic/20250717/8051bcf2-5a2a-4906-ad84-e13f63a4902c.jpg",
+      "sourcePage": "https://www.yysls.cn/news/official/20250717/37780_1247925.html",
+      "server": "CN",
+      "sourceDimensions": {
+        "width": 2304,
+        "height": 4096
+      },
+      "originalSha256": "67d98c7d295fbe0c0db01ac4c4e6c58b4bd11b394b23c271fcdcfca9be2bc74c",
+      "description": {
+        "en": "Official dye feature showcase of a female model in dark blue robes holding a sword.",
+        "ko": "검을 든 여성 모델의 짙은 파란색 의복을 보여 주는 공식 염색 기능 소개 이미지."
+      },
+      "depictionStatus": "dye_showcase",
+      "reusePermission": "unknown",
+      "checkedAt": "2026-09-13",
+      "thumbnailBytes": 30634,
+      "fullBytes": 271888
+    },
+    {
+      "cosmeticId": "hong-fengsi",
+      "index": 0,
+      "originalUrl": "https://nie.res.netease.com/r/pic/20260815/10a73935-ecb5-486a-b75b-01afaafd67e5.png",
+      "sourcePage": "https://www.yysls.cn/news/official/20260815/37780_1311207.html",
+      "server": "CN",
+      "sourceDimensions": {
+        "width": 2608,
+        "height": 2374
+      },
+      "originalSha256": "02a6a759802f73aeae5cbf20291ed136b5bb9922b4033156dbfa6a5d5637d66b",
+      "description": {
+        "en": "Two-panel female and male reference in pale pink robes with red scarf and maple accents.",
+        "ko": "연분홍 의복, 붉은 목도리와 단풍 장식을 착용한 남녀 모델의 2분할 이미지."
+      },
+      "depictionStatus": "official_reference_or_promotional_preview",
+      "reusePermission": "unknown",
+      "checkedAt": "2026-09-13",
+      "thumbnailBytes": 72578,
+      "fullBytes": 322542
+    },
+    {
+      "cosmeticId": "xi-su-hua",
+      "index": 0,
+      "originalUrl": "https://nie.res.netease.com/r/pic/20260410/56e740cc-0b67-410c-a0a0-b5b1798344cf.png",
+      "sourcePage": "https://www.yysls.cn/news/official/20260410/37780_1295578.html",
+      "server": "CN",
+      "sourceDimensions": {
+        "width": 4000,
+        "height": 2250
+      },
+      "originalSha256": "9770195cb707d82bed63ea74a0c58377609268849169bb5ae0d962a747a6d73c",
+      "description": {
+        "en": "Named landscape-format male outfit reference in pale cream and pink, holding an open fan.",
+        "ko": "펼친 부채를 든 크림색·분홍색 의복의 남성 모델과 외관명이 표시된 가로 이미지."
+      },
+      "depictionStatus": "official_reference_or_promotional_preview",
+      "reusePermission": "unknown",
+      "checkedAt": "2026-09-13",
+      "thumbnailBytes": 50904,
+      "fullBytes": 148886
+    },
+    {
+      "cosmeticId": "xi-su-hua",
+      "index": 1,
+      "originalUrl": "https://nie.res.netease.com/r/pic/20260410/c3a20f18-8376-4dac-82bb-84e237a2694a.jpg",
+      "sourcePage": "https://www.yysls.cn/news/official/20260410/37780_1295578.html",
+      "server": "CN",
+      "sourceDimensions": {
+        "width": 4000,
+        "height": 2250
+      },
+      "originalSha256": "f28d8a85b64e27934d2eee549c0274d1ac54398a25f0aa825ab0195377c50ecf",
+      "description": {
+        "en": "Named landscape-format female outfit reference in peach and pink, holding an open fan.",
+        "ko": "펼친 부채를 든 복숭아색·분홍색 의복의 여성 모델과 외관명이 표시된 가로 이미지."
+      },
+      "depictionStatus": "official_reference_or_promotional_preview",
+      "reusePermission": "unknown",
+      "checkedAt": "2026-09-13",
+      "thumbnailBytes": 53660,
+      "fullBytes": 158714
+    },
+    {
+      "cosmeticId": "xi-su-hua",
+      "index": 2,
+      "originalUrl": "https://nie.res.netease.com/r/pic/20260410/21e6289c-b08d-48e3-925b-680372822690.png",
+      "sourcePage": "https://www.yysls.cn/news/official/20260410/37780_1295578.html",
+      "server": "CN",
+      "sourceDimensions": {
+        "width": 2250,
+        "height": 4000
+      },
+      "originalSha256": "79bc8a3e693bc1cc1de355424c0cd2ab5d88ec81d7568f9e26443c81c06d679e",
+      "description": {
+        "en": "Named portrait of the male cream and pink outfit, with waist ornaments clearly visible.",
+        "ko": "허리 장식이 선명하게 보이는 크림색·분홍색 남성 의복의 외관명 표시 세로 이미지."
+      },
+      "depictionStatus": "official_reference_or_promotional_preview",
+      "reusePermission": "unknown",
+      "checkedAt": "2026-09-13",
+      "thumbnailBytes": 44814,
+      "fullBytes": 472694
+    },
+    {
+      "cosmeticId": "xi-su-hua",
+      "index": 3,
+      "originalUrl": "https://nie.res.netease.com/r/pic/20260410/8d4d49c4-a2cd-4997-847c-4c4c59b99cbe.png",
+      "sourcePage": "https://www.yysls.cn/news/official/20260410/37780_1295578.html",
+      "server": "CN",
+      "sourceDimensions": {
+        "width": 2250,
+        "height": 4000
+      },
+      "originalSha256": "cdd4c07fee3cf1783359728eb6f8d33fb621b8eb469cdb798545cb7e44a78b56",
+      "description": {
+        "en": "Named portrait of the female peach and pink outfit, with ribbons and pleated fabric visible.",
+        "ko": "리본과 주름진 천이 보이는 복숭아색·분홍색 여성 의복의 외관명 표시 세로 이미지."
+      },
+      "depictionStatus": "official_reference_or_promotional_preview",
+      "reusePermission": "unknown",
+      "checkedAt": "2026-09-13",
+      "thumbnailBytes": 54910,
+      "fullBytes": 396968
+    },
+    {
+      "cosmeticId": "you-ming-ji-tong",
+      "index": 0,
+      "originalUrl": "https://nie.res.netease.com/r/pic/20251031/84ed21fb-c92f-4a3a-adfe-886b1f31429b.jpg",
+      "sourcePage": "https://www.yysls.cn/news/official/20251031/37780_1268324.html",
+      "server": "CN",
+      "sourceDimensions": {
+        "width": 1800,
+        "height": 30598
+      },
+      "originalSha256": "a5c7a2c5c6a75760bd6350caa0033bb08547c376b574190ce1d9206ebb108d7e",
+      "description": {
+        "en": "Long named official poster of red, blue and purple ritual outfits, with masks, component close-ups and both body types.",
+        "ko": "가면, 부위별 확대 이미지와 두 체형을 담은 붉은색·파란색·보라색 의례복의 외관명 표시 긴 공식 포스터."
+      },
+      "depictionStatus": "official_reference_or_promotional_preview",
+      "reusePermission": "unknown",
+      "checkedAt": "2026-09-13",
+      "thumbnailBytes": 54514,
+      "fullBytes": 92954
+    },
+    {
+      "cosmeticId": "you-ming-ji-tong",
+      "index": 1,
+      "originalUrl": "https://nie.res.netease.com/r/pic/20251031/e00528ee-a911-4d1e-a857-1c65628fb098.jpg",
+      "sourcePage": "https://www.yysls.cn/news/official/20251031/37780_1268324.html",
+      "server": "CN",
+      "sourceDimensions": {
+        "width": 2250,
+        "height": 4000
+      },
+      "originalSha256": "9d4d52b770950eb13880b5997f4a1365529701de73c194363e5927037f536615",
+      "description": {
+        "en": "Male portrait in red, blue and purple ritual clothing with a partial mask, tassels and turquoise beads.",
+        "ko": "부분 가면, 술 장식과 청록 구슬이 있는 붉은색·파란색·보라색 의례복의 남성 세로 이미지."
+      },
+      "depictionStatus": "official_reference_or_promotional_preview",
+      "reusePermission": "unknown",
+      "checkedAt": "2026-09-13",
+      "thumbnailBytes": 79272,
+      "fullBytes": 687926
+    },
+    {
+      "cosmeticId": "you-ming-ji-tong",
+      "index": 2,
+      "originalUrl": "https://nie.res.netease.com/r/pic/20251031/f39cf184-0426-4223-a695-f00e273efd6c.jpg",
+      "sourcePage": "https://www.yysls.cn/news/official/20251031/37780_1268324.html",
+      "server": "CN",
+      "sourceDimensions": {
+        "width": 2250,
+        "height": 4000
+      },
+      "originalSha256": "3b2b5308641921944d52d7691d56f17b6da6190fdf5b31d157d4a018a824b1c1",
+      "description": {
+        "en": "Female portrait in red, blue and purple ritual clothing with a partial mask, tassels and turquoise beads.",
+        "ko": "부분 가면, 술 장식과 청록 구슬이 있는 붉은색·파란색·보라색 의례복의 여성 세로 이미지."
+      },
+      "depictionStatus": "official_reference_or_promotional_preview",
+      "reusePermission": "unknown",
+      "checkedAt": "2026-09-13",
+      "thumbnailBytes": 80314,
+      "fullBytes": 673974
+    },
+    {
+      "cosmeticId": "shang-qing-yun",
+      "index": 1,
+      "originalUrl": "https://nie.res.netease.com/r/pic/20250207/440e769e-e307-4684-be98-05f04922f351.png",
+      "sourcePage": "https://www.yysls.cn/news/official/20250207/37780_1210612.html",
+      "server": "CN",
+      "sourceDimensions": {
+        "width": 3840,
+        "height": 2160
+      },
+      "originalSha256": "01d697c3a8c365be38b90d8885c5155ed6e0bef61b357823e805de0ad9c70674",
+      "description": {
+        "en": "Male model in dark blue and gold robes, holding a sword in a wooden hall.",
+        "ko": "목조 전각에서 검을 든 짙은 파란색·금색 의복의 남성 모델."
+      },
+      "depictionStatus": "official_reference_or_promotional_preview",
+      "reusePermission": "unknown",
+      "checkedAt": "2026-09-13",
+      "thumbnailBytes": 37104,
+      "fullBytes": 92840
+    },
+    {
+      "cosmeticId": "shang-qing-yun",
+      "index": 2,
+      "originalUrl": "https://nie.res.netease.com/r/pic/20250207/352912d6-b90a-4e03-87c4-0fe2d1177852.jpg",
+      "sourcePage": "https://www.yysls.cn/news/official/20250207/37780_1210612.html",
+      "server": "CN",
+      "sourceDimensions": {
+        "width": 3840,
+        "height": 2160
+      },
+      "originalSha256": "ca63eb6a9fb7a399d1d972d12dd7c6d47103d053e2d299e6cb628304e75b0773",
+      "description": {
+        "en": "Female model in dark blue and gold robes, with one arm raised beside a circular doorway.",
+        "ko": "둥근 출입구 옆에서 한 팔을 들어 올린 짙은 파란색·금색 의복의 여성 모델."
+      },
+      "depictionStatus": "official_reference_or_promotional_preview",
+      "reusePermission": "unknown",
+      "checkedAt": "2026-09-13",
+      "thumbnailBytes": 43850,
+      "fullBytes": 119194
+    },
+    {
+      "cosmeticId": "baiyi-xiu-luo",
+      "index": 1,
+      "originalUrl": "https://nie.res.netease.com/r/pic/20250217/d187f520-f1cf-4d09-835c-6735e096f131.png",
+      "sourcePage": "https://www.yysls.cn/news/official/20250217/37780_1212311.html",
+      "server": "CN",
+      "sourceDimensions": {
+        "width": 1920,
+        "height": 1080
+      },
+      "originalSha256": "8ccefb3cfac39f66a86efe0cd6939f2a26176d800c1bd032fbbf3b1512ef0688",
+      "description": {
+        "en": "Front and rear views of a male model in white and black robes with a metal face covering and red cords.",
+        "ko": "금속 얼굴 가리개와 붉은 끈이 있는 흰색·검정 의복의 남성 모델 앞·뒷모습."
+      },
+      "depictionStatus": "official_reference_or_promotional_preview",
+      "reusePermission": "unknown",
+      "checkedAt": "2026-09-13",
+      "thumbnailBytes": 36718,
+      "fullBytes": 96264
+    },
+    {
+      "cosmeticId": "tian-shang-baiyu-jing",
+      "index": 1,
+      "originalUrl": "https://nie.res.netease.com/r/pic/20250729/ad809a5b-bd1c-4268-b5a7-adc4c64aaa11.jpg",
+      "sourcePage": "https://www.yysls.cn/news/official/20250729/37780_1250341.html",
+      "server": "CN",
+      "sourceDimensions": {
+        "width": 1080,
+        "height": 17400
+      },
+      "originalSha256": "dc95533f17435db3d14af8dc516a220c7c253bdbd8322d726d36018c43d6f9f8",
+      "description": {
+        "en": "Dedicated named outfit poster showing both body types in ivory and gold robes, with component close-ups and fish-like effects.",
+        "ko": "상아색·금색 의복의 두 체형, 부위별 확대 이미지와 물고기 모양 효과를 담은 외관명 표시 전용 포스터."
+      },
+      "depictionStatus": "official_reference_or_promotional_preview",
+      "reusePermission": "unknown",
+      "checkedAt": "2026-09-13",
+      "thumbnailBytes": 53758,
+      "fullBytes": 114806
+    },
+    {
+      "cosmeticId": "yue-ru-yin",
+      "index": 1,
+      "originalUrl": "https://nie.res.netease.com/r/pic/20250815/71c14e18-b1c7-4cdd-86e5-7ce413cf597d.jpg",
+      "sourcePage": "https://www.yysls.cn/news/official/20250815/37780_1254275.html",
+      "server": "CN",
+      "sourceDimensions": {
+        "width": 6000,
+        "height": 3375
+      },
+      "originalSha256": "186e261e2aa8ff2434b28ac0b38efa06811c5b240a0d80b423ff1f2c00202b36",
+      "description": {
+        "en": "Male full-body promotional view in white robes with dark trim and silver decorations before a full moon.",
+        "ko": "보름달 앞에서 짙은 테두리와 은색 장식이 있는 흰 의복을 착용한 남성 전신 홍보 이미지."
+      },
+      "depictionStatus": "official_reference_or_promotional_preview",
+      "reusePermission": "unknown",
+      "checkedAt": "2026-09-13",
+      "thumbnailBytes": 46246,
+      "fullBytes": 86820
+    },
+    {
+      "cosmeticId": "yue-ru-yin",
+      "index": 2,
+      "originalUrl": "https://nie.res.netease.com/r/pic/20250815/87392f4d-abbc-49d7-8a08-c51914ac2e89.jpg",
+      "sourcePage": "https://www.yysls.cn/news/official/20250815/37780_1254275.html",
+      "server": "CN",
+      "sourceDimensions": {
+        "width": 3000,
+        "height": 3000
+      },
+      "originalSha256": "fbc13ac25df4c31ce34cba7f97bf76872d970aa94b4effc2c1db5132335442a6",
+      "description": {
+        "en": "Rear close-up of the female outfit, showing silver hair ornaments, hanging chains and neck decorations.",
+        "ko": "은색 머리 장식, 늘어진 사슬과 목 주변 장식이 보이는 여성 의복 뒷면 확대 이미지."
+      },
+      "depictionStatus": "official_reference_or_promotional_preview",
+      "reusePermission": "unknown",
+      "checkedAt": "2026-09-13",
+      "thumbnailBytes": 47148,
+      "fullBytes": 258742
+    },
+    {
+      "cosmeticId": "yue-ru-yin",
+      "index": 3,
+      "originalUrl": "https://nie.res.netease.com/r/pic/20250815/731ab157-9d90-482b-9282-cbe633a4f1ef.jpg",
+      "sourcePage": "https://www.yysls.cn/news/official/20250815/37780_1254275.html",
+      "server": "CN",
+      "sourceDimensions": {
+        "width": 3000,
+        "height": 3000
+      },
+      "originalSha256": "bbb54489ec36588181c3e914c220fcac1c5f1730b8352bf0779812a959b93f0c",
+      "description": {
+        "en": "Female neckline and chest detail showing silver floral ornaments against the white jacket and dark inner top.",
+        "ko": "흰 겉옷과 어두운 안쪽 상의 위의 은색 꽃 장식이 보이는 여성 목선·가슴 부분 확대 이미지."
+      },
+      "depictionStatus": "official_reference_or_promotional_preview",
+      "reusePermission": "unknown",
+      "checkedAt": "2026-09-13",
+      "thumbnailBytes": 67408,
+      "fullBytes": 452928
+    },
+    {
+      "cosmeticId": "yue-ru-yin",
+      "index": 4,
+      "originalUrl": "https://nie.res.netease.com/r/pic/20250815/42df4cdb-c9ba-40d6-bcfc-4218ffabe662.jpg",
+      "sourcePage": "https://www.yysls.cn/news/official/20250815/37780_1254275.html",
+      "server": "CN",
+      "sourceDimensions": {
+        "width": 3000,
+        "height": 3000
+      },
+      "originalSha256": "81ec02b80fb0a95e61cb3e831d3cffd6bf32851e1d235935d9f25264f7be654c",
+      "description": {
+        "en": "Fabric close-up showing bird motifs, woven texture and a fine border on pale cloth.",
+        "ko": "밝은 천의 새 무늬, 직물 질감과 섬세한 테두리를 보여 주는 소재 확대 이미지."
+      },
+      "depictionStatus": "official_reference_or_promotional_preview",
+      "reusePermission": "unknown",
+      "checkedAt": "2026-09-13",
+      "thumbnailBytes": 110246,
+      "fullBytes": 612170
+    },
+    {
+      "cosmeticId": "yue-ru-yin",
+      "index": 5,
+      "originalUrl": "https://nie.res.netease.com/r/pic/20250815/3378d56d-98ad-4286-b7d5-3c8693477d3e.jpg",
+      "sourcePage": "https://www.yysls.cn/news/official/20250815/37780_1254275.html",
+      "server": "CN",
+      "sourceDimensions": {
+        "width": 3000,
+        "height": 3000
+      },
+      "originalSha256": "99eadc4a3bf3194478844559b2d038ecf782d03798c4a7176ce9450dafd940b3",
+      "description": {
+        "en": "Rear male outfit detail showing long dark hair, silver hair ornaments and embroidered white shoulders.",
+        "ko": "긴 검은 머리, 은색 머리 장식과 자수 놓인 흰 어깨 부분이 보이는 남성 의복 뒷면 확대 이미지."
+      },
+      "depictionStatus": "official_reference_or_promotional_preview",
+      "reusePermission": "unknown",
+      "checkedAt": "2026-09-13",
+      "thumbnailBytes": 33624,
+      "fullBytes": 180900
+    },
+    {
+      "cosmeticId": "meng-xun-hu-pao",
+      "index": 1,
+      "originalUrl": "https://nie.res.netease.com/r/pic/20250822/7a11e6b8-da48-4923-b42f-1771d5278c93.png",
+      "sourcePage": "https://www.yysls.cn/news/official/20250822/37780_1255518.html",
+      "server": "CN",
+      "sourceDimensions": {
+        "width": 1688,
+        "height": 3000
+      },
+      "originalSha256": "1e6c9b0e8cebe8cfa746106910181ab799f6cd2bc0e6fa88c576f741a4667152",
+      "description": {
+        "en": "Female portrait in cream and red layered clothing, with an orange cat on the shoulder and hanging gold ornaments.",
+        "ko": "어깨 위 주황색 고양이와 늘어진 금색 장식이 있는 크림색·붉은색 의복의 여성 세로 이미지."
+      },
+      "depictionStatus": "official_reference_or_promotional_preview",
+      "reusePermission": "unknown",
+      "checkedAt": "2026-09-13",
+      "thumbnailBytes": 54382,
+      "fullBytes": 394404
+    },
+    {
+      "cosmeticId": "meng-xun-hu-pao",
+      "index": 2,
+      "originalUrl": "https://nie.res.netease.com/r/pic/20250822/0de81420-006d-42df-9cb4-f64539328510.png",
+      "sourcePage": "https://www.yysls.cn/news/official/20250822/37780_1255518.html",
+      "server": "CN",
+      "sourceDimensions": {
+        "width": 1688,
+        "height": 3000
+      },
+      "originalSha256": "7b61e1dbb2657375e0e49cca32db2bdfabc5664f22d4c35318a01155cfddf363",
+      "description": {
+        "en": "Male portrait in cream and red layered clothing, carrying an orange cat against one arm.",
+        "ko": "한쪽 팔에 주황색 고양이를 안고 있는 크림색·붉은색 의복의 남성 세로 이미지."
+      },
+      "depictionStatus": "official_reference_or_promotional_preview",
+      "reusePermission": "unknown",
+      "checkedAt": "2026-09-13",
+      "thumbnailBytes": 41082,
+      "fullBytes": 377008
+    },
+    {
+      "cosmeticId": "ru-sui-shuang-tian",
+      "index": 1,
+      "originalUrl": "https://nie.res.netease.com/r/pic/20250829/ebf7eb3b-9ac6-4114-b8a0-2aa15660b47d.jpg",
+      "sourcePage": "https://www.yysls.cn/news/official/20250829/37780_1256838.html",
+      "server": "CN",
+      "sourceDimensions": {
+        "width": 2250,
+        "height": 4000
+      },
+      "originalSha256": "2ca8281c77df990a61ecfcf140c7c3248165907e4c350fb2113fa602a8905552",
+      "description": {
+        "en": "Male portrait in pale ice-blue and white clothing with asymmetrical crystalline armor and floating shards.",
+        "ko": "비대칭 수정 갑옷과 떠다니는 조각이 있는 옅은 얼음색·흰색 의복의 남성 세로 이미지."
+      },
+      "depictionStatus": "official_reference_or_promotional_preview",
+      "reusePermission": "unknown",
+      "checkedAt": "2026-09-13",
+      "thumbnailBytes": 54794,
+      "fullBytes": 424408
+    },
+    {
+      "cosmeticId": "ru-sui-shuang-tian",
+      "index": 2,
+      "originalUrl": "https://nie.res.netease.com/r/pic/20250829/dc799410-1fa9-4911-b45c-95ad2a74ca3e.jpg",
+      "sourcePage": "https://www.yysls.cn/news/official/20250829/37780_1256838.html",
+      "server": "CN",
+      "sourceDimensions": {
+        "width": 2250,
+        "height": 4000
+      },
+      "originalSha256": "1c55b5eb12cf88bde8dad5a6d2c015d0b0bc951b04385cee8e1e754ae0b4f830",
+      "description": {
+        "en": "Female portrait in flowing pale ice-blue clothing with crystalline shoulder ornaments and floating shards.",
+        "ko": "수정 어깨 장식과 떠다니는 조각이 있는 흐르는 옅은 얼음색 의복의 여성 세로 이미지."
+      },
+      "depictionStatus": "official_reference_or_promotional_preview",
+      "reusePermission": "unknown",
+      "checkedAt": "2026-09-13",
+      "thumbnailBytes": 53056,
+      "fullBytes": 424136
+    },
+    {
+      "cosmeticId": "ji-ye-ling",
+      "index": 1,
+      "originalUrl": "https://nie.res.netease.com/r/pic/20251010/cff2bfbf-2b4c-4b4c-844e-7a2d7f68a57b.jpg",
+      "sourcePage": "https://www.yysls.cn/news/official/20251010/37780_1263990.html",
+      "server": "CN",
+      "sourceDimensions": {
+        "width": 4608,
+        "height": 8192
+      },
+      "originalSha256": "919dded7972c7605f7847189171cc7e65d239a6cb1e6280eebf9448d4053d42b",
+      "description": {
+        "en": "Female full-body portrait in dark robes with gold trim, a red sash and metal forearm guards.",
+        "ko": "금색 테두리, 붉은 허리띠와 금속 팔 보호대가 있는 어두운 의복의 여성 전신 세로 이미지."
+      },
+      "depictionStatus": "official_reference_or_promotional_preview",
+      "reusePermission": "unknown",
+      "checkedAt": "2026-09-13",
+      "thumbnailBytes": 39188,
+      "fullBytes": 313178
+    }
+  ]
+}

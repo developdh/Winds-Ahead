@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "cosmeticId": "jiu-xia-guang",
+  "titleOriginal": "九霞光",
+  "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E4%B9%9D%E9%9C%9E%E5%85%89",
+  "revisionUrl": "https://yy16s.huijiwiki.com/wiki/%E7%89%B9%E6%AE%8A:%E7%BC%96%E8%BE%91%E5%B7%AE%E5%BC%82/27267",
+  "checkedAt": "2026-09-13",
+  "license": "CC BY-NC-SA 3.0",
+  "articleAvailable": true,
+  "category": "mount",
+  "grade": {
+    "en": "Gold",
+    "ko": "금색"
+  },
+  "gradeOriginal": "金",
+  "styleScore": 4000,
+  "flags": {
+    "dye": null,
+    "tailoring": null,
+    "gifting": null,
+    "trading": null
+  },
+  "components": [],
+  "reportedComponentCount": null,
+  "collectionReward": null,
+  "resultsAnimation": null,
+  "acquisition": {
+    "original": "和鸣获得",
+    "en": "Resonance draw",
+    "ko": "공명 추첨"
+  },
+  "timing": {
+    "original": "2026年7月3日版本更新后",
+    "en": "2026-07-03 after update",
+    "ko": "2026-07-03 업데이트 후",
+    "timezone": null
+  },
+  "weapon": null,
+  "martialArt": null,
+  "replacedMove": null,
+  "mountType": {
+    "original": "坐骑·奇巧",
+    "en": "Mechanical mount",
+    "ko": "기교 탈것"
+  },
+  "sourceFields": {
+    "类型": "坐骑·奇巧",
+    "风华值": "4000",
+    "上线时间": "2026年7月3日版本更新后",
+    "获取方式": "和鸣获得"
+  }
+}

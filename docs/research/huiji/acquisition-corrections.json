@@ -1,0 +1,296 @@
+[
+  {
+    "cosmeticId": "qing-niao-xian-dao",
+    "sourceId": "cn-60c7d971d329",
+    "sourceUrl": "https://www.yysls.cn/news/official/20260213/37780_1287232.html",
+    "reviewedAt": "2026-09-13",
+    "before": {
+      "kind": "unknown",
+      "pricing": "unknown",
+      "amount": null,
+      "regularAmount": null,
+      "currencyOriginal": null,
+      "location": {
+        "en": "Under review",
+        "ko": "확인 중",
+        "original": "未核实"
+      },
+      "conditions": {
+        "en": "CN announcement terms; quantities are shown only when stated for this appearance. Sales, discounts and reward conditions may have ended.",
+        "ko": "중국 공지의 획득 조건입니다. 해당 외관에 명시된 수량만 기재했으며 판매·할인·보상 기간은 종료되었을 수 있습니다."
+      },
+      "en": "See the acquisition method and source conditions.",
+      "ko": "획득 방법과 출처의 조건을 확인하세요.",
+      "sourceExcerpt": ""
+    },
+    "after": {
+      "kind": "exchange_shop",
+      "pricing": "fixed",
+      "amount": 2,
+      "regularAmount": null,
+      "currencyOriginal": "音玉",
+      "location": {
+        "en": "Sound Jade Shop",
+        "ko": "음옥 상점",
+        "original": "和鸣-闻音商店"
+      },
+      "conditions": {
+        "en": "Historical limited-time price, not a claim of current availability. Sharing the weapon appearance rewards a title inscription and Echo Jade; the weapon itself is not the free sharing reward. The regular price is not stated.",
+        "ko": "과거 공지의 기간 한정 가격이며 현재 판매 여부는 별도입니다. 외관 공유로 받는 무료 보상은 제발과 장명옥이며 무기 자체가 아닙니다. 정가는 원문에 없습니다."
+      },
+      "en": "Exchange for 2 Sound Jade at the announcement’s limited-time price.",
+      "ko": "공지의 한정 가격 기준 음옥 2개로 교환합니다.",
+      "sourceExcerpt": "分别以限时折扣价2个音玉购得。"
+    },
+    "regionalChanges": [],
+    "reason": {
+      "en": "Separate the priced weapon from the free sharing reward in the same paragraph.",
+      "ko": "같은 문단의 무기 교환 가격과 무료 공유 보상을 구분합니다."
+    }
+  },
+  {
+    "cosmeticId": "qiu-hong-ta-zhi",
+    "sourceId": "cn-328aa2453ae5",
+    "sourceUrl": "https://www.yysls.cn/news/official/20260313/37780_1291020.html",
+    "reviewedAt": "2026-09-13",
+    "before": {
+      "kind": "event",
+      "pricing": "free",
+      "amount": null,
+      "regularAmount": null,
+      "currencyOriginal": null,
+      "location": {
+        "en": "Sound Jade Shop",
+        "ko": "음옥 상점",
+        "original": "和鸣-闻音商店"
+      },
+      "conditions": {
+        "en": "CN announcement terms; quantities are shown only when stated for this appearance. Sales, discounts and reward conditions may have ended.",
+        "ko": "중국 공지의 획득 조건입니다. 해당 외관에 명시된 수량만 기재했으며 판매·할인·보상 기간은 종료되었을 수 있습니다."
+      },
+      "en": "See the acquisition method and source conditions.",
+      "ko": "획득 방법과 출처의 조건을 확인하세요.",
+      "sourceExcerpt": "燕云十六声 × 赋神联动武器外观·剑【秋鸿踏枝】将于版本更新后-5月11日04:59:59限时上架，期间游侠可前往「和鸣-闻音商店」，即可以限时优惠价2个【音玉】购得。另外，前往「活动-赋燕有灵」界面，分享武器外观还可免费领取联动限定题跋以及长鸣玉奖励！"
+    },
+    "after": {
+      "kind": "exchange_shop",
+      "pricing": "fixed",
+      "amount": 2,
+      "regularAmount": null,
+      "currencyOriginal": "音玉",
+      "location": {
+        "en": "Sound Jade Shop",
+        "ko": "음옥 상점",
+        "original": "和鸣-闻音商店"
+      },
+      "conditions": {
+        "en": "Historical limited-time price, not a claim of current availability. Sharing the weapon appearance rewards a title inscription and Echo Jade; the weapon itself is not the free sharing reward. The regular price is not stated.",
+        "ko": "과거 공지의 기간 한정 가격이며 현재 판매 여부는 별도입니다. 외관 공유로 받는 무료 보상은 제발과 장명옥이며 무기 자체가 아닙니다. 정가는 원문에 없습니다."
+      },
+      "en": "Exchange for 2 Sound Jade at the announcement’s limited-time price.",
+      "ko": "공지의 한정 가격 기준 음옥 2개로 교환합니다.",
+      "sourceExcerpt": "燕云十六声 × 赋神联动武器外观·剑【秋鸿踏枝】将于版本更新后-5月11日04:59:59限时上架，期间游侠可前往「和鸣-闻音商店」，即可以限时优惠价2个【音玉】购得。另外，前往「活动-赋燕有灵」界面，分享武器外观还可免费领取联动限定题跋以及长鸣玉奖励！"
+    },
+    "regionalChanges": [],
+    "reason": {
+      "en": "Separate the priced weapon from the free sharing reward in the same paragraph.",
+      "ko": "같은 문단의 무기 교환 가격과 무료 공유 보상을 구분합니다."
+    }
+  },
+  {
+    "cosmeticId": "han-lu-jing-cui",
+    "sourceId": "cn-9dda27dd9f27",
+    "sourceUrl": "https://www.yysls.cn/news/official/20260320/37780_1292235.html",
+    "reviewedAt": "2026-09-13",
+    "before": {
+      "kind": "event",
+      "pricing": "free",
+      "amount": null,
+      "regularAmount": null,
+      "currencyOriginal": null,
+      "location": {
+        "en": "Sound Jade Shop",
+        "ko": "음옥 상점",
+        "original": "和鸣-闻音商店"
+      },
+      "conditions": {
+        "en": "CN announcement terms; quantities are shown only when stated for this appearance. Sales, discounts and reward conditions may have ended.",
+        "ko": "중국 공지의 획득 조건입니다. 해당 외관에 명시된 수량만 기재했으며 판매·할인·보상 기간은 종료되었을 수 있습니다."
+      },
+      "en": "See the acquisition method and source conditions.",
+      "ko": "획득 방법과 출처의 조건을 확인하세요.",
+      "sourceExcerpt": "燕云十六声 × 赋神联动武器外观·枪【寒露惊翠】将于3月20日00:00:00-5月18日04:59:59限时上架，期间游侠可前往「和鸣-闻音商店」，即可以限时优惠价2个音玉购得。另外，前往「活动-赋燕有灵」界面，分享武器外观还可免费领取联动限定题跋以及长鸣玉奖励！"
+    },
+    "after": {
+      "kind": "exchange_shop",
+      "pricing": "fixed",
+      "amount": 2,
+      "regularAmount": null,
+      "currencyOriginal": "音玉",
+      "location": {
+        "en": "Sound Jade Shop",
+        "ko": "음옥 상점",
+        "original": "和鸣-闻音商店"
+      },
+      "conditions": {
+        "en": "Historical limited-time price, not a claim of current availability. Sharing the weapon appearance rewards a title inscription and Echo Jade; the weapon itself is not the free sharing reward. The regular price is not stated.",
+        "ko": "과거 공지의 기간 한정 가격이며 현재 판매 여부는 별도입니다. 외관 공유로 받는 무료 보상은 제발과 장명옥이며 무기 자체가 아닙니다. 정가는 원문에 없습니다."
+      },
+      "en": "Exchange for 2 Sound Jade at the announcement’s limited-time price.",
+      "ko": "공지의 한정 가격 기준 음옥 2개로 교환합니다.",
+      "sourceExcerpt": "燕云十六声 × 赋神联动武器外观·枪【寒露惊翠】将于3月20日00:00:00-5月18日04:59:59限时上架，期间游侠可前往「和鸣-闻音商店」，即可以限时优惠价2个音玉购得。另外，前往「活动-赋燕有灵」界面，分享武器外观还可免费领取联动限定题跋以及长鸣玉奖励！"
+    },
+    "regionalChanges": [],
+    "reason": {
+      "en": "Separate the priced weapon from the free sharing reward in the same paragraph.",
+      "ko": "같은 문단의 무기 교환 가격과 무료 공유 보상을 구분합니다."
+    }
+  },
+  {
+    "cosmeticId": "fan-yue-xing-chuan",
+    "sourceId": "cn-20260415-outfits",
+    "sourceUrl": "https://www.yysls.cn/news/official/20260417/37780_1296687.html",
+    "reviewedAt": "2026-09-13",
+    "before": {
+      "kind": "event",
+      "pricing": "free",
+      "amount": null,
+      "regularAmount": null,
+      "currencyOriginal": null,
+      "location": {
+        "en": "Sound Jade Shop",
+        "ko": "음옥 상점",
+        "original": "和鸣-闻音商店"
+      },
+      "conditions": {
+        "en": "CN announcement terms; quantities are shown only when stated for this appearance. Sales, discounts and reward conditions may have ended.",
+        "ko": "중국 공지의 획득 조건입니다. 해당 외관에 명시된 수량만 기재했으며 판매·할인·보상 기간은 종료되었을 수 있습니다."
+      },
+      "en": "See the acquisition method and source conditions.",
+      "ko": "획득 방법과 출처의 조건을 확인하세요.",
+      "sourceExcerpt": "燕云十六声 × 赋神联动武器外观·双刀【泛月行川】将于4月17日00:00至6月15日04:59限时上架，期间游侠可前往「和鸣-闻音商店」，即可以限时优惠价2个音玉购得。另外，前往「活动-赋燕有灵」界面，分享武器外观还可免费领取联动限定题跋以及长鸣玉奖励！"
+    },
+    "after": {
+      "kind": "exchange_shop",
+      "pricing": "fixed",
+      "amount": 2,
+      "regularAmount": null,
+      "currencyOriginal": "音玉",
+      "location": {
+        "en": "Sound Jade Shop",
+        "ko": "음옥 상점",
+        "original": "和鸣-闻音商店"
+      },
+      "conditions": {
+        "en": "Historical limited-time price, not a claim of current availability. Sharing the weapon appearance rewards a title inscription and Echo Jade; the weapon itself is not the free sharing reward. The regular price is not stated.",
+        "ko": "과거 공지의 기간 한정 가격이며 현재 판매 여부는 별도입니다. 외관 공유로 받는 무료 보상은 제발과 장명옥이며 무기 자체가 아닙니다. 정가는 원문에 없습니다."
+      },
+      "en": "Exchange for 2 Sound Jade at the announcement’s limited-time price.",
+      "ko": "공지의 한정 가격 기준 음옥 2개로 교환합니다.",
+      "sourceExcerpt": "燕云十六声 × 赋神联动武器外观·双刀【泛月行川】将于4月17日00:00至6月15日04:59限时上架，期间游侠可前往「和鸣-闻音商店」，即可以限时优惠价2个音玉购得。另外，前往「活动-赋燕有灵」界面，分享武器外观还可免费领取联动限定题跋以及长鸣玉奖励！"
+    },
+    "regionalChanges": [],
+    "reason": {
+      "en": "Separate the priced weapon from the free sharing reward in the same paragraph.",
+      "ko": "같은 문단의 무기 교환 가격과 무료 공유 보상을 구분합니다."
+    }
+  },
+  {
+    "cosmeticId": "cheng-fu-gui-meng",
+    "sourceId": "cn-f9fdc234e440",
+    "sourceUrl": "https://www.yysls.cn/news/official/20260508/37780_1299480.html",
+    "reviewedAt": "2026-09-13",
+    "before": {
+      "kind": "event",
+      "pricing": "free",
+      "amount": null,
+      "regularAmount": null,
+      "currencyOriginal": null,
+      "location": {
+        "en": "Sound Jade Shop",
+        "ko": "음옥 상점",
+        "original": "和鸣-闻音商店"
+      },
+      "conditions": {
+        "en": "CN announcement terms; quantities are shown only when stated for this appearance. Sales, discounts and reward conditions may have ended.",
+        "ko": "중국 공지의 획득 조건입니다. 해당 외관에 명시된 수량만 기재했으며 판매·할인·보상 기간은 종료되었을 수 있습니다."
+      },
+      "en": "See the acquisition method and source conditions.",
+      "ko": "획득 방법과 출처의 조건을 확인하세요.",
+      "sourceExcerpt": "燕云十六声 × 赋神联动武器外观·绳镖【乘桴归梦】将于5月8日版本更新后至7月6日04:59:59限时上架，期间游侠可前往「和鸣-闻音商店」，即可以限时优惠价2个【音玉】购得。另外，前往「活动-赋燕有灵」界面，分享武器外观还可免费领取联动限定题跋以及长鸣玉奖励！"
+    },
+    "after": {
+      "kind": "exchange_shop",
+      "pricing": "fixed",
+      "amount": 2,
+      "regularAmount": null,
+      "currencyOriginal": "音玉",
+      "location": {
+        "en": "Sound Jade Shop",
+        "ko": "음옥 상점",
+        "original": "和鸣-闻音商店"
+      },
+      "conditions": {
+        "en": "Historical limited-time price, not a claim of current availability. Sharing the weapon appearance rewards a title inscription and Echo Jade; the weapon itself is not the free sharing reward. The regular price is not stated.",
+        "ko": "과거 공지의 기간 한정 가격이며 현재 판매 여부는 별도입니다. 외관 공유로 받는 무료 보상은 제발과 장명옥이며 무기 자체가 아닙니다. 정가는 원문에 없습니다."
+      },
+      "en": "Exchange for 2 Sound Jade at the announcement’s limited-time price.",
+      "ko": "공지의 한정 가격 기준 음옥 2개로 교환합니다.",
+      "sourceExcerpt": "燕云十六声 × 赋神联动武器外观·绳镖【乘桴归梦】将于5月8日版本更新后至7月6日04:59:59限时上架，期间游侠可前往「和鸣-闻音商店」，即可以限时优惠价2个【音玉】购得。另外，前往「活动-赋燕有灵」界面，分享武器外观还可免费领取联动限定题跋以及长鸣玉奖励！"
+    },
+    "regionalChanges": [],
+    "reason": {
+      "en": "Separate the priced weapon from the free sharing reward in the same paragraph.",
+      "ko": "같은 문단의 무기 교환 가격과 무료 공유 보상을 구분합니다."
+    }
+  },
+  {
+    "cosmeticId": "yu-long-kongyou",
+    "sourceId": "cn-20260528-outfits",
+    "sourceUrl": "https://www.yysls.cn/news/official/20260529/37780_1302239.html",
+    "reviewedAt": "2026-09-13",
+    "before": {
+      "kind": "event",
+      "pricing": "free",
+      "amount": null,
+      "regularAmount": null,
+      "currencyOriginal": null,
+      "location": {
+        "en": "Sound Jade Shop",
+        "ko": "음옥 상점",
+        "original": "和鸣-闻音商店"
+      },
+      "conditions": {
+        "en": "CN announcement terms; quantities are shown only when stated for this appearance. Sales, discounts and reward conditions may have ended.",
+        "ko": "중국 공지의 획득 조건입니다. 해당 외관에 명시된 수량만 기재했으며 판매·할인·보상 기간은 종료되었을 수 있습니다."
+      },
+      "en": "See the acquisition method and source conditions.",
+      "ko": "획득 방법과 출처의 조건을 확인하세요.",
+      "sourceExcerpt": "燕云十六声 × 赋神联动武器外观·伞【鱼龙空游】将于5月29日版本更新后至7月27日04:59:59限时上架，期间游侠可前往「和鸣-闻音商店」，即可以限时优惠价2个【音玉】购得。另外，前往「活动-赋燕有灵」界面，分享武器外观还可免费领取联动限定题跋以及长鸣玉奖励！"
+    },
+    "after": {
+      "kind": "exchange_shop",
+      "pricing": "fixed",
+      "amount": 2,
+      "regularAmount": null,
+      "currencyOriginal": "音玉",
+      "location": {
+        "en": "Sound Jade Shop",
+        "ko": "음옥 상점",
+        "original": "和鸣-闻音商店"
+      },
+      "conditions": {
+        "en": "Historical limited-time price, not a claim of current availability. Sharing the weapon appearance rewards a title inscription and Echo Jade; the weapon itself is not the free sharing reward. The regular price is not stated.",
+        "ko": "과거 공지의 기간 한정 가격이며 현재 판매 여부는 별도입니다. 외관 공유로 받는 무료 보상은 제발과 장명옥이며 무기 자체가 아닙니다. 정가는 원문에 없습니다."
+      },
+      "en": "Exchange for 2 Sound Jade at the announcement’s limited-time price.",
+      "ko": "공지의 한정 가격 기준 음옥 2개로 교환합니다.",
+      "sourceExcerpt": "燕云十六声 × 赋神联动武器外观·伞【鱼龙空游】将于5月29日版本更新后至7月27日04:59:59限时上架，期间游侠可前往「和鸣-闻音商店」，即可以限时优惠价2个【音玉】购得。另外，前往「活动-赋燕有灵」界面，分享武器外观还可免费领取联动限定题跋以及长鸣玉奖励！"
+    },
+    "regionalChanges": [],
+    "reason": {
+      "en": "Separate the priced weapon from the free sharing reward in the same paragraph.",
+      "ko": "같은 문단의 무기 교환 가격과 무료 공유 보상을 구분합니다."
+    }
+  }
+]

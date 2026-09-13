@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "cosmeticId": "yi-xin-san-cang",
+  "titleOriginal": "一心三藏",
+  "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E4%B8%80%E5%BF%83%E4%B8%89%E8%97%8F",
+  "revisionUrl": "https://yy16s.huijiwiki.com/wiki/%E7%89%B9%E6%AE%8A:%E7%BC%96%E8%BE%91%E5%B7%AE%E5%BC%82/20476",
+  "checkedAt": "2026-09-13",
+  "license": "CC BY-NC-SA 3.0",
+  "articleAvailable": true,
+  "category": "sets",
+  "grade": {
+    "en": "Purple",
+    "ko": "보라"
+  },
+  "gradeOriginal": "紫",
+  "styleScore": 178,
+  "flags": {
+    "dye": false,
+    "tailoring": false,
+    "gifting": false,
+    "trading": false
+  },
+  "components": [
+    {
+      "nameOriginal": "发型",
+      "label": {
+        "en": "Hair",
+        "ko": "헤어"
+      },
+      "styleScore": 30,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E4%B8%80%E5%BF%83%E4%B8%89%E8%97%8F/%E5%8F%91%E5%9E%8B"
+    },
+    {
+      "nameOriginal": "服装",
+      "label": {
+        "en": "Outfit",
+        "ko": "의복"
+      },
+      "styleScore": 120,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E4%B8%80%E5%BF%83%E4%B8%89%E8%97%8F/%E6%9C%8D%E8%A3%85"
+    },
+    {
+      "nameOriginal": "三世佛",
+      "label": {
+        "en": "San Shi Fu",
+        "ko": "三世佛"
+      },
+      "styleScore": 8,
+      "sourceUrl": null
+    }
+  ],
+  "reportedComponentCount": 3,
+  "collectionReward": {
+    "amount": 100,
+    "currencyOriginal": "长鸣玉",
+    "currency": {
+      "en": "Echo Jade",
+      "ko": "장명옥"
+    }
+  },
+  "resultsAnimation": null,
+  "acquisition": {
+    "original": "不肝商店/挑战佛光顶镇守概率掉落",
+    "en": "Bugan shop / chance drop from the listed boss",
+    "ko": "불간 상점 / 원문에 기재된 수문장 확률 드롭"
+  },
+  "timing": null,
+  "weapon": null,
+  "martialArt": null,
+  "replacedMove": null,
+  "mountType": null,
+  "sourceFields": {
+    "染色": "✘",
+    "裁造": "✘",
+    "赠送": "✘",
+    "交易": "✘",
+    "部件数量": "3",
+    "风华值": "178",
+    "获取方式": "不肝商店/挑战佛光顶镇守概率掉落",
+    "集齐奖励": "长鸣玉 x100"
+  }
+}

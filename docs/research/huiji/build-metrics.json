@@ -1,0 +1,26 @@
+{
+  "allClientJsGzip": 388229,
+  "largestJs": [
+    [
+      "catalog-DoSqSliL.js",
+      168977
+    ],
+    [
+      "framework-D_rUT4EX.js",
+      58938
+    ],
+    [
+      "site-app-BbwfNwCR.js",
+      33873
+    ],
+    [
+      "index-DehOG8tQ.js",
+      32250
+    ]
+  ],
+  "wikiFiles": 395,
+  "wikiTotalBytes": 691534,
+  "wikiMedianBytes": 1564,
+  "wikiMaxBytes": 3928,
+  "fonts": 334876
+}

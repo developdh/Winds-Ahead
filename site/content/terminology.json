@@ -1,0 +1,118 @@
+{
+  "currencies": {
+    "长鸣珠": {
+      "en": "Echo Beads",
+      "ko": "장명주"
+    },
+    "八音窍": {
+      "en": "Harmonic Core",
+      "ko": "공명 구슬"
+    },
+    "音玉": {
+      "en": "Sound Jade",
+      "ko": "음옥"
+    },
+    "瑶昙心": {
+      "en": "Yao Tan Xin",
+      "ko": "요담심"
+    },
+    "绕梁之音": {
+      "en": "Lingering Melody",
+      "ko": "음의 선율"
+    },
+    "鸣瑞之音": {
+      "en": "Ming Rui Zhi Yin",
+      "ko": "명서지음"
+    },
+    "响春铃": {
+      "en": "Xiang Chun Ling",
+      "ko": "향춘령"
+    },
+    "漱云笙": {
+      "en": "Shu Yun Sheng",
+      "ko": "수운생"
+    },
+    "Echo Beads": {
+      "en": "Echo Beads",
+      "ko": "장명주"
+    },
+    "Harmonic Core": {
+      "en": "Harmonic Core",
+      "ko": "공명 구슬"
+    },
+    "Sound Jade": {
+      "en": "Sound Jade",
+      "ko": "음옥"
+    },
+    "Adventure Slips": {
+      "en": "Adventure Slips",
+      "ko": "사해첩"
+    },
+    "Sin Leaves": {
+      "en": "Sin Leaves",
+      "ko": "죄업"
+    },
+    "Reputation": {
+      "en": "Reputation",
+      "ko": "강호 명성"
+    },
+    "Fourfold Coins": {
+      "en": "Fourfold Coins",
+      "ko": "사방전"
+    },
+    "风摇夏": {
+      "en": "Feng Yao Xia",
+      "ko": "풍요하"
+    },
+    "蜀戏春": {
+      "en": "Shu Xi Chun",
+      "ko": "촉희춘"
+    }
+  },
+  "sources": [
+    {
+      "url": "https://www.wherewindsmeetgame.com/kr/news/official/527update.html",
+      "title": "5월 27일 최적화 및 수정 안내",
+      "use": "KO Draw Shop, Harmonic Core, Sound Jade interface labels"
+    },
+    {
+      "url": "https://www.wherewindsmeetgame.com/news/official/527update.html",
+      "title": "May 27 Patch Notes",
+      "use": "EN Draw Shop, Harmonic Core, Sound Jade interface labels"
+    },
+    {
+      "url": "https://www.wherewindsmeetgame.com/kr/news/official/1212notice.html",
+      "title": "게임 설치 및 Playstation Store 관련 안내",
+      "use": "KO Echo Beads, Echo Jade and battle pass labels"
+    },
+    {
+      "url": "https://www.wherewindsmeetgame.com/news/official/903update.html",
+      "title": "September update overview",
+      "use": "EN Echo Beads label in the September 13 promotional poster"
+    },
+    {
+      "url": "https://www.wherewindsmeetgame.com/kr/news/official/JAN8.html",
+      "title": "1월 9일 1.2버전 최적화 및 오류 수정 업데이트 안내",
+      "use": "KO Lingering Melody interface label"
+    },
+    {
+      "url": "https://www.wherewindsmeetgame.com/news/official/JAN8.html",
+      "title": "Version 1.2 (January 8th) Bug fixes and Optimizations",
+      "use": "EN Lingering Melody interface label"
+    },
+    {
+      "url": "https://www.yysls.cn/news/official/20260206/37780_1285866.html",
+      "title": "全新聆音套装贺岁新春，诸多外观即将上线",
+      "use": "CN event-currency originals only; EN/KO readings provisional"
+    },
+    {
+      "url": "https://www.yysls.cn/news/official/20260724/37780_1309060.html",
+      "title": "全新聆音外观【银浦流云】登场，《新白娘子传奇》联动将启",
+      "use": "CN event-currency originals only; EN/KO readings provisional"
+    }
+  ],
+  "note": {
+    "en": "Global interface terms aid readability; CN originals remain visible. Event-currency names Yao Tan Xin, Ming Rui Zhi Yin, Xiang Chun Ling and Shu Yun Sheng are provisional readings, not verified global terms or prices.",
+    "ko": "이해를 돕기 위해 글로벌 UI 용어를 참고하고 중국 원명을 남깁니다. 요담심·명서지음·향춘령·수운생은 편의 독음이며 글로벌 공식명이나 가격의 근거가 아닙니다."
+  }
+}

@@ -1,0 +1,26 @@
+name: Bug report · 버그 제보
+description: Report a broken interaction or layout. 동작·화면 오류를 알려주세요.
+title: "[Bug] "
+body:
+  - type: input
+    id: page
+    attributes:
+      label: Page URL · 페이지 주소
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: What happened and how to reproduce · 상황과 재현 방법
+      description: Include expected behavior. 예상한 동작도 적어주세요.
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Browser and device · 브라우저와 기기
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Optional screenshot · 선택 사항 스크린샷
+      description: Remove personal information. 개인 정보는 가려주세요.

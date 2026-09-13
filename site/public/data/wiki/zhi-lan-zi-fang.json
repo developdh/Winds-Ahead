@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "cosmeticId": "zhi-lan-zi-fang",
+  "titleOriginal": "芝兰自芳",
+  "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E8%8A%9D%E5%85%B0%E8%87%AA%E8%8A%B3",
+  "revisionUrl": "https://yy16s.huijiwiki.com/wiki/%E7%89%B9%E6%AE%8A:%E7%BC%96%E8%BE%91%E5%B7%AE%E5%BC%82/6142",
+  "checkedAt": "2026-09-13",
+  "license": "CC BY-NC-SA 3.0",
+  "articleAvailable": true,
+  "category": "sets",
+  "grade": {
+    "en": "Purple",
+    "ko": "보라"
+  },
+  "gradeOriginal": "紫",
+  "styleScore": null,
+  "flags": {
+    "dye": null,
+    "tailoring": null,
+    "gifting": null,
+    "trading": null
+  },
+  "components": [
+    {
+      "nameOriginal": "梳妆-发型",
+      "label": {
+        "en": "Hair",
+        "ko": "헤어"
+      },
+      "styleScore": 70,
+      "sourceUrl": null
+    },
+    {
+      "nameOriginal": "衣物-上衣",
+      "label": {
+        "en": "Top",
+        "ko": "상의"
+      },
+      "styleScore": 130,
+      "sourceUrl": null
+    },
+    {
+      "nameOriginal": "衣物-下装",
+      "label": {
+        "en": "Bottom",
+        "ko": "하의"
+      },
+      "styleScore": 80,
+      "sourceUrl": null
+    },
+    {
+      "nameOriginal": "衣物-披挂",
+      "label": {
+        "en": "Outerwear",
+        "ko": "겉옷"
+      },
+      "styleScore": 30,
+      "sourceUrl": null
+    },
+    {
+      "nameOriginal": "饰品-发饰",
+      "label": {
+        "en": "Hair ornament",
+        "ko": "머리 장신구"
+      },
+      "styleScore": 15,
+      "sourceUrl": null
+    }
+  ],
+  "reportedComponentCount": 5,
+  "collectionReward": {
+    "amount": 100,
+    "currencyOriginal": "长鸣玉",
+    "currency": {
+      "en": "Echo Jade",
+      "ko": "장명옥"
+    }
+  },
+  "resultsAnimation": null,
+  "acquisition": {
+    "original": "战令「夹钟奏雅·下」",
+    "en": "Battle pass",
+    "ko": "시즌 패스"
+  },
+  "timing": {
+    "original": "2026年5月8日版本更新后",
+    "en": "2026-05-08 after update",
+    "ko": "2026-05-08 업데이트 후",
+    "timezone": null
+  },
+  "weapon": null,
+  "martialArt": null,
+  "replacedMove": null,
+  "mountType": null,
+  "sourceFields": {
+    "“": "芝兰生于深林，不以无人而不芳。君子修道立德，不因外物而改节。\t”",
+    "所属类别": "风雅集",
+    "等级": "紫",
+    "数量部件": "5",
+    "具体获取方式": "战令「夹钟奏雅·下」",
+    "价格": "68元",
+    "限时": "2026年5月8日-2026年6月26日5时",
+    "上线时间": "2026年5月8日版本更新后",
+    "收集奖励": "100长鸣玉",
+    "女号": "男号",
+    "梳妆-发型": "70\t梳妆-发型\t70",
+    "衣物-上衣": "130\t衣物-上衣\t130",
+    "衣物-下装": "80\t衣物-下装\t80",
+    "衣物-披挂": "30\t衣物-披挂\t30",
+    "饰品-发饰": "15\t饰品-发饰\t15",
+    "合计": "325\t合计\t325"
+  },
+  "additionalNote": {
+    "en": "The wiki lists 325 style points per body type and 20 for set completion, plus a CN¥68 battle pass price. This is not a standalone outfit price.",
+    "ko": "위키에는 체형별 풍화치 325점과 세트 완성 20점, 시즌 패스 가격 68위안이 기재되어 있습니다. 의상 단품 가격이 아닙니다."
+  }
+}

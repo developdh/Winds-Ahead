@@ -1,0 +1,104 @@
+{
+  "schemaVersion": 1,
+  "cosmeticId": "baigui-zhi-yi",
+  "titleOriginal": "百诡志异",
+  "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E7%99%BE%E8%AF%A1%E5%BF%97%E5%BC%82",
+  "revisionUrl": "https://yy16s.huijiwiki.com/wiki/%E7%89%B9%E6%AE%8A:%E7%BC%96%E8%BE%91%E5%B7%AE%E5%BC%82/20585",
+  "checkedAt": "2026-09-13",
+  "license": "CC BY-NC-SA 3.0",
+  "articleAvailable": true,
+  "category": "sets",
+  "grade": {
+    "en": "Purple",
+    "ko": "보라"
+  },
+  "gradeOriginal": "紫",
+  "styleScore": 340,
+  "flags": {
+    "dye": true,
+    "tailoring": false,
+    "gifting": true,
+    "trading": false
+  },
+  "components": [
+    {
+      "nameOriginal": "发型",
+      "label": {
+        "en": "Hair",
+        "ko": "헤어"
+      },
+      "styleScore": 70,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E7%99%BE%E8%AF%A1%E5%BF%97%E5%BC%82/%E5%8F%91%E5%9E%8B"
+    },
+    {
+      "nameOriginal": "上衣",
+      "label": {
+        "en": "Top",
+        "ko": "상의"
+      },
+      "styleScore": 130,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E7%99%BE%E8%AF%A1%E5%BF%97%E5%BC%82/%E4%B8%8A%E8%A1%A3"
+    },
+    {
+      "nameOriginal": "下装",
+      "label": {
+        "en": "Bottom",
+        "ko": "하의"
+      },
+      "styleScore": 80,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E7%99%BE%E8%AF%A1%E5%BF%97%E5%BC%82/%E4%B8%8B%E8%A3%85"
+    },
+    {
+      "nameOriginal": "帽子",
+      "label": {
+        "en": "Headwear",
+        "ko": "모자"
+      },
+      "styleScore": 20,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E7%99%BE%E8%AF%A1%E5%BF%97%E5%BC%82/%E5%B8%BD%E5%AD%90"
+    },
+    {
+      "nameOriginal": "小型配饰",
+      "label": {
+        "en": "Small accessory",
+        "ko": "소형 장신구"
+      },
+      "styleScore": 10,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E7%99%BE%E8%AF%A1%E5%BF%97%E5%BC%82/%E5%B0%8F%E5%9E%8B%E9%85%8D%E9%A5%B0"
+    },
+    {
+      "nameOriginal": "中型配饰",
+      "label": {
+        "en": "Medium accessory",
+        "ko": "중형 장신구"
+      },
+      "styleScore": 10,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E7%99%BE%E8%AF%A1%E5%BF%97%E5%BC%82/%E4%B8%AD%E5%9E%8B%E9%85%8D%E9%A5%B0"
+    }
+  ],
+  "reportedComponentCount": 6,
+  "collectionReward": {
+    "amount": 100,
+    "currencyOriginal": "长鸣玉",
+    "currency": {
+      "en": "Echo Jade",
+      "ko": "장명옥"
+    }
+  },
+  "resultsAnimation": null,
+  "acquisition": null,
+  "timing": null,
+  "weapon": null,
+  "martialArt": null,
+  "replacedMove": null,
+  "mountType": null,
+  "sourceFields": {
+    "染色": "✔",
+    "裁造": "✘",
+    "赠送": "✔",
+    "交易": "✘",
+    "部件数量": "6",
+    "风华值": "340",
+    "集齐奖励": "长鸣玉 x100"
+  }
+}

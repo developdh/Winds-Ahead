@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "cosmeticId": "ying-hun-zhao-gu",
+  "titleOriginal": "英魂照骨",
+  "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E8%8B%B1%E9%AD%82%E7%85%A7%E9%AA%A8",
+  "revisionUrl": "https://yy16s.huijiwiki.com/wiki/%E7%89%B9%E6%AE%8A:%E7%BC%96%E8%BE%91%E5%B7%AE%E5%BC%82/27254",
+  "checkedAt": "2026-09-13",
+  "license": "CC BY-NC-SA 3.0",
+  "articleAvailable": true,
+  "category": "effect",
+  "grade": {
+    "en": "Gold",
+    "ko": "금색"
+  },
+  "gradeOriginal": "金",
+  "styleScore": 2000,
+  "flags": {
+    "dye": null,
+    "tailoring": null,
+    "gifting": null,
+    "trading": null
+  },
+  "components": [],
+  "reportedComponentCount": null,
+  "collectionReward": null,
+  "resultsAnimation": null,
+  "acquisition": null,
+  "timing": {
+    "original": "2026年3月13日版本更新后",
+    "en": "2026-03-13 after update",
+    "ko": "2026-03-13 업데이트 후",
+    "timezone": null
+  },
+  "weapon": {
+    "original": "枪",
+    "en": "Spear",
+    "ko": "창"
+  },
+  "martialArt": "八方风雷枪",
+  "replacedMove": null,
+  "mountType": null,
+  "sourceFields": {
+    "武学": "八方风雷枪",
+    "兵器": "枪",
+    "风华值": "2000",
+    "上线时间": "2026年3月13日版本更新后"
+  }
+}

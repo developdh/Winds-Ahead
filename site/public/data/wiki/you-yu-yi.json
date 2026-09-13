@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "cosmeticId": "you-yu-yi",
+  "titleOriginal": "有馀依",
+  "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E6%9C%89%E9%A6%80%E4%BE%9D",
+  "revisionUrl": "https://yy16s.huijiwiki.com/wiki/%E7%89%B9%E6%AE%8A:%E7%BC%96%E8%BE%91%E5%B7%AE%E5%BC%82/20549",
+  "checkedAt": "2026-09-13",
+  "license": "CC BY-NC-SA 3.0",
+  "articleAvailable": true,
+  "category": "sets",
+  "grade": {
+    "en": "Purple",
+    "ko": "보라"
+  },
+  "gradeOriginal": "紫",
+  "styleScore": null,
+  "flags": {
+    "dye": true,
+    "tailoring": false,
+    "gifting": false,
+    "trading": false
+  },
+  "components": [
+    {
+      "nameOriginal": "发型",
+      "label": {
+        "en": "Hair",
+        "ko": "헤어"
+      },
+      "styleScore": 110,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E6%9C%89%E9%A6%80%E4%BE%9D/%E5%8F%91%E5%9E%8B"
+    },
+    {
+      "nameOriginal": "上衣",
+      "label": {
+        "en": "Top",
+        "ko": "상의"
+      },
+      "styleScore": 200,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E6%9C%89%E9%A6%80%E4%BE%9D/%E4%B8%8A%E8%A1%A3"
+    },
+    {
+      "nameOriginal": "下装",
+      "label": {
+        "en": "Bottom",
+        "ko": "하의"
+      },
+      "styleScore": 130,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E6%9C%89%E9%A6%80%E4%BE%9D/%E4%B8%8B%E8%A3%85"
+    },
+    {
+      "nameOriginal": "面饰",
+      "label": {
+        "en": "Face accessory",
+        "ko": "얼굴 장신구"
+      },
+      "styleScore": 20,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E6%9C%89%E9%A6%80%E4%BE%9D/%E9%9D%A2%E9%A5%B0"
+    },
+    {
+      "nameOriginal": "耳饰",
+      "label": {
+        "en": "Earrings",
+        "ko": "귀 장신구"
+      },
+      "styleScore": 10,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E6%9C%89%E9%A6%80%E4%BE%9D/%E8%80%B3%E9%A5%B0"
+    },
+    {
+      "nameOriginal": "小型配饰",
+      "label": {
+        "en": "Small accessory",
+        "ko": "소형 장신구"
+      },
+      "styleScore": 10,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E6%9C%89%E9%A6%80%E4%BE%9D/%E5%B0%8F%E5%9E%8B%E9%85%8D%E9%A5%B0"
+    },
+    {
+      "nameOriginal": "大型配饰",
+      "label": {
+        "en": "Large accessory",
+        "ko": "대형 장신구"
+      },
+      "styleScore": 30,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E6%9C%89%E9%A6%80%E4%BE%9D/%E5%A4%A7%E5%9E%8B%E9%85%8D%E9%A5%B0"
+    }
+  ],
+  "reportedComponentCount": null,
+  "collectionReward": {
+    "amount": 100,
+    "currencyOriginal": "长鸣玉",
+    "currency": {
+      "en": "Echo Jade",
+      "ko": "장명옥"
+    }
+  },
+  "resultsAnimation": null,
+  "acquisition": {
+    "original": "「和鸣·玉振扬音」「蕤宾叠奏」赛季获取",
+    "en": "Resonance draw",
+    "ko": "공명 추첨"
+  },
+  "timing": {
+    "original": "2026年6月26日版本更新后~9月24日04:59:59",
+    "en": "2026-06-26 after update — 9/24 (year unstated)04:59:59",
+    "ko": "2026-06-26 업데이트 후 — 9/24 (연도 미표기)04:59:59",
+    "timezone": null
+  },
+  "weapon": null,
+  "martialArt": null,
+  "replacedMove": null,
+  "mountType": null,
+  "sourceFields": {
+    "染色": "✔",
+    "裁造": "✘",
+    "赠送": "✘",
+    "交易": "✘",
+    "上线时间": "2026年6月26日版本更新后~9月24日04:59:59",
+    "获取方式": "「和鸣·玉振扬音」「蕤宾叠奏」赛季获取",
+    "集齐奖励": "长鸣玉 x100"
+  }
+}

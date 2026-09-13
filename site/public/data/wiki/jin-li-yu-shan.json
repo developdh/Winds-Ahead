@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "cosmeticId": "jin-li-yu-shan",
+  "titleOriginal": "赋神·锦鲤玉扇",
+  "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E8%B5%8B%E7%A5%9E%C2%B7%E9%94%A6%E9%B2%A4%E7%8E%89%E6%89%87",
+  "revisionUrl": "https://yy16s.huijiwiki.com/wiki/%E7%89%B9%E6%AE%8A:%E7%BC%96%E8%BE%91%E5%B7%AE%E5%BC%82/27117",
+  "checkedAt": "2026-09-13",
+  "license": "CC BY-NC-SA 3.0",
+  "articleAvailable": true,
+  "category": "weapon",
+  "grade": {
+    "en": "Gold",
+    "ko": "금색"
+  },
+  "gradeOriginal": "金",
+  "styleScore": 1200,
+  "flags": {
+    "dye": null,
+    "tailoring": null,
+    "gifting": null,
+    "trading": null
+  },
+  "components": [],
+  "reportedComponentCount": null,
+  "collectionReward": null,
+  "resultsAnimation": null,
+  "acquisition": null,
+  "timing": {
+    "original": "2025年11月28日版本更新后",
+    "en": "2025-11-28 after update",
+    "ko": "2025-11-28 업데이트 후",
+    "timezone": null
+  },
+  "weapon": {
+    "original": "扇",
+    "en": "Fan",
+    "ko": "부채"
+  },
+  "martialArt": null,
+  "replacedMove": null,
+  "mountType": null,
+  "sourceFields": {
+    "兵器": "扇",
+    "风华值": "1200",
+    "上线时间": "2025年11月28日版本更新后"
+  }
+}

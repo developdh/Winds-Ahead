@@ -1,0 +1,4790 @@
+{
+  "zui-penglai": {
+    "koName": "취봉래",
+    "description": {
+      "en": "Pale silk, flowing aqua accents, and a touch of the ethereal.",
+      "ko": "옅은 비단과 물빛 장식이 어우러진 신선의 옷차림."
+    }
+  },
+  "qing-fangzun": {
+    "koName": "경방준",
+    "description": {
+      "en": "White hair gathered with delicate, pale ornaments.",
+      "ko": "섬세한 장식으로 정돈한 백색 머리."
+    }
+  },
+  "zongheng": {
+    "koName": "종횡",
+    "description": {
+      "en": "Crimson and gold, framed by a dramatic fur collar.",
+      "ko": "붉은빛과 금빛, 풍성한 털 장식의 강렬한 조화."
+    }
+  },
+  "chongming": {
+    "koName": "중명",
+    "description": {
+      "en": "Dark hair with gold ornaments and crimson details.",
+      "ko": "검은 머리 위로 더해진 금색 장식과 붉은 포인트."
+    }
+  },
+  "jumang": {
+    "koName": "구망",
+    "description": {
+      "en": "Deep teal and bronze with intricate bird-inspired details.",
+      "ko": "짙은 청록과 청동빛으로 풀어낸 정교한 새의 형상."
+    }
+  },
+  "tianzhi-minggui": {
+    "koName": "천지명귀",
+    "description": {
+      "en": "Cool blue hair with sculpted, ornamental details.",
+      "ko": "차가운 푸른빛과 조형적인 장식이 돋보이는 머리."
+    }
+  },
+  "yunzhong-jinshu": {
+    "koName": "운중금서",
+    "description": {
+      "en": "A scholar’s silhouette in white, black, and flowing ink.",
+      "ko": "먹빛 무늬가 흐르는 흑백의 단아한 문인 차림."
+    }
+  },
+  "cangyin-xihe-qiaori": {
+    "koName": "장음 · 희화교일",
+    "description": {
+      "en": "A luminous blade with blue-white and fiery alternate forms.",
+      "ko": "푸른 광채와 불꽃빛 변형을 지닌 도검 외형."
+    }
+  },
+  "zui-hun-zhuo-yu": {
+    "koName": "취혼탁옥",
+    "description": {
+      "en": "Green silk and silver robes, embroidered with landscapes.",
+      "ko": "산수 자수를 놓은 은빛 겉옷과 녹색 비단."
+    }
+  },
+  "bu-qiu-ting": {
+    "koName": "보추정",
+    "description": {
+      "en": "Gold and cream robes amid autumn foliage.",
+      "ko": "가을빛 속 금색과 크림색의 우아한 옷차림."
+    }
+  },
+  "xue-lingdang": {
+    "koName": "혈령당",
+    "description": {
+      "en": "A crimson blade with dark metal fittings.",
+      "ko": "어두운 금속 장식과 붉은 칼날."
+    }
+  },
+  "yi-he-wei-gui": {
+    "koName": "이하위귀",
+    "description": {
+      "en": "An oversized pink lotus bud forms the blade.",
+      "ko": "커다란 분홍 연꽃 봉오리를 본뜬 무기."
+    }
+  },
+  "ru-shi-yuan": {
+    "koName": "여시원",
+    "description": {
+      "en": "Blue and gold, lotus ornaments and translucent silk.",
+      "ko": "청금빛 연꽃 장식과 투명한 비단."
+    }
+  },
+  "ying-kong": {
+    "koName": "영공",
+    "description": {
+      "en": "White hair crowned with delicate gold ornaments.",
+      "ko": "섬세한 금빛 관을 얹은 백색 머리."
+    }
+  },
+  "xuanying-lianchen-buran": {
+    "koName": "현영 · 연진불염",
+    "description": {
+      "en": "A luminous blue blade with a starry finish.",
+      "ko": "별빛을 담은 푸른 칼날."
+    }
+  },
+  "wanlai-zhan-han-lin": {
+    "koName": "만뢰 · 참한린",
+    "description": {
+      "en": "Crossed blades in icy blue and dark silver.",
+      "ko": "얼음빛과 검은 은색으로 교차하는 쌍도."
+    }
+  },
+  "wanlai-cui-mo-yu": {
+    "koName": "만뢰 · 최묵우",
+    "description": {
+      "en": "Dark feathered gauntlets with crystalline blue details.",
+      "ko": "검은 깃털과 푸른 결정 장식의 수갑."
+    }
+  },
+  "chi-yan-qi-hua-yan-yang": {
+    "koName": "적염기화 · 염양",
+    "description": {
+      "en": "Fiery red trails and sparks around an umbrella.",
+      "ko": "우산을 감싸는 붉은 불꽃과 잔광."
+    }
+  },
+  "fei-rong-qing-xiang": {
+    "koName": "비용청향",
+    "description": {
+      "en": "Jade green, gold and soft white feathers.",
+      "ko": "비취빛과 금빛, 흰 깃털이 어우러진 선녀 차림."
+    }
+  },
+  "zhen-han-liu": {
+    "koName": "침한류",
+    "description": {
+      "en": "Ink-white robes with blue irises.",
+      "ko": "푸른 붓꽃으로 장식한 먹빛과 흰색 도포."
+    }
+  },
+  "qian-nian-you-dai": {
+    "koName": "천년유대",
+    "description": {
+      "en": "Moon-white silk and lake-green layers.",
+      "ko": "호수빛 겹옷과 달빛 같은 흰 비단."
+    }
+  },
+  "qing-lin-fu-yu": {
+    "koName": "청린불우",
+    "description": {
+      "en": "Emerald silk, dark capes and serpent details.",
+      "ko": "청록 비단과 어두운 망토, 뱀을 본뜬 장식."
+    }
+  },
+  "long-teng-sui-yan": {
+    "koName": "용등세연",
+    "description": {
+      "en": "Flame-red robes with dragon ornaments.",
+      "ko": "용 장식이 돋보이는 불꽃빛 붉은 의상."
+    }
+  },
+  "ming-lu-xun-chun": {
+    "koName": "명록심춘",
+    "description": {
+      "en": "Golden antlers and orange-green silk.",
+      "ko": "금빛 사슴뿔과 주황·녹색 비단."
+    }
+  },
+  "dan-yuan-huan-yu": {
+    "koName": "단연환우",
+    "description": {
+      "en": "Black plumage and silver leopard details.",
+      "ko": "검은 깃털과 은빛 표범 장식."
+    }
+  },
+  "qing-feng-ying-xue": {
+    "koName": "청봉영설",
+    "description": {
+      "en": "White fur, aged gold and teal layers.",
+      "ko": "흰 털 장식과 고풍스러운 금빛·청록 옷자락."
+    }
+  },
+  "lian-du-you-luo": {
+    "koName": "연도유라",
+    "description": {
+      "en": "Violet lotus light and white fur.",
+      "ko": "보랏빛 연꽃과 흰 털 장식."
+    }
+  },
+  "wan-he-qing-xiang": {
+    "koName": "만학청향",
+    "description": {
+      "en": "Pale scholarly robes with landscape patterns.",
+      "ko": "산수 무늬를 담은 옅은 빛 문인 차림."
+    }
+  },
+  "you-hu-sui-sui": {
+    "koName": "유호수수",
+    "description": {
+      "en": "White and dark fox-inspired ceremonial robes.",
+      "ko": "흰 여우와 검은 여우의 형상을 담은 화려한 예복."
+    }
+  },
+  "feng-ru-hua": {
+    "koName": "풍입화",
+    "description": {
+      "en": "Earthy painter robes with colourful beadwork.",
+      "ko": "색색의 구슬과 소박한 화가의 옷차림."
+    }
+  },
+  "yin-pu-liu-yun": {
+    "koName": "은포유운",
+    "description": {
+      "en": "Pearlescent lavender silk and starlight.",
+      "ko": "별빛을 담은 진주광 연보라 비단."
+    }
+  },
+  "yao-si-han-que": {
+    "koName": "요사한궐",
+    "description": {
+      "en": "Floral court dress and flowing dark robes.",
+      "ko": "꽃으로 꾸민 궁중 의상과 유려한 검은 도포."
+    }
+  },
+  "qing-xiao-lue-ying": {
+    "koName": "청소략영",
+    "description": {
+      "en": "Dark falcon-inspired layers and gold embroidery.",
+      "ko": "매의 형상을 담은 어두운 겹옷과 금빛 자수."
+    }
+  },
+  "xuan-gu-zai-yuan": {
+    "koName": "현골재연",
+    "description": {
+      "en": "Black robes with icy skeletal ornaments.",
+      "ko": "얼음빛 뼈 장식이 돋보이는 검은 의상."
+    }
+  },
+  "qing-yuan-ru-hua": {
+    "koName": "경연입화",
+    "description": {
+      "en": "Fresh green layers and kite-inspired ornaments.",
+      "ko": "산뜻한 녹색 겹옷과 연을 본뜬 장식."
+    }
+  },
+  "nan-ming-you-meng": {
+    "koName": "남명유몽",
+    "description": {
+      "en": "Black and white with crimson butterfly accents.",
+      "ko": "흑백 바탕에 붉은 나비를 더한 의상."
+    }
+  },
+  "fu-chen-wu-ji": {
+    "koName": "복진무기",
+    "description": {
+      "en": "White and green dance-inspired robes.",
+      "ko": "흰색과 녹색으로 풀어낸 무용 의상."
+    }
+  },
+  "jin-lv-sheng-lan": {
+    "koName": "금루생란",
+    "description": {
+      "en": "White-gold silk and delicate orchid ornaments.",
+      "ko": "흰색·금색 비단과 섬세한 난초 장식."
+    }
+  },
+  "lian-tai-he": {
+    "koName": "연대학",
+    "description": {
+      "en": "White robes with blue-green lotus details.",
+      "ko": "청록 연꽃 장식과 흰 도포."
+    }
+  },
+  "zi-yu-xiang-man": {
+    "koName": "자유향만",
+    "description": {
+      "en": "Lavender robes and glass grape ornaments.",
+      "ko": "보랏빛 도포와 유리 포도 장식."
+    }
+  },
+  "shang-qing-yun": {
+    "koName": "上青云",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "que-xian-ye": {
+    "koName": "鹊衔夜",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "feng-hou": {
+    "koName": "封侯",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "yun-yao-he-ying": {
+    "koName": "云遥鹤影",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "baiyi-xiu-luo": {
+    "koName": "白衣修罗",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "xue-man-chuan": {
+    "koName": "雪满川",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "han-hai-qian-shan": {
+    "koName": "瀚海千山",
+    "description": {
+      "en": "Hairstyle documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 헤어입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "qing-yin-xiao": {
+    "koName": "清音晓",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "tie-ma-jin-ge": {
+    "koName": "铁马金戈",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "chu-zhuyi": {
+    "koName": "出竹意",
+    "description": {
+      "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "nong-qing-ying": {
+    "koName": "弄清影",
+    "description": {
+      "en": "Hairstyle documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 헤어입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "xuan-wu-liu-hua": {
+    "koName": "旋舞流华",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "qing-yu-an": {
+    "koName": "青玉案",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "xie-xin-jiao-ying": {
+    "koName": "蝎心蛟影",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "hua-yue-tian-zhen": {
+    "koName": "花月天真",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "meng-liu-jin": {
+    "koName": "梦鎏金",
+    "description": {
+      "en": "Hairstyle documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 헤어입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "ren-dao-lu": {
+    "koName": "仁道驴",
+    "description": {
+      "en": "Mount documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 탈것입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "yan-hai-xiang": {
+    "koName": "雁还乡",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "jin-bu-huan": {
+    "koName": "金不换",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "qing-cao-yuan": {
+    "koName": "青草原",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "nan-feng-xun": {
+    "koName": "南风薰",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "feng-huang-yu-fei": {
+    "koName": "凤凰于飞",
+    "description": {
+      "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "jiang-xing-ru-ming": {
+    "koName": "将星入命",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "wo-zi-qing-tian": {
+    "koName": "我自擎天",
+    "description": {
+      "en": "Hairstyle documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 헤어입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "tian-shang-baiyu-jing": {
+    "koName": "天上白玉京",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "li-chuan-chi-su": {
+    "koName": "鲤传尺素",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "fu-rong-qi-lu": {
+    "koName": "芙蓉泣露",
+    "description": {
+      "en": "Hairstyle documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 헤어입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "chi-zou-xi-feng": {
+    "koName": "驰走西风",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "yue-ru-yin": {
+    "koName": "月如银",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "cang-yinwan-gu-bei-chen": {
+    "koName": "藏音·万古悲尘",
+    "description": {
+      "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "meng-xun-hu-pao": {
+    "koName": "梦寻虎跑",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "fuyun-juan-ai": {
+    "koName": "浮云卷霭",
+    "description": {
+      "en": "Hairstyle documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 헤어입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "wu-hui": {
+    "koName": "无悔",
+    "description": {
+      "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "ru-sui-shuang-tian": {
+    "koName": "如碎霜天",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "jinhua-yu": {
+    "koName": "烬花舆",
+    "description": {
+      "en": "Mount documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 탈것입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "qing-zhi-wu-xin": {
+    "koName": "卿知吾心",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "que-qiao-xian": {
+    "koName": "鹊桥仙",
+    "description": {
+      "en": "Hairstyle documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 헤어입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "sui-shi-an": {
+    "koName": "岁时安",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "hong-chen-jin": {
+    "koName": "红尘烬",
+    "description": {
+      "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "wang-xiang-ke": {
+    "koName": "望乡客",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "yu-you-rong-yan": {
+    "koName": "鱼有绒焉",
+    "description": {
+      "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "xiao-yue": {
+    "koName": "啸月",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "chi-xiao": {
+    "koName": "赤霄",
+    "description": {
+      "en": "Hairstyle documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 헤어입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "shi-shuang-feng": {
+    "koName": "试霜锋",
+    "description": {
+      "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "ji-ye-ling": {
+    "koName": "寂夜铃",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "xi-fang-shi": {
+    "koName": "惜芳时",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "zhi-qing-shuang": {
+    "koName": "执清霜",
+    "description": {
+      "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "wan-qing-liu-li": {
+    "koName": "万顷琉璃",
+    "description": {
+      "en": "Combined hairstyle and accessory set. Its constituent ornaments are included in this set record.",
+      "ko": "헤어와 장신구가 함께 구성된 세트입니다. 포함 장신구를 세트 단위로 기록했습니다."
+    }
+  },
+  "cang-yinhe-fei-fa-xiang": {
+    "koName": "藏音·何非法相",
+    "description": {
+      "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "sha-li-wa": {
+    "koName": "沙里瓦",
+    "description": {
+      "en": "Mount documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 탈것입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "wan-laimanfei-ying": {
+    "koName": "万籁·漫飞英",
+    "description": {
+      "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "shan-jun-xiao-lin": {
+    "koName": "山君啸林",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "you-zhujian": {
+    "koName": "有竹见",
+    "description": {
+      "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "tian-de-xing": {
+    "koName": "天地行",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "mie-ye-ye": {
+    "koName": "咩野野",
+    "description": {
+      "en": "Mount documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 탈것입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "peng-shan-wan-zhong": {
+    "koName": "蓬山万重",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "zui-yun-xing-yu": {
+    "koName": "醉云醒雨",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "fulan": {
+    "koName": "浮岚",
+    "description": {
+      "en": "Hairstyle documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 헤어입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "miao-xian-ren-zhang": {
+    "koName": "喵仙人掌",
+    "description": {
+      "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "jin-li-yu-shan": {
+    "koName": "锦鲤玉扇",
+    "description": {
+      "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "jian-yudiao-ling": {
+    "koName": "剑羽雕翎",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "wan-laizhanyin-yang": {
+    "koName": "万籁·斩阴阳",
+    "description": {
+      "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "cang-yinlong-yue-xiao-han": {
+    "koName": "藏音·龙跃霄汉",
+    "description": {
+      "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "yi-jianshuang-e": {
+    "koName": "一箭双鹅",
+    "description": {
+      "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "xie-tian-xie-de": {
+    "koName": "蟹天蟹地",
+    "description": {
+      "en": "Accessory documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 장신구입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "yan-yan-yu-fei": {
+    "koName": "燕燕于飞",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "kong-que-yao": {
+    "koName": "孔雀谣",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "wu-ji": {
+    "koName": "无羁",
+    "description": {
+      "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "youzi-yi": {
+    "koName": "游子衣",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "sui-han-xiang": {
+    "koName": "岁寒香",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "yan-juan-can-ye": {
+    "koName": "焰卷残夜",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "fei-baicheng-shi": {
+    "koName": "飞白成诗",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "lu-hua": {
+    "koName": "露华",
+    "description": {
+      "en": "Hairstyle documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 헤어입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "sui-huayao-tian-xuanguang": {
+    "koName": "岁华·瑶天悬光",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "que-lin-hua-tai": {
+    "koName": "雀临华台",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "shu-hua-nian": {
+    "koName": "束华年",
+    "description": {
+      "en": "Hairstyle documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 헤어입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "shishiru-yi": {
+    "koName": "柿柿如意",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "xun-shan-ye": {
+    "koName": "寻山野",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "piyun-shui": {
+    "koName": "披云水",
+    "description": {
+      "en": "Hairstyle documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 헤어입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "jiu-xiao-he-ju": {
+    "koName": "九霄何惧",
+    "description": {
+      "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "yi-zhanjiang-tian": {
+    "koName": "一斩绛天",
+    "description": {
+      "en": "Skill effect documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 이펙트입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "mo-ran-chen": {
+    "koName": "墨染尘",
+    "description": {
+      "en": "Skill effect documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 이펙트입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "feng-xi-wan-gu": {
+    "koName": "风戏万古",
+    "description": {
+      "en": "Skill effect documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 이펙트입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "huang-long-duanji": {
+    "koName": "黄龙断戟",
+    "description": {
+      "en": "Skill effect documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 이펙트입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "yu-zhou-fei-ji": {
+    "koName": "御帚飞鸡",
+    "description": {
+      "en": "Skill effect documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 이펙트입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "zhong-shan-jiu-die": {
+    "koName": "重山九叠",
+    "description": {
+      "en": "Skill effect documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 이펙트입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "qing-he-juan-meng": {
+    "koName": "清荷卷梦",
+    "description": {
+      "en": "Skill effect documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 이펙트입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "long-zhan-xuan-huang": {
+    "koName": "龙战玄黄",
+    "description": {
+      "en": "Skill effect documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 이펙트입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "mo-cang-chun": {
+    "koName": "墨藏春",
+    "description": {
+      "en": "Skill effect documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 이펙트입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "yu-long-yan-wu": {
+    "koName": "鱼龙焰舞",
+    "description": {
+      "en": "Skill effect documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 이펙트입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "jin-gang-she-nie": {
+    "koName": "金刚慑孽",
+    "description": {
+      "en": "Skill effect documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 이펙트입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "die-yin-han-xing": {
+    "koName": "蝶引寒星",
+    "description": {
+      "en": "Skill effect documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 이펙트입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "jin-sui-feng-rang": {
+    "koName": "金穗丰穰",
+    "description": {
+      "en": "Skill effect documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 이펙트입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "ni-shang-huai-tian": {
+    "koName": "霓裳徊天",
+    "description": {
+      "en": "Skill effect documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 이펙트입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "han-ya-du-ying": {
+    "koName": "寒鸦渡影",
+    "description": {
+      "en": "Skill effect documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 이펙트입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "jin-wu-zhui-huo": {
+    "koName": "金乌坠火",
+    "description": {
+      "en": "Skill effect documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 이펙트입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "fei-shuang-dianxue": {
+    "koName": "飞霜点雪",
+    "description": {
+      "en": "Skill effect documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 이펙트입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "yin-qian-ji": {
+    "koName": "引千机",
+    "description": {
+      "en": "Skill effect documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 이펙트입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "wu-yin-guan-luan": {
+    "koName": "雾隐关峦",
+    "description": {
+      "en": "Skill effect documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 이펙트입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "ling-jiao-zhi-meng": {
+    "koName": "灵鲛织梦",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "jun-lin-zhong-xiao": {
+    "koName": "君临重霄",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "cang-yinqian-long-zai-yuan": {
+    "koName": "藏音·潜龙在渊",
+    "description": {
+      "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "qing-yuzhu-yun": {
+    "koName": "青羽逐云",
+    "description": {
+      "en": "Mount documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 탈것입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "baigui-zhi-yi": {
+    "koName": "百诡志异",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "hu-chi-hai-sai": {
+    "koName": "鹕吃海塞",
+    "description": {
+      "en": "Mount documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 탈것입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "kuai-yi-enchou": {
+    "koName": "筷意恩仇",
+    "description": {
+      "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "suanni-zhen-xin": {
+    "koName": "狻猊镇心",
+    "description": {
+      "en": "Skill effect documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 이펙트입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "lie-baiyu": {
+    "koName": "猎白羽",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "wan-laixue-zhi-feng": {
+    "koName": "万籁·雪知风",
+    "description": {
+      "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "wan-laifeng-fu-xue": {
+    "koName": "万籁·风拂雪",
+    "description": {
+      "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "fei-peng-tuan-kong": {
+    "koName": "飞鹏抟空",
+    "description": {
+      "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "ming-he-zai-xue": {
+    "koName": "明河载雪",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "han-ying": {
+    "koName": "寒英",
+    "description": {
+      "en": "Hairstyle documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 헤어입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "chi-xin-yi-cun": {
+    "koName": "赤心一寸",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "da-dao-tong-ming": {
+    "koName": "大道通明",
+    "description": {
+      "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "ran-hua-qing-ye": {
+    "koName": "燃花庆夜",
+    "description": {
+      "en": "Skill effect documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 이펙트입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "cang-yinni-shang-tian-feng": {
+    "koName": "藏音·霓裳天风",
+    "description": {
+      "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "tan-mei-feng-chun": {
+    "koName": "探梅逢春",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "kongshan-xun-mei": {
+    "koName": "空山寻梅",
+    "description": {
+      "en": "Hairstyle documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 헤어입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "ma-shang-you-qian": {
+    "koName": "马上有乾",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "ling-chun-sheng": {
+    "koName": "聆春声",
+    "description": {
+      "en": "Hairstyle documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 헤어입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "cai-xing-gao-zhao": {
+    "koName": "财星高照",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "wan-laizhe-tao-wen-xue": {
+    "koName": "万籁·折桃问雪",
+    "description": {
+      "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "wan-laiyi-xue-ting-chun": {
+    "koName": "万籁·倚雪听春",
+    "description": {
+      "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "qing-niao-xian-dao": {
+    "koName": "青鸟衔刀",
+    "description": {
+      "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "zhuolangtian-qing": {
+    "koName": "濯浪天清",
+    "description": {
+      "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "fei-ma-zhu-ri": {
+    "koName": "飞马逐日",
+    "description": {
+      "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "pi-xiu-ci-bao": {
+    "koName": "貔貅赐宝",
+    "description": {
+      "en": "Skill effect documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 이펙트입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "qing-luan-yao-yin": {
+    "koName": "青鸾瑶音",
+    "description": {
+      "en": "Accessory documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 장신구입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "jin-lin-song-rui": {
+    "koName": "锦鳞送瑞",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "jin-feng-yu-lu": {
+    "koName": "金风玉露",
+    "description": {
+      "en": "Hairstyle documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 헤어입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "you-ye-chen-ying": {
+    "koName": "幽夜尘影",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "zhong-ming-zheng-yin": {
+    "koName": "钟鸣正音",
+    "description": {
+      "en": "Skill effect documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 이펙트입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "tian-yao-su-wei": {
+    "koName": "天曜肃威",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "liu-sha-wen-gu": {
+    "koName": "流沙问蛊",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "qiu-hong-ta-zhi": {
+    "koName": "秋鸿踏枝",
+    "description": {
+      "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "chi-long-chengtian": {
+    "koName": "赤龙承天",
+    "description": {
+      "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "fang-fei-chun-hua": {
+    "koName": "芳菲春华",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "wu-ling-chun": {
+    "koName": "武陵春",
+    "description": {
+      "en": "Hairstyle documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 헤어입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "han-lu-jing-cui": {
+    "koName": "寒露惊翠",
+    "description": {
+      "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "pu-si-duanyu": {
+    "koName": "蒲丝断玉",
+    "description": {
+      "en": "Skill effect documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 이펙트입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "song-ji-cheng-xiang": {
+    "koName": "颂吉呈祥",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "yu-yu-xuan-ji": {
+    "koName": "玉宇璇玑",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "zhang-meng-tian-xing": {
+    "koName": "长梦天星",
+    "description": {
+      "en": "Hairstyle documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 헤어입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "yi-chun-shan": {
+    "koName": "忆春山",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "cang-yindan-xiao-qing-ming": {
+    "koName": "藏音·丹霄清鸣",
+    "description": {
+      "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "wan-laishan-jun-chu": {
+    "koName": "万籁·山君出",
+    "description": {
+      "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "yi-ji-zhi-ming": {
+    "koName": "以鸡之鸣",
+    "description": {
+      "en": "Skill effect documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 이펙트입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "zhaji-tong": {
+    "koName": "炸鸡桶",
+    "description": {
+      "en": "Accessory documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 장신구입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "wu-fan-shi-sheng": {
+    "koName": "午饭匙盛",
+    "description": {
+      "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "ba-la-ba-ba-ba": {
+    "koName": "八啦八八叭",
+    "description": {
+      "en": "Accessory documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 장신구입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "fang-hua-lin-lang": {
+    "koName": "芳华琳琅",
+    "description": {
+      "en": "Accessory documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 장신구입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "wu-chun-shang": {
+    "koName": "舞春裳",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "chun-fei-manye": {
+    "koName": "春菲漫野",
+    "description": {
+      "en": "Skill effect documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 이펙트입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "chun-yuan": {
+    "koName": "春鸢",
+    "description": {
+      "en": "Hairstyle documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 헤어입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "fan-yue-xing-chuan": {
+    "koName": "泛月行川",
+    "description": {
+      "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "wan-laiyin-jiang-fu": {
+    "koName": "万籁·寅将伏",
+    "description": {
+      "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "shao-nian-xing": {
+    "koName": "少年行",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "wu-sheng-gu": {
+    "koName": "无生蛊",
+    "description": {
+      "en": "Accessory documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 장신구입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "zhuxuan-dong-yue": {
+    "koName": "竹喧动月",
+    "description": {
+      "en": "Skill effect documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 이펙트입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "cong-cong-rong-rong": {
+    "koName": "葱葱容容",
+    "description": {
+      "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "dianchun-ou": {
+    "koName": "点春瓯",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "du-yao-jin": {
+    "koName": "渡瑶津",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "qing-lian": {
+    "koName": "清涟",
+    "description": {
+      "en": "Hairstyle documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 헤어입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "cang-yinxing-he-yu-shu": {
+    "koName": "藏音·星河欲曙",
+    "description": {
+      "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "jin-youmeng": {
+    "koName": "今游梦",
+    "description": {
+      "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "zhi-lan-zi-fang": {
+    "koName": "芝兰自芳",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "cheng-fu-gui-meng": {
+    "koName": "乘桴归梦",
+    "description": {
+      "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "qiongzhi-yu-jinglu-hua": {
+    "koName": "琼枝玉鲸·露华",
+    "description": {
+      "en": "Skill effect documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 이펙트입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "du-chen-hua": {
+    "koName": "渡尘华",
+    "description": {
+      "en": "Hairstyle documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 헤어입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "zhi-le-er-le": {
+    "koName": "知乐而乐",
+    "description": {
+      "en": "Skill effect documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 이펙트입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "xiong-you-cheng-zhu": {
+    "koName": "熊有成竹",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "wan-lairu-qing-ai": {
+    "koName": "万籁·入青霭",
+    "description": {
+      "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "wan-laining-ziyan": {
+    "koName": "万籁·凝紫烟",
+    "description": {
+      "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "wo-si-e": {
+    "koName": "卧思鹅",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "landong-feng": {
+    "koName": "揽东风",
+    "description": {
+      "en": "Mount documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 탈것입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "yu-long-kongyou": {
+    "koName": "鱼龙空游",
+    "description": {
+      "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "an-xing-feng": {
+    "koName": "黯行锋",
+    "description": {
+      "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "wu-nian-ke-kao-san-nian-mo-ni": {
+    "koName": "五年科考三年模拟",
+    "description": {
+      "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "yi-ju-duo-kui": {
+    "koName": "一举夺魁",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "cang-yinni-shang-qing-xiang": {
+    "koName": "藏音·霓裳清响",
+    "description": {
+      "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "gui-shou-fen-lian": {
+    "koName": "鬼手焚莲",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "wan-laizuo-xuan-gui": {
+    "koName": "万籁·琢玄圭",
+    "description": {
+      "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "wan-laipei-cang-long": {
+    "koName": "万籁·佩苍龙",
+    "description": {
+      "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "shuang-yue-yin": {
+    "koName": "霜月引",
+    "description": {
+      "en": "Hairstyle documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 헤어입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "baizewen-lingqian-xiang": {
+    "koName": "白泽问灵·乾象",
+    "description": {
+      "en": "Skill effect documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 이펙트입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "mo-yi-qian-jun": {
+    "koName": "墨意千钧",
+    "description": {
+      "en": "Skill effect documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 이펙트입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "zongye-qing-huang": {
+    "koName": "粽叶青黄",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "xuan-yingyou-shi-sheng-fang": {
+    "koName": "玄瑛·幽石生芳",
+    "description": {
+      "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "xuan-yinggou-yue-xian-xian": {
+    "koName": "玄瑛·钩月纤纤",
+    "description": {
+      "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "jin-wu-yu-ri": {
+    "koName": "金乌御日",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "you-yu-yi": {
+    "koName": "有馀依",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "zhong-sheng-dian-dao": {
+    "koName": "众生颠倒",
+    "description": {
+      "en": "Hairstyle documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 헤어입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "han-mo-dan-qing": {
+    "koName": "翰墨丹青",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "gu-guan-wan-li": {
+    "koName": "故关万里",
+    "description": {
+      "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "xin-hen-shou-la": {
+    "koName": "心狠手辣",
+    "description": {
+      "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "zui-jiao-hong": {
+    "koName": "醉娇红",
+    "description": {
+      "en": "Companion cosmetic for a pet, not an outfit worn by the player character. See the CN shop conditions.",
+      "ko": "주인공 의상이 아닌 반려 동물용 외관입니다. 중국 상점의 획득 조건을 확인하세요."
+    }
+  },
+  "tu-er-mao": {
+    "koName": "兔耳帽",
+    "description": {
+      "en": "Companion cosmetic for a pet, not an outfit worn by the player character. See the CN shop conditions.",
+      "ko": "주인공 의상이 아닌 반려 동물용 외관입니다. 중국 상점의 획득 조건을 확인하세요."
+    }
+  },
+  "xian-chun-huan": {
+    "koName": "衔春环",
+    "description": {
+      "en": "Companion cosmetic for a pet, not an outfit worn by the player character. See the CN shop conditions.",
+      "ko": "주인공 의상이 아닌 반려 동물용 외관입니다. 중국 상점의 획득 조건을 확인하세요."
+    }
+  },
+  "xuan-yingshui-he-qing-tian": {
+    "koName": "玄瑛·水合青天",
+    "description": {
+      "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "yi-nuoqian-jin": {
+    "koName": "一糯千斤",
+    "description": {
+      "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "xuan-yingjing-ying-yao-yue": {
+    "koName": "현영 · 정영요월",
+    "description": {
+      "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "jiu-xia-guang": {
+    "koName": "九霞光",
+    "description": {
+      "en": "Mount documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 탈것입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "du-feng-tao": {
+    "koName": "渡风涛",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "wu-du": {
+    "koName": "无渡",
+    "description": {
+      "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "yi-ying-ju-quan": {
+    "koName": "一鹰俱犬",
+    "description": {
+      "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "dan-xin": {
+    "koName": "丹心",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "ming-he-fu-yunsi-xian": {
+    "koName": "鸣鹤赴云·思弦",
+    "description": {
+      "en": "Skill effect documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 이펙트입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "teng-she-cheng-wu": {
+    "koName": "腾蛇乘雾",
+    "description": {
+      "en": "Skill effect documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 이펙트입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "yi-lu-yan-xia": {
+    "koName": "一庐烟霞",
+    "description": {
+      "en": "Hairstyle documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 헤어입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "wan-laizhen-cui-shan": {
+    "koName": "万籁·枕翠山",
+    "description": {
+      "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "wan-laiyoubi-feng": {
+    "koName": "万籁·游碧峰",
+    "description": {
+      "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "baishou-tong-zhou": {
+    "koName": "白首同舟",
+    "description": {
+      "en": "Hairstyle documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 헤어입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "qing-bo-zhaoge": {
+    "koName": "青波棹歌",
+    "description": {
+      "en": "Hairstyle documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 헤어입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "xiangsi-zhe": {
+    "koName": "相思遮",
+    "description": {
+      "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "lei-feng-xi-zhao": {
+    "koName": "雷峰夕照",
+    "description": {
+      "en": "Skill effect documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 이펙트입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "xuan-yingyao-tai-fei-jing": {
+    "koName": "玄瑛·瑶台飞镜",
+    "description": {
+      "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "chi-xue-liu-dan": {
+    "koName": "赤血流丹",
+    "description": {
+      "en": "Skill effect documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 이펙트입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "xuan-yingsu-lian-ying-yang": {
+    "koName": "玄瑛·素练鹰扬",
+    "description": {
+      "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "shu-tong-liu-xiang": {
+    "koName": "疏桐流响",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "qiu-lu-qing": {
+    "koName": "秋露晴",
+    "description": {
+      "en": "Hairstyle documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 헤어입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "teng-jiao-cang-shubaicui": {
+    "koName": "腾蛟藏枢·百淬",
+    "description": {
+      "en": "Skill effect documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 이펙트입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "ling-ye-ying-bo": {
+    "koName": "菱叶萦波",
+    "description": {
+      "en": "Skill effect documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 이펙트입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "wu-tong-yin-feng": {
+    "koName": "梧桐引凤",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "mu-dan-gu": {
+    "koName": "牡丹骨",
+    "description": {
+      "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "ban-juan-feng-yan": {
+    "koName": "半卷风烟",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "guaiwu-chang": {
+    "koName": "怪无常",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "yi-nian-zhi-cha": {
+    "koName": "一念之叉",
+    "description": {
+      "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "cang-yinshuang-ling-zhen-que": {
+    "koName": "藏音·双灵镇阙",
+    "description": {
+      "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "sui-mian-xiu-luo": {
+    "koName": "碎面修罗",
+    "description": {
+      "en": "Companion cosmetic for a pet, not an outfit worn by the player character. See the CN shop conditions.",
+      "ko": "주인공 의상이 아닌 반려 동물용 외관입니다. 중국 상점의 획득 조건을 확인하세요."
+    }
+  },
+  "die-qi-fang": {
+    "koName": "蝶栖芳",
+    "description": {
+      "en": "Companion cosmetic for a pet, not an outfit worn by the player character. See the CN shop conditions.",
+      "ko": "주인공 의상이 아닌 반려 동물용 외관입니다. 중국 상점의 획득 조건을 확인하세요."
+    }
+  },
+  "luo-shui-maofu": {
+    "koName": "洛水猫赋",
+    "description": {
+      "en": "Companion cosmetic for a pet, not an outfit worn by the player character. See the CN shop conditions.",
+      "ko": "주인공 의상이 아닌 반려 동물용 외관입니다. 중국 상점의 획득 조건을 확인하세요."
+    }
+  },
+  "yu-shan-song": {
+    "koName": "玉山松",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "shuang-han-tian-quan": {
+    "koName": "霜寒天泉",
+    "description": {
+      "en": "Hairstyle documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 헤어입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "xiao-yi-dong-feng": {
+    "koName": "笑倚东风",
+    "description": {
+      "en": "Hairstyle documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 헤어입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "yun-shen-gui-chu": {
+    "koName": "云深归处",
+    "description": {
+      "en": "Hairstyle documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 헤어입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "bin-fen-pei": {
+    "koName": "缤纷佩",
+    "description": {
+      "en": "Accessory documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 장신구입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "da-man-guan": {
+    "koName": "大满贯",
+    "description": {
+      "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "youyuqing-qiongqian-xiang": {
+    "koName": "游羽青穹·乾象",
+    "description": {
+      "en": "Skill effect documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 이펙트입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "ying-hun-zhao-gu": {
+    "koName": "英魂照骨",
+    "description": {
+      "en": "Skill effect documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 이펙트입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "ji-yue-zhang-feng": {
+    "koName": "骥跃长风",
+    "description": {
+      "en": "Skill effect documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 이펙트입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "zhao-cai-jin-bao": {
+    "koName": "招财进宝",
+    "description": {
+      "en": "Accessory documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 장신구입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "ba-yin-xi-le-shu": {
+    "koName": "八音喜乐树",
+    "description": {
+      "en": "Accessory documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 장신구입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "ba-yin-miao": {
+    "koName": "八音喵",
+    "description": {
+      "en": "Accessory documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 장신구입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "qing-baizhi-jian": {
+    "koName": "青白之间",
+    "description": {
+      "en": "Accessory documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 장신구입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "ying-shi-zhuozhuo": {
+    "koName": "莺时灼灼",
+    "description": {
+      "en": "Accessory documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 장신구입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "mo-gu-fu": {
+    "koName": "莫菇负",
+    "description": {
+      "en": "Accessory documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 장신구입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "kuai-zai-feng": {
+    "koName": "快哉风",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "cang-langyou-sheng": {
+    "koName": "沧浪有声",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "jin-wu-wei": {
+    "koName": "金吾卫",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "kai-shi": {
+    "koName": "开市",
+    "description": {
+      "en": "Accessory documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 장신구입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "man-dai-jin": {
+    "koName": "满袋金",
+    "description": {
+      "en": "Accessory documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 장신구입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "bu-ji-ze-tui": {
+    "koName": "不鸡则腿",
+    "description": {
+      "en": "Accessory documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 장신구입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "he-jia-huan": {
+    "koName": "盒家欢",
+    "description": {
+      "en": "Accessory documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 장신구입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "qian-chang-chun": {
+    "koName": "浅尝春",
+    "description": {
+      "en": "Accessory documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 장신구입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "you-ling-su": {
+    "koName": "幽灵速",
+    "description": {
+      "en": "Mount documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 탈것입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "dan-que": {
+    "koName": "丹雀",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "xi-ji-zhui-ri": {
+    "koName": "西极坠日",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "shuo-feng-xue": {
+    "koName": "朔风雪",
+    "description": {
+      "en": "Hairstyle documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 헤어입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "shu-xi-chun": {
+    "koName": "蜀戏春",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "tian-gua-mao": {
+    "koName": "甜瓜帽",
+    "description": {
+      "en": "Accessory documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 장신구입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "feng-yin-bi-an": {
+    "koName": "风吟彼岸",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "le-tao-tao": {
+    "koName": "乐陶陶",
+    "description": {
+      "en": "Accessory documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 장신구입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "tao-le-le": {
+    "koName": "陶乐乐",
+    "description": {
+      "en": "Accessory documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 장신구입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "chu-xin-pei": {
+    "koName": "初心佩",
+    "description": {
+      "en": "Accessory documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 장신구입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "jiu-suan-qing-tian": {
+    "koName": "九算擎天",
+    "description": {
+      "en": "Skill effect documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 이펙트입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "miao-yin-qian-zhuan": {
+    "koName": "妙音千啭",
+    "description": {
+      "en": "Skill effect documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 이펙트입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "die-wu-fei-hua": {
+    "koName": "蝶舞飞花",
+    "description": {
+      "en": "Skill effect documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 이펙트입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "sui-lan-lu": {
+    "koName": "碎兰露",
+    "description": {
+      "en": "Accessory documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 장신구입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "jia-mao-xie": {
+    "koName": "假帽蟹",
+    "description": {
+      "en": "Accessory documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 장신구입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "xia-gan-yi-dan": {
+    "koName": "虾肝义胆",
+    "description": {
+      "en": "Accessory documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 장신구입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "mao-chong-e": {
+    "koName": "帽充鹅",
+    "description": {
+      "en": "Accessory documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 장신구입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "ta-fei-yan": {
+    "koName": "踏肥燕",
+    "description": {
+      "en": "Accessory documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 장신구입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "wu-xian-pi-pa": {
+    "koName": "五弦琵琶",
+    "description": {
+      "en": "Accessory documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 장신구입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "zhiyue-liang": {
+    "koName": "纸月亮",
+    "description": {
+      "en": "Accessory documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 장신구입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "qionglin-ke": {
+    "koName": "琼林客",
+    "description": {
+      "en": "Mount documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 탈것입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "ti-yin-deng": {
+    "koName": "剔银灯",
+    "description": {
+      "en": "Accessory documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 장신구입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "yue-zhong-tian-que": {
+    "koName": "月中天阙",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "xiao-fu-wei-an": {
+    "koName": "小富为安",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "xuan-niao": {
+    "koName": "玄鸟",
+    "description": {
+      "en": "Hairstyle documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 헤어입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "liu-hua-jie-ye": {
+    "koName": "流华结叶",
+    "description": {
+      "en": "Accessory documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 장신구입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "liu-chun-zhu": {
+    "koName": "留春住",
+    "description": {
+      "en": "Accessory documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 장신구입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "shan-zhong-yi": {
+    "koName": "山中弈",
+    "description": {
+      "en": "Accessory documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 장신구입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "shu-qian-qian": {
+    "koName": "鼠钱钱",
+    "description": {
+      "en": "Accessory documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 장신구입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "songhua-yu-lan": {
+    "koName": "松花玉兰",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "yi-xin-san-cang": {
+    "koName": "一心三藏",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "jiu-jian-dang-pu": {
+    "koName": "九间当铺",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "mo-yun-qing-he": {
+    "koName": "墨韵青荷",
+    "description": {
+      "en": "Accessory documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 장신구입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "na-baifu": {
+    "koName": "纳百福",
+    "description": {
+      "en": "Accessory documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 장신구입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "jin-yan-yu-tuan": {
+    "koName": "金滟玉团",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "yu-tu-dan-gui": {
+    "koName": "玉兔丹桂",
+    "description": {
+      "en": "Accessory documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 장신구입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "miao-ting-ling": {
+    "koName": "喵听令",
+    "description": {
+      "en": "Accessory documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 장신구입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "guan-fuyun": {
+    "koName": "观浮云",
+    "description": {
+      "en": "Accessory documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 장신구입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "po-zhen-ji": {
+    "koName": "破阵戟",
+    "description": {
+      "en": "Accessory documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 장신구입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "chan-yiweilai": {
+    "koName": "蝉翼未来",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "du-yan-gui": {
+    "koName": "渡燕归",
+    "description": {
+      "en": "Accessory documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 장신구입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "tang-di-ying-xia": {
+    "koName": "棠棣映夏",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "yi-zunchun": {
+    "koName": "一樽春",
+    "description": {
+      "en": "Accessory documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 장신구입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "cang-yinqian-gu-duanyun": {
+    "koName": "藏音·千古断云",
+    "description": {
+      "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "lin-yue-long-fei": {
+    "koName": "鳞跃龙扉",
+    "description": {
+      "en": "Skill effect documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 이펙트입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "yu-shuang-ling": {
+    "koName": "玉霜翎",
+    "description": {
+      "en": "Hairstyle documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 헤어입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "an-xiang": {
+    "koName": "暗香",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "qing-yang": {
+    "koName": "青阳",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "ran-jin-ming": {
+    "koName": "燃金明",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "xi-liang-gui-xiao": {
+    "koName": "西凉鬼啸",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "lihua-lei": {
+    "koName": "梨花泪",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "fu-guang": {
+    "koName": "扶光",
+    "description": {
+      "en": "Hairstyle documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 헤어입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "long-teng-jiu-xiao": {
+    "koName": "龙腾九霄",
+    "description": {
+      "en": "Skill effect documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 이펙트입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "shui-qing-yi-se": {
+    "koName": "水青一色",
+    "description": {
+      "en": "Accessory documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 장신구입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "xian-gou-yu": {
+    "koName": "纤钩玉",
+    "description": {
+      "en": "Accessory documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 장신구입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "qing-qiu-qian-sui": {
+    "koName": "青丘千岁",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "long-feng-chan": {
+    "koName": "龙凤缠",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "cang-yinbei-ming-you-yu": {
+    "koName": "藏音·北溟有鱼",
+    "description": {
+      "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "zheng-ge": {
+    "koName": "争戈",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "xiu-luo-ye": {
+    "koName": "修罗业",
+    "description": {
+      "en": "Accessory documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 장신구입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "xing-chui-ping-ye": {
+    "koName": "星垂平野",
+    "description": {
+      "en": "Hairstyle documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 헤어입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "pan-xin-suo": {
+    "koName": "磐心锁",
+    "description": {
+      "en": "Accessory documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 장신구입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "long-wenyu-pei": {
+    "koName": "龙纹玉佩",
+    "description": {
+      "en": "Accessory documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 장신구입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "meng-xing-he": {
+    "koName": "梦星河",
+    "description": {
+      "en": "Accessory documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 장신구입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "qing-yichui-tian": {
+    "koName": "青翼垂天",
+    "description": {
+      "en": "Skill effect documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 이펙트입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "jiu-yao-huang-huang": {
+    "koName": "九曜煌煌",
+    "description": {
+      "en": "Skill effect documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 이펙트입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "qing-yichui-tianbaicui": {
+    "koName": "青翼垂天·百淬",
+    "description": {
+      "en": "Skill effect documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 이펙트입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "hong-fengsi": {
+    "koName": "红枫思",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "zuo-wang-dao": {
+    "koName": "坐忘道",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "youtian-de": {
+    "koName": "游天地",
+    "description": {
+      "en": "Hairstyle documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 헤어입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "zhang-xiangsi": {
+    "koName": "长相思",
+    "description": {
+      "en": "Accessory documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 장신구입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "xi-su-hua": {
+    "koName": "洗素华",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "wan-jian-gui-zong": {
+    "koName": "万剑归宗",
+    "description": {
+      "en": "Skill effect documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 이펙트입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "yu-gui-jiu": {
+    "koName": "玉桂啾",
+    "description": {
+      "en": "Accessory documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 장신구입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "chuanyun-youxue": {
+    "koName": "穿云游雪",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "jie-jizhanhua": {
+    "koName": "捷疾绽华",
+    "description": {
+      "en": "Skill effect documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 이펙트입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "yongdong-ji": {
+    "koName": "永动鸡",
+    "description": {
+      "en": "Accessory documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 장신구입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "yi-lu-sheng-hua": {
+    "koName": "一鹿生花",
+    "description": {
+      "en": "Accessory documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 장신구입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "zhu-ming-chengye": {
+    "koName": "朱明承夜",
+    "description": {
+      "en": "Accessory documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 장신구입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "chi-xia-you": {
+    "koName": "赤霞佑",
+    "description": {
+      "en": "Accessory documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 장신구입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "fu-guang-shuo-jin": {
+    "koName": "拂光烁金",
+    "description": {
+      "en": "Accessory documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 장신구입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "qing-xia": {
+    "koName": "轻霞",
+    "description": {
+      "en": "Hairstyle documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 헤어입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "shuang-feng-tuo": {
+    "koName": "双峰驼",
+    "description": {
+      "en": "Mount documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 탈것입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "ying-hua-hong": {
+    "koName": "映花红",
+    "description": {
+      "en": "Hairstyle documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 헤어입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "yue-suo-tian-luo": {
+    "koName": "月锁天罗",
+    "description": {
+      "en": "Skill effect documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 이펙트입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "bei-chen-xing-gong": {
+    "koName": "北辰星拱",
+    "description": {
+      "en": "Skill effect documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 이펙트입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "hong-qi-lu": {
+    "koName": "红泣露",
+    "description": {
+      "en": "Accessory documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 장신구입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "cang-yinluan-yi-jiu-xiao": {
+    "koName": "藏音·鸾倚九霄",
+    "description": {
+      "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "xin-wu-chang": {
+    "koName": "心无常",
+    "description": {
+      "en": "Hairstyle documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 헤어입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "hong-mei-an-sui": {
+    "koName": "红梅安岁",
+    "description": {
+      "en": "Skill effect documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 이펙트입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "bu-ren-shi": {
+    "koName": "不忍视",
+    "description": {
+      "en": "Accessory documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 장신구입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "zhu-qing-yu": {
+    "koName": "逐轻羽",
+    "description": {
+      "en": "Accessory documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 장신구입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "cang-ming-yao-guang": {
+    "koName": "沧溟摇光",
+    "description": {
+      "en": "Accessory documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 장신구입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "jing-lei-yin": {
+    "koName": "惊雷引",
+    "description": {
+      "en": "Accessory documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 장신구입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "feng-hua-xian-ying": {
+    "koName": "风花衔影",
+    "description": {
+      "en": "Accessory documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 장신구입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "xue-yue-ning-guang": {
+    "koName": "雪月凝光",
+    "description": {
+      "en": "Accessory documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 장신구입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "hua-niao-xi": {
+    "koName": "花鸟喜",
+    "description": {
+      "en": "Accessory documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 장신구입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "you-ming-ji-tong": {
+    "koName": "幽明既通",
+    "description": {
+      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "jihuo": {
+    "koName": "祭火",
+    "description": {
+      "en": "Hairstyle documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 중국 자료에서 확인한 헤어입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "global-wind-s-far-shore": {
+    "koName": "Wind's Far Shore",
+    "description": {
+      "en": "Outfit documented in the official Global archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 글로벌 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "global-icebirdie": {
+    "koName": "Icebirdie",
+    "description": {
+      "en": "Accessory documented in the official Global archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 글로벌 자료에서 확인한 장신구입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "global-swift-blossom": {
+    "koName": "Swift Blossom",
+    "description": {
+      "en": "Skill effect documented in the official Global archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 글로벌 자료에서 확인한 이펙트입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "global-bronze-skyfall": {
+    "koName": "Bronze Skyfall",
+    "description": {
+      "en": "Skill effect documented in the official Global archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 글로벌 자료에서 확인한 이펙트입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "global-withered-ash": {
+    "koName": "Withered Ash",
+    "description": {
+      "en": "Skill effect documented in the official Global archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 글로벌 자료에서 확인한 이펙트입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "global-myriad-sounds-plume-break": {
+    "koName": "Myriad Sounds: Plume Break",
+    "description": {
+      "en": "Weapon appearance documented in the official Global archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 글로벌 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "global-longing-s-refrain": {
+    "koName": "Longing's Refrain",
+    "description": {
+      "en": "Outfit documented in the official Global archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 글로벌 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "global-rippling-dream": {
+    "koName": "Rippling Dream",
+    "description": {
+      "en": "Weapon appearance documented in the official Global archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 글로벌 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "global-celestial-calculations": {
+    "koName": "Celestial Calculations",
+    "description": {
+      "en": "Skill effect documented in the official Global archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 글로벌 자료에서 확인한 이펙트입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "global-dreams-beyond": {
+    "koName": "Dreams Beyond",
+    "description": {
+      "en": "Outfit documented in the official Global archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 글로벌 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "global-crimson-bloom": {
+    "koName": "Crimson Bloom",
+    "description": {
+      "en": "Hairstyle documented in the official Global archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 글로벌 자료에서 확인한 헤어입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "global-launch-swaying-lotus-outfit": {
+    "koName": "霓荷花影",
+    "description": {
+      "en": "Outfit documented in the official Global archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 글로벌 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "global-launch-humble-hero-set": {
+    "koName": "清河强者",
+    "description": {
+      "en": "Outfit documented in the official Global archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 글로벌 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "global-launch-peaceful-life-set": {
+    "koName": "Peaceful Life",
+    "description": {
+      "en": "Outfit documented in the official Global archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 글로벌 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "global-launch-first-step-outfit": {
+    "koName": "初出茅庐",
+    "description": {
+      "en": "Outfit documented in the official Global archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 글로벌 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "global-launch-first-step-hairstyle": {
+    "koName": "First Step",
+    "description": {
+      "en": "Hairstyle documented in the official Global archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 글로벌 자료에서 확인한 헤어입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "global-launch-sound-of-valor-outfit": {
+    "koName": "Sound of Valor",
+    "description": {
+      "en": "Outfit documented in the official Global archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 글로벌 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "global-launch-meadow-grass-accessory": {
+    "koName": "Meadow Grass",
+    "description": {
+      "en": "Accessory documented in the official Global archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 글로벌 자료에서 확인한 장신구입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "global-launch-opulent-grace-outfit": {
+    "koName": "金玉织云",
+    "description": {
+      "en": "Outfit documented in the official Global archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 글로벌 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "global-launch-sacred-lotus-accessory": {
+    "koName": "Sacred Lotus",
+    "description": {
+      "en": "Accessory documented in the official Global archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 글로벌 자료에서 확인한 장신구입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "global-launch-merciful-heart-accessory": {
+    "koName": "Merciful Heart",
+    "description": {
+      "en": "Accessory documented in the official Global archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 글로벌 자료에서 확인한 장신구입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "global-launch-infinite-vista-accessory": {
+    "koName": "Infinite Vista",
+    "description": {
+      "en": "Accessory documented in the official Global archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 글로벌 자료에서 확인한 장신구입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "global-launch-gray-wolf-outfit": {
+    "koName": "苍狼",
+    "description": {
+      "en": "Outfit documented in the official Global archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 글로벌 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "global-launch-gray-wolf-hairstyle": {
+    "koName": "Gray Wolf",
+    "description": {
+      "en": "Hairstyle documented in the official Global archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 글로벌 자료에서 확인한 헤어입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "global-launch-shared-journey-accessory": {
+    "koName": "Shared Journey",
+    "description": {
+      "en": "Accessory documented in the official Global archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 글로벌 자료에서 확인한 장신구입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "global-launch-purple-dew-outfit": {
+    "koName": "Purple Dew",
+    "description": {
+      "en": "Outfit documented in the official Global archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 글로벌 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "global-launch-red-rose-face-ornament": {
+    "koName": "Red Rose",
+    "description": {
+      "en": "Accessory documented in the official Global archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 글로벌 자료에서 확인한 장신구입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "global-launch-unrenderable-bones-accessory": {
+    "koName": "Unrenderable Bones",
+    "description": {
+      "en": "Accessory documented in the official Global archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 글로벌 자료에서 확인한 장신구입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "global-launch-yaksha-set": {
+    "koName": "夜叉",
+    "description": {
+      "en": "Outfit documented in the official Global archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 글로벌 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "global-launch-heavenly-frost-outfit": {
+    "koName": "Heavenly Frost",
+    "description": {
+      "en": "Outfit documented in the official Global archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 글로벌 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "global-launch-silent-current-outfit": {
+    "koName": "Silent Current",
+    "description": {
+      "en": "Outfit documented in the official Global archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 글로벌 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "global-launch-ninefold-freedom-outfit": {
+    "koName": "Ninefold Freedom",
+    "description": {
+      "en": "Outfit documented in the official Global archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 글로벌 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "global-launch-blazing-midnight-outfit": {
+    "koName": "Blazing Midnight",
+    "description": {
+      "en": "Outfit documented in the official Global archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 글로벌 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "global-launch-tranquil-bamboo-outfit": {
+    "koName": "Tranquil Bamboo",
+    "description": {
+      "en": "Outfit documented in the official Global archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 글로벌 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "global-launch-bounty-hunter-set": {
+    "koName": "野镖",
+    "description": {
+      "en": "Outfit documented in the official Global archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 글로벌 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "global-launch-art-of-healing-set": {
+    "koName": "Art of Healing",
+    "description": {
+      "en": "Outfit documented in the official Global archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 글로벌 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "global-launch-penstroke-posy-set": {
+    "koName": "落笔生花",
+    "description": {
+      "en": "Outfit documented in the official Global archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 글로벌 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "global-magpie-s-farewell": {
+    "koName": "Magpie's Farewell",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-formless-disguise": {
+    "koName": "Formless Disguise",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-fleethoof": {
+    "koName": "Fleethoof",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-desert-wail": {
+    "koName": "Desert Wail",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-high-score": {
+    "koName": "High Score",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-silent-voice-kun-umbra": {
+    "koName": "Silent Voice: Kun Umbra",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-waveborn-majesty": {
+    "koName": "Waveborn Majesty",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-sinking-sun": {
+    "koName": "Sinking Sun",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-chasing-moonlight": {
+    "koName": "Chasing Moonlight",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-scarlet-sparrow": {
+    "koName": "Scarlet Sparrow",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-roaring-waves": {
+    "koName": "Roaring Waves",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-hollow-strokes": {
+    "koName": "Hollow Strokes",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-melody-of-dawn": {
+    "koName": "Melody of Dawn",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-green-veil": {
+    "koName": "Green Veil",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-flicker-of-faces": {
+    "koName": "Flicker of Faces",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-soaring-ambition": {
+    "koName": "Soaring Ambition",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-inkstone-reverie": {
+    "koName": "Inkstone Reverie",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-nine-tails-legacy": {
+    "koName": "Nine-Tails' Legacy",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-dancing-moonlight": {
+    "koName": "Dancing Moonlight",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-dragon-protector": {
+    "koName": "Dragon Protector",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-crystal-cascade": {
+    "koName": "Crystal Cascade",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-bamboo-spear": {
+    "koName": "Bamboo Spear",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-pursuing-leopard": {
+    "koName": "Pursuing Leopard",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-lilac-reverie": {
+    "koName": "Lilac Reverie",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-silent-voice-cosmos-sweep": {
+    "koName": "Silent Voice: Cosmos Sweep",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-serpent-s-spine": {
+    "koName": "Serpent's Spine",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-scorched-paths": {
+    "koName": "Scorched Paths",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-moon-gazer": {
+    "koName": "Moon Gazer",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-woven-sunlight": {
+    "koName": "Woven Sunlight",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-golden-aura": {
+    "koName": "Golden Aura",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-evergreen-magnolia": {
+    "koName": "Evergreen Magnolia",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-white-clad-asura": {
+    "koName": "White-clad Asura",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-general-s-glory": {
+    "koName": "General's Glory",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-soaring-crane": {
+    "koName": "Soaring Crane",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-feathered-grace": {
+    "koName": "Feathered Grace",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-frosted-plume": {
+    "koName": "Frosted Plume",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-crimson-glow": {
+    "koName": "Crimson Glow",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-rime-white-moon": {
+    "koName": "Rime-white Moon",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-waking-warbler": {
+    "koName": "Waking Warbler",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-reflected-blush": {
+    "koName": "Reflected Blush",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-moonlit-inquiry": {
+    "koName": "Moonlit Inquiry",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-benevolent-donkey": {
+    "koName": "Benevolent Donkey",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-little-mouser": {
+    "koName": "Little Mouser",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-moonfade": {
+    "koName": "Moonfade",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-argent-gleam": {
+    "koName": "Argent Gleam",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-flower-of-youth": {
+    "koName": "Flower of Youth",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-gilded-dream": {
+    "koName": "Gilded Dream",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-fading-harvest": {
+    "koName": "Fading Harvest",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-perky-perch": {
+    "koName": "Perky Perch",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-vermillion-dawnbreak": {
+    "koName": "Vermillion Dawnbreak",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-mirrored-heart": {
+    "koName": "Mirrored Heart",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-scorpion-s-heart": {
+    "koName": "Scorpion's Heart",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-silent-voice-dawnriven": {
+    "koName": "Silent Voice: Dawnriven",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-tiger-s-bane": {
+    "koName": "Tiger's Bane",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-fieryheart-of-war": {
+    "koName": "Fieryheart of War",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-bactrian-camel": {
+    "koName": "Bactrian Camel",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-moonlit-umbra": {
+    "koName": "Moonlit Umbra",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-crane-pierces-the-azure-sky": {
+    "koName": "Crane Pierces the Azure Sky",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-parting-arrow": {
+    "koName": "Parting Arrow",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-sacrificial-flame": {
+    "koName": "Sacrificial Flame",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-yin-yang-unveiled": {
+    "koName": "Yin-Yang Unveiled",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-rain-kissed-lotus": {
+    "koName": "Rain-kissed Lotus",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-moonlit-pavilion": {
+    "koName": "Moonlit Pavilion",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-boundless-heart": {
+    "koName": "Boundless Heart",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-dusk-rider": {
+    "koName": "Dusk Rider",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-leap-of-tumult": {
+    "koName": "Leap of Tumult",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-shaliwa-s-guise": {
+    "koName": "Shaliwa's Guise",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-where-clouds-repose": {
+    "koName": "Where Clouds Repose",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-sundered-vow": {
+    "koName": "Sundered Vow",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-lute-of-love": {
+    "koName": "Lute of Love",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-northern-star-s-dominion": {
+    "koName": "Northern Star's Dominion",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-unfurling-lotus": {
+    "koName": "Unfurling Lotus",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "zhui-bu-shang-e": {
+    "koName": "追不上鹅",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "yun-tou-zhuan-miao": {
+    "koName": "晕头转喵",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "xia-zhe-wu-ming": {
+    "koName": "侠者无名",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "yu-shan-san-e": {
+    "koName": "玉山三鹅",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "bu-xian-shen-xian": {
+    "koName": "不羡神仙",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "e-de-jiang-hu": {
+    "koName": "鹅的江湖",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "banlong-shen": {
+    "koName": "扮龙神",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "ding-hua-hu": {
+    "koName": "顶花虎",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "zhu-tong-qu": {
+    "koName": "逐童趣",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-launch-purple-dew-hairstyle": {
+    "koName": "Purple Dew",
+    "description": {
+      "en": "Hairstyle documented in the official Global archive. Regional availability and acquisition are recorded separately.",
+      "ko": "공식 글로벌 자료에서 확인한 헤어입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+    }
+  },
+  "global-graceful-fox": {
+    "koName": "Graceful Fox",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-forest-sovereign": {
+    "koName": "Forest Sovereign",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-radiant-majesty": {
+    "koName": "Radiant Majesty",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-crimson-cloud": {
+    "koName": "Crimson Cloud",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-moonlit-howl": {
+    "koName": "Moonlit Howl",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-clear-frost": {
+    "koName": "Clear Frost",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-imperial-stag": {
+    "koName": "Imperial Stag",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-broom-and-rooster": {
+    "koName": "Broom and Rooster",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-silent-night-bell": {
+    "koName": "Silent Night Bell",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-goose-buster": {
+    "koName": "Goose Buster",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-starfrost-butterfly": {
+    "koName": "Starfrost Butterfly",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-severing-halberd": {
+    "koName": "Severing Halberd",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-mountain-s-veil": {
+    "koName": "Mountain's Veil",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-waking-brush": {
+    "koName": "Waking Brush",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-silent-voice-phoenix-ascent": {
+    "koName": "Silent Voice: Phoenix Ascent",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-inkveil-peak": {
+    "koName": "Inkveil Peak",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-moonlight-voyage": {
+    "koName": "Moonlight Voyage",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-vajra-s-awe": {
+    "koName": "Vajra's Awe",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-silent-voice-sunstriking": {
+    "koName": "Silent Voice: Sunstriking",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-twilight-of-dragons": {
+    "koName": "Twilight of Dragons",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-tiger-spring-reverie": {
+    "koName": "Tiger Spring Reverie",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-mist-of-dawn": {
+    "koName": "Mist of Dawn",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-leaning-on-the-wind": {
+    "koName": "Leaning on the Wind",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-toad-s-luminescence": {
+    "koName": "Toad's Luminescence",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-guardian-of-spirit": {
+    "koName": "Guardian of Spirit",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-returning-sparrow-dream": {
+    "koName": "Returning Sparrow Dream",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-wind-blows-into-the-painting": {
+    "koName": "Wind Blows into the Painting",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-bone-appetite": {
+    "koName": "Bone Appetite!",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-glassy-expanse": {
+    "koName": "Glassy Expanse",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-bluebird-s-blade": {
+    "koName": "Bluebird's Blade",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-crystal-surf": {
+    "koName": "Crystal Surf",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "global-harmonic-core-meow": {
+    "koName": "Harmonic Core: Meow",
+    "description": {
+      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
+      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+    }
+  },
+  "wiki-ren-jian-xian": {
+    "koName": "人间仙",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-cang-hai-long-yin": {
+    "koName": "沧海龙吟",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-wu-jian-wu-xiang": {
+    "koName": "无间无相",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-le-shen-shi-yan": {
+    "koName": "乐神师延",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-rui-he-xian": {
+    "koName": "瑞鹤仙",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-ruan-lang-gui": {
+    "koName": "阮郎归",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-bailong": {
+    "koName": "白龙",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-luo-hua-wen-zhao": {
+    "koName": "落花闻诏",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-su-lu-qing-ying": {
+    "koName": "宿露轻盈",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-ye-lang-you-wen": {
+    "koName": "夜郎幽问",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-jin-lin-que": {
+    "koName": "金鳞阙",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-zang-hua-yin": {
+    "koName": "葬花吟",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-jian-ying-cang-xin": {
+    "koName": "剑影藏心",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-chi-sha": {
+    "koName": "赤沙",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-wen-chun-he-ku": {
+    "koName": "问春何苦",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-wu-sha-hong-yi": {
+    "koName": "乌纱红漪",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-feng-hua-wu": {
+    "koName": "风花雾",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-li-shan-lie": {
+    "koName": "骊山猎",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-xue-lier": {
+    "koName": "雪狸儿",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-she-hu-nan-shan": {
+    "koName": "射虎南山",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-chi-gu": {
+    "koName": "螭骨",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-shan-shui-yi-yan": {
+    "koName": "山水一砚",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-huan-xisha": {
+    "koName": "浣溪沙",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-que-ta-zhi": {
+    "koName": "鹊踏枝",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-nan-jiang-mi-yu": {
+    "koName": "南疆秘语",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-zi-zai-jiu-liu": {
+    "koName": "自在九流",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-yan-ping-sheng": {
+    "koName": "晏平生",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-ziwei-que": {
+    "koName": "紫薇阙",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-he-xin-ci": {
+    "koName": "贺新词",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-mo-chen-dan-zhu": {
+    "koName": "墨沉丹朱",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-peng-lai-ling": {
+    "koName": "蓬莱翎",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-hong-chen-shu": {
+    "koName": "红尘书",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-bu-jin-kuang-lan": {
+    "koName": "不尽狂澜",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-nan-wen-qing-xi": {
+    "koName": "难问青溪",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-hua-wen-chun-yan": {
+    "koName": "花问春言",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-huozhai-san-geng": {
+    "koName": "火宅三更",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-shui-xieliyuan": {
+    "koName": "水榭梨园",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-gu-yun-chu-xiu": {
+    "koName": "孤云出岫",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-lian-yan-mo-shan": {
+    "koName": "连衍墨山",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-wen-dao-wen-jin": {
+    "koName": "问道文津",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-fang-shi-xie": {
+    "koName": "芳时歇",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-wu-feng-qing": {
+    "koName": "午风清",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-xiangsi-qu": {
+    "koName": "相思曲",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-wu-hua-jian": {
+    "koName": "舞花间",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-jin-chi-li": {
+    "koName": "金池鲤",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-cui-yugu": {
+    "koName": "翠羽顾",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-zhu-hong-hua": {
+    "koName": "逐红花",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-yao-ye-xing": {
+    "koName": "遥夜行",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-jiang-hu-ke": {
+    "koName": "江湖客",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-yu-ting-he": {
+    "koName": "雨停荷",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-diao-xue": {
+    "koName": "钓雪",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-xia-sheng-qing-ji": {
+    "koName": "侠声清霁",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-jin-lun": {
+    "koName": "金轮",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-ran-qing-cang": {
+    "koName": "染青苍",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-jin-xiu-yan-bo": {
+    "koName": "锦绣烟波",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-meng-zhu-jia-dao": {
+    "koName": "萌主驾到",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-lulin": {
+    "koName": "绿林",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-kufeng-ye-lan": {
+    "koName": "枯风夜阑",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-miao-shou-hui-chun": {
+    "koName": "妙手回春",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-zhang-qin-you-xia": {
+    "koName": "长琴有瑕",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-you-lan-lu": {
+    "koName": "幽兰露",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-shuang-fei-yan": {
+    "koName": "双飞燕",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-hua-yuan": {
+    "koName": "化缘",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-yi-ren-xin": {
+    "koName": "一人心",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-jing-ye-rong-guang": {
+    "koName": "静夜溶光",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-shan-zhong-ren": {
+    "koName": "山中人",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-jiang-xiao-shisui": {
+    "koName": "绛绡拾岁",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-zhang-ge-xian-yu": {
+    "koName": "长歌羡鱼",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-chun-ting-gui-he": {
+    "koName": "春庭归鹤",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-chao-lu-zi": {
+    "koName": "朝露紫",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-gu-ying-ye-xing": {
+    "koName": "孤影夜行",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-jue-zhang": {
+    "koName": "绝障",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-wu-ju": {
+    "koName": "无拘",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-yu-ge-zi": {
+    "koName": "渔歌子",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-sheng-sha-mian": {
+    "koName": "生杀面",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-ting-tian-ming": {
+    "koName": "听天命",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-ren-bu-shi": {
+    "koName": "人不识",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-cang-yin-kun-shan-yu-sui": {
+    "koName": "藏音·昆山玉碎",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-cang-yin-ku-zhounan-zhang": {
+    "koName": "藏音·苦昼难长",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-cang-yin-shao-guang-si-ji": {
+    "koName": "藏音·韶光四极",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-wan-lai-jue-yun-yi": {
+    "koName": "万籁·绝云翼",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-ling-shuang-chu-xue": {
+    "koName": "凌霜触雪",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-juan-lin-guang": {
+    "koName": "卷鳞光",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-chui-leng-qiu-shuang": {
+    "koName": "吹冷秋霜",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-zhan-lin-guang": {
+    "koName": "战鳞光",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-zhanlin-guang": {
+    "koName": "斩鳞光",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-duanlin-guang": {
+    "koName": "断鳞光",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-wu-zheng": {
+    "koName": "无争",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-wu-ying": {
+    "koName": "无影",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-wu-ming": {
+    "koName": "无明",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-wu-qing": {
+    "koName": "无晴",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-wu-sheng": {
+    "koName": "无生",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-wu-feng": {
+    "koName": "无锋",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-wu-ming-acf56a": {
+    "koName": "无鸣",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-jian-lin-guang": {
+    "koName": "翦鳞光",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-wu-lin-guang": {
+    "koName": "舞鳞光",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-xian-lin-guang": {
+    "koName": "衔鳞光",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-zhang-an-bu-jian": {
+    "koName": "长安不见",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-fei-yun": {
+    "koName": "飞云",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-fei-ying": {
+    "koName": "飞影",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-fei-ming": {
+    "koName": "飞明",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-fei-xing": {
+    "koName": "飞星",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-fei-sha": {
+    "koName": "飞沙",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-fei-yan": {
+    "koName": "飞焰",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-fei-yu": {
+    "koName": "飞羽",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-fei-hong": {
+    "koName": "飞虹",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-fei-xia": {
+    "koName": "飞霞",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-yue-zhong-shi": {
+    "koName": "月中诗",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-mugun": {
+    "koName": "木棍",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-youren-you-yu": {
+    "koName": "油刃有余",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-zongbu-zong": {
+    "koName": "粽不粽",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-cong-cong-na-nian": {
+    "koName": "葱葱那年",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-sa-mo-ye": {
+    "koName": "飒陌耶",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-shuang-fenghan": {
+    "koName": "霜枫寒",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-shuang-fengjin": {
+    "koName": "霜枫尽",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-shuang-fengchou": {
+    "koName": "霜枫愁",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-shuang-fengheng": {
+    "koName": "霜枫横",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-shuang-fengmian": {
+    "koName": "霜枫眠",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-shuang-fengwu": {
+    "koName": "霜枫舞",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-shuang-fengjue": {
+    "koName": "霜枫诀",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-yi-lei-jing-zhe": {
+    "koName": "一雷惊蛰",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-shu-hun-dan-xin": {
+    "koName": "戍魂丹心",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-qing-luan-wang-yue": {
+    "koName": "青鸾望月",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-mo-duanhen": {
+    "koName": "墨断痕",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-mo-pofeng": {
+    "koName": "墨泼风",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-mo-wu-yun": {
+    "koName": "墨舞云",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-mo-zhe-shan": {
+    "koName": "墨遮山",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-fen-jing-san-tu": {
+    "koName": "焚净三途",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-yi-lu-shun-feng": {
+    "koName": "倚鹿顺风",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-qin-ma": {
+    "koName": "秦马",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-sa-lu-zi": {
+    "koName": "飒露子",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-diao-jing-baie-da-e": {
+    "koName": "吊睛白额大鹅",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-ha-shiqi": {
+    "koName": "哈是骑",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-jizhui-bao": {
+    "koName": "疾追豹",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-fei-mao-tui": {
+    "koName": "飞毛腿",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-baiyi": {
+    "koName": "白义",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-dao-li": {
+    "koName": "盗骊",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-lin-lang-xue": {
+    "koName": "琳琅雪",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-shuang-han-tian-quan": {
+    "koName": "霜寒天泉",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  }
+}

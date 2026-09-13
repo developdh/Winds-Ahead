@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "cosmeticId": "wiki-shuang-fengheng",
+  "titleOriginal": "霜枫横",
+  "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E9%9C%9C%E6%9E%AB%E6%A8%AA",
+  "revisionUrl": "https://yy16s.huijiwiki.com/wiki/%E7%89%B9%E6%AE%8A:%E7%BC%96%E8%BE%91%E5%B7%AE%E5%BC%82/27127",
+  "checkedAt": "2026-09-13",
+  "license": "CC BY-NC-SA 3.0",
+  "articleAvailable": true,
+  "category": "weapon",
+  "grade": {
+    "en": "Purple",
+    "ko": "보라"
+  },
+  "gradeOriginal": "紫",
+  "styleScore": 110,
+  "flags": {
+    "dye": null,
+    "tailoring": null,
+    "gifting": null,
+    "trading": null
+  },
+  "components": [],
+  "reportedComponentCount": null,
+  "collectionReward": null,
+  "resultsAnimation": null,
+  "acquisition": null,
+  "timing": null,
+  "weapon": {
+    "original": "枪",
+    "en": "Spear",
+    "ko": "창"
+  },
+  "martialArt": null,
+  "replacedMove": null,
+  "mountType": null,
+  "sourceFields": {
+    "兵器": "枪",
+    "风华值": "110"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "cosmeticId": "yu-long-yan-wu",
+  "titleOriginal": "鱼龙焰舞",
+  "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E9%B1%BC%E9%BE%99%E7%84%B0%E8%88%9E",
+  "revisionUrl": "https://yy16s.huijiwiki.com/wiki/%E7%89%B9%E6%AE%8A:%E7%BC%96%E8%BE%91%E5%B7%AE%E5%BC%82/27263",
+  "checkedAt": "2026-09-13",
+  "license": "CC BY-NC-SA 3.0",
+  "articleAvailable": true,
+  "category": "effect",
+  "grade": {
+    "en": "Gold",
+    "ko": "금색"
+  },
+  "gradeOriginal": "金",
+  "styleScore": 2000,
+  "flags": {
+    "dye": null,
+    "tailoring": null,
+    "gifting": null,
+    "trading": null
+  },
+  "components": [],
+  "reportedComponentCount": null,
+  "collectionReward": null,
+  "resultsAnimation": null,
+  "acquisition": null,
+  "timing": {
+    "original": "2025年9月12日版本更新后",
+    "en": "2025-09-12 after update",
+    "ko": "2025-09-12 업데이트 후",
+    "timezone": null
+  },
+  "weapon": {
+    "original": "绳镖",
+    "en": "Rope dart",
+    "ko": "승표"
+  },
+  "martialArt": "粟子游尘",
+  "replacedMove": null,
+  "mountType": null,
+  "sourceFields": {
+    "武学": "粟子游尘",
+    "兵器": "绳镖",
+    "风华值": "2000",
+    "上线时间": "2025年9月12日版本更新后"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "cosmeticId": "wiki-cang-hai-long-yin",
+  "titleOriginal": "沧海龙吟",
+  "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E6%B2%A7%E6%B5%B7%E9%BE%99%E5%90%9F",
+  "revisionUrl": "https://yy16s.huijiwiki.com/wiki/%E7%89%B9%E6%AE%8A:%E7%BC%96%E8%BE%91%E5%B7%AE%E5%BC%82/20561",
+  "checkedAt": "2026-09-13",
+  "license": "CC BY-NC-SA 3.0",
+  "articleAvailable": true,
+  "category": "sets",
+  "grade": {
+    "en": "Gold",
+    "ko": "금색"
+  },
+  "gradeOriginal": "金",
+  "styleScore": 4750,
+  "flags": {
+    "dye": true,
+    "tailoring": false,
+    "gifting": true,
+    "trading": true
+  },
+  "components": [
+    {
+      "nameOriginal": "发型",
+      "label": {
+        "en": "Hair",
+        "ko": "헤어"
+      },
+      "styleScore": 1800,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E6%B2%A7%E6%B5%B7%E9%BE%99%E5%90%9F/%E5%8F%91%E5%9E%8B"
+    },
+    {
+      "nameOriginal": "服装",
+      "label": {
+        "en": "Outfit",
+        "ko": "의복"
+      },
+      "styleScore": 2200,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E6%B2%A7%E6%B5%B7%E9%BE%99%E5%90%9F/%E6%9C%8D%E8%A3%85"
+    },
+    {
+      "nameOriginal": "发饰",
+      "label": {
+        "en": "Hair ornament",
+        "ko": "머리 장신구"
+      },
+      "styleScore": 50,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E6%B2%A7%E6%B5%B7%E9%BE%99%E5%90%9F/%E5%8F%91%E9%A5%B0"
+    },
+    {
+      "nameOriginal": "望海潮",
+      "label": {
+        "en": "Wang Hai Chao",
+        "ko": "望海潮"
+      },
+      "styleScore": 300,
+      "sourceUrl": null
+    }
+  ],
+  "reportedComponentCount": 4,
+  "collectionReward": {
+    "amount": 100,
+    "currencyOriginal": "长鸣玉",
+    "currency": {
+      "en": "Echo Jade",
+      "ko": "장명옥"
+    }
+  },
+  "resultsAnimation": {
+    "available": true,
+    "styleScore": 200
+  },
+  "acquisition": null,
+  "timing": null,
+  "weapon": null,
+  "martialArt": null,
+  "replacedMove": null,
+  "mountType": null,
+  "sourceFields": {
+    "染色": "✔",
+    "裁造": "✘",
+    "赠送": "✔",
+    "交易": "✔",
+    "部件数量": "4",
+    "风华值": "4750",
+    "集齐奖励": "长鸣玉 x100",
+    "结算演出": "有（200 风华）"
+  }
+}

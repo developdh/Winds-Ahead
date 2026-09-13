@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "cosmeticId": "wiki-ren-jian-xian",
+  "titleOriginal": "人间仙",
+  "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E4%BA%BA%E9%97%B4%E4%BB%99",
+  "revisionUrl": "https://yy16s.huijiwiki.com/wiki/%E7%89%B9%E6%AE%8A:%E7%BC%96%E8%BE%91%E5%B7%AE%E5%BC%82/10057",
+  "checkedAt": "2026-09-13",
+  "license": "CC BY-NC-SA 3.0",
+  "articleAvailable": true,
+  "category": "sets",
+  "grade": {
+    "en": "Gold",
+    "ko": "금색"
+  },
+  "gradeOriginal": "金",
+  "styleScore": 36200,
+  "flags": {
+    "dye": true,
+    "tailoring": false,
+    "gifting": false,
+    "trading": false
+  },
+  "components": [
+    {
+      "nameOriginal": "发型",
+      "label": {
+        "en": "Hair",
+        "ko": "헤어"
+      },
+      "styleScore": 12000,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E4%BA%BA%E9%97%B4%E4%BB%99/%E5%8F%91%E5%9E%8B"
+    },
+    {
+      "nameOriginal": "服装",
+      "label": {
+        "en": "Outfit",
+        "ko": "의복"
+      },
+      "styleScore": 18000,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E4%BA%BA%E9%97%B4%E4%BB%99/%E6%9C%8D%E8%A3%85"
+    },
+    {
+      "nameOriginal": "环境：星汉",
+      "label": {
+        "en": "Huanjing: Xing Han",
+        "ko": "环境：星汉"
+      },
+      "styleScore": 50,
+      "sourceUrl": null
+    },
+    {
+      "nameOriginal": "且观世",
+      "label": {
+        "en": "Qie Guan Shi",
+        "ko": "且观世"
+      },
+      "styleScore": 400,
+      "sourceUrl": null
+    },
+    {
+      "nameOriginal": "面妆",
+      "label": {
+        "en": "Makeup",
+        "ko": "화장"
+      },
+      "styleScore": 80,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E4%B8%94%E8%A7%82%E4%B8%96/%E9%9D%A2%E5%A6%86"
+    },
+    {
+      "nameOriginal": "栖南客",
+      "label": {
+        "en": "Qi Nan Ke",
+        "ko": "栖南客"
+      },
+      "styleScore": 2800,
+      "sourceUrl": null
+    }
+  ],
+  "reportedComponentCount": 4,
+  "collectionReward": {
+    "amount": 100,
+    "currencyOriginal": "长鸣玉",
+    "currency": {
+      "en": "Echo Jade",
+      "ko": "장명옥"
+    }
+  },
+  "resultsAnimation": {
+    "available": true,
+    "styleScore": 400
+  },
+  "acquisition": {
+    "original": "浮景星梦图兑换赠礼",
+    "en": "Exchange gift",
+    "ko": "교환 증정 보상"
+  },
+  "timing": {
+    "original": "开服常驻",
+    "en": "Listed as permanent since launch",
+    "ko": "서버 출시 이후 상시로 기재됨",
+    "timezone": null
+  },
+  "weapon": null,
+  "martialArt": null,
+  "replacedMove": null,
+  "mountType": null,
+  "sourceFields": {
+    "染色": "✔",
+    "裁造": "✘",
+    "赠送": "✘",
+    "交易": "✘",
+    "部件数量": "4",
+    "风华值": "36200",
+    "上线时间": "开服常驻",
+    "获取方式": "浮景星梦图兑换赠礼",
+    "集齐奖励": "长鸣玉 x100",
+    "结算演出": "有（400 风华）"
+  }
+}

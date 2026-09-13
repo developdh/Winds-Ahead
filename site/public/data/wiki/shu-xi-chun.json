@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "cosmeticId": "shu-xi-chun",
+  "titleOriginal": "蜀戏春",
+  "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E8%9C%80%E6%88%8F%E6%98%A5",
+  "revisionUrl": "https://yy16s.huijiwiki.com/wiki/%E7%89%B9%E6%AE%8A:%E7%BC%96%E8%BE%91%E5%B7%AE%E5%BC%82/20611",
+  "checkedAt": "2026-09-13",
+  "license": "CC BY-NC-SA 3.0",
+  "articleAvailable": true,
+  "category": "sets",
+  "grade": {
+    "en": "Purple",
+    "ko": "보라"
+  },
+  "gradeOriginal": "紫",
+  "styleScore": 520,
+  "flags": {
+    "dye": true,
+    "tailoring": false,
+    "gifting": true,
+    "trading": false
+  },
+  "components": [
+    {
+      "nameOriginal": "发型",
+      "label": {
+        "en": "Hair",
+        "ko": "헤어"
+      },
+      "styleScore": 110,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E8%9C%80%E6%88%8F%E6%98%A5/%E5%8F%91%E5%9E%8B"
+    },
+    {
+      "nameOriginal": "服装",
+      "label": {
+        "en": "Outfit",
+        "ko": "의복"
+      },
+      "styleScore": 330,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E8%9C%80%E6%88%8F%E6%98%A5/%E6%9C%8D%E8%A3%85"
+    },
+    {
+      "nameOriginal": "面饰",
+      "label": {
+        "en": "Face accessory",
+        "ko": "얼굴 장신구"
+      },
+      "styleScore": 10,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E8%9C%80%E6%88%8F%E6%98%A5/%E9%9D%A2%E9%A5%B0"
+    },
+    {
+      "nameOriginal": "披挂",
+      "label": {
+        "en": "Outerwear",
+        "ko": "겉옷"
+      },
+      "styleScore": 45,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E8%9C%80%E6%88%8F%E6%98%A5/%E6%8A%AB%E6%8C%82"
+    },
+    {
+      "nameOriginal": "发饰",
+      "label": {
+        "en": "Hair ornament",
+        "ko": "머리 장신구"
+      },
+      "styleScore": 10,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E8%9C%80%E6%88%8F%E6%98%A5/%E5%8F%91%E9%A5%B0"
+    }
+  ],
+  "reportedComponentCount": 4,
+  "collectionReward": {
+    "amount": 100,
+    "currencyOriginal": "长鸣玉",
+    "currency": {
+      "en": "Echo Jade",
+      "ko": "장명옥"
+    }
+  },
+  "resultsAnimation": null,
+  "acquisition": null,
+  "timing": null,
+  "weapon": null,
+  "martialArt": null,
+  "replacedMove": null,
+  "mountType": null,
+  "sourceFields": {
+    "染色": "✔",
+    "裁造": "✘",
+    "赠送": "✔",
+    "交易": "✘",
+    "部件数量": "4",
+    "风华值": "520",
+    "集齐奖励": "长鸣玉 x100"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "cosmeticId": "xiong-you-cheng-zhu",
+  "titleOriginal": "熊有成竹",
+  "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E7%86%8A%E6%9C%89%E6%88%90%E7%AB%B9",
+  "revisionUrl": "https://yy16s.huijiwiki.com/wiki/%E7%89%B9%E6%AE%8A:%E7%BC%96%E8%BE%91%E5%B7%AE%E5%BC%82/20727",
+  "checkedAt": "2026-09-13",
+  "license": "CC BY-NC-SA 3.0",
+  "articleAvailable": true,
+  "category": "sets",
+  "grade": {
+    "en": "Purple",
+    "ko": "보라"
+  },
+  "gradeOriginal": "紫",
+  "styleScore": 230,
+  "flags": {
+    "dye": true,
+    "tailoring": true,
+    "gifting": true,
+    "trading": false
+  },
+  "components": [
+    {
+      "nameOriginal": "服装",
+      "label": {
+        "en": "Outfit",
+        "ko": "의복"
+      },
+      "styleScore": 210,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E7%86%8A%E6%9C%89%E6%88%90%E7%AB%B9/%E6%9C%8D%E8%A3%85"
+    }
+  ],
+  "reportedComponentCount": 1,
+  "collectionReward": {
+    "amount": 100,
+    "currencyOriginal": "长鸣玉",
+    "currency": {
+      "en": "Echo Jade",
+      "ko": "장명옥"
+    }
+  },
+  "resultsAnimation": null,
+  "acquisition": {
+    "original": "商城购买",
+    "en": "Shop",
+    "ko": "상점"
+  },
+  "timing": {
+    "original": "2026年5月20日版本更新后~2026年6月19日04:59:59",
+    "en": "2026-05-20 after update — 2026-06-1904:59:59",
+    "ko": "2026-05-20 업데이트 후 — 2026-06-1904:59:59",
+    "timezone": null
+  },
+  "weapon": null,
+  "martialArt": null,
+  "replacedMove": null,
+  "mountType": null,
+  "sourceFields": {
+    "染色": "✔",
+    "裁造": "✔",
+    "赠送": "✔",
+    "交易": "✘",
+    "部件数量": "1",
+    "风华值": "230",
+    "上线时间": "2026年5月20日版本更新后~2026年6月19日04:59:59",
+    "获取方式": "商城购买",
+    "集齐奖励": "长鸣玉 x100"
+  }
+}

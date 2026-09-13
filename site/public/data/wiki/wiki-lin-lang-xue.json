@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "cosmeticId": "wiki-lin-lang-xue",
+  "titleOriginal": "琳琅雪",
+  "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E7%90%B3%E7%90%85%E9%9B%AA",
+  "revisionUrl": "https://yy16s.huijiwiki.com/wiki/%E7%89%B9%E6%AE%8A:%E7%BC%96%E8%BE%91%E5%B7%AE%E5%BC%82/27278",
+  "checkedAt": "2026-09-13",
+  "license": "CC BY-NC-SA 3.0",
+  "articleAvailable": true,
+  "category": "mount",
+  "grade": null,
+  "gradeOriginal": null,
+  "styleScore": null,
+  "flags": {
+    "dye": null,
+    "tailoring": null,
+    "gifting": null,
+    "trading": null
+  },
+  "components": [],
+  "reportedComponentCount": null,
+  "collectionReward": null,
+  "resultsAnimation": null,
+  "acquisition": {
+    "original": "探索获得",
+    "en": "Exploration",
+    "ko": "탐색"
+  },
+  "timing": null,
+  "weapon": null,
+  "martialArt": null,
+  "replacedMove": null,
+  "mountType": {
+    "original": "祁氏良驹",
+    "en": "Horse",
+    "ko": "말"
+  },
+  "sourceFields": {
+    "类型": "祁氏良驹",
+    "获取方式": "探索获得"
+  }
+}
