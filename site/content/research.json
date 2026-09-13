@@ -1,0 +1,426 @@
+{
+  "schemaVersion": 1,
+  "verifiedAt": "2026-09-13",
+  "scope": "Official CN cosmetics. EN/KO names and global availability remain unknown. No forecast is implied.",
+  "sources": [
+    {
+      "id": "cn-20250925-new-appearance",
+      "url": "https://www.yysls.cn/news/official/20250926/37780_1261910.html",
+      "titleOriginal": "全新外观 | 方外山门开，华服启新程",
+      "publisher": "燕云十六声 / NetEase",
+      "server": "CN",
+      "displayedPublicationDate": "2025-09-25",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "urlPathDate": "2025-09-26",
+      "dateDiscrepancyNote": "Use displayed publication date; the URL directory is the following day.",
+      "releaseContextDate": "2025-09-26",
+      "releaseContext": "After the version update; individual records preserve cases where no item-specific exact date was stated.",
+      "sourceImageCaveat": {
+        "en": "Preview images; actual in-game appearance may differ.",
+        "ko": "개발 중 미리보기 이미지이며 실제 게임 내 모습과 다를 수 있습니다."
+      }
+    }
+  ],
+  "mediaRights": {
+    "status": "unknown",
+    "guidance": [
+      {
+        "url": "https://www.wherewindsmeetgame.com/m/creator_program.html?from=nav",
+        "type": "official_creator_program",
+        "finding": "Invites creators working with streams, video, visuals and writing to apply. The visible page does not grant blanket permission to reproduce CN announcement assets."
+      },
+      {
+        "url": "https://www.wherewindsmeetgame.com/termsofuse.html",
+        "type": "official_terms",
+        "finding": "Section 9.1 grants no trademark license; 9.2 retains rights in associated content. No general fan-site media reproduction license was located."
+      }
+    ],
+    "externalLinkingNote": "Source URLs identify publicly accessible originals; access, attribution and embedding are not equivalent to a verified redistribution license.",
+    "downloadedOrRehosted": false
+  },
+  "cosmetics": [
+    {
+      "id": "zui-penglai",
+      "nameOriginal": "醉蓬莱",
+      "romanization": "Zui Penglai",
+      "category": "outfit",
+      "sourceId": "cn-20250925-new-appearance",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": "2025-09-26",
+        "precision": "day",
+        "timezone": null,
+        "basis": "explicit after version update"
+      },
+      "acquisition": {
+        "kind": "limited_draw",
+        "eventOriginal": "昙霄清梦",
+        "currencyOriginal": "瑶昙心",
+        "en": "Chance reward from event draws.",
+        "ko": "기간 한정 이벤트 추첨 보상."
+      },
+      "cnEnd": {
+        "localDateTime": "2025-10-20T05:00:00",
+        "timezone": null,
+        "precision": "second"
+      },
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20250926/860b1790-e5e7-4e14-81e3-8b6738e76f8d.jpg",
+          "width": 1080,
+          "height": 15278,
+          "bytes": 12598618,
+          "kind": "official_promotional_game_image",
+          "visuallyInspected": true,
+          "description": "Long poster, pale white and aqua outfits on two character body types; detailed components below.",
+          "reusePermission": "unknown",
+          "localCopy": null
+        }
+      ],
+      "officialVideos": []
+    },
+    {
+      "id": "qing-fangzun",
+      "nameOriginal": "倾芳樽",
+      "romanization": "Qing Fangzun",
+      "category": "hair",
+      "sourceId": "cn-20250925-new-appearance",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": "2025-09-26",
+        "precision": "day",
+        "timezone": null,
+        "basis": "explicit event launch"
+      },
+      "acquisition": {
+        "kind": "limited_draw",
+        "eventOriginal": "昙霄清梦",
+        "currencyOriginal": "瑶昙心",
+        "en": "Chance reward from event draws.",
+        "ko": "기간 한정 이벤트 추첨 보상."
+      },
+      "cnEnd": {
+        "localDateTime": "2025-10-20T05:00:00",
+        "timezone": null,
+        "precision": "second"
+      },
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20250926/2cf49c76-c93e-4136-bc3f-9e5e6661af08.png",
+          "width": 1080,
+          "height": 4000,
+          "bytes": null,
+          "kind": "official_promotional_game_image",
+          "visuallyInspected": true,
+          "description": "Long hair poster, pale white hairstyles with front/back views and portrait rewards.",
+          "reusePermission": "unknown",
+          "localCopy": null
+        }
+      ],
+      "officialVideos": []
+    },
+    {
+      "id": "zongheng",
+      "nameOriginal": "纵横",
+      "romanization": "Zongheng",
+      "category": "outfit",
+      "sourceId": "cn-20250925-new-appearance",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": "2025-09-26",
+        "precision": "day",
+        "timezone": null,
+        "basis": "explicit introduction list"
+      },
+      "acquisition": {
+        "kind": "seasonal_draw",
+        "eventOriginal": "和鸣·玉振扬音 / 南吕传响",
+        "currencyOriginal": "绕梁之音",
+        "en": "Chance reward; draw currency exchanged with 长鸣玉.",
+        "ko": "추첨 보상. 长鸣玉로 추첨 재화를 교환."
+      },
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20250926/26e95d00-4a8a-4ec6-a42e-53c32024b792.png",
+          "width": 557,
+          "height": 10000,
+          "bytes": 13192594,
+          "kind": "official_promotional_game_image",
+          "visuallyInspected": true,
+          "description": "Long red and gold outfit poster with fur, both character body types and component details.",
+          "reusePermission": "unknown",
+          "localCopy": null
+        }
+      ],
+      "officialVideos": []
+    },
+    {
+      "id": "chongming",
+      "nameOriginal": "重明",
+      "romanization": "Chongming",
+      "category": "hair",
+      "sourceId": "cn-20250925-new-appearance",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": null,
+        "precision": "unknown",
+        "timezone": null,
+        "basis": "Season announced in the September 25 article; no exact item-specific date in its section."
+      },
+      "acquisition": {
+        "kind": "seasonal_draw",
+        "eventOriginal": "和鸣·玉振扬音 / 南吕传响",
+        "currencyOriginal": "绕梁之音",
+        "en": "Rare hairstyle reward from seasonal draws.",
+        "ko": "시즌 추첨의 고급 헤어 보상."
+      },
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20250926/e5ae9a99-fb70-4cc9-b169-c1d2de62d430.png",
+          "width": 1080,
+          "height": 4800,
+          "bytes": null,
+          "kind": "official_promotional_game_image",
+          "visuallyInspected": true,
+          "description": "Long hair poster, dark hair, gold head ornaments and red details, front/back views.",
+          "reusePermission": "unknown",
+          "localCopy": null
+        }
+      ],
+      "officialVideos": []
+    },
+    {
+      "id": "jumang",
+      "nameOriginal": "句芒",
+      "romanization": "Jumang",
+      "category": "outfit",
+      "sourceId": "cn-20250925-new-appearance",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": "2025-09-26",
+        "precision": "day",
+        "timezone": null,
+        "basis": "explicit introduction list; section says after this week's update"
+      },
+      "acquisition": {
+        "kind": "shop",
+        "shopOriginal": "商店",
+        "amount": 2580,
+        "currencyOriginal": "长鸣珠",
+        "en": "Limited shop purchase.",
+        "ko": "기간 한정 상점 구매."
+      },
+      "cnEnd": {
+        "localDateTime": "2025-10-26T05:00:00",
+        "timezone": null,
+        "precision": "second"
+      },
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20250926/3f81cbc4-14e1-4f61-9b37-6c41d0ece155.jpg",
+          "width": 1080,
+          "height": 16873,
+          "bytes": null,
+          "kind": "official_promotional_game_image",
+          "visuallyInspected": true,
+          "description": "Long dark teal and bronze outfit poster, mechanical and bird ornaments, both body types.",
+          "reusePermission": "unknown",
+          "localCopy": null
+        }
+      ],
+      "officialVideos": []
+    },
+    {
+      "id": "tianzhi-minggui",
+      "nameOriginal": "天志明鬼",
+      "romanization": "Tianzhi Minggui",
+      "category": "hair",
+      "sourceId": "cn-20250925-new-appearance",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": null,
+        "precision": "unknown",
+        "timezone": null,
+        "basis": "Article says coming soon, without an item-specific date."
+      },
+      "acquisition": {
+        "kind": "exchange_shop",
+        "shopOriginal": "和鸣商店",
+        "amount": 1,
+        "currencyOriginal": "八音窍",
+        "en": "Shop exchange; animated avatar included.",
+        "ko": "상점 교환. 움직이는 프로필 이미지 포함."
+      },
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20250926/a2ca7f96-492d-4e6d-aa13-8381266628a7.png",
+          "width": 1080,
+          "height": 4204,
+          "bytes": null,
+          "kind": "official_promotional_game_image",
+          "visuallyInspected": true,
+          "description": "Long hair poster with blue hair, front/back views and avatar previews.",
+          "reusePermission": "unknown",
+          "localCopy": null
+        }
+      ],
+      "officialVideos": []
+    },
+    {
+      "id": "yunzhong-jinshu",
+      "nameOriginal": "云中锦书",
+      "romanization": "Yunzhong Jinshu",
+      "category": "outfit",
+      "sourceId": "cn-20250925-new-appearance",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": "2025-09-26",
+        "precision": "day",
+        "timezone": null,
+        "basis": "explicit introduction list; section says after September 26"
+      },
+      "acquisition": {
+        "kind": "battle_pass",
+        "en": "Purchased battle pass at a required level; exact level unstated.",
+        "ko": "유료 배틀패스 지정 단계 달성. 정확한 단계는 공지에 미표기."
+      },
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20250926/a8f6c1bd-5ee4-4515-82c2-cc817faf91bb.png",
+          "width": 750,
+          "height": 10620,
+          "bytes": null,
+          "kind": "official_promotional_game_image",
+          "visuallyInspected": true,
+          "description": "Long white and black scholar outfit poster, ink motifs, both body types and component details.",
+          "reusePermission": "unknown",
+          "localCopy": null
+        }
+      ],
+      "officialVideos": []
+    },
+    {
+      "id": "cangyin-xihe-qiaori",
+      "nameOriginal": "藏音·羲和敲日",
+      "romanization": "Cangyin · Xihe Qiaori",
+      "category": "weapon_skin",
+      "weaponTypeOriginal": "唐横刀",
+      "sourceId": "cn-20250925-new-appearance",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": "2025-09-26",
+        "precision": "day",
+        "timezone": null,
+        "basis": "explicit date in weapon section"
+      },
+      "acquisition": {
+        "kind": "exchange_shop",
+        "shopOriginal": "和鸣商店",
+        "amount": 1,
+        "currencyOriginal": "八音窍",
+        "en": "Shop exchange; weapon reforging supports alternate appearances.",
+        "ko": "상점 교환. 무기 재련으로 외형 변경 가능."
+      },
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20250926/20bef452-e967-4ebb-a910-397b3a430abd.png",
+          "width": 3500,
+          "height": 1934,
+          "bytes": null,
+          "kind": "official_promotional_game_image",
+          "visuallyInspected": true,
+          "description": "Landscape weapon preview: luminous blue and white sword held by character.",
+          "reusePermission": "unknown",
+          "localCopy": null
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20250926/d6c0e797-bb42-419c-9a91-7f021dc9f184.png",
+          "width": 3500,
+          "height": 1934,
+          "bytes": null,
+          "kind": "official_promotional_game_image",
+          "visuallyInspected": true,
+          "description": "Landscape weapon preview: fiery orange and black alternate appearance held by character.",
+          "reusePermission": "unknown",
+          "localCopy": null
+        }
+      ],
+      "officialVideos": []
+    }
+  ],
+  "contextualOfficialVideos": [
+    {
+      "id": "PB0i3293jRQ",
+      "title": "Where Winds Meet - Release Date Trailer",
+      "watchUrl": "https://www.youtube.com/watch?v=PB0i3293jRQ",
+      "embedUrl": null,
+      "embedStatus": "not independently retrieved; watch URL is verified",
+      "channelName": "Where Winds Meet",
+      "channelUrl": "https://www.youtube.com/@WhereWindsMeet",
+      "channelVerifiedBadge": true,
+      "displayedPublicationDate": "2025-08-20",
+      "durationSeconds": 178.141,
+      "officialSourceUrl": "https://ir.netease.com/node/15081/pdf",
+      "playbackVerified": true,
+      "playbackEvidence": "Browser video readyState 4, unpaused, observed currentTime 11.238186 seconds after Play; paused after test.",
+      "scope": "General game trailer only. Do not attach as a showcase or global-release evidence for the eight selected cosmetics.",
+      "reusePermission": "unknown"
+    }
+  ],
+  "implementationNotes": [
+    "Use remote references and explicit source attribution. No original asset was downloaded or rehosted.",
+    "Most cosmetic images are extremely tall composites. A normal object-fit:cover will often select the middle, not the key outfit. Favor a bounded viewport onto the top of the image and offer the full official source.",
+    "The two landscape weapon images are well suited for a wide feature or gallery. Preserve that they depict alternate appearances; do not imply the shown surrounding outfit is the catalogued weapon.",
+    "Do not label PNGs as GIF/video. No motion asset or video element was observed in the cosmetic article.",
+    "No time zone was explicitly stated in this article. Keep its local timestamps and null zone; do not silently convert to UTC."
+  ]
+}
