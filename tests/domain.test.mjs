@@ -311,3 +311,60 @@ test("free rewards need a documented reward method rather than an unknown price"
   assert.equal(acquisitionSchema.safeParse({...base,kind:"shop"}).success,false);
   assert.equal(acquisitionSchema.safeParse({...base,amount:0}).success,false);
 });
+
+// Archive ordering and countdown fixtures never become published schedules.
+import { daysUntil, globalOutlook, sortArchive, validSort, validServer } from '../lib/archive-domain.mjs';
+test('archive date order keeps unknowns last, separates servers, and uses stable names', () => {
+  const rows = [
+    {id:'b',name:'Beta',cnDate:'2025-01-01',globalDate:'2026-09-01',upcomingDate:null},
+    {id:'a',name:'Alpha',cnDate:'2026-06-01',globalDate:'2025-11-14',upcomingDate:'2026-10-21'},
+    {id:'c',name:'Gamma',cnDate:null,globalDate:null,upcomingDate:'2026-10-01'},
+    {id:'d',name:'Delta',cnDate:null,globalDate:'2026-09-01',upcomingDate:null},
+  ];
+  const order = sort => sortArchive(rows,sort,'en').map(r=>r.id);
+  assert.deepEqual(order('cn-newest'),['a','b','d','c']);
+  assert.deepEqual(order('cn-oldest'),['b','a','d','c']);
+  assert.deepEqual(order('global-newest'),['b','d','a','c']);
+  assert.deepEqual(order('global-oldest'),['a','b','d','c']);
+  assert.deepEqual(order('upcoming'),['c','a','b','d']);
+  assert.deepEqual(order('name-desc'),['c','d','b','a']);
+  assert.equal(validSort('price'),'latest');
+  assert.equal(rows[0].id,'b');
+});
+test('official countdown uses calendar days and never implies an unverified past release', () => {
+  const event={cosmeticId:'test',server:'Global',kind:'release',status:'announced',date:'2026-10-21'};
+  assert.equal(daysUntil('2026-10-21','2026-09-13'),38);
+  assert.equal(daysUntil('2026-11-02','2026-11-01'),1);
+  assert.equal(daysUntil('2026-02-30','2026-09-13'),null);
+  assert.equal(globalOutlook('test',null,[event],[],'2026-09-13').days,38);
+  assert.equal(globalOutlook('test',null,[event],[],'2026-10-21').days,0);
+  assert.equal(globalOutlook('test',null,[event],[],'2026-10-22').pending,true);
+  assert.equal(globalOutlook('test',null,[event],[],'2026-10-22').sortDate,null);
+  assert.equal(globalOutlook('test',{status:'released'},[event],[],'2026-09-13'),null);
+  assert.equal(globalOutlook('test',null,[{...event,status:'cancelled'}],[],'2026-09-13'),null);
+  assert.equal(globalOutlook('test',null,[{...event,kind:'rerun'}],[],'2026-09-13'),null);
+  assert.equal(globalOutlook('test',{status:'announced',releaseDate:null},[],[],'2026-09-13').days,null);
+});
+test('forecasts retain precision, latest revisions and review expiry; official evidence takes priority', () => {
+  const f={...fixture, cosmeticId:'test',createdAt:'2026-09-13T00:00:00Z',reviewDue:'2026-12-31',precision:'window',month:undefined,start:'2027-01-09',end:'2027-01-23'};
+  const outlook=globalOutlook('test',null,[],[f],'2026-09-13');
+  assert.equal(outlook.kind,'forecast');
+  assert.equal(outlook.days,118); assert.equal(outlook.endDays,132);
+  const month={...f,precision:'month',month:'2026-12',start:undefined,end:undefined};
+  assert.equal(globalOutlook('test',null,[],[month],'2026-09-13').days,null);
+  assert.equal(globalOutlook('test',null,[],[month],'2026-09-13').month,'2026-12');
+  const version={...month,precision:'version',month:undefined,version:'3.0'};
+  assert.equal(globalOutlook('test',null,[],[version],'2026-09-13').sortDate,null);
+  assert.equal(globalOutlook('test',null,[],[f,{...f,revision:2,state:'withdrawn'}],'2026-09-13'),null);
+  assert.equal(globalOutlook('test',null,[],[{...f,reviewDue:'2026-09-12'}],'2026-09-13'),null);
+  assert.equal(globalOutlook('test',null,[],[{...f,end:'2026-09-12',start:'2026-09-01'}],'2026-09-13'),null);
+  assert.equal(globalOutlook('test',{status:'announced',releaseDate:'2026-10-21'},[],[f],'2026-09-13').kind,'official');
+});
+
+ test('archive server choices merge legacy both-server links into all servers', () => {
+  assert.equal(validServer('both'),'all');
+  assert.equal(validServer('all'),'all');
+  assert.equal(validServer('cn'),'cn');
+  assert.equal(validServer('global'),'global');
+  assert.equal(validServer('invalid'),'all');
+});
