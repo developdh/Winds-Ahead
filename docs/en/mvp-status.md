@@ -50,3 +50,5 @@ Private image and video derivatives are recorded in `media.json` and `research.j
 [Open the private MVP](https://winds-ahead.donghee0815.chatgpt.site). Sites reported successful publication on September 13, 2026 UTC. Access remains owner-only. The foundation is retained in PR #5 and the latest content/effects in [PR #6](https://github.com/developdh/Winds-Ahead/pull/6); publishing did not merge the stacked branches into main.
 
 See [September intake and playback](content-expansion.md) for the latest evidence, competitor findings, optimization decisions, and validation limits.
+
+See [Detail image gallery](gallery-navigation.md) for the later navigation and popup-motion changes and their validation scope.

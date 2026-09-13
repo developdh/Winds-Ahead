@@ -50,3 +50,5 @@
 [비공개 MVP 열기](https://winds-ahead.donghee0815.chatgpt.site). 2026년 9월 13일 UTC에 Sites 게시 성공을 확인했습니다. 접근 범위는 소유자 비공개입니다. 기반 소스는 PR #5, 최신 콘텐츠·이펙트는 [PR #6](https://github.com/developdh/Winds-Ahead/pull/6)에 보존하며 게시 과정에서 단계별 브랜치를 main에 병합하지 않았습니다.
 
 최근 근거, 경쟁 사이트 확인, 최적화와 검증 범위는 [9월 정보 수집과 재생](content-expansion.md)을 참고하세요.
+
+이후 추가된 사진 이동·팝업 움직임 수정과 검증 범위는 [상세 이미지 갤러리](gallery-navigation.md)를 참고하세요.

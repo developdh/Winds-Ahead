@@ -25,7 +25,6 @@ import {
   ShieldCheck,
   Sparkles,
   X,
-  ZoomIn,
   Play,
   CalendarDays,
   History,
@@ -34,6 +33,7 @@ import {
 import { rememberLocale } from "@/lib/language-preference";
 import CosmeticVideos from "@/components/cosmetic-videos";
 import AcquisitionInfo from "@/components/acquisition-info";
+import CosmeticGallery from "@/components/cosmetic-gallery";
 import { acquisitionSummary, currencyName } from "@/lib/acquisition";
 import updateData from "@/content/updates.json";
 import { sources as allSources } from "@/lib/roadmap";
@@ -47,14 +47,6 @@ import {
 } from "@/lib/global-status";
 import { Tabs, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { NativeSelect } from "@/components/ui/native-select";
-import {
-  Dialog,
-  DialogContent,
-  DialogTitle,
-  DialogDescription,
-  DialogClose,
-  DialogTrigger,
-} from "@/components/ui/dialog";
 import {
   cosmetics,
   categoryNames,
@@ -308,6 +300,7 @@ export default function SiteApp({
         )}
         {view === "detail" && item && (
           <Detail
+            key={item.id}
             c={item}
             l={l}
             saveButton={saveButton}
@@ -564,12 +557,6 @@ function Detail({
   const source = sourceOf(c);
   const images = imagesOf(c);
   const [selected, setSelected] = useState(0);
-  const [gallery, setGallery] = useState(false);
-  const [failed, setFailed] = useState(false);
-  useEffect(() => {
-    setSelected(0);
-    setFailed(false);
-  }, [c.id]);
   return (
     <>
       <Link className="back-link" href={`/${l}${backQuery}`}>
@@ -578,75 +565,7 @@ function Detail({
       </Link>
       <div className="detail-grid">
         <section className="detail-visual">
-          {c.category === "effect" && c.officialVideos.length > 0 ? <CosmeticVideos key={c.id} c={c} l={l} hero /> : <Dialog open={gallery} onOpenChange={setGallery}>
-            <DialogTrigger asChild>
-              <button
-                className="detail-image"
-                aria-label={t(
-                  "Open full official image",
-                  "공식 이미지 크게 보기",
-                )}
-              >
-                <img
-                  src={images[selected].thumbnail}
-                  width={600}
-                  height={710}
-                  alt={`${c.nameOriginal} · ${t("Official CN preview", "중국 공식 미리보기")}`}
-                  fetchPriority="high"
-                />
-                <span>
-                  <ZoomIn size={17} />
-                  {t("View full image", "전체 이미지 보기")}
-                </span>
-              </button>
-            </DialogTrigger>
-            <DialogContent className="gallery-dialog" showCloseButton={false}>
-              <div className="gallery-header">
-                <div>
-                  <DialogTitle>{nameOf(c, l)}</DialogTitle>
-                  <DialogDescription>
-                    {t(
-                      "Official CN promotional image · NetEase",
-                      "중국 공식 홍보 이미지 · NetEase",
-                    )}
-                  </DialogDescription>
-                </div>
-                <DialogClose
-                  className="icon-button"
-                  aria-label={t("Close gallery", "갤러리 닫기")}
-                >
-                  <X size={21} />
-                </DialogClose>
-              </div>
-              <div className="gallery-scroll">
-                {failed ? (
-                  <p role="alert">
-                    {t(
-                      "The image could not load. Open the official original below.",
-                      "이미지를 불러오지 못했습니다. 아래의 공식 원본을 열어주세요.",
-                    )}
-                  </p>
-                ) : (
-                  <img
-                    src={images[selected].full}
-                    width={c.images[selected].width}
-                    height={c.images[selected].height}
-                    alt={`${c.nameOriginal} · ${t("Full promotional sheet", "전체 홍보 이미지")}`}
-                    onError={() => setFailed(true)}
-                  />
-                )}
-              </div>
-              <a
-                className="text-link"
-                href={images[selected].originalUrl}
-                target="_blank"
-                rel="noreferrer"
-              >
-                {t("Open official original", "공식 원본 열기")}
-                <ArrowUpRight size={16} />
-              </a>
-            </DialogContent>
-          </Dialog>}
+          {c.category === "effect" && c.officialVideos.length > 0 ? <CosmeticVideos key={c.id} c={c} l={l} hero /> : <CosmeticGallery key={c.id} c={c} l={l} selected={selected} onSelect={setSelected} />}
           {images.length > 1 && (
             <div
               className="image-options"
@@ -656,10 +575,7 @@ function Detail({
                 <button
                   key={m.index}
                   aria-pressed={selected === i}
-                  onClick={() => {
-                    setSelected(i);
-                    setFailed(false);
-                  }}
+                  onClick={() => setSelected(i)}
                 >
                   <img
                     src={m.thumbnail}
