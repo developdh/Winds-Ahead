@@ -35,7 +35,7 @@ export interface Cosmetic {
   cnRelease: { date: string | null; precision: "day" | "unknown"; timezone: null; contextual: boolean; basis: string };
   acquisition: Acquisition;
   global: { status: string; releaseDate: string | null; officialName: string | null };
-  images: { url: string; width: number; height: number; reusePermission: string }[];
+  images: { url: string; width: number; height: number; reusePermission: string; alt?: Bilingual; caption?: Bilingual }[];
   officialVideos: typeof research.cosmetics[number]["officialVideos"];
 }
 export const source = research.sources[0];

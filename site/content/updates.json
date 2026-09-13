@@ -2,6 +2,26 @@
   "schemaVersion": 1,
   "entries": [
     {
+      "id": "photo-expansion-20260913",
+      "date": "2026-09-13",
+      "kind": {
+        "en": "Photo collection",
+        "ko": "사진 보강"
+      },
+      "title": {
+        "en": "More angles, more detail",
+        "ko": "더 다양한 모습, 더 자세한 사진"
+      },
+      "body": {
+        "en": "Added 36 official CN photos for 19 outfits, including the first images for 12 entries. The archive now has 491 static photos across 368 appearances. Concept and dye previews are labeled where applicable; missing images and unverified Global releases remain explicit.",
+        "ko": "의상 19종에 중국 공식 사진 36장을 추가했습니다. 그중 12종은 첫 사진이며, 외관 368종의 정지 사진 491장을 제공합니다. 필요한 원화·염색 예시를 구분하고 미확인 사진과 글로벌 출시는 그대로 표시합니다."
+      },
+      "sourceIds": [
+        "cn-20260528-outfits",
+        "cn-20260612-outfits"
+      ]
+    },
+    {
       "id": "release-roadmap-20260913",
       "date": "2026-09-13",
       "kind": {
