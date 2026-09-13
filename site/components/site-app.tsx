@@ -231,9 +231,6 @@ export default function SiteApp({
   };
   return (
     <>
-      <a href="#main" className="skip-link">
-        {t("Skip to content", "본문 바로가기")}
-      </a>
       <header className="site-header">
         <Link
           className="brand"
@@ -277,7 +274,7 @@ export default function SiteApp({
           {l === "ko" ? "EN" : "KO"}
         </Link>
       </header>
-      <main key={path} id="main" className="page" lang={l}>
+      <main key={path} id="main" className="page" lang={l} tabIndex={-1}>
         {storageError && (
           <div role="alert" className="notice-bar">
             {t(

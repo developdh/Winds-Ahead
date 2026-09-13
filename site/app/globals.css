@@ -141,18 +141,6 @@ small,
   line-height: 1.7;
   color: var(--muted-foreground);
 }
-.skip-link {
-  position: absolute;
-  top: -100px;
-  left: 24px;
-  z-index: 100;
-  padding: 12px 20px;
-  background: var(--primary);
-  color: var(--primary-foreground);
-}
-.skip-link:focus {
-  top: 12px;
-}
 .site-header {
   min-height: 94px;
   border-bottom: 1px solid var(--border);
