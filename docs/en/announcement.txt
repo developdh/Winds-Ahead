@@ -1,13 +1,3 @@
-# Community announcement draft
-
-[한국어](../ko/announcement.md) · [Release status](public-launch.md)
-
-Enable and verify anonymous website access before posting. This draft has not been posted.
-
-[Plain-text draft for review and copying](announcement.txt)
-
----
-
 Introducing Winds Ahead / 연운경 — a Where Winds Meet cosmetic archive and release roadmap
 
 Hello! I built Winds Ahead, an independent fan site that brings Where Winds Meet cosmetic information together.
