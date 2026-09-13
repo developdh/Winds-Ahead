@@ -31,6 +31,10 @@ import {
   History,
   SlidersHorizontal,
 } from "lucide-react";
+import { rememberLocale } from "@/lib/language-preference";
+import CosmeticVideos from "@/components/cosmetic-videos";
+import updateData from "@/content/updates.json";
+import { sources as allSources } from "@/lib/roadmap";
 import { useScrollReveals } from "@/components/motion";
 import { useArchiveTools } from "@/components/webmcp";
 import { cleanWatchlist } from "@/lib/roadmap-domain.mjs";
@@ -60,6 +64,7 @@ import {
   pageNames,
   searchCosmetics,
   source,
+  sourceOf,
   verifiedAt,
   type Category,
   type Cosmetic,
@@ -96,6 +101,7 @@ export default function SiteApp({
   const [notice, setNotice] = useState("");
   useEffect(() => {
     document.documentElement.lang = l;
+    rememberLocale(l);
     try {
       setSaved(validSaved(localStorage.getItem(STORE)));
     } catch {
@@ -149,7 +155,7 @@ export default function SiteApp({
   const langUrl = `${path.replace(/^\/(en|ko)(?=\/|$)/, l === "ko" ? "/en" : "/ko")}${params.toString() ? "?" + params.toString() : ""}`;
   const item = itemId ? findCosmetic(itemId) : undefined;
   const backParams = new URLSearchParams();
-  for (const k of ["q", "category", "sort"]) {
+  for (const k of ["q", "category"]) {
     const v = params.get(k);
     if (v) backParams.set(k, v);
   }
@@ -200,12 +206,6 @@ export default function SiteApp({
             fetchPriority={i === 0 ? "high" : "auto"}
             decoding="async"
           />
-          <span className="image-chip">
-            CN · {t("Official source", "공식 자료")}
-          </span>
-          <span className="image-arrow">
-            <ArrowUpRight size={21} />
-          </span>
         </Link>
         <div className="card-copy">
           <div className="card-topline">
@@ -243,8 +243,11 @@ export default function SiteApp({
           <span className="brand-mark" aria-hidden="true">
             燕
           </span>
-          <span>
-            WINDS AHEAD<small>연운경 · 燕雲鏡</small>
+          <span className="brand-name">
+            {l === "ko" ? "연운경" : "Winds Ahead"}
+          </span>
+          <span className="brand-symbol" aria-hidden="true">
+            鏡
           </span>
         </Link>
         <nav aria-label={t("Main navigation", "주 메뉴")}>
@@ -252,7 +255,6 @@ export default function SiteApp({
             [
               ["catalog", "", Compass],
               ["calendar", "calendar", CalendarDays],
-              ["watchlist", "watchlist", Bookmark],
             ] as const
           ).map(([v, slug, Icon]) => (
             <Link
@@ -265,15 +267,9 @@ export default function SiteApp({
               aria-current={view === v ? "page" : undefined}
               href={`/${l}${slug ? "/" + slug : ""}`}
             >
-              <Icon size={17} />
               {v === "catalog"
-                ? t("Archive", "외관 도감")
-                : v === "calendar"
-                  ? t("Roadmap", "로드맵")
-                  : t("Watchlist", "관심 외관")}
-              {v === "watchlist" && saved.length > 0 && (
-                <span className="nav-count">{saved.length}</span>
-              )}
+                ? t("Cosmetics", "외관")
+                : t("Calendar", "캘린더")}
             </Link>
           ))}
         </nav>
@@ -283,7 +279,6 @@ export default function SiteApp({
           hrefLang={l === "ko" ? "en" : "ko"}
           aria-label={t("Switch to Korean", "Switch to English")}
         >
-          <Globe2 size={16} />
           {l === "ko" ? "EN" : "한국어"}
         </Link>
       </header>
@@ -316,7 +311,7 @@ export default function SiteApp({
               </div>
             }
           >
-            <Roadmap l={l} saved={saved} />
+            <Roadmap l={l} />
           </Suspense>
         )}
         {view === "updates" && <Updates l={l} />}
@@ -379,23 +374,18 @@ function Catalog({
   const [category, setCategory] = useState(
     initial in categoryNames ? initial : "all",
   );
-  const [sort, setSort] = useState(
-    params.get("sort") === "name" ? "name" : "release",
-  );
   useEffect(() => {
     setQuery(params.get("q") ?? "");
     const c = params.get("category") ?? "all";
     setCategory(c in categoryNames ? c : "all");
-    setSort(params.get("sort") === "name" ? "name" : "release");
   }, [params]);
-  function update(q: string, c: string, s: string) {
+  function update(q: string, c: string) {
     setQuery(q);
     setCategory(c);
-    setSort(s);
     const p = new URLSearchParams(window.location.search);
     q ? p.set("q", q) : p.delete("q");
     c !== "all" ? p.set("category", c) : p.delete("category");
-    s !== "release" ? p.set("sort", s) : p.delete("sort");
+    p.delete("sort");
     history.replaceState(
       null,
       "",
@@ -407,134 +397,90 @@ function Catalog({
       searchCosmetics(query, category)
         .filter((c) => view !== "watchlist" || saved.includes(c.id))
         .sort((a, b) =>
-          sort === "name"
-            ? nameOf(a, l).localeCompare(nameOf(b, l), l)
-            : (b.cnRelease.date ?? "").localeCompare(a.cnRelease.date ?? ""),
+          (b.cnRelease.date ?? "").localeCompare(a.cnRelease.date ?? ""),
         ),
-    [query, category, view, saved, sort, l],
+    [query, category, view, saved],
   );
   return (
     <>
-      <div className="page-heading">
+      <div className="page-heading catalog-intro">
         <div>
-          <p className="eyebrow">
-            WHERE WINDS MEET ·{" "}
-            {view === "catalog" ? "COSMETIC ARCHIVE" : "YOUR COLLECTION"}
-          </p>
           <h1>
-            {pageNames[view][l]}
-            <span className="heading-seal" aria-hidden="true">
-              鏡
-            </span>
+            {view === "catalog"
+              ? t("A world of detail.", "취향이 머무는 곳.")
+              : t("Your collection.", "마음에 담은 외관.")}
           </h1>
           <p className="intro">
             {view === "catalog"
               ? t(
-                  "Discover the details. See what may lie ahead.",
-                  "외관의 디테일을 살펴보고, 다음 여정을 준비하세요.",
+                  "Explore the cosmetics of Where Winds Meet.",
+                  "다음에 만날 연운의 외관을 살펴보세요.",
                 )
               : t(
-                  "The cosmetics you want to keep an eye on. Saved in this browser.",
-                  "마음에 드는 외관을 모아보세요. 이 브라우저에 저장됩니다.",
+                  "A few favorites. Saved in this browser.",
+                  "이 브라우저에 저장한 나만의 외관 모음.",
                 )}
           </p>
         </div>
+      </div>
+      <div className="archive-toolbar">
+        <label className="search-row">
+          <Search size={21} />
+          <input
+            aria-label={t("Search cosmetics", "외관 검색")}
+            value={query}
+            onChange={(e) => update(e.target.value, category)}
+            placeholder={t("Search cosmetics", "이름이나 특징으로 검색")}
+          />
+          {query ? (
+            <button
+              aria-label={t("Clear search", "검색어 지우기")}
+              onClick={() => update("", category)}
+            >
+              <X size={18} />
+            </button>
+          ) : null}
+        </label>
+        <div className="filters-row">
+          <Tabs value={category} onValueChange={(v) => update(query, v)}>
+            <TabsList
+              className="category-tabs"
+              aria-label={t("Cosmetic type", "외관 종류")}
+            >
+              {Object.entries(categoryNames).map(([k, n]) => (
+                <TabsTrigger key={k} value={k}>
+                  {n[l]}
+                </TabsTrigger>
+              ))}
+            </TabsList>
+          </Tabs>
+        </div>
         <Link
-          href={`/${l}/${view === "catalog" ? "calendar" : ""}`}
-          className="text-link"
+          className="collection-link"
+          href={`/${l}${view === "catalog" ? "/watchlist" : ""}`}
+          aria-label={
+            view === "catalog"
+              ? t("Saved cosmetics", "저장한 외관")
+              : t("All cosmetics", "전체 외관")
+          }
         >
-          {view === "catalog"
-            ? t("Explore the roadmap", "출시 로드맵")
-            : t("Explore the archive", "도감 둘러보기")}
-          <ArrowUpRight size={18} />
+          <Bookmark
+            size={19}
+            fill={view === "watchlist" ? "currentColor" : "none"}
+          />
+          {saved.length > 0 && <span>{saved.length}</span>}
         </Link>
       </div>
-      {view === "catalog" && (
-        <details className="catalog-disclosure">
-          <summary>
-            <ShieldCheck size={17} />
-            <span>
-              {t(
-                "CN sources. Global dates checked separately.",
-                "중국 공식 자료 · 글로벌 일정은 별도 확인",
-              )}
-            </span>
-            <Info size={16} />
-          </summary>
-          <p>
-            {t(
-              "An appearance in CN does not confirm a global release. We preserve the original source and show unknown global dates as unscheduled.",
-              "중국 공개가 글로벌 출시 확정을 뜻하지 않습니다. 원문 출처를 보존하고 확인하지 못한 글로벌 날짜는 미정으로 표시합니다.",
-            )}{" "}
-            <Link href={`/${l}/about`}>
-              {t("Our verification approach", "정보 확인 기준")} ↗
-            </Link>
-          </p>
-        </details>
-      )}
-
-      <label className="search-row">
-        <Search size={21} />
-        <input
-          aria-label={t("Search cosmetics", "외관 검색")}
-          value={query}
-          onChange={(e) => update(e.target.value, category, sort)}
-          placeholder={t(
-            "Search a name, original Chinese name, or detail…",
-            "이름, 중국어 원명, 외관 특징으로 검색…",
+      <div className="archive-caption">
+        <span role="status">
+          {items.length} {t("cosmetics", "개의 외관")}
+        </span>
+        <span>
+          {t(
+            "CN archive · Global dates checked separately",
+            "중국 출시 기록 · 글로벌 일정 별도 확인",
           )}
-        />
-        {query ? (
-          <button
-            aria-label={t("Clear search", "검색어 지우기")}
-            onClick={() => update("", category, sort)}
-          >
-            <X size={18} />
-          </button>
-        ) : (
-          <span>{t("EN · KO · CN NAMES", "한글 · 영문 · 중국 원명")}</span>
-        )}
-      </label>
-      <div className="filters-row">
-        <Tabs value={category} onValueChange={(v) => update(query, v, sort)}>
-          <TabsList
-            className="category-tabs"
-            aria-label={t("Cosmetic type", "외관 종류")}
-          >
-            {Object.entries(categoryNames).map(([k, n]) => (
-              <TabsTrigger key={k} value={k}>
-                {n[l]}
-                <span>
-                  {k === "all"
-                    ? cosmetics.length
-                    : cosmetics.filter((c) => c.category === k).length}
-                </span>
-              </TabsTrigger>
-            ))}
-          </TabsList>
-        </Tabs>
-      </div>
-      <div className="catalog-heading">
-        <h2>
-          {view === "watchlist"
-            ? t("Saved cosmetics", "저장한 외관")
-            : t("Explore the collection", "외관 둘러보기")}{" "}
-          <span className="result-count" role="status">
-            {items.length}
-          </span>
-        </h2>
-        <label className="sort-field">
-          <span className="sr-only">{t("Sort order", "정렬")}</span>
-          <NativeSelect
-            value={sort}
-            onChange={(e) => update(query, category, e.target.value)}
-          >
-            <option value="release">
-              {t("CN release · Newest", "중국 출시일순")}
-            </option>
-            <option value="name">{t("Name · A–Z", "이름순")}</option>
-          </NativeSelect>
-        </label>
+        </span>
       </div>
       {view === "watchlist" && !ready ? (
         <div className="empty-state" role="status">
@@ -567,7 +513,7 @@ function Catalog({
           {query || category !== "all" ? (
             <button
               className="outline-button"
-              onClick={() => update("", "all", "release")}
+              onClick={() => update("", "all")}
             >
               {t("Reset filters", "필터 초기화")}
             </button>
@@ -577,28 +523,6 @@ function Catalog({
               <ArrowRight size={16} />
             </Link>
           )}
-        </div>
-      )}
-      {view === "catalog" && (
-        <div className="roadmap-banner">
-          <div className="banner-icon">
-            <CalendarDays size={27} />
-          </div>
-          <div>
-            <h2>
-              {t("What comes after the wind?", "다음 바람은 어디로 향할까요?")}
-            </h2>
-            <p>
-              {t(
-                "Follow CN release history and evidence-based global forecasts.",
-                "중국 출시 기록과 근거를 바탕으로 한 글로벌 예상을 함께 살펴보세요.",
-              )}
-            </p>
-          </div>
-          <Link className="outline-button" href={`/${l}/calendar`}>
-            {t("Open roadmap", "로드맵 보기")}
-            <ArrowUpRight size={16} />
-          </Link>
         </div>
       )}
     </>
@@ -618,6 +542,7 @@ function Detail({
   card: (c: Cosmetic, i: number) => React.ReactNode;
 }) {
   const t = (en: string, ko: string) => (l === "ko" ? ko : en);
+  const source = sourceOf(c);
   const images = imagesOf(c);
   const [selected, setSelected] = useState(0);
   const [gallery, setGallery] = useState(false);
@@ -819,11 +744,11 @@ function Detail({
         </section>
       </div>
       <div className="detail-bottom">
-        <section className="source-panel">
-          <h2>
-            <History size={18} />
+        <details className="source-panel evidence-disclosure">
+          <summary>
             {t("Sources & verification", "출처와 확인 기록")}
-          </h2>
+            <span>+</span>
+          </summary>
           <a href={source.url} target="_blank" rel="noreferrer">
             {source.titleOriginal}
             <ArrowUpRight size={16} />
@@ -843,25 +768,8 @@ function Detail({
               "공지 화면은 9월 25일, 주소는 9월 26일로 다릅니다. 화면에 표시된 게시일을 기록했습니다.",
             )}
           </small>
-        </section>
-        <section className="source-panel">
-          <h2>
-            <Play size={18} />
-            {t("Cosmetic video", "외관 영상")}
-          </h2>
-          <p>
-            {t(
-              "No verified video for this cosmetic is available in the archive yet.",
-              "이 외관의 검증된 영상이 아직 등록되지 않았습니다.",
-            )}
-          </p>
-          <p className="small-muted">
-            {t(
-              "Images and videos are matched to the exact cosmetic before being added.",
-              "이미지와 영상이 해당 외관을 보여주는지 확인한 뒤 추가합니다.",
-            )}
-          </p>
-        </section>
+        </details>
+        {c.officialVideos.length > 0 && <CosmeticVideos c={c} l={l} />}
       </div>
       <div className="catalog-heading">
         <h2>{t("From the same collection", "같은 공지에서 만나는 외관")}</h2>
@@ -915,13 +823,13 @@ function GlobalPanel({ c, l }: { c: Cosmetic; l: Locale }) {
       ) : (
         <p>
           {t(
-            "No verified global release or official localized name has been recorded in this archive yet.",
-            "이 도감에는 검증한 글로벌 출시 정보와 공식 한국어명이 아직 등록되지 않았습니다.",
+            "Release date and official localized name are not verified yet.",
+            "출시일과 공식 한국어명은 아직 확인되지 않았습니다.",
           )}
         </p>
       )}
       <Link className="text-link" href={`/${l}/calendar`}>
-        {t("Check the roadmap", "로드맵 확인")}
+        {t("View calendar", "캘린더 보기")}
         <ArrowRight size={15} />
       </Link>
     </div>
@@ -939,33 +847,31 @@ function Updates({ l }: { l: Locale }) {
           "무엇이 바뀌었는지, 어떤 근거가 있는지 기록합니다.",
         )}
       />
-      <div className="update-entry">
-        <time dateTime={verifiedAt}>{formatDay(verifiedAt, l)}</time>
-        <div>
-          <span className="badge">{t("Archive added", "도감 등록")}</span>
-          <h2>
-            {t(
-              "Eight cosmetics. One official source.",
-              "공식 자료로 시작하는 여덟 가지 외관",
-            )}
-          </h2>
-          <p>
-            {t(
-              "Added the September 2025 CN collection, acquisition methods, and official image references. Global names and releases remain unverified.",
-              "2025년 9월 중국 외관 8종의 획득 정보와 공식 이미지를 등록했습니다. 글로벌 공식명과 출시 정보는 미확인 상태입니다.",
-            )}
-          </p>
-          <a
-            className="text-link"
-            href={source.url}
-            target="_blank"
-            rel="noreferrer"
-          >
-            {t("View source", "출처 보기")}
-            <ArrowUpRight size={16} />
-          </a>
+      {updateData.entries.map((entry) => (
+        <div className="update-entry" key={entry.id}>
+          <time dateTime={entry.date}>{formatDay(entry.date, l)}</time>
+          <div>
+            <span className="badge">{entry.kind[l]}</span>
+            <h2>{entry.title[l]}</h2>
+            <p>{entry.body[l]}</p>
+            {entry.sourceIds.map((id) => {
+              const source = allSources.find((s) => s.id === id)!;
+              return (
+                <a
+                  key={id}
+                  className="text-link"
+                  href={source.url}
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  {t("View source", "출처 보기")}
+                  <ArrowUpRight size={16} />
+                </a>
+              );
+            })}
+          </div>
         </div>
-      </div>
+      ))}
       <div className="editor-note">
         <History size={20} />
         <p>
@@ -1103,7 +1009,7 @@ function About({ l }: { l: Locale }) {
               {formatDay(source.displayedPublicationDate, l)}
             </p>
             <span className="badge">
-              8 {t("cosmetics documented", "외관 기록")}
+              {cosmetics.length} {t("cosmetics documented", "외관 기록")}
             </span>
           </div>
           <section className="video-panel">

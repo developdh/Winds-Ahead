@@ -18,6 +18,29 @@ const sourceSchema = z
     titleOriginal: z.string().min(1),
   })
   .passthrough();
+export const videoSchema = z
+  .object({
+    provider: z.enum(["youtube", "bilibili"]),
+    id: z.string(),
+    watchUrl: z.string().url(),
+    title: bilingual,
+    sourceId: z.string().min(1),
+  })
+  .strict()
+  .superRefine((video, ctx) => {
+    const youtube = video.provider === "youtube";
+    const validId = youtube
+      ? /^[A-Za-z0-9_-]{11}$/.test(video.id)
+      : /^BV[A-Za-z0-9]{10}$/.test(video.id);
+    const expected = youtube
+      ? `https://www.youtube.com/watch?v=${video.id}`
+      : `https://www.bilibili.com/video/${video.id}`;
+    if (!validId || video.watchUrl.replace(/\/$/, "") !== expected)
+      ctx.addIssue({
+        code: z.ZodIssueCode.custom,
+        message: "Video URL must match its provider and ID",
+      });
+  });
 const cosmeticSchema = z
   .object({
     id: z.string().regex(/^[a-z0-9-]+$/),
@@ -42,6 +65,7 @@ const cosmeticSchema = z
       releaseDate: z.null(),
       officialName: z.null(),
     }),
+    officialVideos: z.array(videoSchema),
     images: z
       .array(
         z
@@ -152,6 +176,10 @@ export function validateContent(research, media, forecastData, globalData) {
   for (const c of base.cosmetics) {
     if (bySource.get(c.sourceId)?.server !== "CN")
       throw new Error("CN facts require a CN source");
+    for (const video of c.officialVideos) {
+      if (!bySource.has(video.sourceId))
+        throw new Error(`Unknown video source ${video.sourceId}`);
+    }
     if (!media.some((m) => m.cosmeticId === c.id && m.index === 0))
       throw new Error(`Missing primary media ${c.id}`);
   }
@@ -200,6 +228,55 @@ export function validateContent(research, media, forecastData, globalData) {
     globalEvents: global.events.length,
   };
 }
+export function validateEditorial(
+  research,
+  globalData,
+  localizations,
+  updates,
+) {
+  const names = z
+    .record(
+      z
+        .object({ koName: z.string().trim().min(1), description: bilingual })
+        .strict(),
+    )
+    .parse(localizations);
+  const entries = z
+    .object({
+      schemaVersion: z.literal(1),
+      entries: z.array(
+        z
+          .object({
+            id: z.string().min(1),
+            date: day,
+            kind: bilingual,
+            title: bilingual,
+            body: bilingual,
+            sourceIds: z.array(z.string()).min(1),
+          })
+          .strict(),
+      ),
+    })
+    .strict()
+    .parse(updates).entries;
+  const ids = new Set(research.cosmetics.map((c) => c.id));
+  if (
+    Object.keys(names).length !== ids.size ||
+    Object.keys(names).some((id) => !ids.has(id))
+  )
+    throw new Error("Every cosmetic needs exactly one localization");
+  const sources = new Set(
+    [...research.sources, ...globalData.sources].map((s) => s.id),
+  );
+  unique(
+    entries.map((e) => e.id),
+    "update ID",
+  );
+  for (const entry of entries)
+    for (const id of entry.sourceIds)
+      if (!sources.has(id)) throw new Error(`Unknown update source ${id}`);
+  return { localizations: Object.keys(names).length, updates: entries.length };
+}
 if (
   process.argv[1] &&
   path.resolve(process.argv[1]) === fileURLToPath(import.meta.url)
@@ -213,6 +290,14 @@ if (
       media,
       read("forecasts.json"),
       read("global-events.json"),
+    ),
+  );
+  console.log(
+    validateEditorial(
+      read("research.json"),
+      read("global-events.json"),
+      read("localizations.json"),
+      read("updates.json"),
     ),
   );
   for (const m of media)

@@ -14,6 +14,8 @@ import {
 } from "../lib/roadmap-domain.mjs";
 import {
   forecastSchema,
+  validateEditorial,
+  videoSchema,
   validateContent,
 } from "../scripts/validate-content.mjs";
 const read = (name) =>
@@ -159,5 +161,47 @@ test("revisions cannot be overwritten by duplicate revision IDs", () => {
         read("global-events.json"),
       ),
     /Duplicate forecast revision/,
+  );
+});
+
+test("editorial copy must cover every cosmetic and reference known sources", () => {
+  const localizations = read("localizations.json"),
+    updates = read("updates.json"),
+    global = read("global-events.json");
+  assert.equal(
+    validateEditorial(research, global, localizations, updates).localizations,
+    research.cosmetics.length,
+  );
+  delete localizations[research.cosmetics[0].id];
+  assert.throws(
+    () => validateEditorial(research, global, localizations, updates),
+    /localization/,
+  );
+  updates.entries[0].sourceIds = ["missing-source"];
+  assert.throws(
+    () =>
+      validateEditorial(research, global, read("localizations.json"), updates),
+    /Unknown update source/,
+  );
+});
+test("video metadata cannot point a trusted provider at another host", () => {
+  const video = {
+    provider: "youtube",
+    id: "abcdefghijk",
+    watchUrl: "https://www.youtube.com/watch?v=abcdefghijk",
+    title: { en: "Test footage", ko: "테스트 영상" },
+    sourceId: "test-source",
+  };
+  assert.equal(videoSchema.safeParse(video).success, true);
+  assert.equal(
+    videoSchema.safeParse({
+      ...video,
+      watchUrl: "https://untrusted.example/watch?v=abcdefghijk",
+    }).success,
+    false,
+  );
+  assert.equal(
+    videoSchema.safeParse({ ...video, id: "../../escape" }).success,
+    false,
   );
 });

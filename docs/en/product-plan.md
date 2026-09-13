@@ -2,6 +2,8 @@
 
 [한국어](../ko/product-plan.md) · [Document index](../../README.md)
 
+**Implementation update · September 13, 2026:** The owner-private MVP is implemented. The simplified interface and exact content paths are recorded in [MVP status](mvp-status.md), which supersedes unimplemented screen and data proposals below. Global forecasting accuracy is not validated.
+
 Prepared: 2026-09-12 (America/New_York). Stage: planning draft. This is a proposed scope, not a set of actual game-release predictions.
 
 ## 1. Product definition

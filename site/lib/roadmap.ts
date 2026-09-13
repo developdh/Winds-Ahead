@@ -42,7 +42,7 @@ export const sources = [source, ...globalData.sources] as {
 export const cnEvents: ReleaseEvent[] = cosmetics
   .filter((c) => c.cnRelease.date)
   .map((c) => ({
-    id: `cn-${c.id}-20250926`,
+    id: `cn-${c.id}-${c.cnRelease.date!.replaceAll("-", "")}`,
     cosmeticId: c.id,
     date: c.cnRelease.date!,
     precision: "day",
@@ -51,7 +51,7 @@ export const cnEvents: ReleaseEvent[] = cosmetics
     sourceIds: [c.sourceId],
     status: "released",
     scope: {
-      en: "CN server · after the update; time zone not stated",
-      ko: "중국 서버 · 업데이트 이후. 시간대 미표기",
+      en: "CN server · date only; time zone not stated",
+      ko: "중국 서버 · 날짜 단위. 시간대 미표기",
     },
   }));

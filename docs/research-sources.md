@@ -49,3 +49,13 @@ This register records source discovery and inspection limits for planning. It is
 Source availability, factual reliability, and redistribution permission are three different questions. The design and priority choices in the plans are editorial proposals rather than claims made by the sources.
 
 출처 접속 가능성, 사실의 신뢰도, 재배포 권한은 서로 다른 문제입니다. 기획 문서의 디자인·우선순위는 출처가 주장한 사실이 아니라 프로젝트를 위한 제안입니다.
+
+## Implemented MVP material · 구현 MVP 자료
+
+The September 2025 CN announcement (S07) was visually inspected for eight cosmetics. Raw evidence is in `site/content/research.json`; optimized owner-private derivatives and their unknown redistribution permission are in `site/content/media.json`. Six date-only releases and two unknown dates were retained. No global forecast was inferred from their age.
+
+2025년 9월 중국 공지(S07)의 외관 8종을 직접 확인했습니다. 원문 근거는 `site/content/research.json`, 소유자 비공개 파생 이미지와 미확인 재배포 권한은 `site/content/media.json`에 있습니다. 날짜가 명시된 6종과 미정인 2종을 구분하며 오래된 중국 출시일만으로 글로벌 예상을 만들지 않았습니다.
+
+Typography uses [Pretendard v1.3.9](https://github.com/orioncactus/pretendard/tree/v1.3.9) for body/UI and [Noto Serif KR](https://github.com/google/fonts/tree/main/ofl/notoserifkr) for the entrance. Both are locally subset with their OFL notices retained, and renamed Winds UI / Winds Heading. Earlier SUIT assets are replaced; no font CDN request is required. Rebuild the subsets when content adds new glyphs.
+
+본문·UI는 [Pretendard v1.3.9](https://github.com/orioncactus/pretendard/tree/v1.3.9), 랜딩 명조는 [Noto Serif KR](https://github.com/google/fonts/tree/main/ofl/notoserifkr)를 사용합니다. OFL 고지를 유지한 로컬 서브셋을 Winds UI / Winds Heading으로 이름을 바꾸어 제공합니다. 이전 SUIT를 대체하며 외부 폰트 CDN 요청은 없습니다. 새 글자가 추가되면 서브셋을 갱신합니다.

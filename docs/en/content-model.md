@@ -2,7 +2,9 @@
 
 [한국어](../ko/content-model.md) · [Product plan](product-plan.md)
 
-This is a proposed implementation model. No production catalog or validated prediction model exists yet.
+**Implementation update · September 13, 2026:** The owner-private MVP is implemented. The simplified interface and exact content paths are recorded in [MVP status](mvp-status.md), which supersedes unimplemented screen and data proposals below. Global forecasting accuracy is not validated.
+
+The detailed entity model below remains a proposal beyond the implemented JSON MVP. No validated prediction model exists.
 
 ## 1. Data structure
 
@@ -96,4 +98,4 @@ These labels assess evidence, not probability. Do not populate fictional forecas
 
 Initially the maintainer edits structured content and media references in the repository and reviews changes through English PRs. Visitor submissions become separate drafts before verification. A private repository's issue page is not a public reporting route; connect a separate public reporting space or a real contact channel before public launch.
 
-When a new notice is discovered, review affected records and forecasts together. Following the user's additional choice, daily checks in this task are scheduled; they maintain verified research only while the real content model is absent. Execution depends on the computer/app and tool access, so no service level is guaranteed. Record source, translation, and status corrections as revisions and include them in the next deployment. [Recurring review operations](calendar-automation.md)
+When a new notice is discovered, review affected records and forecasts together. Following the user's additional choice, daily checks in this task are scheduled; they now maintain the implemented content files described in the MVP report. Execution depends on the computer/app and tool access, so no service level is guaranteed. Record source, translation, and status corrections as revisions and include them in the next deployment. [Recurring review operations](calendar-automation.md)

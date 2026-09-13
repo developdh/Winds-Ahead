@@ -39,7 +39,7 @@ import {
   monthGrid,
   shiftMonth,
 } from "@/lib/roadmap-domain.mjs";
-export default function Roadmap({ l, saved }: { l: Locale; saved: string[] }) {
+export default function Roadmap({ l }: { l: Locale }) {
   const t = (en: string, ko: string) => (l === "ko" ? ko : en);
   const params = useSearchParams();
   const today = new Date().toISOString().slice(0, 10);
@@ -50,27 +50,11 @@ export default function Roadmap({ l, saved }: { l: Locale; saved: string[] }) {
   const [server, setServer] = useState(
     params.get("server") === "cn" ? "cn" : "global",
   );
-  const [kind, setKind] = useState(
-    ["official", "forecast"].includes(params.get("kind") ?? "")
-      ? params.get("kind")!
-      : "all",
-  );
-  const [onlySaved, setOnlySaved] = useState(params.get("saved") === "1");
-  const [layout, setLayout] = useState(
-    params.get("view") === "list" ? "list" : "month",
-  );
   useEffect(() => {
     setMonth(
       isMonth(params.get("month")) ? params.get("month")! : currentMonth,
     );
     setServer(params.get("server") === "cn" ? "cn" : "global");
-    setKind(
-      ["official", "forecast"].includes(params.get("kind") ?? "")
-        ? params.get("kind")!
-        : "all",
-    );
-    setOnlySaved(params.get("saved") === "1");
-    setLayout(params.get("view") === "list" ? "list" : "month");
   }, [params, currentMonth]);
   function update(values: Record<string, string>) {
     const p = new URLSearchParams(location.search);
@@ -78,41 +62,25 @@ export default function Roadmap({ l, saved }: { l: Locale; saved: string[] }) {
     history.replaceState(null, "", `${location.pathname}?${p}`);
     if ("month" in values) setMonth(values.month);
     if ("server" in values) setServer(values.server);
-    if ("kind" in values) setKind(values.kind || "all");
-    if ("saved" in values) setOnlySaved(values.saved === "1");
-    if ("view" in values) setLayout(values.view);
   }
-  const events = (server === "cn" ? cnEvents : globalEvents).filter(
-    (e) =>
-      e.date.startsWith(month) &&
-      kind !== "forecast" &&
-      (!onlySaved || saved.includes(e.cosmeticId)),
+  const events = (server === "cn" ? cnEvents : globalEvents).filter((e) =>
+    e.date.startsWith(month),
   );
   const latest = latestRevisions(forecasts) as Forecast[];
   const active = latest.filter((f) => f.state === "active");
   const estimates = active.filter(
-    (f) =>
-      server === "global" &&
-      kind !== "official" &&
-      forecastInMonth(f, month) &&
-      (!onlySaved || saved.includes(f.cosmeticId)),
+    (f) => server === "global" && forecastInMonth(f, month),
   );
-  const unscheduled = cosmetics
-    .filter((c) => !onlySaved || saved.includes(c.id))
-    .filter((c) =>
-      server === "global"
-        ? !globalEvents.some(
-            (e) => e.cosmeticId === c.id && e.status !== "cancelled",
-          ) &&
-          !active.some((f) => f.cosmeticId === c.id && !forecastEnded(f, today))
-        : !c.cnRelease.date,
-    );
+  const unscheduled = cosmetics.filter((c) =>
+    server === "global"
+      ? !globalEvents.some(
+          (e) => e.cosmeticId === c.id && e.status !== "cancelled",
+        ) &&
+        !active.some((f) => f.cosmeticId === c.id && !forecastEnded(f, today))
+      : !c.cnRelease.date,
+  );
   const versionForecasts = active.filter(
-    (f) =>
-      server === "global" &&
-      kind !== "official" &&
-      f.precision === "version" &&
-      (!onlySaved || saved.includes(f.cosmeticId)),
+    (f) => server === "global" && f.precision === "version",
   );
   const title = new Intl.DateTimeFormat(l === "ko" ? "ko-KR" : "en-US", {
     month: "long",
@@ -179,11 +147,11 @@ export default function Roadmap({ l, saved }: { l: Locale; saved: string[] }) {
       <div className="page-heading">
         <div>
           <p className="eyebrow">WINDS AHEAD · RELEASE ROADMAP</p>
-          <h1>{t("Follow the next chapter", "출시 로드맵")}</h1>
+          <h1>{t("What’s next.", "다음에 만날 외관.")}</h1>
           <p className="intro">
             {t(
-              "Official dates and editorial estimates, with the evidence in view.",
-              "공식 일정과 운영자 예상을, 근거와 함께 살펴보세요.",
+              "Release dates. Estimates. All in one place.",
+              "중국 출시 기록부터 글로벌 예상 일정까지.",
             )}
           </p>
         </div>
@@ -196,55 +164,22 @@ export default function Roadmap({ l, saved }: { l: Locale; saved: string[] }) {
         <Tabs value={server} onValueChange={(v) => update({ server: v })}>
           <TabsList className="server-tabs" aria-label={t("Server", "서버")}>
             <TabsTrigger value="global">{t("Global", "글로벌")}</TabsTrigger>
-            <TabsTrigger value="cn">
-              {t("China · History", "중국 · 출시 기록")}
-            </TabsTrigger>
+            <TabsTrigger value="cn">{t("China", "중국")}</TabsTrigger>
           </TabsList>
         </Tabs>
-        <div className="calendar-filters">
-          <label>
-            <span className="sr-only">{t("Event type", "일정 종류")}</span>
-            <NativeSelect
-              value={kind}
-              onChange={(e) => update({ kind: e.target.value })}
-            >
-              <option value="all">{t("All information", "모든 정보")}</option>
-              <option value="official">
-                {t("Official dates", "공식 일정")}
-              </option>
-              <option value="forecast">
-                {t("Editorial estimates", "예상 일정")}
-              </option>
-            </NativeSelect>
-          </label>
-          <label className="saved-filter">
-            <input
-              type="checkbox"
-              checked={onlySaved}
-              onChange={(e) => update({ saved: e.target.checked ? "1" : "" })}
-            />
-            {t("Watchlist only", "관심 외관만")}
-          </label>
-        </div>
       </div>
       <div className="calendar-note">
         <Info size={17} />
         <p>
           {server === "global"
             ? t(
-                "CN releases do not establish global dates. Estimates stay unscheduled until the evidence supports a window.",
-                "중국 출시 기록만으로 글로벌 날짜를 정하지 않습니다. 근거가 부족한 외관은 일정 미정으로 남깁니다.",
+                "Verified global dates and evidence-based estimates. Unknown dates stay open.",
+                "확인된 공식 날짜와 근거가 있는 예상만 표시합니다. 모르는 일정은 미정으로 남깁니다.",
               )
             : t(
                 "Historical CN release dates. A date here does not mean an item is currently on sale.",
                 "중국의 과거 출시 기록입니다. 여기에 날짜가 있어도 현재 판매 중이라는 뜻은 아닙니다.",
               )}
-          <span>
-            {t(
-              "Date-only records are not converted between time zones.",
-              "날짜 단위 기록은 시간대에 따라 변환하지 않습니다.",
-            )}
-          </span>
         </p>
       </div>
       <section
@@ -293,24 +228,10 @@ export default function Roadmap({ l, saved }: { l: Locale; saved: string[] }) {
                 }}
               />
             </label>
-            <div className="view-toggle">
-              <button
-                aria-pressed={layout === "month"}
-                onClick={() => update({ view: "month" })}
-              >
-                {t("Month", "월간")}
-              </button>
-              <button
-                aria-pressed={layout === "list"}
-                onClick={() => update({ view: "list" })}
-              >
-                {t("List", "목록")}
-              </button>
-            </div>
           </div>
         </div>
         <div
-          className={`calendar-grid ${layout === "list" ? "hide-calendar" : ""}`}
+          className={`calendar-grid ${!events.length ? "empty-calendar" : ""}`}
         >
           <div className="weekdays">
             {days.map((d) => (
@@ -352,9 +273,7 @@ export default function Roadmap({ l, saved }: { l: Locale; saved: string[] }) {
             ))}
           </div>
         </div>
-        <div
-          className={`calendar-agenda ${layout === "list" ? "show-agenda" : ""}`}
-        >
+        <div className="calendar-agenda">
           {events.map((e) => {
             const c = findCosmetic(e.cosmeticId)!;
             return (
@@ -418,63 +337,68 @@ export default function Roadmap({ l, saved }: { l: Locale; saved: string[] }) {
             )}
           </div>
         )}
-        <div className="calendar-legend">
-          <span>
-            <span className="legend-square" />
-            {t("Official date", "공식 날짜")}
-          </span>
-          <span>
-            <span className="legend-line" />
-            {t(
-              "Estimates are shown as windows below",
-              "예상은 아래에서 기간 단위로 표시",
-            )}
-          </span>
-          <span>
-            {events.length} {t("dated entries", "날짜 기록")}
-          </span>
-        </div>
-      </section>
-      {server === "global" && kind !== "official" && (
-        <section className="forecast-section">
-          <div className="catalog-heading">
-            <h2>
-              <Sparkles size={20} />
-              {t("Estimated windows", "예상 기간")}
-            </h2>
-            <span>{t("Editorial · Not official", "운영자 예상 · 비공식")}</span>
+        {events.length > 0 && (
+          <div className="calendar-legend">
+            <span>
+              <span className="legend-square" />
+              {t("Official date", "공식 날짜")}
+            </span>
+            <span>
+              <span className="legend-line" />
+              {t(
+                "Estimates are shown as windows below",
+                "예상은 아래에서 기간 단위로 표시",
+              )}
+            </span>
+            <span>
+              {events.length} {t("dated entries", "날짜 기록")}
+            </span>
           </div>
-          {estimates.length || versionForecasts.length ? (
-            <div className="estimate-grid">
-              {[...estimates, ...versionForecasts].map((f) => (
-                <Estimate key={f.id} f={f} />
-              ))}
+        )}
+      </section>
+      {server === "global" &&
+        (estimates.length > 0 || versionForecasts.length > 0) && (
+          <section className="forecast-section">
+            <div className="catalog-heading">
+              <h2>
+                <Sparkles size={20} />
+                {t("Estimated windows", "예상 기간")}
+              </h2>
+              <span>
+                {t("Editorial · Not official", "운영자 예상 · 비공식")}
+              </span>
             </div>
-          ) : (
-            <div className="forecast-empty">
-              <Compass size={22} />
-              <div>
-                <h3>
-                  {t(
-                    "Still waiting for a reliable signal",
-                    "근거가 모이면 예상이 시작됩니다",
-                  )}
-                </h3>
-                <p>
-                  {t(
-                    "No supported estimate is recorded for this view. We keep unknown dates open rather than assign an arbitrary delay.",
-                    "이 조건에 게시된 예상이 없습니다. 출시 순서와 비교 사례를 확인한 뒤 근거가 뒷받침하는 기간만 제시합니다.",
-                  )}
-                </p>
+            {estimates.length || versionForecasts.length ? (
+              <div className="estimate-grid">
+                {[...estimates, ...versionForecasts].map((f) => (
+                  <Estimate key={f.id} f={f} />
+                ))}
               </div>
-            </div>
-          )}
-        </section>
-      )}
+            ) : (
+              <div className="forecast-empty">
+                <Compass size={22} />
+                <div>
+                  <h3>
+                    {t(
+                      "Still waiting for a reliable signal",
+                      "근거가 모이면 예상이 시작됩니다",
+                    )}
+                  </h3>
+                  <p>
+                    {t(
+                      "No supported estimate is recorded for this view. We keep unknown dates open rather than assign an arbitrary delay.",
+                      "이 조건에 게시된 예상이 없습니다. 출시 순서와 비교 사례를 확인한 뒤 근거가 뒷받침하는 기간만 제시합니다.",
+                    )}
+                  </p>
+                </div>
+              </div>
+            )}
+          </section>
+        )}
       <section className="unscheduled-section">
         <div className="catalog-heading">
           <h2>
-            {t("Without a verified date", "확인된 일정이 없는 외관")}{" "}
+            {t("Dates to come", "일정을 기다리는 외관")}{" "}
             <span className="result-count">{unscheduled.length}</span>
           </h2>
           <span>
@@ -506,8 +430,8 @@ export default function Roadmap({ l, saved }: { l: Locale; saved: string[] }) {
         ) : (
           <p className="small-muted">
             {t(
-              "No matching undated cosmetics. Try changing the watchlist filter.",
-              "해당하는 미정 외관이 없습니다. 관심 외관 필터를 확인하세요.",
+              "Every recorded cosmetic has a date or an estimate.",
+              "등록된 모든 외관에 날짜 또는 예상 기간이 있습니다.",
             )}
           </p>
         )}

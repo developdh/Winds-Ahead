@@ -10,7 +10,7 @@
 - Check rights or applicable reuse terms before storing third-party media. Do not commit secrets or large video collections.
 - Keep each PR reviewable. Explain the resulting behavior, checks performed, and any remaining limits. Do not claim tests or deployment that did not happen.
 - The repository is private. Its issues are an internal working space, not the eventual public correction channel.
-- The project is currently in planning. Application dependencies, CI checks, hosting, and automated collection will be introduced only when their implementation stage begins.
+- The app lives in `site/`. Follow the checks and canonical content paths in `docs/en/mvp-status.md`; retain the owner-private audience until public launch is explicitly cleared.
 
 ## 한국어
 
@@ -22,4 +22,4 @@
 - 외부 미디어를 저장하기 전에 권한이나 이용 조건을 확인합니다. 비밀키나 대량 영상 파일을 커밋하지 않습니다.
 - PR은 검토 가능한 크기로 유지하고 결과, 수행한 확인, 남은 제한을 적습니다. 하지 않은 테스트나 배포를 했다고 적지 않습니다.
 - 저장소는 비공개입니다. 저장소 이슈는 내부 작업용이며 향후 공개 제보 창구가 아닙니다.
-- 현재 프로젝트는 기획 단계입니다. 앱 의존성, CI 검사, 호스팅, 자동 수집은 해당 구현 단계에서 도입합니다.
+- 앱은 `site/`에 있습니다. `docs/ko/mvp-status.md`의 검증과 원본 콘텐츠 경로를 따르며 공개 출시가 명시적으로 준비될 때까지 소유자 비공개 범위를 유지합니다.

@@ -1,7 +1,13 @@
+import { cookies } from "next/headers";
+import PreferenceGate from "@/components/preference-gate";
+import { isLocale, LOCALE_COOKIE } from "@/lib/language-preference";
 import { notFound } from "next/navigation";
 import SiteApp from "@/components/site-app";
 import { findCosmetic, pageNames, type Locale, type View } from "@/lib/catalog";
-type Props = { params: Promise<{ locale: string; slug?: string[] }> };
+type Props = {
+  params: Promise<{ locale: string; slug?: string[] }>;
+  searchParams: Promise<Record<string, string | string[] | undefined>>;
+};
 function resolve(locale: string, slug: string[] = []) {
   if (locale !== "en" && locale !== "ko") return null;
   if (!slug.length)
@@ -41,9 +47,20 @@ export async function generateMetadata({ params }: Props) {
     },
   };
 }
-export default async function Page({ params }: Props) {
+export default async function Page({ params, searchParams }: Props) {
   const { locale, slug } = await params;
   const route = resolve(locale, slug);
   if (!route) notFound();
-  return <SiteApp {...route} />;
+  const jar = await cookies();
+  const query = await searchParams;
+  const hasPreference =
+    isLocale(jar.get(LOCALE_COOKIE)?.value) || query.entry === locale;
+  return (
+    <PreferenceGate
+      hasPreference={hasPreference}
+      returnPath={slug?.length ? "/" + slug.join("/") : ""}
+    >
+      <SiteApp {...route} />
+    </PreferenceGate>
+  );
 }

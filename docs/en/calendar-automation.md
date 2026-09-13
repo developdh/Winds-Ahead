@@ -2,7 +2,7 @@
 
 [한국어](../ko/calendar-automation.md) · [Content model](content-model.md) · [Performance criteria](design-quality.md)
 
-**User decision:** GitHub holds canonical content, with recurring execution of this task providing initial AI review and updates. A daily 9:00 AM America/New_York check has been scheduled. A separate GPT API and automatic merging remain inactive. Until the real catalog exists, the task only maintains verified research material.
+**User decision:** GitHub holds canonical content, with recurring execution of this task providing initial AI review and updates. A daily 9:00 AM America/New_York check has been scheduled. A separate GPT API and automatic merging remain inactive. The implemented MVP content is maintained through reviewable content PRs; see the canonical paths in [MVP status](mvp-status.md).
 
 ## 1. Execution options
 
@@ -51,4 +51,4 @@ Calendar visitors never wait for a GPT response. Generate/cache pages from verif
 
 Before scheduling, manually rechecked access to the CN/Global/Korean official news lists and the existing source register. This checks source access, not the complete image-extraction, forecasting, or calendar-publication flow.
 
-The active schedule is limited to verified research during planning. Implement real content schemas/validation, run one representative calendar update, then review evidence/translations/deduplication before using it for production content. The model follows this task's settings; a successful scheduled check does not validate release predictions.
+The schedule now targets the implemented JSON content and its validation commands. The manual seed contains eight verified CN records and no global estimates. A scheduled end-to-end refresh has not yet been observed; validate its first actual content proposal before publication. The model follows this task's settings; a successful scheduled check does not validate release predictions.

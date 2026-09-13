@@ -1,5 +1,5 @@
 """Build renamed, page-text subsets. Requires fonttools[woff], brotli.
-Pass official SUIT variable WOFF2 and Noto Serif KR variable TTF paths.
+Pass official Pretendard variable WOFF2 and Noto Serif KR variable TTF paths.
 The unmodified source files are not committed; retain their OFL files.
 """
 from pathlib import Path

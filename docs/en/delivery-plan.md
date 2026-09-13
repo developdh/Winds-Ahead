@@ -2,9 +2,11 @@
 
 [한국어](../ko/delivery-plan.md) · [Product plan](product-plan.md)
 
+**Implementation update · September 13, 2026:** The owner-private MVP is implemented. The simplified interface and exact content paths are recorded in [MVP status](mvp-status.md), which supersedes unimplemented screen and data proposals below. Global forecasting accuracy is not validated.
+
 ## 1. Current stage and decision status
 
-The current deliverable is planning documentation, source research, and GitHub collaboration setup. Application implementation and site deployment have not started.
+The current deliverable is the bilingual owner-private MVP, its verified CN seed, and reviewable GitHub milestones. Deployment status is tracked in the MVP report.
 
 | Status | Decision |
 | --- | --- |
