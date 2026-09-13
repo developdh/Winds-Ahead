@@ -42,6 +42,7 @@ The original research snapshot's `downloadedOrRehosted: false` describes that re
 
 - Automated date/precision, calendar boundaries, source separation, revision, corrupted watchlist, translation completeness, and video URL checks pass (12 tests). Content validation covers 8 cosmetics, 9 images, 8 localizations, and 1 update.
 - Browser checks cover first-visit language selection, remembered return visits in both languages, locale switching, preserved deep-link/query, search, saved items, image enlargement, and CN calendar records. Responsive geometry was checked at 320–1440 CSS pixels using the in-app browser; these are viewport tests, not physical-device certification.
+- Production-build checks also exercise language switching, filtered detail links, image enlargement, and calendar navigation. Client entry signatures are preserved because the previous bundled navigation module lost exports needed by lazy Link imports; the corrected build completes these journeys without new prefetch errors.
 - The initial catalog thumbnails total about 542KB; full sheets are deferred. Fonts are licensed local subsets. Build sizes are not field Core Web Vitals; p75 LCP/INP/CLS and slow-device/network targets remain unmeasured.
 - Real iOS/Android, Firefox/WebKit, and 200% text enlargement need separate coverage. No public reporting channel, media redistribution clearance, or predictive-accuracy claim is included.
 - GitHub changes are reviewable stacked PRs. Main has not been merged; no automatic merging is enabled.
