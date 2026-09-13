@@ -1,5 +1,7 @@
 # windsahead.com launch preparation
 
+> Historical domain-setup record. For current source publication, metadata and access status, see [release status](public-launch.md).
+
 [한국어](../ko/custom-domain.md)
 
 The user purchased **windsahead.com** through Gabia and requested publication preparation on September 13, 2026. Both `windsahead.com` and `www.windsahead.com` are registered with the existing Winds Ahead Site. The user entered the seven DNS records and corrected the missing leading underscore in `_openai-site-verification.www`. The latest Sites response confirms **active domain routing and TLS certificates** for both hosts. HTTPS browser visits reach the expected private-site login screen. Domain connection is complete; public launch is not.

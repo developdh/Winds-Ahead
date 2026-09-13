@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security · 비공개 보안 제보
+    url: https://github.com/developdh/Winds-Ahead/security/advisories/new
+    about: Do not disclose vulnerabilities in public issues. 취약점은 공개 이슈에 적지 마세요.

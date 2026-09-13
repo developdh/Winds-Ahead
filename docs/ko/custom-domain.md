@@ -1,5 +1,7 @@
 # windsahead.com 공개 준비
 
+> 도메인 연결 당시의 기록입니다. 현재 소스 공개·검색 메타데이터·접근 상태는 [공개 상태](public-launch.md)를 참고하세요.
+
 [English](../en/custom-domain.md)
 
 사용자가 가비아에서 **windsahead.com**을 구매하고 2026년 9월 13일 게시 준비를 요청했습니다. 기존 Winds Ahead 사이트에 `windsahead.com`과 `www.windsahead.com`을 모두 등록했습니다. 사용자가 DNS 7개를 입력하고 `_openai-site-verification.www` 앞에 빠진 밑줄도 수정했습니다. 최신 Sites 응답에서 두 주소의 **도메인 연결과 HTTPS 인증서가 모두 활성화**됐습니다. HTTPS 브라우저 접속에서도 비공개 사이트의 정상 로그인 화면을 확인했습니다. 도메인 연결은 완료됐으며 전체 공개는 아직입니다.
