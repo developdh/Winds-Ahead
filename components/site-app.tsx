@@ -34,7 +34,7 @@ import {
 import { rememberLocale } from "@/lib/language-preference";
 import CosmeticVideos from "@/components/cosmetic-videos";
 import AcquisitionInfo from "@/components/acquisition-info";
-import { acquisitionSummary } from "@/lib/acquisition";
+import { acquisitionSummary, currencyName } from "@/lib/acquisition";
 import updateData from "@/content/updates.json";
 import { sources as allSources } from "@/lib/roadmap";
 import { useScrollReveals } from "@/components/motion";
@@ -188,6 +188,8 @@ export default function SiteApp({
   );
   const card = (c: Cosmetic, i: number) => {
     const m = imagesOf(c)[0];
+    const acquisition = c.acquisition;
+    const globalStatus = globalLabel(c.id, l);
     return (
       <article
         className="cosmetic-card"
@@ -221,16 +223,27 @@ export default function SiteApp({
           >
             {nameOf(c, l)}
           </Link>
-          <div className="original-name" lang="zh-Hans">
-            {c.nameOriginal}
+          <div className="card-subline">
+            <span className="original-name" lang="zh-Hans" title={c.nameOriginal}>
+              {c.nameOriginal}
+            </span>
+            <span className="card-price" title={`CN · ${acquisitionSummary(c, l)}`}>
+              {acquisition.pricing === 'fixed' ? <>
+                <span className="card-price-amount">{acquisition.amount!.toLocaleString(l === 'ko' ? 'ko-KR' : 'en-US')}</span>
+                <span>{currencyName(acquisition.currencyOriginal, l)}</span>
+              </> : acquisition.pricing === 'draw' ? t('Draw', '추첨') : t('Paid pass', '유료 강호령')}
+            </span>
           </div>
-          <div className="card-acquisition">
-            <span>{acquisitionSummary(c, l)}</span>
-            <small>CN · {c.acquisition.location[l]}</small>
-          </div>
-          <div className="card-status">
-            <span className="status-dot" />
-            {globalLabel(c.id, l)}
+          <div className="card-meta">
+            <span className="card-location" title={`CN · ${acquisition.location[l]}`}>
+              <span className="sr-only">{t('CN acquisition: ', '중국 획득처: ')}</span>{acquisition.location[l]}
+            </span>
+            <span className="card-meta-separator" aria-hidden="true">·</span>
+            <span className="card-global" title={globalStatus}>
+              <Globe2 size={12} aria-hidden="true" />
+              <span className="sr-only">{t('Global: ', '글로벌: ')}</span>
+              {globalStatus.split(' · ')[1]}
+            </span>
           </div>
         </div>
       </article>
