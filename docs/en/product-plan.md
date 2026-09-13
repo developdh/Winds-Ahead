@@ -1,4 +1,4 @@
-# Winds Ahead product plan v0.1
+# Winds Ahead product plan v0.2
 
 [한국어](../ko/product-plan.md) · [Document index](../../README.md)
 
@@ -35,7 +35,7 @@ Focus on cosmetics and their schedules rather than general game guides or all ga
 
 The initial catalog centers on outfit sets and includes hair, weapons, and accessories. The model can accommodate additional categories without requiring exhaustive coverage at launch. Aim for 20–30 verified representative records; never publish incomplete facts merely to reach the target.
 
-Comments, community forums, public file uploads, spending expectation calculators, private leaks, and game-account integration are outside the initial scope. This plan does not itself create notification services or scheduled collection jobs.
+Comments, community forums, public file uploads, spending expectation calculators, private leaks, and game-account integration are outside the initial scope. Start content editing with the user's selected GitHub workflow. Following their additional choice, daily research checks in this task are scheduled and will extend to calendar maintenance once real catalog data exists. A separate GPT API, administrator CMS, and visitor notifications are not currently activated. [Operating model](calendar-automation.md)
 
 ## 3. Site structure
 
@@ -119,6 +119,8 @@ Release status, current availability, and presence of a forecast are separate va
 - Preserve the current item, month, and filters when switching language. Chinese is source data, not a third interface locale.
 
 ## 7. Visual direction
+
+**User-confirmed priority:** Allocate sufficient time to design, UI/UX, responsive behavior, and speed even when development takes longer. A core screen is complete only after design, interaction, mobile usability, and performance checks. [Detailed quality criteria](design-quality.md)
 
 Proposed direction: **a contemporary wuxia catalog with authentic cosmetic imagery against a dark ink surface**. Suggested palette: deep navy `#101820`, light text `#F1F5F9`, jade accent `#67D8C5`, and amber estimate accent `#F5BE63`. Reserve circular mirror motifs and serif type for small headings and divisions; use readable sans-serif type for regular controls.
 

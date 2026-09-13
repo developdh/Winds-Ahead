@@ -4,7 +4,7 @@
 
 **연운 / Where Winds Meet**의 중국 서버 외관을 사진·영상으로 찾아보고, 글로벌 서버 출시 확정 정보와 근거 기반 예상 일정을 확인하는 영어·한국어 팬 사이트입니다.
 
-**현재 상태:** 기획 v0.1. 아직 앱, 실제 외관 도감, 배포 사이트는 없습니다. 문서는 구현 완료 기능이 아닌 제안된 동작을 설명합니다.
+**현재 상태:** 기획 v0.2. GitHub 콘텐츠 관리와 정기 AI 자료 점검을 선택했습니다. 아직 앱, 실제 외관 도감, 배포 사이트는 없습니다. 개발 기간이 늘어나더라도 UI/UX·반응형·속도를 우선합니다.
 
 저장소: [developdh/Winds-Ahead](https://github.com/developdh/Winds-Ahead) (비공개).
 
@@ -22,6 +22,8 @@
 | 제품 방향·화면·초기 범위 | [제품 기획](docs/ko/product-plan.md) | [Product plan](docs/en/product-plan.md) |
 | 데이터·출처·미디어·예상 정책 | [콘텐츠 모델](docs/ko/content-model.md) | [Content model](docs/en/content-model.md) |
 | 단계·완료 기준·GitHub 운영 | [개발 계획](docs/ko/delivery-plan.md) | [Delivery plan](docs/en/delivery-plan.md) |
+| AI 캘린더 갱신·설정된 자료 점검 | [캘린더 AI 갱신](docs/ko/calendar-automation.md) | [Calendar automation](docs/en/calendar-automation.md) |
+| 디자인·반응형·속도 목표 | [디자인 품질](docs/ko/design-quality.md) | [Design quality](docs/en/design-quality.md) |
 | 조사 근거 | [공통 출처 목록](docs/research-sources.md) | [Bilingual source register](docs/research-sources.md) |
 
 [기여 규칙](CONTRIBUTING.md)에 따라 PR 제목과 본문은 영어로 작성하고, 사용자에게 노출되는 내용과 문서는 영어·한국어를 함께 관리합니다.

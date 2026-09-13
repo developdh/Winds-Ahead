@@ -6,6 +6,8 @@
 - Respect the active user-requested phase. Planning documents describe future implementation; their existence does not authorize launching unrelated services or recurring jobs.
 - Keep the site and project documentation in English and Korean. Update paired documents together. Chinese source names are retained for identification, not a third interface language.
 - Use English PR titles/descriptions and preferably English commit messages.
+- The user selected GitHub-based content updates and recurring checks in this task for initial AI calendar maintenance. Follow `docs/en/calendar-automation.md`; preserve the current phase and do not create duplicate schedules.
+- Prioritize design, UI/UX, responsive behavior, and interaction/loading speed even when development takes longer. Apply `docs/en/design-quality.md` during each feature, not only before launch.
 - Use GitHub at meaningful milestones as requested by the user; preserve reviewable branches, source references, and honest validation notes. Do not enable automatic merging unless requested.
 - Keep China-server facts, global-server facts, and editorial forecasts separate. Do not invent dates, official names, prices, media, or verification claims.
 - Preserve history when forecasts change. Unknown values stay unknown; timezones and date precision must remain explicit.
@@ -18,6 +20,8 @@
 - 사용자가 요청한 현재 작업 단계를 지킵니다. 기획서의 미래 기능은 무관한 서비스나 정기 작업을 즉시 실행하라는 허가가 아닙니다.
 - 사이트와 프로젝트 문서는 영어·한국어로 유지하고 대응 문서를 함께 수정합니다. 중국어 원명은 식별용이며 세 번째 UI 언어가 아닙니다.
 - PR 제목·본문은 영어, 커밋 메시지도 가급적 영어로 작성합니다.
+- 사용자는 GitHub 콘텐츠 갱신과 이 작업의 정기 점검을 통한 초기 AI 캘린더 관리를 선택했습니다. `docs/ko/calendar-automation.md`를 따르고 현재 작업 단계를 지키며 중복 예약을 만들지 않습니다.
+- 개발 기간이 늘어나더라도 디자인·UI/UX·반응형·조작 및 로딩 속도를 우선합니다. `docs/ko/design-quality.md`를 공개 직전뿐 아니라 각 기능 개발 중에 적용합니다.
 - 사용자 요청에 따라 의미 있는 완료 지점에 GitHub를 갱신하고, 리뷰 가능한 브랜치·출처·실제 검증 내용을 남깁니다. 요청 없이 자동 병합을 켜지 않습니다.
 - 중국 사실·글로벌 사실·운영자 예상을 분리합니다. 날짜·공식명·가격·미디어·확인 결과를 지어내지 않습니다.
 - 예상 변경 이력을 보존하고 모르는 값은 미정으로 둡니다. 시간대와 날짜 정밀도를 명시합니다.

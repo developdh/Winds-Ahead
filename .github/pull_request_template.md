@@ -16,3 +16,7 @@ List checks actually performed and their results. State when application tests o
 ## Remaining limits
 
 Note unresolved facts, missing assets, or deferred work relevant to this PR.
+
+## UI/UX and performance (when applicable)
+
+Attach representative Korean/English mobile and desktop views, checked interactions, browser/device conditions, performance measurements, and any remaining usability concerns. Distinguish lab results from real-user data.

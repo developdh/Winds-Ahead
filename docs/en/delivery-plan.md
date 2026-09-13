@@ -1,4 +1,4 @@
-# Delivery and operations plan v0.1
+# Delivery and operations plan v0.2
 
 [한국어](../ko/delivery-plan.md) · [Product plan](product-plan.md)
 
@@ -11,6 +11,8 @@ The current deliverable is planning documentation, source research, and GitHub c
 | User requirement | Winds Ahead / 연운경 (燕雲鏡); CN-based cosmetic information, photos/videos, and estimated global calendar |
 | User requirement | English/Korean site and documentation; English PRs; GitHub updates during the project |
 | User decision | Start a new private GitHub repository |
+| User decision | GitHub content management; recurring checks in this task for initial AI updates |
+| User decision | Prioritize design, UI/UX, responsive behavior, and speed over a shorter development schedule |
 | Proposed defaults | Exploration-first home, account-free watchlist, manually verified content, ink/jade visual direction |
 | Verify before implementation | Representative media and usage basis, real regional date/name matching, hosting execution path |
 | Decide before public launch | Domain, editorial contact/public reporting route, publication scope, analytics if needed |
@@ -23,11 +25,13 @@ Start with **React/TypeScript pages and structured content maintained in the rep
 
 At implementation time, verify the supported Sites starter and hosting compatibility before selecting the specific framework and version. This planning phase does not install an application, register hosting, or purchase services. The requested GitHub repository remains the source of truth; if hosting later needs a separate repository, document that deployment connection.
 
-Use permitted external players or image storage/CDN for media files; keep metadata and small code assets in Git. Reader accounts, an operational database, and separate administrator authentication are not initial requirements. Add a CMS over the same model when continuous browser-based editing becomes necessary.
+Use permitted external players or image storage/CDN for media files; keep metadata and small code assets in Git. Start with the selected GitHub editing workflow; reader accounts, an operational database, and separate administrator authentication are not initial requirements. A CMS remains an option if the operating model is revisited later. AI reasoning runs outside visitor requests. [Recurring checks and calendar updates](calendar-automation.md)
 
 ## 3. Milestones and completion criteria
 
 These milestones establish order and scope, not committed calendar dates or development durations.
+
+Add designs and a clickable prototype of the three core screens with representative material to M1. Verify responsive behavior, accessibility, and speed during M2/M3 implementation. Make necessary design and performance improvements within those stages to meet the user's quality priority; use M4 for integrated journeys. [Completion evidence and performance targets](design-quality.md)
 
 | Stage | Deliverable | Completion criteria | Example English PR title |
 | --- | --- | --- | --- |
@@ -52,6 +56,7 @@ If M1 lacks evidence for real forecasts, isolate synthetic cases as **test/wiref
 - Provide real alternatives or guidance for unavailable video, missing images, empty search, removed records, and blocked storage.
 - Validate localized titles, descriptions, canonical/hreflang metadata, and sitemaps to disambiguate translated URLs.
 - About identifies the independent fan project and provides media attribution and working correction/removal routes.
+- Core screens have bilingual mobile/desktop visual review and performance measurements under slower conditions. Document conditions and distinguish availability of actual field data.
 
 ## 5. Validation plan
 
