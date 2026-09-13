@@ -482,7 +482,9 @@ function Catalog({
           {t("Loading your watchlist…", "관심 목록을 불러오고 있습니다…")}
         </div>
       ) : items.length ? (
-        <div className="cosmetic-grid">{items.map(card)}</div>
+        <div className="cosmetic-grid" key={category}>
+          {items.map(card)}
+        </div>
       ) : (
         <div className="empty-state">
           <Bookmark size={30} />

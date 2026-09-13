@@ -60,3 +60,7 @@ Use the native Regular 400 weight of Gowun Dodum for body copy and controls, wit
 The mobile header now uses the same two destinations instead of floating navigation. Photos and key facts remain prominent, source history is expandable, and calendar layout follows the viewport automatically. Motion uses soft arrivals, image zoom, source disclosures, gallery transitions, and hover/focus feedback; reduced motion disables the effects. Do not repeatedly delay returning visitors with the first-visit introduction.
 
 The header uses the single character 鏡 as its home mark at every width, with an accessible full brand label. Language switching stays at the far right.
+
+Keep the mark and primary navigation in one compact group, without adding both a header gap and a navigation offset. The language control has centered text and a full 44×44 hover/focus surface. Category changes restart the card arrival for the complete resulting grid, including cosmetics shared with the previous category.
+
+Mobile uses a 24px content inset below the header, a 20px introduction-to-toolbar gap, and a 4px gap between search and category controls. Search and primary controls retain their touch areas. At a 390px viewport, this brings the first catalog image from approximately 408px to 333px below the top; desktop spacing is unchanged.
