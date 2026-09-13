@@ -47,6 +47,6 @@ Private image and video derivatives are recorded in `media.json` and `research.j
 - Real iOS/Android, Firefox/WebKit, and 200% text enlargement need separate coverage. No public reporting channel, media redistribution clearance, or predictive-accuracy claim is included.
 - GitHub changes are reviewable stacked PRs. Main has not been merged; no automatic merging is enabled.
 
-[Open the private MVP](https://winds-ahead.donghee0815.chatgpt.site). Sites reported successful publication on September 13, 2026 UTC. Access remains owner-only. The source is retained on GitHub in PR #5; publishing did not merge the stacked branches into main.
+[Open the private MVP](https://winds-ahead.donghee0815.chatgpt.site). Sites reported successful publication on September 13, 2026 UTC. Access remains owner-only. The foundation is retained in PR #5 and the latest content/effects in [PR #6](https://github.com/developdh/Winds-Ahead/pull/6); publishing did not merge the stacked branches into main.
 
 See [September intake and playback](content-expansion.md) for the latest evidence, competitor findings, optimization decisions, and validation limits.
