@@ -3162,6 +3162,58 @@
       "displayedPublicationDate": null,
       "evidenceTier": "C",
       "kind": "community"
+    },
+    {
+      "id": "global-x-20260912-bane-of-life",
+      "url": "https://x.com/WhereWindsMeet_/status/2098743431476515141",
+      "publisher": "Where Winds Meet / NetEase (official X)",
+      "server": "Global",
+      "titleOriginal": "Bane of Life — hairstyle and accessory set",
+      "displayedPublicationDate": "2026-09-12",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": "UTC",
+      "evidenceTier": "A",
+      "verifiedAt": "2026-09-13",
+      "verificationNote": "Signed-in official post and four named panels inspected. Poster gives September 16 (UTC) after update; post gives December 15 04:59 (UTC+8) end. Matched to the CN 无生蛊 promotional image by the same female model, silver butterfly crown, crescent and branching ornaments. This is an editorial identity match, not an official cross-region naming table."
+    },
+    {
+      "id": "global-x-20260813-entwined-oath-mist-veiled-pass",
+      "url": "https://x.com/WhereWindsMeet_/status/2087962389421662224",
+      "publisher": "Where Winds Meet / NetEase (official X)",
+      "server": "Global",
+      "titleOriginal": "Entwined Oath and Mist-Veiled Pass — August 16 listing",
+      "displayedPublicationDate": "2026-08-13",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": "UTC",
+      "evidenceTier": "A",
+      "verifiedAt": "2026-09-13",
+      "verificationNote": "Full post and two official images inspected. Jade pendant shapes and knots match the named CN 初心佩 poster. The purple vortex and stage match the official CN 雾隐关峦 preview at 4 seconds. These are editorial visual matches, not an official cross-region name table. The announcement does not quote Global prices; an elapsed announced date is not a follow-up release confirmation."
+    },
+    {
+      "id": "global-x-20260908-little-xiaoba",
+      "url": "https://x.com/WhereWindsMeet_/status/2097293875752677421",
+      "publisher": "Where Winds Meet / NetEase (official X)",
+      "server": "Global",
+      "titleOriginal": "Little Xiaoba — seven-day login accessory reward",
+      "displayedPublicationDate": "2026-09-08",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": "UTC",
+      "evidenceTier": "A",
+      "verifiedAt": "2026-09-13",
+      "verificationNote": "Official post text and video poster inspected. The post gives a September 9–23 login event and a seven-day reward condition, but no exact unlock timestamp or timezone. The event opening is not treated as the cosmetic release day; no CN identity was established."
+    },
+    {
+      "id": "global-x-20260813-magpie-bridge",
+      "url": "https://x.com/WhereWindsMeet_/status/2087932191968010741",
+      "publisher": "Where Winds Meet / NetEase (official X)",
+      "server": "Global",
+      "titleOriginal": "Knowing Hearts and Magpie Bridge — August 16 appearances",
+      "displayedPublicationDate": "2026-08-13",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": "UTC",
+      "evidenceTier": "A",
+      "verifiedAt": "2026-09-13",
+      "verificationNote": "Official search excerpt and named male hairstyle image inspected. Identical male hair, pose, clothing and rear-view inset appear in the retained Global website art for Celestial Rendezvous. Preserve the website name and add the social name as a searchable alias; do not duplicate the same artwork."
     }
   ],
   "mediaRights": {
@@ -9152,6 +9204,13 @@
         "status": "unknown",
         "officialName": null,
         "releaseDate": null
+      },
+      "searchAliases": [
+        "Magpie Bridge"
+      ],
+      "namingNote": {
+        "en": "Also announced as Magpie Bridge on the official Global X account.",
+        "ko": "글로벌 공식 X에서는 Magpie Bridge라는 이름으로도 소개했습니다."
       }
     },
     {
@@ -9943,7 +10002,10 @@
         "status": "unknown",
         "officialName": null,
         "releaseDate": null
-      }
+      },
+      "secondaryCategories": [
+        "hair"
+      ]
     },
     {
       "id": "cang-yinhe-fei-fa-xiang",
@@ -13580,7 +13642,7 @@
       "sourceId": "cn-f73d2bc1a638",
       "acquisitionServer": "CN",
       "mediaServer": "CN",
-      "officialNameEn": null,
+      "officialNameEn": "Mist-Veiled Pass",
       "officialNameKo": null,
       "cnRelease": {
         "date": null,
@@ -13623,6 +13685,16 @@
           "reusePermission": "unknown",
           "localCopy": null,
           "server": "CN"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HPl1lxcawAAOstC?format=jpg&name=900x900",
+          "width": 720,
+          "height": 900,
+          "reusePermission": "unknown",
+          "alt": {
+            "en": "Mist-Veiled Pass — purple mist and a bright vortex around the character.",
+            "ko": "무은관만 — 인물 주변의 보랏빛 안개와 밝은 소용돌이."
+          }
         }
       ],
       "officialVideos": [],
@@ -13631,7 +13703,16 @@
         "status": "unknown",
         "officialName": null,
         "releaseDate": null
-      }
+      },
+      "searchAliases": [
+        "Mist-Veiled Pass",
+        "무은관만"
+      ],
+      "namingNote": {
+        "en": "Korean title is an editorial reading of the CN name; official Korean naming is unverified.",
+        "ko": "한국어 제목은 중국 원명을 읽은 비공식 표기이며 공식 한국어명은 확인 중입니다."
+      },
+      "mediaKind": "official"
     },
     {
       "id": "ling-jiao-zhi-meng",
@@ -15612,7 +15693,10 @@
         "status": "unknown",
         "officialName": null,
         "releaseDate": null
-      }
+      },
+      "secondaryCategories": [
+        "hair"
+      ]
     },
     {
       "id": "jin-lin-song-rui",
@@ -17598,7 +17682,7 @@
       "sourceId": "cn-20260422-outfits",
       "acquisitionServer": "CN",
       "mediaServer": "CN",
-      "officialNameEn": null,
+      "officialNameEn": "Bane of Life",
       "officialNameKo": null,
       "cnRelease": {
         "date": null,
@@ -17641,6 +17725,62 @@
           "reusePermission": "unknown",
           "localCopy": null,
           "server": "CN"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HR7Rhs6bsAAw_C6?format=jpg&name=large",
+          "width": 1080,
+          "height": 1350,
+          "reusePermission": "unknown",
+          "alt": {
+            "en": "Bane of Life — female hairstyle and butterfly crown, front view.",
+            "ko": "무생고 — 여성형 헤어와 나비 왕관 정면."
+          },
+          "caption": {
+            "en": "Global hair and accessory preview. The pictured clothing is not confirmed as part of the set.",
+            "ko": "글로벌 헤어·장신구 미리보기. 착용 의상의 포함 여부는 확인되지 않았습니다."
+          }
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HR7Rhs2aoAE3PL1?format=jpg&name=large",
+          "width": 1080,
+          "height": 1350,
+          "reusePermission": "unknown",
+          "alt": {
+            "en": "Bane of Life — male hairstyle and silver crown, front view.",
+            "ko": "무생고 — 남성형 헤어와 은빛 왕관 정면."
+          },
+          "caption": {
+            "en": "Global hair and accessory preview. The pictured clothing is not confirmed as part of the set.",
+            "ko": "글로벌 헤어·장신구 미리보기. 착용 의상의 포함 여부는 확인되지 않았습니다."
+          }
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HR7Ril6asAAYj44?format=jpg&name=900x900",
+          "width": 720,
+          "height": 900,
+          "reusePermission": "unknown",
+          "alt": {
+            "en": "Bane of Life — female hairstyle, crescent crown and branching ornaments from behind.",
+            "ko": "무생고 — 여성형 헤어·초승달 왕관·뻗은 장식의 뒷모습."
+          },
+          "caption": {
+            "en": "Global hair and accessory preview. The pictured clothing is not confirmed as part of the set.",
+            "ko": "글로벌 헤어·장신구 미리보기. 착용 의상의 포함 여부는 확인되지 않았습니다."
+          }
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HR7RimEb0AA3F7W?format=jpg&name=900x900",
+          "width": 720,
+          "height": 900,
+          "reusePermission": "unknown",
+          "alt": {
+            "en": "Bane of Life — male hairstyle and silver ornaments from behind.",
+            "ko": "무생고 — 남성형 헤어와 은빛 장식의 뒷모습."
+          },
+          "caption": {
+            "en": "Global hair and accessory preview. The pictured clothing is not confirmed as part of the set.",
+            "ko": "글로벌 헤어·장신구 미리보기. 착용 의상의 포함 여부는 확인되지 않았습니다."
+          }
         }
       ],
       "officialVideos": [],
@@ -17649,7 +17789,21 @@
         "status": "unknown",
         "officialName": null,
         "releaseDate": null
-      }
+      },
+      "searchAliases": [
+        "Bane of Life",
+        "무생고",
+        "헤어 장신구 세트",
+        "Hairstyle & Accessory Set"
+      ],
+      "secondaryCategories": [
+        "hair"
+      ],
+      "namingNote": {
+        "en": "Hairstyle and accessory set. The Korean title is an editorial reading of the CN name.",
+        "ko": "헤어·장신구 세트입니다. 한국어 표기는 중국 원명을 읽은 비공식 이름입니다."
+      },
+      "mediaKind": "official"
     },
     {
       "id": "zhuxuan-dong-yue",
@@ -23934,8 +24088,8 @@
       "category": "accessory",
       "sourceId": "cn-d5c9abdbf445",
       "acquisitionServer": "CN",
-      "mediaServer": "CN",
-      "officialNameEn": null,
+      "mediaServer": "Global",
+      "officialNameEn": "Entwined Oath",
       "officialNameKo": null,
       "cnRelease": {
         "date": null,
@@ -23963,15 +24117,49 @@
         "ko": "획득 방법과 출처의 조건을 확인하세요.",
         "sourceExcerpt": "同时，8月29日至9月15日期间，商店中还将限时上架全新配饰【初心佩】，可通过他人赠送的【七窍玲珑契】，裁造升级为一人一心系列或是风月无边系列。"
       },
-      "images": [],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HPl1hUjaMAA2WhC?format=jpg&name=900x900",
+          "width": 720,
+          "height": 900,
+          "reusePermission": "unknown",
+          "alt": {
+            "en": "Entwined Oath — two jade pendant forms with green tassels.",
+            "ko": "초심패 — 녹색 술이 달린 두 옥패 형태."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20250829/524b487c-2ece-4b22-b5a2-b8f1a1b33f5a.png",
+          "width": 2450,
+          "height": 1200,
+          "reusePermission": "unknown",
+          "alt": {
+            "en": "Chu Xin Pei — official CN pendant upgrade illustration.",
+            "ko": "초심패 — 중국 공식 옥패 업그레이드 안내."
+          },
+          "caption": {
+            "en": "CN upgrade reference; these conditions have not been verified for Global.",
+            "ko": "중국 업그레이드 참고 이미지이며 글로벌 조건은 별도로 확인 중입니다."
+          }
+        }
+      ],
       "officialVideos": [],
-      "mediaStatus": "pending",
+      "mediaStatus": "verified",
       "global": {
         "status": "unknown",
         "officialName": null,
         "releaseDate": null
       },
-      "sourceEvidence": "同时，8月29日至9月15日期间，商店中还将限时上架全新配饰【初心佩】，可通过他人赠送的【七窍玲珑契】，裁造升级为一人一心系列或是风月无边系列。"
+      "sourceEvidence": "同时，8月29日至9月15日期间，商店中还将限时上架全新配饰【初心佩】，可通过他人赠送的【七窍玲珑契】，裁造升级为一人一心系列或是风月无边系列。",
+      "searchAliases": [
+        "Entwined Oath",
+        "초심패"
+      ],
+      "namingNote": {
+        "en": "Korean title is an editorial reading of the CN name; official Korean naming is unverified.",
+        "ko": "한국어 제목은 중국 원명을 읽은 비공식 표기이며 공식 한국어명은 확인 중입니다."
+      },
+      "mediaKind": "official"
     },
     {
       "id": "jiu-suan-qing-tian",
@@ -43633,6 +43821,75 @@
         "ko": "공식 한국어 명칭 미확인으로 중국 원명을 표기합니다."
       },
       "wikiDetails": true
+    },
+    {
+      "id": "global-little-xiaoba",
+      "nameOriginal": "Little Xiaoba",
+      "romanization": "Little Xiaoba",
+      "category": "accessory",
+      "sourceId": "global-x-20260908-little-xiaoba",
+      "acquisitionServer": "Global",
+      "mediaServer": "Global",
+      "officialNameEn": "Little Xiaoba",
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": null,
+        "precision": "unknown",
+        "timezone": null,
+        "contextual": false,
+        "basis": "CN identity and release have not been established."
+      },
+      "acquisition": {
+        "kind": "event",
+        "pricing": "free",
+        "amount": null,
+        "regularAmount": null,
+        "currencyOriginal": null,
+        "location": {
+          "en": "Login event",
+          "ko": "출석 이벤트",
+          "original": "Login event"
+        },
+        "conditions": {
+          "en": "Log in on seven days during September 9–23, 2026. The announcement does not specify an exact unlock time or timezone.",
+          "ko": "2026년 9월 9~23일 중 7일 출석 보상입니다. 공지에는 정확한 획득 시작 시각과 시간대가 명시되지 않았습니다."
+        },
+        "en": "Seven-day login reward.",
+        "ko": "7일 출석 보상."
+      },
+      "global": {
+        "status": "unknown",
+        "releaseDate": null,
+        "officialName": null
+      },
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2097271727676153856/img/2qmyarrBf2YGTS6u.jpg",
+          "width": 1200,
+          "height": 675,
+          "reusePermission": "unknown",
+          "alt": {
+            "en": "Little Xiaoba — bronze mechanical head accessory wearing a flower wreath.",
+            "ko": "리틀 샤오바 — 화관을 쓴 청동 기계형 머리 장신구."
+          },
+          "caption": {
+            "en": "Still poster from the official Global video.",
+            "ko": "글로벌 공식 영상의 정지 표지 이미지입니다."
+          }
+        }
+      ],
+      "officialVideos": [],
+      "mediaStatus": "verified",
+      "namingNote": {
+        "en": "Korean title is an editorial transliteration; an official Korean name and CN match are unverified.",
+        "ko": "한국어 표기는 임시 음역입니다. 공식 한국어명과 중국 동일 외관은 아직 확인 중입니다."
+      },
+      "searchAliases": [
+        "Little Xiaoba",
+        "리틀 샤오바",
+        "출석 장신구"
+      ],
+      "mediaKind": "official"
     }
   ],
   "contextualOfficialVideos": [

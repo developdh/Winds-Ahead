@@ -966,10 +966,10 @@
     }
   },
   "wu-yin-guan-luan": {
-    "koName": "雾隐关峦",
+    "koName": "무은관만",
     "description": {
-      "en": "Skill effect documented in the official CN archive. Regional availability and acquisition are recorded separately.",
-      "ko": "공식 중국 자료에서 확인한 이펙트입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+      "en": "A purple vortex effect for Blinding Mist, announced for August 16, 2026 at 00:00 (UTC+8). Current Global availability and price have not been rechecked.",
+      "ko": "보라색 소용돌이를 보여주는 Blinding Mist 이펙트로 2026년 8월 16일 00:00(UTC+8) 출시가 예고됐습니다. 글로벌 현재 획득 가능 여부와 가격은 추가 확인이 필요합니다."
     }
   },
   "ling-jiao-zhi-meng": {
@@ -1386,10 +1386,10 @@
     }
   },
   "wu-sheng-gu": {
-    "koName": "无生蛊",
+    "koName": "무생고",
     "description": {
-      "en": "Accessory documented in the official CN archive. Regional availability and acquisition are recorded separately.",
-      "ko": "공식 중국 자료에서 확인한 장신구입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+      "en": "A hairstyle and accessory set announced for Global on September 16 after the update (UTC). The CN edition includes dyeable hair, a hat, effect accessories, a face accessory and an animated avatar. Global pricing and individual included rewards have not yet been verified.",
+      "ko": "9월 16일 업데이트 후(UTC) 글로벌 출시 예정인 헤어·장신구 세트입니다. 중국 구성은 염색 가능한 헤어·모자·이펙트 장신구·얼굴 장식·동적 초상화이며, 글로벌의 개별 구성과 가격은 아직 확인 중입니다."
     }
   },
   "zhuxuan-dong-yue": {
@@ -2128,10 +2128,10 @@
     }
   },
   "chu-xin-pei": {
-    "koName": "初心佩",
+    "koName": "초심패",
     "description": {
-      "en": "Accessory documented in the official CN archive. Regional availability and acquisition are recorded separately.",
-      "ko": "공식 중국 자료에서 확인한 장신구입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+      "en": "Jade pendant accessory announced for August 16, 2026 at 00:00 (UTC+8). The pictured versions match the CN 初心佩 preview; Global upgrade requirements and price remain unverified.",
+      "ko": "2026년 8월 16일 00:00(UTC+8) 출시가 예고된 옥패 장신구입니다. 사진의 두 형태는 중국 初心佩 미리보기와 일치하며 글로벌 업그레이드 조건과 가격은 확인 중입니다."
     }
   },
   "jiu-suan-qing-tian": {
@@ -4785,6 +4785,13 @@
     "description": {
       "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
       "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "global-little-xiaoba": {
+    "koName": "리틀 샤오바",
+    "description": {
+      "en": "An animated head accessory offered as a seven-day login reward during the September 9–23 Global event. The gallery uses the official video poster as a still image.",
+      "ko": "글로벌 9월 9~23일 이벤트에서 7일 출석으로 받는 움직이는 머리 장신구입니다. 갤러리에는 공식 영상의 표지 이미지를 담았습니다."
     }
   }
 }

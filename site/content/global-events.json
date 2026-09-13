@@ -3067,6 +3067,54 @@
         "en": "After the September 16 update (UTC, official poster); exact opening hour not stated. Pass available until October 15, 04:59 (UTC+8).",
         "ko": "9월 16일 업데이트 후 (공식 이미지 UTC 기준). 정확한 시작 시각은 미표기. 강호령은 10월 15일 04:59 (UTC+8)까지."
       }
+    },
+    {
+      "id": "release-global-wu-sheng-gu",
+      "cosmeticId": "wu-sheng-gu",
+      "date": "2026-09-16",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-x-20260912-bane-of-life"
+      ],
+      "status": "announced",
+      "scope": {
+        "en": "After the September 16 version update (UTC); available until December 15, 2026 at 04:59 (UTC+8). Exact start hour is not stated.",
+        "ko": "9월 16일 업데이트 후(UTC) 출시 예정, 2026년 12월 15일 04:59(UTC+8)까지. 정확한 시작 시각은 미표기입니다."
+      }
+    },
+    {
+      "id": "release-global-chu-xin-pei",
+      "cosmeticId": "chu-xin-pei",
+      "date": "2026-08-16",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-x-20260813-entwined-oath-mist-veiled-pass"
+      ],
+      "status": "announced",
+      "scope": {
+        "en": "Official announced date: August 16, 2026 at 00:00 (UTC+8). This archive has not recorded a later release confirmation; current availability is unverified.",
+        "ko": "공식 예고일은 2026년 8월 16일 00:00(UTC+8)입니다. 이후 실제 출시 확인은 아직 기록하지 않았으며 현재 획득 가능 여부는 미확인입니다."
+      }
+    },
+    {
+      "id": "release-global-wu-yin-guan-luan",
+      "cosmeticId": "wu-yin-guan-luan",
+      "date": "2026-08-16",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-x-20260813-entwined-oath-mist-veiled-pass"
+      ],
+      "status": "announced",
+      "scope": {
+        "en": "Official announced date: August 16, 2026 at 00:00 (UTC+8). This archive has not recorded a later release confirmation; current availability is unverified.",
+        "ko": "공식 예고일은 2026년 8월 16일 00:00(UTC+8)입니다. 이후 실제 출시 확인은 아직 기록하지 않았으며 현재 획득 가능 여부는 미확인입니다."
+      }
     }
   ]
 }

@@ -6095,5 +6095,101 @@
     "fullBytes": 634420,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license"
+  },
+  {
+    "cosmeticId": "wu-sheng-gu",
+    "index": 1,
+    "originalUrl": "https://pbs.twimg.com/media/HR7Rhs6bsAAw_C6?format=jpg&name=large",
+    "sourcePage": "https://x.com/WhereWindsMeet_/status/2098743431476515141",
+    "thumbnail": "/media/wu-sheng-gu-1-thumb.webp",
+    "full": "/media/wu-sheng-gu-1-full.webp",
+    "thumbnailBytes": 94970,
+    "fullBytes": 264630,
+    "permission": "unknown",
+    "audience": "reference artwork; excluded from the code license"
+  },
+  {
+    "cosmeticId": "wu-sheng-gu",
+    "index": 2,
+    "originalUrl": "https://pbs.twimg.com/media/HR7Rhs2aoAE3PL1?format=jpg&name=large",
+    "sourcePage": "https://x.com/WhereWindsMeet_/status/2098743431476515141",
+    "thumbnail": "/media/wu-sheng-gu-2-thumb.webp",
+    "full": "/media/wu-sheng-gu-2-full.webp",
+    "thumbnailBytes": 86698,
+    "fullBytes": 249260,
+    "permission": "unknown",
+    "audience": "reference artwork; excluded from the code license"
+  },
+  {
+    "cosmeticId": "wu-sheng-gu",
+    "index": 3,
+    "originalUrl": "https://pbs.twimg.com/media/HR7Ril6asAAYj44?format=jpg&name=900x900",
+    "sourcePage": "https://x.com/WhereWindsMeet_/status/2098743431476515141",
+    "thumbnail": "/media/wu-sheng-gu-3-thumb.webp",
+    "full": "/media/wu-sheng-gu-3-full.webp",
+    "thumbnailBytes": 58490,
+    "fullBytes": 90542,
+    "permission": "unknown",
+    "audience": "reference artwork; excluded from the code license"
+  },
+  {
+    "cosmeticId": "wu-sheng-gu",
+    "index": 4,
+    "originalUrl": "https://pbs.twimg.com/media/HR7RimEb0AA3F7W?format=jpg&name=900x900",
+    "sourcePage": "https://x.com/WhereWindsMeet_/status/2098743431476515141",
+    "thumbnail": "/media/wu-sheng-gu-4-thumb.webp",
+    "full": "/media/wu-sheng-gu-4-full.webp",
+    "thumbnailBytes": 64142,
+    "fullBytes": 101292,
+    "permission": "unknown",
+    "audience": "reference artwork; excluded from the code license"
+  },
+  {
+    "cosmeticId": "chu-xin-pei",
+    "index": 0,
+    "originalUrl": "https://pbs.twimg.com/media/HPl1hUjaMAA2WhC?format=jpg&name=900x900",
+    "sourcePage": "https://x.com/WhereWindsMeet_/status/2087962389421662224",
+    "thumbnail": "/media/chu-xin-pei-0-thumb.webp",
+    "full": "/media/chu-xin-pei-0-full.webp",
+    "thumbnailBytes": 35238,
+    "fullBytes": 60612,
+    "permission": "unknown",
+    "audience": "reference artwork; excluded from the code license"
+  },
+  {
+    "cosmeticId": "chu-xin-pei",
+    "index": 1,
+    "originalUrl": "https://nie.res.netease.com/r/pic/20250829/524b487c-2ece-4b22-b5a2-b8f1a1b33f5a.png",
+    "sourcePage": "https://www.yysls.cn/news/official/20250829/37780_1256843.html",
+    "thumbnail": "/media/chu-xin-pei-1-thumb.webp",
+    "full": "/media/chu-xin-pei-1-full.webp",
+    "thumbnailBytes": 27212,
+    "fullBytes": 68196,
+    "permission": "unknown",
+    "audience": "reference artwork; excluded from the code license"
+  },
+  {
+    "cosmeticId": "wu-yin-guan-luan",
+    "index": 1,
+    "originalUrl": "https://pbs.twimg.com/media/HPl1lxcawAAOstC?format=jpg&name=900x900",
+    "sourcePage": "https://x.com/WhereWindsMeet_/status/2087962389421662224",
+    "thumbnail": "/media/wu-yin-guan-luan-1-thumb.webp",
+    "full": "/media/wu-yin-guan-luan-1-full.webp",
+    "thumbnailBytes": 40902,
+    "fullBytes": 66074,
+    "permission": "unknown",
+    "audience": "reference artwork; excluded from the code license"
+  },
+  {
+    "cosmeticId": "global-little-xiaoba",
+    "index": 0,
+    "originalUrl": "https://pbs.twimg.com/amplify_video_thumb/2097271727676153856/img/2qmyarrBf2YGTS6u.jpg",
+    "sourcePage": "https://x.com/WhereWindsMeet_/status/2097293875752677421",
+    "thumbnail": "/media/global-little-xiaoba-0-thumb.webp",
+    "full": "/media/global-little-xiaoba-0-full.webp",
+    "thumbnailBytes": 42098,
+    "fullBytes": 105058,
+    "permission": "unknown",
+    "audience": "reference artwork; excluded from the code license"
   }
 ]

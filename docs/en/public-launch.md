@@ -6,7 +6,7 @@ Winds Ahead is an independent, non-monetized fan project. Anyone may contribute 
 
 ## Release scope
 
-- 684 appearance records, 395 linked wiki references and 546 static reference images across 368 records. 316 records still lack a reviewed image. These counts do not establish complete coverage of the game.
+- 685 appearance records, 395 linked wiki references and 554 static reference images across 370 records. 315 records still lack a reviewed image. These counts do not establish complete coverage of the game.
 - 36 official CN reference photos added for 19 outfits, including the first photos for 12 records. New thumbnails total 1,745,780 bytes; full-size derivatives total 9,886,806 bytes. Original files are not shipped. [Source audit](../research/2026-09-13-photo-expansion.json)
 - Another 55 distinct official photos expand 11 existing galleries: Bu Qiu Ting has 6 photos; Fei Rong Qing Xiang, Ru Shi Yuan and Zhen Han Liu have 8; Jin Lv Sheng Lan, Yao Si Han Que and Yin Pu Liu Yun have 10. New thumbnails total 4,701,752 bytes and full derivatives total 22,134,236 bytes, down from 131,401,258 source bytes. [Gallery audit](../research/2026-09-13-gallery-expansion.json)
 - Per-image alternative text; concept and dye previews are labeled where applicable. CN imagery does not establish Global availability.
@@ -28,9 +28,9 @@ Gitleaks scanned all 45 commits and found no credential matches. Public DNS veri
 Controlled browser checks do not establish performance on physical iOS/Android devices or real-user Core Web Vitals. The existing first-load JavaScript target remains a known budget concern; effect videos and full galleries load on demand. Undated releases remain unknown and predictions remain editorial.
 
 
-Final local checks: type checking, all 32 tests, content/media validation and the Worker build passed. On the production build, both popup-link canonicals resolved to their localized standalone URLs, robots.txt returned 200, the sitemap returned 1,376 URLs, and an unknown route returned 404. Dialog geometry stayed inside the viewport at 320, 360, 390, 768, 1024 and 1440 CSS px. New gallery photos decoded successfully; language switching preserved the search query. Chromium only; no physical-device or throttled-network certification is claimed.
+Runtime-release checks (before the later photo/social additions): type checking, all 32 tests, content/media validation and the Worker build passed. On the production build, both popup-link canonicals resolved to their localized standalone URLs, robots.txt returned 200, the sitemap returned 1,376 URLs, and an unknown route returned 404. Dialog geometry stayed inside the viewport at 320, 360, 390, 768, 1024 and 1440 CSS px. New gallery photos decoded successfully; language switching preserved the search query. Chromium only; no physical-device or throttled-network certification is claimed.
 
-The complete emitted client chunk set is 422,217 gzip bytes (16 chunks), versus 418,797 in the previous build, an increase of 3,420 bytes. This includes deferred chunks and is not an initial-page transfer measurement. The project’s 200KB initial-JavaScript target has not been established by this check.
+At that checkpoint, the complete emitted client chunk set was 422,217 gzip bytes (16 chunks), versus 418,797 in the previous build, an increase of 3,420 bytes. This includes deferred chunks and is not an initial-page transfer measurement. The project’s 200KB initial-JavaScript target has not been established by this check.
 
 
 ## Publication state
@@ -42,3 +42,12 @@ Both custom domains were confirmed active with TLS during domain setup. Canonica
 ## Community announcement
 
 [English draft](announcement.md) · [Korean Arca Live draft](../ko/announcement.md). These drafts are not posted automatically.
+
+
+## Global social corrections
+
+Connected Bane of Life, Entwined Oath and Mist-Veiled Pass to existing CN records; added Little Xiaoba and eight reference images. Combined hair/accessory sets appear in both filters. [Evidence, scope and uncertainties](global-social-audit.md).
+
+Final photo/social build: type checking, all 32 tests, content validation and the Worker build passed. Local production responses returned 200 for both localized Bane of Life popup URLs, robots.txt and the sitemap (1,378 URLs), and 404 for an unknown route. The current 16 emitted client chunks total 439,409 gzip bytes, including deferred chunks; this is not an initial-transfer measurement.
+
+Bane of Life’s added photos decoded and advanced in both desktop English and 390×844 Korean production views. The mobile detail dialog remained within the viewport (top 12px, bottom 844px); a separate desktop full-gallery check reached image 5/5.
