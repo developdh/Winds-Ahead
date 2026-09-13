@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "cosmeticId": "youyuqing-qiongqian-xiang",
+  "titleOriginal": "游羽青穹·乾象",
+  "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E6%B8%B8%E7%BE%BD%E9%9D%92%E7%A9%B9%C2%B7%E4%B9%BE%E8%B1%A1",
+  "revisionUrl": "https://yy16s.huijiwiki.com/wiki/%E7%89%B9%E6%AE%8A:%E7%BC%96%E8%BE%91%E5%B7%AE%E5%BC%82/27249",
+  "checkedAt": "2026-09-13",
+  "license": "CC BY-NC-SA 3.0",
+  "articleAvailable": true,
+  "category": "effect",
+  "grade": {
+    "en": "Gold",
+    "ko": "금색"
+  },
+  "gradeOriginal": "金",
+  "styleScore": 2000,
+  "flags": {
+    "dye": null,
+    "tailoring": null,
+    "gifting": null,
+    "trading": null
+  },
+  "components": [],
+  "reportedComponentCount": null,
+  "collectionReward": null,
+  "resultsAnimation": null,
+  "acquisition": null,
+  "timing": {
+    "original": "2026年4月10日版本更新后",
+    "en": "2026-04-10 after update",
+    "ko": "2026-04-10 업데이트 후",
+    "timezone": null
+  },
+  "weapon": {
+    "original": "剑",
+    "en": "Sword",
+    "ko": "검"
+  },
+  "martialArt": "无名剑法",
+  "replacedMove": null,
+  "mountType": null,
+  "sourceFields": {
+    "武学": "无名剑法",
+    "兵器": "剑",
+    "风华值": "2000",
+    "上线时间": "2026年4月10日版本更新后"
+  }
+}

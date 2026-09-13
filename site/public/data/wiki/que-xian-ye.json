@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "cosmeticId": "que-xian-ye",
+  "titleOriginal": "鹊衔夜",
+  "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E9%B9%8A%E8%A1%94%E5%A4%9C",
+  "revisionUrl": "https://yy16s.huijiwiki.com/wiki/%E7%89%B9%E6%AE%8A:%E7%BC%96%E8%BE%91%E5%B7%AE%E5%BC%82/20668",
+  "checkedAt": "2026-09-13",
+  "license": "CC BY-NC-SA 3.0",
+  "articleAvailable": true,
+  "category": "sets",
+  "grade": {
+    "en": "Purple",
+    "ko": "보라"
+  },
+  "gradeOriginal": "紫",
+  "styleScore": 475,
+  "flags": {
+    "dye": true,
+    "tailoring": false,
+    "gifting": true,
+    "trading": false
+  },
+  "components": [],
+  "reportedComponentCount": 3,
+  "collectionReward": {
+    "amount": 100,
+    "currencyOriginal": "长鸣玉",
+    "currency": {
+      "en": "Echo Jade",
+      "ko": "장명옥"
+    }
+  },
+  "resultsAnimation": null,
+  "acquisition": null,
+  "timing": null,
+  "weapon": null,
+  "martialArt": null,
+  "replacedMove": null,
+  "mountType": null,
+  "sourceFields": {
+    "染色": "✔",
+    "裁造": "✘",
+    "赠送": "✔",
+    "交易": "✘",
+    "部件数量": "3",
+    "风华值": "475",
+    "集齐奖励": "长鸣玉 x100"
+  }
+}

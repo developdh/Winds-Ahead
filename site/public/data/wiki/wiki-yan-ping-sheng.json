@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "cosmeticId": "wiki-yan-ping-sheng",
+  "titleOriginal": "晏平生",
+  "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E6%99%8F%E5%B9%B3%E7%94%9F",
+  "revisionUrl": "https://yy16s.huijiwiki.com/wiki/%E7%89%B9%E6%AE%8A:%E7%BC%96%E8%BE%91%E5%B7%AE%E5%BC%82/6174",
+  "checkedAt": "2026-09-13",
+  "license": "CC BY-NC-SA 3.0",
+  "articleAvailable": true,
+  "category": "sets",
+  "grade": {
+    "en": "Gold",
+    "ko": "금색"
+  },
+  "gradeOriginal": "金",
+  "styleScore": 230,
+  "flags": {
+    "dye": false,
+    "tailoring": false,
+    "gifting": false,
+    "trading": false
+  },
+  "components": [
+    {
+      "nameOriginal": "发型",
+      "label": {
+        "en": "Hair",
+        "ko": "헤어"
+      },
+      "styleScore": 50,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E6%99%8F%E5%B9%B3%E7%94%9F/%E5%8F%91%E5%9E%8B"
+    },
+    {
+      "nameOriginal": "服装",
+      "label": {
+        "en": "Outfit",
+        "ko": "의복"
+      },
+      "styleScore": 160,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E6%99%8F%E5%B9%B3%E7%94%9F/%E6%9C%8D%E8%A3%85"
+    }
+  ],
+  "reportedComponentCount": 2,
+  "collectionReward": {
+    "amount": 100,
+    "currencyOriginal": "长鸣玉",
+    "currency": {
+      "en": "Echo Jade",
+      "ko": "장명옥"
+    }
+  },
+  "resultsAnimation": null,
+  "acquisition": {
+    "original": "侠客行",
+    "en": "Battle pass",
+    "ko": "시즌 패스"
+  },
+  "timing": {
+    "original": "开服常驻",
+    "en": "Listed as permanent since launch",
+    "ko": "서버 출시 이후 상시로 기재됨",
+    "timezone": null
+  },
+  "weapon": null,
+  "martialArt": null,
+  "replacedMove": null,
+  "mountType": null,
+  "sourceFields": {
+    "染色": "✘",
+    "裁造": "✘",
+    "赠送": "✘",
+    "交易": "✘",
+    "部件数量": "2",
+    "风华值": "230",
+    "上线时间": "开服常驻",
+    "获取方式": "侠客行",
+    "集齐奖励": "长鸣玉 x100"
+  }
+}

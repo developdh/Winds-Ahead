@@ -3,6 +3,7 @@ import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { z } from "zod";
 import { isDay, isMonth } from "../lib/roadmap-domain.mjs";
+import { readWiki, validateWiki } from "./validate-wiki.mjs";
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const terminology = JSON.parse(fs.readFileSync(path.join(root, "content/terminology.json"), "utf8"));
 const bilingual = z.object({
@@ -299,6 +300,7 @@ export function validateRegional(research, globalData, regionalData) {
     if (!ids.has(r.cosmeticId)) throw new Error("Unknown regional cosmetic");
     if (r.sourceIds.some(id => !sources.has(id))) throw new Error("Unknown regional source");
     if (!r.sourceIds.some(id => sources.get(id).server === r.server)) throw new Error("Regional status needs evidence from that server");
+    if (!r.sourceIds.some(id => sources.get(id).server === r.server && sources.get(id).kind !== "community")) throw new Error("Community wiki cannot independently establish regional release status");
     if (r.verifiedAt > data.verifiedAt) throw new Error("Record review cannot follow the batch review");
   }
   return { regionalRecords: data.records.length };
@@ -357,6 +359,7 @@ if (
   process.argv[1] &&
   path.resolve(process.argv[1]) === fileURLToPath(import.meta.url)
 ) {
+  console.log(validateWiki(JSON.parse(fs.readFileSync(path.join(root, "content/research.json"), "utf8")), readWiki()));
   const read = (name) =>
     JSON.parse(fs.readFileSync(path.join(root, "content", name), "utf8"));
   const media = read("media.json");

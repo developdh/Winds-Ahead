@@ -1,6 +1,7 @@
 import test from "node:test";
 import assert from "node:assert/strict";
 import fs from "node:fs";
+import { readWiki, validateWiki, wikiSchema } from "../scripts/validate-wiki.mjs";
 import {
   cleanWatchlist,
   forecastDue,
@@ -26,6 +27,42 @@ const read = (name) =>
   );
 const research = read("research.json"),
   media = read("media.json");
+test("wiki facts preserve unknown flags, source attribution and one document per cosmetic", () => {
+  const wiki = readWiki();
+  assert.equal(validateWiki(research, wiki).wikiReferences, research.cosmetics.filter(c=>c.wikiDetails).length);
+  assert.throws(()=>validateWiki(research,wiki.slice(1)),/one detail document/);
+  const d=wiki.find(x=>x.cosmeticId==='zui-penglai');
+  assert.equal(d.styleScore,875);
+  assert.equal(d.collectionReward.amount,100);
+  assert.equal(d.collectionReward.currencyOriginal,'长鸣玉');
+  assert.equal(d.components.length,6);
+  assert.equal(wikiSchema.safeParse({...d,flags:{...d.flags,dye:'unknown'}}).success,false);
+  assert.equal(wikiSchema.safeParse({...d,sourceUrl:'https://example.com/fake'}).success,false);
+});
+test("community scores cannot become official prices or release records", () => {
+  const wiki=readWiki(), altered=structuredClone(research), item=altered.cosmetics.find(c=>c.wikiOnly);
+  item.acquisition.amount=875; item.acquisition.pricing='fixed';
+  assert.throws(()=>validateWiki(altered,wiki),/acquisition prices/);
+  item.acquisition.amount=null; item.acquisition.pricing='unknown'; item.cnRelease.date='2026-09-13';
+  assert.throws(()=>validateWiki(altered,wiki),/official dates/);
+  const missing=wiki.find(d=>!d.articleAvailable);
+  assert.throws(()=>validateWiki(research,wiki.map(d=>d===missing?{...d,styleScore:2000}:d)),/Missing wiki articles/);
+  const original=research.cosmetics.find(c=>c.wikiOnly);
+  assert.throws(()=>validateRegional(research,read('global-events.json'),{schemaVersion:1,verifiedAt:'2026-09-13',records:[{cosmeticId:original.id,server:'CN',status:'released',sourceIds:[original.sourceId],verifiedAt:'2026-09-13',releaseDate:null,precision:'unknown',scope:{en:'Test',ko:'테스트'},identityBasis:{en:'Test',ko:'테스트'}}]}),/Community wiki/);
+});
+test("series prefixes do not duplicate weapons or attach outfit composition to a hairstyle", () => {
+  const wiki=readWiki();
+  assert.equal(wiki.find(d=>d.titleOriginal==='赋神·鱼龙空游').cosmeticId,'yu-long-kongyou');
+  assert.equal(research.cosmetics.some(c=>c.id==='wiki-fu-shen-yu-long-kongyou'),false);
+  assert.equal(research.cosmetics.find(c=>c.id==='shuang-han-tian-quan').wikiDetails,undefined);
+  assert.equal(research.cosmetics.find(c=>c.id==='wiki-shuang-han-tian-quan').category,'outfit');
+  for (const id of ['qiu-hong-ta-zhi','han-lu-jing-cui','fan-yue-xing-chuan','cheng-fu-gui-meng','yu-long-kongyou','qing-niao-xian-dao']) {
+    const acquisition=research.cosmetics.find(c=>c.id===id).acquisition;
+    assert.equal(acquisition.pricing,'fixed');
+    assert.equal(acquisition.amount,2);
+    assert.equal(acquisition.currencyOriginal,'音玉');
+  }
+});
 // Synthetic forecast fixtures exercise semantics; they never enter published content.
 const fixture = {
   id: "test-only",

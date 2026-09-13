@@ -18,7 +18,7 @@ const records = new Map(regionalRecords.map(r => [`${r.cosmeticId}:${r.server}`,
 export function regionalRecord(c: Cosmetic, server: Server): RegionalRecord | undefined {
   const record = records.get(`${c.id}:${server}`);
   if (record) return record;
-  if (server === "CN" && sourceOf(c).server === "CN" && sourceOf(c).evidenceTier !== "C" && sourceOf(c).evidenceTier !== "B") return {
+  if (server === "CN" && sourceOf(c).server === "CN" && sourceOf(c).kind !== "community" && sourceOf(c).evidenceTier !== "C" && sourceOf(c).evidenceTier !== "B") return {
     cosmeticId: c.id, server, status: "released", sourceIds: [c.sourceId],
     verifiedAt: data.verifiedAt, releaseDate: c.cnRelease.date, precision: c.cnRelease.precision,
     scope: { en: "Historical CN appearance listing. Current availability is not established.", ko: "중국의 과거 외관 출시 기록입니다. 현재 판매 여부는 별도입니다." },

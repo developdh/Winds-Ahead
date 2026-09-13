@@ -2,6 +2,27 @@
   "schemaVersion": 1,
   "entries": [
     {
+      "id": "huiji-composition-20260913",
+      "date": "2026-09-13",
+      "kind": {
+        "en": "Wiki reference expansion",
+        "ko": "위키 참고 정보 확장"
+      },
+      "title": {
+        "en": "See what makes up each set",
+        "ko": "한 벌의 구성을 자세히"
+      },
+      "body": {
+        "en": "Added 139 appearances for 684 archive records. Linked 395 Huiji Wiki references, including 383 existing articles and 898 set-component rows. Read dyeing and tailoring flags, collection rewards, weapon types and wiki acquisition notes. Twelve unwritten articles remain explicit. Series-prefixed duplicates were merged into existing records; six weapon prices were corrected from official notices.",
+        "ko": "새 외관 139개를 추가해 684개 기록으로 확장했습니다. 위키 참고 항목 395개에 실제 문서 383개와 세트 구성 행 898개를 연결했습니다. 염색·재단 여부, 수집 보상, 무기 종류, 위키 획득처를 볼 수 있으며 미작성 문서 12개는 구분합니다. 시리즈 접두어 중복을 정리하고 공식 공지로 무기 6개의 비용도 바로잡았습니다."
+      },
+      "sourceIds": [
+        "huiji-ren-jian-xian",
+        "cn-f9fdc234e440",
+        "cn-60c7d971d329"
+      ]
+    },
+    {
       "id": "cross-server-archive-20260913",
       "date": "2026-09-13",
       "kind": {

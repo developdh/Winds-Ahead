@@ -8,11 +8,17 @@ from fontTools.ttLib import TTFont
 from fontTools.varLib.instancer import instantiateVariableFont
 import sys
 import hashlib,re
+import json
 root=Path(__file__).resolve().parent.parent
 text=''.join(chr(i) for i in range(32,127))+'燕雲鏡연운경'
 for folder in ['app','components','lib','content']:
  for p in (root/folder).rglob('*'):
   if p.suffix in {'.tsx','.ts','.mjs','.json'} and '/ui/' not in str(p):text+=p.read_text()
+for p in (root/'public/data/wiki').glob('*.json'):
+ data=json.loads(p.read_text())
+ # Raw source fields are downloadable evidence, not rendered interface text.
+ data.pop('sourceFields',None)
+ text+=json.dumps(data,ensure_ascii=False)
 for file,out,family,weights in [(sys.argv[1],'winds-ui.woff2','Winds UI',{'wght':400}),(sys.argv[2],'winds-heading.woff2','Winds Heading',{'wght':500})]:
  f=TTFont(file,lazy=False)
  options=subset.Options();options.flavor='woff2';options.name_IDs=['*'];options.name_legacy=True;options.name_languages=['*']

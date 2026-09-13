@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "cosmeticId": "cang-yinluan-yi-jiu-xiao",
+  "titleOriginal": "藏音·鸾倚九霄",
+  "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E8%97%8F%E9%9F%B3%C2%B7%E9%B8%BE%E5%80%9A%E4%B9%9D%E9%9C%84",
+  "revisionUrl": "https://yy16s.huijiwiki.com/wiki/%E7%89%B9%E6%AE%8A:%E7%BC%96%E8%BE%91%E5%B7%AE%E5%BC%82/27108",
+  "checkedAt": "2026-09-13",
+  "license": "CC BY-NC-SA 3.0",
+  "articleAvailable": true,
+  "category": "weapon",
+  "grade": {
+    "en": "Gold",
+    "ko": "금색"
+  },
+  "gradeOriginal": "金",
+  "styleScore": 2000,
+  "flags": {
+    "dye": null,
+    "tailoring": null,
+    "gifting": null,
+    "trading": null
+  },
+  "components": [],
+  "reportedComponentCount": null,
+  "collectionReward": null,
+  "resultsAnimation": null,
+  "acquisition": null,
+  "timing": {
+    "original": "2026年7月24日版本更新后",
+    "en": "2026-07-24 after update",
+    "ko": "2026-07-24 업데이트 후",
+    "timezone": null
+  },
+  "weapon": {
+    "original": "双刀",
+    "en": "Dual blades",
+    "ko": "쌍도"
+  },
+  "martialArt": null,
+  "replacedMove": null,
+  "mountType": null,
+  "sourceFields": {
+    "兵器": "双刀",
+    "风华值": "2000",
+    "上线时间": "2026年7月24日版本更新后"
+  }
+}

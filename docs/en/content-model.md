@@ -6,6 +6,8 @@
 
 The detailed entity model below remains a proposal beyond the implemented JSON MVP. No validated prediction model exists.
 
+**Wiki integration:** [Huiji import](huiji-import.md) implements attributed community set composition and reference facts as small on-demand documents. The owner-private catalog includes explicitly unverified wiki-only records with pending media, as requested in the expanded collection phase. Community scores and rewards cannot become prices or official server-release evidence. The media-ready publication rule below remains a public-launch target.
+
 ## 1. Data structure
 
 A cosmetic retains one stable ID across translated-name changes. Do not merge CN and Global items by name alone. Represent outfit/hair/weapon components, body variants, and dye variations explicitly.

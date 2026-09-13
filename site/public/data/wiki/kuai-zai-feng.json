@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "cosmeticId": "kuai-zai-feng",
+  "titleOriginal": "快哉风",
+  "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E5%BF%AB%E5%93%89%E9%A3%8E",
+  "revisionUrl": "https://yy16s.huijiwiki.com/wiki/%E7%89%B9%E6%AE%8A:%E7%BC%96%E8%BE%91%E5%B7%AE%E5%BC%82/20537",
+  "checkedAt": "2026-09-13",
+  "license": "CC BY-NC-SA 3.0",
+  "articleAvailable": true,
+  "category": "sets",
+  "grade": {
+    "en": "Purple",
+    "ko": "보라"
+  },
+  "gradeOriginal": "紫",
+  "styleScore": 350,
+  "flags": {
+    "dye": true,
+    "tailoring": false,
+    "gifting": true,
+    "trading": false
+  },
+  "components": [
+    {
+      "nameOriginal": "发型",
+      "label": {
+        "en": "Hair",
+        "ko": "헤어"
+      },
+      "styleScore": 70,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E5%BF%AB%E5%93%89%E9%A3%8E/%E5%8F%91%E5%9E%8B"
+    },
+    {
+      "nameOriginal": "上衣",
+      "label": {
+        "en": "Top",
+        "ko": "상의"
+      },
+      "styleScore": 130,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E5%BF%AB%E5%93%89%E9%A3%8E/%E4%B8%8A%E8%A1%A3"
+    },
+    {
+      "nameOriginal": "下装",
+      "label": {
+        "en": "Bottom",
+        "ko": "하의"
+      },
+      "styleScore": 80,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E5%BF%AB%E5%93%89%E9%A3%8E/%E4%B8%8B%E8%A3%85"
+    },
+    {
+      "nameOriginal": "帽子",
+      "label": {
+        "en": "Headwear",
+        "ko": "모자"
+      },
+      "styleScore": 30,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E5%BF%AB%E5%93%89%E9%A3%8E/%E5%B8%BD%E5%AD%90"
+    },
+    {
+      "nameOriginal": "面饰",
+      "label": {
+        "en": "Face accessory",
+        "ko": "얼굴 장신구"
+      },
+      "styleScore": 10,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E5%BF%AB%E5%93%89%E9%A3%8E/%E9%9D%A2%E9%A5%B0"
+    },
+    {
+      "nameOriginal": "耳饰",
+      "label": {
+        "en": "Earrings",
+        "ko": "귀 장신구"
+      },
+      "styleScore": 10,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E5%BF%AB%E5%93%89%E9%A3%8E/%E8%80%B3%E9%A5%B0"
+    }
+  ],
+  "reportedComponentCount": 6,
+  "collectionReward": {
+    "amount": 100,
+    "currencyOriginal": "长鸣玉",
+    "currency": {
+      "en": "Echo Jade",
+      "ko": "장명옥"
+    }
+  },
+  "resultsAnimation": null,
+  "acquisition": {
+    "original": "商城购买",
+    "en": "Shop",
+    "ko": "상점"
+  },
+  "timing": null,
+  "weapon": null,
+  "martialArt": null,
+  "replacedMove": null,
+  "mountType": null,
+  "sourceFields": {
+    "染色": "✔",
+    "裁造": "✘",
+    "赠送": "✔",
+    "交易": "✘",
+    "部件数量": "6",
+    "风华值": "350",
+    "获取方式": "商城购买",
+    "集齐奖励": "长鸣玉 x100"
+  }
+}

@@ -20,6 +20,8 @@ export interface Cosmetic {
   romanization: string;
   category: "outfit" | "hair" | "weapon_skin" | "effect" | "accessory" | "mount";
   sourceId: string;
+  wikiDetails?: boolean;
+  wikiOnly?: boolean;
   acquisitionServer?: Server;
   mediaServer?: Server;
   mediaKind?: "official" | "gameplay";
@@ -63,6 +65,7 @@ export const descriptions: Record<string, { en: string; ko: string }> =
 export interface Source {
   id: string; url: string; publisher: string; server: Server; titleOriginal: string;
   displayedPublicationDate: string | null; evidenceTier?: "A" | "B" | "C";
+  kind?: "community";
 }
 export function sourceOf(c: Cosmetic) {
   return (research.sources as Source[]).find((s) => s.id === c.sourceId)!;

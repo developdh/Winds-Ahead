@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "cosmeticId": "wiki-ruan-lang-gui",
+  "titleOriginal": "阮郎归",
+  "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E9%98%AE%E9%83%8E%E5%BD%92",
+  "revisionUrl": "https://yy16s.huijiwiki.com/wiki/%E7%89%B9%E6%AE%8A:%E7%BC%96%E8%BE%91%E5%B7%AE%E5%BC%82/20642",
+  "checkedAt": "2026-09-13",
+  "license": "CC BY-NC-SA 3.0",
+  "articleAvailable": true,
+  "category": "sets",
+  "grade": {
+    "en": "Purple",
+    "ko": "보라"
+  },
+  "gradeOriginal": "紫",
+  "styleScore": 585,
+  "flags": {
+    "dye": true,
+    "tailoring": false,
+    "gifting": true,
+    "trading": false
+  },
+  "components": [
+    {
+      "nameOriginal": "发型",
+      "label": {
+        "en": "Hair",
+        "ko": "헤어"
+      },
+      "styleScore": 110,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E9%98%AE%E9%83%8E%E5%BD%92/%E5%8F%91%E5%9E%8B"
+    },
+    {
+      "nameOriginal": "服装",
+      "label": {
+        "en": "Outfit",
+        "ko": "의복"
+      },
+      "styleScore": 330,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E9%98%AE%E9%83%8E%E5%BD%92/%E6%9C%8D%E8%A3%85"
+    },
+    {
+      "nameOriginal": "别梦残",
+      "label": {
+        "en": "Bie Meng Can",
+        "ko": "别梦残"
+      },
+      "styleScore": 10,
+      "sourceUrl": null
+    },
+    {
+      "nameOriginal": "帽子",
+      "label": {
+        "en": "Headwear",
+        "ko": "모자"
+      },
+      "styleScore": 15,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E9%98%AE%E9%83%8E%E5%BD%92/%E5%B8%BD%E5%AD%90"
+    },
+    {
+      "nameOriginal": "一线命",
+      "label": {
+        "en": "Yi Xianming",
+        "ko": "一线命"
+      },
+      "styleScore": 45,
+      "sourceUrl": null
+    },
+    {
+      "nameOriginal": "音灵偶",
+      "label": {
+        "en": "Yin Ling Ou",
+        "ko": "音灵偶"
+      },
+      "styleScore": 30,
+      "sourceUrl": null
+    },
+    {
+      "nameOriginal": "满衰听",
+      "label": {
+        "en": "Man Shuai Ting",
+        "ko": "满衰听"
+      },
+      "styleScore": 30,
+      "sourceUrl": null
+    }
+  ],
+  "reportedComponentCount": 6,
+  "collectionReward": {
+    "amount": 100,
+    "currencyOriginal": "长鸣玉",
+    "currency": {
+      "en": "Echo Jade",
+      "ko": "장명옥"
+    }
+  },
+  "resultsAnimation": {
+    "available": true,
+    "styleScore": 30
+  },
+  "acquisition": null,
+  "timing": null,
+  "weapon": null,
+  "martialArt": null,
+  "replacedMove": null,
+  "mountType": null,
+  "sourceFields": {
+    "染色": "✔",
+    "裁造": "✘",
+    "赠送": "✔",
+    "交易": "✘",
+    "部件数量": "6",
+    "风华值": "585",
+    "集齐奖励": "长鸣玉 x100",
+    "结算演出": "有（30 风华）"
+  }
+}

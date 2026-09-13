@@ -67,6 +67,7 @@ import {
   type View,
 } from "@/lib/catalog";
 const Roadmap = lazy(() => import("@/components/roadmap"));
+const WikiDetails = lazy(() => import("@/components/wiki-details"));
 const STORE = "winds-ahead:watchlist:v1";
 const knownIds = new Set(cosmetics.map((c) => c.id));
 function validSaved(raw: string | null): string[] {
@@ -222,7 +223,7 @@ export default function SiteApp({
               {c.nameOriginal}
             </span>
             <span className="card-price" title={`${serverName(acquisitionServer, l)} · ${acquisitionSummary({...c, acquisition}, l)}`}>
-              {acquisition.pricing === 'fixed' ? <>
+              {c.wikiOnly ? t('Wiki reference', '위키 참고') : acquisition.pricing === 'fixed' ? <>
                 <span className="card-price-amount">{acquisition.amount!.toLocaleString(l === 'ko' ? 'ko-KR' : 'en-US')}</span>
                 <span>{currencyName(acquisition.currencyOriginal, l)}</span>
               </> : acquisition.pricing === 'free' ? t('Free', '무료') : acquisition.pricing === 'draw' ? t('Draw', '추첨') : acquisition.pricing === 'pass' ? t('Paid pass', '유료 강호령') : acquisition.kind === 'milestone' ? t('Milestone', '단계 보상') : t('Unpriced', '수량 미정')}
@@ -230,7 +231,7 @@ export default function SiteApp({
           </div>
           <div className="card-meta">
             <span className="card-location" title={`${serverName(acquisitionServer, l)} · ${acquisition.location[l]}`}>
-              <span>{acquisitionServer === "CN" ? "CN" : t("Global", "글로벌")} · </span>{acquisition.location[l]}
+              {c.wikiOnly ? t("Release verification pending", "출시 근거 확인 중") : <><span>{acquisitionServer === "CN" ? "CN" : t("Global", "글로벌")} · </span>{acquisition.location[l]}</>}
             </span>
             <span className="card-meta-separator" aria-hidden="true">·</span>
             <span className="card-servers" aria-label={t("Verified release servers", "출시 확인 서버")}>
@@ -565,6 +566,7 @@ function Detail({
   const t = (en: string, ko: string) => (l === "ko" ? ko : en);
   const source = sourceOf(c);
   const images = imagesOf(c);
+  const related = cosmetics.filter(x => x.id !== c.id && x.sourceId === c.sourceId).slice(0, 3);
   const [selected, setSelected] = useState(0);
   return (
     <>
@@ -625,14 +627,14 @@ function Detail({
               target="_blank"
               rel="noreferrer"
             >
-              {source.evidenceTier === "C" || source.evidenceTier === "B" ? t("Image source", "이미지 출처") : t("Official announcement", "공식 공지")}
+              {source.kind === "community" ? t("Wiki reference", "위키 출처") : source.evidenceTier === "C" || source.evidenceTier === "B" ? t("Image source", "이미지 출처") : t("Official announcement", "공식 공지")}
               <ArrowUpRight size={16} />
             </a>
           </div>
           <GlobalPanel c={c} l={l} />
-          <AcquisitionInfo c={c} l={l} />
+          {!c.wikiOnly && <AcquisitionInfo c={c} l={l} />}
           {(["CN", "Global"] as const).filter(server => server !== (c.acquisitionServer ?? "CN")).map(server => { const record = regionalRecord(c, server); return record?.acquisition ? <AcquisitionInfo key={server} c={{...c, acquisition: record.acquisition, acquisitionServer: server}} l={l} /> : null; })}
-          {source.server === "CN" && <div className="facts">
+          {source.server === "CN" && source.kind !== "community" && <div className="facts">
             <h2>
               <ShieldCheck size={18} />
               {t("China server facts", "중국 서버 정보")}
@@ -662,6 +664,7 @@ function Detail({
         </section>
       </div>
       <div className="detail-bottom">
+        {c.wikiDetails && <Suspense fallback={<div className="wiki-panel wiki-loading" aria-live="polite">{t("Loading wiki details…", "위키 정보를 불러오는 중…")}</div>}><WikiDetails key={c.id} id={c.id} l={l} /></Suspense>}
         <details className="source-panel evidence-disclosure">
           <summary>
             {t("Sources & verification", "출처와 확인 기록")}
@@ -673,14 +676,14 @@ function Detail({
           </a>
           <p>
             {t("Publisher:", "발행:")} {source.publisher} ·{" "}
-            {formatDay(source.displayedPublicationDate, l)}
+            {source.kind === "community" ? t("Community reference", "커뮤니티 참고 자료") : formatDay(source.displayedPublicationDate, l)}
           </p>
           <p>
             {t("Source reviewed", "원문 확인")}{" "}
             {formatDay(verifiedAt, l)}
           </p>
           <small>
-            {t(
+            {source.kind === "community" ? t("This source is a community wiki. It does not independently establish an official release date, global name, or current price.", "커뮤니티 위키 출처입니다. 이 자료만으로 공식 출시일, 글로벌 명칭, 현재 가격을 확정하지 않습니다.") : t(
               "We retain the publication date displayed on the page, which may differ from the URL directory date. Release dates use the announcement text; no time zone is assumed.",
               "주소의 날짜와 다를 수 있는 실제 공지 화면의 게시일을 기록했습니다. 출시일은 공지 본문을 기준으로 하며 시간대를 추정하지 않습니다.",
             )}
@@ -691,15 +694,12 @@ function Detail({
         </details>
         {c.category !== "effect" && c.officialVideos.length > 0 && <CosmeticVideos key={c.id} c={c} l={l} />}
       </div>
-      <div className="catalog-heading">
+      {related.length > 0 && <><div className="catalog-heading">
         <h2>{t("From the same collection", "같은 공지에서 만나는 외관")}</h2>
       </div>
       <div className="cosmetic-grid related-grid">
-        {cosmetics
-          .filter((x) => x.id !== c.id && x.sourceId === c.sourceId)
-          .slice(0, 3)
-          .map(card)}
-      </div>
+        {related.map(card)}
+      </div></>}
     </>
   );
 }
@@ -823,7 +823,7 @@ function About({ l }: { l: Locale }) {
             )}
           </p>
           <h2>
-            {t("Three kinds of information", "정보를 구분하는 세 가지 기준")}
+            {t("Reading the evidence", "정보를 구분하는 기준")}
           </h2>
           <ul>
             <li>
@@ -848,6 +848,8 @@ function About({ l }: { l: Locale }) {
               )}
             </li>
           </ul>
+          <h2>{t("Community composition notes", "커뮤니티 구성 정보")}</h2>
+          <p>{t("Huiji Wiki supplies set composition, dyeing and tailoring flags, style points and collection rewards. Its contributors are credited under CC BY-NC-SA 3.0. These adapted notes remain separate from official server releases and prices. Style points are not a currency cost.", "灰机wiki에서 세트 구성, 염색·재단 여부, 풍화치와 수집 보상을 정리합니다. 기여자를 표시하고 CC BY-NC-SA 3.0으로 제공하며 공식 서버 출시·가격과 구분합니다. 풍화치는 지불 재화가 아닙니다.")}</p>
           <h2>{t("Names, dates, and media", "이름·날짜·미디어")}</h2>
           <p>
             {t(

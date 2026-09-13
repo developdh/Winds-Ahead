@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "cosmeticId": "cang-yinni-shang-qing-xiang",
+  "titleOriginal": "藏音·霓裳清响",
+  "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E8%97%8F%E9%9F%B3%C2%B7%E9%9C%93%E8%A3%B3%E6%B8%85%E5%93%8D",
+  "revisionUrl": "https://yy16s.huijiwiki.com/wiki/%E7%89%B9%E6%AE%8A:%E7%BC%96%E8%BE%91%E5%B7%AE%E5%BC%82/27106",
+  "checkedAt": "2026-09-13",
+  "license": "CC BY-NC-SA 3.0",
+  "articleAvailable": true,
+  "category": "weapon",
+  "grade": {
+    "en": "Gold",
+    "ko": "금색"
+  },
+  "gradeOriginal": "金",
+  "styleScore": 2000,
+  "flags": {
+    "dye": null,
+    "tailoring": null,
+    "gifting": null,
+    "trading": null
+  },
+  "components": [],
+  "reportedComponentCount": null,
+  "collectionReward": null,
+  "resultsAnimation": null,
+  "acquisition": null,
+  "timing": {
+    "original": "2026年6月8日版本更新后",
+    "en": "2026-06-08 after update",
+    "ko": "2026-06-08 업데이트 후",
+    "timezone": null
+  },
+  "weapon": {
+    "original": "舞绫鼓",
+    "en": "Ribbon drum",
+    "ko": "무릉고"
+  },
+  "martialArt": null,
+  "replacedMove": null,
+  "mountType": null,
+  "sourceFields": {
+    "兵器": "舞绫鼓",
+    "风华值": "2000",
+    "上线时间": "2026年6月8日版本更新后"
+  }
+}
