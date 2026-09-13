@@ -10,7 +10,7 @@ export const categoryNames = {
   all: { en: "All", ko: "전체" },
   outfit: { en: "Outfits", ko: "의상" },
   hair: { en: "Hair", ko: "헤어" },
-  weapon_skin: { en: "Weapons", ko: "무기 외형" },
+  weapon_skin: { en: "Weapons", ko: "무기" },
 };
 export type Category = keyof typeof categoryNames;
 const localeData: Record<
