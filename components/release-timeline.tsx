@@ -4,6 +4,7 @@ import { categoryNames, findCosmetic, formatDay, imagesOf, nameOf, type Locale }
 import { sources, type Forecast, type ReleaseEvent } from '@/lib/roadmap';
 import { upcomingEntries } from '@/lib/roadmap-domain.mjs';
 import { daysUntil } from '@/lib/archive-domain.mjs';
+import type { CosmeticClickHandler } from '@/components/use-quick-view';
 
 export function ScheduleEvidence({ ids, l }: { ids: string[]; l: Locale }) {
   return <ul className="schedule-sources">{ids.map(id => {
@@ -16,8 +17,9 @@ export function forecastWindow(f: Forecast, l: Locale) {
   if (f.precision === 'version') return `${l === 'ko' ? '버전' : 'Version'} ${f.version}`;
   return new Intl.DateTimeFormat(l === 'ko' ? 'ko-KR' : 'en-US', { year: 'numeric', month: 'long', timeZone: 'UTC' }).format(new Date(`${f.month}-15T12:00:00Z`));
 }
-export default function ReleaseTimeline({ l, events, forecasts, today, kind, releasedIds }: {
+export default function ReleaseTimeline({ l, events, forecasts, today, kind, releasedIds, onCosmeticClick }: {
   l: Locale; events: ReleaseEvent[]; forecasts: Forecast[]; today: string; kind: string; releasedIds: string[];
+  onCosmeticClick: CosmeticClickHandler;
 }) {
   const t = (en: string, ko: string) => l === 'ko' ? ko : en;
   const entries = upcomingEntries(events, forecasts, today, kind, releasedIds) as ({ kind: 'official'; date: string; event: ReleaseEvent } | { kind: 'forecast'; date: string; forecast: Forecast })[];
@@ -41,13 +43,13 @@ export default function ReleaseTimeline({ l, events, forecasts, today, kind, rel
           {f && <small>{t('Limited evidence · Not official', '근거 제한적 · 비공식')}</small>}
         </div>
         <article className="timeline-card">
-          <Link className="timeline-art" href={`/${l}/cosmetics/${c.id}`} aria-label={nameOf(c, l)}>
+          <Link className="timeline-art" href={`/${l}/cosmetics/${c.id}`} aria-label={nameOf(c, l)} onClick={event => onCosmeticClick(event, c.id)} aria-haspopup="dialog">
             {picture ? <img src={picture.thumbnail} alt="" width={240} height={300} loading="lazy" decoding="async" /> : <span className="timeline-no-image">鏡</span>}
             <span className="timeline-image-origin">{c.mediaServer === 'Global' ? t('Global preview', '글로벌 이미지') : t('CN preview', '중국 이미지')}</span>
           </Link>
           <div className="timeline-copy">
             <span className="timeline-category">{categoryNames[c.category][l]}</span>
-            <h2><Link href={`/${l}/cosmetics/${c.id}`}>{nameOf(c, l)}<ArrowUpRight size={18}/></Link></h2>
+            <h2><Link href={`/${l}/cosmetics/${c.id}`} onClick={event => onCosmeticClick(event, c.id)} aria-haspopup="dialog">{nameOf(c, l)}<ArrowUpRight size={18}/></Link></h2>
             <p className="timeline-original">{c.nameOriginal}{c.cnRelease.date && <> · CN {formatDay(c.cnRelease.date, l)}</>}</p>
             <p className="timeline-reason">{e ? e.scope[l] : f!.rationale[l]}</p>
             <details className="timeline-evidence">

@@ -15,6 +15,7 @@ import {
 } from "lucide-react";
 import { Tabs, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import ReleaseTimeline, { ScheduleEvidence, forecastWindow } from "@/components/release-timeline";
+import type { CosmeticClickHandler } from "@/components/use-quick-view";
 import { regionalRecords } from "@/lib/regional-status";
 import {
   cosmetics,
@@ -41,7 +42,7 @@ import {
   monthGrid,
   shiftMonth,
 } from "@/lib/roadmap-domain.mjs";
-export default function Roadmap({ l }: { l: Locale }) {
+export default function Roadmap({ l, onCosmeticClick }: { l: Locale; onCosmeticClick: CosmeticClickHandler }) {
   const t = (en: string, ko: string) => (l === "ko" ? ko : en);
   const params = useSearchParams();
   const today = new Date().toISOString().slice(0, 10);
@@ -121,7 +122,7 @@ export default function Roadmap({ l }: { l: Locale }) {
           )}
         </div>
         <h3>
-          <Link href={`/${l}/cosmetics/${c.id}`}>{nameOf(c, l)}</Link>
+          <Link href={`/${l}/cosmetics/${c.id}`} onClick={event => onCosmeticClick(event, c.id)} aria-haspopup="dialog">{nameOf(c, l)}</Link>
         </h3>
         <p className="estimate-window">
           {f.precision === "month"
@@ -209,7 +210,7 @@ export default function Roadmap({ l }: { l: Locale }) {
               )}
         </p>
       </div>
-      {view === "timeline" ? <ReleaseTimeline l={l} events={server === "cn" ? cnEvents : globalEvents} forecasts={server === "global" ? forecasts : []} today={today} kind={kind} releasedIds={releasedIds}/> : <>
+      {view === "timeline" ? <ReleaseTimeline l={l} events={server === "cn" ? cnEvents : globalEvents} forecasts={server === "global" ? forecasts : []} today={today} kind={kind} releasedIds={releasedIds} onCosmeticClick={onCosmeticClick}/> : <>
       <section
         className="calendar-panel"
         aria-label={t("Release calendar", "출시 캘린더")}
@@ -285,6 +286,8 @@ export default function Roadmap({ l }: { l: Locale }) {
                             key={e.id}
                             className={`day-event ${e.status === "cancelled" ? "cancelled" : ""}`}
                             href={`/${l}/cosmetics/${c.id}`}
+                            onClick={event => onCosmeticClick(event, c.id)}
+                            aria-haspopup="dialog"
                           >
                             <span>
                               {e.status === "cancelled"
@@ -309,6 +312,8 @@ export default function Roadmap({ l }: { l: Locale }) {
                 key={e.id}
                 className="agenda-event"
                 href={`/${l}/cosmetics/${c.id}`}
+                onClick={event => onCosmeticClick(event, c.id)}
+                aria-haspopup="dialog"
               >
                 <time dateTime={e.date}>{formatDay(e.date, l)}</time>
                 <span>
@@ -440,7 +445,7 @@ export default function Roadmap({ l }: { l: Locale }) {
         {unscheduled.length ? (
           <div className="unscheduled-list">
             {unscheduled.slice(0, 6).map((c) => (
-              <Link key={c.id} href={`/${l}/cosmetics/${c.id}`}>
+              <Link key={c.id} href={`/${l}/cosmetics/${c.id}`} onClick={event => onCosmeticClick(event, c.id)} aria-haspopup="dialog">
                 {imagesOf(c)[0] ? <img
                   src={imagesOf(c)[0].thumbnail}
                   alt=""

@@ -3,6 +3,7 @@ import { useCallback, useEffect, useRef, useState, type MouseEvent } from 'react
 import { findCosmetic } from '@/lib/catalog';
 
 const HISTORY_KEY = 'windsQuickView';
+export type CosmeticClickHandler = (event: MouseEvent<HTMLAnchorElement>, id: string) => void;
 export function useQuickView(enabled: boolean, path: string) {
   const [id, setId] = useState<string | null>(null);
   const [open, setOpen] = useState(false);
@@ -21,7 +22,7 @@ export function useQuickView(enabled: boolean, path: string) {
   useEffect(() => {
     if (!open) window.dispatchEvent(new CustomEvent('winds-video-play', { detail: null }));
   }, [open]);
-  const show = (event: MouseEvent<HTMLAnchorElement>, next: string) => {
+  const show: CosmeticClickHandler = (event, next) => {
     if (!enabled || event.button !== 0 || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) return;
     event.preventDefault();
     if (!open) trigger.current = event.currentTarget;

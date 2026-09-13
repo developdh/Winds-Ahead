@@ -96,7 +96,8 @@ export default function SiteApp({
   const path = usePathname();
   const params = useSearchParams();
   useScrollReveals(path);
-  const quickView = useQuickView(view === "catalog" || view === "watchlist", path);
+  const quickViewEnabled = view === "catalog" || view === "watchlist" || view === "calendar";
+  const quickView = useQuickView(quickViewEnabled, path);
   const previewItem = quickView.id ? findCosmetic(quickView.id) : undefined;
   const [today, setToday] = useState("");
   useEffect(() => {
@@ -211,7 +212,7 @@ export default function SiteApp({
       >
         <Link
           onClick={event => quickView.show(event, c.id)}
-          aria-haspopup={view === "catalog" || view === "watchlist" ? "dialog" : undefined}
+          aria-haspopup={quickViewEnabled ? "dialog" : undefined}
           className="card-image"
           href={`/${l}/cosmetics/${c.id}${backQuery}`}
           aria-label={`${nameOf(c, l)} · ${t("View details", "상세 보기")}`}
@@ -235,7 +236,7 @@ export default function SiteApp({
           <Link
             href={`/${l}/cosmetics/${c.id}${backQuery}`}
             onClick={event => quickView.show(event, c.id)}
-            aria-haspopup={view === "catalog" || view === "watchlist" ? "dialog" : undefined}
+            aria-haspopup={quickViewEnabled ? "dialog" : undefined}
             className="card-title"
           >
             {nameOf(c, l)}
@@ -340,7 +341,7 @@ export default function SiteApp({
               </div>
             }
           >
-            <Roadmap l={l} />
+            <Roadmap l={l} onCosmeticClick={quickView.show} />
           </Suspense>
         )}
         {view === "updates" && <Updates l={l} />}
