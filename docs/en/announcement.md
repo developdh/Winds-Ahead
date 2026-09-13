@@ -4,6 +4,8 @@
 
 Enable and verify anonymous website access before posting. This draft has not been posted.
 
+[Plain-text draft for review and copying](announcement.txt)
+
 ---
 
 **Winds Ahead: a Where Winds Meet cosmetic archive (China + Global / open source)**
