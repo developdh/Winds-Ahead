@@ -45,3 +45,7 @@ The in-app browser reproduced a pause immediately after starting the published e
 Native previews now start muted after the existing play click. Native volume controls remain available; no repeated forced resume, player remount loop, additional video download or re-encoding was introduced. This follows [MDN's muted-start guidance](https://developer.mozilla.org/en-US/docs/Web/Media/Guides/Autoplay#handling_autoplay_failure_with_media_controls). The observed distinction is audible versus muted playback in the tested browser; the precise browser/OS cause of audible suspension is not established, and unmuted playback is not certified across environments.
 
 The corrected production build played from 0.173s through 22.446s to `ended=true` at 29.034s in the in-app browser. The video element was absent before the play click. Type/content checks, all 18 existing tests and the production build pass.
+
+A second run at a 390px viewport also reached 29.034s with `ended=true`. Scrolling the player fully out of view removed it and restored the play trigger; no console warnings/errors were observed. [PR #9](https://github.com/developdh/Winds-Ahead/pull/9) records the fix and its application commit passed GitHub CI. These are in-app viewport checks, not physical iOS/Android coverage.
+
+Published as version 5 at 11:50:32 UTC on September 13, 2026 with owner-only access unchanged.
