@@ -5517,7 +5517,7 @@ body {
 .server-filter { display: inline-flex; min-width: 142px; }
 .server-filter select { min-height: 44px; background: transparent; border-color: transparent; color: var(--muted-foreground); font-size: 14px; padding-right: 30px; }
 .regional-panel { padding: 26px 0; border-top: 1px solid var(--border); }
-.regional-panel h2 { font-family: var(--font-body); font-size: 16px; font-weight: 400; margin: 0 0 18px; }
+.regional-panel h2 { font-family: var(--font-sans); font-size: 16px; font-weight: 400; margin: 0 0 18px; }
 .regional-rows { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; }
 .regional-row { min-width: 0; }
 .regional-row-title { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 6px 12px; font-size: 16px; }
@@ -5533,3 +5533,9 @@ body {
 .regional-evidence small { display: block; margin-top: 10px; }
 .regional-panel > .small-muted { margin-top: 17px; font-size: 12px; }
 @media (max-width: 640px) { .regional-panel { padding: 20px 0; } .regional-rows { gap: 18px; } .card-servers { font-size: 11px; gap: 5px; } .card-servers > span + span::before { margin-right: 5px; } }
+
+/* A documented appearance remains searchable while its own artwork is reviewed. */
+.media-pending { display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 18px; padding: 32px; text-align: center; color: var(--muted-foreground); background: radial-gradient(ellipse at 50% 38%, #242624, #111310 70%); width: 100%; height: 100%; }
+.media-pending > span { font-family: WindsHeading, serif; font-size: clamp(48px, 7vw, 86px); font-weight: 500; opacity: .17; line-height: 1; }
+.media-pending small { font-size: 12px; max-width: 28ch; line-height: 1.8; }
+.detail-image.media-pending { min-height: 400px; aspect-ratio: 6/7.1; }

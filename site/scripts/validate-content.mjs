@@ -124,7 +124,8 @@ const cosmeticSchema = z
           })
           .passthrough(),
       )
-      .min(1),
+      ,
+    mediaStatus: z.enum(["pending", "verified"]).optional(),
   })
   .passthrough();
 export const forecastSchema = z
@@ -229,7 +230,7 @@ export function validateContent(research, media, forecastData, globalData) {
       if (!bySource.has(video.sourceId))
         throw new Error(`Unknown video source ${video.sourceId}`);
     }
-    if (!media.some((m) => m.cosmeticId === c.id && m.index === 0))
+    if (c.mediaStatus !== "pending" && !media.some((m) => m.cosmeticId === c.id && m.index === 0))
       throw new Error(`Missing primary media ${c.id}`);
   }
   for (const e of global.events) {
@@ -284,7 +285,7 @@ export function validateRegional(research, globalData, regionalData) {
       cosmeticId: z.string(), server: z.enum(["CN", "Global"]),
       status: z.enum(["released", "announced"]), sourceIds: z.array(z.string()).min(1),
       verifiedAt: day, releaseDate: day.nullable(), precision: z.enum(["day", "unknown"]),
-      scope: bilingual, identityBasis: bilingual,
+      scope: bilingual, identityBasis: bilingual, acquisition: acquisitionSchema.optional(),
     }).strict().superRefine((r, ctx) => {
       if ((r.releaseDate === null) !== (r.precision === "unknown")) ctx.addIssue({code:z.ZodIssueCode.custom,message:"Regional date precision must match its value"});
       if (r.status === "released" && r.releaseDate && r.releaseDate > r.verifiedAt) ctx.addIssue({code:z.ZodIssueCode.custom,message:"Future listing cannot be released"});

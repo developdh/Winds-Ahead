@@ -1,5 +1,5 @@
 import data from "@/content/regional-records.json";
-import { sourceOf, type Cosmetic, type Locale, type Server } from "@/lib/catalog";
+import { sourceOf, type Cosmetic, type Locale, type Server, type Acquisition } from "@/lib/catalog";
 export type RegionalState = "released" | "announced" | "unknown";
 export interface RegionalRecord {
   cosmeticId: string;
@@ -11,13 +11,14 @@ export interface RegionalRecord {
   precision: "day" | "unknown";
   scope: { en: string; ko: string };
   identityBasis: { en: string; ko: string };
+  acquisition?: Acquisition;
 }
 export const regionalRecords = data.records as RegionalRecord[];
 const records = new Map(regionalRecords.map(r => [`${r.cosmeticId}:${r.server}`, r]));
 export function regionalRecord(c: Cosmetic, server: Server): RegionalRecord | undefined {
   const record = records.get(`${c.id}:${server}`);
   if (record) return record;
-  if (server === "CN" && sourceOf(c).server === "CN") return {
+  if (server === "CN" && sourceOf(c).server === "CN" && sourceOf(c).evidenceTier !== "C" && sourceOf(c).evidenceTier !== "B") return {
     cosmeticId: c.id, server, status: "released", sourceIds: [c.sourceId],
     verifiedAt: data.verifiedAt, releaseDate: c.cnRelease.date, precision: c.cnRelease.precision,
     scope: { en: "Historical CN appearance listing. Current availability is not established.", ko: "중국의 과거 외관 출시 기록입니다. 현재 판매 여부는 별도입니다." },

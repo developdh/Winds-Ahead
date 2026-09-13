@@ -1,1 +1,1026 @@
-{"schemaVersion":1,"sources":[],"events":[]}
+{
+  "schemaVersion": 1,
+  "sources": [],
+  "events": [
+    {
+      "id": "release-global-yan-juan-can-ye",
+      "cosmeticId": "yan-juan-can-ye",
+      "date": "2026-09-03",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-73654b7bf516",
+        "global-daca950e5aa6"
+      ],
+      "status": "released",
+      "scope": {
+        "en": "Official Global listing day; exact time zone unconfirmed.",
+        "ko": "글로벌 공식 공지의 출시일이며 정확한 시간대는 미확인입니다."
+      }
+    },
+    {
+      "id": "release-global-ming-he-zai-xue",
+      "cosmeticId": "ming-he-zai-xue",
+      "date": "2026-09-06",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-73654b7bf516",
+        "global-daca950e5aa6"
+      ],
+      "status": "released",
+      "scope": {
+        "en": "Official Global listing day; exact time zone unconfirmed.",
+        "ko": "글로벌 공식 공지의 출시일이며 정확한 시간대는 미확인입니다."
+      }
+    },
+    {
+      "id": "release-global-han-ying",
+      "cosmeticId": "han-ying",
+      "date": "2026-09-06",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-73654b7bf516",
+        "global-daca950e5aa6"
+      ],
+      "status": "released",
+      "scope": {
+        "en": "Official Global listing day; exact time zone unconfirmed.",
+        "ko": "글로벌 공식 공지의 출시일이며 정확한 시간대는 미확인입니다."
+      }
+    },
+    {
+      "id": "release-global-cang-yinxing-he-yu-shu",
+      "cosmeticId": "cang-yinxing-he-yu-shu",
+      "date": "2026-09-06",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-73654b7bf516",
+        "global-daca950e5aa6"
+      ],
+      "status": "released",
+      "scope": {
+        "en": "Official Global listing day; exact time zone unconfirmed.",
+        "ko": "글로벌 공식 공지의 출시일이며 정확한 시간대는 미확인입니다."
+      }
+    },
+    {
+      "id": "release-global-wu-fan-shi-sheng",
+      "cosmeticId": "wu-fan-shi-sheng",
+      "date": "2026-09-03",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-73654b7bf516",
+        "global-daca950e5aa6"
+      ],
+      "status": "released",
+      "scope": {
+        "en": "Official Global listing day; exact time zone unconfirmed.",
+        "ko": "글로벌 공식 공지의 출시일이며 정확한 시간대는 미확인입니다."
+      }
+    },
+    {
+      "id": "release-global-yin-qian-ji",
+      "cosmeticId": "yin-qian-ji",
+      "date": "2026-09-06",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-73654b7bf516",
+        "global-daca950e5aa6"
+      ],
+      "status": "released",
+      "scope": {
+        "en": "Official Global listing day; exact time zone unconfirmed.",
+        "ko": "글로벌 공식 공지의 출시일이며 정확한 시간대는 미확인입니다."
+      }
+    },
+    {
+      "id": "release-global-xuan-yingshui-he-qing-tian",
+      "cosmeticId": "xuan-yingshui-he-qing-tian",
+      "date": "2026-09-13",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-73654b7bf516",
+        "global-daca950e5aa6"
+      ],
+      "status": "released",
+      "scope": {
+        "en": "Official Global listing day; exact time zone unconfirmed.",
+        "ko": "글로벌 공식 공지의 출시일이며 정확한 시간대는 미확인입니다."
+      }
+    },
+    {
+      "id": "release-global-liu-sha-wen-gu",
+      "cosmeticId": "liu-sha-wen-gu",
+      "date": "2026-09-13",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-73654b7bf516",
+        "global-daca950e5aa6"
+      ],
+      "status": "released",
+      "scope": {
+        "en": "Official Global listing day; exact time zone unconfirmed.",
+        "ko": "글로벌 공식 공지의 출시일이며 정확한 시간대는 미확인입니다."
+      }
+    },
+    {
+      "id": "release-global-jin-wu-zhui-huo",
+      "cosmeticId": "jin-wu-zhui-huo",
+      "date": "2026-09-13",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-73654b7bf516",
+        "global-daca950e5aa6"
+      ],
+      "status": "released",
+      "scope": {
+        "en": "Official Global listing day; exact time zone unconfirmed.",
+        "ko": "글로벌 공식 공지의 출시일이며 정확한 시간대는 미확인입니다."
+      }
+    },
+    {
+      "id": "release-global-mo-cang-chun",
+      "cosmeticId": "mo-cang-chun",
+      "date": "2026-09-13",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-73654b7bf516",
+        "global-daca950e5aa6"
+      ],
+      "status": "released",
+      "scope": {
+        "en": "Official Global listing day; exact time zone unconfirmed.",
+        "ko": "글로벌 공식 공지의 출시일이며 정확한 시간대는 미확인입니다."
+      }
+    },
+    {
+      "id": "release-global-guaiwu-chang",
+      "cosmeticId": "guaiwu-chang",
+      "date": "2026-08-27",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-7ed8d05169eb",
+        "global-539052c7278c"
+      ],
+      "status": "released",
+      "scope": {
+        "en": "Official Global listing day; exact time zone unconfirmed.",
+        "ko": "글로벌 공식 공지의 출시일이며 정확한 시간대는 미확인입니다."
+      }
+    },
+    {
+      "id": "release-global-fei-peng-tuan-kong",
+      "cosmeticId": "fei-peng-tuan-kong",
+      "date": "2026-08-30",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-7ed8d05169eb",
+        "global-539052c7278c"
+      ],
+      "status": "released",
+      "scope": {
+        "en": "Official Global listing day; exact time zone unconfirmed.",
+        "ko": "글로벌 공식 공지의 출시일이며 정확한 시간대는 미확인입니다."
+      }
+    },
+    {
+      "id": "release-global-jiu-xiao-he-ju",
+      "cosmeticId": "jiu-xiao-he-ju",
+      "date": "2026-08-30",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-7ed8d05169eb",
+        "global-539052c7278c"
+      ],
+      "status": "released",
+      "scope": {
+        "en": "Official Global listing day; exact time zone unconfirmed.",
+        "ko": "글로벌 공식 공지의 출시일이며 정확한 시간대는 미확인입니다."
+      }
+    },
+    {
+      "id": "release-global-yan-yan-yu-fei",
+      "cosmeticId": "yan-yan-yu-fei",
+      "date": "2026-08-30",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-7ed8d05169eb",
+        "global-539052c7278c"
+      ],
+      "status": "released",
+      "scope": {
+        "en": "Official Global listing day; exact time zone unconfirmed.",
+        "ko": "글로벌 공식 공지의 출시일이며 정확한 시간대는 미확인입니다."
+      }
+    },
+    {
+      "id": "release-global-global-wind-s-far-shore",
+      "cosmeticId": "global-wind-s-far-shore",
+      "date": "2026-08-20",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-7108a47efe11",
+        "global-8658e239e38f"
+      ],
+      "status": "released",
+      "scope": {
+        "en": "Official Global listing day; exact time zone unconfirmed.",
+        "ko": "글로벌 공식 공지의 출시일이며 정확한 시간대는 미확인입니다."
+      }
+    },
+    {
+      "id": "release-global-han-mo-dan-qing",
+      "cosmeticId": "han-mo-dan-qing",
+      "date": "2026-08-20",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-7108a47efe11",
+        "global-8658e239e38f"
+      ],
+      "status": "released",
+      "scope": {
+        "en": "Official Global listing day; exact time zone unconfirmed.",
+        "ko": "글로벌 공식 공지의 출시일이며 정확한 시간대는 미확인입니다."
+      }
+    },
+    {
+      "id": "release-global-qing-yuan-ru-hua",
+      "cosmeticId": "qing-yuan-ru-hua",
+      "date": "2026-08-20",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-7108a47efe11",
+        "global-8658e239e38f"
+      ],
+      "status": "released",
+      "scope": {
+        "en": "Official Global listing day; exact time zone unconfirmed.",
+        "ko": "글로벌 공식 공지의 출시일이며 정확한 시간대는 미확인입니다."
+      }
+    },
+    {
+      "id": "release-global-chun-yuan",
+      "cosmeticId": "chun-yuan",
+      "date": "2026-08-20",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-7108a47efe11",
+        "global-8658e239e38f"
+      ],
+      "status": "released",
+      "scope": {
+        "en": "Official Global listing day; exact time zone unconfirmed.",
+        "ko": "글로벌 공식 공지의 출시일이며 정확한 시간대는 미확인입니다."
+      }
+    },
+    {
+      "id": "release-global-jinhua-yu",
+      "cosmeticId": "jinhua-yu",
+      "date": "2026-08-20",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-7108a47efe11",
+        "global-8658e239e38f"
+      ],
+      "status": "released",
+      "scope": {
+        "en": "Official Global listing day; exact time zone unconfirmed.",
+        "ko": "글로벌 공식 공지의 출시일이며 정확한 시간대는 미확인입니다."
+      }
+    },
+    {
+      "id": "release-global-wan-laizhanyin-yang",
+      "cosmeticId": "wan-laizhanyin-yang",
+      "date": "2026-08-20",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-7108a47efe11",
+        "global-8658e239e38f"
+      ],
+      "status": "released",
+      "scope": {
+        "en": "Official Global listing day; exact time zone unconfirmed.",
+        "ko": "글로벌 공식 공지의 출시일이며 정확한 시간대는 미확인입니다."
+      }
+    },
+    {
+      "id": "release-global-wu-ji",
+      "cosmeticId": "wu-ji",
+      "date": "2026-08-20",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-7108a47efe11",
+        "global-8658e239e38f"
+      ],
+      "status": "released",
+      "scope": {
+        "en": "Official Global listing day; exact time zone unconfirmed.",
+        "ko": "글로벌 공식 공지의 출시일이며 정확한 시간대는 미확인입니다."
+      }
+    },
+    {
+      "id": "release-global-fei-shuang-dianxue",
+      "cosmeticId": "fei-shuang-dianxue",
+      "date": "2026-08-23",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-7108a47efe11",
+        "global-8658e239e38f"
+      ],
+      "status": "released",
+      "scope": {
+        "en": "Official Global listing day; exact time zone unconfirmed.",
+        "ko": "글로벌 공식 공지의 출시일이며 정확한 시간대는 미확인입니다."
+      }
+    },
+    {
+      "id": "release-global-lie-baiyu",
+      "cosmeticId": "lie-baiyu",
+      "date": "2026-08-23",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-7108a47efe11",
+        "global-8658e239e38f"
+      ],
+      "status": "released",
+      "scope": {
+        "en": "Official Global listing day; exact time zone unconfirmed.",
+        "ko": "글로벌 공식 공지의 출시일이며 정확한 시간대는 미확인입니다."
+      }
+    },
+    {
+      "id": "release-global-global-icebirdie",
+      "cosmeticId": "global-icebirdie",
+      "date": "2026-08-23",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-7108a47efe11",
+        "global-8658e239e38f"
+      ],
+      "status": "released",
+      "scope": {
+        "en": "Official Global listing day; exact time zone unconfirmed.",
+        "ko": "글로벌 공식 공지의 출시일이며 정확한 시간대는 미확인입니다."
+      }
+    },
+    {
+      "id": "release-global-global-swift-blossom",
+      "cosmeticId": "global-swift-blossom",
+      "date": "2026-08-23",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-7108a47efe11",
+        "global-8658e239e38f"
+      ],
+      "status": "released",
+      "scope": {
+        "en": "Official Global listing day; exact time zone unconfirmed.",
+        "ko": "글로벌 공식 공지의 출시일이며 정확한 시간대는 미확인입니다."
+      }
+    },
+    {
+      "id": "release-global-sui-huayao-tian-xuanguang",
+      "cosmeticId": "sui-huayao-tian-xuanguang",
+      "date": "2026-07-23",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-1bf16bd98a9a",
+        "global-94c483cc789e"
+      ],
+      "status": "released",
+      "scope": {
+        "en": "Official Global listing day; exact time zone unconfirmed.",
+        "ko": "글로벌 공식 공지의 출시일이며 정확한 시간대는 미확인입니다."
+      }
+    },
+    {
+      "id": "release-global-zhi-lan-zi-fang",
+      "cosmeticId": "zhi-lan-zi-fang",
+      "date": "2026-07-23",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-1bf16bd98a9a",
+        "global-94c483cc789e"
+      ],
+      "status": "released",
+      "scope": {
+        "en": "Official Global listing day; exact time zone unconfirmed.",
+        "ko": "글로벌 공식 공지의 출시일이며 정확한 시간대는 미확인입니다."
+      }
+    },
+    {
+      "id": "release-global-jumang",
+      "cosmeticId": "jumang",
+      "date": "2026-07-23",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-1bf16bd98a9a",
+        "global-94c483cc789e"
+      ],
+      "status": "released",
+      "scope": {
+        "en": "Official Global listing day; exact time zone unconfirmed.",
+        "ko": "글로벌 공식 공지의 출시일이며 정확한 시간대는 미확인입니다."
+      }
+    },
+    {
+      "id": "release-global-tianzhi-minggui",
+      "cosmeticId": "tianzhi-minggui",
+      "date": "2026-07-23",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-1bf16bd98a9a",
+        "global-94c483cc789e"
+      ],
+      "status": "released",
+      "scope": {
+        "en": "Official Global listing day; exact time zone unconfirmed.",
+        "ko": "글로벌 공식 공지의 출시일이며 정확한 시간대는 미확인입니다."
+      }
+    },
+    {
+      "id": "release-global-mie-ye-ye",
+      "cosmeticId": "mie-ye-ye",
+      "date": "2026-07-23",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-1bf16bd98a9a",
+        "global-94c483cc789e"
+      ],
+      "status": "released",
+      "scope": {
+        "en": "Official Global listing day; exact time zone unconfirmed.",
+        "ko": "글로벌 공식 공지의 출시일이며 정확한 시간대는 미확인입니다."
+      }
+    },
+    {
+      "id": "release-global-wan-laishan-jun-chu",
+      "cosmeticId": "wan-laishan-jun-chu",
+      "date": "2026-07-23",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-1bf16bd98a9a",
+        "global-94c483cc789e"
+      ],
+      "status": "released",
+      "scope": {
+        "en": "Official Global listing day; exact time zone unconfirmed.",
+        "ko": "글로벌 공식 공지의 출시일이며 정확한 시간대는 미확인입니다."
+      }
+    },
+    {
+      "id": "release-global-wan-laiyin-jiang-fu",
+      "cosmeticId": "wan-laiyin-jiang-fu",
+      "date": "2026-07-23",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-1bf16bd98a9a",
+        "global-94c483cc789e"
+      ],
+      "status": "released",
+      "scope": {
+        "en": "Official Global listing day; exact time zone unconfirmed.",
+        "ko": "글로벌 공식 공지의 출시일이며 정확한 시간대는 미확인입니다."
+      }
+    },
+    {
+      "id": "release-global-global-bronze-skyfall",
+      "cosmeticId": "global-bronze-skyfall",
+      "date": "2026-07-26",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-1bf16bd98a9a",
+        "global-94c483cc789e"
+      ],
+      "status": "released",
+      "scope": {
+        "en": "Official Global listing day; exact time zone unconfirmed.",
+        "ko": "글로벌 공식 공지의 출시일이며 정확한 시간대는 미확인입니다."
+      }
+    },
+    {
+      "id": "release-global-tian-de-xing",
+      "cosmeticId": "tian-de-xing",
+      "date": "2026-07-26",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-1bf16bd98a9a",
+        "global-94c483cc789e"
+      ],
+      "status": "released",
+      "scope": {
+        "en": "Official Global listing day; exact time zone unconfirmed.",
+        "ko": "글로벌 공식 공지의 출시일이며 정확한 시간대는 미확인입니다."
+      }
+    },
+    {
+      "id": "release-global-you-zhujian",
+      "cosmeticId": "you-zhujian",
+      "date": "2026-07-26",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-1bf16bd98a9a",
+        "global-94c483cc789e"
+      ],
+      "status": "released",
+      "scope": {
+        "en": "Official Global listing day; exact time zone unconfirmed.",
+        "ko": "글로벌 공식 공지의 출시일이며 정확한 시간대는 미확인입니다."
+      }
+    },
+    {
+      "id": "release-global-global-withered-ash",
+      "cosmeticId": "global-withered-ash",
+      "date": "2026-07-26",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-1bf16bd98a9a",
+        "global-94c483cc789e"
+      ],
+      "status": "released",
+      "scope": {
+        "en": "Official Global listing day; exact time zone unconfirmed.",
+        "ko": "글로벌 공식 공지의 출시일이며 정확한 시간대는 미확인입니다."
+      }
+    },
+    {
+      "id": "release-global-zui-penglai",
+      "cosmeticId": "zui-penglai",
+      "date": "2026-06-25",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-9b0320799ff3",
+        "global-19a9c86d2a46"
+      ],
+      "status": "released",
+      "scope": {
+        "en": "Official Global listing day; exact time zone unconfirmed.",
+        "ko": "글로벌 공식 공지의 출시일이며 정확한 시간대는 미확인입니다."
+      }
+    },
+    {
+      "id": "release-global-qing-fangzun",
+      "cosmeticId": "qing-fangzun",
+      "date": "2026-06-25",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-9b0320799ff3",
+        "global-19a9c86d2a46"
+      ],
+      "status": "released",
+      "scope": {
+        "en": "Official Global listing day; exact time zone unconfirmed.",
+        "ko": "글로벌 공식 공지의 출시일이며 정확한 시간대는 미확인입니다."
+      }
+    },
+    {
+      "id": "release-global-yi-chun-shan",
+      "cosmeticId": "yi-chun-shan",
+      "date": "2026-06-25",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-9b0320799ff3",
+        "global-19a9c86d2a46"
+      ],
+      "status": "released",
+      "scope": {
+        "en": "Official Global listing day; exact time zone unconfirmed.",
+        "ko": "글로벌 공식 공지의 출시일이며 정확한 시간대는 미확인입니다."
+      }
+    },
+    {
+      "id": "release-global-fang-fei-chun-hua",
+      "cosmeticId": "fang-fei-chun-hua",
+      "date": "2026-06-25",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-9b0320799ff3",
+        "global-19a9c86d2a46"
+      ],
+      "status": "released",
+      "scope": {
+        "en": "Official Global listing day; exact time zone unconfirmed.",
+        "ko": "글로벌 공식 공지의 출시일이며 정확한 시간대는 미확인입니다."
+      }
+    },
+    {
+      "id": "release-global-wu-ling-chun",
+      "cosmeticId": "wu-ling-chun",
+      "date": "2026-06-25",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-9b0320799ff3",
+        "global-19a9c86d2a46"
+      ],
+      "status": "released",
+      "scope": {
+        "en": "Official Global listing day; exact time zone unconfirmed.",
+        "ko": "글로벌 공식 공지의 출시일이며 정확한 시간대는 미확인입니다."
+      }
+    },
+    {
+      "id": "release-global-wan-laimanfei-ying",
+      "cosmeticId": "wan-laimanfei-ying",
+      "date": "2026-06-25",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-9b0320799ff3",
+        "global-19a9c86d2a46"
+      ],
+      "status": "released",
+      "scope": {
+        "en": "Official Global listing day; exact time zone unconfirmed.",
+        "ko": "글로벌 공식 공지의 출시일이며 정확한 시간대는 미확인입니다."
+      }
+    },
+    {
+      "id": "release-global-global-myriad-sounds-plume-break",
+      "cosmeticId": "global-myriad-sounds-plume-break",
+      "date": "2026-06-25",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-9b0320799ff3",
+        "global-19a9c86d2a46"
+      ],
+      "status": "released",
+      "scope": {
+        "en": "Official Global listing day; exact time zone unconfirmed.",
+        "ko": "글로벌 공식 공지의 출시일이며 정확한 시간대는 미확인입니다."
+      }
+    },
+    {
+      "id": "release-global-yu-long-kongyou",
+      "cosmeticId": "yu-long-kongyou",
+      "date": "2026-06-29",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-9b0320799ff3",
+        "global-19a9c86d2a46"
+      ],
+      "status": "released",
+      "scope": {
+        "en": "Official Global listing day; exact time zone unconfirmed.",
+        "ko": "글로벌 공식 공지의 출시일이며 정확한 시간대는 미확인입니다."
+      }
+    },
+    {
+      "id": "release-global-sui-shi-an",
+      "cosmeticId": "sui-shi-an",
+      "date": "2026-06-29",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-9b0320799ff3",
+        "global-19a9c86d2a46"
+      ],
+      "status": "released",
+      "scope": {
+        "en": "Official Global listing day; exact time zone unconfirmed.",
+        "ko": "글로벌 공식 공지의 출시일이며 정확한 시간대는 미확인입니다."
+      }
+    },
+    {
+      "id": "release-global-zhong-shan-jiu-die",
+      "cosmeticId": "zhong-shan-jiu-die",
+      "date": "2026-06-29",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-9b0320799ff3",
+        "global-19a9c86d2a46"
+      ],
+      "status": "released",
+      "scope": {
+        "en": "Official Global listing day; exact time zone unconfirmed.",
+        "ko": "글로벌 공식 공지의 출시일이며 정확한 시간대는 미확인입니다."
+      }
+    },
+    {
+      "id": "release-global-qing-yuzhu-yun",
+      "cosmeticId": "qing-yuzhu-yun",
+      "date": "2026-08-02",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-1bf16bd98a9a",
+        "global-94c483cc789e"
+      ],
+      "status": "released",
+      "scope": {
+        "en": "Official Global listing day; exact time zone unconfirmed.",
+        "ko": "글로벌 공식 공지의 출시일이며 정확한 시간대는 미확인입니다."
+      }
+    },
+    {
+      "id": "release-global-cang-yindan-xiao-qing-ming",
+      "cosmeticId": "cang-yindan-xiao-qing-ming",
+      "date": "2026-08-02",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-1bf16bd98a9a",
+        "global-94c483cc789e"
+      ],
+      "status": "released",
+      "scope": {
+        "en": "Official Global listing day; exact time zone unconfirmed.",
+        "ko": "글로벌 공식 공지의 출시일이며 정확한 시간대는 미확인입니다."
+      }
+    },
+    {
+      "id": "release-global-global-longing-s-refrain",
+      "cosmeticId": "global-longing-s-refrain",
+      "date": "2026-08-02",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-1bf16bd98a9a",
+        "global-94c483cc789e"
+      ],
+      "status": "released",
+      "scope": {
+        "en": "Official Global listing day; exact time zone unconfirmed.",
+        "ko": "글로벌 공식 공지의 출시일이며 정확한 시간대는 미확인입니다."
+      }
+    },
+    {
+      "id": "release-global-global-rippling-dream",
+      "cosmeticId": "global-rippling-dream",
+      "date": "2026-08-09",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-1bf16bd98a9a",
+        "global-94c483cc789e"
+      ],
+      "status": "released",
+      "scope": {
+        "en": "Official Global listing day; exact time zone unconfirmed.",
+        "ko": "글로벌 공식 공지의 출시일이며 정확한 시간대는 미확인입니다."
+      }
+    },
+    {
+      "id": "release-global-global-celestial-calculations",
+      "cosmeticId": "global-celestial-calculations",
+      "date": "2026-08-09",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-1bf16bd98a9a",
+        "global-94c483cc789e"
+      ],
+      "status": "released",
+      "scope": {
+        "en": "Official Global listing day; exact time zone unconfirmed.",
+        "ko": "글로벌 공식 공지의 출시일이며 정확한 시간대는 미확인입니다."
+      }
+    },
+    {
+      "id": "release-global-dianchun-ou",
+      "cosmeticId": "dianchun-ou",
+      "date": "2026-08-09",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-1bf16bd98a9a",
+        "global-94c483cc789e"
+      ],
+      "status": "released",
+      "scope": {
+        "en": "Official Global listing day; exact time zone unconfirmed.",
+        "ko": "글로벌 공식 공지의 출시일이며 정확한 시간대는 미확인입니다."
+      }
+    },
+    {
+      "id": "release-global-shi-shuang-feng",
+      "cosmeticId": "shi-shuang-feng",
+      "date": "2026-08-09",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-1bf16bd98a9a",
+        "global-94c483cc789e"
+      ],
+      "status": "released",
+      "scope": {
+        "en": "Official Global listing day; exact time zone unconfirmed.",
+        "ko": "글로벌 공식 공지의 출시일이며 정확한 시간대는 미확인입니다."
+      }
+    },
+    {
+      "id": "release-global-miao-xian-ren-zhang",
+      "cosmeticId": "miao-xian-ren-zhang",
+      "date": "2026-08-09",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-1bf16bd98a9a",
+        "global-94c483cc789e"
+      ],
+      "status": "released",
+      "scope": {
+        "en": "Official Global listing day; exact time zone unconfirmed.",
+        "ko": "글로벌 공식 공지의 출시일이며 정확한 시간대는 미확인입니다."
+      }
+    },
+    {
+      "id": "release-global-qing-zhi-wu-xin",
+      "cosmeticId": "qing-zhi-wu-xin",
+      "date": "2026-08-16",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-1bf16bd98a9a",
+        "global-94c483cc789e"
+      ],
+      "status": "released",
+      "scope": {
+        "en": "Official Global listing day; exact time zone unconfirmed.",
+        "ko": "글로벌 공식 공지의 출시일이며 정확한 시간대는 미확인입니다."
+      }
+    },
+    {
+      "id": "release-global-que-qiao-xian",
+      "cosmeticId": "que-qiao-xian",
+      "date": "2026-08-16",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-1bf16bd98a9a",
+        "global-94c483cc789e"
+      ],
+      "status": "released",
+      "scope": {
+        "en": "Official Global listing day; exact time zone unconfirmed.",
+        "ko": "글로벌 공식 공지의 출시일이며 정확한 시간대는 미확인입니다."
+      }
+    },
+    {
+      "id": "release-global-ling-jiao-zhi-meng",
+      "cosmeticId": "ling-jiao-zhi-meng",
+      "date": "2026-07-16",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-9b0320799ff3",
+        "global-19a9c86d2a46"
+      ],
+      "status": "released",
+      "scope": {
+        "en": "Official Global listing day; exact time zone unconfirmed.",
+        "ko": "글로벌 공식 공지의 출시일이며 정확한 시간대는 미확인입니다."
+      }
+    },
+    {
+      "id": "release-global-global-dreams-beyond",
+      "cosmeticId": "global-dreams-beyond",
+      "date": "2026-07-13",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-9b0320799ff3",
+        "global-19a9c86d2a46"
+      ],
+      "status": "released",
+      "scope": {
+        "en": "Official Global listing day; exact time zone unconfirmed.",
+        "ko": "글로벌 공식 공지의 출시일이며 정확한 시간대는 미확인입니다."
+      }
+    },
+    {
+      "id": "release-global-global-crimson-bloom",
+      "cosmeticId": "global-crimson-bloom",
+      "date": "2026-07-13",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-9b0320799ff3",
+        "global-19a9c86d2a46"
+      ],
+      "status": "released",
+      "scope": {
+        "en": "Official Global listing day; exact time zone unconfirmed.",
+        "ko": "글로벌 공식 공지의 출시일이며 정확한 시간대는 미확인입니다."
+      }
+    },
+    {
+      "id": "release-global-nan-feng-xun",
+      "cosmeticId": "nan-feng-xun",
+      "date": "2026-07-20",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-9b0320799ff3",
+        "global-19a9c86d2a46"
+      ],
+      "status": "released",
+      "scope": {
+        "en": "Official Global listing day; exact time zone unconfirmed.",
+        "ko": "글로벌 공식 공지의 출시일이며 정확한 시간대는 미확인입니다."
+      }
+    }
+  ]
+}

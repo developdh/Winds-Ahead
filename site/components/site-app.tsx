@@ -181,8 +181,9 @@ export default function SiteApp({
   );
   const card = (c: Cosmetic, i: number) => {
     const m = imagesOf(c)[0];
-    const acquisition = c.acquisition;
-    const acquisitionServer = c.acquisitionServer ?? "CN";
+    const globalAcquisition = regionalRecord(c, "Global")?.acquisition;
+    const acquisition = globalAcquisition ?? c.acquisition;
+    const acquisitionServer = globalAcquisition ? "Global" : c.acquisitionServer ?? "CN";
     return (
       <article
         className="cosmetic-card"
@@ -194,7 +195,7 @@ export default function SiteApp({
           href={`/${l}/cosmetics/${c.id}${backQuery}`}
           aria-label={`${nameOf(c, l)} · ${t("View details", "상세 보기")}`}
         >
-          <img
+          {m ? <img
             src={m.thumbnail}
             width={600}
             height={710}
@@ -202,8 +203,8 @@ export default function SiteApp({
             loading={i < 3 ? "eager" : "lazy"}
             fetchPriority={i === 0 ? "high" : "auto"}
             decoding="async"
-          />
-          {c.category === "effect" && <span className="effect-card-label"><Play size={13} />{t("Effect preview", "이펙트 미리보기")}</span>}
+          /> : <div className="media-pending"><span aria-hidden="true">鏡</span><small>{t("Image under review", "사진 확인 중")}</small></div>}
+          {c.category === "effect" && c.officialVideos.length > 0 && <span className="effect-card-label"><Play size={13} />{t("Effect preview", "이펙트 미리보기")}</span>}
         </Link>
         <div className="card-copy">
           <div className="card-topline">
@@ -220,7 +221,7 @@ export default function SiteApp({
             <span className="original-name" lang="zh-Hans" title={c.nameOriginal}>
               {c.nameOriginal}
             </span>
-            <span className="card-price" title={`${serverName(acquisitionServer, l)} · ${acquisitionSummary(c, l)}`}>
+            <span className="card-price" title={`${serverName(acquisitionServer, l)} · ${acquisitionSummary({...c, acquisition}, l)}`}>
               {acquisition.pricing === 'fixed' ? <>
                 <span className="card-price-amount">{acquisition.amount!.toLocaleString(l === 'ko' ? 'ko-KR' : 'en-US')}</span>
                 <span>{currencyName(acquisition.currencyOriginal, l)}</span>
@@ -229,12 +230,12 @@ export default function SiteApp({
           </div>
           <div className="card-meta">
             <span className="card-location" title={`${serverName(acquisitionServer, l)} · ${acquisition.location[l]}`}>
-              <span className="sr-only">{serverName(acquisitionServer, l)} · </span>{acquisition.location[l]}
+              <span>{acquisitionServer === "CN" ? "CN" : t("Global", "글로벌")} · </span>{acquisition.location[l]}
             </span>
             <span className="card-meta-separator" aria-hidden="true">·</span>
             <span className="card-servers" aria-label={t("Verified release servers", "출시 확인 서버")}>
               {(["CN", "Global"] as const).filter(server => releasedOn(c, server)).map(server => <span key={server} title={`${serverName(server, l)} · ${stateName("released", l)}`}>{server === "CN" ? "CN" : t("Global", "글로벌")}</span>)}
-              {!releasedOn(c, "CN") && !releasedOn(c, "Global") && <span>{t("Announced", "발표됨")}</span>}
+              {!releasedOn(c, "CN") && !releasedOn(c, "Global") && <span>{(["CN", "Global"] as const).some(server => regionalRecord(c, server)?.status === "announced") ? t("Announced", "발표됨") : t("Not verified", "확인 중")}</span>}
             </span>
           </div>
         </div>
@@ -596,7 +597,7 @@ function Detail({
             </div>
           )}
           <p className="media-credit">
-            © NetEase ·{" "}
+            {c.mediaKind === "gameplay" ? "© NetEase · GamerSky / 瑞破受气包" : "© NetEase"} ·{" "}
             {t(
               "Game appearance reference. Check source and server details below.",
               "게임 외관 참고 이미지. 출처와 서버는 아래에서 확인하세요.",
@@ -614,6 +615,7 @@ function Detail({
               <span>{(l === "ko" ? c.officialNameKo : c.officialNameEn) ? t("Official name", "공식 명칭") : t("Provisional name", "편의 표기")}</span>
             </p>
             <p className="detail-description">{descriptions[c.id][l]}</p>
+            {c.namingNote && <p className="small-muted">{c.namingNote[l]}</p>}
           </div>
           <div className="button-row detail-actions">
             {saveButton(c)}
@@ -623,12 +625,13 @@ function Detail({
               target="_blank"
               rel="noreferrer"
             >
-              {t("Official announcement", "공식 공지")}
+              {source.evidenceTier === "C" || source.evidenceTier === "B" ? t("Image source", "이미지 출처") : t("Official announcement", "공식 공지")}
               <ArrowUpRight size={16} />
             </a>
           </div>
           <GlobalPanel c={c} l={l} />
           <AcquisitionInfo c={c} l={l} />
+          {(["CN", "Global"] as const).filter(server => server !== (c.acquisitionServer ?? "CN")).map(server => { const record = regionalRecord(c, server); return record?.acquisition ? <AcquisitionInfo key={server} c={{...c, acquisition: record.acquisition, acquisitionServer: server}} l={l} /> : null; })}
           {source.server === "CN" && <div className="facts">
             <h2>
               <ShieldCheck size={18} />
@@ -682,6 +685,8 @@ function Detail({
               "주소의 날짜와 다를 수 있는 실제 공지 화면의 게시일을 기록했습니다. 출시일은 공지 본문을 기준으로 하며 시간대를 추정하지 않습니다.",
             )}
           </small>
+          {c.sourceEvidence && <details><summary>{t("Source excerpt", "원문 발췌")}</summary><p lang="zh-Hans">{c.sourceEvidence}</p></details>}
+          {c.imageSourceUrl && <a href={c.imageSourceUrl} target="_blank" rel="noreferrer">{t("Image provenance", "이미지 원출처")}<ArrowUpRight size={16} /></a>}
           {c.cnRelease.contextual && <p>{t("The release day is derived from the update context, not the URL date. An exact time is not assumed.", "출시일은 주소의 날짜가 아닌 업데이트 문맥으로 확인했습니다. 정확한 시각은 추정하지 않습니다.")}</p>}
         </details>
         {c.category !== "effect" && c.officialVideos.length > 0 && <CosmeticVideos key={c.id} c={c} l={l} />}
@@ -813,7 +818,7 @@ function About({ l }: { l: Locale }) {
           </h2>
           <p>
             {t(
-              "Winds Ahead brings official China-server cosmetic previews together with acquisition details, global verification status, and a release roadmap. It is not affiliated with or endorsed by NetEase or Everstone Studio.",
+              "Winds Ahead brings China and Global cosmetic records together with acquisition details, regional sources, and a release roadmap. It is not affiliated with or endorsed by NetEase or Everstone Studio.",
               "연운경은 중국 서버의 공식 외관 미리보기와 획득 정보, 글로벌 확인 상태, 출시 로드맵을 함께 정리합니다. NetEase 및 Everstone Studio와 제휴하거나 공식 인증을 받은 사이트가 아닙니다.",
             )}
           </p>

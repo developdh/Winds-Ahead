@@ -5,6 +5,7 @@ export type Locale = "en" | "ko";
 export type Server = "CN" | "Global";
 export type Bilingual = { en: string; ko: string };
 export interface Acquisition extends Bilingual {
+  sourceExcerpt?: string;
   kind: "shop" | "exchange" | "exchange_shop" | "limited_draw" | "seasonal_draw" | "battle_pass" | "milestone" | "event" | "exploration" | "quest" | "achievement" | "sect" | "unknown";
   pricing: "fixed" | "draw" | "pass" | "free" | "unknown";
   amount: number | null;
@@ -22,6 +23,11 @@ export interface Cosmetic {
   acquisitionServer?: Server;
   mediaServer?: Server;
   mediaKind?: "official" | "gameplay";
+  mediaStatus?: "pending" | "verified";
+  namingNote?: Bilingual;
+  searchAliases?: string[];
+  sourceEvidence?: string;
+  imageSourceUrl?: string;
   officialNameEn: string | null;
   officialNameKo: string | null;
   cnRelease: { date: string | null; precision: "day" | "unknown"; timezone: null; contextual: boolean; basis: string };
@@ -54,8 +60,12 @@ export const descriptions: Record<string, { en: string; ko: string }> =
   Object.fromEntries(
     Object.entries(localeData).map(([id, value]) => [id, value.description]),
   );
+export interface Source {
+  id: string; url: string; publisher: string; server: Server; titleOriginal: string;
+  displayedPublicationDate: string | null; evidenceTier?: "A" | "B" | "C";
+}
 export function sourceOf(c: Cosmetic) {
-  return research.sources.find((s) => s.id === c.sourceId)!;
+  return (research.sources as Source[]).find((s) => s.id === c.sourceId)!;
 }
 export function nameOf(c: Cosmetic, l: Locale) {
   return l === "ko" ? c.officialNameKo ?? aliases[c.id] : c.officialNameEn ?? c.romanization;
@@ -73,6 +83,7 @@ export function searchCosmetics(query: string, category: string = "all") {
       (category === "all" || c.category === category) &&
       [
         c.nameOriginal,
+        ...(c.searchAliases ?? []),
         c.romanization,
         c.officialNameEn,
         c.officialNameKo,

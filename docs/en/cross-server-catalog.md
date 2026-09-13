@@ -19,3 +19,7 @@ The initial page still renders 24 cards, with more loaded on request. All catalo
 ## Progress and validation
 
 The first implementation adds server filtering, independent regional evidence, Global-primary support and explicit free-reward acquisition semantics. Type checking and 21 domain/media tests pass at this foundation milestone. Full content coverage, real-item regional matching and final responsive checks are pending the intake batches; no all-items-complete claim is made.
+
+## First content milestone
+
+431 appearance records, 361 static images, 87 Global regional records (60 dated listings and 27 launch rewards), and 48 visual CN/Global identity links were validated on September 13, 2026. 144 cited official source pages support this cohort. Some known appearances have no individually verified picture and explicitly say image under review. Source-linked historical notices can establish existence without establishing the first release date or current price. Earlier Global update overviews are being incorporated in the next cohort.
