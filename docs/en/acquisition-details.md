@@ -25,3 +25,5 @@ Type checking, content validation, the 18-test domain/media suite and the produc
 Published as version 3 to the [existing owner-private Site](https://winds-ahead.donghee0815.chatgpt.site) at 11:28:08 UTC on September 13, 2026. [PR #7](https://github.com/developdh/Winds-Ahead/pull/7) retains the change; its application commit passed GitHub CI. Site source commit: `7e52d70d686ab1f16b5892c96f1d2e5e8a02c67d`.
 
 The subsequent card compaction passes the same 18 tests, type/content checks and production build. In-app Chromium inspection covered KO at 390px and EN at 320px/1440px, locale switching and card-to-detail navigation. At 320, 360, 390, 768, 1024 and 1440 CSS px, every EN status row remained one line and every price fit without clipping or page overflow. No console warnings/errors were observed. No media, requests, dependencies or controls were added.
+
+Card compaction was published as version 4 at 11:34:09 UTC on September 13, 2026, with access unchanged. [PR #8](https://github.com/developdh/Winds-Ahead/pull/8) preserves the reviewable change.
