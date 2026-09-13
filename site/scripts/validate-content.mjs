@@ -1,0 +1,227 @@
+import fs from "node:fs";
+import path from "node:path";
+import { fileURLToPath } from "node:url";
+import { z } from "zod";
+import { isDay, isMonth } from "../lib/roadmap-domain.mjs";
+const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
+const bilingual = z.object({
+  en: z.string().trim().min(1),
+  ko: z.string().trim().min(1),
+});
+const day = z.string().refine(isDay, "Use a real YYYY-MM-DD date");
+const sourceSchema = z
+  .object({
+    id: z.string().min(1),
+    url: z.string().url().startsWith("https://"),
+    publisher: z.string().min(1),
+    server: z.enum(["CN", "Global"]),
+    titleOriginal: z.string().min(1),
+  })
+  .passthrough();
+const cosmeticSchema = z
+  .object({
+    id: z.string().regex(/^[a-z0-9-]+$/),
+    nameOriginal: z.string().min(1),
+    romanization: z.string().min(1),
+    category: z.enum(["outfit", "hair", "weapon_skin"]),
+    sourceId: z.string(),
+    cnRelease: z
+      .object({
+        date: day.nullable(),
+        precision: z.enum(["day", "unknown"]),
+        timezone: z.null(),
+      })
+      .passthrough()
+      .refine(
+        (x) => (x.date === null) === (x.precision === "unknown"),
+        "Date precision must match its value",
+      ),
+    acquisition: bilingual.passthrough(),
+    global: z.object({
+      status: z.literal("unknown"),
+      releaseDate: z.null(),
+      officialName: z.null(),
+    }),
+    images: z
+      .array(
+        z
+          .object({
+            url: z.string().url(),
+            width: z.number().positive(),
+            height: z.number().positive(),
+            reusePermission: z.string(),
+          })
+          .passthrough(),
+      )
+      .min(1),
+  })
+  .passthrough();
+export const forecastSchema = z
+  .object({
+    id: z.string().min(1),
+    revision: z.number().int().positive(),
+    cosmeticId: z.string(),
+    state: z.enum(["active", "withdrawn", "superseded"]),
+    precision: z.enum(["month", "window", "version"]),
+    month: z.string().refine(isMonth).optional(),
+    start: day.optional(),
+    end: day.optional(),
+    version: z.string().trim().min(1).optional(),
+    evidenceLevel: z.enum(["limited", "supported"]),
+    rationale: bilingual,
+    assumptions: bilingual,
+    reason: bilingual,
+    sourceIds: z.array(z.string()).min(1),
+    createdAt: z.string().datetime(),
+    reviewDue: day,
+  })
+  .strict()
+  .superRefine((f, ctx) => {
+    const bad = (message) =>
+      ctx.addIssue({ code: z.ZodIssueCode.custom, message });
+    if (f.precision === "month" && (!f.month || f.start || f.end || f.version))
+      bad("Month forecasts must retain month precision");
+    if (
+      f.precision === "window" &&
+      (!f.start || !f.end || f.start > f.end || f.month || f.version)
+    )
+      bad("A window needs ordered start/end dates only");
+    if (
+      f.precision === "version" &&
+      (!f.version || f.month || f.start || f.end)
+    )
+      bad("Version estimates must not acquire invented dates");
+    if (f.reviewDue < f.createdAt.slice(0, 10))
+      bad("Review due date precedes creation");
+  });
+const eventSchema = z
+  .object({
+    id: z.string().min(1),
+    cosmeticId: z.string(),
+    date: day,
+    precision: z.literal("day"),
+    server: z.literal("Global"),
+    kind: z.enum(["release", "rerun"]),
+    sourceIds: z.array(z.string()).min(1),
+    status: z.enum(["announced", "released", "cancelled"]),
+    scope: bilingual,
+  })
+  .strict();
+const unique = (values, label) => {
+  if (new Set(values).size !== values.length)
+    throw new Error(`Duplicate ${label}`);
+};
+export function validateContent(research, media, forecastData, globalData) {
+  const base = z
+    .object({
+      schemaVersion: z.literal(1),
+      verifiedAt: day,
+      sources: z.array(sourceSchema).min(1),
+      cosmetics: z.array(cosmeticSchema).min(1),
+    })
+    .passthrough()
+    .parse(research);
+  const global = z
+    .object({
+      schemaVersion: z.literal(1),
+      sources: z.array(sourceSchema),
+      events: z.array(eventSchema),
+    })
+    .strict()
+    .parse(globalData);
+  const revisions = z
+    .object({ schemaVersion: z.literal(1), revisions: z.array(forecastSchema) })
+    .strict()
+    .parse(forecastData).revisions;
+  const ids = base.cosmetics.map((c) => c.id);
+  unique(ids, "cosmetic ID");
+  const knownIds = new Set(ids);
+  const allSources = [...base.sources, ...global.sources];
+  unique(
+    allSources.map((s) => s.id),
+    "source ID",
+  );
+  const bySource = new Map(allSources.map((s) => [s.id, s]));
+  function refs(item) {
+    if (!knownIds.has(item.cosmeticId))
+      throw new Error(`Unknown cosmetic ${item.cosmeticId}`);
+    for (const id of item.sourceIds) {
+      if (!bySource.has(id)) throw new Error(`Unknown source ${id}`);
+    }
+  }
+  for (const c of base.cosmetics) {
+    if (bySource.get(c.sourceId)?.server !== "CN")
+      throw new Error("CN facts require a CN source");
+    if (!media.some((m) => m.cosmeticId === c.id && m.index === 0))
+      throw new Error(`Missing primary media ${c.id}`);
+  }
+  for (const e of global.events) {
+    refs(e);
+    if (!e.sourceIds.some((id) => bySource.get(id).server === "Global"))
+      throw new Error("Global facts need global evidence");
+  }
+  unique(
+    global.events.map((e) => e.id),
+    "global event ID",
+  );
+  unique(
+    revisions.map((f) => `${f.id}:${f.revision}`),
+    "forecast revision",
+  );
+  const previous = new Map();
+  for (const f of revisions) {
+    refs(f);
+    const last = previous.get(f.id);
+    if (f.revision !== (last?.revision ?? 0) + 1)
+      throw new Error(
+        "Forecast revisions must be contiguous and append in order",
+      );
+    if (
+      last &&
+      (f.cosmeticId !== last.cosmeticId || f.createdAt <= last.createdAt)
+    )
+      throw new Error(
+        "A revision must preserve cosmetic identity and advance time",
+      );
+    previous.set(f.id, f);
+  }
+  for (const m of media) {
+    if (!knownIds.has(m.cosmeticId))
+      throw new Error("Media has an unknown cosmetic");
+    for (const key of ["thumbnail", "full"]) {
+      if (!/^\/media\/[a-z0-9-]+\.webp$/.test(m[key]))
+        throw new Error("Invalid media path");
+    }
+  }
+  return {
+    cosmetics: ids.length,
+    images: media.length,
+    forecasts: revisions.length,
+    globalEvents: global.events.length,
+  };
+}
+if (
+  process.argv[1] &&
+  path.resolve(process.argv[1]) === fileURLToPath(import.meta.url)
+) {
+  const read = (name) =>
+    JSON.parse(fs.readFileSync(path.join(root, "content", name), "utf8"));
+  const media = read("media.json");
+  console.log(
+    validateContent(
+      read("research.json"),
+      media,
+      read("forecasts.json"),
+      read("global-events.json"),
+    ),
+  );
+  for (const m of media)
+    for (const key of ["thumbnail", "full"]) {
+      const stat = fs.statSync(path.join(root, "public", m[key]));
+      if (stat.size !== m[key + "Bytes"])
+        throw new Error(`Media size mismatch: ${m[key]}`);
+    }
+  console.log(
+    "Content, references, bilingual copy, dates, and media files validated.",
+  );
+}

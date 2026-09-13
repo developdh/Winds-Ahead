@@ -51,8 +51,10 @@ Initial project transfer targets for representative explore/detail pages are no 
 UI PRs include EN/KO mobile/desktop captures, checked core journeys, device/browser/network conditions, performance measurements, and remaining limits. Repeat measurements under the same conditions and distinguish physical-device checks from emulation. Content PRs check plausible regressions from their changes, including image size, missing translations, and layout effects.
 
 
-## Selected typography · 2026-09-13
+## Selected visual direction · September 13, 2026
 
-The user selected option B: Noto Serif KR at 500 for large titles and SUIT for interface text. Desktop body copy uses weight 350; small controls, dates and mobile body copy use 400. Keep dark-theme contrast and 16px minimum body text. Only the selected, licensed, renamed webfont subsets ship.
+The user selected Noto Serif KR at 500 for major titles and SUIT for interface text. Use weight 300 for large SUIT text, 350 for ordinary body copy on desktop and mobile, and 350–400 for compact names and controls. Keep body information around 16px and preserve contrast; reduce weight without reducing readability. The licensed subsets are renamed Winds Heading and Winds UI and retain their OFL notices.
 
-Follow-up: use SUIT 300 for large section text (20px+), 350 for normal desktop copy, and 400 for compact controls/dates and mobile body text. Compact card names use 450. Noto Serif KR titles stay at 500.
+The mobile direction takes cues from Apple-style product interfaces: more space, large photographs, restrained surfaces, soft translucent floating navigation, and lighter typography. Cosmetic titles precede the hero image. Source explanations collapse into a readable disclosure.
+
+The user explicitly prioritizes richer, slower, smoother animation even at some interaction-speed cost. Use 0.7–1.2 second arrivals, softer image zoom, distinct gallery and bookmark motion, scroll reveals, month transitions, and tactile buttons. Honor reduced motion and keep keyboard-focused content visible. Motion must never block a button or hide required information permanently.

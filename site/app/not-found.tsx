@@ -1,1 +1,24 @@
-export default function NotFound(){return <main className="page not-found"><p className="eyebrow">404 · WINDS AHEAD</p><h1>길을 찾을 수 없어요<br/>This path is unknown</h1><p className="intro">주소가 바뀌었거나 없는 외관입니다. / This page may have moved or does not exist.</p><div className="button-row"><a className="primary-button" href="/ko">외관 도감으로</a><a className="outline-button" href="/en">Open the archive</a></div></main>}
+export default function NotFound() {
+  return (
+    <main className="page not-found">
+      <p className="eyebrow">404 · WINDS AHEAD</p>
+      <h1>
+        길을 찾을 수 없어요
+        <br />
+        This path is unknown
+      </h1>
+      <p className="intro">
+        주소가 바뀌었거나 없는 외관입니다. / This page may have moved or does
+        not exist.
+      </p>
+      <div className="button-row">
+        <a className="primary-button" href="/ko">
+          외관 도감으로
+        </a>
+        <a className="outline-button" href="/en">
+          Open the archive
+        </a>
+      </div>
+    </main>
+  );
+}
