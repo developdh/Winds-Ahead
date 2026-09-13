@@ -292,7 +292,7 @@ export default function SiteApp({
             >
               {v === "catalog"
                 ? t("Cosmetics", "외관")
-                : t("Calendar", "캘린더")}
+                : t("Roadmap", "로드맵")}
             </Link>
           ))}
         </nav>
@@ -804,13 +804,13 @@ function Updates({ l }: { l: Locale }) {
         <History size={20} />
         <p>
           {t(
-            "Forecast history starts with evidence.",
-            "예상 이력은 근거가 있을 때 시작합니다.",
+            "Forecasts stay separate from official dates.",
+            "예상은 공식 일정과 구분합니다.",
           )}
           <span>
             {t(
-              "No global forecast has been published yet. Changes will retain their previous estimates and rationale.",
-              "아직 게시한 글로벌 예상이 없습니다. 변경 시 이전 예상과 변경 이유를 함께 보존합니다.",
+              "See the roadmap for current windows and their evidence. Previous estimates and reasons remain in the revision history.",
+              "로드맵에서 현재 예상 기간과 근거를 확인하세요. 이전 예상과 변경 이유는 이력에 남깁니다.",
             )}
           </span>
         </p>

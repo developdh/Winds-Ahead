@@ -31,6 +31,7 @@ export interface ReleaseEvent {
   status: "announced" | "released" | "cancelled";
   scope: { en: string; ko: string };
 }
+export const scheduleReviewedAt = forecastData.reviewedAt;
 export const forecasts = forecastData.revisions as Forecast[];
 export const globalEvents = globalData.events as ReleaseEvent[];
 export const sources = [...research.sources, ...globalData.sources] as {

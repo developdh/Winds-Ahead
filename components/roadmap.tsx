@@ -14,7 +14,8 @@ import {
   Sparkles,
 } from "lucide-react";
 import { Tabs, TabsList, TabsTrigger } from "@/components/ui/tabs";
-import { NativeSelect } from "@/components/ui/native-select";
+import ReleaseTimeline, { ScheduleEvidence, forecastWindow } from "@/components/release-timeline";
+import { regionalRecords } from "@/lib/regional-status";
 import {
   cosmetics,
   findCosmetic,
@@ -28,6 +29,7 @@ import {
   forecasts,
   globalEvents,
   sources,
+  scheduleReviewedAt,
   type Forecast,
 } from "@/lib/roadmap";
 import {
@@ -48,6 +50,9 @@ export default function Roadmap({ l }: { l: Locale }) {
   const [month, setMonth] = useState(
     isMonth(params.get("month")) ? params.get("month")! : currentMonth,
   );
+  const viewFromUrl = () => params.get("view") === "calendar" || (!params.get("view") && params.has("month")) ? "calendar" : "timeline";
+  const [view, setView] = useState(viewFromUrl);
+  const [kind, setKind] = useState(params.get("kind") === "official" ? "official" : params.get("server") !== "cn" && params.get("kind") === "forecast" ? "forecast" : "all");
   const [server, setServer] = useState(
     params.get("server") === "cn" ? "cn" : "global",
   );
@@ -55,33 +60,38 @@ export default function Roadmap({ l }: { l: Locale }) {
     setMonth(
       isMonth(params.get("month")) ? params.get("month")! : currentMonth,
     );
+    setView(params.get("view") === "calendar" || (!params.get("view") && params.has("month")) ? "calendar" : "timeline");
+    setKind(params.get("kind") === "official" ? "official" : params.get("server") !== "cn" && params.get("kind") === "forecast" ? "forecast" : "all");
     setServer(params.get("server") === "cn" ? "cn" : "global");
   }, [params, currentMonth]);
   function update(values: Record<string, string>) {
     const p = new URLSearchParams(location.search);
     Object.entries(values).forEach(([k, v]) => (v ? p.set(k, v) : p.delete(k)));
     history.replaceState(null, "", `${location.pathname}?${p}`);
+    if ("view" in values) setView(values.view);
+    if ("kind" in values) setKind(values.kind || "all");
     if ("month" in values) setMonth(values.month);
     if ("server" in values) setServer(values.server);
   }
   const events = (server === "cn" ? cnEvents : globalEvents).filter((e) =>
-    e.date.startsWith(month),
+    e.date.startsWith(month) && kind !== "forecast",
   ).sort((a, b) => a.date.localeCompare(b.date));
   const latest = latestRevisions(forecasts) as Forecast[];
-  const active = latest.filter((f) => f.state === "active");
+  const releasedIds = regionalRecords.filter(r => r.server === (server === "cn" ? "CN" : "Global") && r.status === "released").map(r => r.cosmeticId);
+  const active = latest.filter(f => f.state === "active" && !forecastDue(f, today) && !forecastEnded(f, today) && !globalEvents.some(e => e.cosmeticId === f.cosmeticId && e.kind === "release" && e.status !== "cancelled") && !regionalRecords.some(r => r.cosmeticId === f.cosmeticId && r.server === "Global" && r.status === "released"));
   const estimates = active.filter(
-    (f) => server === "global" && forecastInMonth(f, month),
+    (f) => server === "global" && kind !== "official" && forecastInMonth(f, month),
   );
   const unscheduled = cosmetics.filter((c) =>
     server === "global"
-      ? !globalEvents.some(
+      ? !releasedIds.includes(c.id) && !globalEvents.some(
           (e) => e.cosmeticId === c.id && e.status !== "cancelled",
         ) &&
         !active.some((f) => f.cosmeticId === c.id && !forecastEnded(f, today))
       : !c.cnRelease.date,
   );
   const versionForecasts = active.filter(
-    (f) => server === "global" && f.precision === "version",
+    (f) => server === "global" && kind !== "official" && f.precision === "version",
   );
   const title = new Intl.DateTimeFormat(l === "ko" ? "ko-KR" : "en-US", {
     month: "long",
@@ -161,13 +171,29 @@ export default function Roadmap({ l }: { l: Locale }) {
           <ArrowUpRight size={17} />
         </Link>
       </div>
-      <div className="roadmap-controls">
-        <Tabs value={server} onValueChange={(v) => update({ server: v })}>
+      <div className="roadmap-controls roadmap-view-controls">
+        <Tabs value={view} onValueChange={v => update({ view: v })}>
+          <TabsList className="server-tabs view-tabs" aria-label={t("Schedule view", "일정 보기")}>
+            <TabsTrigger value="timeline">{t("Roadmap", "로드맵")}</TabsTrigger>
+            <TabsTrigger value="calendar">{t("Calendar", "캘린더")}</TabsTrigger>
+          </TabsList>
+        </Tabs>
+        <Tabs value={server} onValueChange={(v) => update({ server: v, kind: "all" })}>
           <TabsList className="server-tabs" aria-label={t("Server", "서버")}>
             <TabsTrigger value="global">{t("Global", "글로벌")}</TabsTrigger>
             <TabsTrigger value="cn">{t("China", "중국")}</TabsTrigger>
           </TabsList>
         </Tabs>
+      </div>
+      <div className="schedule-filter-line">
+        <Tabs value={kind} onValueChange={v => update({ kind: v })}>
+          <TabsList className="schedule-kind-tabs" aria-label={t("Schedule type", "일정 종류")}>
+            <TabsTrigger value="all">{t("All", "전체")}</TabsTrigger>
+            <TabsTrigger value="official">{t("Official", "확정 일정")}</TabsTrigger>
+            {server === "global" && <TabsTrigger value="forecast">{t("Estimated", "예상 일정")}</TabsTrigger>}
+          </TabsList>
+        </Tabs>
+        <span className="schedule-reviewed">{t("Source review", "출처 확인")} · {scheduleReviewedAt}</span>
       </div>
       <div className="calendar-note">
         <Info size={17} />
@@ -183,6 +209,7 @@ export default function Roadmap({ l }: { l: Locale }) {
               )}
         </p>
       </div>
+      {view === "timeline" ? <ReleaseTimeline l={l} events={server === "cn" ? cnEvents : globalEvents} forecasts={server === "global" ? forecasts : []} today={today} kind={kind} releasedIds={releasedIds}/> : <>
       <section
         className="calendar-panel"
         aria-label={t("Release calendar", "출시 캘린더")}
@@ -231,7 +258,7 @@ export default function Roadmap({ l }: { l: Locale }) {
             </label>
           </div>
         </div>
-        <div
+        {kind !== "forecast" && <div
           className={`calendar-grid ${!events.length ? "empty-calendar" : ""}`}
         >
           <div className="weekdays">
@@ -274,7 +301,7 @@ export default function Roadmap({ l }: { l: Locale }) {
             ))}
           </div>
         </div>
-        <div className="calendar-agenda">
+        }<div className="calendar-agenda">
           {events.map((e) => {
             const c = findCosmetic(e.cosmeticId)!;
             return (
@@ -297,7 +324,7 @@ export default function Roadmap({ l }: { l: Locale }) {
             );
           })}
         </div>
-        {!events.length && (
+        {!events.length && kind !== "forecast" && (
           <div className="calendar-empty">
             <CalendarDays size={24} />
             <p>
@@ -396,6 +423,8 @@ export default function Roadmap({ l }: { l: Locale }) {
             )}
           </section>
         )}
+      {kind === "forecast" && !estimates.length && !versionForecasts.length && <p className="timeline-empty">{t("No current estimates for this month.", "이 달에는 유효한 예상 일정이 없습니다.")}</p>}
+      </>}
       <section className="unscheduled-section">
         <div className="catalog-heading">
           <h2>
@@ -410,15 +439,15 @@ export default function Roadmap({ l }: { l: Locale }) {
         </div>
         {unscheduled.length ? (
           <div className="unscheduled-list">
-            {unscheduled.map((c) => (
+            {unscheduled.slice(0, 6).map((c) => (
               <Link key={c.id} href={`/${l}/cosmetics/${c.id}`}>
-                <img
+                {imagesOf(c)[0] ? <img
                   src={imagesOf(c)[0].thumbnail}
                   alt=""
                   width={58}
                   height={66}
                   loading="lazy"
-                />
+                /> : <span className="unscheduled-no-image" aria-hidden="true">鏡</span>}
                 <div>
                   <strong>{nameOf(c, l)}</strong>
                   <small>{c.nameOriginal}</small>
@@ -436,8 +465,11 @@ export default function Roadmap({ l }: { l: Locale }) {
             )}
           </p>
         )}
+        {unscheduled.length > 6 && <Link className="text-link schedule-archive-link" href={`/${l}`}>
+          {t("Browse all appearances in the archive", "도감에서 모든 외관 보기")}<ArrowUpRight size={16}/>
+        </Link>}
       </section>
-      {forecasts.length > 0 && (
+      {server === "global" && forecasts.length > 0 && (
         <section className="forecast-history">
           <h2>
             <History size={19} />
@@ -449,8 +481,11 @@ export default function Roadmap({ l }: { l: Locale }) {
                 {nameOf(findCosmetic(f.cosmeticId)!, l)} · v{f.revision} ·{" "}
                 {f.createdAt.slice(0, 10)}
               </summary>
+              <p>{forecastWindow(f, l)} · {t("Review by", "재검토일")} {formatDay(f.reviewDue, l)}</p>
               <p>{f.reason[l]}</p>
               <p>{f.rationale[l]}</p>
+              <p>{f.assumptions[l]}</p>
+              <ScheduleEvidence ids={f.sourceIds} l={l}/>
               <small>
                 {f.state === "active"
                   ? t("Active at this revision", "이 변경 시점에 유효")

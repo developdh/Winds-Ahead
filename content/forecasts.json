@@ -1,1 +1,105 @@
-{"schemaVersion":1,"revisions":[]}
+{
+  "schemaVersion": 1,
+  "revisions": [
+    {
+      "id": "forecast-global-lian-tai-he",
+      "revision": 1,
+      "cosmeticId": "lian-tai-he",
+      "state": "active",
+      "precision": "window",
+      "start": "2026-10-01",
+      "end": "2026-11-30",
+      "evidenceLevel": "limited",
+      "rationale": {
+        "en": "CN listed this shop outfit on July 3 (Friday in the June 30 notice). Recent matched shop outfits arrived globally about 3–4 months later. We widen that comparison to October–November because Global order varies.",
+        "ko": "중국은 6월 30일 공지의 금요일인 7월 3일에 이 상점 의상을 출시했습니다. 최근 대응 상점 의상은 약 3~4개월 후 글로벌에 도입됐습니다. 순서가 달라지는 점을 반영해 10~11월로 넓혀 예상합니다."
+      },
+      "assumptions": {
+        "en": "Assumes the Global shop continues to mix recent CN outfits into updates. Three recent outfit matches took 97, 100 and 125 days, but Snowborne Stars took 226 days and seasonal exceptions can arrive together. This small, selected sample is not a probability model. No Global release announcement or guaranteed order was found for this item; it may arrive outside the window or not at all. CN prices are not Global prices.",
+        "ko": "글로벌 상점이 최근 중국 의상을 함께 도입하는 흐름을 이어 간다고 가정했습니다. 최근 의상 3개는 97·100·125일 차이였지만, 명하재설은 226일이 걸렸고 계절 상품은 동시 출시 사례도 있습니다. 선별된 작은 표본이며 확률 모델이 아닙니다. 해당 외관의 글로벌 출시 발표나 순서 보장은 확인하지 못해 기간 밖 출시 또는 미출시도 가능합니다. 중국 가격은 글로벌 가격이 아닙니다."
+      },
+      "reason": {
+        "en": "Initial editorial forecast from the September 13 source review.",
+        "ko": "9월 13일 출처 검토에 따른 최초 운영자 예상."
+      },
+      "sourceIds": [
+        "cn-20260630-outfits",
+        "cn-9dda27dd9f27",
+        "cn-20260415-outfits",
+        "cn-0976cf8180c3",
+        "global-9b0320799ff3",
+        "global-1bf16bd98a9a",
+        "global-7108a47efe11",
+        "cn-7a25604ca392",
+        "global-73654b7bf516"
+      ],
+      "createdAt": "2026-09-13T22:21:10Z",
+      "reviewDue": "2026-09-16"
+    },
+    {
+      "id": "forecast-global-zi-yu-xiang-man",
+      "revision": 1,
+      "cosmeticId": "zi-yu-xiang-man",
+      "state": "active",
+      "precision": "window",
+      "start": "2026-10-01",
+      "end": "2026-12-31",
+      "evidenceLevel": "limited",
+      "rationale": {
+        "en": "CN lists this low-cost shop outfit on July 24. The 97–125-day recent shop comparisons fall around late October–November; a wider October–December window allows for the large variation between releases.",
+        "ko": "중국 공지의 7월 24일 상점 의상입니다. 최근 상점 비교 사례의 97~125일을 대조하면 10월 말~11월이지만, 출시별 편차를 반영해 10~12월로 넓혀 예상합니다."
+      },
+      "assumptions": {
+        "en": "Assumes the Global shop continues to mix recent CN outfits into updates. Three recent outfit matches took 97, 100 and 125 days, but Snowborne Stars took 226 days and seasonal exceptions can arrive together. This small, selected sample is not a probability model. No Global release announcement or guaranteed order was found for this item; it may arrive outside the window or not at all. CN prices are not Global prices.",
+        "ko": "글로벌 상점이 최근 중국 의상을 함께 도입하는 흐름을 이어 간다고 가정했습니다. 최근 의상 3개는 97·100·125일 차이였지만, 명하재설은 226일이 걸렸고 계절 상품은 동시 출시 사례도 있습니다. 선별된 작은 표본이며 확률 모델이 아닙니다. 해당 외관의 글로벌 출시 발표나 순서 보장은 확인하지 못해 기간 밖 출시 또는 미출시도 가능합니다. 중국 가격은 글로벌 가격이 아닙니다."
+      },
+      "reason": {
+        "en": "Initial editorial forecast from the September 13 source review.",
+        "ko": "9월 13일 출처 검토에 따른 최초 운영자 예상."
+      },
+      "sourceIds": [
+        "cn-20260723-outfits",
+        "cn-9dda27dd9f27",
+        "cn-20260415-outfits",
+        "cn-0976cf8180c3",
+        "global-9b0320799ff3",
+        "global-1bf16bd98a9a",
+        "global-7108a47efe11",
+        "cn-7a25604ca392",
+        "global-73654b7bf516"
+      ],
+      "createdAt": "2026-09-13T22:21:10Z",
+      "reviewDue": "2026-09-16"
+    },
+    {
+      "id": "forecast-global-xuan-yingjing-ying-yao-yue",
+      "revision": 1,
+      "cosmeticId": "xuan-yingjing-ying-yao-yue",
+      "state": "active",
+      "precision": "window",
+      "start": "2026-09-16",
+      "end": "2026-10-31",
+      "evidenceLevel": "limited",
+      "rationale": {
+        "en": "CN introduced this fan alongside the Duskgem bow in the same July notice. The bow has a September 13 Global listing. That shared series is a signal to watch the next updates for the fan; September 16–October 31 is an editorial window, not an announced date.",
+        "ko": "중국은 같은 7월 공지에서 이 부채와 현영 시리즈 활을 함께 소개했습니다. 활의 글로벌 출시일은 9월 13일로 확인했습니다. 같은 시리즈라는 점을 바탕으로 후속 업데이트를 지켜보는 9월 16일~10월 31일 예상이며 공식 날짜는 아닙니다."
+      },
+      "assumptions": {
+        "en": "Assumes Global continues the Duskgem series after the bow. CN bundled announcements do not guarantee a Global bundle or sequence. The fan has no verified Global announcement, and may arrive later or never. The next known update is only the start of our watch window, not evidence that the fan releases that day.",
+        "ko": "활에 이어 글로벌에서 현영 시리즈를 도입한다고 가정했습니다. 중국의 같은 공지에 실렸어도 글로벌에서 묶음 또는 순차 출시가 보장되지는 않습니다. 부채는 글로벌 발표를 확인하지 못해 지연 또는 미출시도 가능합니다. 알려진 다음 업데이트일은 관찰 기간의 시작일일 뿐 이 부채의 출시 근거가 아닙니다."
+      },
+      "reason": {
+        "en": "Initial series-based forecast; limited evidence.",
+        "ko": "같은 시리즈를 비교한 최초 예상. 근거는 제한적입니다."
+      },
+      "sourceIds": [
+        "cn-20260630-outfits",
+        "global-73654b7bf516",
+        "global-20260911-chilled-current"
+      ],
+      "createdAt": "2026-09-13T22:21:10Z",
+      "reviewDue": "2026-09-16"
+    }
+  ],
+  "reviewedAt": "2026-09-13"
+}
