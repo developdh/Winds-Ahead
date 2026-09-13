@@ -4,26 +4,33 @@
   "registrar": "Gabia",
   "project_id": "appgprj_6aa6131c82e081918ee27efb4b40fe53",
   "prepared_at": "2026-09-13",
-  "phase": "preparation_only",
-  "gabia_dns_applied": false,
+  "phase": "domain_active_private_site",
+  "gabia_dns_applied": true,
+  "gabia_dns_evidence": "user_screenshot_and_correction_confirmation",
   "public_access_enabled": false,
-  "https_verified": false,
+  "https_verified": true,
+  "routing_verified": true,
+  "anonymous_login_gate_verified": true,
+  "signed_in_application_verified": false,
+  "signed_in_verification_limit": "automatic_approval_review_blocked_authentication",
   "redirect_verified": false,
   "custom_domains": [
     {
       "id": "appgdom_6aa69b1d37c881918c9ec182fc77f304",
       "hostname": "windsahead.com",
-      "status": "pending",
-      "provider_status": "pending",
-      "ssl_status": "pending_validation",
+      "status": "active",
+      "provider_status": "active",
+      "ssl_status": "active",
+      "verified_at": "2026-09-13T14:23:51.227423+00:00",
       "created_at": "2026-09-13T12:46:21.218237+00:00"
     },
     {
       "id": "appgdom_6aa69b3714fc819182e9154e558b3f04",
       "hostname": "www.windsahead.com",
-      "status": "pending",
-      "provider_status": "pending",
-      "ssl_status": "pending_validation",
+      "status": "active",
+      "provider_status": "active",
+      "ssl_status": "active",
+      "verified_at": "2026-09-13T14:23:59.057140+00:00",
       "created_at": "2026-09-13T12:46:47.082291+00:00"
     }
   ],
@@ -71,5 +78,5 @@
       "hostname": "_cf-custom-hostname.www.windsahead.com"
     }
   ],
-  "incomplete_validation_entry_per_hostname": true
+  "incomplete_validation_entry_per_hostname_at_registration": true
 }

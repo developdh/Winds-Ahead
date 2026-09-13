@@ -2,9 +2,9 @@
 
 [한국어](../ko/custom-domain.md)
 
-The user purchased **windsahead.com** through Gabia and requested publication preparation on September 13, 2026. Both `windsahead.com` and `www.windsahead.com` are registered with the existing Winds Ahead Site. Sites returned **pending** for both domains and **pending_validation** for TLS. This is a prepared connection, not a completed public launch.
+The user purchased **windsahead.com** through Gabia and requested publication preparation on September 13, 2026. Both `windsahead.com` and `www.windsahead.com` are registered with the existing Winds Ahead Site. The user entered the seven DNS records and corrected the missing leading underscore in `_openai-site-verification.www`. The latest Sites response confirms **active domain routing and TLS certificates** for both hosts. HTTPS browser visits reach the expected private-site login screen. Domain connection is complete; public launch is not.
 
-The current owner-private application remains at [the existing Site](https://winds-ahead.donghee0815.chatgpt.site), version 6. No Gabia records, name servers, access policy, application source, or existing publication were changed during this preparation.
+The current owner-private application remains at [the existing Site](https://winds-ahead.donghee0815.chatgpt.site), version 6. The user changed Gabia DNS; the agent refreshed the existing domain registrations. No name servers, access policy, application source, or application version were changed by the agent.
 
 ## Gabia DNS entries
 
@@ -27,15 +27,16 @@ The machine-readable response snapshot is [windsahead.com.json](../deployment/wi
 ## Current verification and next actions
 
 - The native Site response confirms the caller is the owner, with one allowed viewer and no allowed groups. Access remains owner-private.
-- Domain registration succeeded for both hosts. DNS ownership and HTTPS activation are not yet verified.
-- Local DNS and Google Public DNS returned SERVFAIL during this check; Google's diagnostic reported refused responses at the delegated name servers. Another resolver timed out. This does **not** establish the cause, registration failure, or a missing purchase. Verify the domain's DNS service/zone in Gabia and repeat after setup.
-- After the records are saved, use the existing native domain-status refresh operation with each recorded domain ID. Apply any additional validation records returned by the service and require active domain/TLS status before claiming the connection works. Do not remove and recreate pending registrations. The refresh response also contained one all-null validation entry per host; it is not an actionable record and was not invented or added to the DNS table.
+- Both hosts now report `active` for domain, provider and TLS status, with no reported error. HTTPS browser visits to `www` and the root `/ko` path reach the private-site login screen. An earlier “Site not found” response during `active_redeploying` no longer appeared after routing became active.
+- The authentication screen confirms the anonymous access boundary; it does not verify application content after login. Automatic approval review blocked the attempted ChatGPT sign-in as outside the domain/HTTPS verification authorization. No alternate authentication method or bypass was attempted. Signed-in application verification remains a public-launch follow-up; access remains owner-private.
+- Before the user entered DNS, local DNS and Google Public DNS returned SERVFAIL, and another resolver timed out. After entry and correction, direct DNS queries from the agent environment timed out or could not connect; this is a limitation of that check, not evidence that the user's records are wrong. Current certificate status comes from Sites, and the entry/correction is supported by the user's screenshot and confirmation.
+- The existing native domain-status refresh operation confirmed both hosts active after DNS entry. Keep the domain registrations and DNS records in place. Initial responses contained one all-null validation entry per host; it was not an actionable record and was not invented or added to the DNS table. After activation the response retains the OpenAI ownership TXT record; this does not instruct removal of the other DNS records.
 - Select `https://windsahead.com` as the intended primary origin. A `www` → root redirect preserving path/query, canonical/hreflang metadata, sitemap and indexability belong to the public-launch change; none is claimed as implemented here. Preserve both English and Korean routes and first-visit language selection.
-- Public access is a separate launch action after DNS/TLS and anonymous access are tested. Domain registration does not change the current private audience.
+- Public access is a separate launch action. DNS/TLS and the anonymous login gate have been checked; signed-in application verification and testing anonymous content after a requested public-access change remain. Domain registration does not change the current private audience.
 - Carry forward the existing launch work: an actual correction/removal contact, a supported public-use basis for the stored reference media, and the remaining device/slow-network checks. The private GitHub issue tracker is not a public reporting channel. See [delivery criteria](delivery-plan.md) and [MVP limits](mvp-status.md).
 
 ## Recovery and scope
 
-Keep the current generated Site address and publication available during domain setup. If connection validation fails, inspect native status and the authoritative DNS answers before changing application code or nameservers. Revert only newly changed DNS records using a saved before-state; this turn made no registrar-side changes. No recurring job, public access, paid plan, mail service or automatic merge was enabled.
+Keep the current generated Site address and publication available during domain setup. If connection validation fails, inspect native status and the authoritative DNS answers before changing application code or nameservers. Revert only newly changed DNS records using a saved before-state; the agent made no registrar-side changes. No recurring job, public access, paid plan, mail service or automatic merge was enabled.
 
-Validation for this milestone consists of successful native domain registration, exact comparison of all seven records with their responses, and matching English/Korean instructions. Application tests and a rebuild are unnecessary because application source and deployed bytes are unchanged.
+Validation covers the seven expected records, matching English/Korean instructions, the user's DNS correction, native domain/TLS activation and browser checks of both hostnames. Application content after login was not verified. Application tests and a rebuild are unnecessary because application source and deployed bytes are unchanged.

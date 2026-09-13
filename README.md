@@ -12,7 +12,7 @@ The archive contains **40 cosmetics, including 29 outfits, across 17 official CN
 
 Source and previews remain private. Media provenance is recorded, but redistribution permission is unknown; public launch still requires a media review and a real public correction channel.
 
-**Domain preparation:** The user purchased `windsahead.com` through Gabia. Root and `www` registrations are pending DNS/TLS validation; [setup instructions](docs/en/custom-domain.md) include the exact records. Public launch has not occurred.
+**Domain preparation:** The user entered the Gabia DNS records for `windsahead.com`. Root and `www` routing and TLS are active; browser checks reach the private-site login screen. [Setup instructions](docs/en/custom-domain.md) record the current checks. Public launch has not occurred.
 
 ## Run locally
 
