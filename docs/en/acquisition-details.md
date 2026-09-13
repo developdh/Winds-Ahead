@@ -4,6 +4,8 @@
 
 Each catalog card shows a short CN price/method summary and acquisition location. The detail page places acquisition information directly below its title/actions, before Global release status. It includes the quantity and currency, original CN currency name, shop/event location, method, conditions, and any verified regular price behind a limited discount.
 
+The compact card layout places the price beside the original name as small, quantity-first text without a multiplication sign or dedicated price row. Acquisition location and Global status share one line; a globe marks Global status, with its full label retained for assistive technology and hover. Long secondary names/locations may ellipsize on narrow cards; currency and quantity stay visible and detail pages retain the complete facts. Draw and paid-pass cards use short method labels rather than implying a fixed price.
+
 The 18-item snapshot contains 13 fixed-price purchases/exchanges, four draw rewards, and one paid battle-pass reward. The quantities are historical CN facts, not current availability or Global prices. No real-money conversion is calculated.
 
 ## Evidence and terminology
@@ -21,3 +23,5 @@ The 18-item snapshot contains 13 fixed-price purchases/exchanges, four draw rewa
 Type checking, content validation, the 18-test domain/media suite and the production build pass. In-app Chromium checks covered KO fixed purchases, effect exchanges, discounted exchanges and draw conditions, plus EN paid-pass unknowns. Catalog geometry has no horizontal overflow at 320, 360, 390, 768, 1024 and 1440 CSS px. Desktop KO and narrow mobile KO/EN detail layouts were visually inspected. No warning/error console entries were observed. The catalog and unplayed effect detail contain no video element; this change adds no media requests. Physical-device and slow-network certification are not implied.
 
 Published as version 3 to the [existing owner-private Site](https://winds-ahead.donghee0815.chatgpt.site) at 11:28:08 UTC on September 13, 2026. [PR #7](https://github.com/developdh/Winds-Ahead/pull/7) retains the change; its application commit passed GitHub CI. Site source commit: `7e52d70d686ab1f16b5892c96f1d2e5e8a02c67d`.
+
+The subsequent card compaction passes the same 18 tests, type/content checks and production build. In-app Chromium inspection covered KO at 390px and EN at 320px/1440px, locale switching and card-to-detail navigation. At 320, 360, 390, 768, 1024 and 1440 CSS px, every EN status row remained one line and every price fit without clipping or page overflow. No console warnings/errors were observed. No media, requests, dependencies or controls were added.

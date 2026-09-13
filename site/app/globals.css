@@ -5329,8 +5329,15 @@ body {
 .archive-more > button { min-height: 44px; padding: 8px 20px; }
 
 /* Purchase facts stay readable without adding another control surface. */
-.card-acquisition { display: flex; flex-direction: column; gap: 3px; margin-top: 12px; font-size: 14px; color: #d6d8dd; line-height: 1.5; }
-.card-acquisition small { color: #979ba4; font-size: 12px; }
+.card-subline { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; margin-top: 5px; }
+.card-subline .original-name { display: block; min-width: 0; margin: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; line-height: 1.6; }
+.card-price { display: inline-flex; align-items: baseline; flex-shrink: 0; gap: 5px; color: #a7acb4; font-size: 12px; line-height: 1.6; white-space: nowrap; }
+.card-price-amount { color: #d6d9df; font-size: 14px; font-variant-numeric: tabular-nums; }
+.card-meta { display: flex; align-items: center; gap: 7px; margin-top: 7px; color: #9298a2; font-size: 12px; line-height: 1.6; }
+.card-location { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.card-meta-separator { color: #626771; }
+.card-global { display: inline-flex; align-items: center; gap: 5px; flex-shrink: 0; white-space: nowrap; }
+.card-global svg { opacity: .75; flex-shrink: 0; }
 .acquisition-info { margin-top: 30px; padding: 26px 0; border-top: 1px solid #ffffff10; }
 .acquisition-heading { display: flex; justify-content: space-between; align-items: center; gap: 16px; }
 .acquisition-heading h2 { font-family: var(--font-sans); font-size: 14px; font-weight: 400; margin: 0; }
@@ -5348,8 +5355,11 @@ body {
 .acquisition-info .acquisition-conditions { margin: 20px 0 0; font-size: 14px; line-height: 1.85; color: #b5bac2; }
 .acquisition-info .acquisition-scope { margin: 14px 0 0; font-size: 12px; line-height: 1.8; color: #8e949e; }
 @media (max-width: 640px) {
-  .card-acquisition { margin-top: 8px; font-size: 13px; }
-  .card-acquisition small { font-size: 11px; }
+  .card-subline { gap: 8px; margin-top: 4px; }
+  .card-price { gap: 4px; }
+  .card-price-amount { font-size: 13px; }
+  .card-meta { gap: 5px; margin-top: 5px; }
+  .card-global { gap: 4px; }
   .acquisition-info { margin-top: 24px; padding: 22px 0 16px; }
   .acquisition-price { gap: 10px; margin: 15px 0 18px; }
   .acquisition-price > span { font-size: 18px; }
