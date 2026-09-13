@@ -49,3 +49,16 @@ The corrected production build played from 0.173s through 22.446s to `ended=true
 A second run at a 390px viewport also reached 29.034s with `ended=true`. Scrolling the player fully out of view removed it and restored the play trigger; no console warnings/errors were observed. [PR #9](https://github.com/developdh/Winds-Ahead/pull/9) records the fix and its application commit passed GitHub CI. These are in-app viewport checks, not physical iOS/Android coverage.
 
 Published as version 5 at 11:50:32 UTC on September 13, 2026 with owner-only access unchanged.
+
+## Audible playback investigation
+
+The owner reported that enabling sound still paused the clip. Muted startup is a quiet-preview behavior, **not a root-cause fix** for this report. Follow-up tests on September 13 isolated a Bluetooth remote-control interruption on the test Mac:
+
+- The unchanged 29.034-second MP4 paused in both the in-app browser and standalone Google Chrome, on a local page without React, offscreen cleanup, or site code. Media remained buffered and ready; the direct-click `play()` promise resolved without a playback error.
+- Re-encoding the audio to 44.1 kHz AAC, converting to mono, or testing the actual audio as PCM WAV and Opus did not remove the interruption. A four-second excerpt of the actual audio completed unmuted; a separate 30-second generated tone received the same pause. These comparisons do not establish a general browser duration threshold.
+- A temporary diagnostic page registered a Media Session pause handler which logged the action and then honored it. It received `MEDIA SESSION PAUSE ACTION`; the page's JavaScript pause instrumentation otherwise showed no caller initiating the interruption.
+- At **12:03:35.105 UTC**, macOS `mediaremoted` recorded a `Pause` command from **`com.apple.bluetoothd`** directed to Google Chrome. At 12:03:35.219 UTC the playback state changed from Playing to Paused. Equivalent Bluetooth commands targeted the in-app browser in earlier reproductions. At 12:04:00.058 UTC, the independent long tone received another Bluetooth pause command.
+
+The immediate cause is established: Bluetooth media control sends a pause after audible playback starts. Which headset behavior produces that command (for example, wearing detection) remains unverified. A connected Bluetooth headset was present. Disconnecting that headset for an audible replay is the next isolation step and requires the owner's approval because it changes a device connection outside this project.
+
+No forced-resume loop or handler that ignores system pause commands was added to the site. Such a change would also defeat intentional headset controls. No diagnostic media derivatives, raw system logs, device addresses, or identifiers were added to Git. This investigation alone does not certify audible completion or require a new site deployment.
