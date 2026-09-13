@@ -30,7 +30,7 @@ Search and filter by appearance category or release server, then sort by China o
 
 Upcoming appearances and release forecasts
 
-Officially announced releases and editorial forecasts have distinct labels. Explore countdowns in the catalog, a release roadmap and a monthly calendar. Forecasts are not official dates and may change after later announcements. Older announcements whose actual release has not been verified are also labeled separately.
+Officially announced releases and AI-based editorial forecasts have distinct labels. Forecast analysis currently uses GPT-6 Astra Extra High. Explore countdowns in the catalog, a release roadmap and a monthly calendar. Forecasts are not official dates and may change after later announcements. Older announcements whose actual release has not been verified are also labeled separately.
 
 The values behind Winds Ahead
 
