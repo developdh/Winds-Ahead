@@ -20,6 +20,38 @@
         "en": "Preview images; actual in-game appearance may differ.",
         "ko": "개발 중 미리보기 이미지이며 실제 게임 내 모습과 다를 수 있습니다."
       }
+    },
+    {
+      "id": "cn-20260909-new-appearance",
+      "url": "https://www.yysls.cn/news/official/20260911/37780_1313690.html",
+      "titleOriginal": "倾杯酬云水，揽风濯闲身丨全新和鸣套装上线",
+      "publisher": "燕云十六声 / NetEase",
+      "server": "CN",
+      "displayedPublicationDate": "2026-09-09",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "urlPathDate": "2026-09-11",
+      "dateDiscrepancyNote": "Displayed publication date differs from the URL directory. Item release dates use the announcement text.",
+      "sourceImageCaveat": {
+        "en": "Official preview; final in-game appearance may differ.",
+        "ko": "공식 미리보기이며 실제 게임 내 모습과 다를 수 있습니다."
+      }
+    },
+    {
+      "id": "cn-20260903-new-appearance",
+      "url": "https://www.yysls.cn/news/official/20260904/37780_1313151.html",
+      "titleOriginal": "新套装〖如是愿〗上线，金鹅严选铺开张！",
+      "publisher": "燕云十六声 / NetEase",
+      "server": "CN",
+      "displayedPublicationDate": "2026-09-03",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "urlPathDate": "2026-09-04",
+      "dateDiscrepancyNote": "Displayed publication date differs from the URL directory. Item release dates use the announcement text.",
+      "sourceImageCaveat": {
+        "en": "Official preview; final in-game appearance may differ.",
+        "ko": "공식 미리보기이며 실제 게임 내 모습과 다를 수 있습니다."
+      }
     }
   ],
   "mediaRights": {
@@ -37,7 +69,8 @@
       }
     ],
     "externalLinkingNote": "Source URLs identify publicly accessible originals; access, attribution and embedding are not equivalent to a verified redistribution license.",
-    "downloadedOrRehosted": false
+    "downloadedOrRehosted": true,
+    "localScope": "Optimized owner-private reference copies. Permission remains unknown."
   },
   "cosmetics": [
     {
@@ -52,7 +85,8 @@
         "date": "2025-09-26",
         "precision": "day",
         "timezone": null,
-        "basis": "explicit after version update"
+        "basis": "explicit after version update",
+        "contextual": false
       },
       "acquisition": {
         "kind": "limited_draw",
@@ -98,7 +132,8 @@
         "date": "2025-09-26",
         "precision": "day",
         "timezone": null,
-        "basis": "explicit event launch"
+        "basis": "explicit event launch",
+        "contextual": false
       },
       "acquisition": {
         "kind": "limited_draw",
@@ -144,7 +179,8 @@
         "date": "2025-09-26",
         "precision": "day",
         "timezone": null,
-        "basis": "explicit introduction list"
+        "basis": "explicit introduction list",
+        "contextual": false
       },
       "acquisition": {
         "kind": "seasonal_draw",
@@ -185,7 +221,8 @@
         "date": null,
         "precision": "unknown",
         "timezone": null,
-        "basis": "Season announced in the September 25 article; no exact item-specific date in its section."
+        "basis": "Season announced in the September 25 article; no exact item-specific date in its section.",
+        "contextual": false
       },
       "acquisition": {
         "kind": "seasonal_draw",
@@ -226,7 +263,8 @@
         "date": "2025-09-26",
         "precision": "day",
         "timezone": null,
-        "basis": "explicit introduction list; section says after this week's update"
+        "basis": "explicit introduction list; section says after this week's update",
+        "contextual": false
       },
       "acquisition": {
         "kind": "shop",
@@ -273,7 +311,8 @@
         "date": null,
         "precision": "unknown",
         "timezone": null,
-        "basis": "Article says coming soon, without an item-specific date."
+        "basis": "Article says coming soon, without an item-specific date.",
+        "contextual": false
       },
       "acquisition": {
         "kind": "exchange_shop",
@@ -315,7 +354,8 @@
         "date": "2025-09-26",
         "precision": "day",
         "timezone": null,
-        "basis": "explicit introduction list; section says after September 26"
+        "basis": "explicit introduction list; section says after September 26",
+        "contextual": false
       },
       "acquisition": {
         "kind": "battle_pass",
@@ -355,7 +395,8 @@
         "date": "2025-09-26",
         "precision": "day",
         "timezone": null,
-        "basis": "explicit date in weapon section"
+        "basis": "explicit date in weapon section",
+        "contextual": false
       },
       "acquisition": {
         "kind": "exchange_shop",
@@ -395,6 +436,488 @@
         }
       ],
       "officialVideos": []
+    },
+    {
+      "id": "zui-hun-zhuo-yu",
+      "nameOriginal": "醉魂濯玉",
+      "romanization": "Zui Hun Zhuo Yu",
+      "category": "outfit",
+      "sourceId": "cn-20260909-new-appearance",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": "2026-09-10",
+        "precision": "day",
+        "timezone": null,
+        "basis": "Contextual day: displayed September 9 announcement says tomorrow update and each item says after this week’s update. The URL directory date is not used.",
+        "contextual": true
+      },
+      "acquisition": {
+        "kind": "exchange",
+        "currencyOriginal": "八音窍",
+        "amount": 2,
+        "en": "和鸣商店 · 87-day listing. Separate top and bottom; accessories and animated portrait included.",
+        "ko": "和鸣商店 · 87일 한정. 상하의 분리, 장신구와 동적 초상화 포함."
+      },
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260911/ec48414e-fe8b-4236-8df7-d008881dfacf.jpg",
+          "width": 1920,
+          "height": 1080,
+          "bytes": 1688018,
+          "kind": "official_promotional_game_image",
+          "visuallyInspected": true,
+          "description": "Green silk and silver robes, embroidered with landscapes.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/zui-hun-zhuo-yu-0-full.webp"
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260911/d481a8b5-85c9-4a4b-8068-83985a29cc66.jpg",
+          "width": 1920,
+          "height": 1080,
+          "bytes": 1622587,
+          "kind": "official_promotional_game_image",
+          "visuallyInspected": true,
+          "description": "Green silk and silver robes, embroidered with landscapes.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/zui-hun-zhuo-yu-1-full.webp"
+        }
+      ],
+      "officialVideos": []
+    },
+    {
+      "id": "bu-qiu-ting",
+      "nameOriginal": "步秋庭",
+      "romanization": "Bu Qiu Ting",
+      "category": "outfit",
+      "sourceId": "cn-20260909-new-appearance",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": "2026-09-10",
+        "precision": "day",
+        "timezone": null,
+        "basis": "Contextual day: displayed September 9 announcement says tomorrow update and each item says after this week’s update. The URL directory date is not used.",
+        "contextual": true
+      },
+      "acquisition": {
+        "kind": "shop",
+        "currencyOriginal": "长鸣珠",
+        "amount": 1280,
+        "en": "Shop · Separate top and bottom; dyeable.",
+        "ko": "상점 · 상하의 분리 및 염색 지원."
+      },
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260911/780ac9c2-7a1e-4abd-8b29-81aa424815e7.png",
+          "width": 1920,
+          "height": 1080,
+          "bytes": 1605295,
+          "kind": "official_promotional_game_image",
+          "visuallyInspected": true,
+          "description": "Gold and cream robes amid autumn foliage.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/bu-qiu-ting-0-full.webp"
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260911/1b13076a-66ff-4af3-84a2-fa33040b6703.jpg",
+          "width": 1920,
+          "height": 1080,
+          "bytes": 1546135,
+          "kind": "official_promotional_game_image",
+          "visuallyInspected": true,
+          "description": "Gold and cream robes amid autumn foliage.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/bu-qiu-ting-1-full.webp"
+        }
+      ],
+      "officialVideos": []
+    },
+    {
+      "id": "xue-lingdang",
+      "nameOriginal": "血铃铛",
+      "romanization": "Xue Lingdang",
+      "category": "weapon_skin",
+      "sourceId": "cn-20260909-new-appearance",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": "2026-09-10",
+        "precision": "day",
+        "timezone": null,
+        "basis": "Contextual day: displayed September 9 announcement says tomorrow update and each item says after this week’s update. The URL directory date is not used.",
+        "contextual": true
+      },
+      "acquisition": {
+        "kind": "shop",
+        "currencyOriginal": "长鸣珠",
+        "amount": 680,
+        "en": "Shop · Hengdao appearance.",
+        "ko": "상점 · 횡도 외관."
+      },
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260911/0f1f8d59-3160-4ccb-b239-0efe9d7a699b.jpg",
+          "width": 2880,
+          "height": 5120,
+          "bytes": 6673751,
+          "kind": "official_promotional_game_image",
+          "visuallyInspected": true,
+          "description": "A crimson blade with dark metal fittings.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/xue-lingdang-0-full.webp"
+        }
+      ],
+      "officialVideos": []
+    },
+    {
+      "id": "yi-he-wei-gui",
+      "nameOriginal": "以荷为贵",
+      "romanization": "Yi He Wei Gui",
+      "category": "weapon_skin",
+      "sourceId": "cn-20260909-new-appearance",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": "2026-09-10",
+        "precision": "day",
+        "timezone": null,
+        "basis": "Contextual day: displayed September 9 announcement says tomorrow update and each item says after this week’s update. The URL directory date is not used.",
+        "contextual": true
+      },
+      "acquisition": {
+        "kind": "shop",
+        "currencyOriginal": "长鸣珠",
+        "amount": 60,
+        "en": "Shop · Modao appearance.",
+        "ko": "상점 · 맥도 외관."
+      },
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260911/c8b6192c-bd15-49a1-a43c-b0045d23e943.jpg",
+          "width": 2880,
+          "height": 5120,
+          "bytes": 6294346,
+          "kind": "official_promotional_game_image",
+          "visuallyInspected": true,
+          "description": "An oversized pink lotus bud forms the blade.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/yi-he-wei-gui-0-full.webp"
+        }
+      ],
+      "officialVideos": []
+    },
+    {
+      "id": "ru-shi-yuan",
+      "nameOriginal": "如是愿",
+      "romanization": "Ru Shi Yuan",
+      "category": "outfit",
+      "sourceId": "cn-20260903-new-appearance",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": "2026-09-04",
+        "precision": "day",
+        "timezone": null,
+        "basis": "Explicit item-specific September 4 listing date in the September 3 announcement.",
+        "contextual": false
+      },
+      "acquisition": {
+        "kind": "shop",
+        "currencyOriginal": "长鸣珠",
+        "amount": 2580,
+        "en": "Shop · Separate top and bottom; dyeable, with accessories and portrait.",
+        "ko": "상점 · 상하의 분리 및 염색, 장신구와 초상화 포함."
+      },
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260904/d15d7c5a-fbb3-4579-a55b-fae0a5e56d41.jpg",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 2045584,
+          "kind": "official_promotional_game_image",
+          "visuallyInspected": true,
+          "description": "Blue and gold, lotus ornaments and translucent silk.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/ru-shi-yuan-0-full.webp"
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260904/04fa1d35-c036-440a-b7da-6284c9dba981.jpg",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 1645355,
+          "kind": "official_promotional_game_image",
+          "visuallyInspected": true,
+          "description": "Blue and gold, lotus ornaments and translucent silk.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/ru-shi-yuan-1-full.webp"
+        }
+      ],
+      "officialVideos": []
+    },
+    {
+      "id": "ying-kong",
+      "nameOriginal": "萦空",
+      "romanization": "Ying Kong",
+      "category": "hair",
+      "sourceId": "cn-20260903-new-appearance",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": "2026-09-04",
+        "precision": "day",
+        "timezone": null,
+        "basis": "Explicit item-specific September 4 listing date in the September 3 announcement.",
+        "contextual": false
+      },
+      "acquisition": {
+        "kind": "exchange",
+        "currencyOriginal": "八音窍",
+        "amount": 1,
+        "en": "和鸣商店 · 90-day listing; dyeable, animated portrait included.",
+        "ko": "和鸣商店 · 90일 한정. 염색 및 동적 초상화 포함."
+      },
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260904/77ebbafa-fa99-49b0-932c-eb3a54b8e1a0.jpg",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 2295500,
+          "kind": "official_promotional_game_image",
+          "visuallyInspected": true,
+          "description": "White hair crowned with delicate gold ornaments.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/ying-kong-0-full.webp"
+        }
+      ],
+      "officialVideos": []
+    },
+    {
+      "id": "xuanying-lianchen-buran",
+      "nameOriginal": "玄瑛·莲尘不染",
+      "romanization": "Xuanying · Lianchen Buran",
+      "category": "weapon_skin",
+      "sourceId": "cn-20260903-new-appearance",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": "2026-09-04",
+        "precision": "day",
+        "timezone": null,
+        "basis": "Explicit item-specific September 4 listing date in the September 3 announcement.",
+        "contextual": false
+      },
+      "acquisition": {
+        "kind": "exchange",
+        "currencyOriginal": "音玉",
+        "amount": 2,
+        "en": "和鸣-闻音商店 · Discounted from 3 音玉; listed until Nov 2, 05:00 (time zone unstated).",
+        "ko": "和鸣-闻音商店 · 정가 3 音玉에서 할인. 11월 2일 05:00까지, 시간대 미명시."
+      },
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260904/dcce07df-8c53-4d6a-a67d-3c0ec54cbc85.png",
+          "width": 5120,
+          "height": 2880,
+          "bytes": 18736891,
+          "kind": "official_promotional_game_image",
+          "visuallyInspected": true,
+          "description": "A luminous blue blade with a starry finish.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/xuanying-lianchen-buran-0-full.webp"
+        }
+      ],
+      "officialVideos": [],
+      "cnEnd": {
+        "localDateTime": "2026-11-02T05:00:00",
+        "timezone": null,
+        "precision": "second"
+      }
+    },
+    {
+      "id": "wanlai-zhan-han-lin",
+      "nameOriginal": "万籁·斩寒鳞",
+      "romanization": "Wanlai · Zhan Han Lin",
+      "category": "weapon_skin",
+      "sourceId": "cn-20260903-new-appearance",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": "2026-09-04",
+        "precision": "day",
+        "timezone": null,
+        "basis": "Explicit item-specific September 4 listing date in the September 3 announcement.",
+        "contextual": false
+      },
+      "acquisition": {
+        "kind": "shop",
+        "currencyOriginal": "长鸣珠",
+        "amount": 1280,
+        "en": "Shop · Dual-blade appearance.",
+        "ko": "상점 · 쌍도 외관."
+      },
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260904/a628c814-b1ca-42ad-907e-d13bca201a24.png",
+          "width": 2880,
+          "height": 5120,
+          "bytes": 18279036,
+          "kind": "official_promotional_game_image",
+          "visuallyInspected": true,
+          "description": "Crossed blades in icy blue and dark silver.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wanlai-zhan-han-lin-0-full.webp"
+        }
+      ],
+      "officialVideos": []
+    },
+    {
+      "id": "wanlai-cui-mo-yu",
+      "nameOriginal": "万籁·摧墨羽",
+      "romanization": "Wanlai · Cui Mo Yu",
+      "category": "weapon_skin",
+      "sourceId": "cn-20260903-new-appearance",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": "2026-09-04",
+        "precision": "day",
+        "timezone": null,
+        "basis": "Explicit item-specific September 4 listing date in the September 3 announcement.",
+        "contextual": false
+      },
+      "acquisition": {
+        "kind": "shop",
+        "currencyOriginal": "长鸣珠",
+        "amount": 1280,
+        "en": "Shop · Gauntlet appearance.",
+        "ko": "상점 · 수갑 외관."
+      },
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260904/82d9775e-2f69-40ce-9822-7b4a27e1c549.png",
+          "width": 5120,
+          "height": 2880,
+          "bytes": 16226006,
+          "kind": "official_promotional_game_image",
+          "visuallyInspected": true,
+          "description": "Dark feathered gauntlets with crystalline blue details.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wanlai-cui-mo-yu-0-full.webp"
+        }
+      ],
+      "officialVideos": []
+    },
+    {
+      "id": "chi-yan-qi-hua-yan-yang",
+      "nameOriginal": "赤焰其华·炎炀",
+      "romanization": "Chi Yan Qi Hua · Yan Yang",
+      "category": "effect",
+      "sourceId": "cn-20260909-new-appearance",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": "2026-09-10",
+        "precision": "day",
+        "timezone": null,
+        "basis": "Contextual day: displayed September 9 announcement says tomorrow update and each item says after this week’s update. The URL directory date is not used.",
+        "contextual": true
+      },
+      "acquisition": {
+        "kind": "exchange",
+        "currencyOriginal": "八音窍",
+        "amount": 1,
+        "en": "和鸣商店 · 九重春色 martial-art effect; includes 九重·灼魂 pose.",
+        "ko": "和鸣商店 · 九重春色 무술 이펙트. 九重·灼魂 자세 포함."
+      },
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "images": [
+        {
+          "url": "https://yysls.fp.ps.netease.com/file/6aa3fcf954969664de867b8bhoIMAFZy07.mp4",
+          "width": 2400,
+          "height": 1080,
+          "bytes": 102489850,
+          "kind": "official_video_frame",
+          "visuallyInspected": true,
+          "description": "Frame at 22 seconds: a flame above the umbrella with red sparks.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/chi-yan-qi-hua-yan-yang-0-full.webp",
+          "frameAtSeconds": 22
+        }
+      ],
+      "officialVideos": [
+        {
+          "provider": "netease",
+          "id": "6aa3fcf954969664de867b8bhoIMAFZy07",
+          "watchUrl": "https://yysls.fp.ps.netease.com/file/6aa3fcf954969664de867b8bhoIMAFZy07.mp4",
+          "title": {
+            "en": "九重春色 · Official effect preview",
+            "ko": "九重春色 · 공식 이펙트 미리보기"
+          },
+          "sourceId": "cn-20260909-new-appearance",
+          "playback": {
+            "src": "/media/videos/chi-yan-qi-hua-yan-yang.mp4",
+            "poster": "/media/chi-yan-qi-hua-yan-yang-0-full.webp",
+            "bytes": 4182232,
+            "width": 1280,
+            "height": 576,
+            "durationSeconds": 29.034
+          },
+          "originalBytes": 102489850,
+          "visuallyInspected": true,
+          "inspectionNote": "Sampled frames across the official 29-second preview; source HTML places this clip under 赤焰其华·炎炀.",
+          "reusePermission": "unknown"
+        }
+      ]
     }
   ],
   "contextualOfficialVideos": [

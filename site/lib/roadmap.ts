@@ -1,6 +1,7 @@
 import forecastData from "@/content/forecasts.json";
 import globalData from "@/content/global-events.json";
-import { cosmetics, source } from "@/lib/catalog";
+import { cosmetics } from "@/lib/catalog";
+import research from "@/content/research.json";
 export interface Forecast {
   id: string;
   revision: number;
@@ -32,7 +33,7 @@ export interface ReleaseEvent {
 }
 export const forecasts = forecastData.revisions as Forecast[];
 export const globalEvents = globalData.events as ReleaseEvent[];
-export const sources = [source, ...globalData.sources] as {
+export const sources = [...research.sources, ...globalData.sources] as {
   id: string;
   url: string;
   titleOriginal: string;
@@ -51,7 +52,7 @@ export const cnEvents: ReleaseEvent[] = cosmetics
     sourceIds: [c.sourceId],
     status: "released",
     scope: {
-      en: "CN server · date only; time zone not stated",
-      ko: "중국 서버 · 날짜 단위. 시간대 미표기",
+      en: c.cnRelease.contextual ? "CN server · day derived from update context" : "CN server · date only; time zone not stated",
+      ko: c.cnRelease.contextual ? "중국 서버 · 업데이트 문맥으로 확인한 날짜" : "중국 서버 · 날짜 단위. 시간대 미표기",
     },
   }));

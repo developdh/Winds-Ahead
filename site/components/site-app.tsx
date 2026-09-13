@@ -206,6 +206,7 @@ export default function SiteApp({
             fetchPriority={i === 0 ? "high" : "auto"}
             decoding="async"
           />
+          {c.category === "effect" && <span className="effect-card-label"><Play size={13} />{t("Effect preview", "이펙트 미리보기")}</span>}
         </Link>
         <div className="card-copy">
           <div className="card-topline">
@@ -362,6 +363,7 @@ function Catalog({
   const t = (en: string, ko: string) => (l === "ko" ? ko : en);
   const params = useSearchParams();
   const [query, setQuery] = useState(params.get("q") ?? "");
+  const [visibleCount, setVisibleCount] = useState(24);
   const initial = params.get("category") ?? "all";
   const [category, setCategory] = useState(
     initial in categoryNames ? initial : "all",
@@ -371,6 +373,7 @@ function Catalog({
     const c = params.get("category") ?? "all";
     setCategory(c in categoryNames ? c : "all");
   }, [params]);
+  useEffect(() => { setVisibleCount(24); }, [query, category, view]);
   function update(q: string, c: string) {
     setQuery(q);
     setCategory(c);
@@ -479,9 +482,12 @@ function Catalog({
           {t("Loading your watchlist…", "관심 목록을 불러오고 있습니다…")}
         </div>
       ) : items.length ? (
-        <div className="cosmetic-grid" key={category}>
-          {items.map(card)}
-        </div>
+        <>
+          <div className="cosmetic-grid" key={category}>
+            {items.slice(0, visibleCount).map(card)}
+          </div>
+          {items.length > visibleCount && <div className="archive-more"><button className="text-link" onClick={() => setVisibleCount(n => n + 24)}>{t("Show more", "더 보기")} · {visibleCount} / {items.length}</button></div>}
+        </>
       ) : (
         <div className="empty-state">
           <Bookmark size={30} />
@@ -558,7 +564,7 @@ function Detail({
       </Link>
       <div className="detail-grid">
         <section className="detail-visual">
-          <Dialog open={gallery} onOpenChange={setGallery}>
+          {c.category === "effect" && c.officialVideos.length > 0 ? <CosmeticVideos key={c.id} c={c} l={l} hero /> : <Dialog open={gallery} onOpenChange={setGallery}>
             <DialogTrigger asChild>
               <button
                 className="detail-image"
@@ -626,7 +632,7 @@ function Detail({
                 <ArrowUpRight size={16} />
               </a>
             </DialogContent>
-          </Dialog>
+          </Dialog>}
           {images.length > 1 && (
             <div
               className="image-options"
@@ -695,7 +701,7 @@ function Detail({
                 <dd>
                   {formatDay(c.cnRelease.date, l)}{" "}
                   <span className="small-muted">
-                    {c.cnRelease.date ? t("Date only", "날짜 단위") : ""}
+                    {c.cnRelease.contextual ? t("From update context", "업데이트 문맥 기준") : c.cnRelease.date ? t("Date only", "날짜 단위") : ""}
                   </span>
                 </dd>
               </div>
@@ -758,19 +764,20 @@ function Detail({
           </p>
           <small>
             {t(
-              "The page displays September 25; its URL contains September 26. We retain the displayed publication date.",
-              "공지 화면은 9월 25일, 주소는 9월 26일로 다릅니다. 화면에 표시된 게시일을 기록했습니다.",
+              "We retain the publication date displayed on the page, which may differ from the URL directory date. Release dates use the announcement text; no time zone is assumed.",
+              "주소의 날짜와 다를 수 있는 실제 공지 화면의 게시일을 기록했습니다. 출시일은 공지 본문을 기준으로 하며 시간대를 추정하지 않습니다.",
             )}
           </small>
+          {c.cnRelease.contextual && <p>{t("The September 9 announcement says these items arrive after tomorrow’s update. September 10 is derived from that wording; an exact hour was not stated.", "9월 9일 공지의 ‘내일 업데이트’와 각 항목의 업데이트 후 출시 안내를 연결해 9월 10일로 기록했습니다. 정확한 시각은 명시되지 않았습니다.")}</p>}
         </details>
-        {c.officialVideos.length > 0 && <CosmeticVideos c={c} l={l} />}
+        {c.category !== "effect" && c.officialVideos.length > 0 && <CosmeticVideos key={c.id} c={c} l={l} />}
       </div>
       <div className="catalog-heading">
         <h2>{t("From the same collection", "같은 공지에서 만나는 외관")}</h2>
       </div>
       <div className="cosmetic-grid related-grid">
         {cosmetics
-          .filter((x) => x.id !== c.id && x.category === c.category)
+          .filter((x) => x.id !== c.id && x.sourceId === c.sourceId)
           .slice(0, 3)
           .map(card)}
       </div>

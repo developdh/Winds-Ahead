@@ -54,5 +54,75 @@
       "en": "A luminous blade with blue-white and fiery alternate forms.",
       "ko": "푸른 광채와 불꽃빛 변형을 지닌 도검 외형."
     }
+  },
+  "zui-hun-zhuo-yu": {
+    "koName": "취혼탁옥",
+    "description": {
+      "en": "Green silk and silver robes, embroidered with landscapes.",
+      "ko": "산수 자수를 놓은 은빛 겉옷과 녹색 비단."
+    }
+  },
+  "bu-qiu-ting": {
+    "koName": "보추정",
+    "description": {
+      "en": "Gold and cream robes amid autumn foliage.",
+      "ko": "가을빛 속 금색과 크림색의 우아한 옷차림."
+    }
+  },
+  "xue-lingdang": {
+    "koName": "혈령당",
+    "description": {
+      "en": "A crimson blade with dark metal fittings.",
+      "ko": "어두운 금속 장식과 붉은 칼날."
+    }
+  },
+  "yi-he-wei-gui": {
+    "koName": "이하위귀",
+    "description": {
+      "en": "An oversized pink lotus bud forms the blade.",
+      "ko": "커다란 분홍 연꽃 봉오리를 본뜬 무기."
+    }
+  },
+  "ru-shi-yuan": {
+    "koName": "여시원",
+    "description": {
+      "en": "Blue and gold, lotus ornaments and translucent silk.",
+      "ko": "청금빛 연꽃 장식과 투명한 비단."
+    }
+  },
+  "ying-kong": {
+    "koName": "영공",
+    "description": {
+      "en": "White hair crowned with delicate gold ornaments.",
+      "ko": "섬세한 금빛 관을 얹은 백색 머리."
+    }
+  },
+  "xuanying-lianchen-buran": {
+    "koName": "현영 · 연진불염",
+    "description": {
+      "en": "A luminous blue blade with a starry finish.",
+      "ko": "별빛을 담은 푸른 칼날."
+    }
+  },
+  "wanlai-zhan-han-lin": {
+    "koName": "만뢰 · 참한린",
+    "description": {
+      "en": "Crossed blades in icy blue and dark silver.",
+      "ko": "얼음빛과 검은 은색으로 교차하는 쌍도."
+    }
+  },
+  "wanlai-cui-mo-yu": {
+    "koName": "만뢰 · 최묵우",
+    "description": {
+      "en": "Dark feathered gauntlets with crystalline blue details.",
+      "ko": "검은 깃털과 푸른 결정 장식의 수갑."
+    }
+  },
+  "chi-yan-qi-hua-yan-yang": {
+    "koName": "적염기화 · 염양",
+    "description": {
+      "en": "Fiery red trails and sparks around an umbrella.",
+      "ko": "우산을 감싸는 붉은 불꽃과 잔광."
+    }
   }
 }

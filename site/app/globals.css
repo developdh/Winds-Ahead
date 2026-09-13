@@ -3,14 +3,14 @@
 @import "../vendor/shadcn-tailwind-4.13.0.css";
 @font-face {
   font-family: WindsUI;
-  src: url("/fonts/winds-ui.woff2?v=f69774dfdb9c") format("woff2");
+  src: url("/fonts/winds-ui.woff2?v=cec619fae36c") format("woff2");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: WindsHeading;
-  src: url("/fonts/winds-heading.woff2?v=1c934faab74a") format("woff2");
+  src: url("/fonts/winds-heading.woff2?v=cd9037905960") format("woff2");
   font-weight: 500;
   font-style: normal;
   font-display: swap;
@@ -5254,3 +5254,76 @@ body {
   min-width: 28px;
   min-height: 44px;
 }
+
+/* Effects stay still until the visitor explicitly starts playback. */
+.effect-card-label {
+  position: absolute;
+  bottom: 14px;
+  left: 14px;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 10px;
+  border-radius: 30px;
+  color: #f5f5f7;
+  background: #15171cd9;
+  font-size: 11px;
+  pointer-events: none;
+}
+.effect-hero .video-panel { padding: 0; margin: 0; border: 0; background: none; }
+.effect-trigger, .effect-player {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 20 / 9;
+  border: 0;
+  border-radius: 18px;
+  background: #16191d;
+  overflow: hidden;
+}
+.effect-trigger { position: relative; padding: 0; color: white; }
+.effect-trigger > img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: .88;
+  transition: opacity .8s ease, transform 1.2s var(--ease-flow);
+}
+.effect-trigger:hover > img { opacity: 1; transform: scale(1.025); }
+.effect-play-icon { display: inline-flex; align-items: center; justify-content: center; }
+.effect-trigger .effect-play-icon {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 58px;
+  height: 58px;
+  border-radius: 50%;
+  background: #f5f5f5e8;
+  color: #252629;
+  box-shadow: 0 4px 35px #0004;
+}
+.effect-trigger .effect-play-label {
+  position: absolute;
+  bottom: 14px;
+  left: 0;
+  width: 100%;
+  font-size: 12px;
+  text-shadow: 0 1px 8px black;
+}
+.video-meta { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin-top: 12px; color: #9b9fa8; font-size: 12px; }
+.video-meta .text-link { font-size: inherit; }
+@media (max-width: 640px) {
+  .effect-trigger, .effect-player { border-radius: 13px; }
+  .effect-trigger .effect-play-icon { width: 44px; height: 44px; }
+  .effect-trigger .effect-play-icon svg { width: 19px; }
+  .effect-trigger .effect-play-label { bottom: 8px; font-size: 11px; }
+  .effect-card-label { left: 8px; bottom: 8px; font-size: 10px; padding: 5px 8px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .effect-trigger > img { transition: none; }
+  .effect-trigger:hover > img { transform: none; }
+}
+.archive-more { display: flex; justify-content: center; padding: 36px 0 12px; }
+.archive-more > button { min-height: 44px; padding: 8px 20px; }

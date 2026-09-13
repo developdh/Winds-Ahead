@@ -97,5 +97,148 @@
     "fullBytes": 94288,
     "permission": "unknown",
     "audience": "owner-private reference preview"
+  },
+  {
+    "cosmeticId": "zui-hun-zhuo-yu",
+    "index": 0,
+    "originalUrl": "https://nie.res.netease.com/r/pic/20260911/ec48414e-fe8b-4236-8df7-d008881dfacf.jpg",
+    "thumbnail": "/media/zui-hun-zhuo-yu-0-thumb.webp",
+    "full": "/media/zui-hun-zhuo-yu-0-full.webp",
+    "thumbnailBytes": 78958,
+    "fullBytes": 158002,
+    "permission": "unknown",
+    "audience": "owner-private reference preview"
+  },
+  {
+    "cosmeticId": "zui-hun-zhuo-yu",
+    "index": 1,
+    "originalUrl": "https://nie.res.netease.com/r/pic/20260911/d481a8b5-85c9-4a4b-8068-83985a29cc66.jpg",
+    "thumbnail": "/media/zui-hun-zhuo-yu-1-thumb.webp",
+    "full": "/media/zui-hun-zhuo-yu-1-full.webp",
+    "thumbnailBytes": 77742,
+    "fullBytes": 154884,
+    "permission": "unknown",
+    "audience": "owner-private reference preview"
+  },
+  {
+    "cosmeticId": "bu-qiu-ting",
+    "index": 0,
+    "originalUrl": "https://nie.res.netease.com/r/pic/20260911/780ac9c2-7a1e-4abd-8b29-81aa424815e7.png",
+    "thumbnail": "/media/bu-qiu-ting-0-thumb.webp",
+    "full": "/media/bu-qiu-ting-0-full.webp",
+    "thumbnailBytes": 73474,
+    "fullBytes": 149374,
+    "permission": "unknown",
+    "audience": "owner-private reference preview"
+  },
+  {
+    "cosmeticId": "bu-qiu-ting",
+    "index": 1,
+    "originalUrl": "https://nie.res.netease.com/r/pic/20260911/1b13076a-66ff-4af3-84a2-fa33040b6703.jpg",
+    "thumbnail": "/media/bu-qiu-ting-1-thumb.webp",
+    "full": "/media/bu-qiu-ting-1-full.webp",
+    "thumbnailBytes": 74740,
+    "fullBytes": 139548,
+    "permission": "unknown",
+    "audience": "owner-private reference preview"
+  },
+  {
+    "cosmeticId": "xue-lingdang",
+    "index": 0,
+    "originalUrl": "https://nie.res.netease.com/r/pic/20260911/0f1f8d59-3160-4ccb-b239-0efe9d7a699b.jpg",
+    "thumbnail": "/media/xue-lingdang-0-thumb.webp",
+    "full": "/media/xue-lingdang-0-full.webp",
+    "thumbnailBytes": 56796,
+    "fullBytes": 165740,
+    "permission": "unknown",
+    "audience": "owner-private reference preview"
+  },
+  {
+    "cosmeticId": "yi-he-wei-gui",
+    "index": 0,
+    "originalUrl": "https://nie.res.netease.com/r/pic/20260911/c8b6192c-bd15-49a1-a43c-b0045d23e943.jpg",
+    "thumbnail": "/media/yi-he-wei-gui-0-thumb.webp",
+    "full": "/media/yi-he-wei-gui-0-full.webp",
+    "thumbnailBytes": 47186,
+    "fullBytes": 135338,
+    "permission": "unknown",
+    "audience": "owner-private reference preview"
+  },
+  {
+    "cosmeticId": "ru-shi-yuan",
+    "index": 0,
+    "originalUrl": "https://nie.res.netease.com/r/pic/20260904/d15d7c5a-fbb3-4579-a55b-fae0a5e56d41.jpg",
+    "thumbnail": "/media/ru-shi-yuan-0-thumb.webp",
+    "full": "/media/ru-shi-yuan-0-full.webp",
+    "thumbnailBytes": 98934,
+    "fullBytes": 323192,
+    "permission": "unknown",
+    "audience": "owner-private reference preview"
+  },
+  {
+    "cosmeticId": "ru-shi-yuan",
+    "index": 1,
+    "originalUrl": "https://nie.res.netease.com/r/pic/20260904/04fa1d35-c036-440a-b7da-6284c9dba981.jpg",
+    "thumbnail": "/media/ru-shi-yuan-1-thumb.webp",
+    "full": "/media/ru-shi-yuan-1-full.webp",
+    "thumbnailBytes": 69858,
+    "fullBytes": 230800,
+    "permission": "unknown",
+    "audience": "owner-private reference preview"
+  },
+  {
+    "cosmeticId": "ying-kong",
+    "index": 0,
+    "originalUrl": "https://nie.res.netease.com/r/pic/20260904/77ebbafa-fa99-49b0-932c-eb3a54b8e1a0.jpg",
+    "thumbnail": "/media/ying-kong-0-thumb.webp",
+    "full": "/media/ying-kong-0-full.webp",
+    "thumbnailBytes": 115352,
+    "fullBytes": 350862,
+    "permission": "unknown",
+    "audience": "owner-private reference preview"
+  },
+  {
+    "cosmeticId": "xuanying-lianchen-buran",
+    "index": 0,
+    "originalUrl": "https://nie.res.netease.com/r/pic/20260904/dcce07df-8c53-4d6a-a67d-3c0ec54cbc85.png",
+    "thumbnail": "/media/xuanying-lianchen-buran-0-thumb.webp",
+    "full": "/media/xuanying-lianchen-buran-0-full.webp",
+    "thumbnailBytes": 60492,
+    "fullBytes": 132938,
+    "permission": "unknown",
+    "audience": "owner-private reference preview"
+  },
+  {
+    "cosmeticId": "wanlai-zhan-han-lin",
+    "index": 0,
+    "originalUrl": "https://nie.res.netease.com/r/pic/20260904/a628c814-b1ca-42ad-907e-d13bca201a24.png",
+    "thumbnail": "/media/wanlai-zhan-han-lin-0-thumb.webp",
+    "full": "/media/wanlai-zhan-han-lin-0-full.webp",
+    "thumbnailBytes": 65512,
+    "fullBytes": 218614,
+    "permission": "unknown",
+    "audience": "owner-private reference preview"
+  },
+  {
+    "cosmeticId": "wanlai-cui-mo-yu",
+    "index": 0,
+    "originalUrl": "https://nie.res.netease.com/r/pic/20260904/82d9775e-2f69-40ce-9822-7b4a27e1c549.png",
+    "thumbnail": "/media/wanlai-cui-mo-yu-0-thumb.webp",
+    "full": "/media/wanlai-cui-mo-yu-0-full.webp",
+    "thumbnailBytes": 77454,
+    "fullBytes": 97190,
+    "permission": "unknown",
+    "audience": "owner-private reference preview"
+  },
+  {
+    "cosmeticId": "chi-yan-qi-hua-yan-yang",
+    "index": 0,
+    "originalUrl": "https://yysls.fp.ps.netease.com/file/6aa3fcf954969664de867b8bhoIMAFZy07.mp4",
+    "thumbnail": "/media/chi-yan-qi-hua-yan-yang-0-thumb.webp",
+    "full": "/media/chi-yan-qi-hua-yan-yang-0-full.webp",
+    "thumbnailBytes": 35128,
+    "fullBytes": 56478,
+    "permission": "unknown",
+    "audience": "owner-private reference preview"
   }
 ]

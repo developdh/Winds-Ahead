@@ -59,3 +59,9 @@ The September 2025 CN announcement (S07) was visually inspected for eight cosmet
 Final body selection: [Gowun Dodum Regular](https://github.com/google/fonts/tree/main/ofl/gowundodum), after an owner comparison of four additional candidates. The shipped Winds UI subset now derives from Gowun Dodum; Pretendard and SUIT are historical studies. Noto Serif KR remains the title face.
 
 최종 본문 선택은 네 추가 후보를 비교한 뒤 정한 [고운 돋움 Regular](https://github.com/google/fonts/tree/main/ofl/gowundodum)입니다. 현재 배포용 Winds UI 서브셋은 고운 돋움을 사용하며 Pretendard·SUIT는 이전 비교 시안입니다. 제목은 Noto Serif KR을 유지합니다.
+
+## September 2026 expansion · 2026년 9월 확장
+
+The latest intake adds nine appearances and one martial-art effect from two official CN announcements, bringing the private archive to 18 cosmetics and 22 image derivatives. [English evidence and performance report](en/content-expansion.md) / [한국어 근거·성능 기록](ko/content-expansion.md).
+
+중국 공식 공지 두 건에서 외관 9종과 무술 이펙트 1종을 추가해 비공개 도감은 외관 18종, 이미지 파생본 22개가 되었습니다. 게시일과 상대 출시일의 차이, 경쟁 사이트의 움직이는 WebP 확인, 영상 압축·재생 기준은 위 양언어 문서에 기록했습니다.

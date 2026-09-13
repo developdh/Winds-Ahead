@@ -8,7 +8,7 @@ An independent **Where Winds Meet** cosmetic archive. Browse real CN appearances
 
 [Open the owner-private MVP](https://winds-ahead.donghee0815.chatgpt.site) · Published September 13, 2026 UTC.
 
-The initial archive contains **8 cosmetics from one September 2025 official CN announcement**. Six have an explicit CN release date; two retain unknown dates. No verified global event or editorial forecast has been published. Empty schedules are intentional, not fabricated.
+The archive contains **18 cosmetics across three official CN announcements**, including one martial-art effect with click-to-load playback. Sixteen have day-level CN dates (five based on explicit relative update wording); two retain unknown dates. No verified global event or editorial forecast has been published. Empty schedules are intentional, not fabricated.
 
 Source and previews remain private. Media provenance is recorded, but redistribution permission is unknown; public launch still requires a media review and a real public correction channel.
 
@@ -29,6 +29,7 @@ Validation: `npm run check`, `npm test`, `npm run validate:content`, `npm run bu
 
 | Document | English | 한국어 |
 | --- | --- | --- |
+| September intake and playback | [Content expansion](docs/en/content-expansion.md) | [정보 수집과 재생](docs/ko/content-expansion.md) |
 | MVP and operation | [MVP status](docs/en/mvp-status.md) | [MVP 현황](docs/ko/mvp-status.md) |
 | Product | [Product plan](docs/en/product-plan.md) | [제품 기획](docs/ko/product-plan.md) |
 | Content | [Content model](docs/en/content-model.md) | [콘텐츠 모델](docs/ko/content-model.md) |

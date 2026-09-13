@@ -11,6 +11,7 @@ export const categoryNames = {
   outfit: { en: "Outfits", ko: "의상" },
   hair: { en: "Hair", ko: "헤어" },
   weapon_skin: { en: "Weapons", ko: "무기" },
+  effect: { en: "Effects", ko: "이펙트" },
 };
 export type Category = keyof typeof categoryNames;
 const localeData: Record<

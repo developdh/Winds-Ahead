@@ -8,7 +8,7 @@
 
 [소유자 비공개 MVP 열기](https://winds-ahead.donghee0815.chatgpt.site) · 2026년 9월 13일 UTC 게시.
 
-초기 도감에는 **2025년 9월 중국 공식 공지의 외관 8종**을 등록했습니다. 6종은 중국 출시일이 명시되어 있고 2종은 날짜 미정입니다. 검증된 글로벌 일정이나 운영자 예상은 아직 게시하지 않았습니다. 빈 일정에 임의 날짜를 채우지 않습니다.
+도감에는 **중국 공식 공지 3건의 외관 18종**을 등록했으며 클릭한 뒤 재생하는 무술 이펙트가 포함됩니다. 16종은 날짜 단위로 기록했고 이 중 5종은 공지의 상대 날짜 표현을 연결한 결과입니다. 나머지 2종은 날짜 미정입니다. 검증된 글로벌 일정이나 운영자 예상은 아직 게시하지 않았습니다. 빈 일정에 임의 날짜를 채우지 않습니다.
 
 소스와 미리보기는 비공개입니다. 미디어 출처는 기록했으나 재배포 권한은 미확인이므로 공개 서비스 전 미디어 검토와 실제 공개 제보 창구가 필요합니다.
 
@@ -29,6 +29,7 @@ npm run dev
 
 | Document | English | 한국어 |
 | --- | --- | --- |
+| September intake and playback | [Content expansion](docs/en/content-expansion.md) | [정보 수집과 재생](docs/ko/content-expansion.md) |
 | MVP and operation | [MVP status](docs/en/mvp-status.md) | [MVP 현황](docs/ko/mvp-status.md) |
 | Product | [Product plan](docs/en/product-plan.md) | [제품 기획](docs/ko/product-plan.md) |
 | Content | [Content model](docs/en/content-model.md) | [콘텐츠 모델](docs/ko/content-model.md) |
