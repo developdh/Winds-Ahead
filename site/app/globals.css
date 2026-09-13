@@ -965,19 +965,19 @@ dl {
   position: absolute;
   z-index: 2;
   top: 50%;
-  width: 56px;
-  height: 56px;
-  min-width: 56px;
-  min-height: 56px;
+  width: 72px;
+  height: 72px;
+  min-width: 72px;
+  min-height: 72px;
   transform: none;
   translate: 0 -50%;
-  border-color: #ffffff28;
-  background: #081014c9;
+  background: none;
   color: #f2f6f4;
-  box-shadow: 0 4px 20px #0004;
-  border: 1px solid #ffffff28;
-  border-radius: 50%;
-  transition: background 0.25s, border-color 0.25s;
+  box-shadow: none;
+  border: 0;
+  border-radius: 0;
+  padding: 0;
+  transition: color 0.25s, opacity 0.25s;
 }
 .gallery-arrow-previous {
   left: 12px;
@@ -988,12 +988,19 @@ dl {
   left: auto;
 }
 .gallery-arrow > svg {
-  width: 28px;
-  height: 28px;
+  width: 44px;
+  height: 44px;
+  stroke-width: 1.6;
+  filter: drop-shadow(0 2px 5px #000b);
 }
 .gallery-arrow:hover:not(:disabled) {
-  background: #14231ef0;
-  border-color: #d1ecdd80;
+  background: none;
+  color: #fff;
+}
+.gallery-arrow:focus-visible {
+  box-shadow: none;
+  outline: 2px solid var(--primary);
+  outline-offset: -4px;
 }
 .gallery-arrow:disabled {
   opacity: 0.25;
@@ -1499,10 +1506,14 @@ footer p {
     gap: 12px;
   }
   .gallery-arrow {
-    width: 48px;
-    height: 48px;
-    min-width: 48px;
-    min-height: 48px;
+    width: 64px;
+    height: 64px;
+    min-width: 64px;
+    min-height: 64px;
+  }
+  .gallery-arrow > svg {
+    width: 40px;
+    height: 40px;
   }
   .gallery-arrow-previous {
     left: 6px;

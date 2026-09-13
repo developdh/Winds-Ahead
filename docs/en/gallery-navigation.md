@@ -19,7 +19,7 @@ The emitted gallery client module is 25,042 bytes, or 9,859 bytes with local gzi
 ## Verification
 
 - In-app Chromium: English and Korean galleries, previous/next controls, keyboard movement after reaching a boundary, horizontal dragging at mobile width, selecting the second thumbnail before opening, matching original-image links, and closing/focus restoration.
-- Viewport geometry: 320, 360, 390, 768, 1024 and 1440 CSS px. After the transition fix, dialog widths were respectively 304, 344, 374, 736, 992 and 1040px; every frame stayed within its viewport. Large chevrons use 48px mobile / 56px desktop targets; close remains 44px.
+- Viewport geometry: 320, 360, 390, 768, 1024 and 1440 CSS px. After the transition fix, dialog widths were respectively 304, 344, 374, 736, 992 and 1040px; every frame stayed within its viewport. The user's final refinement removes circular arrow backgrounds and borders: 40px mobile / 44px desktop chevrons sit in transparent 64px / 72px targets, with a light glyph shadow for contrast. Close remains 44px.
 - Screenshots were inspected in the working session at desktop and mobile sizes. These are viewport checks, not physical-device touch or frame-rate certification. A per-frame sampling attempt was unavailable in the browser tool; no measured FPS claim is made.
 - Type checking, the existing 19 domain/media tests, content validation (40 cosmetics / 66 images) and the production build pass. New Korean labels are covered by the existing local font subset.
 - Physical iOS/Android, Firefox/WebKit, 200% text enlargement, simulated image-network failure and live reduced-motion preference changes were not exercised in this pass. The reduced-motion and failure paths were reviewed in source.
