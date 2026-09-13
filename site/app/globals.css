@@ -5664,9 +5664,8 @@ body {
 .archive-menu-option[data-highlighted] { background: #ffffff09; color: #fff; }
 .archive-menu-option[data-state="checked"] { background: #b5cabb10; color: #bdd6c5; }
 .archive-menu-option > span { left: 12px; }
-.card-meta { flex-wrap: wrap; gap: 2px 10px; }
-.card-release { color: #a4bfad; font-size: 12px; white-space: nowrap; }
-.card-release::before { content: '·'; margin-right: 10px; color: #626771; }
+.card-meta { flex-wrap: nowrap; gap: 10px; }
+.card-release { margin-inline-start: auto; flex-shrink: 0; color: #a4bfad; font-size: 12px; white-space: nowrap; text-align: end; }
 .release-outlook { display: flex; align-items: baseline; gap: 5px; font-size: 12px; line-height: 1.7; margin: 8px 0 0; }
 .release-outlook > svg { align-self: center; flex-shrink: 0; }
 .release-outlook strong { font-weight: 400; font-variant-numeric: tabular-nums; white-space: nowrap; }
