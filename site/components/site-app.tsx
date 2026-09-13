@@ -30,7 +30,7 @@ import {
   History,
   SlidersHorizontal,
 } from "lucide-react";
-import { regionalRecord, releasedOn, matchesServer, latestRelease, serverName, stateName } from "@/lib/regional-status";
+import { regionalRecord, releasedOn, matchesServer, serverName, stateName } from "@/lib/regional-status";
 import { rememberLocale } from "@/lib/language-preference";
 import CosmeticVideos from "@/components/cosmetic-videos";
 import AcquisitionInfo from "@/components/acquisition-info";
@@ -47,7 +47,12 @@ import {
   globalSources,
 } from "@/lib/global-status";
 import { Tabs, TabsList, TabsTrigger } from "@/components/ui/tabs";
-import { NativeSelect } from "@/components/ui/native-select";
+import ArchiveControls from "@/components/archive-controls";
+import { sortArchive, validSort, validServer } from "@/lib/archive-domain.mjs";
+import ReleaseOutlook, { outlookFor } from "@/components/release-outlook";
+import { useQuickView } from "@/components/use-quick-view";
+import ShareCosmetic from "@/components/share-cosmetic";
+import { Dialog, DialogContent, DialogClose, DialogTitle } from "@/components/ui/dialog";
 import {
   cosmetics,
   categoryNames,
@@ -91,6 +96,16 @@ export default function SiteApp({
   const path = usePathname();
   const params = useSearchParams();
   useScrollReveals(path);
+  const quickView = useQuickView(view === "catalog" || view === "watchlist", path);
+  const previewItem = quickView.id ? findCosmetic(quickView.id) : undefined;
+  const [today, setToday] = useState("");
+  useEffect(() => {
+    const update = () => setToday(new Date().toISOString().slice(0, 10));
+    update();
+    const timer = setInterval(update, 60_000);
+    document.addEventListener("visibilitychange", update);
+    return () => { clearInterval(timer); document.removeEventListener("visibilitychange", update); };
+  }, []);
   const [saved, setSaved] = useState<string[]>([]);
   const [ready, setReady] = useState(false);
   const [storageError, setStorageError] = useState(false);
@@ -151,7 +166,7 @@ export default function SiteApp({
   const langUrl = `${path.replace(/^\/(en|ko)(?=\/|$)/, l === "ko" ? "/en" : "/ko")}${params.toString() ? "?" + params.toString() : ""}`;
   const item = itemId ? findCosmetic(itemId) : undefined;
   const backParams = new URLSearchParams();
-  for (const k of ["q", "category", "server"]) {
+  for (const k of ["q", "category", "server", "sort"]) {
     const v = params.get(k);
     if (v) backParams.set(k, v);
   }
@@ -192,6 +207,8 @@ export default function SiteApp({
         style={{ animationDelay: `${Math.min(i, 5) * 55}ms` }}
       >
         <Link
+          onClick={event => quickView.show(event, c.id)}
+          aria-haspopup={view === "catalog" || view === "watchlist" ? "dialog" : undefined}
           className="card-image"
           href={`/${l}/cosmetics/${c.id}${backQuery}`}
           aria-label={`${nameOf(c, l)} · ${t("View details", "상세 보기")}`}
@@ -214,6 +231,8 @@ export default function SiteApp({
           </div>
           <Link
             href={`/${l}/cosmetics/${c.id}${backQuery}`}
+            onClick={event => quickView.show(event, c.id)}
+            aria-haspopup={view === "catalog" || view === "watchlist" ? "dialog" : undefined}
             className="card-title"
           >
             {nameOf(c, l)}
@@ -222,23 +241,22 @@ export default function SiteApp({
             <span className="original-name" lang="zh-Hans" title={c.nameOriginal}>
               {c.nameOriginal}
             </span>
-            <span className="card-price" title={`${serverName(acquisitionServer, l)} · ${acquisitionSummary({...c, acquisition}, l)}`}>
+            {!c.wikiOnly && <span className="card-price" title={`${serverName(acquisitionServer, l)} · ${acquisitionSummary({...c, acquisition}, l)}`}>
               {c.wikiOnly ? t('Wiki reference', '위키 참고') : acquisition.pricing === 'fixed' ? <>
                 <span className="card-price-amount">{acquisition.amount!.toLocaleString(l === 'ko' ? 'ko-KR' : 'en-US')}</span>
                 <span>{currencyName(acquisition.currencyOriginal, l)}</span>
               </> : acquisition.pricing === 'free' ? t('Free', '무료') : acquisition.pricing === 'draw' ? t('Draw', '추첨') : acquisition.pricing === 'pass' ? t('Paid pass', '유료 강호령') : acquisition.kind === 'milestone' ? t('Milestone', '단계 보상') : t('Unpriced', '수량 미정')}
-            </span>
+            </span>}
           </div>
           <div className="card-meta">
             <span className="card-location" title={`${serverName(acquisitionServer, l)} · ${acquisition.location[l]}`}>
-              {c.wikiOnly ? t("Release verification pending", "출시 근거 확인 중") : <><span>{acquisitionServer === "CN" ? "CN" : t("Global", "글로벌")} · </span>{acquisition.location[l]}</>}
+              {c.wikiOnly ? t("Wiki reference", "위키 참고") : acquisition.location[l]}
             </span>
-            <span className="card-meta-separator" aria-hidden="true">·</span>
-            <span className="card-servers" aria-label={t("Verified release servers", "출시 확인 서버")}>
-              {(["CN", "Global"] as const).filter(server => releasedOn(c, server)).map(server => <span key={server} title={`${serverName(server, l)} · ${stateName("released", l)}`}>{server === "CN" ? "CN" : t("Global", "글로벌")}</span>)}
-              {!releasedOn(c, "CN") && !releasedOn(c, "Global") && <span>{(["CN", "Global"] as const).some(server => regionalRecord(c, server)?.status === "announced") ? t("Announced", "발표됨") : t("Not verified", "확인 중")}</span>}
+            <span className="card-release" title={t("Verified release servers; current shop availability may differ.", "출시 확인 서버이며 현재 판매 여부와 다를 수 있습니다.")}>
+              {releasedOn(c, "CN") && releasedOn(c, "Global") ? t("CN + Global", "중국·글로벌 출시") : releasedOn(c, "Global") ? t("Global released", "글로벌 출시") : releasedOn(c, "CN") ? t("CN released", "중국 출시") : t("Unverified", "출시 확인 중")}
             </span>
           </div>
+          <ReleaseOutlook c={c} l={l} today={today} />
         </div>
       </article>
     );
@@ -298,7 +316,7 @@ export default function SiteApp({
           </div>
         )}
         {(view === "catalog" || view === "watchlist") && (
-          <Catalog l={l} view={view} saved={saved} ready={ready} card={card} />
+          <Catalog l={l} view={view} saved={saved} ready={ready} card={card} today={today} />
         )}
         {view === "detail" && item && (
           <Detail
@@ -324,6 +342,21 @@ export default function SiteApp({
         {view === "updates" && <Updates l={l} />}
         {view === "about" && <About l={l} />}
       </main>
+      <Dialog open={quickView.open} onOpenChange={open => { if (!open) quickView.close(); }}>
+        <DialogContent ref={quickView.content} className="cosmetic-dialog" showCloseButton={false} aria-describedby={undefined}
+          onOpenAutoFocus={event => { event.preventDefault(); quickView.closeButton.current?.focus({ preventScroll: true }); }}
+          onCloseAutoFocus={event => { event.preventDefault(); const target = quickView.trigger.current; (target?.isConnected ? target : document.getElementById("main"))?.focus({ preventScroll: true }); }}>
+          {previewItem && <>
+            <div className="quick-view-bar">
+              <DialogTitle>{nameOf(previewItem, l)}</DialogTitle>
+              <ShareCosmetic key={previewItem.id} c={previewItem} l={l} compact />
+              <Link className="quick-view-permalink" href={`/${l}/cosmetics/${previewItem.id}${backQuery}`} aria-label={t("Open standalone page", "개별 페이지 열기")}><ArrowUpRight size={19} /></Link>
+              <DialogClose ref={quickView.closeButton} className="quick-view-close" aria-label={t("Close details", "상세 정보 닫기")}><X size={22} /></DialogClose>
+            </div>
+            <Detail key={previewItem.id} c={previewItem} l={l} saveButton={saveButton} card={card} backQuery={backQuery} embedded />
+          </>}
+        </DialogContent>
+      </Dialog>
       <footer>
         <div>
           <Link className="footer-brand" href={`/${l}`}>
@@ -367,54 +400,66 @@ function Catalog({
   saved,
   ready,
   card,
+  today,
 }: {
   l: Locale;
   view: "catalog" | "watchlist";
   saved: string[];
   ready: boolean;
+  today: string;
   card: (c: Cosmetic, i: number) => React.ReactNode;
 }) {
   const t = (en: string, ko: string) => (l === "ko" ? ko : en);
   const params = useSearchParams();
   const [query, setQuery] = useState(params.get("q") ?? "");
+  const [sort, setSort] = useState(validSort(params.get("sort")));
   const [visibleCount, setVisibleCount] = useState(24);
-  const [server, setServer] = useState(params.get("server") ?? "all");
+  const [server, setServer] = useState(validServer(params.get("server")));
   const initial = params.get("category") ?? "all";
   const [category, setCategory] = useState(
     initial in categoryNames ? initial : "all",
   );
   useEffect(() => {
     setQuery(params.get("q") ?? "");
+    setSort(validSort(params.get("sort")));
     const s = params.get("server") ?? "all";
-    setServer(["all", "cn", "global", "both"].includes(s) ? s : "all");
+    setServer(validServer(s));
+    if (s === "both") {
+      const url = new URL(location.href);
+      url.searchParams.delete("server");
+      history.replaceState(history.state, "", url);
+    }
     const c = params.get("category") ?? "all";
     setCategory(c in categoryNames ? c : "all");
   }, [params]);
-  useEffect(() => { setVisibleCount(24); }, [query, category, server, view]);
-  function update(q: string, c: string, region = server) {
+  useEffect(() => { setVisibleCount(24); }, [query, category, server, sort, view]);
+  function update(q: string, c: string, region = server, order = sort) {
     setQuery(q);
     setCategory(c);
     setServer(region);
+    setSort(order);
     const p = new URLSearchParams(window.location.search);
     q ? p.set("q", q) : p.delete("q");
     c !== "all" ? p.set("category", c) : p.delete("category");
     region !== "all" ? p.set("server", region) : p.delete("server");
-    p.delete("sort");
+    order !== "latest" ? p.set("sort", order) : p.delete("sort");
     history.replaceState(
       null,
       "",
       `${location.pathname}${p.size ? "?" + p : ""}`,
     );
   }
-  const items = useMemo(
-    () =>
-      searchCosmetics(query, category)
-        .filter((c) => (view !== "watchlist" || saved.includes(c.id)) && matchesServer(c, server))
-        .sort((a, b) =>
-          latestRelease(b).localeCompare(latestRelease(a)),
-        ),
-    [query, category, server, view, saved],
-  );
+  const items = useMemo(() => {
+    const matches = searchCosmetics(query, category)
+      .filter(c => (view !== "watchlist" || saved.includes(c.id)) && matchesServer(c, server));
+    const rows = matches.map(c => ({ id: c.id, name: nameOf(c, l),
+      cnDate: releasedOn(c, "CN") ? regionalRecord(c, "CN")?.releaseDate ?? null : null,
+      globalDate: releasedOn(c, "Global") ? regionalRecord(c, "Global")?.releaseDate ?? null : null,
+      upcomingDate: today ? outlookFor(c, today)?.sortDate ?? null : null,
+    }));
+    const byId = new Map(matches.map(c => [c.id, c]));
+    return sortArchive(rows, sort, l).map(row => byId.get(row.id)!);
+  }, [query, category, server, sort, view, saved, today, l]);
   return (
     <>
       <div className="page-heading catalog-intro">
@@ -489,15 +534,7 @@ function Catalog({
         <span role="status">
           {items.length} {t("appearance records", "개의 외관 기록")}
         </span>
-        <label className="server-filter">
-          <span className="sr-only">{t("Release server", "출시 서버")}</span>
-          <NativeSelect value={server} onChange={e => update(query, category, e.target.value)} aria-label={t("Release server", "출시 서버")}>
-            <option value="all">{t("All servers", "모든 서버")}</option>
-            <option value="cn">{t("Released in China", "중국 출시")}</option>
-            <option value="global">{t("Released globally", "글로벌 출시")}</option>
-            <option value="both">{t("Released in both", "양쪽 서버 출시")}</option>
-          </NativeSelect>
-        </label>
+        <ArchiveControls l={l} server={server} sort={sort} onServer={value => update(query, category, value)} onSort={value => update(query, category, server, value)} />
       </div>
       {view === "watchlist" && !ready ? (
         <div className="empty-state" role="status">
@@ -505,7 +542,7 @@ function Catalog({
         </div>
       ) : items.length ? (
         <>
-          <div className="cosmetic-grid" key={`${category}:${server}`}>
+          <div className="cosmetic-grid" key={`${category}:${server}:${sort}`}>
             {items.slice(0, visibleCount).map(card)}
           </div>
           {items.length > visibleCount && <div className="archive-more"><button className="text-link" onClick={() => setVisibleCount(n => n + 24)}>{t("Show more", "더 보기")} · {visibleCount} / {items.length}</button></div>}
@@ -556,7 +593,9 @@ function Detail({
   saveButton,
   card,
   backQuery,
+  embedded = false,
 }: {
+  embedded?: boolean;
   backQuery: string;
   c: Cosmetic;
   l: Locale;
@@ -568,16 +607,18 @@ function Detail({
   const images = imagesOf(c);
   const related = cosmetics.filter(x => x.id !== c.id && x.sourceId === c.sourceId).slice(0, 3);
   const [selected, setSelected] = useState(0);
+  const [mediaMode, setMediaMode] = useState(c.category === "effect" && c.officialVideos.length ? "video" : "photo");
   return (
     <>
-      <Link className="back-link" href={`/${l}${backQuery}`}>
+      {!embedded && <Link className="back-link" href={`/${l}${backQuery}`}>
         <ArrowLeft size={16} />
         {t("Back to archive", "도감으로 돌아가기")}
-      </Link>
+      </Link>}
       <div className="detail-grid">
         <section className="detail-visual">
-          {c.category === "effect" && c.officialVideos.length > 0 ? <CosmeticVideos key={c.id} c={c} l={l} hero /> : <CosmeticGallery key={c.id} c={c} l={l} selected={selected} onSelect={setSelected} />}
-          {images.length > 1 && (
+          {c.officialVideos.length > 0 && images.length > 0 && <Tabs value={mediaMode} onValueChange={setMediaMode} className="detail-media-tabs"><TabsList aria-label={t("Preview format", "미리보기 종류")}><TabsTrigger value="photo">{t("Photos", "사진")}</TabsTrigger><TabsTrigger value="video">{t("Video", "영상")}</TabsTrigger></TabsList></Tabs>}
+          {mediaMode === "video" || (!images.length && c.officialVideos.length > 0) ? <CosmeticVideos key={c.id} c={c} l={l} hero /> : <CosmeticGallery key={c.id} c={c} l={l} selected={selected} onSelect={setSelected} immersive={embedded} />}
+          {mediaMode === "photo" && images.length > 1 && (
             <div
               className="image-options"
               aria-label={t("Appearance variants", "외형 선택")}
@@ -621,6 +662,7 @@ function Detail({
           </div>
           <div className="button-row detail-actions">
             {saveButton(c)}
+            {!embedded && <ShareCosmetic c={c} l={l} />}
             <a
               className="text-link"
               href={source.url}
@@ -692,7 +734,7 @@ function Detail({
           {c.imageSourceUrl && <a href={c.imageSourceUrl} target="_blank" rel="noreferrer">{t("Image provenance", "이미지 원출처")}<ArrowUpRight size={16} /></a>}
           {c.cnRelease.contextual && <p>{t("The release day is derived from the update context, not the URL date. An exact time is not assumed.", "출시일은 주소의 날짜가 아닌 업데이트 문맥으로 확인했습니다. 정확한 시각은 추정하지 않습니다.")}</p>}
         </details>
-        {c.category !== "effect" && c.officialVideos.length > 0 && <CosmeticVideos key={c.id} c={c} l={l} />}
+
       </div>
       {related.length > 0 && <><div className="catalog-heading">
         <h2>{t("From the same collection", "같은 공지에서 만나는 외관")}</h2>
