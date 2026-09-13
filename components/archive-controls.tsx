@@ -16,6 +16,9 @@ export const sortNames: Record<string, { en: string; ko: string }> = {
 const serverNames: Record<string, { en: string; ko: string }> = {
   all: { en: 'All servers', ko: '모든 서버' }, cn: { en: 'Released in China', ko: '중국 출시' },
   global: { en: 'Released globally', ko: '글로벌 출시' },
+  'cn-upcoming': { en: 'China scheduled', ko: '중국 출시 예정' },
+  'global-upcoming': { en: 'Global scheduled', ko: '글로벌 출시 예정' },
+  pending: { en: 'Release unverified', ko: '출시 확인 중' },
 };
 export default function ArchiveControls({ l, server, sort, onServer, onSort }: {
   l: Locale; server: string; sort: string; onServer: (value: string) => void; onSort: (value: string) => void;

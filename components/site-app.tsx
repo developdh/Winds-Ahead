@@ -30,7 +30,7 @@ import {
   History,
   SlidersHorizontal,
 } from "lucide-react";
-import { regionalRecord, releasedOn, matchesServer, serverName, stateName } from "@/lib/regional-status";
+import { regionalRecord, regionalState, releasedOn, matchesServer, serverName, stateName } from "@/lib/regional-status";
 import { rememberLocale } from "@/lib/language-preference";
 import CosmeticVideos from "@/components/cosmetic-videos";
 import AcquisitionInfo from "@/components/acquisition-info";
@@ -197,6 +197,9 @@ export default function SiteApp({
   );
   const card = (c: Cosmetic, i: number) => {
     const m = imagesOf(c)[0];
+    const cnState = regionalState(c, "CN", today), globalState = regionalState(c, "Global", today);
+    const released = cnState === "released" || globalState === "released";
+    const noRecord = cnState === "unknown" && globalState === "unknown";
     const globalAcquisition = regionalRecord(c, "Global")?.acquisition;
     const acquisition = globalAcquisition ?? c.acquisition;
     const acquisitionServer = globalAcquisition ? "Global" : c.acquisitionServer ?? "CN";
@@ -252,9 +255,9 @@ export default function SiteApp({
             <span className="card-location" title={`${serverName(acquisitionServer, l)} · ${acquisition.location[l]}`}>
               {c.wikiOnly ? t("Wiki reference", "위키 참고") : acquisition.location[l]}
             </span>
-            <span className="card-release" title={t("Verified release servers; current shop availability may differ.", "출시 확인 서버이며 현재 판매 여부와 다를 수 있습니다.")}>
-              {releasedOn(c, "CN") && releasedOn(c, "Global") ? t("CN + Global", "중국·글로벌 출시") : releasedOn(c, "Global") ? t("Global released", "글로벌 출시") : releasedOn(c, "CN") ? t("CN released", "중국 출시") : t("Unverified", "출시 확인 중")}
-            </span>
+            {(released || noRecord) && <span className={`card-release${noRecord ? ' unverified' : ''}`} title={noRecord ? t("No verified regional release record yet.", "서버별 출시 근거가 아직 확인되지 않았습니다.") : t("Verified release servers; current shop availability may differ.", "출시 확인 서버이며 현재 판매 여부와 다를 수 있습니다.")}>
+              {cnState === "released" && globalState === "released" ? t("CN + Global released", "중국·글로벌 출시") : globalState === "released" ? t("Global released", "글로벌 출시") : cnState === "released" ? t("China released", "중국 출시") : t("Unverified", "출시 확인 중")}
+            </span>}
           </div>
           <ReleaseOutlook c={c} l={l} today={today} />
         </div>
@@ -323,6 +326,7 @@ export default function SiteApp({
             key={item.id}
             c={item}
             l={l}
+            today={today}
             saveButton={saveButton}
             card={card}
             backQuery={backQuery}
@@ -343,7 +347,7 @@ export default function SiteApp({
         {view === "about" && <About l={l} />}
       </main>
       <Dialog open={quickView.open} onOpenChange={open => { if (!open) quickView.close(); }}>
-        <DialogContent ref={quickView.content} className="cosmetic-dialog" showCloseButton={false} aria-describedby={undefined}
+        <DialogContent ref={quickView.content} className="cosmetic-dialog translate-none" showCloseButton={false} aria-describedby={undefined}
           onOpenAutoFocus={event => { event.preventDefault(); quickView.closeButton.current?.focus({ preventScroll: true }); }}
           onCloseAutoFocus={event => { event.preventDefault(); const target = quickView.trigger.current; (target?.isConnected ? target : document.getElementById("main"))?.focus({ preventScroll: true }); }}>
           {previewItem && <>
@@ -353,7 +357,7 @@ export default function SiteApp({
               <Link className="quick-view-permalink" href={`/${l}/cosmetics/${previewItem.id}${backQuery}`} aria-label={t("Open standalone page", "개별 페이지 열기")}><ArrowUpRight size={19} /></Link>
               <DialogClose ref={quickView.closeButton} className="quick-view-close" aria-label={t("Close details", "상세 정보 닫기")}><X size={22} /></DialogClose>
             </div>
-            <Detail key={previewItem.id} c={previewItem} l={l} saveButton={saveButton} card={card} backQuery={backQuery} embedded />
+            <Detail key={previewItem.id} c={previewItem} l={l} today={today} saveButton={saveButton} card={card} backQuery={backQuery} embedded />
           </>}
         </DialogContent>
       </Dialog>
@@ -451,10 +455,10 @@ function Catalog({
   }
   const items = useMemo(() => {
     const matches = searchCosmetics(query, category)
-      .filter(c => (view !== "watchlist" || saved.includes(c.id)) && matchesServer(c, server));
+      .filter(c => (view !== "watchlist" || saved.includes(c.id)) && matchesServer(c, server, today));
     const rows = matches.map(c => ({ id: c.id, name: nameOf(c, l),
-      cnDate: releasedOn(c, "CN") ? regionalRecord(c, "CN")?.releaseDate ?? null : null,
-      globalDate: releasedOn(c, "Global") ? regionalRecord(c, "Global")?.releaseDate ?? null : null,
+      cnDate: releasedOn(c, "CN", today) ? regionalRecord(c, "CN")?.releaseDate ?? null : null,
+      globalDate: releasedOn(c, "Global", today) ? regionalRecord(c, "Global")?.releaseDate ?? null : null,
       upcomingDate: today ? outlookFor(c, today)?.sortDate ?? null : null,
     }));
     const byId = new Map(matches.map(c => [c.id, c]));
@@ -590,6 +594,7 @@ function Catalog({
 function Detail({
   c,
   l,
+  today,
   saveButton,
   card,
   backQuery,
@@ -599,6 +604,7 @@ function Detail({
   backQuery: string;
   c: Cosmetic;
   l: Locale;
+  today: string;
   saveButton: (c: Cosmetic, compact?: boolean) => React.ReactNode;
   card: (c: Cosmetic, i: number) => React.ReactNode;
 }) {
@@ -673,7 +679,7 @@ function Detail({
               <ArrowUpRight size={16} />
             </a>
           </div>
-          <GlobalPanel c={c} l={l} />
+          <GlobalPanel c={c} l={l} today={today} />
           {!c.wikiOnly && <AcquisitionInfo c={c} l={l} />}
           {(["CN", "Global"] as const).filter(server => server !== (c.acquisitionServer ?? "CN")).map(server => { const record = regionalRecord(c, server); return record?.acquisition ? <AcquisitionInfo key={server} c={{...c, acquisition: record.acquisition, acquisitionServer: server}} l={l} /> : null; })}
           {source.server === "CN" && source.kind !== "community" && <div className="facts">
@@ -745,16 +751,17 @@ function Detail({
     </>
   );
 }
-function GlobalPanel({ c, l }: { c: Cosmetic; l: Locale }) {
+function GlobalPanel({ c, l, today }: { c: Cosmetic; l: Locale; today: string }) {
   const t = (en: string, ko: string) => l === "ko" ? ko : en;
   return <section className="regional-panel" aria-labelledby={`servers-${c.id}`}>
     <h2 id={`servers-${c.id}`}>{t("Release servers", "출시 서버")}</h2>
     <div className="regional-rows">{(["CN", "Global"] as const).map(server => {
-      const r = regionalRecord(c, server);
+      const r = regionalRecord(c, server), state = regionalState(c, server, today);
       return <div className="regional-row" key={server}>
-        <div className="regional-row-title"><span>{serverName(server, l)}</span><span className={`regional-state ${r?.status ?? "unknown"}`}>{stateName(r?.status ?? "unknown", l)}</span></div>
+        <div className="regional-row-title"><span>{serverName(server, l)}</span><span className={`regional-state ${state}`}>{stateName(state, l)}</span></div>
         {r ? <>
-          {r.releaseDate && <time dateTime={r.releaseDate}>{formatDay(r.releaseDate, l)}</time>}
+          {r.releaseDate ? <time dateTime={r.releaseDate}>{formatDay(r.releaseDate, l)}</time> : <p>{t("Date not verified", "날짜 미확인")}</p>}
+          {state === "pending" && <p>{t("An earlier announcement is on record; actual release still needs confirmation.", "과거 출시 예고가 기록되어 있으며, 실제 출시는 추가 확인이 필요합니다.")}</p>}
           <details className="regional-evidence"><summary>{t("Source & scope", "출처와 범위")}</summary><p>{r.scope[l]}</p><p>{r.identityBasis[l]}</p>{r.sourceIds.map(id => { const source = allSources.find(s => s.id === id); return source && <a key={id} href={source.url} target="_blank" rel="noreferrer">{source.titleOriginal}<ArrowUpRight size={13} /></a>; })}<small>{t("Checked", "확인")} {formatDay(r.verifiedAt, l)}</small></details>
         </> : <p>{t("No verified release record yet.", "출시 근거를 아직 확인하지 못했습니다.")}</p>}
       </div>;

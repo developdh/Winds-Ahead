@@ -556,7 +556,7 @@
     {
       "cosmeticId": "cang-yinwan-gu-bei-chen",
       "server": "CN",
-      "status": "released",
+      "status": "announced",
       "sourceIds": [
         "cn-b67f119eefac"
       ],
@@ -564,18 +564,19 @@
       "releaseDate": null,
       "precision": "unknown",
       "scope": {
-        "en": "Historical official listing or in-game appearance maintenance notice. This does not establish current availability or an original release date.",
-        "ko": "과거 공식 출시·외관 수정 공지 기록입니다. 현재 판매 여부와 최초 출시일을 뜻하지 않습니다."
+        "en": "The retained source announces a future release, but the recorded release window has passed without a follow-up confirmation in this archive. Actual CN release needs verification; this is not a new future schedule.",
+        "ko": "보관된 원문은 출시 예고이며, 해당 예고 기간이 지난 뒤의 출시 확인 근거는 아직 기록되어 있지 않습니다. 중국 실제 출시를 추가 확인해야 하며 새로운 미래 일정이라는 뜻은 아닙니다."
       },
       "identityBasis": {
         "en": "The official regional source explicitly names this appearance and category.",
         "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
-      }
+      },
+      "confirmationPending": true
     },
     {
       "cosmeticId": "meng-xun-hu-pao",
       "server": "CN",
-      "status": "released",
+      "status": "announced",
       "sourceIds": [
         "cn-cb2f384557f7"
       ],
@@ -583,18 +584,19 @@
       "releaseDate": null,
       "precision": "unknown",
       "scope": {
-        "en": "Historical official listing or in-game appearance maintenance notice. This does not establish current availability or an original release date.",
-        "ko": "과거 공식 출시·외관 수정 공지 기록입니다. 현재 판매 여부와 최초 출시일을 뜻하지 않습니다."
+        "en": "The retained source announces a future release, but the recorded release window has passed without a follow-up confirmation in this archive. Actual CN release needs verification; this is not a new future schedule.",
+        "ko": "보관된 원문은 출시 예고이며, 해당 예고 기간이 지난 뒤의 출시 확인 근거는 아직 기록되어 있지 않습니다. 중국 실제 출시를 추가 확인해야 하며 새로운 미래 일정이라는 뜻은 아닙니다."
       },
       "identityBasis": {
         "en": "The official regional source explicitly names this appearance and category.",
         "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
-      }
+      },
+      "confirmationPending": true
     },
     {
       "cosmeticId": "fuyun-juan-ai",
       "server": "CN",
-      "status": "released",
+      "status": "announced",
       "sourceIds": [
         "cn-cb2f384557f7"
       ],
@@ -602,13 +604,14 @@
       "releaseDate": null,
       "precision": "unknown",
       "scope": {
-        "en": "Historical official listing or in-game appearance maintenance notice. This does not establish current availability or an original release date.",
-        "ko": "과거 공식 출시·외관 수정 공지 기록입니다. 현재 판매 여부와 최초 출시일을 뜻하지 않습니다."
+        "en": "The retained source announces a future release, but the recorded release window has passed without a follow-up confirmation in this archive. Actual CN release needs verification; this is not a new future schedule.",
+        "ko": "보관된 원문은 출시 예고이며, 해당 예고 기간이 지난 뒤의 출시 확인 근거는 아직 기록되어 있지 않습니다. 중국 실제 출시를 추가 확인해야 하며 새로운 미래 일정이라는 뜻은 아닙니다."
       },
       "identityBasis": {
         "en": "The official regional source explicitly names this appearance and category.",
         "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
-      }
+      },
+      "confirmationPending": true
     },
     {
       "cosmeticId": "wu-hui",
@@ -632,7 +635,7 @@
     {
       "cosmeticId": "ru-sui-shuang-tian",
       "server": "CN",
-      "status": "released",
+      "status": "announced",
       "sourceIds": [
         "cn-e8c015a4fc96"
       ],
@@ -640,18 +643,19 @@
       "releaseDate": null,
       "precision": "unknown",
       "scope": {
-        "en": "Historical official listing or in-game appearance maintenance notice. This does not establish current availability or an original release date.",
-        "ko": "과거 공식 출시·외관 수정 공지 기록입니다. 현재 판매 여부와 최초 출시일을 뜻하지 않습니다."
+        "en": "The retained source announces a future release, but the recorded release window has passed without a follow-up confirmation in this archive. Actual CN release needs verification; this is not a new future schedule.",
+        "ko": "보관된 원문은 출시 예고이며, 해당 예고 기간이 지난 뒤의 출시 확인 근거는 아직 기록되어 있지 않습니다. 중국 실제 출시를 추가 확인해야 하며 새로운 미래 일정이라는 뜻은 아닙니다."
       },
       "identityBasis": {
         "en": "The official regional source explicitly names this appearance and category.",
         "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
-      }
+      },
+      "confirmationPending": true
     },
     {
       "cosmeticId": "jinhua-yu",
       "server": "CN",
-      "status": "released",
+      "status": "announced",
       "sourceIds": [
         "cn-e8c015a4fc96"
       ],
@@ -659,18 +663,19 @@
       "releaseDate": null,
       "precision": "unknown",
       "scope": {
-        "en": "Historical official listing or in-game appearance maintenance notice. This does not establish current availability or an original release date.",
-        "ko": "과거 공식 출시·외관 수정 공지 기록입니다. 현재 판매 여부와 최초 출시일을 뜻하지 않습니다."
+        "en": "The retained source announces a future release, but the recorded release window has passed without a follow-up confirmation in this archive. Actual CN release needs verification; this is not a new future schedule.",
+        "ko": "보관된 원문은 출시 예고이며, 해당 예고 기간이 지난 뒤의 출시 확인 근거는 아직 기록되어 있지 않습니다. 중국 실제 출시를 추가 확인해야 하며 새로운 미래 일정이라는 뜻은 아닙니다."
       },
       "identityBasis": {
         "en": "The official regional source explicitly names this appearance and category.",
         "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
-      }
+      },
+      "confirmationPending": true
     },
     {
       "cosmeticId": "qing-zhi-wu-xin",
       "server": "CN",
-      "status": "released",
+      "status": "announced",
       "sourceIds": [
         "cn-d5c9abdbf445"
       ],
@@ -678,18 +683,19 @@
       "releaseDate": null,
       "precision": "unknown",
       "scope": {
-        "en": "Historical official listing or in-game appearance maintenance notice. This does not establish current availability or an original release date.",
-        "ko": "과거 공식 출시·외관 수정 공지 기록입니다. 현재 판매 여부와 최초 출시일을 뜻하지 않습니다."
+        "en": "The retained source announces a future release, but the recorded release window has passed without a follow-up confirmation in this archive. Actual CN release needs verification; this is not a new future schedule.",
+        "ko": "보관된 원문은 출시 예고이며, 해당 예고 기간이 지난 뒤의 출시 확인 근거는 아직 기록되어 있지 않습니다. 중국 실제 출시를 추가 확인해야 하며 새로운 미래 일정이라는 뜻은 아닙니다."
       },
       "identityBasis": {
         "en": "The official regional source explicitly names this appearance and category.",
         "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
-      }
+      },
+      "confirmationPending": true
     },
     {
       "cosmeticId": "que-qiao-xian",
       "server": "CN",
-      "status": "released",
+      "status": "announced",
       "sourceIds": [
         "cn-d5c9abdbf445"
       ],
@@ -697,18 +703,19 @@
       "releaseDate": null,
       "precision": "unknown",
       "scope": {
-        "en": "Historical official listing or in-game appearance maintenance notice. This does not establish current availability or an original release date.",
-        "ko": "과거 공식 출시·외관 수정 공지 기록입니다. 현재 판매 여부와 최초 출시일을 뜻하지 않습니다."
+        "en": "The retained source announces a future release, but the recorded release window has passed without a follow-up confirmation in this archive. Actual CN release needs verification; this is not a new future schedule.",
+        "ko": "보관된 원문은 출시 예고이며, 해당 예고 기간이 지난 뒤의 출시 확인 근거는 아직 기록되어 있지 않습니다. 중국 실제 출시를 추가 확인해야 하며 새로운 미래 일정이라는 뜻은 아닙니다."
       },
       "identityBasis": {
         "en": "The official regional source explicitly names this appearance and category.",
         "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
-      }
+      },
+      "confirmationPending": true
     },
     {
       "cosmeticId": "sui-shi-an",
       "server": "CN",
-      "status": "released",
+      "status": "announced",
       "sourceIds": [
         "cn-18be66deb953"
       ],
@@ -716,18 +723,19 @@
       "releaseDate": null,
       "precision": "unknown",
       "scope": {
-        "en": "Historical official listing or in-game appearance maintenance notice. This does not establish current availability or an original release date.",
-        "ko": "과거 공식 출시·외관 수정 공지 기록입니다. 현재 판매 여부와 최초 출시일을 뜻하지 않습니다."
+        "en": "The retained source announces a future release, but the recorded release window has passed without a follow-up confirmation in this archive. Actual CN release needs verification; this is not a new future schedule.",
+        "ko": "보관된 원문은 출시 예고이며, 해당 예고 기간이 지난 뒤의 출시 확인 근거는 아직 기록되어 있지 않습니다. 중국 실제 출시를 추가 확인해야 하며 새로운 미래 일정이라는 뜻은 아닙니다."
       },
       "identityBasis": {
         "en": "The official regional source explicitly names this appearance and category.",
         "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
-      }
+      },
+      "confirmationPending": true
     },
     {
       "cosmeticId": "hong-chen-jin",
       "server": "CN",
-      "status": "released",
+      "status": "announced",
       "sourceIds": [
         "cn-dd3052d2b8a5"
       ],
@@ -735,18 +743,19 @@
       "releaseDate": null,
       "precision": "unknown",
       "scope": {
-        "en": "Historical official listing or in-game appearance maintenance notice. This does not establish current availability or an original release date.",
-        "ko": "과거 공식 출시·외관 수정 공지 기록입니다. 현재 판매 여부와 최초 출시일을 뜻하지 않습니다."
+        "en": "The retained source announces a future release, but the recorded release window has passed without a follow-up confirmation in this archive. Actual CN release needs verification; this is not a new future schedule.",
+        "ko": "보관된 원문은 출시 예고이며, 해당 예고 기간이 지난 뒤의 출시 확인 근거는 아직 기록되어 있지 않습니다. 중국 실제 출시를 추가 확인해야 하며 새로운 미래 일정이라는 뜻은 아닙니다."
       },
       "identityBasis": {
         "en": "The official regional source explicitly names this appearance and category.",
         "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
-      }
+      },
+      "confirmationPending": true
     },
     {
       "cosmeticId": "wang-xiang-ke",
       "server": "CN",
-      "status": "released",
+      "status": "announced",
       "sourceIds": [
         "cn-434a951d3e36"
       ],
@@ -754,18 +763,19 @@
       "releaseDate": null,
       "precision": "unknown",
       "scope": {
-        "en": "Historical official listing or in-game appearance maintenance notice. This does not establish current availability or an original release date.",
-        "ko": "과거 공식 출시·외관 수정 공지 기록입니다. 현재 판매 여부와 최초 출시일을 뜻하지 않습니다."
+        "en": "The retained source announces a future release, but the recorded release window has passed without a follow-up confirmation in this archive. Actual CN release needs verification; this is not a new future schedule.",
+        "ko": "보관된 원문은 출시 예고이며, 해당 예고 기간이 지난 뒤의 출시 확인 근거는 아직 기록되어 있지 않습니다. 중국 실제 출시를 추가 확인해야 하며 새로운 미래 일정이라는 뜻은 아닙니다."
       },
       "identityBasis": {
         "en": "The official regional source explicitly names this appearance and category.",
         "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
-      }
+      },
+      "confirmationPending": true
     },
     {
       "cosmeticId": "yu-you-rong-yan",
       "server": "CN",
-      "status": "released",
+      "status": "announced",
       "sourceIds": [
         "cn-434a951d3e36"
       ],
@@ -773,13 +783,14 @@
       "releaseDate": null,
       "precision": "unknown",
       "scope": {
-        "en": "Historical official listing or in-game appearance maintenance notice. This does not establish current availability or an original release date.",
-        "ko": "과거 공식 출시·외관 수정 공지 기록입니다. 현재 판매 여부와 최초 출시일을 뜻하지 않습니다."
+        "en": "The retained source announces a future release, but the recorded release window has passed without a follow-up confirmation in this archive. Actual CN release needs verification; this is not a new future schedule.",
+        "ko": "보관된 원문은 출시 예고이며, 해당 예고 기간이 지난 뒤의 출시 확인 근거는 아직 기록되어 있지 않습니다. 중국 실제 출시를 추가 확인해야 하며 새로운 미래 일정이라는 뜻은 아닙니다."
       },
       "identityBasis": {
         "en": "The official regional source explicitly names this appearance and category.",
         "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
-      }
+      },
+      "confirmationPending": true
     },
     {
       "cosmeticId": "xiao-yue",
@@ -860,7 +871,7 @@
     {
       "cosmeticId": "xi-fang-shi",
       "server": "CN",
-      "status": "released",
+      "status": "announced",
       "sourceIds": [
         "cn-7da8fdf59752"
       ],
@@ -868,18 +879,19 @@
       "releaseDate": null,
       "precision": "unknown",
       "scope": {
-        "en": "Historical official listing or in-game appearance maintenance notice. This does not establish current availability or an original release date.",
-        "ko": "과거 공식 출시·외관 수정 공지 기록입니다. 현재 판매 여부와 최초 출시일을 뜻하지 않습니다."
+        "en": "The retained source announces a future release, but the recorded release window has passed without a follow-up confirmation in this archive. Actual CN release needs verification; this is not a new future schedule.",
+        "ko": "보관된 원문은 출시 예고이며, 해당 예고 기간이 지난 뒤의 출시 확인 근거는 아직 기록되어 있지 않습니다. 중국 실제 출시를 추가 확인해야 하며 새로운 미래 일정이라는 뜻은 아닙니다."
       },
       "identityBasis": {
         "en": "The official regional source explicitly names this appearance and category.",
         "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
-      }
+      },
+      "confirmationPending": true
     },
     {
       "cosmeticId": "zhi-qing-shuang",
       "server": "CN",
-      "status": "released",
+      "status": "announced",
       "sourceIds": [
         "cn-7da8fdf59752"
       ],
@@ -887,18 +899,19 @@
       "releaseDate": null,
       "precision": "unknown",
       "scope": {
-        "en": "Historical official listing or in-game appearance maintenance notice. This does not establish current availability or an original release date.",
-        "ko": "과거 공식 출시·외관 수정 공지 기록입니다. 현재 판매 여부와 최초 출시일을 뜻하지 않습니다."
+        "en": "The retained source announces a future release, but the recorded release window has passed without a follow-up confirmation in this archive. Actual CN release needs verification; this is not a new future schedule.",
+        "ko": "보관된 원문은 출시 예고이며, 해당 예고 기간이 지난 뒤의 출시 확인 근거는 아직 기록되어 있지 않습니다. 중국 실제 출시를 추가 확인해야 하며 새로운 미래 일정이라는 뜻은 아닙니다."
       },
       "identityBasis": {
         "en": "The official regional source explicitly names this appearance and category.",
         "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
-      }
+      },
+      "confirmationPending": true
     },
     {
       "cosmeticId": "wan-qing-liu-li",
       "server": "CN",
-      "status": "released",
+      "status": "announced",
       "sourceIds": [
         "cn-20251023-outfits"
       ],
@@ -906,18 +919,19 @@
       "releaseDate": null,
       "precision": "unknown",
       "scope": {
-        "en": "Historical official listing or in-game appearance maintenance notice. This does not establish current availability or an original release date.",
-        "ko": "과거 공식 출시·외관 수정 공지 기록입니다. 현재 판매 여부와 최초 출시일을 뜻하지 않습니다."
+        "en": "The retained source announces a future release, but the recorded release window has passed without a follow-up confirmation in this archive. Actual CN release needs verification; this is not a new future schedule.",
+        "ko": "보관된 원문은 출시 예고이며, 해당 예고 기간이 지난 뒤의 출시 확인 근거는 아직 기록되어 있지 않습니다. 중국 실제 출시를 추가 확인해야 하며 새로운 미래 일정이라는 뜻은 아닙니다."
       },
       "identityBasis": {
         "en": "The official regional source explicitly names this appearance and category.",
         "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
-      }
+      },
+      "confirmationPending": true
     },
     {
       "cosmeticId": "cang-yinhe-fei-fa-xiang",
       "server": "CN",
-      "status": "released",
+      "status": "announced",
       "sourceIds": [
         "cn-20251023-outfits"
       ],
@@ -925,18 +939,19 @@
       "releaseDate": null,
       "precision": "unknown",
       "scope": {
-        "en": "Historical official listing or in-game appearance maintenance notice. This does not establish current availability or an original release date.",
-        "ko": "과거 공식 출시·외관 수정 공지 기록입니다. 현재 판매 여부와 최초 출시일을 뜻하지 않습니다."
+        "en": "The retained source announces a future release, but the recorded release window has passed without a follow-up confirmation in this archive. Actual CN release needs verification; this is not a new future schedule.",
+        "ko": "보관된 원문은 출시 예고이며, 해당 예고 기간이 지난 뒤의 출시 확인 근거는 아직 기록되어 있지 않습니다. 중국 실제 출시를 추가 확인해야 하며 새로운 미래 일정이라는 뜻은 아닙니다."
       },
       "identityBasis": {
         "en": "The official regional source explicitly names this appearance and category.",
         "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
-      }
+      },
+      "confirmationPending": true
     },
     {
       "cosmeticId": "sha-li-wa",
       "server": "CN",
-      "status": "released",
+      "status": "announced",
       "sourceIds": [
         "cn-20251023-outfits"
       ],
@@ -944,13 +959,14 @@
       "releaseDate": null,
       "precision": "unknown",
       "scope": {
-        "en": "Historical official listing or in-game appearance maintenance notice. This does not establish current availability or an original release date.",
-        "ko": "과거 공식 출시·외관 수정 공지 기록입니다. 현재 판매 여부와 최초 출시일을 뜻하지 않습니다."
+        "en": "The retained source announces a future release, but the recorded release window has passed without a follow-up confirmation in this archive. Actual CN release needs verification; this is not a new future schedule.",
+        "ko": "보관된 원문은 출시 예고이며, 해당 예고 기간이 지난 뒤의 출시 확인 근거는 아직 기록되어 있지 않습니다. 중국 실제 출시를 추가 확인해야 하며 새로운 미래 일정이라는 뜻은 아닙니다."
       },
       "identityBasis": {
         "en": "The official regional source explicitly names this appearance and category.",
         "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
-      }
+      },
+      "confirmationPending": true
     },
     {
       "cosmeticId": "wan-laimanfei-ying",
@@ -1696,7 +1712,7 @@
     {
       "cosmeticId": "yu-long-yan-wu",
       "server": "CN",
-      "status": "released",
+      "status": "announced",
       "sourceIds": [
         "cn-434a951d3e36"
       ],
@@ -1704,13 +1720,14 @@
       "releaseDate": null,
       "precision": "unknown",
       "scope": {
-        "en": "Historical official listing or in-game appearance maintenance notice. This does not establish current availability or an original release date.",
-        "ko": "과거 공식 출시·외관 수정 공지 기록입니다. 현재 판매 여부와 최초 출시일을 뜻하지 않습니다."
+        "en": "The retained source announces a future release, but the recorded release window has passed without a follow-up confirmation in this archive. Actual CN release needs verification; this is not a new future schedule.",
+        "ko": "보관된 원문은 출시 예고이며, 해당 예고 기간이 지난 뒤의 출시 확인 근거는 아직 기록되어 있지 않습니다. 중국 실제 출시를 추가 확인해야 하며 새로운 미래 일정이라는 뜻은 아닙니다."
       },
       "identityBasis": {
         "en": "The official regional source explicitly names this appearance and category.",
         "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
-      }
+      },
+      "confirmationPending": true
     },
     {
       "cosmeticId": "jin-gang-she-nie",
@@ -1753,7 +1770,7 @@
     {
       "cosmeticId": "jin-sui-feng-rang",
       "server": "CN",
-      "status": "released",
+      "status": "announced",
       "sourceIds": [
         "cn-7da8fdf59752"
       ],
@@ -1761,13 +1778,14 @@
       "releaseDate": null,
       "precision": "unknown",
       "scope": {
-        "en": "Historical official listing or in-game appearance maintenance notice. This does not establish current availability or an original release date.",
-        "ko": "과거 공식 출시·외관 수정 공지 기록입니다. 현재 판매 여부와 최초 출시일을 뜻하지 않습니다."
+        "en": "The retained source announces a future release, but the recorded release window has passed without a follow-up confirmation in this archive. Actual CN release needs verification; this is not a new future schedule.",
+        "ko": "보관된 원문은 출시 예고이며, 해당 예고 기간이 지난 뒤의 출시 확인 근거는 아직 기록되어 있지 않습니다. 중국 실제 출시를 추가 확인해야 하며 새로운 미래 일정이라는 뜻은 아닙니다."
       },
       "identityBasis": {
         "en": "The official regional source explicitly names this appearance and category.",
         "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
-      }
+      },
+      "confirmationPending": true
     },
     {
       "cosmeticId": "ni-shang-huai-tian",
@@ -1829,7 +1847,7 @@
     {
       "cosmeticId": "fei-shuang-dianxue",
       "server": "CN",
-      "status": "released",
+      "status": "announced",
       "sourceIds": [
         "cn-628ac0ee4db4"
       ],
@@ -1837,18 +1855,19 @@
       "releaseDate": null,
       "precision": "unknown",
       "scope": {
-        "en": "Historical official listing or in-game appearance maintenance notice. This does not establish current availability or an original release date.",
-        "ko": "과거 공식 출시·외관 수정 공지 기록입니다. 현재 판매 여부와 최초 출시일을 뜻하지 않습니다."
+        "en": "The retained source announces a future release, but the recorded release window has passed without a follow-up confirmation in this archive. Actual CN release needs verification; this is not a new future schedule.",
+        "ko": "보관된 원문은 출시 예고이며, 해당 예고 기간이 지난 뒤의 출시 확인 근거는 아직 기록되어 있지 않습니다. 중국 실제 출시를 추가 확인해야 하며 새로운 미래 일정이라는 뜻은 아닙니다."
       },
       "identityBasis": {
         "en": "The official regional source explicitly names this appearance and category.",
         "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
-      }
+      },
+      "confirmationPending": true
     },
     {
       "cosmeticId": "yin-qian-ji",
       "server": "CN",
-      "status": "released",
+      "status": "announced",
       "sourceIds": [
         "cn-18d8757b6b49"
       ],
@@ -1856,13 +1875,14 @@
       "releaseDate": null,
       "precision": "unknown",
       "scope": {
-        "en": "Historical official listing or in-game appearance maintenance notice. This does not establish current availability or an original release date.",
-        "ko": "과거 공식 출시·외관 수정 공지 기록입니다. 현재 판매 여부와 최초 출시일을 뜻하지 않습니다."
+        "en": "The retained source announces a future release, but the recorded release window has passed without a follow-up confirmation in this archive. Actual CN release needs verification; this is not a new future schedule.",
+        "ko": "보관된 원문은 출시 예고이며, 해당 예고 기간이 지난 뒤의 출시 확인 근거는 아직 기록되어 있지 않습니다. 중국 실제 출시를 추가 확인해야 하며 새로운 미래 일정이라는 뜻은 아닙니다."
       },
       "identityBasis": {
         "en": "The official regional source explicitly names this appearance and category.",
         "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
-      }
+      },
+      "confirmationPending": true
     },
     {
       "cosmeticId": "wu-yin-guan-luan",
@@ -2437,7 +2457,7 @@
     {
       "cosmeticId": "qing-luan-yao-yin",
       "server": "CN",
-      "status": "released",
+      "status": "announced",
       "sourceIds": [
         "cn-20260226-outfits"
       ],
@@ -2445,13 +2465,14 @@
       "releaseDate": null,
       "precision": "unknown",
       "scope": {
-        "en": "Historical official listing or in-game appearance maintenance notice. This does not establish current availability or an original release date.",
-        "ko": "과거 공식 출시·외관 수정 공지 기록입니다. 현재 판매 여부와 최초 출시일을 뜻하지 않습니다."
+        "en": "The retained source announces a future release, but the recorded release window has passed without a follow-up confirmation in this archive. Actual CN release needs verification; this is not a new future schedule.",
+        "ko": "보관된 원문은 출시 예고이며, 해당 예고 기간이 지난 뒤의 출시 확인 근거는 아직 기록되어 있지 않습니다. 중국 실제 출시를 추가 확인해야 하며 새로운 미래 일정이라는 뜻은 아닙니다."
       },
       "identityBasis": {
         "en": "The official regional source explicitly names this appearance and category.",
         "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
-      }
+      },
+      "confirmationPending": true
     },
     {
       "cosmeticId": "jin-lin-song-rui",
@@ -2551,7 +2572,7 @@
     {
       "cosmeticId": "liu-sha-wen-gu",
       "server": "CN",
-      "status": "released",
+      "status": "announced",
       "sourceIds": [
         "cn-328aa2453ae5"
       ],
@@ -2559,18 +2580,19 @@
       "releaseDate": null,
       "precision": "unknown",
       "scope": {
-        "en": "Historical official listing or in-game appearance maintenance notice. This does not establish current availability or an original release date.",
-        "ko": "과거 공식 출시·외관 수정 공지 기록입니다. 현재 판매 여부와 최초 출시일을 뜻하지 않습니다."
+        "en": "The retained source announces a future release, but the recorded release window has passed without a follow-up confirmation in this archive. Actual CN release needs verification; this is not a new future schedule.",
+        "ko": "보관된 원문은 출시 예고이며, 해당 예고 기간이 지난 뒤의 출시 확인 근거는 아직 기록되어 있지 않습니다. 중국 실제 출시를 추가 확인해야 하며 새로운 미래 일정이라는 뜻은 아닙니다."
       },
       "identityBasis": {
         "en": "The official regional source explicitly names this appearance and category.",
         "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
-      }
+      },
+      "confirmationPending": true
     },
     {
       "cosmeticId": "qiu-hong-ta-zhi",
       "server": "CN",
-      "status": "released",
+      "status": "announced",
       "sourceIds": [
         "cn-328aa2453ae5"
       ],
@@ -2578,13 +2600,14 @@
       "releaseDate": null,
       "precision": "unknown",
       "scope": {
-        "en": "Historical official listing or in-game appearance maintenance notice. This does not establish current availability or an original release date.",
-        "ko": "과거 공식 출시·외관 수정 공지 기록입니다. 현재 판매 여부와 최초 출시일을 뜻하지 않습니다."
+        "en": "The retained source announces a future release, but the recorded release window has passed without a follow-up confirmation in this archive. Actual CN release needs verification; this is not a new future schedule.",
+        "ko": "보관된 원문은 출시 예고이며, 해당 예고 기간이 지난 뒤의 출시 확인 근거는 아직 기록되어 있지 않습니다. 중국 실제 출시를 추가 확인해야 하며 새로운 미래 일정이라는 뜻은 아닙니다."
       },
       "identityBasis": {
         "en": "The official regional source explicitly names this appearance and category.",
         "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
-      }
+      },
+      "confirmationPending": true
     },
     {
       "cosmeticId": "chi-long-chengtian",
@@ -2817,7 +2840,7 @@
     {
       "cosmeticId": "zhaji-tong",
       "server": "CN",
-      "status": "released",
+      "status": "announced",
       "sourceIds": [
         "cn-819f0aca2216"
       ],
@@ -2825,18 +2848,19 @@
       "releaseDate": null,
       "precision": "unknown",
       "scope": {
-        "en": "Historical official listing or in-game appearance maintenance notice. This does not establish current availability or an original release date.",
-        "ko": "과거 공식 출시·외관 수정 공지 기록입니다. 현재 판매 여부와 최초 출시일을 뜻하지 않습니다."
+        "en": "The retained source announces a future release, but the recorded release window has passed without a follow-up confirmation in this archive. Actual CN release needs verification; this is not a new future schedule.",
+        "ko": "보관된 원문은 출시 예고이며, 해당 예고 기간이 지난 뒤의 출시 확인 근거는 아직 기록되어 있지 않습니다. 중국 실제 출시를 추가 확인해야 하며 새로운 미래 일정이라는 뜻은 아닙니다."
       },
       "identityBasis": {
         "en": "The official regional source explicitly names this appearance and category.",
         "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
-      }
+      },
+      "confirmationPending": true
     },
     {
       "cosmeticId": "wu-fan-shi-sheng",
       "server": "CN",
-      "status": "released",
+      "status": "announced",
       "sourceIds": [
         "cn-20260331-outfits"
       ],
@@ -2844,13 +2868,14 @@
       "releaseDate": null,
       "precision": "unknown",
       "scope": {
-        "en": "Historical official listing or in-game appearance maintenance notice. This does not establish current availability or an original release date.",
-        "ko": "과거 공식 출시·외관 수정 공지 기록입니다. 현재 판매 여부와 최초 출시일을 뜻하지 않습니다."
+        "en": "The retained source announces a future release, but the recorded release window has passed without a follow-up confirmation in this archive. Actual CN release needs verification; this is not a new future schedule.",
+        "ko": "보관된 원문은 출시 예고이며, 해당 예고 기간이 지난 뒤의 출시 확인 근거는 아직 기록되어 있지 않습니다. 중국 실제 출시를 추가 확인해야 하며 새로운 미래 일정이라는 뜻은 아닙니다."
       },
       "identityBasis": {
         "en": "The official regional source explicitly names this appearance and category.",
         "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
-      }
+      },
+      "confirmationPending": true
     },
     {
       "cosmeticId": "ba-la-ba-ba-ba",
@@ -2874,7 +2899,7 @@
     {
       "cosmeticId": "fang-hua-lin-lang",
       "server": "CN",
-      "status": "released",
+      "status": "announced",
       "sourceIds": [
         "cn-61e6e7744d60"
       ],
@@ -2882,18 +2907,19 @@
       "releaseDate": null,
       "precision": "unknown",
       "scope": {
-        "en": "Historical official listing or in-game appearance maintenance notice. This does not establish current availability or an original release date.",
-        "ko": "과거 공식 출시·외관 수정 공지 기록입니다. 현재 판매 여부와 최초 출시일을 뜻하지 않습니다."
+        "en": "The retained source announces a future release, but the recorded release window has passed without a follow-up confirmation in this archive. Actual CN release needs verification; this is not a new future schedule.",
+        "ko": "보관된 원문은 출시 예고이며, 해당 예고 기간이 지난 뒤의 출시 확인 근거는 아직 기록되어 있지 않습니다. 중국 실제 출시를 추가 확인해야 하며 새로운 미래 일정이라는 뜻은 아닙니다."
       },
       "identityBasis": {
         "en": "The official regional source explicitly names this appearance and category.",
         "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
-      }
+      },
+      "confirmationPending": true
     },
     {
       "cosmeticId": "wu-chun-shang",
       "server": "CN",
-      "status": "released",
+      "status": "announced",
       "sourceIds": [
         "cn-61e6e7744d60"
       ],
@@ -2901,18 +2927,19 @@
       "releaseDate": null,
       "precision": "unknown",
       "scope": {
-        "en": "Historical official listing or in-game appearance maintenance notice. This does not establish current availability or an original release date.",
-        "ko": "과거 공식 출시·외관 수정 공지 기록입니다. 현재 판매 여부와 최초 출시일을 뜻하지 않습니다."
+        "en": "The retained source announces a future release, but the recorded release window has passed without a follow-up confirmation in this archive. Actual CN release needs verification; this is not a new future schedule.",
+        "ko": "보관된 원문은 출시 예고이며, 해당 예고 기간이 지난 뒤의 출시 확인 근거는 아직 기록되어 있지 않습니다. 중국 실제 출시를 추가 확인해야 하며 새로운 미래 일정이라는 뜻은 아닙니다."
       },
       "identityBasis": {
         "en": "The official regional source explicitly names this appearance and category.",
         "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
-      }
+      },
+      "confirmationPending": true
     },
     {
       "cosmeticId": "chun-fei-manye",
       "server": "CN",
-      "status": "released",
+      "status": "announced",
       "sourceIds": [
         "cn-34389ac4a050"
       ],
@@ -2920,13 +2947,14 @@
       "releaseDate": null,
       "precision": "unknown",
       "scope": {
-        "en": "Historical official listing or in-game appearance maintenance notice. This does not establish current availability or an original release date.",
-        "ko": "과거 공식 출시·외관 수정 공지 기록입니다. 현재 판매 여부와 최초 출시일을 뜻하지 않습니다."
+        "en": "The retained source announces a future release, but the recorded release window has passed without a follow-up confirmation in this archive. Actual CN release needs verification; this is not a new future schedule.",
+        "ko": "보관된 원문은 출시 예고이며, 해당 예고 기간이 지난 뒤의 출시 확인 근거는 아직 기록되어 있지 않습니다. 중국 실제 출시를 추가 확인해야 하며 새로운 미래 일정이라는 뜻은 아닙니다."
       },
       "identityBasis": {
         "en": "The official regional source explicitly names this appearance and category.",
         "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
-      }
+      },
+      "confirmationPending": true
     },
     {
       "cosmeticId": "chun-yuan",
@@ -2988,7 +3016,7 @@
     {
       "cosmeticId": "shao-nian-xing",
       "server": "CN",
-      "status": "released",
+      "status": "announced",
       "sourceIds": [
         "cn-20260422-outfits"
       ],
@@ -2996,18 +3024,19 @@
       "releaseDate": null,
       "precision": "unknown",
       "scope": {
-        "en": "Historical official listing or in-game appearance maintenance notice. This does not establish current availability or an original release date.",
-        "ko": "과거 공식 출시·외관 수정 공지 기록입니다. 현재 판매 여부와 최초 출시일을 뜻하지 않습니다."
+        "en": "The retained source announces a future release, but the recorded release window has passed without a follow-up confirmation in this archive. Actual CN release needs verification; this is not a new future schedule.",
+        "ko": "보관된 원문은 출시 예고이며, 해당 예고 기간이 지난 뒤의 출시 확인 근거는 아직 기록되어 있지 않습니다. 중국 실제 출시를 추가 확인해야 하며 새로운 미래 일정이라는 뜻은 아닙니다."
       },
       "identityBasis": {
         "en": "The official regional source explicitly names this appearance and category.",
         "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
-      }
+      },
+      "confirmationPending": true
     },
     {
       "cosmeticId": "wu-sheng-gu",
       "server": "CN",
-      "status": "released",
+      "status": "announced",
       "sourceIds": [
         "cn-20260422-outfits"
       ],
@@ -3015,18 +3044,19 @@
       "releaseDate": null,
       "precision": "unknown",
       "scope": {
-        "en": "Historical official listing or in-game appearance maintenance notice. This does not establish current availability or an original release date.",
-        "ko": "과거 공식 출시·외관 수정 공지 기록입니다. 현재 판매 여부와 최초 출시일을 뜻하지 않습니다."
+        "en": "The retained source announces a future release, but the recorded release window has passed without a follow-up confirmation in this archive. Actual CN release needs verification; this is not a new future schedule.",
+        "ko": "보관된 원문은 출시 예고이며, 해당 예고 기간이 지난 뒤의 출시 확인 근거는 아직 기록되어 있지 않습니다. 중국 실제 출시를 추가 확인해야 하며 새로운 미래 일정이라는 뜻은 아닙니다."
       },
       "identityBasis": {
         "en": "The official regional source explicitly names this appearance and category.",
         "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
-      }
+      },
+      "confirmationPending": true
     },
     {
       "cosmeticId": "zhuxuan-dong-yue",
       "server": "CN",
-      "status": "released",
+      "status": "announced",
       "sourceIds": [
         "cn-20260422-outfits"
       ],
@@ -3034,18 +3064,19 @@
       "releaseDate": null,
       "precision": "unknown",
       "scope": {
-        "en": "Historical official listing or in-game appearance maintenance notice. This does not establish current availability or an original release date.",
-        "ko": "과거 공식 출시·외관 수정 공지 기록입니다. 현재 판매 여부와 최초 출시일을 뜻하지 않습니다."
+        "en": "The retained source announces a future release, but the recorded release window has passed without a follow-up confirmation in this archive. Actual CN release needs verification; this is not a new future schedule.",
+        "ko": "보관된 원문은 출시 예고이며, 해당 예고 기간이 지난 뒤의 출시 확인 근거는 아직 기록되어 있지 않습니다. 중국 실제 출시를 추가 확인해야 하며 새로운 미래 일정이라는 뜻은 아닙니다."
       },
       "identityBasis": {
         "en": "The official regional source explicitly names this appearance and category.",
         "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
-      }
+      },
+      "confirmationPending": true
     },
     {
       "cosmeticId": "cong-cong-rong-rong",
       "server": "CN",
-      "status": "released",
+      "status": "announced",
       "sourceIds": [
         "cn-20260422-outfits"
       ],
@@ -3053,13 +3084,14 @@
       "releaseDate": null,
       "precision": "unknown",
       "scope": {
-        "en": "Historical official listing or in-game appearance maintenance notice. This does not establish current availability or an original release date.",
-        "ko": "과거 공식 출시·외관 수정 공지 기록입니다. 현재 판매 여부와 최초 출시일을 뜻하지 않습니다."
+        "en": "The retained source announces a future release, but the recorded release window has passed without a follow-up confirmation in this archive. Actual CN release needs verification; this is not a new future schedule.",
+        "ko": "보관된 원문은 출시 예고이며, 해당 예고 기간이 지난 뒤의 출시 확인 근거는 아직 기록되어 있지 않습니다. 중국 실제 출시를 추가 확인해야 하며 새로운 미래 일정이라는 뜻은 아닙니다."
       },
       "identityBasis": {
         "en": "The official regional source explicitly names this appearance and category.",
         "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
-      }
+      },
+      "confirmationPending": true
     },
     {
       "cosmeticId": "dianchun-ou",
@@ -3330,7 +3362,7 @@
     {
       "cosmeticId": "landong-feng",
       "server": "CN",
-      "status": "released",
+      "status": "announced",
       "sourceIds": [
         "cn-20260528-outfits"
       ],
@@ -3338,13 +3370,14 @@
       "releaseDate": null,
       "precision": "unknown",
       "scope": {
-        "en": "Historical official listing or in-game appearance maintenance notice. This does not establish current availability or an original release date.",
-        "ko": "과거 공식 출시·외관 수정 공지 기록입니다. 현재 판매 여부와 최초 출시일을 뜻하지 않습니다."
+        "en": "The retained source announces a future release, but the recorded release window has passed without a follow-up confirmation in this archive. Actual CN release needs verification; this is not a new future schedule.",
+        "ko": "보관된 원문은 출시 예고이며, 해당 예고 기간이 지난 뒤의 출시 확인 근거는 아직 기록되어 있지 않습니다. 중국 실제 출시를 추가 확인해야 하며 새로운 미래 일정이라는 뜻은 아닙니다."
       },
       "identityBasis": {
         "en": "The official regional source explicitly names this appearance and category.",
         "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
-      }
+      },
+      "confirmationPending": true
     },
     {
       "cosmeticId": "yu-long-kongyou",
@@ -3596,7 +3629,7 @@
     {
       "cosmeticId": "xuan-yinggou-yue-xian-xian",
       "server": "CN",
-      "status": "released",
+      "status": "announced",
       "sourceIds": [
         "cn-c2133042ccf0"
       ],
@@ -3604,13 +3637,14 @@
       "releaseDate": null,
       "precision": "unknown",
       "scope": {
-        "en": "Historical official listing or in-game appearance maintenance notice. This does not establish current availability or an original release date.",
-        "ko": "과거 공식 출시·외관 수정 공지 기록입니다. 현재 판매 여부와 최초 출시일을 뜻하지 않습니다."
+        "en": "The retained source announces a future release, but the recorded release window has passed without a follow-up confirmation in this archive. Actual CN release needs verification; this is not a new future schedule.",
+        "ko": "보관된 원문은 출시 예고이며, 해당 예고 기간이 지난 뒤의 출시 확인 근거는 아직 기록되어 있지 않습니다. 중국 실제 출시를 추가 확인해야 하며 새로운 미래 일정이라는 뜻은 아닙니다."
       },
       "identityBasis": {
         "en": "The official regional source explicitly names this appearance and category.",
         "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
-      }
+      },
+      "confirmationPending": true
     },
     {
       "cosmeticId": "jin-wu-yu-ri",
@@ -3691,7 +3725,7 @@
     {
       "cosmeticId": "gu-guan-wan-li",
       "server": "CN",
-      "status": "released",
+      "status": "announced",
       "sourceIds": [
         "cn-e3ac041ac847"
       ],
@@ -3699,18 +3733,19 @@
       "releaseDate": null,
       "precision": "unknown",
       "scope": {
-        "en": "Historical official listing or in-game appearance maintenance notice. This does not establish current availability or an original release date.",
-        "ko": "과거 공식 출시·외관 수정 공지 기록입니다. 현재 판매 여부와 최초 출시일을 뜻하지 않습니다."
+        "en": "The retained source announces a future release, but the recorded release window has passed without a follow-up confirmation in this archive. Actual CN release needs verification; this is not a new future schedule.",
+        "ko": "보관된 원문은 출시 예고이며, 해당 예고 기간이 지난 뒤의 출시 확인 근거는 아직 기록되어 있지 않습니다. 중국 실제 출시를 추가 확인해야 하며 새로운 미래 일정이라는 뜻은 아닙니다."
       },
       "identityBasis": {
         "en": "The official regional source explicitly names this appearance and category.",
         "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
-      }
+      },
+      "confirmationPending": true
     },
     {
       "cosmeticId": "xin-hen-shou-la",
       "server": "CN",
-      "status": "released",
+      "status": "announced",
       "sourceIds": [
         "cn-e3ac041ac847"
       ],
@@ -3718,13 +3753,14 @@
       "releaseDate": null,
       "precision": "unknown",
       "scope": {
-        "en": "Historical official listing or in-game appearance maintenance notice. This does not establish current availability or an original release date.",
-        "ko": "과거 공식 출시·외관 수정 공지 기록입니다. 현재 판매 여부와 최초 출시일을 뜻하지 않습니다."
+        "en": "The retained source announces a future release, but the recorded release window has passed without a follow-up confirmation in this archive. Actual CN release needs verification; this is not a new future schedule.",
+        "ko": "보관된 원문은 출시 예고이며, 해당 예고 기간이 지난 뒤의 출시 확인 근거는 아직 기록되어 있지 않습니다. 중국 실제 출시를 추가 확인해야 하며 새로운 미래 일정이라는 뜻은 아닙니다."
       },
       "identityBasis": {
         "en": "The official regional source explicitly names this appearance and category.",
         "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
-      }
+      },
+      "confirmationPending": true
     },
     {
       "cosmeticId": "zui-jiao-hong",
@@ -3786,7 +3822,7 @@
     {
       "cosmeticId": "xuan-yingshui-he-qing-tian",
       "server": "CN",
-      "status": "released",
+      "status": "announced",
       "sourceIds": [
         "cn-20260630-outfits"
       ],
@@ -3794,18 +3830,19 @@
       "releaseDate": null,
       "precision": "unknown",
       "scope": {
-        "en": "Historical official listing or in-game appearance maintenance notice. This does not establish current availability or an original release date.",
-        "ko": "과거 공식 출시·외관 수정 공지 기록입니다. 현재 판매 여부와 최초 출시일을 뜻하지 않습니다."
+        "en": "The retained source announces a future release, but the recorded release window has passed without a follow-up confirmation in this archive. Actual CN release needs verification; this is not a new future schedule.",
+        "ko": "보관된 원문은 출시 예고이며, 해당 예고 기간이 지난 뒤의 출시 확인 근거는 아직 기록되어 있지 않습니다. 중국 실제 출시를 추가 확인해야 하며 새로운 미래 일정이라는 뜻은 아닙니다."
       },
       "identityBasis": {
         "en": "The official regional source explicitly names this appearance and category.",
         "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
-      }
+      },
+      "confirmationPending": true
     },
     {
       "cosmeticId": "yi-nuoqian-jin",
       "server": "CN",
-      "status": "released",
+      "status": "announced",
       "sourceIds": [
         "cn-20260630-outfits"
       ],
@@ -3813,13 +3850,14 @@
       "releaseDate": null,
       "precision": "unknown",
       "scope": {
-        "en": "Historical official listing or in-game appearance maintenance notice. This does not establish current availability or an original release date.",
-        "ko": "과거 공식 출시·외관 수정 공지 기록입니다. 현재 판매 여부와 최초 출시일을 뜻하지 않습니다."
+        "en": "The retained source announces a future release, but the recorded release window has passed without a follow-up confirmation in this archive. Actual CN release needs verification; this is not a new future schedule.",
+        "ko": "보관된 원문은 출시 예고이며, 해당 예고 기간이 지난 뒤의 출시 확인 근거는 아직 기록되어 있지 않습니다. 중국 실제 출시를 추가 확인해야 하며 새로운 미래 일정이라는 뜻은 아닙니다."
       },
       "identityBasis": {
         "en": "The official regional source explicitly names this appearance and category.",
         "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
-      }
+      },
+      "confirmationPending": true
     },
     {
       "cosmeticId": "xuan-yingjing-ying-yao-yue",
@@ -3862,7 +3900,7 @@
     {
       "cosmeticId": "du-feng-tao",
       "server": "CN",
-      "status": "released",
+      "status": "announced",
       "sourceIds": [
         "cn-8bc42780574e"
       ],
@@ -3870,18 +3908,19 @@
       "releaseDate": null,
       "precision": "unknown",
       "scope": {
-        "en": "Historical official listing or in-game appearance maintenance notice. This does not establish current availability or an original release date.",
-        "ko": "과거 공식 출시·외관 수정 공지 기록입니다. 현재 판매 여부와 최초 출시일을 뜻하지 않습니다."
+        "en": "The retained source announces a future release, but the recorded release window has passed without a follow-up confirmation in this archive. Actual CN release needs verification; this is not a new future schedule.",
+        "ko": "보관된 원문은 출시 예고이며, 해당 예고 기간이 지난 뒤의 출시 확인 근거는 아직 기록되어 있지 않습니다. 중국 실제 출시를 추가 확인해야 하며 새로운 미래 일정이라는 뜻은 아닙니다."
       },
       "identityBasis": {
         "en": "The official regional source explicitly names this appearance and category.",
         "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
-      }
+      },
+      "confirmationPending": true
     },
     {
       "cosmeticId": "wu-du",
       "server": "CN",
-      "status": "released",
+      "status": "announced",
       "sourceIds": [
         "cn-8bc42780574e"
       ],
@@ -3889,18 +3928,19 @@
       "releaseDate": null,
       "precision": "unknown",
       "scope": {
-        "en": "Historical official listing or in-game appearance maintenance notice. This does not establish current availability or an original release date.",
-        "ko": "과거 공식 출시·외관 수정 공지 기록입니다. 현재 판매 여부와 최초 출시일을 뜻하지 않습니다."
+        "en": "The retained source announces a future release, but the recorded release window has passed without a follow-up confirmation in this archive. Actual CN release needs verification; this is not a new future schedule.",
+        "ko": "보관된 원문은 출시 예고이며, 해당 예고 기간이 지난 뒤의 출시 확인 근거는 아직 기록되어 있지 않습니다. 중국 실제 출시를 추가 확인해야 하며 새로운 미래 일정이라는 뜻은 아닙니다."
       },
       "identityBasis": {
         "en": "The official regional source explicitly names this appearance and category.",
         "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
-      }
+      },
+      "confirmationPending": true
     },
     {
       "cosmeticId": "yi-ying-ju-quan",
       "server": "CN",
-      "status": "released",
+      "status": "announced",
       "sourceIds": [
         "cn-8bc42780574e"
       ],
@@ -3908,13 +3948,14 @@
       "releaseDate": null,
       "precision": "unknown",
       "scope": {
-        "en": "Historical official listing or in-game appearance maintenance notice. This does not establish current availability or an original release date.",
-        "ko": "과거 공식 출시·외관 수정 공지 기록입니다. 현재 판매 여부와 최초 출시일을 뜻하지 않습니다."
+        "en": "The retained source announces a future release, but the recorded release window has passed without a follow-up confirmation in this archive. Actual CN release needs verification; this is not a new future schedule.",
+        "ko": "보관된 원문은 출시 예고이며, 해당 예고 기간이 지난 뒤의 출시 확인 근거는 아직 기록되어 있지 않습니다. 중국 실제 출시를 추가 확인해야 하며 새로운 미래 일정이라는 뜻은 아닙니다."
       },
       "identityBasis": {
         "en": "The official regional source explicitly names this appearance and category.",
         "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
-      }
+      },
+      "confirmationPending": true
     },
     {
       "cosmeticId": "dan-xin",
@@ -4546,7 +4587,7 @@
     {
       "cosmeticId": "ying-hun-zhao-gu",
       "server": "CN",
-      "status": "released",
+      "status": "announced",
       "sourceIds": [
         "cn-328aa2453ae5"
       ],
@@ -4554,13 +4595,14 @@
       "releaseDate": null,
       "precision": "unknown",
       "scope": {
-        "en": "Historical official listing or in-game appearance maintenance notice. This does not establish current availability or an original release date.",
-        "ko": "과거 공식 출시·외관 수정 공지 기록입니다. 현재 판매 여부와 최초 출시일을 뜻하지 않습니다."
+        "en": "The retained source announces a future release, but the recorded release window has passed without a follow-up confirmation in this archive. Actual CN release needs verification; this is not a new future schedule.",
+        "ko": "보관된 원문은 출시 예고이며, 해당 예고 기간이 지난 뒤의 출시 확인 근거는 아직 기록되어 있지 않습니다. 중국 실제 출시를 추가 확인해야 하며 새로운 미래 일정이라는 뜻은 아닙니다."
       },
       "identityBasis": {
         "en": "The official regional source explicitly names this appearance and category.",
         "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
-      }
+      },
+      "confirmationPending": true
     },
     {
       "cosmeticId": "ji-yue-zhang-feng",
@@ -4698,7 +4740,7 @@
     {
       "cosmeticId": "kuai-zai-feng",
       "server": "CN",
-      "status": "released",
+      "status": "announced",
       "sourceIds": [
         "cn-1416a31bd374"
       ],
@@ -4706,13 +4748,14 @@
       "releaseDate": null,
       "precision": "unknown",
       "scope": {
-        "en": "Historical official listing or in-game appearance maintenance notice. This does not establish current availability or an original release date.",
-        "ko": "과거 공식 출시·외관 수정 공지 기록입니다. 현재 판매 여부와 최초 출시일을 뜻하지 않습니다."
+        "en": "The retained source announces a future release, but the recorded release window has passed without a follow-up confirmation in this archive. Actual CN release needs verification; this is not a new future schedule.",
+        "ko": "보관된 원문은 출시 예고이며, 해당 예고 기간이 지난 뒤의 출시 확인 근거는 아직 기록되어 있지 않습니다. 중국 실제 출시를 추가 확인해야 하며 새로운 미래 일정이라는 뜻은 아닙니다."
       },
       "identityBasis": {
         "en": "The official regional source explicitly names this appearance and category.",
         "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
-      }
+      },
+      "confirmationPending": true
     },
     {
       "cosmeticId": "cang-langyou-sheng",
@@ -4793,7 +4836,7 @@
     {
       "cosmeticId": "bu-ji-ze-tui",
       "server": "CN",
-      "status": "released",
+      "status": "announced",
       "sourceIds": [
         "cn-cc0b180f1461"
       ],
@@ -4801,18 +4844,19 @@
       "releaseDate": null,
       "precision": "unknown",
       "scope": {
-        "en": "Historical official listing or in-game appearance maintenance notice. This does not establish current availability or an original release date.",
-        "ko": "과거 공식 출시·외관 수정 공지 기록입니다. 현재 판매 여부와 최초 출시일을 뜻하지 않습니다."
+        "en": "The retained source announces a future release, but the recorded release window has passed without a follow-up confirmation in this archive. Actual CN release needs verification; this is not a new future schedule.",
+        "ko": "보관된 원문은 출시 예고이며, 해당 예고 기간이 지난 뒤의 출시 확인 근거는 아직 기록되어 있지 않습니다. 중국 실제 출시를 추가 확인해야 하며 새로운 미래 일정이라는 뜻은 아닙니다."
       },
       "identityBasis": {
         "en": "The official regional source explicitly names this appearance and category.",
         "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
-      }
+      },
+      "confirmationPending": true
     },
     {
       "cosmeticId": "he-jia-huan",
       "server": "CN",
-      "status": "released",
+      "status": "announced",
       "sourceIds": [
         "cn-cc0b180f1461"
       ],
@@ -4820,13 +4864,14 @@
       "releaseDate": null,
       "precision": "unknown",
       "scope": {
-        "en": "Historical official listing or in-game appearance maintenance notice. This does not establish current availability or an original release date.",
-        "ko": "과거 공식 출시·외관 수정 공지 기록입니다. 현재 판매 여부와 최초 출시일을 뜻하지 않습니다."
+        "en": "The retained source announces a future release, but the recorded release window has passed without a follow-up confirmation in this archive. Actual CN release needs verification; this is not a new future schedule.",
+        "ko": "보관된 원문은 출시 예고이며, 해당 예고 기간이 지난 뒤의 출시 확인 근거는 아직 기록되어 있지 않습니다. 중국 실제 출시를 추가 확인해야 하며 새로운 미래 일정이라는 뜻은 아닙니다."
       },
       "identityBasis": {
         "en": "The official regional source explicitly names this appearance and category.",
         "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
-      }
+      },
+      "confirmationPending": true
     },
     {
       "cosmeticId": "qian-chang-chun",
@@ -4964,7 +5009,7 @@
     {
       "cosmeticId": "feng-yin-bi-an",
       "server": "CN",
-      "status": "released",
+      "status": "announced",
       "sourceIds": [
         "cn-e8c015a4fc96"
       ],
@@ -4972,13 +5017,14 @@
       "releaseDate": null,
       "precision": "unknown",
       "scope": {
-        "en": "Historical official listing or in-game appearance maintenance notice. This does not establish current availability or an original release date.",
-        "ko": "과거 공식 출시·외관 수정 공지 기록입니다. 현재 판매 여부와 최초 출시일을 뜻하지 않습니다."
+        "en": "The retained source announces a future release, but the recorded release window has passed without a follow-up confirmation in this archive. Actual CN release needs verification; this is not a new future schedule.",
+        "ko": "보관된 원문은 출시 예고이며, 해당 예고 기간이 지난 뒤의 출시 확인 근거는 아직 기록되어 있지 않습니다. 중국 실제 출시를 추가 확인해야 하며 새로운 미래 일정이라는 뜻은 아닙니다."
       },
       "identityBasis": {
         "en": "The official regional source explicitly names this appearance and category.",
         "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
-      }
+      },
+      "confirmationPending": true
     },
     {
       "cosmeticId": "le-tao-tao",
@@ -5249,7 +5295,7 @@
     {
       "cosmeticId": "ti-yin-deng",
       "server": "CN",
-      "status": "released",
+      "status": "announced",
       "sourceIds": [
         "cn-f02a73c745e7"
       ],
@@ -5257,13 +5303,14 @@
       "releaseDate": null,
       "precision": "unknown",
       "scope": {
-        "en": "Historical official listing or in-game appearance maintenance notice. This does not establish current availability or an original release date.",
-        "ko": "과거 공식 출시·외관 수정 공지 기록입니다. 현재 판매 여부와 최초 출시일을 뜻하지 않습니다."
+        "en": "The retained source announces a future release, but the recorded release window has passed without a follow-up confirmation in this archive. Actual CN release needs verification; this is not a new future schedule.",
+        "ko": "보관된 원문은 출시 예고이며, 해당 예고 기간이 지난 뒤의 출시 확인 근거는 아직 기록되어 있지 않습니다. 중국 실제 출시를 추가 확인해야 하며 새로운 미래 일정이라는 뜻은 아닙니다."
       },
       "identityBasis": {
         "en": "The official regional source explicitly names this appearance and category.",
         "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
-      }
+      },
+      "confirmationPending": true
     },
     {
       "cosmeticId": "yue-zhong-tian-que",
@@ -5610,7 +5657,7 @@
     {
       "cosmeticId": "du-yan-gui",
       "server": "CN",
-      "status": "released",
+      "status": "announced",
       "sourceIds": [
         "cn-85851a61a6ba"
       ],
@@ -5618,13 +5665,14 @@
       "releaseDate": null,
       "precision": "unknown",
       "scope": {
-        "en": "Historical official listing or in-game appearance maintenance notice. This does not establish current availability or an original release date.",
-        "ko": "과거 공식 출시·외관 수정 공지 기록입니다. 현재 판매 여부와 최초 출시일을 뜻하지 않습니다."
+        "en": "The retained source announces a future release, but the recorded release window has passed without a follow-up confirmation in this archive. Actual CN release needs verification; this is not a new future schedule.",
+        "ko": "보관된 원문은 출시 예고이며, 해당 예고 기간이 지난 뒤의 출시 확인 근거는 아직 기록되어 있지 않습니다. 중국 실제 출시를 추가 확인해야 하며 새로운 미래 일정이라는 뜻은 아닙니다."
       },
       "identityBasis": {
         "en": "The official regional source explicitly names this appearance and category.",
         "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
-      }
+      },
+      "confirmationPending": true
     },
     {
       "cosmeticId": "tang-di-ying-xia",
@@ -5648,7 +5696,7 @@
     {
       "cosmeticId": "yi-zunchun",
       "server": "CN",
-      "status": "released",
+      "status": "announced",
       "sourceIds": [
         "cn-9dda27dd9f27"
       ],
@@ -5656,13 +5704,14 @@
       "releaseDate": null,
       "precision": "unknown",
       "scope": {
-        "en": "Historical official listing or in-game appearance maintenance notice. This does not establish current availability or an original release date.",
-        "ko": "과거 공식 출시·외관 수정 공지 기록입니다. 현재 판매 여부와 최초 출시일을 뜻하지 않습니다."
+        "en": "The retained source announces a future release, but the recorded release window has passed without a follow-up confirmation in this archive. Actual CN release needs verification; this is not a new future schedule.",
+        "ko": "보관된 원문은 출시 예고이며, 해당 예고 기간이 지난 뒤의 출시 확인 근거는 아직 기록되어 있지 않습니다. 중국 실제 출시를 추가 확인해야 하며 새로운 미래 일정이라는 뜻은 아닙니다."
       },
       "identityBasis": {
         "en": "The official regional source explicitly names this appearance and category.",
         "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
-      }
+      },
+      "confirmationPending": true
     },
     {
       "cosmeticId": "cang-yinqian-gu-duanyun",
@@ -5686,7 +5735,7 @@
     {
       "cosmeticId": "lin-yue-long-fei",
       "server": "CN",
-      "status": "released",
+      "status": "announced",
       "sourceIds": [
         "cn-f9fdc234e440"
       ],
@@ -5694,13 +5743,14 @@
       "releaseDate": null,
       "precision": "unknown",
       "scope": {
-        "en": "Historical official listing or in-game appearance maintenance notice. This does not establish current availability or an original release date.",
-        "ko": "과거 공식 출시·외관 수정 공지 기록입니다. 현재 판매 여부와 최초 출시일을 뜻하지 않습니다."
+        "en": "The retained source announces a future release, but the recorded release window has passed without a follow-up confirmation in this archive. Actual CN release needs verification; this is not a new future schedule.",
+        "ko": "보관된 원문은 출시 예고이며, 해당 예고 기간이 지난 뒤의 출시 확인 근거는 아직 기록되어 있지 않습니다. 중국 실제 출시를 추가 확인해야 하며 새로운 미래 일정이라는 뜻은 아닙니다."
       },
       "identityBasis": {
         "en": "The official regional source explicitly names this appearance and category.",
         "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
-      }
+      },
+      "confirmationPending": true
     },
     {
       "cosmeticId": "yu-shuang-ling",
@@ -6066,7 +6116,7 @@
     {
       "cosmeticId": "qing-yichui-tian",
       "server": "CN",
-      "status": "released",
+      "status": "announced",
       "sourceIds": [
         "cn-7a25604ca392"
       ],
@@ -6074,13 +6124,14 @@
       "releaseDate": null,
       "precision": "unknown",
       "scope": {
-        "en": "Historical official listing or in-game appearance maintenance notice. This does not establish current availability or an original release date.",
-        "ko": "과거 공식 출시·외관 수정 공지 기록입니다. 현재 판매 여부와 최초 출시일을 뜻하지 않습니다."
+        "en": "The retained source announces a future release, but the recorded release window has passed without a follow-up confirmation in this archive. Actual CN release needs verification; this is not a new future schedule.",
+        "ko": "보관된 원문은 출시 예고이며, 해당 예고 기간이 지난 뒤의 출시 확인 근거는 아직 기록되어 있지 않습니다. 중국 실제 출시를 추가 확인해야 하며 새로운 미래 일정이라는 뜻은 아닙니다."
       },
       "identityBasis": {
         "en": "The official regional source explicitly names this appearance and category.",
         "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
-      }
+      },
+      "confirmationPending": true
     },
     {
       "cosmeticId": "jiu-yao-huang-huang",
@@ -6484,7 +6535,7 @@
     {
       "cosmeticId": "hong-qi-lu",
       "server": "CN",
-      "status": "released",
+      "status": "announced",
       "sourceIds": [
         "cn-18be66deb953"
       ],
@@ -6492,13 +6543,14 @@
       "releaseDate": null,
       "precision": "unknown",
       "scope": {
-        "en": "Historical official listing or in-game appearance maintenance notice. This does not establish current availability or an original release date.",
-        "ko": "과거 공식 출시·외관 수정 공지 기록입니다. 현재 판매 여부와 최초 출시일을 뜻하지 않습니다."
+        "en": "The retained source announces a future release, but the recorded release window has passed without a follow-up confirmation in this archive. Actual CN release needs verification; this is not a new future schedule.",
+        "ko": "보관된 원문은 출시 예고이며, 해당 예고 기간이 지난 뒤의 출시 확인 근거는 아직 기록되어 있지 않습니다. 중국 실제 출시를 추가 확인해야 하며 새로운 미래 일정이라는 뜻은 아닙니다."
       },
       "identityBasis": {
         "en": "The official regional source explicitly names this appearance and category.",
         "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
-      }
+      },
+      "confirmationPending": true
     },
     {
       "cosmeticId": "cang-yinluan-yi-jiu-xiao",
@@ -6541,7 +6593,7 @@
     {
       "cosmeticId": "hong-mei-an-sui",
       "server": "CN",
-      "status": "released",
+      "status": "announced",
       "sourceIds": [
         "cn-aa892a494898"
       ],
@@ -6549,13 +6601,14 @@
       "releaseDate": null,
       "precision": "unknown",
       "scope": {
-        "en": "Historical official listing or in-game appearance maintenance notice. This does not establish current availability or an original release date.",
-        "ko": "과거 공식 출시·외관 수정 공지 기록입니다. 현재 판매 여부와 최초 출시일을 뜻하지 않습니다."
+        "en": "The retained source announces a future release, but the recorded release window has passed without a follow-up confirmation in this archive. Actual CN release needs verification; this is not a new future schedule.",
+        "ko": "보관된 원문은 출시 예고이며, 해당 예고 기간이 지난 뒤의 출시 확인 근거는 아직 기록되어 있지 않습니다. 중국 실제 출시를 추가 확인해야 하며 새로운 미래 일정이라는 뜻은 아닙니다."
       },
       "identityBasis": {
         "en": "The official regional source explicitly names this appearance and category.",
         "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
-      }
+      },
+      "confirmationPending": true
     },
     {
       "cosmeticId": "bu-ren-shi",
@@ -6579,7 +6632,7 @@
     {
       "cosmeticId": "zhu-qing-yu",
       "server": "CN",
-      "status": "released",
+      "status": "announced",
       "sourceIds": [
         "cn-20251023-outfits"
       ],
@@ -6587,13 +6640,14 @@
       "releaseDate": null,
       "precision": "unknown",
       "scope": {
-        "en": "Historical official listing or in-game appearance maintenance notice. This does not establish current availability or an original release date.",
-        "ko": "과거 공식 출시·외관 수정 공지 기록입니다. 현재 판매 여부와 최초 출시일을 뜻하지 않습니다."
+        "en": "The retained source announces a future release, but the recorded release window has passed without a follow-up confirmation in this archive. Actual CN release needs verification; this is not a new future schedule.",
+        "ko": "보관된 원문은 출시 예고이며, 해당 예고 기간이 지난 뒤의 출시 확인 근거는 아직 기록되어 있지 않습니다. 중국 실제 출시를 추가 확인해야 하며 새로운 미래 일정이라는 뜻은 아닙니다."
       },
       "identityBasis": {
         "en": "The official regional source explicitly names this appearance and category.",
         "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
-      }
+      },
+      "confirmationPending": true
     },
     {
       "cosmeticId": "cang-ming-yao-guang",
@@ -6693,7 +6747,7 @@
     {
       "cosmeticId": "you-ming-ji-tong",
       "server": "CN",
-      "status": "released",
+      "status": "announced",
       "sourceIds": [
         "cn-41d5427f9c29"
       ],
@@ -6701,18 +6755,19 @@
       "releaseDate": null,
       "precision": "unknown",
       "scope": {
-        "en": "Historical official listing or in-game appearance maintenance notice. This does not establish current availability or an original release date.",
-        "ko": "과거 공식 출시·외관 수정 공지 기록입니다. 현재 판매 여부와 최초 출시일을 뜻하지 않습니다."
+        "en": "The retained source announces a future release, but the recorded release window has passed without a follow-up confirmation in this archive. Actual CN release needs verification; this is not a new future schedule.",
+        "ko": "보관된 원문은 출시 예고이며, 해당 예고 기간이 지난 뒤의 출시 확인 근거는 아직 기록되어 있지 않습니다. 중국 실제 출시를 추가 확인해야 하며 새로운 미래 일정이라는 뜻은 아닙니다."
       },
       "identityBasis": {
         "en": "The official regional source explicitly names this appearance and category.",
         "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
-      }
+      },
+      "confirmationPending": true
     },
     {
       "cosmeticId": "jihuo",
       "server": "CN",
-      "status": "released",
+      "status": "announced",
       "sourceIds": [
         "cn-41d5427f9c29"
       ],
@@ -6720,13 +6775,14 @@
       "releaseDate": null,
       "precision": "unknown",
       "scope": {
-        "en": "Historical official listing or in-game appearance maintenance notice. This does not establish current availability or an original release date.",
-        "ko": "과거 공식 출시·외관 수정 공지 기록입니다. 현재 판매 여부와 최초 출시일을 뜻하지 않습니다."
+        "en": "The retained source announces a future release, but the recorded release window has passed without a follow-up confirmation in this archive. Actual CN release needs verification; this is not a new future schedule.",
+        "ko": "보관된 원문은 출시 예고이며, 해당 예고 기간이 지난 뒤의 출시 확인 근거는 아직 기록되어 있지 않습니다. 중국 실제 출시를 추가 확인해야 하며 새로운 미래 일정이라는 뜻은 아닙니다."
       },
       "identityBasis": {
         "en": "The official regional source explicitly names this appearance and category.",
         "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
-      }
+      },
+      "confirmationPending": true
     },
     {
       "cosmeticId": "yan-juan-can-ye",
@@ -12861,6 +12917,126 @@
           "en": "The announcement identifies the Battle Pass set; price and required reward level are not stated.",
           "ko": "공식 공지에서 강호령 의상으로 소개했습니다. 가격과 필요한 보상 레벨은 미표기입니다."
         }
+      }
+    },
+    {
+      "cosmeticId": "chongming",
+      "server": "CN",
+      "status": "announced",
+      "confirmationPending": true,
+      "sourceIds": [
+        "cn-20250925-new-appearance"
+      ],
+      "verifiedAt": "2026-09-13",
+      "releaseDate": null,
+      "precision": "unknown",
+      "scope": {
+        "en": "The retained source announces a future release, but the recorded release window has passed without a follow-up confirmation in this archive. Actual CN release needs verification; this is not a new future schedule.",
+        "ko": "보관된 원문은 출시 예고이며, 해당 예고 기간이 지난 뒤의 출시 확인 근거는 아직 기록되어 있지 않습니다. 중국 실제 출시를 추가 확인해야 하며 새로운 미래 일정이라는 뜻은 아닙니다."
+      },
+      "identityBasis": {
+        "en": "Named CN appearance in the retained official announcement; an exact release day has not been established.",
+        "ko": "보관된 공식 중국 예고의 외관명을 대조했습니다. 정확한 출시일은 확인되지 않았습니다."
+      }
+    },
+    {
+      "cosmeticId": "tianzhi-minggui",
+      "server": "CN",
+      "status": "announced",
+      "confirmationPending": true,
+      "sourceIds": [
+        "cn-20250925-new-appearance"
+      ],
+      "verifiedAt": "2026-09-13",
+      "releaseDate": null,
+      "precision": "unknown",
+      "scope": {
+        "en": "The retained source announces a future release, but the recorded release window has passed without a follow-up confirmation in this archive. Actual CN release needs verification; this is not a new future schedule.",
+        "ko": "보관된 원문은 출시 예고이며, 해당 예고 기간이 지난 뒤의 출시 확인 근거는 아직 기록되어 있지 않습니다. 중국 실제 출시를 추가 확인해야 하며 새로운 미래 일정이라는 뜻은 아닙니다."
+      },
+      "identityBasis": {
+        "en": "Named CN appearance in the retained official announcement; an exact release day has not been established.",
+        "ko": "보관된 공식 중국 예고의 외관명을 대조했습니다. 정확한 출시일은 확인되지 않았습니다."
+      }
+    },
+    {
+      "cosmeticId": "you-hu-sui-sui",
+      "server": "CN",
+      "status": "announced",
+      "confirmationPending": true,
+      "sourceIds": [
+        "cn-20251023-outfits"
+      ],
+      "verifiedAt": "2026-09-13",
+      "releaseDate": null,
+      "precision": "unknown",
+      "scope": {
+        "en": "The retained source announces a future release, but the recorded release window has passed without a follow-up confirmation in this archive. Actual CN release needs verification; this is not a new future schedule.",
+        "ko": "보관된 원문은 출시 예고이며, 해당 예고 기간이 지난 뒤의 출시 확인 근거는 아직 기록되어 있지 않습니다. 중국 실제 출시를 추가 확인해야 하며 새로운 미래 일정이라는 뜻은 아닙니다."
+      },
+      "identityBasis": {
+        "en": "Named CN appearance in the retained official announcement; an exact release day has not been established.",
+        "ko": "보관된 공식 중국 예고의 외관명을 대조했습니다. 정확한 출시일은 확인되지 않았습니다."
+      }
+    },
+    {
+      "cosmeticId": "feng-ru-hua",
+      "server": "CN",
+      "status": "announced",
+      "confirmationPending": true,
+      "sourceIds": [
+        "cn-20251023-outfits"
+      ],
+      "verifiedAt": "2026-09-13",
+      "releaseDate": null,
+      "precision": "unknown",
+      "scope": {
+        "en": "The retained source announces a future release, but the recorded release window has passed without a follow-up confirmation in this archive. Actual CN release needs verification; this is not a new future schedule.",
+        "ko": "보관된 원문은 출시 예고이며, 해당 예고 기간이 지난 뒤의 출시 확인 근거는 아직 기록되어 있지 않습니다. 중국 실제 출시를 추가 확인해야 하며 새로운 미래 일정이라는 뜻은 아닙니다."
+      },
+      "identityBasis": {
+        "en": "Named CN appearance in the retained official announcement; an exact release day has not been established.",
+        "ko": "보관된 공식 중국 예고의 외관명을 대조했습니다. 정확한 출시일은 확인되지 않았습니다."
+      }
+    },
+    {
+      "cosmeticId": "qing-xiao-lue-ying",
+      "server": "CN",
+      "status": "announced",
+      "confirmationPending": true,
+      "sourceIds": [
+        "cn-20260331-outfits"
+      ],
+      "verifiedAt": "2026-09-13",
+      "releaseDate": null,
+      "precision": "unknown",
+      "scope": {
+        "en": "The retained source announces a future release, but the recorded release window has passed without a follow-up confirmation in this archive. Actual CN release needs verification; this is not a new future schedule.",
+        "ko": "보관된 원문은 출시 예고이며, 해당 예고 기간이 지난 뒤의 출시 확인 근거는 아직 기록되어 있지 않습니다. 중국 실제 출시를 추가 확인해야 하며 새로운 미래 일정이라는 뜻은 아닙니다."
+      },
+      "identityBasis": {
+        "en": "Named CN appearance in the retained official announcement; an exact release day has not been established.",
+        "ko": "보관된 공식 중국 예고의 외관명을 대조했습니다. 정확한 출시일은 확인되지 않았습니다."
+      }
+    },
+    {
+      "cosmeticId": "xuan-gu-zai-yuan",
+      "server": "CN",
+      "status": "announced",
+      "confirmationPending": true,
+      "sourceIds": [
+        "cn-20260422-outfits"
+      ],
+      "verifiedAt": "2026-09-13",
+      "releaseDate": null,
+      "precision": "unknown",
+      "scope": {
+        "en": "The retained source announces a future release, but the recorded release window has passed without a follow-up confirmation in this archive. Actual CN release needs verification; this is not a new future schedule.",
+        "ko": "보관된 원문은 출시 예고이며, 해당 예고 기간이 지난 뒤의 출시 확인 근거는 아직 기록되어 있지 않습니다. 중국 실제 출시를 추가 확인해야 하며 새로운 미래 일정이라는 뜻은 아닙니다."
+      },
+      "identityBasis": {
+        "en": "Named CN appearance in the retained official announcement; an exact release day has not been established.",
+        "ko": "보관된 공식 중국 예고의 외관명을 대조했습니다. 정확한 출시일은 확인되지 않았습니다."
       }
     }
   ]

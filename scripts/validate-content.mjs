@@ -287,9 +287,11 @@ export function validateRegional(research, globalData, regionalData) {
       status: z.enum(["released", "announced"]), sourceIds: z.array(z.string()).min(1),
       verifiedAt: day, releaseDate: day.nullable(), precision: z.enum(["day", "unknown"]),
       scope: bilingual, identityBasis: bilingual, acquisition: acquisitionSchema.optional(),
+      confirmationPending: z.boolean().optional(),
     }).strict().superRefine((r, ctx) => {
       if ((r.releaseDate === null) !== (r.precision === "unknown")) ctx.addIssue({code:z.ZodIssueCode.custom,message:"Regional date precision must match its value"});
       if (r.status === "released" && r.releaseDate && r.releaseDate > r.verifiedAt) ctx.addIssue({code:z.ZodIssueCode.custom,message:"Future listing cannot be released"});
+      if (r.confirmationPending && r.status !== "announced") ctx.addIssue({code:z.ZodIssueCode.custom,message:"Pending confirmation must remain an announcement"});
     })),
   }).strict();
   const data = schema.parse(regionalData);

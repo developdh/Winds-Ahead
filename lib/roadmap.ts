@@ -1,6 +1,7 @@
 import forecastData from "@/content/forecasts.json";
 import globalData from "@/content/global-events.json";
 import { cosmetics } from "@/lib/catalog";
+import { regionalRecord } from "@/lib/regional-status";
 import research from "@/content/research.json";
 export interface Forecast {
   id: string;
@@ -51,7 +52,7 @@ export const cnEvents: ReleaseEvent[] = cosmetics
     server: "CN",
     kind: "release",
     sourceIds: [c.sourceId],
-    status: "released",
+    status: regionalRecord(c, "CN")?.status ?? "announced",
     scope: {
       en: c.cnRelease.contextual ? "CN server · day derived from update context" : "CN server · date only; time zone not stated",
       ko: c.cnRelease.contextual ? "중국 서버 · 업데이트 문맥으로 확인한 날짜" : "중국 서버 · 날짜 단위. 시간대 미표기",
