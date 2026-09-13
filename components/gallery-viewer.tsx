@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useMemo, useRef, useState } from "react";
+import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { ArrowUpRight, ChevronLeft, ChevronRight, X } from "lucide-react";
 import {
   DialogClose, DialogDescription, DialogTitle,
@@ -14,28 +14,32 @@ import { imagesOf, nameOf, type Cosmetic, type Locale } from "@/lib/catalog";
 
 type GalleryImage = ReturnType<typeof imagesOf>[number];
 
-function GalleryFrame({ image, dimensions, active, label, l }: {
+function GalleryFrame({ image, dimensions, active, preload, onReady, label, l }: {
   image: GalleryImage;
   dimensions: Cosmetic["images"][number];
   active: boolean;
+  preload: boolean;
+  onReady: (source: string) => void;
   label: string;
   l: Locale;
 }) {
   const [status, setStatus] = useState<"loading" | "ready" | "error">("loading");
+  const [requested, setRequested] = useState(active || preload);
   const t = (en: string, ko: string) => l === "ko" ? ko : en;
+  useEffect(() => {
+    if (active || preload) setRequested(true);
+  }, [active, preload]);
 
   return (
     <div className="gallery-scroll" tabIndex={active ? 0 : -1} aria-label={label}>
-      {!active ? (
-        <img className="gallery-preview" src={image.thumbnail} alt="" draggable={false} />
-      ) : status === "error" ? (
+      {status === "error" ? (
         <p className="gallery-message" role="alert">
           {t("The image could not load. Open the official original below.", "이미지를 불러오지 못했습니다. 아래의 공식 원본을 열어주세요.")}
         </p>
       ) : (
         <div className="gallery-image-frame" aria-busy={status === "loading"}>
-          {status === "loading" && <p className="gallery-message" role="status">{t("Loading image…", "이미지 불러오는 중…")}</p>}
-          <img
+          {active && status === "loading" && <p className="gallery-message" role="status">{t("Loading image…", "이미지 불러오는 중…")}</p>}
+          {requested || active || preload ? <img
             className="gallery-full-image"
             data-ready={status === "ready"}
             src={image.full}
@@ -44,9 +48,10 @@ function GalleryFrame({ image, dimensions, active, label, l }: {
             alt={label}
             draggable={false}
             decoding="async"
-            onLoad={() => setStatus("ready")}
+            fetchPriority={active ? "high" : "low"}
+            onLoad={() => { setStatus("ready"); onReady(image.full); }}
             onError={() => setStatus("error")}
-          />
+          /> : <div aria-hidden="true" style={{ width: "100%", aspectRatio: `${dimensions.width} / ${dimensions.height}` }} />}
         </div>
       )}
     </div>
@@ -65,6 +70,10 @@ export default function GalleryViewer({ c, l, images, selected, onSelect }: {
   // Capture the opening thumbnail once, rather than resetting the carousel on every selection.
   const [startIndex] = useState(selected);
   const activeIndex = useRef(selected);
+  const [readyImages, setReadyImages] = useState<Set<string>>(() => new Set());
+  const recordReady = useCallback((source: string) => {
+    setReadyImages((previous) => previous.has(source) ? previous : new Set([...previous, source]));
+  }, []);
   const [reducedMotion, setReducedMotion] = useState(false);
   useEffect(() => {
     const preference = window.matchMedia("(prefers-reduced-motion: reduce)");
@@ -135,10 +144,12 @@ export default function GalleryViewer({ c, l, images, selected, onSelect }: {
             aria-roledescription={t("image", "이미지")}
           >
             <GalleryFrame
-              key={`${image.full}:${index === selected}`}
+              key={image.full}
               image={image}
               dimensions={c.images[image.index]}
               active={index === selected}
+              preload={readyImages.has(images[selected].full) && Math.abs(index - selected) === 1}
+              onReady={recordReady}
               label={`${c.nameOriginal} · ${t("Full promotional image", "전체 홍보 이미지")} ${index + 1}`}
               l={l}
             />
