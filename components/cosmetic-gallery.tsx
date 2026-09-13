@@ -17,7 +17,7 @@ export default function CosmeticGallery({ c, l, selected, onSelect }: {
 }) {
   const t = (en: string, ko: string) => l === "ko" ? ko : en;
   const images = useMemo(() => imagesOf(c), [c]);
-  if (!images.length) return <div className="detail-image media-pending"><span aria-hidden="true">鏡</span><p>{t("Image under review", "사진 확인 중")}</p><small>{t("The official source names this appearance; an individual image has not been verified.", "공식 원문에 외관이 기록되어 있으나 개별 사진은 아직 확인 중입니다.")}</small></div>;
+  if (!images.length) return <div className="detail-image media-pending"><span aria-hidden="true">鏡</span><p>{t("Image under review", "사진 확인 중")}</p><small>{c.wikiOnly ? t("A wiki reference is available; an individual image has not been verified.", "위키 참고 정보가 있으며 개별 사진은 아직 확인 중입니다.") : t("The official source names this appearance; an individual image has not been verified.", "공식 원문에 외관이 기록되어 있으나 개별 사진은 아직 확인 중입니다.")}</small></div>;
   return (
     <Dialog>
       <DialogTrigger asChild>

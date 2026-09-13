@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "cosmeticId": "wiki-wan-lai-jue-yun-yi",
+  "titleOriginal": "万籁·绝云翼",
+  "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E4%B8%87%E7%B1%81%C2%B7%E7%BB%9D%E4%BA%91%E7%BF%BC",
+  "revisionUrl": "https://yy16s.huijiwiki.com/wiki/%E7%89%B9%E6%AE%8A:%E7%BC%96%E8%BE%91%E5%B7%AE%E5%BC%82/27041",
+  "checkedAt": "2026-09-13",
+  "license": "CC BY-NC-SA 3.0",
+  "articleAvailable": true,
+  "category": "weapon",
+  "grade": {
+    "en": "Purple",
+    "ko": "보라"
+  },
+  "gradeOriginal": "紫",
+  "styleScore": 280,
+  "flags": {
+    "dye": null,
+    "tailoring": null,
+    "gifting": null,
+    "trading": null
+  },
+  "components": [],
+  "reportedComponentCount": null,
+  "collectionReward": null,
+  "resultsAnimation": null,
+  "acquisition": null,
+  "timing": {
+    "original": "2025年10月6日版本更新后",
+    "en": "2025-10-06 after update",
+    "ko": "2025-10-06 업데이트 후",
+    "timezone": null
+  },
+  "weapon": {
+    "original": "陌刀",
+    "en": "Mo blade",
+    "ko": "장도"
+  },
+  "martialArt": null,
+  "replacedMove": null,
+  "mountType": null,
+  "sourceFields": {
+    "兵器": "陌刀",
+    "风华值": "280",
+    "上线时间": "2025年10月6日版本更新后"
+  }
+}

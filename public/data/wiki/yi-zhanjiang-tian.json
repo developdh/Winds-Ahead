@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "cosmeticId": "yi-zhanjiang-tian",
+  "titleOriginal": "一斩绛天",
+  "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E4%B8%80%E6%96%A9%E7%BB%9B%E5%A4%A9",
+  "revisionUrl": "https://yy16s.huijiwiki.com/wiki/%E7%89%B9%E6%AE%8A:%E7%BC%96%E8%BE%91%E5%B7%AE%E5%BC%82/27237",
+  "checkedAt": "2026-09-13",
+  "license": "CC BY-NC-SA 3.0",
+  "articleAvailable": true,
+  "category": "effect",
+  "grade": {
+    "en": "Gold",
+    "ko": "금색"
+  },
+  "gradeOriginal": "金",
+  "styleScore": 2000,
+  "flags": {
+    "dye": null,
+    "tailoring": null,
+    "gifting": null,
+    "trading": null
+  },
+  "components": [],
+  "reportedComponentCount": null,
+  "collectionReward": null,
+  "resultsAnimation": null,
+  "acquisition": null,
+  "timing": {
+    "original": "2025年2月28日版本更新后",
+    "en": "2025-02-28 after update",
+    "ko": "2025-02-28 업데이트 후",
+    "timezone": null
+  },
+  "weapon": {
+    "original": "剑",
+    "en": "Sword",
+    "ko": "검"
+  },
+  "martialArt": "积矩九剑",
+  "replacedMove": null,
+  "mountType": null,
+  "sourceFields": {
+    "武学": "积矩九剑",
+    "兵器": "剑",
+    "风华值": "2000",
+    "上线时间": "2025年2月28日版本更新后"
+  }
+}

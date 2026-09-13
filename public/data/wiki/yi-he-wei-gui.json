@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "cosmeticId": "yi-he-wei-gui",
+  "titleOriginal": "以荷为贵",
+  "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E4%BB%A5%E8%8D%B7%E4%B8%BA%E8%B4%B5",
+  "revisionUrl": "https://yy16s.huijiwiki.com/wiki/%E7%89%B9%E6%AE%8A:%E7%BC%96%E8%BE%91%E5%B7%AE%E5%BC%82/28448",
+  "checkedAt": "2026-09-13",
+  "license": "CC BY-NC-SA 3.0",
+  "articleAvailable": true,
+  "category": "weapon",
+  "grade": {
+    "en": "Purple",
+    "ko": "보라"
+  },
+  "gradeOriginal": "紫",
+  "styleScore": 160,
+  "flags": {
+    "dye": null,
+    "tailoring": null,
+    "gifting": null,
+    "trading": null
+  },
+  "components": [],
+  "reportedComponentCount": null,
+  "collectionReward": null,
+  "resultsAnimation": null,
+  "acquisition": null,
+  "timing": {
+    "original": "2026年9月10日版本更新后",
+    "en": "2026-09-10 after update",
+    "ko": "2026-09-10 업데이트 후",
+    "timezone": null
+  },
+  "weapon": {
+    "original": "陌刀",
+    "en": "Mo blade",
+    "ko": "장도"
+  },
+  "martialArt": null,
+  "replacedMove": null,
+  "mountType": null,
+  "sourceFields": {
+    "兵器": "陌刀",
+    "风华值": "160",
+    "上线时间": "2026年9月10日版本更新后"
+  }
+}

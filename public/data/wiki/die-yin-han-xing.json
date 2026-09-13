@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "cosmeticId": "die-yin-han-xing",
+  "titleOriginal": "蝶引寒星",
+  "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E8%9D%B6%E5%BC%95%E5%AF%92%E6%98%9F",
+  "revisionUrl": "https://yy16s.huijiwiki.com/wiki/%E7%89%B9%E6%AE%8A:%E7%BC%96%E8%BE%91%E5%B7%AE%E5%BC%82/27255",
+  "checkedAt": "2026-09-13",
+  "license": "CC BY-NC-SA 3.0",
+  "articleAvailable": true,
+  "category": "effect",
+  "grade": {
+    "en": "Gold",
+    "ko": "금색"
+  },
+  "gradeOriginal": "金",
+  "styleScore": 2000,
+  "flags": {
+    "dye": null,
+    "tailoring": null,
+    "gifting": null,
+    "trading": null
+  },
+  "components": [],
+  "reportedComponentCount": null,
+  "collectionReward": null,
+  "resultsAnimation": null,
+  "acquisition": null,
+  "timing": {
+    "original": "2025年10月11日版本更新后",
+    "en": "2025-10-11 after update",
+    "ko": "2025-10-11 업데이트 후",
+    "timezone": null
+  },
+  "weapon": {
+    "original": "伞",
+    "en": "Umbrella",
+    "ko": "우산"
+  },
+  "martialArt": "千香引魂蛊",
+  "replacedMove": null,
+  "mountType": null,
+  "sourceFields": {
+    "武学": "千香引魂蛊",
+    "兵器": "伞",
+    "风华值": "2000",
+    "上线时间": "2025年10月11日版本更新后"
+  }
+}

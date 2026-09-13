@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "cosmeticId": "e-de-jiang-hu",
+  "titleOriginal": "鹅的江湖",
+  "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E9%B9%85%E7%9A%84%E6%B1%9F%E6%B9%96",
+  "revisionUrl": "https://yy16s.huijiwiki.com/wiki/%E7%89%B9%E6%AE%8A:%E7%BC%96%E8%BE%91%E5%B7%AE%E5%BC%82/27142",
+  "checkedAt": "2026-09-13",
+  "license": "CC BY-NC-SA 3.0",
+  "articleAvailable": true,
+  "category": "weapon",
+  "grade": {
+    "en": "Purple",
+    "ko": "보라"
+  },
+  "gradeOriginal": "紫",
+  "styleScore": 160,
+  "flags": {
+    "dye": null,
+    "tailoring": null,
+    "gifting": null,
+    "trading": null
+  },
+  "components": [],
+  "reportedComponentCount": null,
+  "collectionReward": null,
+  "resultsAnimation": null,
+  "acquisition": null,
+  "timing": {
+    "original": "2025年12月12日版本更新后",
+    "en": "2025-12-12 after update",
+    "ko": "2025-12-12 업데이트 후",
+    "timezone": null
+  },
+  "weapon": {
+    "original": "伞",
+    "en": "Umbrella",
+    "ko": "우산"
+  },
+  "martialArt": null,
+  "replacedMove": null,
+  "mountType": null,
+  "sourceFields": {
+    "兵器": "伞",
+    "风华值": "160",
+    "上线时间": "2025年12月12日版本更新后"
+  }
+}

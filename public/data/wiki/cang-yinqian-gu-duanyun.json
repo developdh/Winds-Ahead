@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "cosmeticId": "cang-yinqian-gu-duanyun",
+  "titleOriginal": "藏音·千古断云",
+  "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E8%97%8F%E9%9F%B3%C2%B7%E5%8D%83%E5%8F%A4%E6%96%AD%E4%BA%91",
+  "revisionUrl": "https://yy16s.huijiwiki.com/wiki/%E7%89%B9%E6%AE%8A:%E7%BC%96%E8%BE%91%E5%B7%AE%E5%BC%82/27099",
+  "checkedAt": "2026-09-13",
+  "license": "CC BY-NC-SA 3.0",
+  "articleAvailable": true,
+  "category": "weapon",
+  "grade": {
+    "en": "Gold",
+    "ko": "금색"
+  },
+  "gradeOriginal": "金",
+  "styleScore": 2000,
+  "flags": {
+    "dye": null,
+    "tailoring": null,
+    "gifting": null,
+    "trading": null
+  },
+  "components": [],
+  "reportedComponentCount": null,
+  "collectionReward": null,
+  "resultsAnimation": null,
+  "acquisition": null,
+  "timing": null,
+  "weapon": {
+    "original": "剑",
+    "en": "Sword",
+    "ko": "검"
+  },
+  "martialArt": null,
+  "replacedMove": null,
+  "mountType": null,
+  "sourceFields": {
+    "兵器": "剑",
+    "风华值": "2000"
+  }
+}

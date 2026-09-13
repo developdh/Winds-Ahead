@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "cosmeticId": "wiki-ren-bu-shi",
+  "titleOriginal": "人不识",
+  "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E4%BA%BA%E4%B8%8D%E8%AF%86",
+  "revisionUrl": "https://yy16s.huijiwiki.com/wiki/%E7%89%B9%E6%AE%8A:%E7%BC%96%E8%BE%91%E5%B7%AE%E5%BC%82/20488",
+  "checkedAt": "2026-09-13",
+  "license": "CC BY-NC-SA 3.0",
+  "articleAvailable": true,
+  "category": "sets",
+  "grade": {
+    "en": "Gray",
+    "ko": "회색"
+  },
+  "gradeOriginal": "灰",
+  "styleScore": 35,
+  "flags": {
+    "dye": false,
+    "tailoring": null,
+    "gifting": null,
+    "trading": null
+  },
+  "components": [
+    {
+      "nameOriginal": "蓬头",
+      "label": {
+        "en": "Peng Tou",
+        "ko": "蓬头"
+      },
+      "styleScore": 5,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E4%BA%BA%E4%B8%8D%E8%AF%86/%E8%93%AC%E5%A4%B4"
+    },
+    {
+      "nameOriginal": "赭衣",
+      "label": {
+        "en": "Zhe Yi",
+        "ko": "赭衣"
+      },
+      "styleScore": 10,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E4%BA%BA%E4%B8%8D%E8%AF%86/%E8%B5%AD%E8%A1%A3"
+    }
+  ],
+  "reportedComponentCount": null,
+  "collectionReward": {
+    "amount": 100,
+    "currencyOriginal": "长鸣玉",
+    "currency": {
+      "en": "Echo Jade",
+      "ko": "장명옥"
+    }
+  },
+  "resultsAnimation": null,
+  "acquisition": null,
+  "timing": null,
+  "weapon": null,
+  "martialArt": null,
+  "replacedMove": null,
+  "mountType": null,
+  "sourceFields": {
+    "染色": "✘",
+    "风华值": "35",
+    "集齐奖励": "长鸣玉 x100"
+  }
+}

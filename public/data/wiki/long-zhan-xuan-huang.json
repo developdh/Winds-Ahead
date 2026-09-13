@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "cosmeticId": "long-zhan-xuan-huang",
+  "titleOriginal": "龙战玄黄",
+  "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E9%BE%99%E6%88%98%E7%8E%84%E9%BB%84",
+  "revisionUrl": "https://yy16s.huijiwiki.com/wiki/%E7%89%B9%E6%AE%8A:%E7%BC%96%E8%BE%91%E5%B7%AE%E5%BC%82/27265",
+  "checkedAt": "2026-09-13",
+  "license": "CC BY-NC-SA 3.0",
+  "articleAvailable": true,
+  "category": "effect",
+  "grade": {
+    "en": "Gold",
+    "ko": "금색"
+  },
+  "gradeOriginal": "金",
+  "styleScore": 2000,
+  "flags": {
+    "dye": null,
+    "tailoring": null,
+    "gifting": null,
+    "trading": null
+  },
+  "components": [],
+  "reportedComponentCount": null,
+  "collectionReward": null,
+  "resultsAnimation": null,
+  "acquisition": null,
+  "timing": {
+    "original": "2025年8月15日版本更新后",
+    "en": "2025-08-15 after update",
+    "ko": "2025-08-15 업데이트 후",
+    "timezone": null
+  },
+  "weapon": {
+    "original": "横刀",
+    "en": "Heng blade",
+    "ko": "횡도"
+  },
+  "martialArt": "斩雪刀法",
+  "replacedMove": null,
+  "mountType": null,
+  "sourceFields": {
+    "武学": "斩雪刀法",
+    "兵器": "横刀",
+    "风华值": "2000",
+    "上线时间": "2025年8月15日版本更新后"
+  }
+}

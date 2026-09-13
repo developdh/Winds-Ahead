@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "cosmeticId": "qing-yu-an",
+  "titleOriginal": "青玉案",
+  "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E9%9D%92%E7%8E%89%E6%A1%88",
+  "revisionUrl": "https://yy16s.huijiwiki.com/wiki/%E7%89%B9%E6%AE%8A:%E7%BC%96%E8%BE%91%E5%B7%AE%E5%BC%82/20652",
+  "checkedAt": "2026-09-13",
+  "license": "CC BY-NC-SA 3.0",
+  "articleAvailable": true,
+  "category": "sets",
+  "grade": {
+    "en": "Purple",
+    "ko": "보라"
+  },
+  "gradeOriginal": "紫",
+  "styleScore": 330,
+  "flags": {
+    "dye": true,
+    "tailoring": false,
+    "gifting": false,
+    "trading": false
+  },
+  "components": [
+    {
+      "nameOriginal": "发型",
+      "label": {
+        "en": "Hair",
+        "ko": "헤어"
+      },
+      "styleScore": 70,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E9%9D%92%E7%8E%89%E6%A1%88/%E5%8F%91%E5%9E%8B"
+    },
+    {
+      "nameOriginal": "服装",
+      "label": {
+        "en": "Outfit",
+        "ko": "의복"
+      },
+      "styleScore": 210,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E9%9D%92%E7%8E%89%E6%A1%88/%E6%9C%8D%E8%A3%85"
+    },
+    {
+      "nameOriginal": "中型配饰",
+      "label": {
+        "en": "Medium accessory",
+        "ko": "중형 장신구"
+      },
+      "styleScore": 30,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E9%9D%92%E7%8E%89%E6%A1%88/%E4%B8%AD%E5%9E%8B%E9%85%8D%E9%A5%B0"
+    }
+  ],
+  "reportedComponentCount": 3,
+  "collectionReward": {
+    "amount": 100,
+    "currencyOriginal": "长鸣玉",
+    "currency": {
+      "en": "Echo Jade",
+      "ko": "장명옥"
+    }
+  },
+  "resultsAnimation": null,
+  "acquisition": {
+    "original": "战令",
+    "en": "Battle pass",
+    "ko": "시즌 패스"
+  },
+  "timing": null,
+  "weapon": null,
+  "martialArt": null,
+  "replacedMove": null,
+  "mountType": null,
+  "sourceFields": {
+    "染色": "✔",
+    "裁造": "✘",
+    "赠送": "✘",
+    "交易": "✘",
+    "部件数量": "3",
+    "风华值": "330",
+    "获取方式": "战令",
+    "集齐奖励": "长鸣玉 x100"
+  }
+}

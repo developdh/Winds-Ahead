@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "cosmeticId": "global-launch-bounty-hunter-set",
+  "titleOriginal": "野镖",
+  "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E9%87%8E%E9%95%96",
+  "revisionUrl": "https://yy16s.huijiwiki.com/wiki/%E7%89%B9%E6%AE%8A:%E7%BC%96%E8%BE%91%E5%B7%AE%E5%BC%82/20627",
+  "checkedAt": "2026-09-13",
+  "license": "CC BY-NC-SA 3.0",
+  "articleAvailable": true,
+  "category": "sets",
+  "grade": {
+    "en": "Blue",
+    "ko": "파랑"
+  },
+  "gradeOriginal": "蓝",
+  "styleScore": 170,
+  "flags": {
+    "dye": true,
+    "tailoring": null,
+    "gifting": null,
+    "trading": null
+  },
+  "components": [
+    {
+      "nameOriginal": "发型",
+      "label": {
+        "en": "Hair",
+        "ko": "헤어"
+      },
+      "styleScore": 20,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E9%87%8E%E9%95%96/%E5%8F%91%E5%9E%8B"
+    },
+    {
+      "nameOriginal": "服装",
+      "label": {
+        "en": "Outfit",
+        "ko": "의복"
+      },
+      "styleScore": 90,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E9%87%8E%E9%95%96/%E6%9C%8D%E8%A3%85"
+    },
+    {
+      "nameOriginal": "行客路",
+      "label": {
+        "en": "Xing Ke Lu",
+        "ko": "行客路"
+      },
+      "styleScore": 70,
+      "sourceUrl": null
+    },
+    {
+      "nameOriginal": "卷黄沙",
+      "label": {
+        "en": "Juan Huang Sha",
+        "ko": "卷黄沙"
+      },
+      "styleScore": 30,
+      "sourceUrl": null
+    }
+  ],
+  "reportedComponentCount": null,
+  "collectionReward": {
+    "amount": 100,
+    "currencyOriginal": "长鸣玉",
+    "currency": {
+      "en": "Echo Jade",
+      "ko": "장명옥"
+    }
+  },
+  "resultsAnimation": null,
+  "acquisition": null,
+  "timing": null,
+  "weapon": null,
+  "martialArt": null,
+  "replacedMove": null,
+  "mountType": null,
+  "sourceFields": {
+    "染色": "✔",
+    "风华值": "170",
+    "集齐奖励": "长鸣玉 x100"
+  }
+}

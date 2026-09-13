@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "cosmeticId": "you-ling-su",
+  "titleOriginal": "幽灵速",
+  "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E5%B9%BD%E7%81%B5%E9%80%9F",
+  "revisionUrl": "https://yy16s.huijiwiki.com/wiki/%E7%89%B9%E6%AE%8A:%E7%BC%96%E8%BE%91%E5%B7%AE%E5%BC%82/27274",
+  "checkedAt": "2026-09-13",
+  "license": "CC BY-NC-SA 3.0",
+  "articleAvailable": true,
+  "category": "mount",
+  "grade": {
+    "en": "Gold",
+    "ko": "금색"
+  },
+  "gradeOriginal": "金",
+  "styleScore": 4000,
+  "flags": {
+    "dye": null,
+    "tailoring": null,
+    "gifting": null,
+    "trading": null
+  },
+  "components": [],
+  "reportedComponentCount": null,
+  "collectionReward": null,
+  "resultsAnimation": null,
+  "acquisition": {
+    "original": "和鸣获得",
+    "en": "Resonance draw",
+    "ko": "공명 추첨"
+  },
+  "timing": null,
+  "weapon": null,
+  "martialArt": null,
+  "replacedMove": null,
+  "mountType": {
+    "original": "坐骑·奇巧",
+    "en": "Mechanical mount",
+    "ko": "기교 탈것"
+  },
+  "sourceFields": {
+    "类型": "坐骑·奇巧",
+    "风华值": "4000",
+    "获取方式": "和鸣获得"
+  }
+}

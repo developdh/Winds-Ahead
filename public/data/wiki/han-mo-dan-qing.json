@@ -1,0 +1,104 @@
+{
+  "schemaVersion": 1,
+  "cosmeticId": "han-mo-dan-qing",
+  "titleOriginal": "翰墨丹青",
+  "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E7%BF%B0%E5%A2%A8%E4%B8%B9%E9%9D%92",
+  "revisionUrl": "https://yy16s.huijiwiki.com/wiki/%E7%89%B9%E6%AE%8A:%E7%BC%96%E8%BE%91%E5%B7%AE%E5%BC%82/20595",
+  "checkedAt": "2026-09-13",
+  "license": "CC BY-NC-SA 3.0",
+  "articleAvailable": true,
+  "category": "sets",
+  "grade": {
+    "en": "Purple",
+    "ko": "보라"
+  },
+  "gradeOriginal": "紫",
+  "styleScore": null,
+  "flags": {
+    "dye": true,
+    "tailoring": false,
+    "gifting": false,
+    "trading": false
+  },
+  "components": [
+    {
+      "nameOriginal": "发型",
+      "label": {
+        "en": "Hair",
+        "ko": "헤어"
+      },
+      "styleScore": 70,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E7%BF%B0%E5%A2%A8%E4%B8%B9%E9%9D%92/%E5%8F%91%E5%9E%8B"
+    },
+    {
+      "nameOriginal": "上衣",
+      "label": {
+        "en": "Top",
+        "ko": "상의"
+      },
+      "styleScore": 130,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E7%BF%B0%E5%A2%A8%E4%B8%B9%E9%9D%92/%E4%B8%8A%E8%A1%A3"
+    },
+    {
+      "nameOriginal": "下装",
+      "label": {
+        "en": "Bottom",
+        "ko": "하의"
+      },
+      "styleScore": 80,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E7%BF%B0%E5%A2%A8%E4%B8%B9%E9%9D%92/%E4%B8%8B%E8%A3%85"
+    },
+    {
+      "nameOriginal": "颈饰",
+      "label": {
+        "en": "Neck accessory",
+        "ko": "목 장신구"
+      },
+      "styleScore": 15,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E7%BF%B0%E5%A2%A8%E4%B8%B9%E9%9D%92/%E9%A2%88%E9%A5%B0"
+    },
+    {
+      "nameOriginal": "中型配饰",
+      "label": {
+        "en": "Medium accessory",
+        "ko": "중형 장신구"
+      },
+      "styleScore": 30,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E7%BF%B0%E5%A2%A8%E4%B8%B9%E9%9D%92/%E4%B8%AD%E5%9E%8B%E9%85%8D%E9%A5%B0"
+    }
+  ],
+  "reportedComponentCount": null,
+  "collectionReward": {
+    "amount": 100,
+    "currencyOriginal": "长鸣玉",
+    "currency": {
+      "en": "Echo Jade",
+      "ko": "장명옥"
+    }
+  },
+  "resultsAnimation": null,
+  "acquisition": {
+    "original": "战令「蕤宾叠奏·上」",
+    "en": "Battle pass",
+    "ko": "시즌 패스"
+  },
+  "timing": {
+    "original": "2026年6月26日版本更新后~2026年8月7日04:59:59",
+    "en": "2026-06-26 after update — 2026-08-0704:59:59",
+    "ko": "2026-06-26 업데이트 후 — 2026-08-0704:59:59",
+    "timezone": null
+  },
+  "weapon": null,
+  "martialArt": null,
+  "replacedMove": null,
+  "mountType": null,
+  "sourceFields": {
+    "染色": "✔",
+    "裁造": "✘",
+    "赠送": "✘",
+    "交易": "✘",
+    "上线时间": "2026年6月26日版本更新后~2026年8月7日04:59:59",
+    "获取方式": "战令「蕤宾叠奏·上」",
+    "集齐奖励": "长鸣玉 x100"
+  }
+}

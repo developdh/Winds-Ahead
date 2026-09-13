@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "cosmeticId": "wu-nian-ke-kao-san-nian-mo-ni",
+  "titleOriginal": "五年科考三年模拟",
+  "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E4%BA%94%E5%B9%B4%E7%A7%91%E8%80%83%E4%B8%89%E5%B9%B4%E6%A8%A1%E6%8B%9F",
+  "revisionUrl": "https://yy16s.huijiwiki.com/wiki/%E7%89%B9%E6%AE%8A:%E7%BC%96%E8%BE%91%E5%B7%AE%E5%BC%82/27046",
+  "checkedAt": "2026-09-13",
+  "license": "CC BY-NC-SA 3.0",
+  "articleAvailable": true,
+  "category": "weapon",
+  "grade": {
+    "en": "Purple",
+    "ko": "보라"
+  },
+  "gradeOriginal": "紫",
+  "styleScore": 160,
+  "flags": {
+    "dye": null,
+    "tailoring": null,
+    "gifting": null,
+    "trading": null
+  },
+  "components": [],
+  "reportedComponentCount": null,
+  "collectionReward": null,
+  "resultsAnimation": null,
+  "acquisition": null,
+  "timing": {
+    "original": "2026年5月29日版本更新后",
+    "en": "2026-05-29 after update",
+    "ko": "2026-05-29 업데이트 후",
+    "timezone": null
+  },
+  "weapon": {
+    "original": "扇",
+    "en": "Fan",
+    "ko": "부채"
+  },
+  "martialArt": null,
+  "replacedMove": null,
+  "mountType": null,
+  "sourceFields": {
+    "兵器": "扇",
+    "风华值": "160",
+    "上线时间": "2026年5月29日版本更新后"
+  }
+}

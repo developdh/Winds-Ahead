@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 1,
+  "cosmeticId": "qing-qiu-qian-sui",
+  "titleOriginal": "青丘千岁",
+  "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E9%9D%92%E4%B8%98%E5%8D%83%E5%B2%81",
+  "revisionUrl": "https://yy16s.huijiwiki.com/wiki/%E7%89%B9%E6%AE%8A:%E7%BC%96%E8%BE%91%E5%B7%AE%E5%BC%82/20651",
+  "checkedAt": "2026-09-13",
+  "license": "CC BY-NC-SA 3.0",
+  "articleAvailable": true,
+  "category": "sets",
+  "grade": {
+    "en": "Gold",
+    "ko": "금색"
+  },
+  "gradeOriginal": "金",
+  "styleScore": 4870,
+  "flags": {
+    "dye": true,
+    "tailoring": false,
+    "gifting": true,
+    "trading": true
+  },
+  "components": [
+    {
+      "nameOriginal": "发型",
+      "label": {
+        "en": "Hair",
+        "ko": "헤어"
+      },
+      "styleScore": 1800,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E9%9D%92%E4%B8%98%E5%8D%83%E5%B2%81/%E5%8F%91%E5%9E%8B"
+    },
+    {
+      "nameOriginal": "服装",
+      "label": {
+        "en": "Outfit",
+        "ko": "의복"
+      },
+      "styleScore": 2200,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E9%9D%92%E4%B8%98%E5%8D%83%E5%B2%81/%E6%9C%8D%E8%A3%85"
+    },
+    {
+      "nameOriginal": "涂山歌",
+      "label": {
+        "en": "Tu Shan Ge",
+        "ko": "涂山歌"
+      },
+      "styleScore": 50,
+      "sourceUrl": null
+    },
+    {
+      "nameOriginal": "候人兮",
+      "label": {
+        "en": "Hou Ren Xi",
+        "ko": "候人兮"
+      },
+      "styleScore": 300,
+      "sourceUrl": null
+    },
+    {
+      "nameOriginal": "九韶光",
+      "label": {
+        "en": "Jiu Shao Guang",
+        "ko": "九韶光"
+      },
+      "styleScore": 30,
+      "sourceUrl": null
+    },
+    {
+      "nameOriginal": "披挂",
+      "label": {
+        "en": "Outerwear",
+        "ko": "겉옷"
+      },
+      "styleScore": 90,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E9%9D%92%E4%B8%98%E5%8D%83%E5%B2%81/%E6%8A%AB%E6%8C%82"
+    },
+    {
+      "nameOriginal": "饕餮齿",
+      "label": {
+        "en": "Tao Tie Chi",
+        "ko": "饕餮齿"
+      },
+      "styleScore": 50,
+      "sourceUrl": null
+    },
+    {
+      "nameOriginal": "绥昌戒",
+      "label": {
+        "en": "Sui Chang Jie",
+        "ko": "绥昌戒"
+      },
+      "styleScore": 30,
+      "sourceUrl": null
+    },
+    {
+      "nameOriginal": "青苍佩",
+      "label": {
+        "en": "Qing Cang Pei",
+        "ko": "青苍佩"
+      },
+      "styleScore": 90,
+      "sourceUrl": null
+    }
+  ],
+  "reportedComponentCount": 6,
+  "collectionReward": {
+    "amount": 100,
+    "currencyOriginal": "长鸣玉",
+    "currency": {
+      "en": "Echo Jade",
+      "ko": "장명옥"
+    }
+  },
+  "resultsAnimation": {
+    "available": true,
+    "styleScore": 200
+  },
+  "acquisition": null,
+  "timing": null,
+  "weapon": null,
+  "martialArt": null,
+  "replacedMove": null,
+  "mountType": null,
+  "sourceFields": {
+    "染色": "✔",
+    "裁造": "✘",
+    "赠送": "✔",
+    "交易": "✔",
+    "部件数量": "6",
+    "风华值": "4870",
+    "集齐奖励": "长鸣玉 x100",
+    "结算演出": "有（200 风华）"
+  }
+}

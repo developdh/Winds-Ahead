@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "cosmeticId": "cang-yinxing-he-yu-shu",
+  "titleOriginal": "藏音·星河欲曙",
+  "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E8%97%8F%E9%9F%B3%C2%B7%E6%98%9F%E6%B2%B3%E6%AC%B2%E6%9B%99",
+  "revisionUrl": "https://yy16s.huijiwiki.com/wiki/%E7%89%B9%E6%AE%8A:%E7%BC%96%E8%BE%91%E5%B7%AE%E5%BC%82/27101",
+  "checkedAt": "2026-09-13",
+  "license": "CC BY-NC-SA 3.0",
+  "articleAvailable": true,
+  "category": "weapon",
+  "grade": {
+    "en": "Gold",
+    "ko": "금색"
+  },
+  "gradeOriginal": "金",
+  "styleScore": 2000,
+  "flags": {
+    "dye": null,
+    "tailoring": null,
+    "gifting": null,
+    "trading": null
+  },
+  "components": [],
+  "reportedComponentCount": null,
+  "collectionReward": null,
+  "resultsAnimation": null,
+  "acquisition": null,
+  "timing": {
+    "original": "2026年4月30日版本更新后",
+    "en": "2026-04-30 after update",
+    "ko": "2026-04-30 업데이트 후",
+    "timezone": null
+  },
+  "weapon": {
+    "original": "伞",
+    "en": "Umbrella",
+    "ko": "우산"
+  },
+  "martialArt": null,
+  "replacedMove": null,
+  "mountType": null,
+  "sourceFields": {
+    "兵器": "伞",
+    "风华值": "2000",
+    "上线时间": "2026年4月30日版本更新后"
+  }
+}

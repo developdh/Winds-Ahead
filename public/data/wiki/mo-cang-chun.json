@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "cosmeticId": "mo-cang-chun",
+  "titleOriginal": "墨藏春",
+  "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E5%A2%A8%E8%97%8F%E6%98%A5",
+  "revisionUrl": "https://yy16s.huijiwiki.com/wiki/%E7%89%B9%E6%AE%8A:%E7%BC%96%E8%BE%91%E5%B7%AE%E5%BC%82/27244",
+  "checkedAt": "2026-09-13",
+  "license": "CC BY-NC-SA 3.0",
+  "articleAvailable": true,
+  "category": "effect",
+  "grade": {
+    "en": "Purple",
+    "ko": "보라"
+  },
+  "gradeOriginal": "紫",
+  "styleScore": 280,
+  "flags": {
+    "dye": null,
+    "tailoring": null,
+    "gifting": null,
+    "trading": null
+  },
+  "components": [],
+  "reportedComponentCount": null,
+  "collectionReward": null,
+  "resultsAnimation": null,
+  "acquisition": null,
+  "timing": {
+    "original": "2025年8月15日版本更新后",
+    "en": "2025-08-15 after update",
+    "ko": "2025-08-15 업데이트 후",
+    "timezone": null
+  },
+  "weapon": {
+    "original": "伞",
+    "en": "Umbrella",
+    "ko": "우산"
+  },
+  "martialArt": "九重春色",
+  "replacedMove": "武学技「抛春恨」",
+  "mountType": null,
+  "sourceFields": {
+    "武学": "九重春色",
+    "兵器": "伞",
+    "风华值": "280",
+    "上线时间": "2025年8月15日版本更新后",
+    "替换的招式": "武学技「抛春恨」"
+  }
+}

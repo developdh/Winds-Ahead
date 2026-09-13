@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "cosmeticId": "shi-shuang-feng",
+  "titleOriginal": "试霜锋",
+  "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E8%AF%95%E9%9C%9C%E9%94%8B",
+  "revisionUrl": "https://yy16s.huijiwiki.com/wiki/%E7%89%B9%E6%AE%8A:%E7%BC%96%E8%BE%91%E5%B7%AE%E5%BC%82/27111",
+  "checkedAt": "2026-09-13",
+  "license": "CC BY-NC-SA 3.0",
+  "articleAvailable": true,
+  "category": "weapon",
+  "grade": {
+    "en": "Purple",
+    "ko": "보라"
+  },
+  "gradeOriginal": "紫",
+  "styleScore": 210,
+  "flags": {
+    "dye": null,
+    "tailoring": null,
+    "gifting": null,
+    "trading": null
+  },
+  "components": [],
+  "reportedComponentCount": null,
+  "collectionReward": null,
+  "resultsAnimation": null,
+  "acquisition": null,
+  "timing": {
+    "original": "2025年9月19日版本更新后",
+    "en": "2025-09-19 after update",
+    "ko": "2025-09-19 업데이트 후",
+    "timezone": null
+  },
+  "weapon": {
+    "original": "横刀",
+    "en": "Heng blade",
+    "ko": "횡도"
+  },
+  "martialArt": null,
+  "replacedMove": null,
+  "mountType": null,
+  "sourceFields": {
+    "兵器": "横刀",
+    "风华值": "210",
+    "上线时间": "2025年9月19日版本更新后"
+  }
+}

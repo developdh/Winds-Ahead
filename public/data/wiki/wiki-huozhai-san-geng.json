@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "cosmeticId": "wiki-huozhai-san-geng",
+  "titleOriginal": "火宅三更",
+  "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E7%81%AB%E5%AE%85%E4%B8%89%E6%9B%B4",
+  "revisionUrl": "https://yy16s.huijiwiki.com/wiki/%E7%89%B9%E6%AE%8A:%E7%BC%96%E8%BE%91%E5%B7%AE%E5%BC%82/20569",
+  "checkedAt": "2026-09-13",
+  "license": "CC BY-NC-SA 3.0",
+  "articleAvailable": true,
+  "category": "sets",
+  "grade": {
+    "en": "Purple",
+    "ko": "보라"
+  },
+  "gradeOriginal": "紫",
+  "styleScore": 200,
+  "flags": {
+    "dye": false,
+    "tailoring": false,
+    "gifting": false,
+    "trading": false
+  },
+  "components": [
+    {
+      "nameOriginal": "发型",
+      "label": {
+        "en": "Hair",
+        "ko": "헤어"
+      },
+      "styleScore": 30,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E7%81%AB%E5%AE%85%E4%B8%89%E6%9B%B4/%E5%8F%91%E5%9E%8B"
+    },
+    {
+      "nameOriginal": "服装",
+      "label": {
+        "en": "Outfit",
+        "ko": "의복"
+      },
+      "styleScore": 120,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E7%81%AB%E5%AE%85%E4%B8%89%E6%9B%B4/%E6%9C%8D%E8%A3%85"
+    },
+    {
+      "nameOriginal": "渡生伞",
+      "label": {
+        "en": "Du Sheng San",
+        "ko": "渡生伞"
+      },
+      "styleScore": 30,
+      "sourceUrl": null
+    }
+  ],
+  "reportedComponentCount": null,
+  "collectionReward": {
+    "amount": 100,
+    "currencyOriginal": "长鸣玉",
+    "currency": {
+      "en": "Echo Jade",
+      "ko": "장명옥"
+    }
+  },
+  "resultsAnimation": null,
+  "acquisition": null,
+  "timing": null,
+  "weapon": null,
+  "martialArt": null,
+  "replacedMove": null,
+  "mountType": null,
+  "sourceFields": {
+    "染色": "✘",
+    "裁造": "✘",
+    "赠送": "✘",
+    "交易": "✘",
+    "风华值": "200",
+    "集齐奖励": "长鸣玉 x100"
+  }
+}

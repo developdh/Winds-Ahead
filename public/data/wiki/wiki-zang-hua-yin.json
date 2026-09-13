@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 1,
+  "cosmeticId": "wiki-zang-hua-yin",
+  "titleOriginal": "葬花吟",
+  "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E8%91%AC%E8%8A%B1%E5%90%9F",
+  "revisionUrl": "https://yy16s.huijiwiki.com/wiki/%E7%89%B9%E6%AE%8A:%E7%BC%96%E8%BE%91%E5%B7%AE%E5%BC%82/20608",
+  "checkedAt": "2026-09-13",
+  "license": "CC BY-NC-SA 3.0",
+  "articleAvailable": true,
+  "category": "sets",
+  "grade": {
+    "en": "Gold",
+    "ko": "금색"
+  },
+  "gradeOriginal": "金",
+  "styleScore": 505,
+  "flags": {
+    "dye": null,
+    "tailoring": null,
+    "gifting": null,
+    "trading": null
+  },
+  "components": [
+    {
+      "nameOriginal": "发型",
+      "label": {
+        "en": "Hair",
+        "ko": "헤어"
+      },
+      "styleScore": 110,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E8%91%AC%E8%8A%B1%E5%90%9F/%E5%8F%91%E5%9E%8B"
+    },
+    {
+      "nameOriginal": "服装",
+      "label": {
+        "en": "Outfit",
+        "ko": "의복"
+      },
+      "styleScore": 330,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E8%91%AC%E8%8A%B1%E5%90%9F/%E6%9C%8D%E8%A3%85"
+    },
+    {
+      "nameOriginal": "幽兰老",
+      "label": {
+        "en": "You Lan Lao",
+        "ko": "幽兰老"
+      },
+      "styleScore": 15,
+      "sourceUrl": null
+    }
+  ],
+  "reportedComponentCount": null,
+  "collectionReward": {
+    "amount": 100,
+    "currencyOriginal": "长鸣玉",
+    "currency": {
+      "en": "Echo Jade",
+      "ko": "장명옥"
+    }
+  },
+  "resultsAnimation": null,
+  "acquisition": null,
+  "timing": null,
+  "weapon": null,
+  "martialArt": null,
+  "replacedMove": null,
+  "mountType": null,
+  "sourceFields": {
+    "风华值": "505",
+    "集齐奖励": "长鸣玉 x100"
+  }
+}

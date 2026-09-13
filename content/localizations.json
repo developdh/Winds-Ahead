@@ -3813,5 +3813,978 @@
       "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
       "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
     }
+  },
+  "wiki-ren-jian-xian": {
+    "koName": "人间仙",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-cang-hai-long-yin": {
+    "koName": "沧海龙吟",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-wu-jian-wu-xiang": {
+    "koName": "无间无相",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-le-shen-shi-yan": {
+    "koName": "乐神师延",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-rui-he-xian": {
+    "koName": "瑞鹤仙",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-ruan-lang-gui": {
+    "koName": "阮郎归",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-bailong": {
+    "koName": "白龙",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-luo-hua-wen-zhao": {
+    "koName": "落花闻诏",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-su-lu-qing-ying": {
+    "koName": "宿露轻盈",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-ye-lang-you-wen": {
+    "koName": "夜郎幽问",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-jin-lin-que": {
+    "koName": "金鳞阙",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-zang-hua-yin": {
+    "koName": "葬花吟",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-jian-ying-cang-xin": {
+    "koName": "剑影藏心",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-chi-sha": {
+    "koName": "赤沙",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-wen-chun-he-ku": {
+    "koName": "问春何苦",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-wu-sha-hong-yi": {
+    "koName": "乌纱红漪",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-feng-hua-wu": {
+    "koName": "风花雾",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-li-shan-lie": {
+    "koName": "骊山猎",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-xue-lier": {
+    "koName": "雪狸儿",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-she-hu-nan-shan": {
+    "koName": "射虎南山",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-chi-gu": {
+    "koName": "螭骨",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-shan-shui-yi-yan": {
+    "koName": "山水一砚",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-huan-xisha": {
+    "koName": "浣溪沙",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-que-ta-zhi": {
+    "koName": "鹊踏枝",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-nan-jiang-mi-yu": {
+    "koName": "南疆秘语",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-zi-zai-jiu-liu": {
+    "koName": "自在九流",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-yan-ping-sheng": {
+    "koName": "晏平生",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-ziwei-que": {
+    "koName": "紫薇阙",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-he-xin-ci": {
+    "koName": "贺新词",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-mo-chen-dan-zhu": {
+    "koName": "墨沉丹朱",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-peng-lai-ling": {
+    "koName": "蓬莱翎",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-hong-chen-shu": {
+    "koName": "红尘书",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-bu-jin-kuang-lan": {
+    "koName": "不尽狂澜",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-nan-wen-qing-xi": {
+    "koName": "难问青溪",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-hua-wen-chun-yan": {
+    "koName": "花问春言",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-huozhai-san-geng": {
+    "koName": "火宅三更",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-shui-xieliyuan": {
+    "koName": "水榭梨园",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-gu-yun-chu-xiu": {
+    "koName": "孤云出岫",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-lian-yan-mo-shan": {
+    "koName": "连衍墨山",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-wen-dao-wen-jin": {
+    "koName": "问道文津",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-fang-shi-xie": {
+    "koName": "芳时歇",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-wu-feng-qing": {
+    "koName": "午风清",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-xiangsi-qu": {
+    "koName": "相思曲",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-wu-hua-jian": {
+    "koName": "舞花间",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-jin-chi-li": {
+    "koName": "金池鲤",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-cui-yugu": {
+    "koName": "翠羽顾",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-zhu-hong-hua": {
+    "koName": "逐红花",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-yao-ye-xing": {
+    "koName": "遥夜行",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-jiang-hu-ke": {
+    "koName": "江湖客",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-yu-ting-he": {
+    "koName": "雨停荷",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-diao-xue": {
+    "koName": "钓雪",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-xia-sheng-qing-ji": {
+    "koName": "侠声清霁",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-jin-lun": {
+    "koName": "金轮",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-ran-qing-cang": {
+    "koName": "染青苍",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-jin-xiu-yan-bo": {
+    "koName": "锦绣烟波",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-meng-zhu-jia-dao": {
+    "koName": "萌主驾到",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-lulin": {
+    "koName": "绿林",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-kufeng-ye-lan": {
+    "koName": "枯风夜阑",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-miao-shou-hui-chun": {
+    "koName": "妙手回春",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-zhang-qin-you-xia": {
+    "koName": "长琴有瑕",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-you-lan-lu": {
+    "koName": "幽兰露",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-shuang-fei-yan": {
+    "koName": "双飞燕",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-hua-yuan": {
+    "koName": "化缘",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-yi-ren-xin": {
+    "koName": "一人心",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-jing-ye-rong-guang": {
+    "koName": "静夜溶光",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-shan-zhong-ren": {
+    "koName": "山中人",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-jiang-xiao-shisui": {
+    "koName": "绛绡拾岁",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-zhang-ge-xian-yu": {
+    "koName": "长歌羡鱼",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-chun-ting-gui-he": {
+    "koName": "春庭归鹤",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-chao-lu-zi": {
+    "koName": "朝露紫",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-gu-ying-ye-xing": {
+    "koName": "孤影夜行",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-jue-zhang": {
+    "koName": "绝障",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-wu-ju": {
+    "koName": "无拘",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-yu-ge-zi": {
+    "koName": "渔歌子",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-sheng-sha-mian": {
+    "koName": "生杀面",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-ting-tian-ming": {
+    "koName": "听天命",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-ren-bu-shi": {
+    "koName": "人不识",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-cang-yin-kun-shan-yu-sui": {
+    "koName": "藏音·昆山玉碎",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-cang-yin-ku-zhounan-zhang": {
+    "koName": "藏音·苦昼难长",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-cang-yin-shao-guang-si-ji": {
+    "koName": "藏音·韶光四极",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-wan-lai-jue-yun-yi": {
+    "koName": "万籁·绝云翼",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-ling-shuang-chu-xue": {
+    "koName": "凌霜触雪",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-juan-lin-guang": {
+    "koName": "卷鳞光",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-chui-leng-qiu-shuang": {
+    "koName": "吹冷秋霜",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-zhan-lin-guang": {
+    "koName": "战鳞光",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-zhanlin-guang": {
+    "koName": "斩鳞光",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-duanlin-guang": {
+    "koName": "断鳞光",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-wu-zheng": {
+    "koName": "无争",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-wu-ying": {
+    "koName": "无影",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-wu-ming": {
+    "koName": "无明",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-wu-qing": {
+    "koName": "无晴",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-wu-sheng": {
+    "koName": "无生",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-wu-feng": {
+    "koName": "无锋",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-wu-ming-acf56a": {
+    "koName": "无鸣",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-jian-lin-guang": {
+    "koName": "翦鳞光",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-wu-lin-guang": {
+    "koName": "舞鳞光",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-xian-lin-guang": {
+    "koName": "衔鳞光",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-zhang-an-bu-jian": {
+    "koName": "长安不见",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-fei-yun": {
+    "koName": "飞云",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-fei-ying": {
+    "koName": "飞影",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-fei-ming": {
+    "koName": "飞明",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-fei-xing": {
+    "koName": "飞星",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-fei-sha": {
+    "koName": "飞沙",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-fei-yan": {
+    "koName": "飞焰",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-fei-yu": {
+    "koName": "飞羽",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-fei-hong": {
+    "koName": "飞虹",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-fei-xia": {
+    "koName": "飞霞",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-yue-zhong-shi": {
+    "koName": "月中诗",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-mugun": {
+    "koName": "木棍",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-youren-you-yu": {
+    "koName": "油刃有余",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-zongbu-zong": {
+    "koName": "粽不粽",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-cong-cong-na-nian": {
+    "koName": "葱葱那年",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-sa-mo-ye": {
+    "koName": "飒陌耶",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-shuang-fenghan": {
+    "koName": "霜枫寒",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-shuang-fengjin": {
+    "koName": "霜枫尽",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-shuang-fengchou": {
+    "koName": "霜枫愁",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-shuang-fengheng": {
+    "koName": "霜枫横",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-shuang-fengmian": {
+    "koName": "霜枫眠",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-shuang-fengwu": {
+    "koName": "霜枫舞",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-shuang-fengjue": {
+    "koName": "霜枫诀",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-yi-lei-jing-zhe": {
+    "koName": "一雷惊蛰",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-shu-hun-dan-xin": {
+    "koName": "戍魂丹心",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-qing-luan-wang-yue": {
+    "koName": "青鸾望月",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-mo-duanhen": {
+    "koName": "墨断痕",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-mo-pofeng": {
+    "koName": "墨泼风",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-mo-wu-yun": {
+    "koName": "墨舞云",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-mo-zhe-shan": {
+    "koName": "墨遮山",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-fen-jing-san-tu": {
+    "koName": "焚净三途",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-yi-lu-shun-feng": {
+    "koName": "倚鹿顺风",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-qin-ma": {
+    "koName": "秦马",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-sa-lu-zi": {
+    "koName": "飒露子",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-diao-jing-baie-da-e": {
+    "koName": "吊睛白额大鹅",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-ha-shiqi": {
+    "koName": "哈是骑",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-jizhui-bao": {
+    "koName": "疾追豹",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-fei-mao-tui": {
+    "koName": "飞毛腿",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-baiyi": {
+    "koName": "白义",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-dao-li": {
+    "koName": "盗骊",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-lin-lang-xue": {
+    "koName": "琳琅雪",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
+  },
+  "wiki-shuang-han-tian-quan": {
+    "koName": "霜寒天泉",
+    "description": {
+      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
+      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+    }
   }
 }

@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "cosmeticId": "mo-ran-chen",
+  "titleOriginal": "墨染尘",
+  "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E5%A2%A8%E6%9F%93%E5%B0%98",
+  "revisionUrl": "https://yy16s.huijiwiki.com/wiki/%E7%89%B9%E6%AE%8A:%E7%BC%96%E8%BE%91%E5%B7%AE%E5%BC%82/27241",
+  "checkedAt": "2026-09-13",
+  "license": "CC BY-NC-SA 3.0",
+  "articleAvailable": true,
+  "category": "effect",
+  "grade": {
+    "en": "Purple",
+    "ko": "보라"
+  },
+  "gradeOriginal": "紫",
+  "styleScore": 280,
+  "flags": {
+    "dye": null,
+    "tailoring": null,
+    "gifting": null,
+    "trading": null
+  },
+  "components": [],
+  "reportedComponentCount": null,
+  "collectionReward": null,
+  "resultsAnimation": null,
+  "acquisition": null,
+  "timing": null,
+  "weapon": {
+    "original": "伞",
+    "en": "Umbrella",
+    "ko": "우산"
+  },
+  "martialArt": "醉梦游春",
+  "replacedMove": "武学技「红消香断」",
+  "mountType": null,
+  "sourceFields": {
+    "武学": "醉梦游春",
+    "兵器": "伞",
+    "风华值": "280",
+    "替换的招式": "武学技「红消香断」"
+  }
+}

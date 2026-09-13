@@ -1,0 +1,132 @@
+{
+  "schemaVersion": 1,
+  "cosmeticId": "yao-si-han-que",
+  "titleOriginal": "遥思汉阙",
+  "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E9%81%A5%E6%80%9D%E6%B1%89%E9%98%99",
+  "revisionUrl": "https://yy16s.huijiwiki.com/wiki/%E7%89%B9%E6%AE%8A:%E7%BC%96%E8%BE%91%E5%B7%AE%E5%BC%82/20771",
+  "checkedAt": "2026-09-13",
+  "license": "CC BY-NC-SA 3.0",
+  "articleAvailable": true,
+  "category": "sets",
+  "grade": {
+    "en": "Pink",
+    "ko": "분홍"
+  },
+  "gradeOriginal": "粉",
+  "styleScore": 1710,
+  "flags": {
+    "dye": true,
+    "tailoring": false,
+    "gifting": true,
+    "trading": true
+  },
+  "components": [
+    {
+      "nameOriginal": "发型",
+      "label": {
+        "en": "Hair",
+        "ko": "헤어"
+      },
+      "styleScore": 630,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E9%81%A5%E6%80%9D%E6%B1%89%E9%98%99/%E5%8F%91%E5%9E%8B"
+    },
+    {
+      "nameOriginal": "上衣",
+      "label": {
+        "en": "Top",
+        "ko": "상의"
+      },
+      "styleScore": 500,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E9%81%A5%E6%80%9D%E6%B1%89%E9%98%99/%E4%B8%8A%E8%A1%A3"
+    },
+    {
+      "nameOriginal": "下装",
+      "label": {
+        "en": "Bottom",
+        "ko": "하의"
+      },
+      "styleScore": 270,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E9%81%A5%E6%80%9D%E6%B1%89%E9%98%99/%E4%B8%8B%E8%A3%85"
+    },
+    {
+      "nameOriginal": "帽子",
+      "label": {
+        "en": "Headwear",
+        "ko": "모자"
+      },
+      "styleScore": 20,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E9%81%A5%E6%80%9D%E6%B1%89%E9%98%99/%E5%B8%BD%E5%AD%90"
+    },
+    {
+      "nameOriginal": "披挂",
+      "label": {
+        "en": "Outerwear",
+        "ko": "겉옷"
+      },
+      "styleScore": 120,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E9%81%A5%E6%80%9D%E6%B1%89%E9%98%99/%E6%8A%AB%E6%8C%82"
+    },
+    {
+      "nameOriginal": "发饰",
+      "label": {
+        "en": "Hair ornament",
+        "ko": "머리 장신구"
+      },
+      "styleScore": 20,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E9%81%A5%E6%80%9D%E6%B1%89%E9%98%99/%E5%8F%91%E9%A5%B0"
+    },
+    {
+      "nameOriginal": "颈饰",
+      "label": {
+        "en": "Neck accessory",
+        "ko": "목 장신구"
+      },
+      "styleScore": 20,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E9%81%A5%E6%80%9D%E6%B1%89%E9%98%99/%E9%A2%88%E9%A5%B0"
+    },
+    {
+      "nameOriginal": "小型配饰",
+      "label": {
+        "en": "Small accessory",
+        "ko": "소형 장신구"
+      },
+      "styleScore": 10,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E9%81%A5%E6%80%9D%E6%B1%89%E9%98%99/%E5%B0%8F%E5%9E%8B%E9%85%8D%E9%A5%B0"
+    }
+  ],
+  "reportedComponentCount": null,
+  "collectionReward": {
+    "amount": 100,
+    "currencyOriginal": "长鸣玉",
+    "currency": {
+      "en": "Echo Jade",
+      "ko": "장명옥"
+    }
+  },
+  "resultsAnimation": null,
+  "acquisition": {
+    "original": "聆音",
+    "en": "Lingyin draw",
+    "ko": "청음 추첨"
+  },
+  "timing": {
+    "original": "2026年7月24日版本更新后",
+    "en": "2026-07-24 after update",
+    "ko": "2026-07-24 업데이트 후",
+    "timezone": null
+  },
+  "weapon": null,
+  "martialArt": null,
+  "replacedMove": null,
+  "mountType": null,
+  "sourceFields": {
+    "染色": "✔",
+    "裁造": "✘",
+    "赠送": "✔",
+    "交易": "✔",
+    "风华值": "1710",
+    "上线时间": "2026年7月24日版本更新后",
+    "获取方式": "聆音",
+    "集齐奖励": "长鸣玉 x100"
+  }
+}

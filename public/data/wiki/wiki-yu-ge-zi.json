@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "cosmeticId": "wiki-yu-ge-zi",
+  "titleOriginal": "渔歌子",
+  "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E6%B8%94%E6%AD%8C%E5%AD%90",
+  "revisionUrl": "https://yy16s.huijiwiki.com/wiki/%E7%89%B9%E6%AE%8A:%E7%BC%96%E8%BE%91%E5%B7%AE%E5%BC%82/20717",
+  "checkedAt": "2026-09-13",
+  "license": "CC BY-NC-SA 3.0",
+  "articleAvailable": true,
+  "category": "sets",
+  "grade": {
+    "en": "Blue",
+    "ko": "파랑"
+  },
+  "gradeOriginal": "蓝",
+  "styleScore": 130,
+  "flags": {
+    "dye": false,
+    "tailoring": false,
+    "gifting": false,
+    "trading": false
+  },
+  "components": [
+    {
+      "nameOriginal": "发型",
+      "label": {
+        "en": "Hair",
+        "ko": "헤어"
+      },
+      "styleScore": 20,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E6%B8%94%E6%AD%8C%E5%AD%90/%E5%8F%91%E5%9E%8B"
+    },
+    {
+      "nameOriginal": "服装",
+      "label": {
+        "en": "Outfit",
+        "ko": "의복"
+      },
+      "styleScore": 90,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E6%B8%94%E6%AD%8C%E5%AD%90/%E6%9C%8D%E8%A3%85"
+    }
+  ],
+  "reportedComponentCount": 2,
+  "collectionReward": {
+    "amount": 100,
+    "currencyOriginal": "长鸣玉",
+    "currency": {
+      "en": "Echo Jade",
+      "ko": "장명옥"
+    }
+  },
+  "resultsAnimation": null,
+  "acquisition": {
+    "original": "水乡消夏·凉风小筑",
+    "en": "Event reward",
+    "ko": "이벤트 보상"
+  },
+  "timing": {
+    "original": "2026年6月26日版本更新后~2026年8月28日04:59:59",
+    "en": "2026-06-26 after update — 2026-08-2804:59:59",
+    "ko": "2026-06-26 업데이트 후 — 2026-08-2804:59:59",
+    "timezone": null
+  },
+  "weapon": null,
+  "martialArt": null,
+  "replacedMove": null,
+  "mountType": null,
+  "sourceFields": {
+    "染色": "✘",
+    "裁造": "✘",
+    "赠送": "✘",
+    "交易": "✘",
+    "部件数量": "2",
+    "风华值": "130",
+    "上线时间": "2026年6月26日版本更新后~2026年8月28日04:59:59",
+    "获取方式": "水乡消夏·凉风小筑",
+    "集齐奖励": "长鸣玉 x100"
+  }
+}

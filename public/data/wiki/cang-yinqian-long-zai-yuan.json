@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "cosmeticId": "cang-yinqian-long-zai-yuan",
+  "titleOriginal": "藏音·潜龙在渊",
+  "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E8%97%8F%E9%9F%B3%C2%B7%E6%BD%9C%E9%BE%99%E5%9C%A8%E6%B8%8A",
+  "revisionUrl": "https://yy16s.huijiwiki.com/wiki/%E7%89%B9%E6%AE%8A:%E7%BC%96%E8%BE%91%E5%B7%AE%E5%BC%82/27102",
+  "checkedAt": "2026-09-13",
+  "license": "CC BY-NC-SA 3.0",
+  "articleAvailable": true,
+  "category": "weapon",
+  "grade": {
+    "en": "Gold",
+    "ko": "금색"
+  },
+  "gradeOriginal": "金",
+  "styleScore": 2000,
+  "flags": {
+    "dye": null,
+    "tailoring": null,
+    "gifting": null,
+    "trading": null
+  },
+  "components": [],
+  "reportedComponentCount": null,
+  "collectionReward": null,
+  "resultsAnimation": null,
+  "acquisition": null,
+  "timing": {
+    "original": "2025年12月27日版本更新后",
+    "en": "2025-12-27 after update",
+    "ko": "2025-12-27 업데이트 후",
+    "timezone": null
+  },
+  "weapon": {
+    "original": "枪",
+    "en": "Spear",
+    "ko": "창"
+  },
+  "martialArt": null,
+  "replacedMove": null,
+  "mountType": null,
+  "sourceFields": {
+    "兵器": "枪",
+    "风华值": "2000",
+    "上线时间": "2025年12月27日版本更新后"
+  }
+}

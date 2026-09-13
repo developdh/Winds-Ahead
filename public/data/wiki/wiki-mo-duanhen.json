@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "cosmeticId": "wiki-mo-duanhen",
+  "titleOriginal": "墨断痕",
+  "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E5%A2%A8%E6%96%AD%E7%97%95",
+  "revisionUrl": "https://yy16s.huijiwiki.com/wiki/%E7%89%B9%E6%AE%8A:%E7%BC%96%E8%BE%91%E5%B7%AE%E5%BC%82/27240",
+  "checkedAt": "2026-09-13",
+  "license": "CC BY-NC-SA 3.0",
+  "articleAvailable": true,
+  "category": "effect",
+  "grade": {
+    "en": "Purple",
+    "ko": "보라"
+  },
+  "gradeOriginal": "紫",
+  "styleScore": 280,
+  "flags": {
+    "dye": null,
+    "tailoring": null,
+    "gifting": null,
+    "trading": null
+  },
+  "components": [],
+  "reportedComponentCount": null,
+  "collectionReward": null,
+  "resultsAnimation": null,
+  "acquisition": null,
+  "timing": {
+    "original": "2025年6月20日版本更新后",
+    "en": "2025-06-20 after update",
+    "ko": "2025-06-20 업데이트 후",
+    "timezone": null
+  },
+  "weapon": {
+    "original": "剑",
+    "en": "Sword",
+    "ko": "검"
+  },
+  "martialArt": "积矩九剑",
+  "replacedMove": "蓄力技「次二衡径数」",
+  "mountType": null,
+  "sourceFields": {
+    "武学": "积矩九剑",
+    "兵器": "剑",
+    "风华值": "280",
+    "上线时间": "2025年6月20日版本更新后",
+    "替换的招式": "蓄力技「次二衡径数」"
+  }
+}

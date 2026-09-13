@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "cosmeticId": "ni-shang-huai-tian",
+  "titleOriginal": "霓裳徊天",
+  "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E9%9C%93%E8%A3%B3%E5%BE%8A%E5%A4%A9",
+  "revisionUrl": "https://yy16s.huijiwiki.com/wiki/%E7%89%B9%E6%AE%8A:%E7%BC%96%E8%BE%91%E5%B7%AE%E5%BC%82/27257",
+  "checkedAt": "2026-09-13",
+  "license": "CC BY-NC-SA 3.0",
+  "articleAvailable": true,
+  "category": "effect",
+  "grade": {
+    "en": "Gold",
+    "ko": "금색"
+  },
+  "gradeOriginal": "金",
+  "styleScore": 2000,
+  "flags": {
+    "dye": null,
+    "tailoring": null,
+    "gifting": null,
+    "trading": null
+  },
+  "components": [],
+  "reportedComponentCount": null,
+  "collectionReward": null,
+  "resultsAnimation": null,
+  "acquisition": null,
+  "timing": {
+    "original": "2025年11月14日版本更新后",
+    "en": "2025-11-14 after update",
+    "ko": "2025-11-14 업데이트 후",
+    "timezone": null
+  },
+  "weapon": {
+    "original": "伞",
+    "en": "Umbrella",
+    "ko": "우산"
+  },
+  "martialArt": "醉梦游春",
+  "replacedMove": null,
+  "mountType": null,
+  "sourceFields": {
+    "武学": "醉梦游春",
+    "兵器": "伞",
+    "风华值": "2000",
+    "上线时间": "2025年11月14日版本更新后"
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "cosmeticId": "dan-yuan-huan-yu",
+  "titleOriginal": "丹渊寰宇",
+  "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E4%B8%B9%E6%B8%8A%E5%AF%B0%E5%AE%87",
+  "revisionUrl": "https://yy16s.huijiwiki.com/wiki/%E7%89%B9%E6%AE%8A:%E7%BC%96%E8%BE%91%E5%B7%AE%E5%BC%82/20480",
+  "checkedAt": "2026-09-13",
+  "license": "CC BY-NC-SA 3.0",
+  "articleAvailable": true,
+  "category": "sets",
+  "grade": {
+    "en": "Gold",
+    "ko": "금색"
+  },
+  "gradeOriginal": "金",
+  "styleScore": 5840,
+  "flags": {
+    "dye": null,
+    "tailoring": null,
+    "gifting": null,
+    "trading": null
+  },
+  "components": [
+    {
+      "nameOriginal": "发型",
+      "label": {
+        "en": "Hair",
+        "ko": "헤어"
+      },
+      "styleScore": 1800,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E4%B8%B9%E6%B8%8A%E5%AF%B0%E5%AE%87/%E5%8F%91%E5%9E%8B"
+    },
+    {
+      "nameOriginal": "上衣",
+      "label": {
+        "en": "Top",
+        "ko": "상의"
+      },
+      "styleScore": 1300,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E4%B8%B9%E6%B8%8A%E5%AF%B0%E5%AE%87/%E4%B8%8A%E8%A1%A3"
+    },
+    {
+      "nameOriginal": "下装",
+      "label": {
+        "en": "Bottom",
+        "ko": "하의"
+      },
+      "styleScore": 900,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E4%B8%B9%E6%B8%8A%E5%AF%B0%E5%AE%87/%E4%B8%8B%E8%A3%85"
+    },
+    {
+      "nameOriginal": "小型配饰1",
+      "label": {
+        "en": "Small accessory 1",
+        "ko": "소형 장신구 1"
+      },
+      "styleScore": 50,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E4%B8%B9%E6%B8%8A%E5%AF%B0%E5%AE%87/%E5%B0%8F%E5%9E%8B%E9%85%8D%E9%A5%B01"
+    },
+    {
+      "nameOriginal": "披挂",
+      "label": {
+        "en": "Outerwear",
+        "ko": "겉옷"
+      },
+      "styleScore": 90,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E4%B8%B9%E6%B8%8A%E5%AF%B0%E5%AE%87/%E6%8A%AB%E6%8C%82"
+    },
+    {
+      "nameOriginal": "面饰",
+      "label": {
+        "en": "Face accessory",
+        "ko": "얼굴 장신구"
+      },
+      "styleScore": 50,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E4%B8%B9%E6%B8%8A%E5%AF%B0%E5%AE%87/%E9%9D%A2%E9%A5%B0"
+    },
+    {
+      "nameOriginal": "小型配饰2",
+      "label": {
+        "en": "Small accessory 2",
+        "ko": "소형 장신구 2"
+      },
+      "styleScore": 50,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E4%B8%B9%E6%B8%8A%E5%AF%B0%E5%AE%87/%E5%B0%8F%E5%9E%8B%E9%85%8D%E9%A5%B02"
+    },
+    {
+      "nameOriginal": "中型配饰",
+      "label": {
+        "en": "Medium accessory",
+        "ko": "중형 장신구"
+      },
+      "styleScore": 1200,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E4%B8%B9%E6%B8%8A%E5%AF%B0%E5%AE%87/%E4%B8%AD%E5%9E%8B%E9%85%8D%E9%A5%B0"
+    }
+  ],
+  "reportedComponentCount": null,
+  "collectionReward": {
+    "amount": 100,
+    "currencyOriginal": "长鸣玉",
+    "currency": {
+      "en": "Echo Jade",
+      "ko": "장명옥"
+    }
+  },
+  "resultsAnimation": {
+    "available": true,
+    "styleScore": 200
+  },
+  "acquisition": null,
+  "timing": null,
+  "weapon": null,
+  "martialArt": null,
+  "replacedMove": null,
+  "mountType": null,
+  "sourceFields": {
+    "风华值": "5840",
+    "集齐奖励": "长鸣玉 x100",
+    "结算演出": "有（200 风华）"
+  }
+}

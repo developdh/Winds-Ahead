@@ -1,0 +1,116 @@
+{
+  "schemaVersion": 1,
+  "cosmeticId": "ming-lu-xun-chun",
+  "titleOriginal": "鸣鹿寻春",
+  "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E9%B8%A3%E9%B9%BF%E5%AF%BB%E6%98%A5",
+  "revisionUrl": "https://yy16s.huijiwiki.com/wiki/%E7%89%B9%E6%AE%8A:%E7%BC%96%E8%BE%91%E5%B7%AE%E5%BC%82/20667",
+  "checkedAt": "2026-09-13",
+  "license": "CC BY-NC-SA 3.0",
+  "articleAvailable": true,
+  "category": "sets",
+  "grade": {
+    "en": "Pink",
+    "ko": "분홍"
+  },
+  "gradeOriginal": "粉",
+  "styleScore": 1655,
+  "flags": {
+    "dye": true,
+    "tailoring": false,
+    "gifting": null,
+    "trading": false
+  },
+  "components": [
+    {
+      "nameOriginal": "发型",
+      "label": {
+        "en": "Hair",
+        "ko": "헤어"
+      },
+      "styleScore": 630,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E9%B8%A3%E9%B9%BF%E5%AF%BB%E6%98%A5/%E5%8F%91%E5%9E%8B"
+    },
+    {
+      "nameOriginal": "上衣",
+      "label": {
+        "en": "Top",
+        "ko": "상의"
+      },
+      "styleScore": 500,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E9%B8%A3%E9%B9%BF%E5%AF%BB%E6%98%A5/%E4%B8%8A%E8%A1%A3"
+    },
+    {
+      "nameOriginal": "下装",
+      "label": {
+        "en": "Bottom",
+        "ko": "하의"
+      },
+      "styleScore": 270,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E9%B8%A3%E9%B9%BF%E5%AF%BB%E6%98%A5/%E4%B8%8B%E8%A3%85"
+    },
+    {
+      "nameOriginal": "帽子",
+      "label": {
+        "en": "Headwear",
+        "ko": "모자"
+      },
+      "styleScore": 30,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E9%B8%A3%E9%B9%BF%E5%AF%BB%E6%98%A5/%E5%B8%BD%E5%AD%90"
+    },
+    {
+      "nameOriginal": "发饰",
+      "label": {
+        "en": "Hair ornament",
+        "ko": "머리 장신구"
+      },
+      "styleScore": 30,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E9%B8%A3%E9%B9%BF%E5%AF%BB%E6%98%A5/%E5%8F%91%E9%A5%B0"
+    },
+    {
+      "nameOriginal": "耳饰",
+      "label": {
+        "en": "Earrings",
+        "ko": "귀 장신구"
+      },
+      "styleScore": 25,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E9%B8%A3%E9%B9%BF%E5%AF%BB%E6%98%A5/%E8%80%B3%E9%A5%B0"
+    },
+    {
+      "nameOriginal": "颈饰",
+      "label": {
+        "en": "Neck accessory",
+        "ko": "목 장신구"
+      },
+      "styleScore": 30,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E9%B8%A3%E9%B9%BF%E5%AF%BB%E6%98%A5/%E9%A2%88%E9%A5%B0"
+    }
+  ],
+  "reportedComponentCount": 7,
+  "collectionReward": {
+    "amount": 100,
+    "currencyOriginal": "长鸣玉",
+    "currency": {
+      "en": "Echo Jade",
+      "ko": "장명옥"
+    }
+  },
+  "resultsAnimation": {
+    "available": true,
+    "styleScore": 100
+  },
+  "acquisition": null,
+  "timing": null,
+  "weapon": null,
+  "martialArt": null,
+  "replacedMove": null,
+  "mountType": null,
+  "sourceFields": {
+    "染色": "✔",
+    "裁造": "✘",
+    "交易": "✘",
+    "部件数量": "7",
+    "风华值": "1655",
+    "集齐奖励": "长鸣玉 x100",
+    "结算演出": "有（100 风华）"
+  }
+}

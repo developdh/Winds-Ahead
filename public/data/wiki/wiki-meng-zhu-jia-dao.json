@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "cosmeticId": "wiki-meng-zhu-jia-dao",
+  "titleOriginal": "萌主驾到",
+  "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E8%90%8C%E4%B8%BB%E9%A9%BE%E5%88%B0",
+  "revisionUrl": "https://yy16s.huijiwiki.com/wiki/%E7%89%B9%E6%AE%8A:%E7%BC%96%E8%BE%91%E5%B7%AE%E5%BC%82/20763",
+  "checkedAt": "2026-09-13",
+  "license": "CC BY-NC-SA 3.0",
+  "articleAvailable": true,
+  "category": "sets",
+  "grade": {
+    "en": "Blue",
+    "ko": "파랑"
+  },
+  "gradeOriginal": "蓝",
+  "styleScore": 145,
+  "flags": {
+    "dye": false,
+    "tailoring": false,
+    "gifting": false,
+    "trading": false
+  },
+  "components": [
+    {
+      "nameOriginal": "发型",
+      "label": {
+        "en": "Hair",
+        "ko": "헤어"
+      },
+      "styleScore": 20,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E8%90%8C%E4%B8%BB%E9%A9%BE%E5%88%B0/%E5%8F%91%E5%9E%8B"
+    },
+    {
+      "nameOriginal": "服装",
+      "label": {
+        "en": "Outfit",
+        "ko": "의복"
+      },
+      "styleScore": 90,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E8%90%8C%E4%B8%BB%E9%A9%BE%E5%88%B0/%E6%9C%8D%E8%A3%85"
+    },
+    {
+      "nameOriginal": "披挂",
+      "label": {
+        "en": "Outerwear",
+        "ko": "겉옷"
+      },
+      "styleScore": 15,
+      "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E8%90%8C%E4%B8%BB%E9%A9%BE%E5%88%B0/%E6%8A%AB%E6%8C%82"
+    }
+  ],
+  "reportedComponentCount": 3,
+  "collectionReward": {
+    "amount": 100,
+    "currencyOriginal": "长鸣玉",
+    "currency": {
+      "en": "Echo Jade",
+      "ko": "장명옥"
+    }
+  },
+  "resultsAnimation": null,
+  "acquisition": {
+    "original": "伙伴商店",
+    "en": "Companion shop",
+    "ko": "동료 상점"
+  },
+  "timing": {
+    "original": "2026年5月29日版本更新后",
+    "en": "2026-05-29 after update",
+    "ko": "2026-05-29 업데이트 후",
+    "timezone": null
+  },
+  "weapon": null,
+  "martialArt": null,
+  "replacedMove": null,
+  "mountType": null,
+  "sourceFields": {
+    "染色": "✘",
+    "裁造": "✘",
+    "赠送": "✘",
+    "交易": "✘",
+    "部件数量": "3",
+    "风华值": "145",
+    "上线时间": "2026年5月29日版本更新后",
+    "获取方式": "伙伴商店",
+    "集齐奖励": "长鸣玉 x100"
+  }
+}

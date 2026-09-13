@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "cosmeticId": "feng-xi-wan-gu",
+  "titleOriginal": "风戏万古",
+  "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E9%A3%8E%E6%88%8F%E4%B8%87%E5%8F%A4",
+  "revisionUrl": "https://yy16s.huijiwiki.com/wiki/%E7%89%B9%E6%AE%8A:%E7%BC%96%E8%BE%91%E5%B7%AE%E5%BC%82/27260",
+  "checkedAt": "2026-09-13",
+  "license": "CC BY-NC-SA 3.0",
+  "articleAvailable": true,
+  "category": "effect",
+  "grade": {
+    "en": "Purple",
+    "ko": "보라"
+  },
+  "gradeOriginal": "紫",
+  "styleScore": 280,
+  "flags": {
+    "dye": null,
+    "tailoring": null,
+    "gifting": null,
+    "trading": null
+  },
+  "components": [],
+  "reportedComponentCount": null,
+  "collectionReward": null,
+  "resultsAnimation": null,
+  "acquisition": null,
+  "timing": null,
+  "weapon": {
+    "original": "绳镖",
+    "en": "Rope dart",
+    "ko": "승표"
+  },
+  "martialArt": "粟子行云",
+  "replacedMove": "特殊附魔「摄魂」",
+  "mountType": null,
+  "sourceFields": {
+    "武学": "粟子行云",
+    "兵器": "绳镖",
+    "风华值": "280",
+    "替换的招式": "特殊附魔「摄魂」"
+  }
+}
