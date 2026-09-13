@@ -47,4 +47,4 @@ The original research snapshot's `downloadedOrRehosted: false` describes that re
 - Real iOS/Android, Firefox/WebKit, and 200% text enlargement need separate coverage. No public reporting channel, media redistribution clearance, or predictive-accuracy claim is included.
 - GitHub changes are reviewable stacked PRs. Main has not been merged; no automatic merging is enabled.
 
-The published URL and deployment result are recorded here after the hosting operation succeeds. Hosting access must remain owner-only for this MVP.
+[Open the private MVP](https://winds-ahead.donghee0815.chatgpt.site). Sites reported successful publication on September 13, 2026 UTC. Access remains owner-only. The source is retained on GitHub in PR #5; publishing did not merge the stacked branches into main.
