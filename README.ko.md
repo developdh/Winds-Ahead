@@ -8,9 +8,11 @@
 
 [소유자 비공개 MVP 열기](https://winds-ahead.donghee0815.chatgpt.site) · 2026년 9월 13일 UTC 게시.
 
-도감에는 **중국 공식 공지 3건의 외관 18종**을 등록했으며 클릭한 뒤 재생하는 무술 이펙트가 포함됩니다. 16종은 날짜 단위로 기록했고 이 중 5종은 공지의 상대 날짜 표현을 연결한 결과입니다. 나머지 2종은 날짜 미정입니다. 검증된 글로벌 일정이나 운영자 예상은 아직 게시하지 않았습니다. 빈 일정에 임의 날짜를 채우지 않습니다.
+도감에는 **중국 공식 공지 17건의 외관 40종(의상 29종)**을 등록했으며 클릭한 뒤 재생하는 무술 이펙트가 포함됩니다. 34종은 날짜 단위로 기록했고 이 중 7종은 공지 문맥을 해석한 결과입니다. 나머지 6종은 날짜 미정입니다. 검증된 글로벌 일정이나 운영자 예상은 아직 게시하지 않았습니다. 빈 일정에 임의 날짜를 채우지 않습니다.
 
 소스와 미리보기는 비공개입니다. 미디어 출처는 기록했으나 재배포 권한은 미확인이므로 공개 서비스 전 미디어 검토와 실제 공개 제보 창구가 필요합니다.
+
+**도메인 준비:** 사용자가 가비아에서 `windsahead.com`을 구매했습니다. 기본 주소와 `www`를 등록하고 DNS·HTTPS 인증을 기다리고 있습니다. [설정 안내](docs/ko/custom-domain.md)에 정확한 입력값을 기록했으며 아직 공개하지 않았습니다.
 
 ## 로컬 실행
 
@@ -29,6 +31,8 @@ npm run dev
 
 | Document | English | 한국어 |
 | --- | --- | --- |
+| Domain and public launch | [Custom domain](docs/en/custom-domain.md) | [도메인과 공개 준비](docs/ko/custom-domain.md) |
+| Outfit expansion | [22 added outfits](docs/en/outfit-expansion.md) | [의상 22종 확장](docs/ko/outfit-expansion.md) |
 | Prices and acquisition | [Acquisition details](docs/en/acquisition-details.md) | [재화와 획득 정보](docs/ko/acquisition-details.md) |
 | September intake and playback | [Content expansion](docs/en/content-expansion.md) | [정보 수집과 재생](docs/ko/content-expansion.md) |
 | MVP and operation | [MVP status](docs/en/mvp-status.md) | [MVP 현황](docs/ko/mvp-status.md) |

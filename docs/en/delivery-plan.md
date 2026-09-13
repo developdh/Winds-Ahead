@@ -17,7 +17,8 @@ The current deliverable is the bilingual owner-private MVP, its verified CN seed
 | User decision | Prioritize design, UI/UX, responsive behavior, and speed over a shorter development schedule |
 | Proposed defaults | Exploration-first home, account-free watchlist, manually verified content, ink/jade visual direction |
 | Verify before implementation | Representative media and usage basis, real regional date/name matching, hosting execution path |
-| Decide before public launch | Domain, editorial contact/public reporting route, publication scope, analytics if needed |
+| User decision | windsahead.com purchased through Gabia; [domain preparation](custom-domain.md) records the pending DNS/TLS setup |
+| Decide before public launch | Editorial contact/public reporting route, publication scope, analytics if needed |
 
 Do not block earlier work on undecided choices unrelated to it. Present concrete options and conditions when an actual expense or external communication becomes necessary.
 

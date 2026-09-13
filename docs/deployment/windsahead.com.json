@@ -1,0 +1,75 @@
+{
+  "domain": "windsahead.com",
+  "www": "www.windsahead.com",
+  "registrar": "Gabia",
+  "project_id": "appgprj_6aa6131c82e081918ee27efb4b40fe53",
+  "prepared_at": "2026-09-13",
+  "phase": "preparation_only",
+  "gabia_dns_applied": false,
+  "public_access_enabled": false,
+  "https_verified": false,
+  "redirect_verified": false,
+  "custom_domains": [
+    {
+      "id": "appgdom_6aa69b1d37c881918c9ec182fc77f304",
+      "hostname": "windsahead.com",
+      "status": "pending",
+      "provider_status": "pending",
+      "ssl_status": "pending_validation",
+      "created_at": "2026-09-13T12:46:21.218237+00:00"
+    },
+    {
+      "id": "appgdom_6aa69b3714fc819182e9154e558b3f04",
+      "hostname": "www.windsahead.com",
+      "status": "pending",
+      "provider_status": "pending",
+      "ssl_status": "pending_validation",
+      "created_at": "2026-09-13T12:46:47.082291+00:00"
+    }
+  ],
+  "records": [
+    {
+      "record_type": "A",
+      "host": "@",
+      "value": "162.159.143.30",
+      "hostname": "windsahead.com"
+    },
+    {
+      "record_type": "A",
+      "host": "@",
+      "value": "172.66.3.26",
+      "hostname": "windsahead.com"
+    },
+    {
+      "record_type": "TXT",
+      "host": "_openai-site-verification",
+      "value": "openai-site-verification=mHA6vAOFBB3_KGNUgr9_2ODxUzb-Y7eQwu6XsYqr_jo",
+      "hostname": "_openai-site-verification.windsahead.com"
+    },
+    {
+      "record_type": "TXT",
+      "host": "_cf-custom-hostname",
+      "value": "981942a6-5a59-4119-8d9f-9db0728d68d0",
+      "hostname": "_cf-custom-hostname.windsahead.com"
+    },
+    {
+      "record_type": "CNAME",
+      "host": "www",
+      "value": "custom-domains.chatgpt.site.",
+      "hostname": "www.windsahead.com"
+    },
+    {
+      "record_type": "TXT",
+      "host": "_openai-site-verification.www",
+      "value": "openai-site-verification=zNdZvgVevRjoT2IK1sMahk5WbC0zOVk6m5JaSKcCAz0",
+      "hostname": "_openai-site-verification.www.windsahead.com"
+    },
+    {
+      "record_type": "TXT",
+      "host": "_cf-custom-hostname.www",
+      "value": "0396cbb9-ed9f-4083-8a97-ebfe318eced1",
+      "hostname": "_cf-custom-hostname.www.windsahead.com"
+    }
+  ],
+  "incomplete_validation_entry_per_hostname": true
+}

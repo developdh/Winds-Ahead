@@ -8,9 +8,11 @@ An independent **Where Winds Meet** cosmetic archive. Browse real CN appearances
 
 [Open the owner-private MVP](https://winds-ahead.donghee0815.chatgpt.site) · Published September 13, 2026 UTC.
 
-The archive contains **18 cosmetics across three official CN announcements**, including one martial-art effect with click-to-load playback. Sixteen have day-level CN dates (five based on explicit relative update wording); two retain unknown dates. No verified global event or editorial forecast has been published. Empty schedules are intentional, not fabricated.
+The archive contains **40 cosmetics, including 29 outfits, across 17 official CN announcements**, with one martial-art effect using click-to-load playback. Thirty-four have day-level CN dates (seven contextual); six retain unknown dates. No verified global event or editorial forecast has been published. Empty schedules are intentional, not fabricated.
 
 Source and previews remain private. Media provenance is recorded, but redistribution permission is unknown; public launch still requires a media review and a real public correction channel.
+
+**Domain preparation:** The user purchased `windsahead.com` through Gabia. Root and `www` registrations are pending DNS/TLS validation; [setup instructions](docs/en/custom-domain.md) include the exact records. Public launch has not occurred.
 
 ## Run locally
 
@@ -29,6 +31,8 @@ Validation: `npm run check`, `npm test`, `npm run validate:content`, `npm run bu
 
 | Document | English | 한국어 |
 | --- | --- | --- |
+| Domain and public launch | [Custom domain](docs/en/custom-domain.md) | [도메인과 공개 준비](docs/ko/custom-domain.md) |
+| Outfit expansion | [22 added outfits](docs/en/outfit-expansion.md) | [의상 22종 확장](docs/ko/outfit-expansion.md) |
 | Prices and acquisition | [Acquisition details](docs/en/acquisition-details.md) | [재화와 획득 정보](docs/ko/acquisition-details.md) |
 | September intake and playback | [Content expansion](docs/en/content-expansion.md) | [정보 수집과 재생](docs/ko/content-expansion.md) |
 | MVP and operation | [MVP status](docs/en/mvp-status.md) | [MVP 현황](docs/ko/mvp-status.md) |
