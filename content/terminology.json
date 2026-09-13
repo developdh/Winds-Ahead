@@ -19,6 +19,18 @@
     "绕梁之音": {
       "en": "Lingering Melody",
       "ko": "음의 선율"
+    },
+    "鸣瑞之音": {
+      "en": "Ming Rui Zhi Yin",
+      "ko": "명서지음"
+    },
+    "响春铃": {
+      "en": "Xiang Chun Ling",
+      "ko": "향춘령"
+    },
+    "漱云笙": {
+      "en": "Shu Yun Sheng",
+      "ko": "수운생"
     }
   },
   "sources": [
@@ -51,10 +63,20 @@
       "url": "https://www.wherewindsmeetgame.com/news/official/JAN8.html",
       "title": "Version 1.2 (January 8th) Bug fixes and Optimizations",
       "use": "EN Lingering Melody interface label"
+    },
+    {
+      "url": "https://www.yysls.cn/news/official/20260206/37780_1285866.html",
+      "title": "全新聆音套装贺岁新春，诸多外观即将上线",
+      "use": "CN event-currency originals only; EN/KO readings provisional"
+    },
+    {
+      "url": "https://www.yysls.cn/news/official/20260724/37780_1309060.html",
+      "title": "全新聆音外观【银浦流云】登场，《新白娘子传奇》联动将启",
+      "use": "CN event-currency originals only; EN/KO readings provisional"
     }
   ],
   "note": {
-    "en": "Global interface terminology is used for readability; CN currency originals remain visible. This is not evidence of a global price. Yao Tan Xin is a provisional reading.",
-    "ko": "이해를 돕기 위해 글로벌 UI 용어를 참고하고 중국 재화 원명을 함께 남깁니다. 글로벌 가격의 근거가 아닙니다. 요담심은 편의 독음입니다."
+    "en": "Global interface terms aid readability; CN originals remain visible. Event-currency names Yao Tan Xin, Ming Rui Zhi Yin, Xiang Chun Ling and Shu Yun Sheng are provisional readings, not verified global terms or prices.",
+    "ko": "이해를 돕기 위해 글로벌 UI 용어를 참고하고 중국 원명을 남깁니다. 요담심·명서지음·향춘령·수운생은 편의 독음이며 글로벌 공식명이나 가격의 근거가 아닙니다."
   }
 }

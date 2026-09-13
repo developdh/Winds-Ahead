@@ -2,6 +2,38 @@
   "schemaVersion": 1,
   "entries": [
     {
+      "id": "outfit-expansion-20260913",
+      "date": "2026-09-13",
+      "kind": {
+        "en": "Outfit collection",
+        "ko": "의상 수집"
+      },
+      "title": {
+        "en": "22 more outfits to explore",
+        "ko": "의상 22종을 더 만나보세요"
+      },
+      "body": {
+        "en": "Added official photos and CN acquisition records for 22 outfits, including collaboration sets and battle-pass rewards. The archive now has 29 outfits and 40 cosmetics.",
+        "ko": "콜라보 의상과 강호령 보상을 포함해 의상 22종의 공식 사진과 중국 획득 정보를 추가했습니다. 의상 29종, 전체 외관 40종입니다."
+      },
+      "sourceIds": [
+        "cn-20260826-outfits",
+        "cn-20260806-outfits",
+        "cn-20260729-outfits",
+        "cn-20260205-outfits",
+        "cn-20260226-outfits",
+        "cn-20251023-outfits",
+        "cn-20260723-outfits",
+        "cn-20260331-outfits",
+        "cn-20260422-outfits",
+        "cn-20260415-outfits",
+        "cn-20260514-outfits",
+        "cn-20260528-outfits",
+        "cn-20260612-outfits",
+        "cn-20260630-outfits"
+      ]
+    },
+    {
       "id": "acquisition-20260913",
       "date": "2026-09-13",
       "kind": {
