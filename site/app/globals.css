@@ -929,12 +929,6 @@ dl {
 .gallery-full-image[data-ready="true"] {
   opacity: 1;
 }
-.gallery-preview {
-  display: block;
-  width: 100%;
-  height: 100%;
-  object-fit: contain;
-}
 .gallery-message {
   position: absolute;
   top: 44px;

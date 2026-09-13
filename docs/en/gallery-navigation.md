@@ -12,13 +12,16 @@ The gallery now explicitly disables layout transitions, reserves its height befo
 
 ## Loading and state
 
-The gallery viewer and carousel are a separate lazy-loaded module. Only the active image uses the full-resolution source; inactive slides use existing thumbnails. Loading and image-error messages retain the same outer dimensions. Gallery reinitialization restores the current slide, and changing cosmetics resets the detail state by item ID to avoid carrying a second-image index into a single-image cosmetic. No new media or dependencies were added.
+The gallery viewer and carousel are a separate lazy-loaded module. The selected full image loads first; after it is ready, its immediate neighbours load at low priority. Requested full images remain mounted until the popup closes, so navigation never substitutes a cropped thumbnail. Prefetching does not cascade beyond the selected image's neighbours. Loading and image-error messages retain the same outer dimensions. Gallery reinitialization restores the current slide, and changing cosmetics resets the detail state by item ID to avoid carrying a second-image index into a single-image cosmetic. No new media or dependencies were added.
 
-The emitted gallery client module is 25,042 bytes, or 9,859 bytes with local gzip compression. This is a module-size measurement, not total page transfer or a field performance score.
+The apparent enlargement during navigation came from changing the outgoing frame's React key and replacing its full landscape image with a cropped portrait thumbnail as soon as selection changed. Stable keys and retained full-image sources now preserve each photo's dimensions throughout horizontal movement. The existing popup entrance and bare chevrons are unchanged.
+
+The emitted gallery client module is 25,337 bytes, or 10,002 bytes with local gzip compression. This is a module-size measurement, not total page transfer or a field performance score.
 
 ## Verification
 
 - In-app Chromium: English and Korean galleries, previous/next controls, keyboard movement after reaching a boundary, horizontal dragging at mobile width, selecting the second thumbnail before opening, matching original-image links, and closing/focus restoration.
+- Navigation regression: both Bu Qiu Ting images retain their full-image sources during movement, with no thumbnail nodes. At 390px each remains 348 × 195.75px; at 1440px each remains 998 × 561.375px (subpixel rounding within 0.001px). Checks included buttons, keyboard, dragging, and reopening on the second image.
 - Viewport geometry: 320, 360, 390, 768, 1024 and 1440 CSS px. After the transition fix, dialog widths were respectively 304, 344, 374, 736, 992 and 1040px; every frame stayed within its viewport. The user's final refinement removes circular arrow backgrounds and borders: 40px mobile / 44px desktop chevrons sit in transparent 64px / 72px targets, with a light glyph shadow for contrast. Close remains 44px.
 - Screenshots were inspected in the working session at desktop and mobile sizes. These are viewport checks, not physical-device touch or frame-rate certification. A per-frame sampling attempt was unavailable in the browser tool; no measured FPS claim is made.
 - Type checking, the existing 19 domain/media tests, content validation (40 cosmetics / 66 images) and the production build pass. New Korean labels are covered by the existing local font subset.
