@@ -1,8 +1,9 @@
 import { isDay, isMonth, latestRevisions, forecastDue, forecastEnded } from './roadmap-domain.mjs';
+import { releaseState } from './regional-domain.mjs';
 
 export const sortKeys = ['latest', 'cn-newest', 'cn-oldest', 'global-newest', 'global-oldest', 'upcoming', 'name-asc', 'name-desc'];
 export function validSort(value) { return sortKeys.includes(value) ? value : 'latest'; }
-export function validServer(value) { return ['cn', 'global'].includes(value) ? value : 'all'; }
+export function validServer(value) { return ['cn', 'global', 'cn-upcoming', 'global-upcoming', 'pending'].includes(value) ? value : 'all'; }
 
 // Date-only records are compared as UTC calendar days, never as release instants.
 export function daysUntil(day, today) {
@@ -11,16 +12,16 @@ export function daysUntil(day, today) {
 }
 
 export function globalOutlook(id, record, events, revisions, today) {
-  if (record?.status === 'released') return null;
+  if (releaseState(record, today) === 'released') return null;
   const official = events.filter(e => e.cosmeticId === id && e.server === 'Global' && e.kind === 'release' && e.status === 'announced')
     .sort((a, b) => a.date.localeCompare(b.date));
   const event = official.find(e => e.date >= today) ?? official.at(-1);
-  if (event || record?.status === 'announced') {
+  if (event || ['announced', 'pending'].includes(releaseState(record, today))) {
     const date = event?.date ?? record?.releaseDate;
     const days = daysUntil(date, today);
     return { kind: 'official', precision: 'day', start: date ?? null, end: date ?? null,
       days: days !== null && days >= 0 ? days : null, endDays: null, month: null, version: null,
-      pending: days !== null && days < 0, sortDate: days !== null && days >= 0 ? date : null };
+      pending: Boolean(record?.confirmationPending) || (days !== null && days < 0), sortDate: !record?.confirmationPending && days !== null && days >= 0 ? date : null };
   }
   const forecast = latestRevisions(revisions).filter(f => f.cosmeticId === id && f.state === 'active' && !forecastDue(f, today) && !forecastEnded(f, today))
     .sort((a, b) => b.createdAt.localeCompare(a.createdAt))[0];

@@ -5604,9 +5604,9 @@ body {
 
 /* Archive quick view: stable bounds, one scroll surface, media before facts. */
 .cosmetic-dialog[data-slot="dialog-content"] {
-  display: block; position: fixed; top: 4dvh; bottom: 4dvh; left: 50%;
+  display: block; position: fixed; top: 4dvh; bottom: 4dvh; left: 0; right: 0;
   width: min(1000px, calc(100% - 64px)); max-width: none; height: auto;
-  translate: -50% 0; transform: none; transition: none; padding: 0; gap: 0;
+  margin-inline: auto; translate: none; transform: none; transition: none; padding: 0; gap: 0;
   overflow-x: hidden; overflow-y: auto; overscroll-behavior: contain;
   background: #141719; border: 1px solid #ffffff15; border-radius: 24px;
   box-shadow: 0 30px 100px #0008; scrollbar-width: thin; scrollbar-color: #ffffff25 transparent;
@@ -5672,6 +5672,7 @@ body {
 .release-outlook strong { font-weight: 400; font-variant-numeric: tabular-nums; white-space: nowrap; }
 .release-outlook.official { color: #91c9f0; }
 .release-outlook.forecast { color: #d6b780; }
+.release-outlook.pending, .card-release.unverified, .regional-state.pending { color: #a4adb7; }
 @media (max-width: 700px) {
   .archive-caption { align-items: center; margin-bottom: 16px; }
   .archive-caption > span:first-child { padding: 0; }

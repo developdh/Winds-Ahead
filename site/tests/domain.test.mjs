@@ -314,6 +314,44 @@ test("free rewards need a documented reward method rather than an unknown price"
 
 // Archive ordering and countdown fixtures never become published schedules.
 import { daysUntil, globalOutlook, sortArchive, validSort, validServer } from '../lib/archive-domain.mjs';
+import { releaseState, matchesReleaseFilter } from '../lib/regional-domain.mjs';
+test('regional release status distinguishes future, unknown, and overdue evidence', () => {
+  const today = '2026-09-13';
+  const future = {status:'announced',releaseDate:'2026-09-16'};
+  const released = {status:'released',releaseDate:'2026-09-01'};
+  assert.equal(releaseState(future,today),'announced');
+  assert.equal(releaseState({...future,status:'released'},today),'announced');
+  assert.equal(releaseState(future,'2026-09-16'),'announced');
+  assert.equal(releaseState(future,'2026-09-17'),'pending');
+  assert.equal(releaseState({...future,releaseDate:null},today),'announced');
+  assert.equal(releaseState({...future,releaseDate:null,confirmationPending:true},today),'pending');
+  assert.equal(releaseState({...released,releaseDate:null},today),'released');
+  assert.equal(releaseState(null,today),'unknown');
+  assert.equal(matchesReleaseFilter(future,released,'cn',today),false);
+  assert.equal(matchesReleaseFilter(future,released,'cn-upcoming',today),true);
+  assert.equal(matchesReleaseFilter(future,released,'global-upcoming',today),false);
+  assert.equal(matchesReleaseFilter(released,future,'global-upcoming',today),true);
+  assert.equal(matchesReleaseFilter(null,null,'cn-upcoming',today),false);
+  assert.equal(matchesReleaseFilter(future,released,'cn-upcoming','2026-09-17'),false);
+  assert.equal(matchesReleaseFilter(future,released,'pending','2026-09-17'),true);
+  for (const filter of ['cn-upcoming','global-upcoming','pending']) assert.equal(validServer(filter),filter);
+  const guarded = globalOutlook('test',{...future,status:'released'},[],[],today);
+  assert.equal(guarded.kind,'official'); assert.equal(guarded.days,3);
+});
+test('historical CN announcement corrections preserve evidence without inventing future dates', () => {
+  const records=read('regional-records.json').records;
+  const pending=records.filter(r=>r.server==='CN' && r.confirmationPending);
+  for (const record of pending) {
+    assert.equal(record.status,'announced');
+    assert.equal(record.releaseDate,null);
+    assert.ok(record.sourceIds.includes(research.cosmetics.find(c=>c.id===record.cosmeticId).sourceId));
+    assert.equal(releaseState(record,'2026-09-13'),'pending');
+    assert.equal(matchesReleaseFilter(record,null,'cn','2026-09-13'),false);
+    assert.equal(matchesReleaseFilter(record,null,'cn-upcoming','2026-09-13'),false);
+  }
+  assert.equal(releaseState(records.find(r=>r.cosmeticId==='xue-man-chuan' && r.server==='CN'),'2026-09-13'),'released');
+  assert.equal(releaseState(records.find(r=>r.cosmeticId==='zhen-han-liu' && r.server==='Global'),'2026-09-13'),'announced');
+});
 test('archive date order keeps unknowns last, separates servers, and uses stable names', () => {
   const rows = [
     {id:'b',name:'Beta',cnDate:'2025-01-01',globalDate:'2026-09-01',upcomingDate:null},
