@@ -2,6 +2,26 @@
   "schemaVersion": 1,
   "entries": [
     {
+      "id": "cn-20260913-effects-intake",
+      "date": "2026-09-13",
+      "kind": {
+        "en": "Archive expansion",
+        "ko": "도감 확장"
+      },
+      "title": {
+        "en": "September appearances, now with effects",
+        "ko": "9월 신규 외관과 이펙트"
+      },
+      "body": {
+        "en": "Added 9 CN appearances and one martial-art effect from official announcements. Video loads only when played. Global dates remain unverified.",
+        "ko": "중국 공식 공지에서 외관 9종과 무술 이펙트 1종을 추가했습니다. 영상은 재생할 때만 불러옵니다. 글로벌 일정은 아직 미확인입니다."
+      },
+      "sourceIds": [
+        "cn-20260909-new-appearance",
+        "cn-20260903-new-appearance"
+      ]
+    },
+    {
       "id": "initial-cn-archive",
       "date": "2026-09-13",
       "kind": {
@@ -16,7 +36,9 @@
         "en": "Added the September 2025 CN collection, acquisition methods, and official image references. Global names and releases remain unverified.",
         "ko": "2025년 9월 중국 외관 8종의 획득 정보와 공식 이미지를 등록했습니다. 글로벌 공식명과 출시 정보는 미확인 상태입니다."
       },
-      "sourceIds": ["cn-20250925-new-appearance"]
+      "sourceIds": [
+        "cn-20250925-new-appearance"
+      ]
     }
   ]
 }

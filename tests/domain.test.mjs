@@ -205,3 +205,17 @@ test("video metadata cannot point a trusted provider at another host", () => {
     false,
   );
 });
+
+test('official effects require inspected provenance and a bounded local video', () => {
+  const v = research.cosmetics.flatMap(c => c.officialVideos).find(v => v.provider === 'netease');
+  assert.ok(v);
+  assert.ok(videoSchema.safeParse(v).success);
+  for (const bad of [
+    {...v, playback: undefined},
+    {...v, visuallyInspected: undefined},
+    {...v, watchUrl: 'https://untrusted.example/file/'+v.id+'.mp4'},
+    {...v, playback: {...v.playback, bytes: 102489850}},
+    {...v, playback: {...v.playback, src: v.watchUrl}},
+    {...v, playback: {...v.playback, src: '/media/videos/../escape.mp4'}},
+  ]) assert.equal(videoSchema.safeParse(bad).success, false);
+});

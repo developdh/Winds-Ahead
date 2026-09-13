@@ -44,6 +44,7 @@ export default function Roadmap({ l }: { l: Locale }) {
   const params = useSearchParams();
   const today = new Date().toISOString().slice(0, 10);
   const currentMonth = today.slice(0, 7);
+  const latestCnMonth = cnEvents.map(e => e.date.slice(0, 7)).sort().at(-1) ?? currentMonth;
   const [month, setMonth] = useState(
     isMonth(params.get("month")) ? params.get("month")! : currentMonth,
   );
@@ -65,7 +66,7 @@ export default function Roadmap({ l }: { l: Locale }) {
   }
   const events = (server === "cn" ? cnEvents : globalEvents).filter((e) =>
     e.date.startsWith(month),
-  );
+  ).sort((a, b) => a.date.localeCompare(b.date));
   const latest = latestRevisions(forecasts) as Forecast[];
   const active = latest.filter((f) => f.state === "active");
   const estimates = active.filter(
@@ -305,16 +306,16 @@ export default function Roadmap({ l }: { l: Locale }) {
                 "이 조건에 해당하는 공식 일정이 없습니다.",
               )}
             </p>
-            {server === "cn" && month !== "2025-09" && (
+            {server === "cn" && month !== latestCnMonth && (
               <button
                 className="text-link"
                 onClick={() =>
-                  update({ month: "2025-09", kind: "all", saved: "" })
+                  update({ month: latestCnMonth, kind: "all", saved: "" })
                 }
               >
                 {t(
-                  "See recorded CN releases · Sep 2025",
-                  "등록된 중국 출시 기록 보기 · 2025년 9월",
+                  "See latest recorded CN releases",
+                  "최근 중국 출시 기록 보기",
                 )}
                 <ArrowUpRight size={15} />
               </button>
@@ -325,7 +326,7 @@ export default function Roadmap({ l }: { l: Locale }) {
                 onClick={() =>
                   update({
                     server: "cn",
-                    month: "2025-09",
+                    month: latestCnMonth,
                     kind: "all",
                     saved: "",
                   })

@@ -20,14 +20,35 @@ const sourceSchema = z
   .passthrough();
 export const videoSchema = z
   .object({
-    provider: z.enum(["youtube", "bilibili"]),
+    provider: z.enum(["youtube", "bilibili", "netease"]),
     id: z.string(),
     watchUrl: z.string().url(),
     title: bilingual,
     sourceId: z.string().min(1),
+    playback: z.object({
+      src: z.string().regex(/^\/media\/videos\/[a-z0-9-]+\.mp4$/),
+      poster: z.string().regex(/^\/media\/[a-z0-9-]+\.webp$/),
+      bytes: z.number().int().positive().max(8_000_000),
+      width: z.number().int().positive().max(1280),
+      height: z.number().int().positive().max(720),
+      durationSeconds: z.number().positive().max(60),
+    }).strict().optional(),
+    originalBytes: z.number().int().positive().optional(),
+    visuallyInspected: z.literal(true).optional(),
+    inspectionNote: z.string().min(1).optional(),
+    reusePermission: z.literal("unknown").optional(),
   })
   .strict()
   .superRefine((video, ctx) => {
+    if (video.provider === "netease") {
+      if (!/^[A-Za-z0-9]{24,64}$/.test(video.id) ||
+          video.watchUrl !== `https://yysls.fp.ps.netease.com/file/${video.id}.mp4` ||
+          !video.playback || !video.visuallyInspected || !video.inspectionNote || !video.originalBytes || !video.reusePermission) {
+        ctx.addIssue({code: z.ZodIssueCode.custom, message: "Official video requires matching provenance, inspection and bounded local playback"});
+      }
+      return;
+    }
+    if (video.playback) ctx.addIssue({code: z.ZodIssueCode.custom, message: "Local playback is only supported for verified official video"});
     const youtube = video.provider === "youtube";
     const validId = youtube
       ? /^[A-Za-z0-9_-]{11}$/.test(video.id)
@@ -46,13 +67,14 @@ const cosmeticSchema = z
     id: z.string().regex(/^[a-z0-9-]+$/),
     nameOriginal: z.string().min(1),
     romanization: z.string().min(1),
-    category: z.enum(["outfit", "hair", "weapon_skin"]),
+    category: z.enum(["outfit", "hair", "weapon_skin", "effect"]),
     sourceId: z.string(),
     cnRelease: z
       .object({
         date: day.nullable(),
         precision: z.enum(["day", "unknown"]),
         timezone: z.null(),
+        contextual: z.boolean(),
       })
       .passthrough()
       .refine(
@@ -305,6 +327,14 @@ if (
       const stat = fs.statSync(path.join(root, "public", m[key]));
       if (stat.size !== m[key + "Bytes"])
         throw new Error(`Media size mismatch: ${m[key]}`);
+    }
+  for (const c of read("research.json").cosmetics)
+    for (const v of c.officialVideos) {
+      if (!v.playback) continue;
+      if (fs.statSync(path.join(root, "public", v.playback.src)).size !== v.playback.bytes)
+        throw new Error(`Video size mismatch: ${v.playback.src}`);
+      if (!fs.existsSync(path.join(root, "public", v.playback.poster)))
+        throw new Error(`Missing video poster: ${v.playback.poster}`);
     }
   console.log(
     "Content, references, bilingual copy, dates, and media files validated.",
