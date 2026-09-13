@@ -3,14 +3,14 @@
 @import "../vendor/shadcn-tailwind-4.13.0.css";
 @font-face {
   font-family: WindsUI;
-  src: url("/fonts/winds-ui.woff2?v=cec619fae36c") format("woff2");
+  src: url("/fonts/winds-ui.woff2?v=a7418624ecb8") format("woff2");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: WindsHeading;
-  src: url("/fonts/winds-heading.woff2?v=cd9037905960") format("woff2");
+  src: url("/fonts/winds-heading.woff2?v=5e2c1588f5d6") format("woff2");
   font-weight: 500;
   font-style: normal;
   font-display: swap;
@@ -5327,3 +5327,32 @@ body {
 }
 .archive-more { display: flex; justify-content: center; padding: 36px 0 12px; }
 .archive-more > button { min-height: 44px; padding: 8px 20px; }
+
+/* Purchase facts stay readable without adding another control surface. */
+.card-acquisition { display: flex; flex-direction: column; gap: 3px; margin-top: 12px; font-size: 14px; color: #d6d8dd; line-height: 1.5; }
+.card-acquisition small { color: #979ba4; font-size: 12px; }
+.acquisition-info { margin-top: 30px; padding: 26px 0; border-top: 1px solid #ffffff10; }
+.acquisition-heading { display: flex; justify-content: space-between; align-items: center; gap: 16px; }
+.acquisition-heading h2 { font-family: var(--font-sans); font-size: 14px; font-weight: 400; margin: 0; }
+.acquisition-heading > span { color: #969ba4; font-size: 12px; }
+.acquisition-price { display: flex; flex-wrap: wrap; align-items: baseline; gap: 14px; margin: 18px 0 20px; color: #f1f2f5; }
+.acquisition-price > span { font-size: 19px; }
+.acquisition-price > strong { font-family: var(--font-sans); font-size: 30px; font-weight: 400; letter-spacing: -.025em; font-variant-numeric: tabular-nums; }
+.acquisition-discount { margin: -8px 0 18px; color: #b5bbb3; font-size: 13px; }
+.acquisition-discount s { color: #969ba4; text-decoration-thickness: 1px; }
+.acquisition-info dl { display: grid; gap: 15px; margin: 0; }
+.acquisition-info dl > div { display: grid; grid-template-columns: 100px minmax(0, 1fr); gap: 20px; font-size: 14px; line-height: 1.65; }
+.acquisition-info dt { color: #9297a1; }
+.acquisition-info dd { margin: 0; color: #d8dbe0; overflow-wrap: anywhere; }
+.acquisition-info dd small { display: block; color: #969ba4; font-size: 12px; margin-top: 2px; }
+.acquisition-info .acquisition-conditions { margin: 20px 0 0; font-size: 14px; line-height: 1.85; color: #b5bac2; }
+.acquisition-info .acquisition-scope { margin: 14px 0 0; font-size: 12px; line-height: 1.8; color: #8e949e; }
+@media (max-width: 640px) {
+  .card-acquisition { margin-top: 8px; font-size: 13px; }
+  .card-acquisition small { font-size: 11px; }
+  .acquisition-info { margin-top: 24px; padding: 22px 0 16px; }
+  .acquisition-price { gap: 10px; margin: 15px 0 18px; }
+  .acquisition-price > span { font-size: 18px; }
+  .acquisition-price > strong { font-size: 27px; }
+  .acquisition-info dl > div { grid-template-columns: 84px minmax(0, 1fr); gap: 14px; }
+}

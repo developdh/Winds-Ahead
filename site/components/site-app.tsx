@@ -33,6 +33,8 @@ import {
 } from "lucide-react";
 import { rememberLocale } from "@/lib/language-preference";
 import CosmeticVideos from "@/components/cosmetic-videos";
+import AcquisitionInfo from "@/components/acquisition-info";
+import { acquisitionSummary } from "@/lib/acquisition";
 import updateData from "@/content/updates.json";
 import { sources as allSources } from "@/lib/roadmap";
 import { useScrollReveals } from "@/components/motion";
@@ -221,6 +223,10 @@ export default function SiteApp({
           </Link>
           <div className="original-name" lang="zh-Hans">
             {c.nameOriginal}
+          </div>
+          <div className="card-acquisition">
+            <span>{acquisitionSummary(c, l)}</span>
+            <small>CN · {c.acquisition.location[l]}</small>
           </div>
           <div className="card-status">
             <span className="status-dot" />
@@ -551,11 +557,6 @@ function Detail({
     setSelected(0);
     setFailed(false);
   }, [c.id]);
-  const acq = c.acquisition as Cosmetic["acquisition"] & {
-    amount?: number;
-    currencyOriginal?: string;
-    eventOriginal?: string;
-  };
   return (
     <>
       <Link className="back-link" href={`/${l}${backQuery}`}>
@@ -689,6 +690,7 @@ function Detail({
               <ArrowUpRight size={16} />
             </a>
           </div>
+          <AcquisitionInfo c={c} l={l} />
           <GlobalPanel c={c} l={l} />
           <div className="facts">
             <h2>
@@ -705,30 +707,6 @@ function Detail({
                   </span>
                 </dd>
               </div>
-              <div>
-                <dt>{t("How to obtain", "획득 방법")}</dt>
-                <dd>{acq[l]}</dd>
-              </div>
-              {acq.amount !== undefined && (
-                <div>
-                  <dt>{t("CN currency cost", "중국 재화 가격")}</dt>
-                  <dd>
-                    {acq.amount.toLocaleString()} {acq.currencyOriginal}
-                    <small>
-                      {t(
-                        "Historical CN price; not a global price.",
-                        "당시 중국 기준이며 글로벌 가격이 아닙니다.",
-                      )}
-                    </small>
-                  </dd>
-                </div>
-              )}
-              {acq.eventOriginal && (
-                <div>
-                  <dt>{t("CN event name", "중국 이벤트명")}</dt>
-                  <dd lang="zh-Hans">{acq.eventOriginal}</dd>
-                </div>
-              )}
               <div>
                 <dt>{t("Source published", "공지 게시일")}</dt>
                 <dd>{formatDay(source.displayedPublicationDate, l)}</dd>

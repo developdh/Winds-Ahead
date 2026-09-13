@@ -99,3 +99,7 @@ These labels assess evidence, not probability. Do not populate fictional forecas
 Initially the maintainer edits structured content and media references in the repository and reviews changes through English PRs. Visitor submissions become separate drafts before verification. A private repository's issue page is not a public reporting route; connect a separate public reporting space or a real contact channel before public launch.
 
 When a new notice is discovered, review affected records and forecasts together. Following the user's additional choice, daily checks in this task are scheduled; they now maintain the implemented content files described in the MVP report. Execution depends on the computer/app and tool access, so no service level is guaranteed. Record source, translation, and status corrections as revisions and include them in the next deployment. [Recurring review operations](calendar-automation.md)
+
+## Implemented acquisition fields
+
+See [Acquisition details](acquisition-details.md) for the current CN pricing states, bilingual locations/currency labels, discount semantics and validation.

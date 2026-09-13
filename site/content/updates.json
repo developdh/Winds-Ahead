@@ -2,6 +2,27 @@
   "schemaVersion": 1,
   "entries": [
     {
+      "id": "acquisition-20260913",
+      "date": "2026-09-13",
+      "kind": {
+        "en": "Acquisition details",
+        "ko": "획득 정보"
+      },
+      "title": {
+        "en": "Know the cost. Find the source.",
+        "ko": "필요한 재화와 획득처를 한눈에."
+      },
+      "body": {
+        "en": "All 18 cosmetics now show their CN acquisition location and pricing type. Fixed quantities, limited discounts, draw rewards and unknown pass prices are kept distinct.",
+        "ko": "외관 18종의 중국 획득처와 가격 유형을 정리했습니다. 확정 수량, 한정 할인, 추첨 보상과 미확인 강호령 가격을 구분합니다."
+      },
+      "sourceIds": [
+        "cn-20250925-new-appearance",
+        "cn-20260909-new-appearance",
+        "cn-20260903-new-appearance"
+      ]
+    },
+    {
       "id": "cn-20260913-effects-intake",
       "date": "2026-09-13",
       "kind": {

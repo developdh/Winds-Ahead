@@ -40,7 +40,7 @@ Private image and video derivatives are recorded in `media.json` and `research.j
 
 ## Verification and limits
 
-- Automated date/precision, calendar boundaries, source separation, revision, corrupted watchlist, translation completeness, and video URL checks pass (15 tests, including static-image and video budgets). Content validation covers 18 cosmetics, 22 images, 18 localizations, and 2 updates.
+- Automated date/precision, calendar boundaries, source separation, revision, corrupted watchlist, translation completeness, acquisition cost, and video URL checks pass (18 tests, including static-image and video budgets). Content validation covers 18 cosmetics, 22 images, 18 localizations, and 3 updates.
 - Browser checks cover first-visit language selection, remembered return visits in both languages, locale switching, preserved deep-link/query, search, saved items, image enlargement, and CN calendar records. Responsive geometry was checked at 320–1440 CSS pixels using the in-app browser; these are viewport tests, not physical-device certification.
 - Production-build checks also exercise language switching, filtered detail links, image enlargement, and calendar navigation. Client entry signatures are preserved because the previous bundled navigation module lost exports needed by lazy Link imports; the corrected build completes these journeys without new prefetch errors.
 - The current 22 thumbnail derivatives total 1.57MB, loaded lazily beyond the first three; full sheets are deferred. The initial eight-item archive totaled about 542KB. The first effect clip is 4.18MB and loads only after clicking. Fonts are licensed local subsets. Build sizes are not field Core Web Vitals; p75 LCP/INP/CLS and slow-device/network targets remain unmeasured.

@@ -29,6 +29,7 @@ npm run dev
 
 | Document | English | 한국어 |
 | --- | --- | --- |
+| Prices and acquisition | [Acquisition details](docs/en/acquisition-details.md) | [재화와 획득 정보](docs/ko/acquisition-details.md) |
 | September intake and playback | [Content expansion](docs/en/content-expansion.md) | [정보 수집과 재생](docs/ko/content-expansion.md) |
 | MVP and operation | [MVP status](docs/en/mvp-status.md) | [MVP 현황](docs/ko/mvp-status.md) |
 | Product | [Product plan](docs/en/product-plan.md) | [제품 기획](docs/ko/product-plan.md) |
