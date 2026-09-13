@@ -1,6 +1,20 @@
 {
   "schemaVersion": 1,
-  "sources": [],
+  "sources": [
+    {
+      "id": "global-20260911-chilled-current",
+      "url": "https://x.com/WhereWindsMeet_/status/2098411248107028581",
+      "publisher": "Where Winds Meet / NetEase (official X)",
+      "server": "Global",
+      "titleOriginal": "Chilled Current — September 16 Battle Pass announcement",
+      "displayedPublicationDate": "2026-09-11",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-09-13",
+      "verificationNote": "Official post text and male/female image panels inspected directly in browser. Poster gives September 16 (UTC) after the version update. End time is October 15 04:59 (UTC+8)."
+    }
+  ],
   "events": [
     {
       "id": "release-global-yan-juan-can-ye",
@@ -3036,6 +3050,22 @@
       "scope": {
         "en": "Historical official release listing. This does not establish current availability; no unstated time zone is assumed.",
         "ko": "과거 공식 출시 목록입니다. 현재 판매 중이라는 뜻은 아니며 미표기 시간대는 추정하지 않습니다."
+      }
+    },
+    {
+      "id": "release-global-zhen-han-liu",
+      "cosmeticId": "zhen-han-liu",
+      "date": "2026-09-16",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-20260911-chilled-current"
+      ],
+      "status": "announced",
+      "scope": {
+        "en": "After the September 16 update (UTC, official poster); exact opening hour not stated. Pass available until October 15, 04:59 (UTC+8).",
+        "ko": "9월 16일 업데이트 후 (공식 이미지 UTC 기준). 정확한 시작 시각은 미표기. 강호령은 10월 15일 04:59 (UTC+8)까지."
       }
     }
   ]

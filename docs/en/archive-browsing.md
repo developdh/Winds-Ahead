@@ -34,7 +34,7 @@ Blue calendar text means **Global scheduled**; amber sparkle text means **Global
 - Prefer official evidence; suppress forecasts for already-released items, withdrawn/superseded revisions, elapsed periods and overdue reviews.
 - Counts compare UTC calendar dates and refresh every minute and on visibility changes. They are not exact release-time timers; source timezones remain unknown when not stated.
 
-On September 13, 2026 the published dataset contains **no future announced Global releases and no editorial forecasts**. The display is connected to the existing content pipeline; examples appear only in automated tests and are not inserted into the live catalog.
+The initial browsing milestone contained no future announcements or forecasts. The subsequent [September 13 release review](release-roadmap.md) adds one verified future Global announcement and three limited-evidence forecast windows to the shared data; countdowns now show those actual records.
 
 ## Validation
 

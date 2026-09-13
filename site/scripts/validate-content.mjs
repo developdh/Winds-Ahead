@@ -203,7 +203,7 @@ export function validateContent(research, media, forecastData, globalData) {
     .strict()
     .parse(globalData);
   const revisions = z
-    .object({ schemaVersion: z.literal(1), revisions: z.array(forecastSchema) })
+    .object({ schemaVersion: z.literal(1), reviewedAt: day.optional(), revisions: z.array(forecastSchema) })
     .strict()
     .parse(forecastData).revisions;
   const ids = base.cosmetics.map((c) => c.id);

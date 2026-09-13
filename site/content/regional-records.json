@@ -12825,6 +12825,43 @@
         "en": "Explicit name and category in the official regional source; other-region identity is unverified.",
         "ko": "해당 서버 공식 원문의 명칭·분류를 확인했습니다. 타 서버 동일 외관 연결은 미확인입니다."
       }
+    },
+    {
+      "cosmeticId": "zhen-han-liu",
+      "server": "Global",
+      "status": "announced",
+      "releaseDate": "2026-09-16",
+      "precision": "day",
+      "verifiedAt": "2026-09-13",
+      "sourceIds": [
+        "global-20260911-chilled-current"
+      ],
+      "scope": {
+        "en": "After the September 16 update (UTC, official poster); exact opening hour not stated. Pass available until October 15, 04:59 (UTC+8).",
+        "ko": "9월 16일 업데이트 후 (공식 이미지 UTC 기준). 정확한 시작 시각은 미표기. 강호령은 10월 15일 04:59 (UTC+8)까지."
+      },
+      "identityBasis": {
+        "en": "Official CN and Global panels show the same male crown, ink landscape robe and blue iris shoulder/waist details; both identify it as a battle pass outfit. This is a visual and acquisition match, not a translated-name guess.",
+        "ko": "중국·글로벌 공식 이미지의 남성 관, 수묵 산수 도포, 어깨와 허리의 파란 붓꽃 장식을 대조했고 양쪽 모두 강호령 의상임을 확인했습니다. 번역명만으로 연결하지 않았습니다."
+      },
+      "acquisition": {
+        "kind": "battle_pass",
+        "pricing": "pass",
+        "amount": null,
+        "regularAmount": null,
+        "currencyOriginal": null,
+        "location": {
+          "en": "Battle Pass",
+          "ko": "강호령",
+          "original": "Battle Pass"
+        },
+        "en": "Battle Pass reward.",
+        "ko": "강호령 보상.",
+        "conditions": {
+          "en": "The announcement identifies the Battle Pass set; price and required reward level are not stated.",
+          "ko": "공식 공지에서 강호령 의상으로 소개했습니다. 가격과 필요한 보상 레벨은 미표기입니다."
+        }
+      }
     }
   ]
 }
