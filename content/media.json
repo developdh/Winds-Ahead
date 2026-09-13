@@ -1,0 +1,101 @@
+[
+  {
+    "cosmeticId": "zui-penglai",
+    "index": 0,
+    "originalUrl": "https://nie.res.netease.com/r/pic/20250926/860b1790-e5e7-4e14-81e3-8b6738e76f8d.jpg",
+    "thumbnail": "/media/zui-penglai-0-thumb.webp",
+    "full": "/media/zui-penglai-0-full.webp",
+    "thumbnailBytes": 57812,
+    "fullBytes": 1686026,
+    "permission": "unknown",
+    "audience": "owner-private reference preview"
+  },
+  {
+    "cosmeticId": "qing-fangzun",
+    "index": 0,
+    "originalUrl": "https://nie.res.netease.com/r/pic/20250926/2cf49c76-c93e-4136-bc3f-9e5e6661af08.png",
+    "thumbnail": "/media/qing-fangzun-0-thumb.webp",
+    "full": "/media/qing-fangzun-0-full.webp",
+    "thumbnailBytes": 62820,
+    "fullBytes": 430464,
+    "permission": "unknown",
+    "audience": "owner-private reference preview"
+  },
+  {
+    "cosmeticId": "zongheng",
+    "index": 0,
+    "originalUrl": "https://nie.res.netease.com/r/pic/20250926/26e95d00-4a8a-4ec6-a42e-53c32024b792.png",
+    "thumbnail": "/media/zongheng-0-thumb.webp",
+    "full": "/media/zongheng-0-full.webp",
+    "thumbnailBytes": 107832,
+    "fullBytes": 1733554,
+    "permission": "unknown",
+    "audience": "owner-private reference preview"
+  },
+  {
+    "cosmeticId": "chongming",
+    "index": 0,
+    "originalUrl": "https://nie.res.netease.com/r/pic/20250926/e5ae9a99-fb70-4cc9-b169-c1d2de62d430.png",
+    "thumbnail": "/media/chongming-0-thumb.webp",
+    "full": "/media/chongming-0-full.webp",
+    "thumbnailBytes": 69256,
+    "fullBytes": 552372,
+    "permission": "unknown",
+    "audience": "owner-private reference preview"
+  },
+  {
+    "cosmeticId": "jumang",
+    "index": 0,
+    "originalUrl": "https://nie.res.netease.com/r/pic/20250926/3f81cbc4-14e1-4f61-9b37-6c41d0ece155.jpg",
+    "thumbnail": "/media/jumang-0-thumb.webp",
+    "full": "/media/jumang-0-full.webp",
+    "thumbnailBytes": 57320,
+    "fullBytes": 1957352,
+    "permission": "unknown",
+    "audience": "owner-private reference preview"
+  },
+  {
+    "cosmeticId": "tianzhi-minggui",
+    "index": 0,
+    "originalUrl": "https://nie.res.netease.com/r/pic/20250926/a2ca7f96-492d-4e6d-aa13-8381266628a7.png",
+    "thumbnail": "/media/tianzhi-minggui-0-thumb.webp",
+    "full": "/media/tianzhi-minggui-0-full.webp",
+    "thumbnailBytes": 84078,
+    "fullBytes": 567346,
+    "permission": "unknown",
+    "audience": "owner-private reference preview"
+  },
+  {
+    "cosmeticId": "yunzhong-jinshu",
+    "index": 0,
+    "originalUrl": "https://nie.res.netease.com/r/pic/20250926/a8f6c1bd-5ee4-4515-82c2-cc817faf91bb.png",
+    "thumbnail": "/media/yunzhong-jinshu-0-thumb.webp",
+    "full": "/media/yunzhong-jinshu-0-full.webp",
+    "thumbnailBytes": 56472,
+    "fullBytes": 1109290,
+    "permission": "unknown",
+    "audience": "owner-private reference preview"
+  },
+  {
+    "cosmeticId": "cangyin-xihe-qiaori",
+    "index": 0,
+    "originalUrl": "https://nie.res.netease.com/r/pic/20250926/20bef452-e967-4ebb-a910-397b3a430abd.png",
+    "thumbnail": "/media/cangyin-xihe-qiaori-0-thumb.webp",
+    "full": "/media/cangyin-xihe-qiaori-0-full.webp",
+    "thumbnailBytes": 46640,
+    "fullBytes": 44046,
+    "permission": "unknown",
+    "audience": "owner-private reference preview"
+  },
+  {
+    "cosmeticId": "cangyin-xihe-qiaori",
+    "index": 1,
+    "originalUrl": "https://nie.res.netease.com/r/pic/20250926/d6c0e797-bb42-419c-9a91-7f021dc9f184.png",
+    "thumbnail": "/media/cangyin-xihe-qiaori-1-thumb.webp",
+    "full": "/media/cangyin-xihe-qiaori-1-full.webp",
+    "thumbnailBytes": 93498,
+    "fullBytes": 94288,
+    "permission": "unknown",
+    "audience": "owner-private reference preview"
+  }
+]
