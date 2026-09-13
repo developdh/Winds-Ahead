@@ -8,7 +8,7 @@ Find an appearance, see its photos and acquisition requirements, and compare Chi
 
 [Website](https://windsahead.com) · [Report a bug or correction](https://github.com/developdh/Winds-Ahead/issues/new/choose) · [Contribute](CONTRIBUTING.md)
 
-> The source is prepared for public contribution. The hosted site's access setting is separate; the current preview still requires authorized access until its public launch. See [release status](docs/en/public-launch.md).
+> The source is public and open to contributions. The hosted site's access setting is separate; the current preview still requires authorized access until its public launch. See [release status](docs/en/public-launch.md).
 
 ## Explore
 
@@ -17,7 +17,7 @@ Find an appearance, see its photos and acquisition requirements, and compare Chi
 - **Release roadmap:** official announcements and editorial estimates use different labels and colors. Switch between a timeline and a responsive monthly calendar. Unknown dates stay unknown.
 - **Save and share:** browser-local watchlists, links to individual cosmetics and a remembered language choice. Effect videos load only after pressing play.
 
-The archive currently holds **684 appearance records** and **395 wiki references**, with **491 photos across 368 appearances**. These are documented records, not a guarantee that every in-game appearance or regional identity is resolved. Some images, official translations and release dates are still missing. Forecasts are explicitly unofficial and may change.
+The archive currently holds **684 appearance records** and **395 wiki references**, with **546 photos across 368 appearances**. These are documented records, not a guarantee that every in-game appearance or regional identity is resolved. Some images, official translations and release dates are still missing. Forecasts are explicitly unofficial and may change.
 
 ## Run locally
 

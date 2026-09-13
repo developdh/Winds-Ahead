@@ -6,8 +6,9 @@ Winds Ahead is an independent, non-monetized fan project. Anyone may contribute 
 
 ## Release scope
 
-- 684 appearance records, 395 linked wiki references and 491 static reference images across 368 records. 316 records still lack a reviewed image. These counts do not establish complete coverage of the game.
+- 684 appearance records, 395 linked wiki references and 546 static reference images across 368 records. 316 records still lack a reviewed image. These counts do not establish complete coverage of the game.
 - 36 official CN reference photos added for 19 outfits, including the first photos for 12 records. New thumbnails total 1,745,780 bytes; full-size derivatives total 9,886,806 bytes. Original files are not shipped. [Source audit](../research/2026-09-13-photo-expansion.json)
+- Another 55 distinct official photos expand 11 existing galleries: Bu Qiu Ting has 6 photos; Fei Rong Qing Xiang, Ru Shi Yuan and Zhen Han Liu have 8; Jin Lv Sheng Lan, Yao Si Han Que and Yin Pu Liu Yun have 10. New thumbnails total 4,701,752 bytes and full derivatives total 22,134,236 bytes, down from 131,401,258 source bytes. [Gallery audit](../research/2026-09-13-gallery-expansion.json)
 - Per-image alternative text; concept and dye previews are labeled where applicable. CN imagery does not establish Global availability.
 - In-place detail and gallery dialogs, acquisition information, regional release states, official and estimated roadmaps, calendar, saved items and sharing.
 - Public contribution guides, correction/removal issue forms, security reporting instructions, a code of conduct, and MIT licensing for original code. Game media, wiki adaptations and other third-party material retain separate rights. [Notices](../../THIRD_PARTY_NOTICES.md)
@@ -34,7 +35,7 @@ The complete emitted client chunk set is 422,217 gzip bytes (16 chunks), versus 
 
 ## Publication state
 
-Repository visibility and website access are independent. The source release is being prepared for a public GitHub repository. The connected Site currently uses owner-only access; publishing updated code preserves that audience. An anonymous public website launch requires an explicit audience change. The promotional post is a draft and must not be posted while the website still requires owner access.
+Repository visibility and website access are independent. The GitHub repository is public, and the source release was merged into main through [PR #19](https://github.com/developdh/Winds-Ahead/pull/19). The connected Site currently uses owner-only access; publishing updated code preserves that audience. An anonymous public website launch requires an explicit audience change. The promotional post is a draft and must not be posted while the website still requires owner access.
 
 Both custom domains were confirmed active with TLS during domain setup. Canonical links target `https://windsahead.com`; this does not imply that a `www` redirect or anonymous access has been enabled. [Domain history](custom-domain.md)
 

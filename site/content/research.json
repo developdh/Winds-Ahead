@@ -3790,9 +3790,66 @@
           "description": "Green silk and silver robes, embroidered with landscapes.",
           "reusePermission": "unknown",
           "localCopy": "/media/zui-hun-zhuo-yu-1-full.webp"
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260911/046b8f40-9143-4ea8-83cd-cac82cbe2a37.jpg",
+          "width": 1080,
+          "height": 1920,
+          "reusePermission": "unknown",
+          "alt": {
+            "en": "Zui Hun Zhuo Yu — Male portrait showing white hair and green robes beneath the silver outer layer.",
+            "ko": "취혼탁옥 — 흰 머리와 은빛 겉옷 아래 녹색 의복을 보여주는 남성형 상반신."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260911/9f17c431-4c7d-4b64-a984-60faaf0fb1ec.jpg",
+          "width": 1080,
+          "height": 1920,
+          "reusePermission": "unknown",
+          "alt": {
+            "en": "Zui Hun Zhuo Yu — Female portrait showing the green embroidered chest panel and white hair.",
+            "ko": "취혼탁옥 — 녹색 자수 상의와 흰 머리를 보여주는 여성형 상반신."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260911/2ad38893-5447-4b5c-aaf6-cbef85ad424d.jpg",
+          "width": 1080,
+          "height": 1920,
+          "reusePermission": "unknown",
+          "alt": {
+            "en": "Zui Hun Zhuo Yu — Rear view of the white-haired model and embroidered silver robe.",
+            "ko": "취혼탁옥 — 흰 머리 모델과 자수 은빛 의복의 뒷모습."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260911/a733a908-0e9a-45a0-a745-4c59a4f2d9be.png",
+          "width": 1080,
+          "height": 1920,
+          "reusePermission": "unknown",
+          "alt": {
+            "en": "Zui Hun Zhuo Yu — Outfit view with back, drape, waist and shoulder accessories removed, as labelled by the source.",
+            "ko": "취혼탁옥 — 공식 설명에 따라 등·겉걸이·허리·어깨 장식을 제거한 착용 모습."
+          },
+          "caption": {
+            "en": "Official preview with selected accessories removed.",
+            "ko": "일부 장식을 제거한 공식 미리보기."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260911/f64c968d-cb39-4aab-873a-a94e0bc3610f.png",
+          "width": 1080,
+          "height": 1920,
+          "reusePermission": "unknown",
+          "alt": {
+            "en": "Zui Hun Zhuo Yu — Rear view showing the landscape-scroll back accessory and silver embroidered robe.",
+            "ko": "취혼탁옥 — 산수 두루마리 등 장식과 은빛 자수 의복을 보여주는 뒷모습."
+          }
         }
       ],
-      "officialVideos": []
+      "officialVideos": [],
+      "mediaStatus": "verified",
+      "mediaServer": "CN",
+      "mediaKind": "official"
     },
     {
       "id": "bu-qiu-ting",
@@ -3854,9 +3911,52 @@
           "description": "Gold and cream robes amid autumn foliage.",
           "reusePermission": "unknown",
           "localCopy": "/media/bu-qiu-ting-1-full.webp"
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260911/f4e3d669-7005-4bc9-9087-477a1415e6a0.jpg",
+          "width": 1080,
+          "height": 1920,
+          "reusePermission": "unknown",
+          "alt": {
+            "en": "Bu Qiu Ting — Female front view with gold-and-cream layered sleeves and a blue waist sash.",
+            "ko": "보추정 — 금색·크림색 겹소매와 푸른 허리띠가 보이는 여성형 정면."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260911/b9992cba-0968-4a27-8920-9ecf7af77848.jpg",
+          "width": 1080,
+          "height": 1920,
+          "reusePermission": "unknown",
+          "alt": {
+            "en": "Bu Qiu Ting — Male front view with patterned gold collar and hanging waist ornaments.",
+            "ko": "보추정 — 금색 깃 무늬와 늘어뜨린 허리 장식이 보이는 남성형 정면."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260911/39cbb359-e6f8-458d-b7c8-3c149e2970b6.jpg",
+          "width": 1080,
+          "height": 1920,
+          "reusePermission": "unknown",
+          "alt": {
+            "en": "Bu Qiu Ting — Female rear view showing the hair ribbon, back neckline and layered skirt.",
+            "ko": "보추정 — 머리 리본, 등 쪽 깃과 겹치마가 보이는 여성형 뒷모습."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260911/2df20902-73de-4050-8898-9a6632656c23.jpg",
+          "width": 1080,
+          "height": 1920,
+          "reusePermission": "unknown",
+          "alt": {
+            "en": "Bu Qiu Ting — Male rear view showing long hair, crown and embroidered robe panels.",
+            "ko": "보추정 — 긴 머리, 관과 자수 옷자락이 보이는 남성형 뒷모습."
+          }
         }
       ],
-      "officialVideos": []
+      "officialVideos": [],
+      "mediaStatus": "verified",
+      "mediaServer": "CN",
+      "mediaKind": "official"
     },
     {
       "id": "xue-lingdang",
@@ -4020,9 +4120,72 @@
           "description": "Blue and gold, lotus ornaments and translucent silk.",
           "reusePermission": "unknown",
           "localCopy": "/media/ru-shi-yuan-1-full.webp"
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260904/7630b186-bd33-4991-aef9-228f80ef53d3.jpg",
+          "width": 1920,
+          "height": 1080,
+          "reusePermission": "unknown",
+          "alt": {
+            "en": "Ru Shi Yuan — Male action pose showing blue-and-gold drapes and flowing hair.",
+            "ko": "여시원 — 푸른색·금색 옷자락과 흩날리는 머리카락이 보이는 남성형 동작."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260904/6b2dbd5f-160b-4122-94f9-38219d79e13f.jpg",
+          "width": 1920,
+          "height": 1080,
+          "reusePermission": "unknown",
+          "alt": {
+            "en": "Ru Shi Yuan — Female action pose showing the gold crown and blue-and-gold fabric.",
+            "ko": "여시원 — 금관과 푸른색·금색 옷감이 보이는 여성형 동작."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260904/c23c104b-6296-49d5-8c05-b26b70df7f2f.jpg",
+          "width": 1080,
+          "height": 1920,
+          "reusePermission": "unknown",
+          "alt": {
+            "en": "Ru Shi Yuan — Male front portrait with a lotus-like crown, necklace and gold ornaments.",
+            "ko": "여시원 — 연꽃 형태의 관, 목걸이와 금색 장식이 보이는 남성형 정면 상반신."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260904/67b26a15-9ff0-4245-bdaa-6a4799096c91.jpg",
+          "width": 1080,
+          "height": 1920,
+          "reusePermission": "unknown",
+          "alt": {
+            "en": "Ru Shi Yuan — Male rear portrait showing exposed upper back and blue draping.",
+            "ko": "여시원 — 등 위쪽과 푸른 옷자락이 보이는 남성형 뒷모습."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260904/1a12b4df-2886-4075-8694-3fc60a75058d.jpg",
+          "width": 1080,
+          "height": 1920,
+          "reusePermission": "unknown",
+          "alt": {
+            "en": "Ru Shi Yuan — Female front portrait with tall crown and gold shoulder ornaments.",
+            "ko": "여시원 — 높은 관과 금색 어깨 장식이 보이는 여성형 정면 상반신."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260904/efde9d14-14b8-4a0f-abff-81ba9dec5c13.jpg",
+          "width": 1080,
+          "height": 1920,
+          "reusePermission": "unknown",
+          "alt": {
+            "en": "Ru Shi Yuan — Female rear view showing long hair, blue draping and gold waist chains.",
+            "ko": "여시원 — 긴 머리, 푸른 옷자락과 금색 허리 장식이 보이는 여성형 뒷모습."
+          }
         }
       ],
-      "officialVideos": []
+      "officialVideos": [],
+      "mediaStatus": "verified",
+      "mediaServer": "CN",
+      "mediaKind": "official"
     },
     {
       "id": "ying-kong",
@@ -4377,9 +4540,72 @@
           "inspectionNote": "Image and representative upper poster panels visually reviewed; acquisition facts taken from article text.",
           "reusePermission": "unknown",
           "localCopy": null
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260828/03c425a6-bc1f-4d97-9f30-ff9ca5e55d50.jpg",
+          "width": 1080,
+          "height": 1920,
+          "reusePermission": "unknown",
+          "alt": {
+            "en": "Fei Rong Qing Xiang — Female portrait with rabbit mask, pearl necklace and feathered shoulder cape.",
+            "ko": "비용청향 — 토끼 가면, 진주 목걸이와 깃털 어깨 장식이 보이는 여성형 상반신."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260828/fe486a41-b1d6-4f72-9a65-9b56edd06f90.jpg",
+          "width": 1080,
+          "height": 1920,
+          "reusePermission": "unknown",
+          "alt": {
+            "en": "Fei Rong Qing Xiang — Male portrait with rabbit mask, gold ornaments and white feathered shoulders.",
+            "ko": "비용청향 — 토끼 가면, 금색 장식과 흰 깃털 어깨가 보이는 남성형 상반신."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260828/5beed7d8-4949-4aa4-8a1d-38b07b8d47b2.jpg",
+          "width": 1080,
+          "height": 1920,
+          "reusePermission": "unknown",
+          "alt": {
+            "en": "Fei Rong Qing Xiang — Female portrait without the rabbit mask covering the head.",
+            "ko": "비용청향 — 머리 위 토끼 가면을 벗은 여성형 상반신."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260828/63ce676a-4f12-4b5a-8c76-9df909757657.jpg",
+          "width": 1080,
+          "height": 1920,
+          "reusePermission": "unknown",
+          "alt": {
+            "en": "Fei Rong Qing Xiang — Female rear view showing long hair, mask attachment and feathered cape.",
+            "ko": "비용청향 — 긴 머리, 가면의 부착 모습과 깃털 장식이 보이는 여성형 뒷모습."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260828/24d7d14e-93e7-4801-8ce3-0c42867a53ed.jpg",
+          "width": 1080,
+          "height": 1920,
+          "reusePermission": "unknown",
+          "alt": {
+            "en": "Fei Rong Qing Xiang — Male portrait showing the face, necklace and ornate gold collar.",
+            "ko": "비용청향 — 얼굴, 목걸이와 정교한 금색 깃이 보이는 남성형 상반신."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260828/9e82e5b4-9ecb-49d6-bbf1-aa4e7568a624.jpg",
+          "width": 1080,
+          "height": 1920,
+          "reusePermission": "unknown",
+          "alt": {
+            "en": "Fei Rong Qing Xiang — Male rear view showing layered hair, gold accessories and feathered shoulders.",
+            "ko": "비용청향 — 겹친 머리카락, 금색 장식과 깃털 어깨가 보이는 남성형 뒷모습."
+          }
         }
       ],
-      "officialVideos": []
+      "officialVideos": [],
+      "mediaStatus": "verified",
+      "mediaServer": "CN",
+      "mediaKind": "official"
     },
     {
       "id": "zhen-han-liu",
@@ -4443,10 +4669,73 @@
           "inspectionNote": "Image and representative upper poster panels visually reviewed; acquisition facts taken from article text.",
           "reusePermission": "unknown",
           "localCopy": null
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260807/5a2340a7-49e0-41f6-a6cd-355e71bf34bc.jpg",
+          "width": 1080,
+          "height": 1920,
+          "reusePermission": "unknown",
+          "alt": {
+            "en": "Chilled Current — Female portrait with black hair, ink-white robes and blue iris ornaments.",
+            "ko": "침한류 — 검은 머리, 먹빛 흰 의복과 푸른 붓꽃 장식의 여성형 상반신."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260807/b40863f0-3362-4daf-a01a-80863b53fc5f.jpg",
+          "width": 1080,
+          "height": 1920,
+          "reusePermission": "unknown",
+          "alt": {
+            "en": "Chilled Current — Female chest and waist detail showing blue flowers and translucent fabric.",
+            "ko": "침한류 — 푸른 꽃과 반투명 옷감이 보이는 여성형 가슴·허리 디테일."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260807/cadad4f2-9739-420c-b815-927275489bb2.jpg",
+          "width": 1080,
+          "height": 1920,
+          "reusePermission": "unknown",
+          "alt": {
+            "en": "Chilled Current — Female front view showing the layered white skirt and ink-like patterns.",
+            "ko": "침한류 — 겹친 흰 치마와 먹빛 무늬를 보여주는 여성형 정면."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260807/3db369ce-62c6-435d-b86e-031a8ac0a67c.jpg",
+          "width": 1080,
+          "height": 1920,
+          "reusePermission": "unknown",
+          "alt": {
+            "en": "Chilled Current — Female rear portrait showing the hair ornament and blue iris on the shoulder.",
+            "ko": "침한류 — 머리 장식과 어깨의 푸른 붓꽃을 보여주는 여성형 뒷모습."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260807/7dc9e051-6771-4b40-a7a2-e51e803d705c.jpg",
+          "width": 1080,
+          "height": 1920,
+          "reusePermission": "unknown",
+          "alt": {
+            "en": "Chilled Current — Male front view showing the layered robe, sash and hanging ornaments.",
+            "ko": "침한류 — 겹친 의복, 띠와 늘어뜨린 장식을 보여주는 남성형 정면."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260807/62390e45-2dc0-4203-a17f-6dcc5352a39e.png",
+          "width": 1080,
+          "height": 1920,
+          "reusePermission": "unknown",
+          "alt": {
+            "en": "Chilled Current — Male rear view showing long black hair and ink-patterned white draping.",
+            "ko": "침한류 — 긴 검은 머리와 먹빛 무늬의 흰 옷자락이 보이는 남성형 뒷모습."
+          }
         }
       ],
       "officialVideos": [],
-      "wikiDetails": true
+      "wikiDetails": true,
+      "mediaStatus": "verified",
+      "mediaServer": "CN",
+      "mediaKind": "official"
     },
     {
       "id": "qian-nian-you-dai",
@@ -5068,10 +5357,23 @@
           "inspectionNote": "Image and representative upper poster panels visually reviewed; acquisition facts taken from article text.",
           "reusePermission": "unknown",
           "localCopy": null
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20251024/8a93730c-4b2b-42b2-9264-04d49532cbd0.jpg",
+          "width": 2250,
+          "height": 4000,
+          "reusePermission": "unknown",
+          "alt": {
+            "en": "You Hu Sui Sui — Female promotional view with red hair and a black-and-gold fox-themed robe.",
+            "ko": "유호수수 — 붉은 머리와 검정·금색 여우 테마 의복을 보여주는 여성형 공식 이미지."
+          }
         }
       ],
       "officialVideos": [],
-      "wikiDetails": true
+      "wikiDetails": true,
+      "mediaStatus": "verified",
+      "mediaServer": "CN",
+      "mediaKind": "official"
     },
     {
       "id": "feng-ru-hua",
@@ -5202,6 +5504,86 @@
           "inspectionNote": "Image and representative upper poster panels visually reviewed; acquisition facts taken from article text.",
           "reusePermission": "unknown",
           "localCopy": null
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260724/a117df25-3285-48da-840e-8eb2a8dbcd0f.jpg",
+          "width": 1080,
+          "height": 1920,
+          "reusePermission": "unknown",
+          "alt": {
+            "en": "Yin Pu Liu Yun — Female portrait with pale purple hair, floral adornments and a luminous collar.",
+            "ko": "은포유운 — 옅은 보라색 머리, 꽃 장식과 빛나는 깃의 여성형 상반신."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260724/b436acb3-aa27-4573-936d-2b94fb1ec029.jpg",
+          "width": 1080,
+          "height": 1920,
+          "reusePermission": "unknown",
+          "alt": {
+            "en": "Yin Pu Liu Yun — Female front view showing pearl-white and purple robes and floating star ornaments.",
+            "ko": "은포유운 — 진주빛 흰색·보라색 의복과 별 장식을 보여주는 여성형 정면."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260724/f31b14b9-d28e-4411-959d-c69b8af91c71.png",
+          "width": 1080,
+          "height": 1920,
+          "reusePermission": "unknown",
+          "alt": {
+            "en": "Yin Pu Liu Yun — Male action portrait with silver-purple hair and translucent shoulder draping.",
+            "ko": "은포유운 — 은빛 보라색 머리와 반투명 어깨 옷자락의 남성형 동작 상반신."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260724/ecaa1678-b8b2-49e7-b929-556b299bb034.jpg",
+          "width": 1080,
+          "height": 1920,
+          "reusePermission": "unknown",
+          "alt": {
+            "en": "Yin Pu Liu Yun — Male front view showing pale robes, layered purple fabric and star ornaments.",
+            "ko": "은포유운 — 옅은 의복, 겹친 보라색 옷감과 별 장식을 보여주는 남성형 정면."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260724/53a7f47c-47ce-4fee-ab94-046175539517.jpg",
+          "width": 1080,
+          "height": 1920,
+          "reusePermission": "unknown",
+          "alt": {
+            "en": "Yin Pu Liu Yun — Male rear view showing long pale hair and luminous translucent fabric.",
+            "ko": "은포유운 — 길고 옅은 머리와 빛나는 반투명 옷감이 보이는 남성형 뒷모습."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260724/64f972bd-67b3-4f9b-a2e0-ea6a8242d32c.jpg",
+          "width": 1080,
+          "height": 1920,
+          "reusePermission": "unknown",
+          "alt": {
+            "en": "Yin Pu Liu Yun — Fabric detail showing layered purple loops, silver borders and translucent drapes.",
+            "ko": "은포유운 — 겹친 보라색 고리 무늬, 은색 테두리와 반투명 옷자락 디테일."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260724/29a36570-b717-48d3-bf6d-5ed7240a9580.jpg",
+          "width": 1080,
+          "height": 1920,
+          "reusePermission": "unknown",
+          "alt": {
+            "en": "Yin Pu Liu Yun — Female rear view showing long purple hair, star ornaments and flowing translucent fabric.",
+            "ko": "은포유운 — 긴 보라색 머리, 별 장식과 반투명 옷자락이 보이는 여성형 뒷모습."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260724/acb75196-617c-4ec9-8b6e-59eb49e22a60.jpg",
+          "width": 1080,
+          "height": 1920,
+          "reusePermission": "unknown",
+          "alt": {
+            "en": "Yin Pu Liu Yun — Upper outfit detail showing the collar, shoulder construction and layered pale fabric.",
+            "ko": "은포유운 — 깃, 어깨 구조와 겹친 옅은 옷감을 보여주는 상의 디테일."
+          }
         }
       ],
       "officialVideos": [],
@@ -5210,7 +5592,10 @@
         "timezone": null,
         "precision": "minute"
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "mediaStatus": "verified",
+      "mediaServer": "CN",
+      "mediaKind": "official"
     },
     {
       "id": "yao-si-han-que",
@@ -5274,6 +5659,86 @@
           "inspectionNote": "Image and representative upper poster panels visually reviewed; acquisition facts taken from article text.",
           "reusePermission": "unknown",
           "localCopy": null
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260724/ea5f7661-13e9-47ee-91bd-7b97988348c4.jpg",
+          "width": 1080,
+          "height": 1920,
+          "reusePermission": "unknown",
+          "alt": {
+            "en": "Yao Si Han Que — Female portrait with flower ornaments and a layered pink robe.",
+            "ko": "요사한궐 — 꽃 장식과 겹친 분홍색 의복의 여성형 상반신."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260724/7d2c281e-396e-4fe5-a8d3-e5f7409f626e.jpg",
+          "width": 1080,
+          "height": 1920,
+          "reusePermission": "unknown",
+          "alt": {
+            "en": "Yao Si Han Que — Male portrait with gold armor, a tall crown and dark red draping.",
+            "ko": "요사한궐 — 금색 갑옷, 높은 관과 짙은 붉은 옷자락의 남성형 상반신."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260724/c899e7d5-c87b-439c-a569-1c34d2a3340c.jpg",
+          "width": 1080,
+          "height": 1920,
+          "reusePermission": "unknown",
+          "alt": {
+            "en": "Yao Si Han Que — Female front view showing the broad sleeves and flower-decorated drapes.",
+            "ko": "요사한궐 — 넓은 소매와 꽃 장식 옷자락을 보여주는 여성형 정면."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260724/8537f0d2-380b-4582-a772-397d81842c35.jpg",
+          "width": 1080,
+          "height": 1920,
+          "reusePermission": "unknown",
+          "alt": {
+            "en": "Yao Si Han Que — Male front view showing ornate armor and hanging red-and-blue robe panels.",
+            "ko": "요사한궐 — 정교한 갑옷과 붉은색·푸른색 옷자락을 보여주는 남성형 정면."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260724/d0cb63f0-4c4d-45eb-b3b0-189bf0a62cd8.jpg",
+          "width": 1080,
+          "height": 1920,
+          "reusePermission": "unknown",
+          "alt": {
+            "en": "Yao Si Han Que — Female rear view showing long hair, ribbons and flower clusters.",
+            "ko": "요사한궐 — 긴 머리, 리본과 꽃송이 장식이 보이는 여성형 뒷모습."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260724/375f8c05-e0f1-4e48-b81b-1827a27820da.jpg",
+          "width": 1080,
+          "height": 1920,
+          "reusePermission": "unknown",
+          "alt": {
+            "en": "Yao Si Han Que — Male rear view with gold shoulders and layered dark robe panels.",
+            "ko": "요사한궐 — 금색 어깨와 겹친 짙은 옷자락이 보이는 남성형 뒷모습."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260724/58f812d8-e0a1-45bf-87c0-390f2d518162.jpg",
+          "width": 1080,
+          "height": 1920,
+          "reusePermission": "unknown",
+          "alt": {
+            "en": "Yao Si Han Que — Female back detail showing translucent pink tassels and flowers.",
+            "ko": "요사한궐 — 반투명한 분홍색 술과 꽃을 보여주는 여성형 등 디테일."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260724/50ee97c0-d15b-48dd-b424-238940f3f6c6.jpg",
+          "width": 1080,
+          "height": 1920,
+          "reusePermission": "unknown",
+          "alt": {
+            "en": "Yao Si Han Que — Male back detail showing sculpted gold shoulder armor and embroidery.",
+            "ko": "요사한궐 — 조형적인 금색 어깨 갑옷과 자수를 보여주는 남성형 등 디테일."
+          }
         }
       ],
       "officialVideos": [],
@@ -5282,7 +5747,10 @@
         "timezone": null,
         "precision": "minute"
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "mediaStatus": "verified",
+      "mediaServer": "CN",
+      "mediaKind": "official"
     },
     {
       "id": "qing-xiao-lue-ying",
@@ -5707,6 +6175,86 @@
           "inspectionNote": "Image and representative upper poster panels visually reviewed; acquisition facts taken from article text.",
           "reusePermission": "unknown",
           "localCopy": null
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260612/16c2f8ee-b905-4848-9b86-e4f1dfae0faa.png",
+          "width": 1080,
+          "height": 1920,
+          "reusePermission": "unknown",
+          "alt": {
+            "en": "Jin Lv Sheng Lan — Male portrait in white, pale gold and aqua robes with an orchid shoulder ornament.",
+            "ko": "금루생란 — 흰색·옅은 금색·물빛 의복과 난초 어깨 장식의 남성형 상반신."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260612/66a41345-3a99-448b-af80-e173f7243ab0.png",
+          "width": 1080,
+          "height": 1920,
+          "reusePermission": "unknown",
+          "alt": {
+            "en": "Jin Lv Sheng Lan — Female portrait with an orchid-trimmed hat and yellow-and-aqua draping.",
+            "ko": "금루생란 — 난초 장식 모자와 노랑·물빛 옷자락의 여성형 상반신."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260612/b64b6c21-c0b0-459a-b7af-c1d4597c8875.png",
+          "width": 1080,
+          "height": 1920,
+          "reusePermission": "unknown",
+          "alt": {
+            "en": "Jin Lv Sheng Lan — Female front view showing the hat, layered sleeves and flowing skirt.",
+            "ko": "금루생란 — 모자, 겹소매와 긴 치마를 보여주는 여성형 정면."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260612/abad3335-56da-476c-88ef-bb811f06992d.png",
+          "width": 1080,
+          "height": 1920,
+          "reusePermission": "unknown",
+          "alt": {
+            "en": "Jin Lv Sheng Lan — Female rear view with a large bow and orchid ornaments.",
+            "ko": "금루생란 — 큰 리본과 난초 장식이 보이는 여성형 뒷모습."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260612/a3983aa9-592a-4d01-900e-545683835f93.png",
+          "width": 1080,
+          "height": 1920,
+          "reusePermission": "unknown",
+          "alt": {
+            "en": "Jin Lv Sheng Lan — Female fabric detail showing ink-like orchid motifs and gold piping.",
+            "ko": "금루생란 — 먹빛 난초 무늬와 금색 테두리가 보이는 여성형 옷감 디테일."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260612/47a7fa7c-66e2-4eef-954d-c6559d8d20ed.png",
+          "width": 1080,
+          "height": 1920,
+          "reusePermission": "unknown",
+          "alt": {
+            "en": "Jin Lv Sheng Lan — Male front view showing the full flowing robe and waist sash.",
+            "ko": "금루생란 — 긴 옷자락과 허리띠를 보여주는 남성형 정면."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260612/f79560ba-7c8f-49c1-9b80-25b648642995.png",
+          "width": 1080,
+          "height": 1920,
+          "reusePermission": "unknown",
+          "alt": {
+            "en": "Jin Lv Sheng Lan — Male rear view with long hair and hanging orchid ornaments.",
+            "ko": "금루생란 — 긴 머리와 늘어뜨린 난초 장식이 보이는 남성형 뒷모습."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260612/416a3f3d-da70-4ecf-85c4-073b6caef86b.png",
+          "width": 1080,
+          "height": 1920,
+          "reusePermission": "unknown",
+          "alt": {
+            "en": "Jin Lv Sheng Lan — Male back detail showing layered fabric, yellow sash and orchid embroidery.",
+            "ko": "금루생란 — 겹친 옷감, 노란 띠와 난초 자수가 보이는 남성형 등 디테일."
+          }
         }
       ],
       "officialVideos": [],
@@ -5715,7 +6263,10 @@
         "timezone": null,
         "precision": "minute"
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "mediaStatus": "verified",
+      "mediaServer": "CN",
+      "mediaKind": "official"
     },
     {
       "id": "lian-tai-he",
@@ -5843,10 +6394,33 @@
           "inspectionNote": "Image and representative upper poster panels visually reviewed; acquisition facts taken from article text.",
           "reusePermission": "unknown",
           "localCopy": null
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260724/bf6cf128-3f7c-4fc3-ab29-2757b64f6fd7.jpg",
+          "width": 2250,
+          "height": 4000,
+          "reusePermission": "unknown",
+          "alt": {
+            "en": "Zi Yu Xiang Man — Male front view of the purple-and-white robe with grape-inspired waist ornaments.",
+            "ko": "자유향만 — 포도에서 영감을 얻은 허리 장식과 보라색·흰색 의복의 남성형 정면."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260724/b924f364-e4ad-48c7-8205-371d745c23ff.jpg",
+          "width": 2250,
+          "height": 4000,
+          "reusePermission": "unknown",
+          "alt": {
+            "en": "Zi Yu Xiang Man — Male rear view showing purple sleeves, white fabric and waist draping.",
+            "ko": "자유향만 — 보라색 소매, 흰 옷감과 허리 옷자락이 보이는 남성형 뒷모습."
+          }
         }
       ],
       "officialVideos": [],
-      "wikiDetails": true
+      "wikiDetails": true,
+      "mediaStatus": "verified",
+      "mediaServer": "CN",
+      "mediaKind": "official"
     },
     {
       "id": "shang-qing-yun",
@@ -10779,6 +11353,16 @@
           "reusePermission": "unknown",
           "localCopy": null,
           "server": "Global"
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20251217/b2070616-788c-497d-b06e-146e9c71a69e.jpg",
+          "width": 2250,
+          "height": 4000,
+          "reusePermission": "unknown",
+          "alt": {
+            "en": "Peacock Ballad — Male promotional portrait showing pearl-colored robes and peacock-inspired jewelry.",
+            "ko": "孔雀谣 — 진주빛 의복과 공작에서 영감을 얻은 장신구를 보여주는 남성형 공식 상반신 이미지."
+          }
         }
       ],
       "officialVideos": [],
@@ -10788,7 +11372,8 @@
         "officialName": null,
         "releaseDate": null
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "mediaKind": "official"
     },
     {
       "id": "wu-ji",

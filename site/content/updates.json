@@ -2,6 +2,27 @@
   "schemaVersion": 1,
   "entries": [
     {
+      "id": "gallery-expansion-20260913",
+      "date": "2026-09-13",
+      "kind": {
+        "en": "Gallery expansion",
+        "ko": "사진 보강"
+      },
+      "title": {
+        "en": "More angles, more detail",
+        "ko": "뒷모습과 장식까지 더 자세하게"
+      },
+      "body": {
+        "en": "Added 91 official reference photos across 30 outfits, including the first reviewed photos for 12 entries. Eight galleries now contain 6–10 photos. Images are optimized and additional full-size views load as you browse. CN reference photos do not establish a Global release.",
+        "ko": "의상 30종에 공식 참고 사진 91장을 추가했습니다. 이 중 12종은 첫 검토 사진을 채웠고 8종은 6~10장으로 보강했습니다. 이미지는 최적화하고 추가 확대 사진은 둘러볼 때 불러옵니다. 중국 참고 사진만으로 글로벌 출시를 판정하지 않습니다."
+      },
+      "sourceIds": [
+        "cn-20260909-new-appearance",
+        "cn-20260612-outfits",
+        "cn-20260205-outfits"
+      ]
+    },
+    {
       "id": "photo-expansion-20260913",
       "date": "2026-09-13",
       "kind": {
