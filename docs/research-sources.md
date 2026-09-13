@@ -56,6 +56,6 @@ The September 2025 CN announcement (S07) was visually inspected for eight cosmet
 
 2025년 9월 중국 공지(S07)의 외관 8종을 직접 확인했습니다. 원문 근거는 `site/content/research.json`, 소유자 비공개 파생 이미지와 미확인 재배포 권한은 `site/content/media.json`에 있습니다. 날짜가 명시된 6종과 미정인 2종을 구분하며 오래된 중국 출시일만으로 글로벌 예상을 만들지 않았습니다.
 
-Typography uses [Pretendard v1.3.9](https://github.com/orioncactus/pretendard/tree/v1.3.9) for body/UI and [Noto Serif KR](https://github.com/google/fonts/tree/main/ofl/notoserifkr) for the entrance. Both are locally subset with their OFL notices retained, and renamed Winds UI / Winds Heading. Earlier SUIT assets are replaced; no font CDN request is required. Rebuild the subsets when content adds new glyphs.
+Final body selection: [Gowun Dodum Regular](https://github.com/google/fonts/tree/main/ofl/gowundodum), after an owner comparison of four additional candidates. The shipped Winds UI subset now derives from Gowun Dodum; Pretendard and SUIT are historical studies. Noto Serif KR remains the title face.
 
-본문·UI는 [Pretendard v1.3.9](https://github.com/orioncactus/pretendard/tree/v1.3.9), 랜딩 명조는 [Noto Serif KR](https://github.com/google/fonts/tree/main/ofl/notoserifkr)를 사용합니다. OFL 고지를 유지한 로컬 서브셋을 Winds UI / Winds Heading으로 이름을 바꾸어 제공합니다. 이전 SUIT를 대체하며 외부 폰트 CDN 요청은 없습니다. 새 글자가 추가되면 서브셋을 갱신합니다.
+최종 본문 선택은 네 추가 후보를 비교한 뒤 정한 [고운 돋움 Regular](https://github.com/google/fonts/tree/main/ofl/gowundodum)입니다. 현재 배포용 Winds UI 서브셋은 고운 돋움을 사용하며 Pretendard·SUIT는 이전 비교 시안입니다. 제목은 Noto Serif KR을 유지합니다.

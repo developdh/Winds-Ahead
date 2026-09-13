@@ -2,7 +2,7 @@
 
 [한국어](../ko/body-type-study.md)
 
-The owner found both SUIT and Pretendard unsuitable and requested a broader comparison. No replacement is selected yet. The local study is at `/design/body-font-study.html`; its source and licensed subsets are retained in `site/design-studies/body-type/`, outside production public assets.
+The owner found both SUIT and Pretendard unsuitable and requested a broader comparison. **Selected: D · Gowun Dodum.** The owner chose its native Regular weight for the site body, paired with Noto Serif KR titles. The local study can be restored at `/design/body-font-study.html` using the instructions below; its source and licensed subsets are retained in `site/design-studies/body-type/`, outside production public assets.
 
 | Candidate | Light / regular | Source |
 | --- | --- | --- |

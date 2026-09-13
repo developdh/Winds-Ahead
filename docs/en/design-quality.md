@@ -55,6 +55,8 @@ UI PRs include EN/KO mobile/desktop captures, checked core journeys, device/brow
 
 The latest user direction combines fewer controls with stronger visual design, retaining the dark palette. The two main destinations are Cosmetics and Calendar. Large photographs, restrained surfaces, information hierarchy, and calm motion carry the design; simplification must not produce a featureless page.
 
-Use Pretendard 300 for large interface titles and descriptions, 350 for ordinary body copy, and 350–400 for compact controls. The entrance keeps Noto Serif KR 500 for a wuxia identity, one blended cosmetic portrait, and two vertical text choices with fine rules and arrows. Language is remembered after selection. Licensed subsets are renamed Winds Heading and Winds UI with OFL notices preserved.
+Use the native Regular 400 weight of Gowun Dodum for body copy and controls, without synthesized weights. Noto Serif KR 500 remains the title face. The entrance keeps Noto Serif KR 500 for a wuxia identity, one blended cosmetic portrait, and two vertical text choices with fine rules and arrows. Language is remembered after selection. Licensed subsets are renamed Winds Heading and Winds UI with OFL notices preserved.
 
 The mobile header now uses the same two destinations instead of floating navigation. Photos and key facts remain prominent, source history is expandable, and calendar layout follows the viewport automatically. Motion uses soft arrivals, image zoom, source disclosures, gallery transitions, and hover/focus feedback; reduced motion disables the effects. Do not repeatedly delay returning visitors with the first-visit introduction.
+
+The header uses the single character 鏡 as its home mark at every width, with an accessible full brand label. Language switching stays at the far right.

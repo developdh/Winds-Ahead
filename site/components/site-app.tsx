@@ -240,12 +240,6 @@ export default function SiteApp({
           href={`/${l}`}
           aria-label={t("Winds Ahead home", "연운경 홈")}
         >
-          <span className="brand-mark" aria-hidden="true">
-            燕
-          </span>
-          <span className="brand-name">
-            {l === "ko" ? "연운경" : "Winds Ahead"}
-          </span>
           <span className="brand-symbol" aria-hidden="true">
             鏡
           </span>
@@ -275,11 +269,12 @@ export default function SiteApp({
         </nav>
         <Link
           className="language"
+          title={l === "ko" ? "English" : "한국어"}
           href={langUrl}
           hrefLang={l === "ko" ? "en" : "ko"}
           aria-label={t("Switch to Korean", "Switch to English")}
         >
-          {l === "ko" ? "EN" : "한국어"}
+          {l === "ko" ? "EN" : "KO"}
         </Link>
       </header>
       <main key={path} id="main" className="page" lang={l}>

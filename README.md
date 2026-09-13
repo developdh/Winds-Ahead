@@ -4,7 +4,7 @@
 
 An independent **Where Winds Meet** cosmetic archive. Browse real CN appearances, inspect acquisition details, and distinguish global facts from editorial estimates.
 
-**MVP:** An English/Korean web app with a first-visit language choice, image galleries, search, a small browser watchlist, and a responsive release calendar. The interface centers on two destinations: **Cosmetics** and **Calendar**. Dark, image-led design uses light Pretendard text; the entrance retains Noto Serif KR for its wuxia identity.
+**MVP:** An English/Korean web app with a first-visit language choice, image galleries, search, a small browser watchlist, and a responsive release calendar. The interface centers on two destinations: **Cosmetics** and **Calendar**. Dark, image-led design uses light Gowun Dodum text; the entrance retains Noto Serif KR for its wuxia identity.
 
 The initial archive contains **8 cosmetics from one September 2025 official CN announcement**. Six have an explicit CN release date; two retain unknown dates. No verified global event or editorial forecast has been published. Empty schedules are intentional, not fabricated.
 
