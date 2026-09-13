@@ -43,13 +43,13 @@ export default function ReleaseTimeline({ l, events, forecasts, today, kind, rel
           {f && <small>{t('Limited evidence · Not official', '근거 제한적 · 비공식')}</small>}
         </div>
         <article className="timeline-card">
-          <Link className="timeline-art" href={`/${l}/cosmetics/${c.id}`} aria-label={nameOf(c, l)} onClick={event => onCosmeticClick(event, c.id)} aria-haspopup="dialog">
+          <Link className="timeline-art" href={`/${l}/cosmetics/${c.id}`} aria-label={nameOf(c, l)} onClick={event => onCosmeticClick(event, c.id)} prefetch={false} aria-haspopup="dialog">
             {picture ? <img src={picture.thumbnail} alt="" width={240} height={300} loading="lazy" decoding="async" /> : <span className="timeline-no-image">鏡</span>}
             <span className="timeline-image-origin">{c.mediaServer === 'Global' ? t('Global preview', '글로벌 이미지') : t('CN preview', '중국 이미지')}</span>
           </Link>
           <div className="timeline-copy">
             <span className="timeline-category">{categoryNames[c.category][l]}</span>
-            <h2><Link href={`/${l}/cosmetics/${c.id}`} onClick={event => onCosmeticClick(event, c.id)} aria-haspopup="dialog">{nameOf(c, l)}<ArrowUpRight size={18}/></Link></h2>
+            <h2><Link href={`/${l}/cosmetics/${c.id}`} onClick={event => onCosmeticClick(event, c.id)} prefetch={false} aria-haspopup="dialog">{nameOf(c, l)}<ArrowUpRight size={18}/></Link></h2>
             <p className="timeline-original">{c.nameOriginal}{c.cnRelease.date && <> · CN {formatDay(c.cnRelease.date, l)}</>}</p>
             <p className="timeline-reason">{e ? e.scope[l] : f!.rationale[l]}</p>
             <details className="timeline-evidence">

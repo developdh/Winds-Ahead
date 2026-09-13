@@ -1,4 +1,4 @@
-name: MVP quality
+name: Project quality
 on:
   pull_request:
   push:
@@ -21,6 +21,7 @@ jobs:
           cache: npm
           cache-dependency-path: site/package-lock.json
       - run: npm ci
+      - run: npm audit --omit=dev --audit-level=high
       - run: npm run check
       - run: npm test
       - run: npm run validate:content
