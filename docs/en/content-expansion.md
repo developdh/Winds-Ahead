@@ -24,7 +24,7 @@ The competitor's extensive categories and acquisition information are useful cov
 
 - Catalog images are single-frame WebP. CI rejects animated thumbnails **and** gallery images. Initial catalog rendering is capped at 24 cards; additional results use a single Show more control, only when needed. The current 18-item collection does not display that control.
 - An effect detail initially contains a still image and a play button. No player or video source is mounted until a click. At most one cosmetic player is active. Leaving the panel or hiding the tab removes the player; returning does not restart it. Cleanup releases the native decoder and cancels pending transfer.
-- Native controls, inline mobile playback, no loop, explicit duration/download size, and an original-source fallback. Embeds also require a click and are removed when hidden. `preload="none"` alone is only a browser hint; conditional mounting is the actual initial-load boundary. See [MDN video](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/video).
+- Native controls, inline mobile playback, muted initial playback, no loop, explicit duration/download size, and an original-source fallback. Embeds also require a click and are removed when hidden. `preload="none"` alone is only a browser hint; conditional mounting is the actual initial-load boundary. See [MDN video](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/video).
 - The 102,489,850-byte, 2400×1080 source became **4,182,232 bytes (95.9% smaller)** at 1280×576, 30fps, 29.034 seconds, H.264/AAC. MP4 metadata precedes video frames for progressive playback. The 56,478-byte poster is static. No raw original or competitor asset is committed.
 - Enforced asset limits: thumbnail 160KB, full image 2.5MB, video 8MB/60 seconds/1280×720. Current 22 thumbnail derivatives total 1,567,354 bytes, with lazy loading beyond the first three. Those bytes are not all fetched at entry. The initial eight-item archive's 542KB figure is historical.
 
@@ -37,3 +37,11 @@ Type checking, 15 domain/media tests, content references, paired localization co
 A local byte-range request returned HTTP 200 with the full 4.18MB asset rather than HTTP 206. Playback is progressive with front-loaded metadata, but byte-range seeking is not claimed as verified. Production delivery and physical Safari seeking need a separate check before introducing longer or larger clips.
 
 Published successfully at 04:50:43 UTC on September 13, 2026 to the [existing owner-private Site](https://winds-ahead.donghee0815.chatgpt.site). [PR #6](https://github.com/developdh/Winds-Ahead/pull/6) retains the changes; its application commit passed GitHub CI. No merge or audience change was made.
+
+## Playback-start correction
+
+The in-app browser reproduced a pause immediately after starting the published effect. The player remained mounted and ready, so this was not the offscreen teardown. A separate local page using the same MP4 and no React/visibility cleanup reproduced audible autoplay pausing at 0.000s and direct click playback pausing at 0.006s despite buffered media. Muted playback reached the 29.034s end. FFmpeg decoded the entire unchanged H.264/AAC file without errors.
+
+Native previews now start muted after the existing play click. Native volume controls remain available; no repeated forced resume, player remount loop, additional video download or re-encoding was introduced. This follows [MDN's muted-start guidance](https://developer.mozilla.org/en-US/docs/Web/Media/Guides/Autoplay#handling_autoplay_failure_with_media_controls). The observed distinction is audible versus muted playback in the tested browser; the precise browser/OS cause of audible suspension is not established, and unmuted playback is not certified across environments.
+
+The corrected production build played from 0.173s through 22.446s to `ended=true` at 29.034s in the in-app browser. The video element was absent before the play click. Type/content checks, all 18 existing tests and the production build pass.

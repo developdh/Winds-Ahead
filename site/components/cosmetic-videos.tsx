@@ -23,8 +23,10 @@ function NativePlayer({ video, onError }: { video: CosmeticVideo; onError: () =>
     };
   }, []);
   const p = video.playback!;
+  // Start silently: some embedded browsers suspend newly mounted audible media.
+  // Keep native volume controls so sound remains an explicit viewer choice.
   return <video ref={ref} className="effect-player" src={p.src} poster={p.poster}
-    width={p.width} height={p.height} controls playsInline autoPlay preload="none"
+    width={p.width} height={p.height} controls playsInline muted autoPlay preload="none"
     aria-label={video.title.en} onError={onError} />;
 }
 export default function CosmeticVideos({ c, l, hero = false }: { c: Cosmetic; l: Locale; hero?: boolean }) {
