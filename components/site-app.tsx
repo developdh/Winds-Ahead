@@ -30,6 +30,7 @@ import {
   History,
   SlidersHorizontal,
 } from "lucide-react";
+import { regionalRecord, releasedOn, matchesServer, latestRelease, serverName, stateName } from "@/lib/regional-status";
 import { rememberLocale } from "@/lib/language-preference";
 import CosmeticVideos from "@/components/cosmetic-videos";
 import AcquisitionInfo from "@/components/acquisition-info";
@@ -149,7 +150,7 @@ export default function SiteApp({
   const langUrl = `${path.replace(/^\/(en|ko)(?=\/|$)/, l === "ko" ? "/en" : "/ko")}${params.toString() ? "?" + params.toString() : ""}`;
   const item = itemId ? findCosmetic(itemId) : undefined;
   const backParams = new URLSearchParams();
-  for (const k of ["q", "category"]) {
+  for (const k of ["q", "category", "server"]) {
     const v = params.get(k);
     if (v) backParams.set(k, v);
   }
@@ -180,8 +181,9 @@ export default function SiteApp({
   );
   const card = (c: Cosmetic, i: number) => {
     const m = imagesOf(c)[0];
-    const acquisition = c.acquisition;
-    const globalStatus = globalLabel(c.id, l);
+    const globalAcquisition = regionalRecord(c, "Global")?.acquisition;
+    const acquisition = globalAcquisition ?? c.acquisition;
+    const acquisitionServer = globalAcquisition ? "Global" : c.acquisitionServer ?? "CN";
     return (
       <article
         className="cosmetic-card"
@@ -193,16 +195,16 @@ export default function SiteApp({
           href={`/${l}/cosmetics/${c.id}${backQuery}`}
           aria-label={`${nameOf(c, l)} · ${t("View details", "상세 보기")}`}
         >
-          <img
+          {m ? <img
             src={m.thumbnail}
             width={600}
             height={710}
-            alt={`${c.nameOriginal} · ${t("Official CN promotional preview", "중국 공식 미리보기")}`}
+            alt={`${c.nameOriginal} · ${t("Game appearance preview", "게임 외관 미리보기")}`}
             loading={i < 3 ? "eager" : "lazy"}
             fetchPriority={i === 0 ? "high" : "auto"}
             decoding="async"
-          />
-          {c.category === "effect" && <span className="effect-card-label"><Play size={13} />{t("Effect preview", "이펙트 미리보기")}</span>}
+          /> : <div className="media-pending"><span aria-hidden="true">鏡</span><small>{t("Image under review", "사진 확인 중")}</small></div>}
+          {c.category === "effect" && c.officialVideos.length > 0 && <span className="effect-card-label"><Play size={13} />{t("Effect preview", "이펙트 미리보기")}</span>}
         </Link>
         <div className="card-copy">
           <div className="card-topline">
@@ -219,22 +221,21 @@ export default function SiteApp({
             <span className="original-name" lang="zh-Hans" title={c.nameOriginal}>
               {c.nameOriginal}
             </span>
-            <span className="card-price" title={`CN · ${acquisitionSummary(c, l)}`}>
+            <span className="card-price" title={`${serverName(acquisitionServer, l)} · ${acquisitionSummary({...c, acquisition}, l)}`}>
               {acquisition.pricing === 'fixed' ? <>
                 <span className="card-price-amount">{acquisition.amount!.toLocaleString(l === 'ko' ? 'ko-KR' : 'en-US')}</span>
                 <span>{currencyName(acquisition.currencyOriginal, l)}</span>
-              </> : acquisition.pricing === 'draw' ? t('Draw', '추첨') : acquisition.pricing === 'pass' ? t('Paid pass', '유료 강호령') : acquisition.kind === 'milestone' ? t('Milestone', '단계 보상') : t('Unpriced', '수량 미정')}
+              </> : acquisition.pricing === 'free' ? t('Free', '무료') : acquisition.pricing === 'draw' ? t('Draw', '추첨') : acquisition.pricing === 'pass' ? t('Paid pass', '유료 강호령') : acquisition.kind === 'milestone' ? t('Milestone', '단계 보상') : t('Unpriced', '수량 미정')}
             </span>
           </div>
           <div className="card-meta">
-            <span className="card-location" title={`CN · ${acquisition.location[l]}`}>
-              <span className="sr-only">{t('CN acquisition: ', '중국 획득처: ')}</span>{acquisition.location[l]}
+            <span className="card-location" title={`${serverName(acquisitionServer, l)} · ${acquisition.location[l]}`}>
+              <span>{acquisitionServer === "CN" ? "CN" : t("Global", "글로벌")} · </span>{acquisition.location[l]}
             </span>
             <span className="card-meta-separator" aria-hidden="true">·</span>
-            <span className="card-global" title={globalStatus}>
-              <Globe2 size={12} aria-hidden="true" />
-              <span className="sr-only">{t('Global: ', '글로벌: ')}</span>
-              {globalStatus.split(' · ')[1]}
+            <span className="card-servers" aria-label={t("Verified release servers", "출시 확인 서버")}>
+              {(["CN", "Global"] as const).filter(server => releasedOn(c, server)).map(server => <span key={server} title={`${serverName(server, l)} · ${stateName("released", l)}`}>{server === "CN" ? "CN" : t("Global", "글로벌")}</span>)}
+              {!releasedOn(c, "CN") && !releasedOn(c, "Global") && <span>{(["CN", "Global"] as const).some(server => regionalRecord(c, server)?.status === "announced") ? t("Announced", "발표됨") : t("Not verified", "확인 중")}</span>}
             </span>
           </div>
         </div>
@@ -376,22 +377,27 @@ function Catalog({
   const params = useSearchParams();
   const [query, setQuery] = useState(params.get("q") ?? "");
   const [visibleCount, setVisibleCount] = useState(24);
+  const [server, setServer] = useState(params.get("server") ?? "all");
   const initial = params.get("category") ?? "all";
   const [category, setCategory] = useState(
     initial in categoryNames ? initial : "all",
   );
   useEffect(() => {
     setQuery(params.get("q") ?? "");
+    const s = params.get("server") ?? "all";
+    setServer(["all", "cn", "global", "both"].includes(s) ? s : "all");
     const c = params.get("category") ?? "all";
     setCategory(c in categoryNames ? c : "all");
   }, [params]);
-  useEffect(() => { setVisibleCount(24); }, [query, category, view]);
-  function update(q: string, c: string) {
+  useEffect(() => { setVisibleCount(24); }, [query, category, server, view]);
+  function update(q: string, c: string, region = server) {
     setQuery(q);
     setCategory(c);
+    setServer(region);
     const p = new URLSearchParams(window.location.search);
     q ? p.set("q", q) : p.delete("q");
     c !== "all" ? p.set("category", c) : p.delete("category");
+    region !== "all" ? p.set("server", region) : p.delete("server");
     p.delete("sort");
     history.replaceState(
       null,
@@ -402,11 +408,11 @@ function Catalog({
   const items = useMemo(
     () =>
       searchCosmetics(query, category)
-        .filter((c) => view !== "watchlist" || saved.includes(c.id))
+        .filter((c) => (view !== "watchlist" || saved.includes(c.id)) && matchesServer(c, server))
         .sort((a, b) =>
-          (b.cnRelease.date ?? "").localeCompare(a.cnRelease.date ?? ""),
+          latestRelease(b).localeCompare(latestRelease(a)),
         ),
-    [query, category, view, saved],
+    [query, category, server, view, saved],
   );
   return (
     <>
@@ -480,14 +486,17 @@ function Catalog({
       </div>
       <div className="archive-caption">
         <span role="status">
-          {items.length} {t("cosmetics", "개의 외관")}
+          {items.length} {t("appearance records", "개의 외관 기록")}
         </span>
-        <span>
-          {t(
-            "CN archive · Global dates checked separately",
-            "중국 출시 기록 · 글로벌 일정 별도 확인",
-          )}
-        </span>
+        <label className="server-filter">
+          <span className="sr-only">{t("Release server", "출시 서버")}</span>
+          <NativeSelect value={server} onChange={e => update(query, category, e.target.value)} aria-label={t("Release server", "출시 서버")}>
+            <option value="all">{t("All servers", "모든 서버")}</option>
+            <option value="cn">{t("Released in China", "중국 출시")}</option>
+            <option value="global">{t("Released globally", "글로벌 출시")}</option>
+            <option value="both">{t("Released in both", "양쪽 서버 출시")}</option>
+          </NativeSelect>
+        </label>
       </div>
       {view === "watchlist" && !ready ? (
         <div className="empty-state" role="status">
@@ -495,7 +504,7 @@ function Catalog({
         </div>
       ) : items.length ? (
         <>
-          <div className="cosmetic-grid" key={category}>
+          <div className="cosmetic-grid" key={`${category}:${server}`}>
             {items.slice(0, visibleCount).map(card)}
           </div>
           {items.length > visibleCount && <div className="archive-more"><button className="text-link" onClick={() => setVisibleCount(n => n + 24)}>{t("Show more", "더 보기")} · {visibleCount} / {items.length}</button></div>}
@@ -504,7 +513,7 @@ function Catalog({
         <div className="empty-state">
           <Bookmark size={30} />
           <h2>
-            {query || category !== "all"
+            {query || category !== "all" || server !== "all"
               ? t("No matching cosmetics", "일치하는 외관이 없어요")
               : t(
                   "A place for your next favorites",
@@ -512,7 +521,7 @@ function Catalog({
                 )}
           </h2>
           <p>
-            {query || category !== "all"
+            {query || category !== "all" || server !== "all"
               ? t(
                   "Try a different name or clear your filters.",
                   "다른 이름을 검색하거나 필터를 초기화하세요.",
@@ -522,10 +531,10 @@ function Catalog({
                   "외관 카드의 책갈피를 누르면 여기에 저장됩니다.",
                 )}
           </p>
-          {query || category !== "all" ? (
+          {query || category !== "all" || server !== "all" ? (
             <button
               className="outline-button"
-              onClick={() => update("", "all")}
+              onClick={() => update("", "all", "all")}
             >
               {t("Reset filters", "필터 초기화")}
             </button>
@@ -587,25 +596,26 @@ function Detail({
               ))}
             </div>
           )}
-          <p className="media-credit">
-            © NetEase ·{" "}
+          {images.length > 0 && <p className="media-credit">
+            {c.mediaKind === "gameplay" ? "© NetEase · GamerSky / 瑞破受气包" : "© NetEase"} ·{" "}
             {t(
-              "Official CN preview. Final in-game appearance may differ.",
-              "중국 공식 미리보기. 실제 게임 내 모습과 다를 수 있습니다.",
+              "Game appearance reference. Check source and server details below.",
+              "게임 외관 참고 이미지. 출처와 서버는 아래에서 확인하세요.",
             )}
-          </p>
+          </p>}
         </section>
         <section className="detail-copy">
           <div className="detail-title">
             <p className="eyebrow">
-              CN ARCHIVE / {categoryNames[c.category as Category][l]}
+              {categoryNames[c.category as Category][l]}
             </p>
             <h1>{nameOf(c, l)}</h1>
             <p className="detail-original">
               <span lang="zh-Hans">{c.nameOriginal}</span>
-              <span>{t("Provisional name", "편의 표기")}</span>
+              <span>{(l === "ko" ? c.officialNameKo : c.officialNameEn) ? t("Official name", "공식 명칭") : t("Provisional name", "편의 표기")}</span>
             </p>
             <p className="detail-description">{descriptions[c.id][l]}</p>
+            {c.namingNote && <p className="small-muted">{c.namingNote[l]}</p>}
           </div>
           <div className="button-row detail-actions">
             {saveButton(c)}
@@ -615,13 +625,14 @@ function Detail({
               target="_blank"
               rel="noreferrer"
             >
-              {t("Official announcement", "공식 공지")}
+              {source.evidenceTier === "C" || source.evidenceTier === "B" ? t("Image source", "이미지 출처") : t("Official announcement", "공식 공지")}
               <ArrowUpRight size={16} />
             </a>
           </div>
-          <AcquisitionInfo c={c} l={l} />
           <GlobalPanel c={c} l={l} />
-          <div className="facts">
+          <AcquisitionInfo c={c} l={l} />
+          {(["CN", "Global"] as const).filter(server => server !== (c.acquisitionServer ?? "CN")).map(server => { const record = regionalRecord(c, server); return record?.acquisition ? <AcquisitionInfo key={server} c={{...c, acquisition: record.acquisition, acquisitionServer: server}} l={l} /> : null; })}
+          {source.server === "CN" && <div className="facts">
             <h2>
               <ShieldCheck size={18} />
               {t("China server facts", "중국 서버 정보")}
@@ -647,7 +658,7 @@ function Detail({
                 "과거 공지 기록이며 현재 판매 중이라는 뜻은 아닙니다. 원문에 시간대가 명시되지 않았습니다.",
               )}
             </p>
-          </div>
+          </div>}
         </section>
       </div>
       <div className="detail-bottom">
@@ -665,9 +676,8 @@ function Detail({
             {formatDay(source.displayedPublicationDate, l)}
           </p>
           <p>
-            {t("CN source reviewed", "중국 원문 확인")}{" "}
-            {formatDay(verifiedAt, l)} ·{" "}
-            {t("Global status unverified", "글로벌 정보 미확인")}
+            {t("Source reviewed", "원문 확인")}{" "}
+            {formatDay(verifiedAt, l)}
           </p>
           <small>
             {t(
@@ -675,7 +685,9 @@ function Detail({
               "주소의 날짜와 다를 수 있는 실제 공지 화면의 게시일을 기록했습니다. 출시일은 공지 본문을 기준으로 하며 시간대를 추정하지 않습니다.",
             )}
           </small>
-          {c.cnRelease.contextual && <p>{t("The September 9 announcement says these items arrive after tomorrow’s update. September 10 is derived from that wording; an exact hour was not stated.", "9월 9일 공지의 ‘내일 업데이트’와 각 항목의 업데이트 후 출시 안내를 연결해 9월 10일로 기록했습니다. 정확한 시각은 명시되지 않았습니다.")}</p>}
+          {c.sourceEvidence && <details><summary>{t("Source excerpt", "원문 발췌")}</summary><p lang="zh-Hans">{c.sourceEvidence}</p></details>}
+          {c.imageSourceUrl && <a href={c.imageSourceUrl} target="_blank" rel="noreferrer">{t("Image provenance", "이미지 원출처")}<ArrowUpRight size={16} /></a>}
+          {c.cnRelease.contextual && <p>{t("The release day is derived from the update context, not the URL date. An exact time is not assumed.", "출시일은 주소의 날짜가 아닌 업데이트 문맥으로 확인했습니다. 정확한 시각은 추정하지 않습니다.")}</p>}
         </details>
         {c.category !== "effect" && c.officialVideos.length > 0 && <CosmeticVideos key={c.id} c={c} l={l} />}
       </div>
@@ -692,57 +704,23 @@ function Detail({
   );
 }
 function GlobalPanel({ c, l }: { c: Cosmetic; l: Locale }) {
-  const t = (en: string, ko: string) => (l === "ko" ? ko : en);
-  const e = globalEventFor(c.id);
-  return (
-    <div className="status-panel">
-      <div className="status-heading">
-        <Globe2 size={18} />
-        <h2>{t("Global release", "글로벌 출시")}</h2>
-        <span className="badge unknown">
-          {e
-            ? e.status === "released"
-              ? t("Released", "출시 기록")
-              : t("Announced", "발표됨")
-            : t("Not verified", "확인 중")}
-        </span>
-      </div>
-      {e ? (
-        <>
-          <p>
-            {formatDay(e.date, l)} · {e.scope[l]}
-          </p>
-          {e.sourceIds.map((id) => {
-            const s = globalSources.find((x) => x.id === id);
-            return s ? (
-              <a
-                className="text-link"
-                key={id}
-                href={s.url}
-                target="_blank"
-                rel="noreferrer"
-              >
-                {s.titleOriginal}
-                <ArrowUpRight size={15} />
-              </a>
-            ) : null;
-          })}
-        </>
-      ) : (
-        <p>
-          {t(
-            "Release date and official localized name are not verified yet.",
-            "출시일과 공식 한국어명은 아직 확인되지 않았습니다.",
-          )}
-        </p>
-      )}
-      <Link className="text-link" href={`/${l}/calendar`}>
-        {t("View calendar", "캘린더 보기")}
-        <ArrowRight size={15} />
-      </Link>
-    </div>
-  );
+  const t = (en: string, ko: string) => l === "ko" ? ko : en;
+  return <section className="regional-panel" aria-labelledby={`servers-${c.id}`}>
+    <h2 id={`servers-${c.id}`}>{t("Release servers", "출시 서버")}</h2>
+    <div className="regional-rows">{(["CN", "Global"] as const).map(server => {
+      const r = regionalRecord(c, server);
+      return <div className="regional-row" key={server}>
+        <div className="regional-row-title"><span>{serverName(server, l)}</span><span className={`regional-state ${r?.status ?? "unknown"}`}>{stateName(r?.status ?? "unknown", l)}</span></div>
+        {r ? <>
+          {r.releaseDate && <time dateTime={r.releaseDate}>{formatDay(r.releaseDate, l)}</time>}
+          <details className="regional-evidence"><summary>{t("Source & scope", "출처와 범위")}</summary><p>{r.scope[l]}</p><p>{r.identityBasis[l]}</p>{r.sourceIds.map(id => { const source = allSources.find(s => s.id === id); return source && <a key={id} href={source.url} target="_blank" rel="noreferrer">{source.titleOriginal}<ArrowUpRight size={13} /></a>; })}<small>{t("Checked", "확인")} {formatDay(r.verifiedAt, l)}</small></details>
+        </> : <p>{t("No verified release record yet.", "출시 근거를 아직 확인하지 못했습니다.")}</p>}
+      </div>;
+    })}</div>
+    <p className="small-muted">{t("A release record does not mean it is currently on sale.", "출시 기록이며 현재 판매 중이라는 뜻은 아닙니다.")}</p>
+  </section>;
 }
+
 function Updates({ l }: { l: Locale }) {
   const t = (en: string, ko: string) => (l === "ko" ? ko : en);
   return (
@@ -840,8 +818,8 @@ function About({ l }: { l: Locale }) {
           </h2>
           <p>
             {t(
-              "Winds Ahead brings official China-server cosmetic previews together with acquisition details, global verification status, and a release roadmap. It is not affiliated with or endorsed by NetEase or Everstone Studio.",
-              "연운경은 중국 서버의 공식 외관 미리보기와 획득 정보, 글로벌 확인 상태, 출시 로드맵을 함께 정리합니다. NetEase 및 Everstone Studio와 제휴하거나 공식 인증을 받은 사이트가 아닙니다.",
+              "Winds Ahead brings China and Global cosmetic records together with acquisition details, regional sources, and a release roadmap. It is not affiliated with or endorsed by NetEase or Everstone Studio.",
+              "연운경은 중국·글로벌 서버의 외관 기록과 획득 정보, 서버별 출처, 출시 로드맵을 함께 정리합니다. NetEase 및 Everstone Studio와 제휴하거나 공식 인증을 받은 사이트가 아닙니다.",
             )}
           </p>
           <h2>
@@ -873,14 +851,14 @@ function About({ l }: { l: Locale }) {
           <h2>{t("Names, dates, and media", "이름·날짜·미디어")}</h2>
           <p>
             {t(
-              "Chinese names identify the original cosmetics. Korean readings and English romanizations are provisional. Date-only records stay date-only. Unknown time zones are not converted.",
-              "중국 원명으로 외관을 식별합니다. 한국어 독음과 영어 로마자 표기는 편의 표기입니다. 날짜만 알려진 기록에 시각을 붙이거나 미확인 시간대를 변환하지 않습니다.",
+              "Reviewed official English and Korean names take precedence. Chinese originals and provisional readings remain searchable. Unresolved regional identities stay separate; the record count is not a certified game total. Date-only records stay date-only. Unknown time zones are not converted.",
+              "확인한 영어·한국어 공식명을 우선하며 중국 원명과 편의 표기도 검색할 수 있습니다. 동일 외관인지 미확인인 서버별 기록은 따로 유지하므로 기록 수가 게임 전체의 고유 외관 수를 뜻하지는 않습니다. 날짜만 알려진 기록에 시각을 붙이거나 미확인 시간대를 변환하지 않습니다.",
             )}
           </p>
           <p>
             {t(
-              "This private MVP uses reduced official reference images for review. Rights remain with their owners; attribution does not establish redistribution permission. Public media clearance is still pending.",
-              "비공개 MVP는 검토용으로 크기를 줄인 공식 참고 이미지를 사용합니다. 권리는 원저작자에게 있으며 출처 표기는 재배포 허가를 뜻하지 않습니다. 공개 서비스용 미디어 권한은 확인이 필요합니다.",
+              "This private MVP uses reduced official and credited community reference images for review. Rights remain with their owners; attribution does not establish redistribution permission. Public media clearance is still pending.",
+              "비공개 MVP는 검토용으로 크기를 줄인 공식 이미지와 출처를 명시한 커뮤니티 참고 이미지를 사용합니다. 권리는 원저작자에게 있으며 출처 표기는 재배포 허가를 뜻하지 않습니다. 공개 서비스용 미디어 권한은 확인이 필요합니다.",
             )}
           </p>
           <h2>{t("Your watchlist", "관심 목록")}</h2>
