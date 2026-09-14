@@ -6191,5 +6191,41 @@
     "fullBytes": 105058,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license"
+  },
+  {
+    "cosmeticId": "ying-kong",
+    "index": 1,
+    "originalUrl": "https://r.res.easebar.com/pic/20260914/3c12710f-02dc-403b-8768-472b630841a9.png",
+    "sourcePage": "https://www.wherewindsmeetgame.com/kr/news/official/916appearance.html",
+    "thumbnail": "/media/ying-kong-1-thumb.webp",
+    "full": "/media/ying-kong-1-full.webp",
+    "thumbnailBytes": 75920,
+    "fullBytes": 294296,
+    "permission": "unknown",
+    "audience": "reference artwork; excluded from the code license"
+  },
+  {
+    "cosmeticId": "wan-laixue-zhi-feng",
+    "index": 1,
+    "originalUrl": "https://r.res.easebar.com/pic/20260914/dbdbc855-095c-4236-9618-a18bd6cb9860.png",
+    "sourcePage": "https://www.wherewindsmeetgame.com/kr/news/official/916appearance.html",
+    "thumbnail": "/media/wan-laixue-zhi-feng-1-thumb.webp",
+    "full": "/media/wan-laixue-zhi-feng-1-full.webp",
+    "thumbnailBytes": 23090,
+    "fullBytes": 161472,
+    "permission": "unknown",
+    "audience": "reference artwork; excluded from the code license"
+  },
+  {
+    "cosmeticId": "wan-laifeng-fu-xue",
+    "index": 1,
+    "originalUrl": "https://r.res.easebar.com/pic/20260914/7da8bbfe-7a7c-41b5-a709-da2446e5d610.png",
+    "sourcePage": "https://www.wherewindsmeetgame.com/kr/news/official/916appearance.html",
+    "thumbnail": "/media/wan-laifeng-fu-xue-1-thumb.webp",
+    "full": "/media/wan-laifeng-fu-xue-1-full.webp",
+    "thumbnailBytes": 27456,
+    "fullBytes": 287782,
+    "permission": "unknown",
+    "audience": "reference artwork; excluded from the code license"
   }
 ]

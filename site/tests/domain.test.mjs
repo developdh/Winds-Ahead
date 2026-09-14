@@ -273,6 +273,15 @@ test('draws and paid passes do not acquire invented fixed cosmetic prices', () =
     assert.equal(acquisitionSchema.safeParse({...a, pricing: 'fixed', amount: 1}).success, false);
   }
 });
+test('a confirmed draw can retain an unknown currency with explicit source context', () => {
+  const a=read('regional-records.json').records.find(r=>r.cosmeticId==='wu-sheng-gu' && r.server==='Global').acquisition;
+  assert.equal(a.kind,'limited_draw');
+  assert.equal(a.currencyOriginal,null);
+  assert.ok(acquisitionSchema.safeParse(a).success);
+  assert.equal(acquisitionMethod(a),'resonance');
+  assert.equal(acquisitionSchema.safeParse({...a,conditions:null}).success,false);
+  assert.equal(acquisitionSchema.safeParse({...a,amount:1}).success,false);
+});
 test('limited discounts retain a larger regular price', () => {
   const a = research.cosmetics.find(c => c.id === 'xuanying-lianchen-buran').acquisition;
   assert.equal(a.amount, 2); assert.equal(a.regularAmount, 3);

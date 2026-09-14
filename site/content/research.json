@@ -3214,6 +3214,45 @@
       "evidenceTier": "A",
       "verifiedAt": "2026-09-13",
       "verificationNote": "Official search excerpt and named male hairstyle image inspected. Identical male hair, pose, clothing and rear-view inset appear in the retained Global website art for Celestial Rendezvous. Preserve the website name and add the social name as a searchable alias; do not duplicate the same artwork."
+    },
+    {
+      "id": "global-20260914-appearance-en",
+      "url": "https://www.wherewindsmeetgame.com/news/official/916appearance.html",
+      "publisher": "Where Winds Meet / NetEase (official)",
+      "server": "Global",
+      "titleOriginal": "[Perilous Eminence] Version 2.2 New Appearances Overview - September 16",
+      "displayedPublicationDate": "2026-09-14",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-09-14",
+      "verificationNote": "Official notice read in the browser; named sections and relevant artwork inspected. Cross-region identities are editorial visual matches. No actual September 16 release confirmation is claimed."
+    },
+    {
+      "id": "global-20260914-appearance-ko",
+      "url": "https://www.wherewindsmeetgame.com/kr/news/official/916appearance.html",
+      "publisher": "Where Winds Meet / NetEase (official)",
+      "server": "Global",
+      "titleOriginal": "[구름 위 동행] 9월 16일 2.2 버전 신규 외관 목록",
+      "displayedPublicationDate": "2026-09-14",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-09-14",
+      "verificationNote": "Official notice read in the browser; named sections and relevant artwork inspected. Cross-region identities are editorial visual matches. No actual September 16 release confirmation is claimed."
+    },
+    {
+      "id": "global-20260914-thousand-mistwreath-x",
+      "url": "https://x.com/WhereWindsMeet_/status/2099317213316428253",
+      "publisher": "Where Winds Meet / NetEase (official)",
+      "server": "Global",
+      "titleOriginal": "Thousand Blessings and Mistwreath — September 16 appearances",
+      "displayedPublicationDate": "2026-09-14",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": "UTC",
+      "evidenceTier": "A",
+      "verifiedAt": "2026-09-14",
+      "verificationNote": "Official notice read in the browser; named sections and relevant artwork inspected. Cross-region identities are editorial visual matches. No actual September 16 release confirmation is claimed."
     }
   ],
   "mediaRights": {
@@ -4118,8 +4157,8 @@
       "romanization": "Ru Shi Yuan",
       "category": "outfit",
       "sourceId": "cn-20260903-new-appearance",
-      "officialNameEn": null,
-      "officialNameKo": null,
+      "officialNameEn": "Thousand Blessings",
+      "officialNameKo": "천수관음",
       "cnRelease": {
         "date": "2026-09-04",
         "precision": "day",
@@ -4180,7 +4219,7 @@
           "reusePermission": "unknown",
           "alt": {
             "en": "Ru Shi Yuan — Male action pose showing blue-and-gold drapes and flowing hair.",
-            "ko": "여시원 — 푸른색·금색 옷자락과 흩날리는 머리카락이 보이는 남성형 동작."
+            "ko": "천수관음 — 푸른색·금색 옷자락과 흩날리는 머리카락이 보이는 남성형 동작."
           }
         },
         {
@@ -4190,7 +4229,7 @@
           "reusePermission": "unknown",
           "alt": {
             "en": "Ru Shi Yuan — Female action pose showing the gold crown and blue-and-gold fabric.",
-            "ko": "여시원 — 금관과 푸른색·금색 옷감이 보이는 여성형 동작."
+            "ko": "천수관음 — 금관과 푸른색·금색 옷감이 보이는 여성형 동작."
           }
         },
         {
@@ -4200,7 +4239,7 @@
           "reusePermission": "unknown",
           "alt": {
             "en": "Ru Shi Yuan — Male front portrait with a lotus-like crown, necklace and gold ornaments.",
-            "ko": "여시원 — 연꽃 형태의 관, 목걸이와 금색 장식이 보이는 남성형 정면 상반신."
+            "ko": "천수관음 — 연꽃 형태의 관, 목걸이와 금색 장식이 보이는 남성형 정면 상반신."
           }
         },
         {
@@ -4210,7 +4249,7 @@
           "reusePermission": "unknown",
           "alt": {
             "en": "Ru Shi Yuan — Male rear portrait showing exposed upper back and blue draping.",
-            "ko": "여시원 — 등 위쪽과 푸른 옷자락이 보이는 남성형 뒷모습."
+            "ko": "천수관음 — 등 위쪽과 푸른 옷자락이 보이는 남성형 뒷모습."
           }
         },
         {
@@ -4220,7 +4259,7 @@
           "reusePermission": "unknown",
           "alt": {
             "en": "Ru Shi Yuan — Female front portrait with tall crown and gold shoulder ornaments.",
-            "ko": "여시원 — 높은 관과 금색 어깨 장식이 보이는 여성형 정면 상반신."
+            "ko": "천수관음 — 높은 관과 금색 어깨 장식이 보이는 여성형 정면 상반신."
           }
         },
         {
@@ -4230,14 +4269,24 @@
           "reusePermission": "unknown",
           "alt": {
             "en": "Ru Shi Yuan — Female rear view showing long hair, blue draping and gold waist chains.",
-            "ko": "여시원 — 긴 머리, 푸른 옷자락과 금색 허리 장식이 보이는 여성형 뒷모습."
+            "ko": "천수관음 — 긴 머리, 푸른 옷자락과 금색 허리 장식이 보이는 여성형 뒷모습."
           }
         }
       ],
       "officialVideos": [],
       "mediaStatus": "verified",
       "mediaServer": "CN",
-      "mediaKind": "official"
+      "mediaKind": "official",
+      "searchAliases": [
+        "여시원",
+        "Ru Shi Yuan",
+        "Thousand Blessings",
+        "천수관음"
+      ],
+      "namingNote": {
+        "en": "English and Korean official names are from the September 14 Global appearance overview. The CN identity is matched by appearance; the older CN reading remains searchable.",
+        "ko": "9월 14일 글로벌 공식 외관 공지의 영문·한국어 명칭입니다. 중국 외관은 이미지 대조로 연결했으며 기존 중국명 독음도 검색할 수 있습니다."
+      }
     },
     {
       "id": "ying-kong",
@@ -4245,8 +4294,8 @@
       "romanization": "Ying Kong",
       "category": "hair",
       "sourceId": "cn-20260903-new-appearance",
-      "officialNameEn": null,
-      "officialNameKo": null,
+      "officialNameEn": "Mistwreath",
+      "officialNameKo": "허공의 물결",
       "cnRelease": {
         "date": "2026-09-04",
         "precision": "day",
@@ -4288,9 +4337,33 @@
           "description": "White hair crowned with delicate gold ornaments.",
           "reusePermission": "unknown",
           "localCopy": "/media/ying-kong-0-full.webp"
+        },
+        {
+          "url": "https://r.res.easebar.com/pic/20260914/3c12710f-02dc-403b-8768-472b630841a9.png",
+          "width": 1216,
+          "height": 1080,
+          "bytes": 2429754,
+          "kind": "official_promotional_game_image",
+          "visuallyInspected": true,
+          "inspectionNote": "Official Korean September 16 notice section and complete artwork visually reviewed. Same white swept-up hair and high gold lotus crown with blue oval gem; the female image is the same CN 萦空 pose, while the KR composite adds male front/rear views.",
+          "reusePermission": "unknown",
+          "alt": {
+            "en": "Mistwreath — male front and rear views of the white hair and gold lotus crown.",
+            "ko": "허공의 물결 — 백발과 금빛 연꽃 관의 남성형 앞·뒷모습."
+          }
         }
       ],
-      "officialVideos": []
+      "officialVideos": [],
+      "searchAliases": [
+        "영공",
+        "Ying Kong",
+        "Mistwreath",
+        "허공의 물결"
+      ],
+      "namingNote": {
+        "en": "English and Korean official names are from the September 14 Global appearance overview. The CN identity is matched by appearance; the older CN reading remains searchable.",
+        "ko": "9월 14일 글로벌 공식 외관 공지의 영문·한국어 명칭입니다. 중국 외관은 이미지 대조로 연결했으며 기존 중국명 독음도 검색할 수 있습니다."
+      }
     },
     {
       "id": "xuanying-lianchen-buran",
@@ -4666,7 +4739,7 @@
       "category": "outfit",
       "sourceId": "cn-20260806-outfits",
       "officialNameEn": "Chilled Current",
-      "officialNameKo": null,
+      "officialNameKo": "찬 물결",
       "cnRelease": {
         "date": "2026-08-07",
         "precision": "day",
@@ -4729,7 +4802,7 @@
           "reusePermission": "unknown",
           "alt": {
             "en": "Chilled Current — Female portrait with black hair, ink-white robes and blue iris ornaments.",
-            "ko": "침한류 — 검은 머리, 먹빛 흰 의복과 푸른 붓꽃 장식의 여성형 상반신."
+            "ko": "찬 물결 — 검은 머리, 먹빛 흰 의복과 푸른 붓꽃 장식의 여성형 상반신."
           }
         },
         {
@@ -4739,7 +4812,7 @@
           "reusePermission": "unknown",
           "alt": {
             "en": "Chilled Current — Female chest and waist detail showing blue flowers and translucent fabric.",
-            "ko": "침한류 — 푸른 꽃과 반투명 옷감이 보이는 여성형 가슴·허리 디테일."
+            "ko": "찬 물결 — 푸른 꽃과 반투명 옷감이 보이는 여성형 가슴·허리 디테일."
           }
         },
         {
@@ -4749,7 +4822,7 @@
           "reusePermission": "unknown",
           "alt": {
             "en": "Chilled Current — Female front view showing the layered white skirt and ink-like patterns.",
-            "ko": "침한류 — 겹친 흰 치마와 먹빛 무늬를 보여주는 여성형 정면."
+            "ko": "찬 물결 — 겹친 흰 치마와 먹빛 무늬를 보여주는 여성형 정면."
           }
         },
         {
@@ -4759,7 +4832,7 @@
           "reusePermission": "unknown",
           "alt": {
             "en": "Chilled Current — Female rear portrait showing the hair ornament and blue iris on the shoulder.",
-            "ko": "침한류 — 머리 장식과 어깨의 푸른 붓꽃을 보여주는 여성형 뒷모습."
+            "ko": "찬 물결 — 머리 장식과 어깨의 푸른 붓꽃을 보여주는 여성형 뒷모습."
           }
         },
         {
@@ -4769,7 +4842,7 @@
           "reusePermission": "unknown",
           "alt": {
             "en": "Chilled Current — Male front view showing the layered robe, sash and hanging ornaments.",
-            "ko": "침한류 — 겹친 의복, 띠와 늘어뜨린 장식을 보여주는 남성형 정면."
+            "ko": "찬 물결 — 겹친 의복, 띠와 늘어뜨린 장식을 보여주는 남성형 정면."
           }
         },
         {
@@ -4779,7 +4852,7 @@
           "reusePermission": "unknown",
           "alt": {
             "en": "Chilled Current — Male rear view showing long black hair and ink-patterned white draping.",
-            "ko": "침한류 — 긴 검은 머리와 먹빛 무늬의 흰 옷자락이 보이는 남성형 뒷모습."
+            "ko": "찬 물결 — 긴 검은 머리와 먹빛 무늬의 흰 옷자락이 보이는 남성형 뒷모습."
           }
         }
       ],
@@ -4787,7 +4860,17 @@
       "wikiDetails": true,
       "mediaStatus": "verified",
       "mediaServer": "CN",
-      "mediaKind": "official"
+      "mediaKind": "official",
+      "searchAliases": [
+        "침한류",
+        "Zhen Han Liu",
+        "Chilled Current",
+        "찬 물결"
+      ],
+      "namingNote": {
+        "en": "English and Korean official names are from the September 14 Global appearance overview. The CN identity is matched by appearance; the older CN reading remains searchable.",
+        "ko": "9월 14일 글로벌 공식 외관 공지의 영문·한국어 명칭입니다. 중국 외관은 이미지 대조로 연결했으며 기존 중국명 독음도 검색할 수 있습니다."
+      }
     },
     {
       "id": "qian-nian-you-dai",
@@ -14397,8 +14480,8 @@
       "sourceId": "cn-aa892a494898",
       "acquisitionServer": "CN",
       "mediaServer": "CN",
-      "officialNameEn": null,
-      "officialNameKo": null,
+      "officialNameEn": "Myriad Sounds: Snow's Lament",
+      "officialNameKo": "만물의 소리-눈꽃의 선율",
       "cnRelease": {
         "date": null,
         "precision": "unknown",
@@ -14440,6 +14523,20 @@
           "reusePermission": "unknown",
           "localCopy": null,
           "server": "CN"
+        },
+        {
+          "url": "https://r.res.easebar.com/pic/20260914/dbdbc855-095c-4236-9618-a18bd6cb9860.png",
+          "width": 1920,
+          "height": 730,
+          "bytes": 2042345,
+          "kind": "official_promotional_game_image",
+          "visuallyInspected": true,
+          "inspectionNote": "Official Korean September 16 notice section and complete artwork visually reviewed. Same pale umbrella, large blue-white flowers, crystalline pointed rim and chain of snowflakes, including the same frontal canopy composition as the retained CN weapon image.",
+          "reusePermission": "unknown",
+          "alt": {
+            "en": "Myriad Sounds: Snow's Lament — floral umbrella canopy and side view.",
+            "ko": "만물의 소리-눈꽃의 선율 — 꽃 장식 우산의 윗면과 측면."
+          }
         }
       ],
       "officialVideos": [],
@@ -14449,7 +14546,17 @@
         "officialName": null,
         "releaseDate": null
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "searchAliases": [
+        "万籁·雪知风",
+        "wan lai·xue zhi feng",
+        "Myriad Sounds: Snow's Lament",
+        "만물의 소리-눈꽃의 선율"
+      ],
+      "namingNote": {
+        "en": "English and Korean official names are from the September 14 Global appearance overview. The CN identity is matched by appearance; the older CN reading remains searchable.",
+        "ko": "9월 14일 글로벌 공식 외관 공지의 영문·한국어 명칭입니다. 중국 외관은 이미지 대조로 연결했으며 기존 중국명 독음도 검색할 수 있습니다."
+      }
     },
     {
       "id": "wan-laifeng-fu-xue",
@@ -14459,8 +14566,8 @@
       "sourceId": "cn-aa892a494898",
       "acquisitionServer": "CN",
       "mediaServer": "CN",
-      "officialNameEn": null,
-      "officialNameKo": null,
+      "officialNameEn": "Myriad Sounds: Wind's Reply",
+      "officialNameKo": "만물의 소리-바람의 눈꽃",
       "cnRelease": {
         "date": "2026-01-16",
         "precision": "day",
@@ -14502,6 +14609,20 @@
           "reusePermission": "unknown",
           "localCopy": null,
           "server": "CN"
+        },
+        {
+          "url": "https://r.res.easebar.com/pic/20260914/7da8bbfe-7a7c-41b5-a709-da2446e5d610.png",
+          "width": 1920,
+          "height": 1080,
+          "bytes": 3005985,
+          "kind": "official_promotional_game_image",
+          "visuallyInspected": true,
+          "inspectionNote": "Official Korean September 16 notice section and complete artwork visually reviewed. Same silver fan ribs, blue-white flowers, pointed icy rim and snowflake edging as the CN image; the male holding pose also matches exactly.",
+          "reusePermission": "unknown",
+          "alt": {
+            "en": "Myriad Sounds: Wind's Reply — female and male characters holding the icy floral fan.",
+            "ko": "만물의 소리-바람의 눈꽃 — 얼음꽃 부채를 든 여성형과 남성형."
+          }
         }
       ],
       "officialVideos": [],
@@ -14511,7 +14632,17 @@
         "officialName": null,
         "releaseDate": null
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "searchAliases": [
+        "万籁·风拂雪",
+        "wan lai·feng fu xue",
+        "Myriad Sounds: Wind's Reply",
+        "만물의 소리-바람의 눈꽃"
+      ],
+      "namingNote": {
+        "en": "English and Korean official names are from the September 14 Global appearance overview. The CN identity is matched by appearance; the older CN reading remains searchable.",
+        "ko": "9월 14일 글로벌 공식 외관 공지의 영문·한국어 명칭입니다. 중국 외관은 이미지 대조로 연결했으며 기존 중국명 독음도 검색할 수 있습니다."
+      }
     },
     {
       "id": "fei-peng-tuan-kong",
@@ -17741,7 +17872,7 @@
       "acquisitionServer": "CN",
       "mediaServer": "CN",
       "officialNameEn": "Bane of Life",
-      "officialNameKo": null,
+      "officialNameKo": "무생의 독충",
       "cnRelease": {
         "date": null,
         "precision": "unknown",
@@ -17791,7 +17922,7 @@
           "reusePermission": "unknown",
           "alt": {
             "en": "Bane of Life — female hairstyle and butterfly crown, front view.",
-            "ko": "무생고 — 여성형 헤어와 나비 왕관 정면."
+            "ko": "무생의 독충 — 여성형 헤어와 나비 왕관 정면."
           },
           "caption": {
             "en": "Global hair and accessory preview. The pictured clothing is not confirmed as part of the set.",
@@ -17805,7 +17936,7 @@
           "reusePermission": "unknown",
           "alt": {
             "en": "Bane of Life — male hairstyle and silver crown, front view.",
-            "ko": "무생고 — 남성형 헤어와 은빛 왕관 정면."
+            "ko": "무생의 독충 — 남성형 헤어와 은빛 왕관 정면."
           },
           "caption": {
             "en": "Global hair and accessory preview. The pictured clothing is not confirmed as part of the set.",
@@ -17819,7 +17950,7 @@
           "reusePermission": "unknown",
           "alt": {
             "en": "Bane of Life — female hairstyle, crescent crown and branching ornaments from behind.",
-            "ko": "무생고 — 여성형 헤어·초승달 왕관·뻗은 장식의 뒷모습."
+            "ko": "무생의 독충 — 여성형 헤어·초승달 왕관·뻗은 장식의 뒷모습."
           },
           "caption": {
             "en": "Global hair and accessory preview. The pictured clothing is not confirmed as part of the set.",
@@ -17833,7 +17964,7 @@
           "reusePermission": "unknown",
           "alt": {
             "en": "Bane of Life — male hairstyle and silver ornaments from behind.",
-            "ko": "무생고 — 남성형 헤어와 은빛 장식의 뒷모습."
+            "ko": "무생의 독충 — 남성형 헤어와 은빛 장식의 뒷모습."
           },
           "caption": {
             "en": "Global hair and accessory preview. The pictured clothing is not confirmed as part of the set.",
@@ -17852,14 +17983,16 @@
         "Bane of Life",
         "무생고",
         "헤어 장신구 세트",
-        "Hairstyle & Accessory Set"
+        "Hairstyle & Accessory Set",
+        "wu sheng gu",
+        "무생의 독충"
       ],
       "secondaryCategories": [
         "hair"
       ],
       "namingNote": {
-        "en": "Hairstyle and accessory set. The Korean title is an editorial reading of the CN name.",
-        "ko": "헤어·장신구 세트입니다. 한국어 표기는 중국 원명을 읽은 비공식 이름입니다."
+        "en": "English and Korean official names are from the September 14 Global appearance overview. The CN identity is matched by appearance; the older CN reading remains searchable.",
+        "ko": "9월 14일 글로벌 공식 외관 공지의 영문·한국어 명칭입니다. 중국 외관은 이미지 대조로 연결했으며 기존 중국명 독음도 검색할 수 있습니다."
       },
       "mediaKind": "official"
     },
@@ -22342,8 +22475,8 @@
       "sourceId": "cn-e57fb033761b",
       "acquisitionServer": "CN",
       "mediaServer": "CN",
-      "officialNameEn": null,
-      "officialNameKo": null,
+      "officialNameEn": "Shattered Asura",
+      "officialNameKo": "봄빛 호리병",
       "cnRelease": {
         "date": null,
         "precision": "unknown",
@@ -22393,6 +22526,16 @@
         "status": "unknown",
         "officialName": null,
         "releaseDate": null
+      },
+      "searchAliases": [
+        "碎面修罗",
+        "sui mian xiu luo",
+        "Shattered Asura",
+        "봄빛 호리병"
+      ],
+      "namingNote": {
+        "en": "English and Korean official names are from the September 14 Global appearance overview. The CN identity is matched by appearance; the older CN reading remains searchable.",
+        "ko": "9월 14일 글로벌 공식 외관 공지의 영문·한국어 명칭입니다. 중국 외관은 이미지 대조로 연결했으며 기존 중국명 독음도 검색할 수 있습니다."
       }
     },
     {
@@ -22403,8 +22546,8 @@
       "sourceId": "cn-e57fb033761b",
       "acquisitionServer": "CN",
       "mediaServer": "CN",
-      "officialNameEn": null,
-      "officialNameKo": null,
+      "officialNameEn": "Blossom Flutter",
+      "officialNameKo": "꽃에 머문 나비",
       "cnRelease": {
         "date": null,
         "precision": "unknown",
@@ -22454,6 +22597,16 @@
         "status": "unknown",
         "officialName": null,
         "releaseDate": null
+      },
+      "searchAliases": [
+        "蝶栖芳",
+        "die qi fang",
+        "Blossom Flutter",
+        "꽃에 머문 나비"
+      ],
+      "namingNote": {
+        "en": "English and Korean official names are from the September 14 Global appearance overview. The CN identity is matched by appearance; the older CN reading remains searchable.",
+        "ko": "9월 14일 글로벌 공식 외관 공지의 영문·한국어 명칭입니다. 중국 외관은 이미지 대조로 연결했으며 기존 중국명 독음도 검색할 수 있습니다."
       }
     },
     {

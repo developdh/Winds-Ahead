@@ -545,7 +545,7 @@ function Catalog({
       </div>
       <div className="archive-caption">
         <span role="status">
-          {items.length} {t("appearance records", "개의 외관 기록")}
+          {items.length} {t(items.length === 1 ? "appearance record" : "appearance records", "개의 외관 기록")}
         </span>
         <ArchiveControls l={l} server={server} acquisition={acquisition} sort={sort} onServer={value => update(query, category, value)} onAcquisition={value => update(query, category, server, sort, value)} onSort={value => update(query, category, server, value)} />
       </div>
