@@ -22,6 +22,7 @@ See [GitHub-hosted runners](https://docs.github.com/en/actions/concepts/runners/
 5. Independently validate evidence references, date precision, regional scope, translations, duplicate IDs, and preservation of official records. Format validation does not replace factual verification.
 6. Create an English PR or update the existing refresh PR only when content changes. Preserve prior forecasts and reasons. No changes means no PR.
 7. Initially publish through reviewed merge and deployment. Automatic merging has not been selected and remains off unless separately requested. AI evidence ratings do not create official-confirmation badges.
+8. For each completed content update, publish a versioned GitHub release with English/Korean notes following [the release procedure](releasing.md). A check with no content changes creates neither a version bump nor a release; an open PR is not a completed release.
 
 [Responses API web search](https://developers.openai.com/api/docs/guides/tools-web-search) supports domain restrictions and source lists; inspect retrieved originals as part of the workflow. Use [Structured Outputs](https://developers.openai.com/api/docs/guides/structured-outputs) for the result format, not as a guarantee of factual correctness.
 

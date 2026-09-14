@@ -22,6 +22,7 @@ GitHub 실행 환경은 [GitHub-hosted runners](https://docs.github.com/en/actio
 5. 별도 검증기가 출처 연결, 날짜 정밀도, 서버 범위, 번역, 중복 ID, 기존 공식 기록 훼손 여부를 확인합니다. 형식 검증 통과가 사실 확인을 대신하지 않습니다.
 6. 실제 변경이 있으면 영어 PR을 생성하거나 기존 갱신 PR에 반영합니다. 이전 예상을 보존하고 변경 사유를 기록합니다. 변화가 없으면 PR을 만들지 않습니다.
 7. 초기 게시 흐름은 검토 후 병합·배포입니다. 자동 병합은 선택된 정책이 아니며 별도 요청 전까지 켜지 않습니다. AI의 근거 평가는 공식 확정 배지를 만들지 않습니다.
+8. 콘텐츠 업데이트를 완료할 때마다 [릴리스 절차](releasing.md)에 따라 버전과 영어·한국어 노트를 갖춘 GitHub 릴리스를 발행합니다. 변경 없는 점검은 버전을 올리거나 릴리스를 만들지 않으며, 열린 PR은 완료된 릴리스가 아닙니다.
 
 [Responses API 웹 검색](https://developers.openai.com/api/docs/guides/tools-web-search)은 조사 도메인 제한과 출처 목록을 지원합니다. 이를 활용하되 가져온 원문을 확인하는 절차를 둡니다. [Structured Outputs](https://developers.openai.com/api/docs/guides/structured-outputs)는 결과 형식을 맞추는 데 사용하며 내용의 진실성을 보장하는 수단으로 취급하지 않습니다.
 

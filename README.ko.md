@@ -10,6 +10,8 @@
 
 로그인 없이 무료로 이용할 수 있습니다. PC와 모바일을 지원합니다.
 
+### [최신 릴리스](https://github.com/developdh/Winds-Ahead/releases/latest) · [전체 업데이트 기록](https://github.com/developdh/Winds-Ahead/releases)
+
 ### [프로젝트에 기여하기](CONTRIBUTING.ko.md) · [버그·정보 수정 제보](https://github.com/developdh/Winds-Ahead/issues/new/choose)
 
 ---
@@ -84,7 +86,7 @@ React·TypeScript, vinext/Vite의 Next.js API, Tailwind CSS와 Cloudflare Worker
 | `docs/en/`, `docs/ko/` | 한영 기획·관리·출시 문서 |
 | `docs/research/` | 출처 기록과 검토한 정정 내역 |
 
-[콘텐츠 안내](docs/ko/content-model.md) · [디자인 원칙](docs/ko/design-quality.md) · [캘린더 관리](docs/ko/calendar-automation.md)
+[콘텐츠 안내](docs/ko/content-model.md) · [디자인 원칙](docs/ko/design-quality.md) · [캘린더 관리](docs/ko/calendar-automation.md) · [릴리스 발행](docs/ko/releasing.md)
 
 </details>
 

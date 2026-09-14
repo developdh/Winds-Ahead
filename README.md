@@ -10,6 +10,8 @@ A bilingual **Where Winds Meet cosmetic archive and release roadmap**. Browse ph
 
 Free to browse. No sign-in required. Available on desktop and mobile.
 
+### [Latest release](https://github.com/developdh/Winds-Ahead/releases/latest) · [Release history](https://github.com/developdh/Winds-Ahead/releases)
+
 ### [Contribute](CONTRIBUTING.md) · [Report a bug or correction](https://github.com/developdh/Winds-Ahead/issues/new/choose)
 
 ---
@@ -84,7 +86,7 @@ Never commit credentials, account details, private screenshots or copyrighted ma
 | `docs/en/`, `docs/ko/` | Paired product, maintenance and release documentation |
 | `docs/research/` | Source snapshots and reviewed corrections |
 
-[Content guide](docs/en/content-model.md) · [Design principles](docs/en/design-quality.md) · [Calendar maintenance](docs/en/calendar-automation.md)
+[Content guide](docs/en/content-model.md) · [Design principles](docs/en/design-quality.md) · [Calendar maintenance](docs/en/calendar-automation.md) · [Publishing releases](docs/en/releasing.md)
 
 </details>
 
