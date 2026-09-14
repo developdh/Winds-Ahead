@@ -408,7 +408,7 @@ test('forecasts retain precision, latest revisions and review expiry; official e
 });
 
 import { upcomingEntries } from '../lib/roadmap-domain.mjs';
-test('roadmap prioritizes official announcements, includes unverified past announcements, and removes stale estimates', () => {
+test('roadmap prioritizes official announcements, hides elapsed announcements, and removes stale estimates', () => {
   const f={...fixture,id:'f',cosmeticId:'fan',precision:'window',month:undefined,start:'2026-09-16',end:'2026-10-31',reviewDue:'2026-09-16'};
   const official={id:'announcement',cosmeticId:'pass',kind:'release',status:'announced',date:'2026-09-16'};
   const today='2026-09-13';
@@ -421,8 +421,15 @@ test('roadmap prioritizes official announcements, includes unverified past annou
   assert.equal(upcomingEntries([{...official,cosmeticId:'fan'}],[f],today).length,1);
   assert.equal(upcomingEntries([{...official,status:'cancelled'}],[f],today).length,1);
   assert.equal(upcomingEntries([{...official,status:'released',date:today}],[],today).length,0);
-  assert.equal(upcomingEntries([official],[f],'2026-09-17')[0].event.status,'announced');
-  assert.equal(upcomingEntries([official],[f],'2026-09-17').length,1);
+  assert.equal(upcomingEntries([official],[],'2026-09-16').length,1);
+  assert.equal(upcomingEntries([official],[f],'2026-09-17').length,0);
+  assert.equal(upcomingEntries([official],[f],'2026-09-17','official').length,0);
+  assert.equal(official.status,'announced');
+  assert.equal(official.date,'2026-09-16');
+  const currentEstimate={...f,cosmeticId:official.cosmeticId,reviewDue:'2026-12-01'};
+  assert.equal(upcomingEntries([official],[currentEstimate],'2026-09-17').length,0);
+  assert.equal(upcomingEntries([official],[currentEstimate],'2026-09-17','forecast').length,0);
+  assert.equal(upcomingEntries([{...official,kind:'rerun'}],[],'2026-09-17').length,0);
   assert.equal(upcomingEntries([],[f,{...f,revision:2,state:'superseded'}],today).length,0);
 });
 test('a rerun does not suppress an unreleased forecast and version estimates have no manufactured day', () => {
