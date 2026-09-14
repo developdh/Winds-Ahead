@@ -1,5 +1,10 @@
 import terminology from '@/content/terminology.json';
 import type { Cosmetic, Locale } from '@/lib/catalog';
+import { regionalRecord } from '@/lib/regional-status';
+import { selectAcquisition } from '@/lib/acquisition-domain.mjs';
+export function archiveAcquisition(c: Cosmetic, server = 'all', method = 'all') {
+  return selectAcquisition(c, regionalRecord(c, 'CN'), regionalRecord(c, 'Global'), server, method);
+}
 export const currencyNames: Record<string, { en: string; ko: string }> = terminology.currencies;
 export function currencyName(original: string | null, locale: Locale) {
   return original ? currencyNames[original]?.[locale] ?? original : null;

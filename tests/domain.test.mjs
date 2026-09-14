@@ -273,6 +273,15 @@ test('draws and paid passes do not acquire invented fixed cosmetic prices', () =
     assert.equal(acquisitionSchema.safeParse({...a, pricing: 'fixed', amount: 1}).success, false);
   }
 });
+test('a confirmed draw can retain an unknown currency with explicit source context', () => {
+  const a=read('regional-records.json').records.find(r=>r.cosmeticId==='wu-sheng-gu' && r.server==='Global').acquisition;
+  assert.equal(a.kind,'limited_draw');
+  assert.equal(a.currencyOriginal,null);
+  assert.ok(acquisitionSchema.safeParse(a).success);
+  assert.equal(acquisitionMethod(a),'resonance');
+  assert.equal(acquisitionSchema.safeParse({...a,conditions:null}).success,false);
+  assert.equal(acquisitionSchema.safeParse({...a,amount:1}).success,false);
+});
 test('limited discounts retain a larger regular price', () => {
   const a = research.cosmetics.find(c => c.id === 'xuanying-lianchen-buran').acquisition;
   assert.equal(a.amount, 2); assert.equal(a.regularAmount, 3);
@@ -315,6 +324,54 @@ test("free rewards need a documented reward method rather than an unknown price"
 // Archive ordering and countdown fixtures never become published schedules.
 import { daysUntil, globalOutlook, sortArchive, validSort, validServer } from '../lib/archive-domain.mjs';
 import { releaseState, matchesReleaseFilter } from '../lib/regional-domain.mjs';
+import { acquisitionMethod, selectAcquisition, validAcquisition } from '../lib/acquisition-domain.mjs';
+test('acquisition filters distinguish direct sales, reward currencies and unknown terms', () => {
+  const terms = (kind, currencyOriginal = null) => ({kind,currencyOriginal,location:{original:'unknown'}});
+  assert.equal(acquisitionMethod(terms('shop','八音窍')),'shop');
+  assert.equal(acquisitionMethod(terms('exchange_shop','八音窍')),'resonance');
+  assert.equal(acquisitionMethod(terms('exchange_shop','Harmonic Core')),'resonance');
+  assert.equal(acquisitionMethod(terms('exchange','音玉')),'sound-jade');
+  assert.equal(acquisitionMethod(terms('exchange_shop','Sound Jade')),'sound-jade');
+  assert.equal(acquisitionMethod(terms('exchange_shop')),'exchange');
+  assert.equal(acquisitionMethod(terms('battle_pass')),'battle-pass');
+  assert.equal(acquisitionMethod(terms('quest')),'gameplay');
+  assert.equal(acquisitionMethod(terms('event')),'event');
+  assert.equal(acquisitionMethod({...terms('unknown'),location:{original:'Battle Pass'}}),'unknown');
+  for (const invalid of [null,undefined,'__proto__','constructor','price']) assert.equal(validAcquisition(invalid),'all');
+});
+test('acquisition filters and card terms use the same server without a cross-region fallback', () => {
+  const shop={kind:'shop',currencyOriginal:'长鸣珠',location:{original:'商店'},amount:1280};
+  const pass={kind:'battle_pass',currencyOriginal:null,location:{original:'Battle Pass'},amount:null};
+  const c={acquisitionServer:'CN',acquisition:shop};
+  const global={acquisition:pass};
+  assert.equal(selectAcquisition(c,null,global,'all','battle-pass').server,'Global');
+  assert.equal(selectAcquisition(c,null,global,'all','shop').acquisition,shop);
+  assert.equal(selectAcquisition(c,null,global,'global','shop'),null);
+  assert.equal(selectAcquisition(c,null,global,'cn','battle-pass'),null);
+  assert.equal(selectAcquisition(c,null,null,'global','shop'),null);
+  assert.deepEqual(selectAcquisition(c,null,null,'global','unknown'),{server:'Global',acquisition:null});
+  assert.equal(selectAcquisition(c,null,null,'all','unknown'),null);
+  assert.equal(selectAcquisition(c,null,global,'global-upcoming','battle-pass').acquisition,pass);
+  assert.equal(selectAcquisition(c,null,global,'cn-upcoming','shop').acquisition,shop);
+  const globalOnly={acquisitionServer:'Global',acquisition:pass};
+  assert.equal(selectAcquisition(globalOnly,null,null,'cn','battle-pass'),null);
+  assert.equal(selectAcquisition(globalOnly,null,null,'all','battle-pass').server,'Global');
+});
+test('Forged in Fire no longer inherits the unrelated CN red-cloth outfit', () => {
+  const cn=research.cosmetics.find(c=>c.id==='yan-juan-can-ye');
+  const global=research.cosmetics.find(c=>c.id==='global-forged-in-fire');
+  assert.equal(cn.nameOriginal,'焰卷残夜');
+  assert.equal(cn.officialNameEn,null);
+  assert.equal(global.officialNameKo,'불길에 단련된 철골');
+  assert.equal(global.acquisitionServer,'Global');
+  assert.equal(global.cnRelease.date,null);
+  assert.equal(cn.images.length,1);
+  assert.equal(global.images.length,1);
+  assert.notEqual(cn.images[0].url,global.images[0].url);
+  assert.equal(read('regional-records.json').records.some(r=>r.cosmeticId===cn.id && r.server==='Global'),false);
+  assert.equal(read('global-events.json').events.some(e=>e.cosmeticId===global.id),true);
+  for (const c of [cn,global]) assert.equal(media.find(m=>m.cosmeticId===c.id).originalUrl,c.images[0].url);
+});
 test('regional release status distinguishes future, unknown, and overdue evidence', () => {
   const today = '2026-09-13';
   const future = {status:'announced',releaseDate:'2026-09-16'};

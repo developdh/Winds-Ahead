@@ -84,14 +84,14 @@
     }
   },
   "ru-shi-yuan": {
-    "koName": "여시원",
+    "koName": "천수관음",
     "description": {
       "en": "Blue and gold, lotus ornaments and translucent silk.",
       "ko": "청금빛 연꽃 장식과 투명한 비단."
     }
   },
   "ying-kong": {
-    "koName": "영공",
+    "koName": "허공의 물결",
     "description": {
       "en": "White hair crowned with delicate gold ornaments.",
       "ko": "섬세한 금빛 관을 얹은 백색 머리."
@@ -133,7 +133,7 @@
     }
   },
   "zhen-han-liu": {
-    "koName": "침한류",
+    "koName": "찬 물결",
     "description": {
       "en": "Ink-white robes with blue irises.",
       "ko": "푸른 붓꽃으로 장식한 먹빛과 흰색 도포."
@@ -1036,14 +1036,14 @@
     }
   },
   "wan-laixue-zhi-feng": {
-    "koName": "万籁·雪知风",
+    "koName": "만물의 소리-눈꽃의 선율",
     "description": {
       "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
       "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
     }
   },
   "wan-laifeng-fu-xue": {
-    "koName": "万籁·风拂雪",
+    "koName": "만물의 소리-바람의 눈꽃",
     "description": {
       "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
       "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
@@ -1386,7 +1386,7 @@
     }
   },
   "wu-sheng-gu": {
-    "koName": "무생고",
+    "koName": "무생의 독충",
     "description": {
       "en": "A hairstyle and accessory set announced for Global on September 16 after the update (UTC). The CN edition includes dyeable hair, a hat, effect accessories, a face accessory and an animated avatar. Global pricing and individual included rewards have not yet been verified.",
       "ko": "9월 16일 업데이트 후(UTC) 글로벌 출시 예정인 헤어·장신구 세트입니다. 중국 구성은 염색 가능한 헤어·모자·이펙트 장신구·얼굴 장식·동적 초상화이며, 글로벌의 개별 구성과 가격은 아직 확인 중입니다."
@@ -1883,14 +1883,14 @@
     }
   },
   "sui-mian-xiu-luo": {
-    "koName": "碎面修罗",
+    "koName": "봄빛 호리병",
     "description": {
       "en": "Companion cosmetic for a pet, not an outfit worn by the player character. See the CN shop conditions.",
       "ko": "주인공 의상이 아닌 반려 동물용 외관입니다. 중국 상점의 획득 조건을 확인하세요."
     }
   },
   "die-qi-fang": {
-    "koName": "蝶栖芳",
+    "koName": "꽃에 머문 나비",
     "description": {
       "en": "Companion cosmetic for a pet, not an outfit worn by the player character. See the CN shop conditions.",
       "ko": "주인공 의상이 아닌 반려 동물용 외관입니다. 중국 상점의 획득 조건을 확인하세요."
@@ -4792,6 +4792,13 @@
     "description": {
       "en": "An animated head accessory offered as a seven-day login reward during the September 9–23 Global event. The gallery uses the official video poster as a still image.",
       "ko": "글로벌 9월 9~23일 이벤트에서 7일 출석으로 받는 움직이는 머리 장신구입니다. 갤러리에는 공식 영상의 표지 이미지를 담았습니다."
+    }
+  },
+  "global-forged-in-fire": {
+    "koName": "불길에 단련된 철골",
+    "description": {
+      "en": "A full-plate outfit with a flame helmet, red scarf and glowing embers, named in the official Global announcement. Acquisition and release details refer to Global only.",
+      "ko": "불꽃 투구와 붉은 목도리, 잔불이 빛나는 전신 갑옷입니다. 글로벌 공식 공지에서 확인했으며 획득·출시 정보는 글로벌 기준입니다."
     }
   }
 }

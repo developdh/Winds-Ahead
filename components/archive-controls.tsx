@@ -1,7 +1,8 @@
 "use client";
-import { ArrowDownUp, ChevronDown, SlidersHorizontal } from 'lucide-react';
+import { ArrowDownUp, ChevronDown, SlidersHorizontal, ShoppingBag } from 'lucide-react';
 import { DropdownMenu, DropdownMenuContent, DropdownMenuLabel, DropdownMenuRadioGroup, DropdownMenuRadioItem, DropdownMenuTrigger } from '@/components/ui/dropdown-menu';
 import type { Locale } from '@/lib/catalog';
+import { acquisitionNames } from '@/lib/acquisition-domain.mjs';
 
 export const sortNames: Record<string, { en: string; ko: string }> = {
   latest: { en: 'Latest releases', ko: '전체 최신 출시순' },
@@ -20,16 +21,18 @@ const serverNames: Record<string, { en: string; ko: string }> = {
   'global-upcoming': { en: 'Global scheduled', ko: '글로벌 출시 예정' },
   pending: { en: 'Release unverified', ko: '출시 확인 중' },
 };
-export default function ArchiveControls({ l, server, sort, onServer, onSort }: {
-  l: Locale; server: string; sort: string; onServer: (value: string) => void; onSort: (value: string) => void;
+export default function ArchiveControls({ l, server, acquisition, sort, onServer, onAcquisition, onSort }: {
+  l: Locale; server: string; acquisition: string; sort: string; onServer: (value: string) => void; onAcquisition: (value: string) => void; onSort: (value: string) => void;
 }) {
   return <div className="archive-controls">{[
-    { label: l === 'ko' ? '출시 서버' : 'Release server', value: server, names: serverNames, change: onServer, Icon: SlidersHorizontal },
-    { label: l === 'ko' ? '정렬' : 'Sort by', value: sort, names: sortNames, change: onSort, Icon: ArrowDownUp },
-  ].map(({ label, value, names, change, Icon }) => <DropdownMenu key={label} modal={false}>
-    <DropdownMenuTrigger asChild><button className="archive-control" aria-label={`${label}: ${names[value][l]}`}><Icon size={15} /><span>{names[value][l]}</span><ChevronDown size={13} /></button></DropdownMenuTrigger>
+    { key: 'server', label: l === 'ko' ? '출시 서버' : 'Release server', value: server, names: serverNames, change: onServer, Icon: SlidersHorizontal },
+    { key: 'acquisition', label: l === 'ko' ? '획득처' : 'How to obtain', value: acquisition, names: acquisitionNames as Record<string, { en: string; ko: string }>, change: onAcquisition, Icon: ShoppingBag },
+    { key: 'sort', label: l === 'ko' ? '정렬' : 'Sort by', value: sort, names: sortNames, change: onSort, Icon: ArrowDownUp },
+  ].map(({ key, label, value, names, change, Icon }) => <DropdownMenu key={key} modal={false}>
+    <DropdownMenuTrigger asChild><button className={`archive-control archive-control-${key}`} data-active={key !== 'sort' && value !== 'all'} title={`${label}: ${names[value][l]}`} aria-label={`${label}: ${names[value][l]}`}><Icon size={15} /><span>{names[value][l]}</span><ChevronDown size={13} /></button></DropdownMenuTrigger>
     <DropdownMenuContent className="archive-menu" align="end" sideOffset={8} collisionPadding={12}>
       <DropdownMenuLabel className="archive-menu-label">{label}</DropdownMenuLabel>
+      {key === 'acquisition' && <p className="archive-menu-hint">{l === 'ko' ? '공지에 기록된 획득처입니다. 현재 판매 여부는 상세에서 확인하세요.' : 'Sources recorded in announcements. Check details for availability.'}</p>}
       <DropdownMenuRadioGroup value={value} onValueChange={change}>
         {Object.entries(names).map(([key, name]) => <DropdownMenuRadioItem key={key} value={key} className="archive-menu-option">{name[l]}</DropdownMenuRadioItem>)}
       </DropdownMenuRadioGroup>
