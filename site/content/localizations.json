@@ -4793,5 +4793,12 @@
       "en": "An animated head accessory offered as a seven-day login reward during the September 9–23 Global event. The gallery uses the official video poster as a still image.",
       "ko": "글로벌 9월 9~23일 이벤트에서 7일 출석으로 받는 움직이는 머리 장신구입니다. 갤러리에는 공식 영상의 표지 이미지를 담았습니다."
     }
+  },
+  "global-forged-in-fire": {
+    "koName": "불길에 단련된 철골",
+    "description": {
+      "en": "A full-plate outfit with a flame helmet, red scarf and glowing embers, named in the official Global announcement. Acquisition and release details refer to Global only.",
+      "ko": "불꽃 투구와 붉은 목도리, 잔불이 빛나는 전신 갑옷입니다. 글로벌 공식 공지에서 확인했으며 획득·출시 정보는 글로벌 기준입니다."
+    }
   }
 }

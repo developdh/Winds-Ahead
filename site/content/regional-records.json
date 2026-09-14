@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "verifiedAt": "2026-09-13",
+  "verifiedAt": "2026-09-14",
   "records": [
     {
       "cosmeticId": "shang-qing-yun",
@@ -6785,14 +6785,14 @@
       "confirmationPending": true
     },
     {
-      "cosmeticId": "yan-juan-can-ye",
+      "cosmeticId": "global-forged-in-fire",
       "server": "Global",
       "status": "released",
       "sourceIds": [
         "global-73654b7bf516",
         "global-daca950e5aa6"
       ],
-      "verifiedAt": "2026-09-13",
+      "verifiedAt": "2026-09-14",
       "releaseDate": "2026-09-03",
       "precision": "day",
       "scope": {
@@ -6800,8 +6800,8 @@
         "ko": "글로벌 공지의 과거 출시일입니다. 시간대는 미표기이며 현재 판매 중이라는 뜻은 아닙니다."
       },
       "identityBasis": {
-        "en": "Editorial identity match from the corresponding named CN and Global artwork; an official cross-region naming table was not supplied.",
-        "ko": "중국·글로벌의 이름이 붙은 공식 이미지를 비교한 동일 외관 판단입니다. 공식 서버 간 명칭 대응표는 제공되지 않았습니다."
+        "en": "The Global EN/Korean posters directly name the flame-helmet armor. The previously linked CN red-cloth outfit 焰卷残夜 is visually different and has been separated.",
+        "ko": "글로벌 한영 공지에서 불꽃 투구 갑옷의 명칭을 직접 확인했습니다. 기존에 연결한 중국의 붉은 천 의상 焰卷残夜와 외형이 달라 분리했습니다."
       },
       "acquisition": {
         "kind": "exchange_shop",
@@ -6816,7 +6816,7 @@
         },
         "conditions": {
           "en": "Global announcement terms. Listing line ends October 15 04:59:59, while removal reminder says December 2 04:59:59. Preserve conflict; both may refer to different draw/shop periods, but not resolved.",
-          "ko": "글로벌 공지의 조건입니다. 한정 판매·할인이 포함될 수 있으며 현재 판매 여부는 별도입니다."
+          "ko": "글로벌 공지의 조건입니다. 판매 기간 표기는 10월 15일 04:59:59까지이나 하단 회수 안내는 12월 2일 04:59:59로 서로 다릅니다. 추첨·상점 기간의 차이인지는 미확인이며 현재 판매 여부도 별도입니다."
         },
         "en": "See the acquisition method and source conditions.",
         "ko": "획득 방법과 출처의 조건을 확인하세요.",

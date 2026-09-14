@@ -17,8 +17,8 @@
   ],
   "events": [
     {
-      "id": "release-global-yan-juan-can-ye",
-      "cosmeticId": "yan-juan-can-ye",
+      "id": "release-global-forged-in-fire",
+      "cosmeticId": "global-forged-in-fire",
       "date": "2026-09-03",
       "precision": "day",
       "server": "Global",
