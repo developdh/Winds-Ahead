@@ -34,7 +34,7 @@ export default function ReleaseTimeline({ l, events, forecasts, today, kind, rel
       const c = findCosmetic((e ?? f)!.cosmeticId)!;
       const picture = imagesOf(c)[0];
       const delta = e ? daysUntil(e.date, today) : null;
-      const status = e?.status === 'released' ? t('Released', '출시 확인') : delta !== null && delta < 0 ? t('Awaiting release check', '출시 여부 확인 중') : t('Officially scheduled', '공식 출시 예정');
+      const status = e?.status === 'released' ? t('Released', '출시 확인') : t('Officially scheduled', '공식 출시 예정');
       return <li className={`timeline-entry ${entry.kind}`} key={e?.id ?? f!.id}>
         <div className="timeline-date">
           <span className="schedule-kind">{official ? <CalendarDays size={15} /> : <Sparkles size={15} />}{official ? status : t('Editorial estimate', '출시 예상')}</span>
