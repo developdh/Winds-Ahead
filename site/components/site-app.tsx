@@ -35,7 +35,8 @@ import { rememberLocale } from "@/lib/language-preference";
 import CosmeticVideos from "@/components/cosmetic-videos";
 import AcquisitionInfo from "@/components/acquisition-info";
 import CosmeticGallery from "@/components/cosmetic-gallery";
-import { acquisitionSummary, currencyName } from "@/lib/acquisition";
+import { acquisitionSummary, archiveAcquisition, currencyName } from "@/lib/acquisition";
+import { validAcquisition } from "@/lib/acquisition-domain.mjs";
 import updateData from "@/content/updates.json";
 import { sources as allSources } from "@/lib/roadmap";
 import { useScrollReveals } from "@/components/motion";
@@ -167,7 +168,7 @@ export default function SiteApp({
   const langUrl = `${path.replace(/^\/(en|ko)(?=\/|$)/, l === "ko" ? "/en" : "/ko")}${params.toString() ? "?" + params.toString() : ""}`;
   const item = itemId ? findCosmetic(itemId) : undefined;
   const backParams = new URLSearchParams();
-  for (const k of ["q", "category", "server", "sort"]) {
+  for (const k of ["q", "category", "server", "acquisition", "sort"]) {
     const v = params.get(k);
     if (v) backParams.set(k, v);
   }
@@ -201,9 +202,9 @@ export default function SiteApp({
     const cnState = regionalState(c, "CN", today), globalState = regionalState(c, "Global", today);
     const released = cnState === "released" || globalState === "released";
     const noRecord = cnState === "unknown" && globalState === "unknown";
-    const globalAcquisition = regionalRecord(c, "Global")?.acquisition;
-    const acquisition = globalAcquisition ?? c.acquisition;
-    const acquisitionServer = globalAcquisition ? "Global" : c.acquisitionServer ?? "CN";
+    const choice = archiveAcquisition(c, validServer(params.get('server')), validAcquisition(params.get('acquisition')));
+    const acquisition = choice?.acquisition;
+    const acquisitionServer = choice?.server ?? c.acquisitionServer ?? "CN";
     return (
       <article
         className="cosmetic-card"
@@ -247,7 +248,7 @@ export default function SiteApp({
             <span className="original-name" lang="zh-Hans" title={c.nameOriginal}>
               {c.nameOriginal}
             </span>
-            {!c.wikiOnly && <span className="card-price" title={`${serverName(acquisitionServer, l)} · ${acquisitionSummary({...c, acquisition}, l)}`}>
+            {!c.wikiOnly && acquisition && <span className="card-price" title={`${serverName(acquisitionServer, l)} · ${acquisitionSummary({...c, acquisition}, l)}`}>
               {c.wikiOnly ? t('Wiki reference', '위키 참고') : acquisition.pricing === 'fixed' ? <>
                 <span className="card-price-amount">{acquisition.amount!.toLocaleString(l === 'ko' ? 'ko-KR' : 'en-US')}</span>
                 <span>{currencyName(acquisition.currencyOriginal, l)}</span>
@@ -255,8 +256,8 @@ export default function SiteApp({
             </span>}
           </div>
           <div className="card-meta">
-            <span className="card-location" title={`${serverName(acquisitionServer, l)} · ${acquisition.location[l]}`}>
-              {c.wikiOnly ? t("Wiki reference", "위키 참고") : acquisition.location[l]}
+            <span className="card-location" title={`${serverName(acquisitionServer, l)} · ${acquisition?.location[l] ?? t('Source unverified', '획득처 확인 중')}`}>
+              {c.wikiOnly ? t("Wiki reference", "위키 참고") : acquisition?.location[l] ?? t('Source unverified', '획득처 확인 중')}
             </span>
             {(released || noRecord) && <span className={`card-release${noRecord ? ' unverified' : ''}`} title={noRecord ? t("No verified regional release record yet.", "서버별 출시 근거가 아직 확인되지 않았습니다.") : t("Verified release servers; current shop availability may differ.", "출시 확인 서버이며 현재 판매 여부와 다를 수 있습니다.")}>
               {cnState === "released" && globalState === "released" ? t("CN + Global released", "중국·글로벌 출시") : globalState === "released" ? t("Global released", "글로벌 출시") : cnState === "released" ? t("China released", "중국 출시") : t("Unverified", "출시 확인 중")}
@@ -423,6 +424,7 @@ function Catalog({
   const [sort, setSort] = useState(validSort(params.get("sort")));
   const [visibleCount, setVisibleCount] = useState(24);
   const [server, setServer] = useState(validServer(params.get("server")));
+  const [acquisition, setAcquisition] = useState(validAcquisition(params.get("acquisition")));
   const initial = params.get("category") ?? "all";
   const [category, setCategory] = useState(
     initial in categoryNames ? initial : "all",
@@ -430,6 +432,7 @@ function Catalog({
   useEffect(() => {
     setQuery(params.get("q") ?? "");
     setSort(validSort(params.get("sort")));
+    setAcquisition(validAcquisition(params.get("acquisition")));
     const s = params.get("server") ?? "all";
     setServer(validServer(s));
     if (s === "both") {
@@ -440,17 +443,19 @@ function Catalog({
     const c = params.get("category") ?? "all";
     setCategory(c in categoryNames ? c : "all");
   }, [params]);
-  useEffect(() => { setVisibleCount(24); }, [query, category, server, sort, view]);
-  function update(q: string, c: string, region = server, order = sort) {
+  useEffect(() => { setVisibleCount(24); }, [query, category, server, acquisition, sort, view]);
+  function update(q: string, c: string, region = server, order = sort, method = acquisition) {
     setQuery(q);
     setCategory(c);
     setServer(region);
     setSort(order);
+    setAcquisition(method);
     const p = new URLSearchParams(window.location.search);
     q ? p.set("q", q) : p.delete("q");
     c !== "all" ? p.set("category", c) : p.delete("category");
     region !== "all" ? p.set("server", region) : p.delete("server");
     order !== "latest" ? p.set("sort", order) : p.delete("sort");
+    method !== "all" ? p.set("acquisition", method) : p.delete("acquisition");
     history.replaceState(
       null,
       "",
@@ -459,7 +464,7 @@ function Catalog({
   }
   const items = useMemo(() => {
     const matches = searchCosmetics(query, category)
-      .filter(c => (view !== "watchlist" || saved.includes(c.id)) && matchesServer(c, server, today));
+      .filter(c => (view !== "watchlist" || saved.includes(c.id)) && matchesServer(c, server, today) && archiveAcquisition(c, server, acquisition));
     const rows = matches.map(c => ({ id: c.id, name: nameOf(c, l),
       cnDate: releasedOn(c, "CN", today) ? regionalRecord(c, "CN")?.releaseDate ?? null : null,
       globalDate: releasedOn(c, "Global", today) ? regionalRecord(c, "Global")?.releaseDate ?? null : null,
@@ -467,7 +472,7 @@ function Catalog({
     }));
     const byId = new Map(matches.map(c => [c.id, c]));
     return sortArchive(rows, sort, l).map(row => byId.get(row.id)!);
-  }, [query, category, server, sort, view, saved, today, l]);
+  }, [query, category, server, acquisition, sort, view, saved, today, l]);
   return (
     <>
       <div className="page-heading catalog-intro">
@@ -540,9 +545,9 @@ function Catalog({
       </div>
       <div className="archive-caption">
         <span role="status">
-          {items.length} {t("appearance records", "개의 외관 기록")}
+          {items.length} {t(items.length === 1 ? "appearance record" : "appearance records", "개의 외관 기록")}
         </span>
-        <ArchiveControls l={l} server={server} sort={sort} onServer={value => update(query, category, value)} onSort={value => update(query, category, server, value)} />
+        <ArchiveControls l={l} server={server} acquisition={acquisition} sort={sort} onServer={value => update(query, category, value)} onAcquisition={value => update(query, category, server, sort, value)} onSort={value => update(query, category, server, value)} />
       </div>
       {view === "watchlist" && !ready ? (
         <div className="empty-state" role="status">
@@ -550,7 +555,7 @@ function Catalog({
         </div>
       ) : items.length ? (
         <>
-          <div className="cosmetic-grid" key={`${category}:${server}:${sort}`}>
+          <div className="cosmetic-grid" key={`${category}:${server}:${acquisition}:${sort}`}>
             {items.slice(0, visibleCount).map(card)}
           </div>
           {items.length > visibleCount && <div className="archive-more"><button className="text-link" onClick={() => setVisibleCount(n => n + 24)}>{t("Show more", "더 보기")} · {visibleCount} / {items.length}</button></div>}
@@ -559,7 +564,7 @@ function Catalog({
         <div className="empty-state">
           <Bookmark size={30} />
           <h2>
-            {query || category !== "all" || server !== "all"
+            {query || category !== "all" || server !== "all" || acquisition !== "all"
               ? t("No matching cosmetics", "일치하는 외관이 없어요")
               : t(
                   "A place for your next favorites",
@@ -567,7 +572,7 @@ function Catalog({
                 )}
           </h2>
           <p>
-            {query || category !== "all" || server !== "all"
+            {query || category !== "all" || server !== "all" || acquisition !== "all"
               ? t(
                   "Try a different name or clear your filters.",
                   "다른 이름을 검색하거나 필터를 초기화하세요.",
@@ -577,10 +582,10 @@ function Catalog({
                   "외관 카드의 책갈피를 누르면 여기에 저장됩니다.",
                 )}
           </p>
-          {query || category !== "all" || server !== "all" ? (
+          {query || category !== "all" || server !== "all" || acquisition !== "all" ? (
             <button
               className="outline-button"
-              onClick={() => update("", "all", "all")}
+              onClick={() => update("", "all", "all", sort, "all")}
             >
               {t("Reset filters", "필터 초기화")}
             </button>

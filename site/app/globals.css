@@ -5656,6 +5656,9 @@ body {
 .archive-controls { display: flex; align-items: center; gap: 4px 16px; flex-wrap: wrap; }
 .archive-control { display: inline-flex; align-items: center; gap: 8px; min-height: 44px; padding: 6px 0; border: 0; background: none; color: #b8bec4; font-size: 13px; font-weight: 400; }
 .archive-control > svg { flex-shrink: 0; color: #8c949d; }
+.archive-control[data-active="true"] { color: #bdd6c5; }
+.archive-control > span { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.archive-menu-hint { max-width: 245px; margin: -3px 12px 10px; color: #9ba5ae; font-size: 12px; line-height: 1.6; }
 .archive-control:hover, .archive-control[data-state="open"] { color: #f1f3f4; }
 .archive-control[data-state="open"] > svg:last-child { rotate: 180deg; }
 .archive-menu[data-slot="dropdown-menu-content"] { min-width: 234px; max-width: calc(100vw - 24px); padding: 8px; border-radius: 16px; border-color: #ffffff18; background: #1d2125; box-shadow: 0 18px 54px #0007; color: #d9dee3; font-family: var(--font-sans); }
@@ -5673,10 +5676,13 @@ body {
 .release-outlook.forecast { color: #d6b780; }
 .release-outlook.pending, .card-release.unverified, .regional-state.pending { color: #a4adb7; }
 @media (max-width: 700px) {
-  .archive-caption { align-items: center; margin-bottom: 16px; }
-  .archive-caption > span:first-child { padding: 0; }
-  .archive-controls { width: 100%; justify-content: space-between; gap: 0 12px; }
-  .archive-control { font-size: 12px; gap: 6px; }
+  .archive-caption { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); align-items: center; gap: 0 16px; margin-bottom: 16px; }
+  .archive-caption > span:first-child { display: block; grid-column: 1; grid-row: 1; padding: 0; }
+  .archive-controls { display: contents; }
+  .archive-control { min-width: 0; max-width: 100%; font-size: 12px; gap: 6px; }
+  .archive-control-sort { grid-column: 2; grid-row: 1; justify-self: end; }
+  .archive-control-server { grid-column: 1; grid-row: 2; }
+  .archive-control-acquisition { grid-column: 2; grid-row: 2; justify-self: end; }
   .cosmetic-dialog[data-slot="dialog-content"] { top: max(12px, env(safe-area-inset-top)); bottom: 0; left: 0; width: 100%; translate: none; border-radius: 20px 20px 0 0; border-bottom: 0; }
   .quick-view-bar { padding: 6px 10px 6px 22px; min-height: 56px; }
   .cosmetic-dialog .detail-image { height: 52dvh; min-height: 240px; }

@@ -30,7 +30,7 @@ export const acquisitionSchema = bilingual.extend({
   if (a.pricing === "unknown" && !a.conditions) bad("Unknown amounts require source context");
   if (a.pricing === "fixed" && (a.amount === null || a.currencyOriginal === null)) bad("Fixed costs need a quantity and currency");
   if (a.pricing !== "fixed" && (a.amount !== null || a.regularAmount !== null)) bad("Unverified prices and reward totals must remain null");
-  if (a.pricing === "draw" && a.currencyOriginal === null) bad("Draw rewards need their known draw currency");
+  if (a.pricing === "draw" && a.currencyOriginal === null && !a.conditions) bad("An unknown draw currency requires source context");
   if (a.regularAmount !== null && (a.amount === null || a.regularAmount <= a.amount)) bad("A discount must be below its regular price");
 });
 const sourceSchema = z

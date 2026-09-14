@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "verifiedAt": "2026-09-13",
+  "verifiedAt": "2026-09-14",
   "records": [
     {
       "cosmeticId": "shang-qing-yun",
@@ -6785,14 +6785,14 @@
       "confirmationPending": true
     },
     {
-      "cosmeticId": "yan-juan-can-ye",
+      "cosmeticId": "global-forged-in-fire",
       "server": "Global",
       "status": "released",
       "sourceIds": [
         "global-73654b7bf516",
         "global-daca950e5aa6"
       ],
-      "verifiedAt": "2026-09-13",
+      "verifiedAt": "2026-09-14",
       "releaseDate": "2026-09-03",
       "precision": "day",
       "scope": {
@@ -6800,8 +6800,8 @@
         "ko": "글로벌 공지의 과거 출시일입니다. 시간대는 미표기이며 현재 판매 중이라는 뜻은 아닙니다."
       },
       "identityBasis": {
-        "en": "Editorial identity match from the corresponding named CN and Global artwork; an official cross-region naming table was not supplied.",
-        "ko": "중국·글로벌의 이름이 붙은 공식 이미지를 비교한 동일 외관 판단입니다. 공식 서버 간 명칭 대응표는 제공되지 않았습니다."
+        "en": "The Global EN/Korean posters directly name the flame-helmet armor. The previously linked CN red-cloth outfit 焰卷残夜 is visually different and has been separated.",
+        "ko": "글로벌 한영 공지에서 불꽃 투구 갑옷의 명칭을 직접 확인했습니다. 기존에 연결한 중국의 붉은 천 의상 焰卷残夜와 외형이 달라 분리했습니다."
       },
       "acquisition": {
         "kind": "exchange_shop",
@@ -6816,7 +6816,7 @@
         },
         "conditions": {
           "en": "Global announcement terms. Listing line ends October 15 04:59:59, while removal reminder says December 2 04:59:59. Preserve conflict; both may refer to different draw/shop periods, but not resolved.",
-          "ko": "글로벌 공지의 조건입니다. 한정 판매·할인이 포함될 수 있으며 현재 판매 여부는 별도입니다."
+          "ko": "글로벌 공지의 조건입니다. 판매 기간 표기는 10월 15일 04:59:59까지이나 하단 회수 안내는 12월 2일 04:59:59로 서로 다릅니다. 추첨·상점 기간의 차이인지는 미확인이며 현재 판매 여부도 별도입니다."
         },
         "en": "See the acquisition method and source conditions.",
         "ko": "획득 방법과 출처의 조건을 확인하세요.",
@@ -12889,17 +12889,19 @@
       "status": "announced",
       "releaseDate": "2026-09-16",
       "precision": "day",
-      "verifiedAt": "2026-09-13",
+      "verifiedAt": "2026-09-14",
       "sourceIds": [
-        "global-20260911-chilled-current"
+        "global-20260911-chilled-current",
+        "global-20260914-appearance-en",
+        "global-20260914-appearance-ko"
       ],
       "scope": {
-        "en": "After the September 16 update (UTC, official poster); exact opening hour not stated. Pass available until October 15, 04:59 (UTC+8).",
-        "ko": "9월 16일 업데이트 후 (공식 이미지 UTC 기준). 정확한 시작 시각은 미표기. 강호령은 10월 15일 04:59 (UTC+8)까지."
+        "en": "Announced for after the September 16 version update (UTC). Exact opening hour is not stated. English notice ends the listing at October 15, 4:59 (UTC+8). Korean notice says 10월 15일 05:59까지; its timezone is not printed.",
+        "ko": "9월 16일 버전 업데이트 후 (UTC 기준) 출시 예정입니다. 정확한 시작 시각은 미표기입니다. 영문 공지 종료 시각은 October 15, 4:59 (UTC+8)입니다. 한국어 공지는 “10월 15일 05:59까지”로 표기하며 시간대는 명시하지 않았습니다."
       },
       "identityBasis": {
-        "en": "Official CN and Global panels show the same male crown, ink landscape robe and blue iris shoulder/waist details; both identify it as a battle pass outfit. This is a visual and acquisition match, not a translated-name guess.",
-        "ko": "중국·글로벌 공식 이미지의 남성 관, 수묵 산수 도포, 어깨와 허리의 파란 붓꽃 장식을 대조했고 양쪽 모두 강호령 의상임을 확인했습니다. 번역명만으로 연결하지 않았습니다."
+        "en": "Same male silver crown, blue patterned forehead band, ink landscape robe, blue iris shoulder/waist ornaments, tassels and lakeside scene.",
+        "ko": "글로벌 공식 공지의 찬 물결 이미지와 중국 공식 枕寒流 이미지의 외형·장식·구도를 대조해 연결했습니다. 번역명의 의미만으로 대응하지 않았습니다."
       },
       "acquisition": {
         "kind": "battle_pass",
@@ -12912,11 +12914,11 @@
           "ko": "강호령",
           "original": "Battle Pass"
         },
-        "en": "Battle Pass reward.",
-        "ko": "강호령 보상.",
+        "en": "Battle Pass.",
+        "ko": "강호령.",
         "conditions": {
-          "en": "The announcement identifies the Battle Pass set; price and required reward level are not stated.",
-          "ko": "공식 공지에서 강호령 의상으로 소개했습니다. 가격과 필요한 보상 레벨은 미표기입니다."
+          "en": "The Global notice does not state a price, currency, or required reward level. CN terms are not applied to Global.",
+          "ko": "글로벌 공지에 가격·통화·필요 보상 레벨은 미표기입니다. 중국 조건을 글로벌에 적용하지 않습니다."
         }
       }
     },
@@ -13044,37 +13046,39 @@
       "cosmeticId": "wu-sheng-gu",
       "server": "Global",
       "status": "announced",
-      "sourceIds": [
-        "global-x-20260912-bane-of-life"
-      ],
-      "verifiedAt": "2026-09-13",
       "releaseDate": "2026-09-16",
       "precision": "day",
+      "verifiedAt": "2026-09-14",
+      "sourceIds": [
+        "global-x-20260912-bane-of-life",
+        "global-20260914-appearance-en",
+        "global-20260914-appearance-ko"
+      ],
       "scope": {
-        "en": "After the September 16 version update (UTC); available until December 15, 2026 at 04:59 (UTC+8). Exact start hour is not stated.",
-        "ko": "9월 16일 업데이트 후(UTC) 출시 예정, 2026년 12월 15일 04:59(UTC+8)까지. 정확한 시작 시각은 미표기입니다."
+        "en": "Announced for after the September 16 version update (UTC). Exact opening hour is not stated. English notice ends the listing at December 15, 4:59 (UTC+8). Korean notice says 12월 15일 05:59까지; its timezone is not printed.",
+        "ko": "9월 16일 버전 업데이트 후 (UTC 기준) 출시 예정입니다. 정확한 시작 시각은 미표기입니다. 영문 공지 종료 시각은 December 15, 4:59 (UTC+8)입니다. 한국어 공지는 “12월 15일 05:59까지”로 표기하며 시간대는 명시하지 않았습니다."
       },
       "identityBasis": {
-        "en": "Matched the named CN and Global official artwork, including identical model, crown and ornaments.",
-        "ko": "이름이 표기된 중국·글로벌 공식 이미지의 모델·왕관·장식을 대조했습니다."
+        "en": "Same white hair, silver insect-like crown, large curving centipede/dragon branches and white/purple butterfly forms as the named CN image.",
+        "ko": "글로벌 공식 공지의 무생의 독충 이미지와 중국 공식 无生蛊 이미지의 외형·장식·구도를 대조해 연결했습니다. 번역명의 의미만으로 대응하지 않았습니다."
       },
       "acquisition": {
-        "kind": "unknown",
-        "pricing": "unknown",
+        "kind": "limited_draw",
+        "pricing": "draw",
         "amount": null,
         "regularAmount": null,
         "currencyOriginal": null,
         "location": {
-          "en": "Draw",
-          "ko": "추첨",
-          "original": "Draw"
+          "en": "Draw Hairstyle & Accessory Set",
+          "ko": "공명 헤어 장신구 세트",
+          "original": "Draw Hairstyle & Accessory Set"
         },
+        "en": "Draw Hairstyle & Accessory Set.",
+        "ko": "공명 헤어 장신구 세트.",
         "conditions": {
-          "en": "Official Global post identifies a Draw set but does not state its currency, price, exchange quantity or individual included rewards. CN costs are not Global prices.",
-          "ko": "글로벌 공지는 추첨 세트라고만 안내하며 재화·가격·교환 수량·개별 구성품은 명시하지 않았습니다. 중국 비용을 글로벌 가격으로 사용하지 않습니다."
-        },
-        "en": "Global Draw announcement; exact terms under review.",
-        "ko": "글로벌 추첨 공지 · 세부 조건 확인 중."
+          "en": "The Global notice does not state a price, currency, or required reward level. CN terms are not applied to Global.",
+          "ko": "글로벌 공지에 가격·통화·필요 보상 레벨은 미표기입니다. 중국 조건을 글로벌에 적용하지 않습니다."
+        }
       }
     },
     {
@@ -13188,6 +13192,236 @@
         },
         "en": "Seven-day login reward.",
         "ko": "7일 출석 보상."
+      }
+    },
+    {
+      "cosmeticId": "ru-shi-yuan",
+      "server": "Global",
+      "status": "announced",
+      "releaseDate": "2026-09-16",
+      "precision": "day",
+      "verifiedAt": "2026-09-14",
+      "sourceIds": [
+        "global-20260914-appearance-en",
+        "global-20260914-appearance-ko",
+        "global-20260914-thousand-mistwreath-x"
+      ],
+      "scope": {
+        "en": "Announced for after the September 16 version update (UTC). Exact opening hour is not stated.",
+        "ko": "9월 16일 버전 업데이트 후 (UTC 기준) 출시 예정입니다. 정확한 시작 시각은 미표기입니다."
+      },
+      "identityBasis": {
+        "en": "Same gold lotus crown with blue central gem, gold jewelry, translucent cream drapes, blue/black garments and character poses as the named CN 如是愿 images.",
+        "ko": "글로벌 공식 공지의 천수관음 이미지와 중국 공식 如是愿 이미지의 외형·장식·구도를 대조해 연결했습니다. 번역명의 의미만으로 대응하지 않았습니다."
+      },
+      "acquisition": {
+        "kind": "shop",
+        "pricing": "unknown",
+        "amount": null,
+        "regularAmount": null,
+        "currencyOriginal": null,
+        "location": {
+          "en": "Shop Appearance",
+          "ko": "상점 외관",
+          "original": "Shop Appearance"
+        },
+        "en": "Shop Appearance.",
+        "ko": "상점 외관.",
+        "conditions": {
+          "en": "The Global notice does not state a price, currency, or required reward level. CN terms are not applied to Global. Separate top/bottom and dye support are announced.",
+          "ko": "글로벌 공지에 가격·통화·필요 보상 레벨은 미표기입니다. 중국 조건을 글로벌에 적용하지 않습니다. 상·하의 분리와 염색 지원이 공지되었습니다."
+        }
+      }
+    },
+    {
+      "cosmeticId": "ying-kong",
+      "server": "Global",
+      "status": "announced",
+      "releaseDate": "2026-09-16",
+      "precision": "day",
+      "verifiedAt": "2026-09-14",
+      "sourceIds": [
+        "global-20260914-appearance-en",
+        "global-20260914-appearance-ko",
+        "global-20260914-thousand-mistwreath-x"
+      ],
+      "scope": {
+        "en": "Announced for after the September 16 version update (UTC). Exact opening hour is not stated. English notice ends the listing at 4:59:59, December 15 (UTC+8). Korean notice says 12월 15일 05:59:59까지; its timezone is not printed.",
+        "ko": "9월 16일 버전 업데이트 후 (UTC 기준) 출시 예정입니다. 정확한 시작 시각은 미표기입니다. 영문 공지 종료 시각은 4:59:59, December 15 (UTC+8)입니다. 한국어 공지는 “12월 15일 05:59:59까지”로 표기하며 시간대는 명시하지 않았습니다."
+      },
+      "identityBasis": {
+        "en": "Same white swept-up hair and high gold lotus crown with blue oval gem; the female image is the same CN 萦空 pose, while the KR composite adds male front/rear views.",
+        "ko": "글로벌 공식 공지의 허공의 물결 이미지와 중국 공식 萦空 이미지의 외형·장식·구도를 대조해 연결했습니다. 번역명의 의미만으로 대응하지 않았습니다."
+      },
+      "acquisition": {
+        "kind": "exchange",
+        "pricing": "unknown",
+        "amount": null,
+        "regularAmount": null,
+        "currencyOriginal": null,
+        "location": {
+          "en": "Draw Shop",
+          "ko": "공명 상점",
+          "original": "Draw Shop"
+        },
+        "en": "Draw Shop.",
+        "ko": "공명 상점.",
+        "conditions": {
+          "en": "The Global notice does not state a price, currency, or required reward level. CN terms are not applied to Global. Limited-time Draw Shop listing.",
+          "ko": "글로벌 공지에 가격·통화·필요 보상 레벨은 미표기입니다. 중국 조건을 글로벌에 적용하지 않습니다. 공명 상점 기간 한정 판매입니다."
+        }
+      }
+    },
+    {
+      "cosmeticId": "wan-laixue-zhi-feng",
+      "server": "Global",
+      "status": "announced",
+      "releaseDate": "2026-09-16",
+      "precision": "day",
+      "verifiedAt": "2026-09-14",
+      "sourceIds": [
+        "global-20260914-appearance-en",
+        "global-20260914-appearance-ko"
+      ],
+      "scope": {
+        "en": "Announced for after the September 16 version update (start timezone unstated). Exact opening hour is not stated.",
+        "ko": "9월 16일 버전 업데이트 후 (시작 시간대 미표기) 출시 예정입니다. 정확한 시작 시각은 미표기입니다."
+      },
+      "identityBasis": {
+        "en": "Same pale umbrella, large blue-white flowers, crystalline pointed rim and chain of snowflakes, including the same frontal canopy composition as the retained CN weapon image.",
+        "ko": "글로벌 공식 공지의 만물의 소리-눈꽃의 선율 이미지와 중국 공식 万籁·雪知风 이미지의 외형·장식·구도를 대조해 연결했습니다. 번역명의 의미만으로 대응하지 않았습니다."
+      },
+      "acquisition": {
+        "kind": "unknown",
+        "pricing": "unknown",
+        "amount": null,
+        "regularAmount": null,
+        "currencyOriginal": null,
+        "location": {
+          "en": "Unverified",
+          "ko": "확인 중",
+          "original": "Unverified"
+        },
+        "en": "Unverified.",
+        "ko": "확인 중.",
+        "conditions": {
+          "en": "The Global notice does not state a price, currency, or required reward level. CN terms are not applied to Global.",
+          "ko": "글로벌 공지에 가격·통화·필요 보상 레벨은 미표기입니다. 중국 조건을 글로벌에 적용하지 않습니다."
+        }
+      }
+    },
+    {
+      "cosmeticId": "wan-laifeng-fu-xue",
+      "server": "Global",
+      "status": "announced",
+      "releaseDate": "2026-09-16",
+      "precision": "day",
+      "verifiedAt": "2026-09-14",
+      "sourceIds": [
+        "global-20260914-appearance-en",
+        "global-20260914-appearance-ko"
+      ],
+      "scope": {
+        "en": "Announced for after the September 16 version update (start timezone unstated). Exact opening hour is not stated.",
+        "ko": "9월 16일 버전 업데이트 후 (시작 시간대 미표기) 출시 예정입니다. 정확한 시작 시각은 미표기입니다."
+      },
+      "identityBasis": {
+        "en": "Same silver fan ribs, blue-white flowers, pointed icy rim and snowflake edging as the CN image; the male holding pose also matches exactly.",
+        "ko": "글로벌 공식 공지의 만물의 소리-바람의 눈꽃 이미지와 중국 공식 万籁·风拂雪 이미지의 외형·장식·구도를 대조해 연결했습니다. 번역명의 의미만으로 대응하지 않았습니다."
+      },
+      "acquisition": {
+        "kind": "unknown",
+        "pricing": "unknown",
+        "amount": null,
+        "regularAmount": null,
+        "currencyOriginal": null,
+        "location": {
+          "en": "Unverified",
+          "ko": "확인 중",
+          "original": "Unverified"
+        },
+        "en": "Unverified.",
+        "ko": "확인 중.",
+        "conditions": {
+          "en": "The Global notice does not state a price, currency, or required reward level. CN terms are not applied to Global.",
+          "ko": "글로벌 공지에 가격·통화·필요 보상 레벨은 미표기입니다. 중국 조건을 글로벌에 적용하지 않습니다."
+        }
+      }
+    },
+    {
+      "cosmeticId": "sui-mian-xiu-luo",
+      "server": "Global",
+      "status": "announced",
+      "releaseDate": "2026-09-16",
+      "precision": "day",
+      "verifiedAt": "2026-09-14",
+      "sourceIds": [
+        "global-20260914-appearance-en",
+        "global-20260914-appearance-ko"
+      ],
+      "scope": {
+        "en": "Announced for after the September 16 version update (start timezone unstated). Exact opening hour is not stated.",
+        "ko": "9월 16일 버전 업데이트 후 (시작 시간대 미표기) 출시 예정입니다. 정확한 시작 시각은 미표기입니다."
+      },
+      "identityBasis": {
+        "en": "The EN and KR notices show the identical combined companion artwork: left cat has the green gourd with gold vines, yellow flute, red knots, white netting and tassels. This matches the existing CN 碎面修罗 image exactly. The striking semantic difference is not used as matching evidence.",
+        "ko": "글로벌 공식 공지의 봄빛 호리병 이미지와 중국 공식 碎面修罗 이미지의 외형·장식·구도를 대조해 연결했습니다. 번역명의 의미만으로 대응하지 않았습니다."
+      },
+      "acquisition": {
+        "kind": "unknown",
+        "pricing": "unknown",
+        "amount": null,
+        "regularAmount": null,
+        "currencyOriginal": null,
+        "location": {
+          "en": "Unverified",
+          "ko": "확인 중",
+          "original": "Unverified"
+        },
+        "en": "Unverified.",
+        "ko": "확인 중.",
+        "conditions": {
+          "en": "The Global notice does not state a price, currency, or required reward level. CN terms are not applied to Global.",
+          "ko": "글로벌 공지에 가격·통화·필요 보상 레벨은 미표기입니다. 중국 조건을 글로벌에 적용하지 않습니다."
+        }
+      }
+    },
+    {
+      "cosmeticId": "die-qi-fang",
+      "server": "Global",
+      "status": "announced",
+      "releaseDate": "2026-09-16",
+      "precision": "day",
+      "verifiedAt": "2026-09-14",
+      "sourceIds": [
+        "global-20260914-appearance-en",
+        "global-20260914-appearance-ko"
+      ],
+      "scope": {
+        "en": "Announced for after the September 16 version update (start timezone unstated). Exact opening hour is not stated.",
+        "ko": "9월 16일 버전 업데이트 후 (시작 시간대 미표기) 출시 예정입니다. 정확한 시작 시각은 미표기입니다."
+      },
+      "identityBasis": {
+        "en": "The right cat in both EN/KR notices has the same large pink bow, gold bell strings, bead chain and purple glass ornament as the existing CN 蝶栖芳 image.",
+        "ko": "글로벌 공식 공지의 꽃에 머문 나비 이미지와 중국 공식 蝶栖芳 이미지의 외형·장식·구도를 대조해 연결했습니다. 번역명의 의미만으로 대응하지 않았습니다."
+      },
+      "acquisition": {
+        "kind": "unknown",
+        "pricing": "unknown",
+        "amount": null,
+        "regularAmount": null,
+        "currencyOriginal": null,
+        "location": {
+          "en": "Unverified",
+          "ko": "확인 중",
+          "original": "Unverified"
+        },
+        "en": "Unverified.",
+        "ko": "확인 중.",
+        "conditions": {
+          "en": "The Global notice does not state a price, currency, or required reward level. CN terms are not applied to Global.",
+          "ko": "글로벌 공지에 가격·통화·필요 보상 레벨은 미표기입니다. 중국 조건을 글로벌에 적용하지 않습니다."
+        }
       }
     }
   ]

@@ -2,6 +2,28 @@
   "schemaVersion": 1,
   "entries": [
     {
+      "id": "global-appearance-20260914",
+      "date": "2026-09-14",
+      "kind": {
+        "en": "Official names and schedule",
+        "ko": "공식 명칭·일정"
+      },
+      "title": {
+        "en": "Eight official names for the September 16 update",
+        "ko": "9월 16일 업데이트 외관 8종의 공식 명칭"
+      },
+      "body": {
+        "en": "Updated eight Korean names, including Chilled Current and Bane of Life, and six English names. Added six Global announcements alongside the two already recorded. Acquisition sources can be filtered separately from sorting. Corrected the mixed identity in Forged in Fire and added three distinct reference photos. Unpublished Global prices remain unknown.",
+        "ko": "찬 물결·무생의 독충 등 8종의 한국어 공식명과 6종의 영문 공식명을 갱신했습니다. 기존 2종에 글로벌 출시 예정 6종을 추가했습니다. 획득처는 정렬과 별도로 고를 수 있으며, 불길에 단련된 철골의 잘못된 외관 연결을 바로잡고 참고 사진 3장을 보강했습니다. 미공개 글로벌 가격은 미정으로 유지합니다."
+      },
+      "sourceIds": [
+        "global-20260914-appearance-en",
+        "global-20260914-appearance-ko",
+        "global-20260914-thousand-mistwreath-x",
+        "global-73654b7bf516"
+      ]
+    },
+    {
       "id": "global-social-20260913",
       "date": "2026-09-13",
       "kind": {

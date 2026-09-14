@@ -17,8 +17,8 @@
   ],
   "events": [
     {
-      "id": "release-global-yan-juan-can-ye",
-      "cosmeticId": "yan-juan-can-ye",
+      "id": "release-global-forged-in-fire",
+      "cosmeticId": "global-forged-in-fire",
       "date": "2026-09-03",
       "precision": "day",
       "server": "Global",
@@ -3060,12 +3060,14 @@
       "server": "Global",
       "kind": "release",
       "sourceIds": [
-        "global-20260911-chilled-current"
+        "global-20260911-chilled-current",
+        "global-20260914-appearance-en",
+        "global-20260914-appearance-ko"
       ],
       "status": "announced",
       "scope": {
-        "en": "After the September 16 update (UTC, official poster); exact opening hour not stated. Pass available until October 15, 04:59 (UTC+8).",
-        "ko": "9월 16일 업데이트 후 (공식 이미지 UTC 기준). 정확한 시작 시각은 미표기. 강호령은 10월 15일 04:59 (UTC+8)까지."
+        "en": "Announced for after the September 16 version update (UTC). Exact opening hour is not stated. English notice ends the listing at October 15, 4:59 (UTC+8). Korean notice says 10월 15일 05:59까지; its timezone is not printed.",
+        "ko": "9월 16일 버전 업데이트 후 (UTC 기준) 출시 예정입니다. 정확한 시작 시각은 미표기입니다. 영문 공지 종료 시각은 October 15, 4:59 (UTC+8)입니다. 한국어 공지는 “10월 15일 05:59까지”로 표기하며 시간대는 명시하지 않았습니다."
       }
     },
     {
@@ -3076,12 +3078,14 @@
       "server": "Global",
       "kind": "release",
       "sourceIds": [
-        "global-x-20260912-bane-of-life"
+        "global-x-20260912-bane-of-life",
+        "global-20260914-appearance-en",
+        "global-20260914-appearance-ko"
       ],
       "status": "announced",
       "scope": {
-        "en": "After the September 16 version update (UTC); available until December 15, 2026 at 04:59 (UTC+8). Exact start hour is not stated.",
-        "ko": "9월 16일 업데이트 후(UTC) 출시 예정, 2026년 12월 15일 04:59(UTC+8)까지. 정확한 시작 시각은 미표기입니다."
+        "en": "Announced for after the September 16 version update (UTC). Exact opening hour is not stated. English notice ends the listing at December 15, 4:59 (UTC+8). Korean notice says 12월 15일 05:59까지; its timezone is not printed.",
+        "ko": "9월 16일 버전 업데이트 후 (UTC 기준) 출시 예정입니다. 정확한 시작 시각은 미표기입니다. 영문 공지 종료 시각은 December 15, 4:59 (UTC+8)입니다. 한국어 공지는 “12월 15일 05:59까지”로 표기하며 시간대는 명시하지 않았습니다."
       }
     },
     {
@@ -3114,6 +3118,110 @@
       "scope": {
         "en": "Official announced date: August 16, 2026 at 00:00 (UTC+8). This archive has not recorded a later release confirmation; current availability is unverified.",
         "ko": "공식 예고일은 2026년 8월 16일 00:00(UTC+8)입니다. 이후 실제 출시 확인은 아직 기록하지 않았으며 현재 획득 가능 여부는 미확인입니다."
+      }
+    },
+    {
+      "id": "release-global-ru-shi-yuan",
+      "cosmeticId": "ru-shi-yuan",
+      "date": "2026-09-16",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-20260914-appearance-en",
+        "global-20260914-appearance-ko",
+        "global-20260914-thousand-mistwreath-x"
+      ],
+      "status": "announced",
+      "scope": {
+        "en": "Announced for after the September 16 version update (UTC). Exact opening hour is not stated.",
+        "ko": "9월 16일 버전 업데이트 후 (UTC 기준) 출시 예정입니다. 정확한 시작 시각은 미표기입니다."
+      }
+    },
+    {
+      "id": "release-global-ying-kong",
+      "cosmeticId": "ying-kong",
+      "date": "2026-09-16",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-20260914-appearance-en",
+        "global-20260914-appearance-ko",
+        "global-20260914-thousand-mistwreath-x"
+      ],
+      "status": "announced",
+      "scope": {
+        "en": "Announced for after the September 16 version update (UTC). Exact opening hour is not stated. English notice ends the listing at 4:59:59, December 15 (UTC+8). Korean notice says 12월 15일 05:59:59까지; its timezone is not printed.",
+        "ko": "9월 16일 버전 업데이트 후 (UTC 기준) 출시 예정입니다. 정확한 시작 시각은 미표기입니다. 영문 공지 종료 시각은 4:59:59, December 15 (UTC+8)입니다. 한국어 공지는 “12월 15일 05:59:59까지”로 표기하며 시간대는 명시하지 않았습니다."
+      }
+    },
+    {
+      "id": "release-global-wan-laixue-zhi-feng",
+      "cosmeticId": "wan-laixue-zhi-feng",
+      "date": "2026-09-16",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-20260914-appearance-en",
+        "global-20260914-appearance-ko"
+      ],
+      "status": "announced",
+      "scope": {
+        "en": "Announced for after the September 16 version update (start timezone unstated). Exact opening hour is not stated.",
+        "ko": "9월 16일 버전 업데이트 후 (시작 시간대 미표기) 출시 예정입니다. 정확한 시작 시각은 미표기입니다."
+      }
+    },
+    {
+      "id": "release-global-wan-laifeng-fu-xue",
+      "cosmeticId": "wan-laifeng-fu-xue",
+      "date": "2026-09-16",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-20260914-appearance-en",
+        "global-20260914-appearance-ko"
+      ],
+      "status": "announced",
+      "scope": {
+        "en": "Announced for after the September 16 version update (start timezone unstated). Exact opening hour is not stated.",
+        "ko": "9월 16일 버전 업데이트 후 (시작 시간대 미표기) 출시 예정입니다. 정확한 시작 시각은 미표기입니다."
+      }
+    },
+    {
+      "id": "release-global-sui-mian-xiu-luo",
+      "cosmeticId": "sui-mian-xiu-luo",
+      "date": "2026-09-16",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-20260914-appearance-en",
+        "global-20260914-appearance-ko"
+      ],
+      "status": "announced",
+      "scope": {
+        "en": "Announced for after the September 16 version update (start timezone unstated). Exact opening hour is not stated.",
+        "ko": "9월 16일 버전 업데이트 후 (시작 시간대 미표기) 출시 예정입니다. 정확한 시작 시각은 미표기입니다."
+      }
+    },
+    {
+      "id": "release-global-die-qi-fang",
+      "cosmeticId": "die-qi-fang",
+      "date": "2026-09-16",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-20260914-appearance-en",
+        "global-20260914-appearance-ko"
+      ],
+      "status": "announced",
+      "scope": {
+        "en": "Announced for after the September 16 version update (start timezone unstated). Exact opening hour is not stated.",
+        "ko": "9월 16일 버전 업데이트 후 (시작 시간대 미표기) 출시 예정입니다. 정확한 시작 시각은 미표기입니다."
       }
     }
   ]

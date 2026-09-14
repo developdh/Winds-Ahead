@@ -18,12 +18,12 @@ Free to browse. No sign-in required. Available on desktop and mobile.
 
 ## Explore the archive
 
-- **Find an appearance.** Search English/Korean names, Chinese originals and aliases. Filter outfits, hair, weapons, effects, accessories and mounts; sort by regional release date.
+- **Find an appearance.** Search English/Korean names, Chinese originals and aliases. Filter outfits, hair, weapons, effects, accessories and mounts; combine acquisition-source filters (Shop, Battle Pass, draws and more) with regional release sorting.
 - **Compare without leaving the list.** Open details in a popup, browse large photos, and check currencies, amounts, acquisition locations and outfit components.
 - **See what is coming.** Official announcements and editorial forecasts have distinct labels. Explore a roadmap or monthly calendar; unknown dates stay unknown.
 - **Save and share.** Keep a browser-local watchlist and share individual cosmetics by link. Your language choice is remembered. Effect videos load when you press play.
 
-**685 appearance records · 554 photos across 370 appearances · 395 wiki references**
+**686 appearance records · 557 photos across 371 appearances · 395 wiki references**
 
 The archive is still growing. Some images, official translations and release dates are missing; these counts do not establish complete in-game coverage. Forecasts are unofficial and may change.
 
@@ -86,7 +86,7 @@ Never commit credentials, account details, private screenshots or copyrighted ma
 | `docs/en/`, `docs/ko/` | Paired product, maintenance and release documentation |
 | `docs/research/` | Source snapshots and reviewed corrections |
 
-[Content guide](docs/en/content-model.md) · [Design principles](docs/en/design-quality.md) · [Calendar maintenance](docs/en/calendar-automation.md) · [Publishing releases](docs/en/releasing.md)
+[Acquisition filters](docs/en/acquisition-filter.md) · [Content guide](docs/en/content-model.md) · [Design principles](docs/en/design-quality.md) · [Calendar maintenance](docs/en/calendar-automation.md) · [Publishing releases](docs/en/releasing.md)
 
 </details>
 
