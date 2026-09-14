@@ -56,13 +56,13 @@ export function cleanWatchlist(value, ids) {
   ];
 }
 
-// Official releases override editorial forecasts. Past announcements remain visible
-// for verification, while overdue forecasts leave the live view without losing history.
+// Official releases override editorial forecasts, including announcements that have
+// left the upcoming view. Past records and forecast history remain unchanged.
 export function upcomingEntries(events, revisions, today, kind = 'all', releasedIds = []) {
   const official = events.filter(e => e.status !== 'cancelled');
   const known = new Set([...releasedIds, ...official.filter(e => e.kind === 'release').map(e => e.cosmeticId)]);
   const entries = kind === 'forecast' ? [] : official
-    .filter(e => e.date > today || e.status === 'announced')
+    .filter(e => e.date > today || (e.date === today && e.status === 'announced'))
     .map(event => ({ kind: 'official', date: event.date, event }));
   if (kind !== 'official') for (const forecast of latestRevisions(revisions)) {
     if (forecast.state !== 'active' || known.has(forecast.cosmeticId) || forecastDue(forecast, today) || forecastEnded(forecast, today)) continue;

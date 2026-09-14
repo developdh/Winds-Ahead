@@ -43,3 +43,9 @@ The existing daily task is retained without creating another schedule. Update of
 Roadmap cards use existing lazy-loaded thumbnails; no video players, external embeds, or runtime AI calls are added. Missing images have an explicit fallback. Only six undated examples render, with access to the full archive. Tests cover official precedence, unknown release status after a due day, cancellation, reruns, review expiry and version precision. Type checking, content validation and production build are required before publishing.
 
 Completed validation: 30 domain/media tests, type checking, content validation and the production build passed. Browser checks covered Korean at 390 px and English at 320 px, roadmap/calendar switching, forecast filtering, month overlap, CN reset, and a legacy month URL. Neither small viewport overflowed horizontally, and the roadmap created no video elements. Native devices and field performance were not measured.
+
+## Upcoming-view rule
+
+At the owner’s request, the roadmap hides announcements after their scheduled UTC calendar day has passed, including entries that previously displayed “Awaiting release check.” Announcements due today and later remain visible. Historical calendar/source records retain their original status; hiding an old announcement does not confirm release or revive a superseded forecast. This shared rule applies to China and Global timeline views and schedule-type filters.
+
+Validation for this display change: type checking, all 32 existing domain/media tests, content validation and the Worker build passed. On September 14 UTC, local browser checks showed five Global entries (two upcoming announcements and three forecasts), two under Official, and an empty China timeline. The two elapsed Global announcements no longer appeared. Language switching retained the Official filter.
