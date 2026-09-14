@@ -35,9 +35,11 @@ At that checkpoint, the complete emitted client chunk set was 422,217 gzip bytes
 
 ## Publication state
 
-Repository visibility and website access are independent. The GitHub repository is public, and the source release was merged into main through [PR #19](https://github.com/developdh/Winds-Ahead/pull/19). The connected Site currently uses owner-only access; publishing updated code preserves that audience. An anonymous public website launch requires an explicit audience change. The promotional post is a draft and must not be posted while the website still requires owner access.
+Repository visibility and website access are independent. Both are now public. The source release was merged through [PR #19](https://github.com/developdh/Winds-Ahead/pull/19), followed by the gallery/social corrections in [PR #20](https://github.com/developdh/Winds-Ahead/pull/20). At the owner’s explicit request, Site access changed from owner-only to public on September 13, 2026 at 23:58:59 UTC (access revision 2). Anyone with the URL can visit without signing in. The community announcement remains an unposted draft for the owner to review and publish manually.
 
-Both custom domains were confirmed active with TLS during domain setup. Canonical links target `https://windsahead.com`; this does not imply that a `www` redirect or anonymous access has been enabled. [Domain history](custom-domain.md)
+Both custom domains were confirmed active with TLS during domain setup. Canonical links target `https://windsahead.com`; the public-access change does not establish a `www` redirect. [Domain history](custom-domain.md)
+
+Anonymous HTTPS requests without cookies or authorization headers returned 200 for `https://windsahead.com/` and `/ko`, with application HTML instead of a sign-in redirect. The native access update reported `public`; no application rebuild or redeployment was needed for this access-only change.
 
 ## Community announcement
 
