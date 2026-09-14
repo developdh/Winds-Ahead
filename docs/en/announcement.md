@@ -2,7 +2,7 @@
 
 [한국어](../ko/announcement.md) · [Release status](public-launch.md)
 
-Enable and verify anonymous website access before posting. This draft has not been posted.
+The website is public. Review this draft before posting it manually; it has not been posted.
 
 [Plain-text draft for review and copying](announcement.txt)
 
