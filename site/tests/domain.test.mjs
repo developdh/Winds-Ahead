@@ -366,11 +366,15 @@ test('Forged in Fire no longer inherits the unrelated CN red-cloth outfit', () =
   assert.equal(global.acquisitionServer,'Global');
   assert.equal(global.cnRelease.date,null);
   assert.equal(cn.images.length,1);
-  assert.equal(global.images.length,1);
+  assert.equal(global.images.length,4);
   assert.notEqual(cn.images[0].url,global.images[0].url);
   assert.equal(read('regional-records.json').records.some(r=>r.cosmeticId===cn.id && r.server==='Global'),false);
   assert.equal(read('global-events.json').events.some(e=>e.cosmeticId===global.id),true);
-  for (const c of [cn,global]) assert.equal(media.find(m=>m.cosmeticId===c.id).originalUrl,c.images[0].url);
+  for (const c of [cn,global]) {
+    const records=media.filter(m=>m.cosmeticId===c.id);
+    assert.equal(records.length,c.images.length);
+    assert.deepEqual(records.map(m=>m.originalUrl),c.images.map(image=>image.url));
+  }
 });
 test('regional release status distinguishes future, unknown, and overdue evidence', () => {
   const today = '2026-09-13';
