@@ -1,0 +1,77 @@
+{
+  "checkedAt": "2026-09-16",
+  "scope": "Official Global Forged in Fire gallery refresh; no naming, pricing, release-status, or cross-region identity changes.",
+  "source": {
+    "sourceId": "global-x-20260829-forged-in-fire",
+    "sourcePage": "https://x.com/WhereWindsMeet_/status/2093700198639783937",
+    "publisher": "Where Winds Meet / NetEase (official X)",
+    "publishedAt": "2026-08-29",
+    "videoUrl": "https://video.twimg.com/amplify_video/2093375130923839488/vid/avc1/3840x2160/oEdIeAj9rmA_si8V.mp4?tag=29",
+    "sourceDimensions": {
+      "width": 3840,
+      "height": 2160
+    },
+    "sourceBytes": 56363094,
+    "sourceSha256": "5584e772af22753305aa1154de3026edc516710263573a88ae0a2a77ee73c728",
+    "reusePermission": "unknown",
+    "credit": "© NetEase / Everstone Studio; official Global promotional film"
+  },
+  "assets": [
+    {
+      "cosmeticId": "global-forged-in-fire",
+      "index": 0,
+      "sourceFrame": 960,
+      "sourceTimestampSeconds": 16,
+      "sourceCrop": [500, 30, 2300, 2160],
+      "description": {
+        "en": "Full outfit in the cool sword-field scene.",
+        "ko": "회색 검의 들판 장면에서 본 전신 모습."
+      },
+      "fullSha256": "920e45967e3518b0266259f4a7eaa9bf567d7db560e7db7ff96556c4a4b65ad1",
+      "thumbnailBytes": 34168,
+      "fullBytes": 60862
+    },
+    {
+      "cosmeticId": "global-forged-in-fire",
+      "index": 1,
+      "sourceFrame": 1170,
+      "sourceTimestampSeconds": 19.5,
+      "sourceCrop": [0, 30, 1800, 2160],
+      "description": {
+        "en": "Left body variant in the fire-lit final lineup.",
+        "ko": "불꽃 배경의 최종 장면에 나온 왼쪽 체형 전신."
+      },
+      "fullSha256": "a310a0e703e03d8fcf5c5e58c9214a140b47b97d602392202bee024e39e528fd",
+      "thumbnailBytes": 36416,
+      "fullBytes": 67430
+    },
+    {
+      "cosmeticId": "global-forged-in-fire",
+      "index": 2,
+      "sourceFrame": 1170,
+      "sourceTimestampSeconds": 19.5,
+      "sourceCrop": [2040, 30, 3840, 2160],
+      "description": {
+        "en": "Right body variant in the fire-lit final lineup.",
+        "ko": "불꽃 배경의 최종 장면에 나온 오른쪽 체형 전신."
+      },
+      "fullSha256": "c616cc0211feeafe9c440671047d56c153de80e21e9f548bd21efc8a113d4b30",
+      "thumbnailBytes": 37128,
+      "fullBytes": 67406
+    },
+    {
+      "cosmeticId": "global-forged-in-fire",
+      "index": 3,
+      "sourceFrame": 360,
+      "sourceTimestampSeconds": 6,
+      "sourceCrop": [1020, 15, 2820, 2145],
+      "description": {
+        "en": "Glowing bird pendant and chest armor detail.",
+        "ko": "빛나는 새 장식과 흉갑의 세부 모습."
+      },
+      "fullSha256": "4efcf6d4ec99f689c0e9fd388aa04ff962638d4ff0ebb04e845cd5acdb36f30c",
+      "thumbnailBytes": 14454,
+      "fullBytes": 25976
+    }
+  ]
+}

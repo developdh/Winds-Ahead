@@ -30,5 +30,6 @@ This is part of completing each update, including updates from the existing cale
 
 ## Release notes
 
+- [0.2.1 — Forged in Fire gallery refresh](releases/0.2.1.md)
 - [0.2.0 — acquisition filters and official Global names](releases/0.2.0.md)
 - [0.1.0 — initial public release](releases/0.1.0.md)

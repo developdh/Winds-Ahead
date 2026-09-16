@@ -3164,6 +3164,19 @@
       "kind": "community"
     },
     {
+      "id": "global-x-20260829-forged-in-fire",
+      "url": "https://x.com/WhereWindsMeet_/status/2093700198639783937",
+      "publisher": "Where Winds Meet / NetEase (official X)",
+      "server": "Global",
+      "titleOriginal": "Forged in Fire — official appearance film",
+      "displayedPublicationDate": "2026-08-29",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": "UTC",
+      "evidenceTier": "A",
+      "verifiedAt": "2026-09-16",
+      "verificationNote": "Official 4K appearance film inspected frame by frame. The selected stills show one full outfit against the cool sword-field backdrop, both body variants in the final fire-lit lineup, and the glowing bird pendant detail."
+    },
+    {
       "id": "global-x-20260912-bane-of-life",
       "url": "https://x.com/WhereWindsMeet_/status/2098743431476515141",
       "publisher": "Where Winds Meet / NetEase (official X)",
@@ -11834,20 +11847,80 @@
       },
       "images": [
         {
-          "url": "https://r.res.easebar.com/pic/20260902/533f67fe-c2af-482b-aaa1-6d5ff0352d59.png",
-          "width": 912,
-          "height": 1202,
-          "bytes": 376652,
+          "url": "https://video.twimg.com/amplify_video/2093375130923839488/vid/avc1/3840x2160/oEdIeAj9rmA_si8V.mp4?tag=29",
+          "width": 3840,
+          "height": 2160,
+          "bytes": 56363094,
           "kind": "official_appearance_reference",
           "visuallyInspected": true,
-          "description": "Named appearance reference",
-          "inspectionNote": "Named EN/Korean September 3 posters directly inspected on 2026-09-14. Both show closed flame helmets, dark full plate armor, red scarves and glowing embers. This artwork is not the red-cloth CN outfit 焰卷残夜.",
-          "sourceFrame": 0,
+          "description": "Full outfit in the cool sword-field scene",
+          "inspectionNote": "Official Global 4K appearance film inspected at 16 seconds. The full dark plate silhouette, closed flame helmet, scorched cape and leg armor are visible against a pale background.",
+          "sourceFrame": 960,
           "sourceCrop": [
-            36,
-            783,
-            948,
-            1985
+            500,
+            30,
+            2300,
+            2160
+          ],
+          "reusePermission": "unknown",
+          "localCopy": null,
+          "server": "Global"
+        },
+        {
+          "url": "https://video.twimg.com/amplify_video/2093375130923839488/vid/avc1/3840x2160/oEdIeAj9rmA_si8V.mp4?tag=29",
+          "width": 3840,
+          "height": 2160,
+          "bytes": 56363094,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "description": "Left body variant in the fire-lit final lineup",
+          "inspectionNote": "Official Global 4K appearance film inspected at 19.5 seconds. Portrait crop retains the complete left outfit, helmet, armor plates and long burning cape.",
+          "sourceFrame": 1170,
+          "sourceCrop": [
+            0,
+            30,
+            1800,
+            2160
+          ],
+          "reusePermission": "unknown",
+          "localCopy": null,
+          "server": "Global"
+        },
+        {
+          "url": "https://video.twimg.com/amplify_video/2093375130923839488/vid/avc1/3840x2160/oEdIeAj9rmA_si8V.mp4?tag=29",
+          "width": 3840,
+          "height": 2160,
+          "bytes": 56363094,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "description": "Right body variant in the fire-lit final lineup",
+          "inspectionNote": "Official Global 4K appearance film inspected at 19.5 seconds. Portrait crop retains the complete right outfit and shows its distinct torso and skirt proportions.",
+          "sourceFrame": 1170,
+          "sourceCrop": [
+            2040,
+            30,
+            3840,
+            2160
+          ],
+          "reusePermission": "unknown",
+          "localCopy": null,
+          "server": "Global"
+        },
+        {
+          "url": "https://video.twimg.com/amplify_video/2093375130923839488/vid/avc1/3840x2160/oEdIeAj9rmA_si8V.mp4?tag=29",
+          "width": 3840,
+          "height": 2160,
+          "bytes": 56363094,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "description": "Glowing bird pendant and chest armor detail",
+          "inspectionNote": "Official Global 4K appearance film inspected at 6 seconds. Close crop shows the bird-shaped pendant, red cloth, engraved plate edges and ember effect.",
+          "sourceFrame": 360,
+          "sourceCrop": [
+            1020,
+            15,
+            2820,
+            2145
           ],
           "reusePermission": "unknown",
           "localCopy": null,

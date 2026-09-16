@@ -2,6 +2,25 @@
   "schemaVersion": 1,
   "entries": [
     {
+      "id": "forged-in-fire-gallery-20260916",
+      "date": "2026-09-16",
+      "kind": {
+        "en": "Photo refresh",
+        "ko": "사진 교체"
+      },
+      "title": {
+        "en": "A clearer Forged in Fire gallery",
+        "ko": "불길에 단련된 철골을 더 선명하게"
+      },
+      "body": {
+        "en": "Replaced the poster crop with a clear full-outfit still from the official 4K film. Added both fire-lit body variants and a close view of the glowing bird pendant, for four distinct reference photos in total.",
+        "ko": "기존 포스터 크롭을 공식 4K 영상의 선명한 전신 장면으로 교체했습니다. 불꽃 연출의 두 체형 전신 사진과 빛나는 새 장식 디테일을 더해 총 4장의 참고 사진으로 보강했습니다."
+      },
+      "sourceIds": [
+        "global-x-20260829-forged-in-fire"
+      ]
+    },
+    {
       "id": "global-appearance-20260914",
       "date": "2026-09-14",
       "kind": {
