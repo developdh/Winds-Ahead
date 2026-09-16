@@ -1,0 +1,16 @@
+name: Improvement · 개선 제안
+description: Suggest a focused improvement. 필요한 개선을 제안해주세요.
+title: "[Idea] "
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What is difficult today? · 지금 어떤 점이 불편한가요?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed behavior · 원하는 동작
+    validations:
+      required: true

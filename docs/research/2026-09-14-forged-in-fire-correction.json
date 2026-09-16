@@ -1,0 +1,150 @@
+{
+  "reviewedAt": "2026-09-14",
+  "kind": "cross-region-identity-correction",
+  "previous": {
+    "cosmetic": {
+      "id": "yan-juan-can-ye",
+      "nameOriginal": "焰卷残夜",
+      "romanization": "yan juan can ye",
+      "category": "outfit",
+      "sourceId": "cn-d8dfdef52f57",
+      "acquisitionServer": "CN",
+      "mediaServer": "CN",
+      "officialNameEn": "Forged in Fire",
+      "officialNameKo": "불길에 단련된 철골",
+      "cnRelease": {
+        "date": "2025-12-27",
+        "precision": "day",
+        "timezone": null,
+        "contextual": false,
+        "basis": "Explicit listing date in the source"
+      },
+      "acquisition": {
+        "kind": "shop",
+        "pricing": "fixed",
+        "amount": 1280,
+        "regularAmount": null,
+        "currencyOriginal": "长鸣珠",
+        "location": {
+          "en": "Shop",
+          "ko": "상점",
+          "original": "商店"
+        },
+        "conditions": {
+          "en": "CN announcement terms; quantities are shown only when stated for this appearance. Sales, discounts and reward conditions may have ended.",
+          "ko": "중국 공지의 획득 조건입니다. 해당 외관에 명시된 수량만 기재했으며 판매·할인·보상 기간은 종료되었을 수 있습니다."
+        },
+        "en": "See the acquisition method and source conditions.",
+        "ko": "획득 방법과 출처의 조건을 확인하세요.",
+        "sourceExcerpt": "全新套装【焰卷残夜】将于12月27日（本周六）更新后上架，并支持上下装拆分和染色。届时游侠可前往【商店】以1280长鸣珠购得，购买后附赠主角头像【焰卷残夜】。"
+      },
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20251224/1d91529d-5541-4759-8c03-7e9ed0e59140.jpg",
+          "width": 2813,
+          "height": 5000,
+          "bytes": 5958347,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "description": "Named appearance reference",
+          "inspectionNote": "Portrait screenshot of ornate red/black armored garments with gold shoulder detail; outfit category matches.",
+          "sourceFrame": 0,
+          "sourceCrop": null,
+          "reusePermission": "unknown",
+          "localCopy": null,
+          "server": "CN"
+        },
+        {
+          "url": "https://r.res.easebar.com/pic/20260902/533f67fe-c2af-482b-aaa1-6d5ff0352d59.png",
+          "width": 912,
+          "height": 1202,
+          "bytes": 376652,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "description": "Named appearance reference",
+          "inspectionNote": "Visually reviewed named Global promotional artwork, cropped from the official announcement poster. Official poster artwork and corresponding English heading visually viewed. Korean artwork and heading also visually viewed when officialNameKo is populated. Preview crop derived from heading and listing-time boundaries; inspect derivative before publication.",
+          "sourceFrame": 0,
+          "sourceCrop": [
+            36,
+            783,
+            948,
+            1985
+          ],
+          "reusePermission": "unknown",
+          "localCopy": null,
+          "server": "Global"
+        }
+      ],
+      "officialVideos": [],
+      "mediaStatus": "verified",
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "wikiDetails": true
+    },
+    "globalRecord": {
+      "cosmeticId": "yan-juan-can-ye",
+      "server": "Global",
+      "status": "released",
+      "sourceIds": [
+        "global-73654b7bf516",
+        "global-daca950e5aa6"
+      ],
+      "verifiedAt": "2026-09-13",
+      "releaseDate": "2026-09-03",
+      "precision": "day",
+      "scope": {
+        "en": "Past listing date in the Global announcement; regional time zones were not stated. Current availability is not implied.",
+        "ko": "글로벌 공지의 과거 출시일입니다. 시간대는 미표기이며 현재 판매 중이라는 뜻은 아닙니다."
+      },
+      "identityBasis": {
+        "en": "Editorial identity match from the corresponding named CN and Global artwork; an official cross-region naming table was not supplied.",
+        "ko": "중국·글로벌의 이름이 붙은 공식 이미지를 비교한 동일 외관 판단입니다. 공식 서버 간 명칭 대응표는 제공되지 않았습니다."
+      },
+      "acquisition": {
+        "kind": "exchange_shop",
+        "pricing": "fixed",
+        "amount": 2,
+        "regularAmount": null,
+        "currencyOriginal": "Harmonic Core",
+        "location": {
+          "en": "Resonance Shop",
+          "ko": "공명 상점",
+          "original": "Harmonic Core"
+        },
+        "conditions": {
+          "en": "Global announcement terms. Listing line ends October 15 04:59:59, while removal reminder says December 2 04:59:59. Preserve conflict; both may refer to different draw/shop periods, but not resolved.",
+          "ko": "글로벌 공지의 조건입니다. 한정 판매·할인이 포함될 수 있으며 현재 판매 여부는 별도입니다."
+        },
+        "en": "See the acquisition method and source conditions.",
+        "ko": "획득 방법과 출처의 조건을 확인하세요.",
+        "sourceTerms": {
+          "kind": "draw_shop",
+          "amount": 2,
+          "currency": "Harmonic Core",
+          "saleEndLocalEn": null,
+          "notes": "Listing line ends October 15 04:59:59, while removal reminder says December 2 04:59:59. Preserve conflict; both may refer to different draw/shop periods, but not resolved."
+        },
+        "listingTimeEn": "05:00:00",
+        "listingTimeKo": "06:00:00"
+      }
+    }
+  },
+  "correctedIds": {
+    "CN": "yan-juan-can-ye",
+    "Global": "global-forged-in-fire"
+  },
+  "sourceUrls": [
+    "https://www.yysls.cn/news/official/20251224/37780_1278303.html",
+    "https://www.wherewindsmeetgame.com/news/official/903update.html",
+    "https://www.wherewindsmeetgame.com/kr/news/official/903update.html"
+  ],
+  "reason": {
+    "en": "The named official images depict different outfits: red cloth and an exposed face in CN versus a closed flame helmet and dark plate armor in Global. Retain each source on its own record; revoke the old cross-region match.",
+    "ko": "공식 명칭이 붙은 이미지가 서로 다른 의상입니다. 중국은 얼굴이 드러난 붉은 천 의상, 글로벌은 얼굴을 가린 불꽃 투구와 검은 갑옷입니다. 각 원문을 별도 기록에 유지하고 기존 서버 간 연결을 철회합니다."
+  },
+  "reusePermission": "unknown",
+  "cnCounterpartOfGlobal": "unverified"
+}

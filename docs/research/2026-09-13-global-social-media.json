@@ -1,0 +1,190 @@
+{
+  "checkedAt": "2026-09-13",
+  "scope": "Inspected official Global social images and a matching CN reference; release records are maintained separately.",
+  "assets": [
+    {
+      "cosmeticId": "wu-sheng-gu",
+      "index": 1,
+      "originalUrl": "https://pbs.twimg.com/media/HR7Rhs6bsAAw_C6?format=jpg&name=large",
+      "sourcePage": "https://x.com/WhereWindsMeet_/status/2098743431476515141",
+      "server": "Global",
+      "sourceDimensions": {
+        "width": 1080,
+        "height": 1350
+      },
+      "originalSha256": "83906416065124a11a714f7372cbdfd13f6da000e2b31907575d24f3d6da6aa9",
+      "description": {
+        "en": "Bane of Life — female hairstyle and butterfly crown, front view.",
+        "ko": "무생고 — 여성형 헤어와 나비 왕관 정면."
+      },
+      "depictionStatus": "official_reference",
+      "reusePermission": "unknown",
+      "checkedAt": "2026-09-13",
+      "sourceId": "global-x-20260912-bane-of-life",
+      "credit": "© NetEase / Everstone Studio; reuse permission unresolved",
+      "thumbnailBytes": 94970,
+      "fullBytes": 264630
+    },
+    {
+      "cosmeticId": "wu-sheng-gu",
+      "index": 2,
+      "originalUrl": "https://pbs.twimg.com/media/HR7Rhs2aoAE3PL1?format=jpg&name=large",
+      "sourcePage": "https://x.com/WhereWindsMeet_/status/2098743431476515141",
+      "server": "Global",
+      "sourceDimensions": {
+        "width": 1080,
+        "height": 1350
+      },
+      "originalSha256": "df4960979a924f6c5883675a459a6b628c295ded381fa72faadea7207e00ef5f",
+      "description": {
+        "en": "Bane of Life — male hairstyle and silver crown, front view.",
+        "ko": "무생고 — 남성형 헤어와 은빛 왕관 정면."
+      },
+      "depictionStatus": "official_reference",
+      "reusePermission": "unknown",
+      "checkedAt": "2026-09-13",
+      "sourceId": "global-x-20260912-bane-of-life",
+      "credit": "© NetEase / Everstone Studio; reuse permission unresolved",
+      "thumbnailBytes": 86698,
+      "fullBytes": 249260
+    },
+    {
+      "cosmeticId": "wu-sheng-gu",
+      "index": 3,
+      "originalUrl": "https://pbs.twimg.com/media/HR7Ril6asAAYj44?format=jpg&name=900x900",
+      "sourcePage": "https://x.com/WhereWindsMeet_/status/2098743431476515141",
+      "server": "Global",
+      "sourceDimensions": {
+        "width": 720,
+        "height": 900
+      },
+      "originalSha256": "4bfc080ed3d6d8215b8b59da91d9803ca23dbcfedeb872c70d5b34455f32510d",
+      "description": {
+        "en": "Bane of Life — female hairstyle, crescent crown and branching ornaments from behind.",
+        "ko": "무생고 — 여성형 헤어·초승달 왕관·뻗은 장식의 뒷모습."
+      },
+      "depictionStatus": "official_reference",
+      "reusePermission": "unknown",
+      "checkedAt": "2026-09-13",
+      "sourceId": "global-x-20260912-bane-of-life",
+      "credit": "© NetEase / Everstone Studio; reuse permission unresolved",
+      "thumbnailBytes": 58490,
+      "fullBytes": 90542
+    },
+    {
+      "cosmeticId": "wu-sheng-gu",
+      "index": 4,
+      "originalUrl": "https://pbs.twimg.com/media/HR7RimEb0AA3F7W?format=jpg&name=900x900",
+      "sourcePage": "https://x.com/WhereWindsMeet_/status/2098743431476515141",
+      "server": "Global",
+      "sourceDimensions": {
+        "width": 720,
+        "height": 900
+      },
+      "originalSha256": "334bd1d063d3e4a7ad4d0d7dd7c44feb8f9ffe1a4dc2dbaf2cb671bdfb133c13",
+      "description": {
+        "en": "Bane of Life — male hairstyle and silver ornaments from behind.",
+        "ko": "무생고 — 남성형 헤어와 은빛 장식의 뒷모습."
+      },
+      "depictionStatus": "official_reference",
+      "reusePermission": "unknown",
+      "checkedAt": "2026-09-13",
+      "sourceId": "global-x-20260912-bane-of-life",
+      "credit": "© NetEase / Everstone Studio; reuse permission unresolved",
+      "thumbnailBytes": 64142,
+      "fullBytes": 101292
+    },
+    {
+      "cosmeticId": "chu-xin-pei",
+      "index": 0,
+      "originalUrl": "https://pbs.twimg.com/media/HPl1hUjaMAA2WhC?format=jpg&name=900x900",
+      "sourcePage": "https://x.com/WhereWindsMeet_/status/2087962389421662224",
+      "server": "Global",
+      "sourceDimensions": {
+        "width": 720,
+        "height": 900
+      },
+      "originalSha256": "062d282d50fe7c9d9cc30da57ca119c572d0e4ac3ff5c52530cd2d76bd0708b6",
+      "description": {
+        "en": "Entwined Oath — two jade pendant forms with green tassels.",
+        "ko": "초심패 — 녹색 술이 달린 두 옥패 형태."
+      },
+      "depictionStatus": "official_reference",
+      "reusePermission": "unknown",
+      "checkedAt": "2026-09-13",
+      "sourceId": "global-x-20260813-entwined-oath-mist-veiled-pass",
+      "credit": "© NetEase / Everstone Studio; reuse permission unresolved",
+      "thumbnailBytes": 35238,
+      "fullBytes": 60612
+    },
+    {
+      "cosmeticId": "chu-xin-pei",
+      "index": 1,
+      "originalUrl": "https://nie.res.netease.com/r/pic/20250829/524b487c-2ece-4b22-b5a2-b8f1a1b33f5a.png",
+      "sourcePage": "https://www.yysls.cn/news/official/20250829/37780_1256843.html",
+      "server": "CN",
+      "sourceDimensions": {
+        "width": 2450,
+        "height": 1200
+      },
+      "originalSha256": "872c225b8585aefd1580adb721ae390ec40dd117813c321b5b6315adc29e27e2",
+      "description": {
+        "en": "Chu Xin Pei — official CN pendant upgrade illustration.",
+        "ko": "초심패 — 중국 공식 옥패 업그레이드 안내."
+      },
+      "depictionStatus": "official_reference",
+      "reusePermission": "unknown",
+      "checkedAt": "2026-09-13",
+      "sourceId": "cn-d5c9abdbf445",
+      "credit": "© NetEase / Everstone Studio; reuse permission unresolved",
+      "thumbnailBytes": 27212,
+      "fullBytes": 68196
+    },
+    {
+      "cosmeticId": "wu-yin-guan-luan",
+      "index": 1,
+      "originalUrl": "https://pbs.twimg.com/media/HPl1lxcawAAOstC?format=jpg&name=900x900",
+      "sourcePage": "https://x.com/WhereWindsMeet_/status/2087962389421662224",
+      "server": "Global",
+      "sourceDimensions": {
+        "width": 720,
+        "height": 900
+      },
+      "originalSha256": "a2a778695e3b5bcceed16f4f2a8b4b8ebbca0763f09a7069c2873b4fe4cfac2c",
+      "description": {
+        "en": "Mist-Veiled Pass — purple mist and a bright vortex around the character.",
+        "ko": "무은관만 — 인물 주변의 보랏빛 안개와 밝은 소용돌이."
+      },
+      "depictionStatus": "official_reference",
+      "reusePermission": "unknown",
+      "checkedAt": "2026-09-13",
+      "sourceId": "global-x-20260813-entwined-oath-mist-veiled-pass",
+      "credit": "© NetEase / Everstone Studio; reuse permission unresolved",
+      "thumbnailBytes": 40902,
+      "fullBytes": 66074
+    },
+    {
+      "cosmeticId": "global-little-xiaoba",
+      "index": 0,
+      "originalUrl": "https://pbs.twimg.com/amplify_video_thumb/2097271727676153856/img/2qmyarrBf2YGTS6u.jpg",
+      "sourcePage": "https://x.com/WhereWindsMeet_/status/2097293875752677421",
+      "server": "Global",
+      "sourceDimensions": {
+        "width": 1200,
+        "height": 675
+      },
+      "originalSha256": "85edea68f652ab205b2be0bf7fe65263ce2cc7e97c0b0db1dfe7ae7051db4ea5",
+      "description": {
+        "en": "Little Xiaoba — bronze mechanical head accessory wearing a flower wreath.",
+        "ko": "리틀 샤오바 — 화관을 쓴 청동 기계형 머리 장신구."
+      },
+      "depictionStatus": "official_reference",
+      "reusePermission": "unknown",
+      "checkedAt": "2026-09-13",
+      "sourceId": "global-x-20260908-little-xiaoba",
+      "credit": "© NetEase / Everstone Studio; reuse permission unresolved",
+      "thumbnailBytes": 42098,
+      "fullBytes": 105058
+    }
+  ]
+}
