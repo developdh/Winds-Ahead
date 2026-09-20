@@ -1,0 +1,47 @@
+{
+  "sourcePost": "https://x.com/WhereWindsMeet_/status/2100585570816737364",
+  "sourceVideo": "https://video.twimg.com/amplify_video/2100490639280668672/vid/avc1/2400x1080/Q_42DjBl9hlyHgr-.mp4",
+  "sourceDimensions": [
+    2400,
+    1080
+  ],
+  "frameIndex": 624,
+  "timestampSeconds": 20.8,
+  "sourceFPS": 30,
+  "fullDimensions": [
+    1440,
+    648
+  ],
+  "fullCropBox": [
+    0,
+    0,
+    2400,
+    1080
+  ],
+  "thumbnailCropBox": [
+    850,
+    0,
+    1714,
+    1080
+  ],
+  "thumbnailDimensions": [
+    640,
+    800
+  ],
+  "operations": "Extract frame at 20.800 s; full resized without cropping; thumbnail portrait crop centered on character; Lanczos downsampling and WebP encoding. No generated edits or color changes.",
+  "checkedAt": "2026-09-20",
+  "cosmeticId": "ying-hun-zhao-gu",
+  "previousImage": {
+    "url": "https://r.res.easebar.com/pic/20260917/2d404e1a-1c8c-4f8b-a283-cb32bcdc088d.gif",
+    "width": 720,
+    "height": 405,
+    "reusePermission": "unknown",
+    "visuallyInspected": true,
+    "sourceFrame": 201,
+    "inspectionNote": "Official named section and representative frame visually reviewed on September 20; preview, not in-game verification.",
+    "server": "Global"
+  },
+  "sourceSha256": "63b58704dd5479cdf34eed5f6f7b0ed6b649b91100b06e8ff93ae09ec6b437fa",
+  "reusePermission": "unknown",
+  "reason": "Replace enlarged low-resolution GIF and awkward mid-action frame; preserve original color and effect."
+}

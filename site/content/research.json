@@ -3326,6 +3326,20 @@
       "publicationTimezone": null,
       "evidenceTier": "A",
       "verifiedAt": "2026-09-20"
+    },
+    {
+      "id": "global-x-20260917-valor-aflame",
+      "url": "https://x.com/WhereWindsMeet_/status/2100585570816737364",
+      "titleOriginal": "Valor Aflame — official Stormbreaker Spear VFX preview",
+      "publisher": "Where Winds Meet / NetEase (official X)",
+      "server": "Global",
+      "displayedPublicationDate": "2026-09-17",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "publishedAt": "2026-09-17T14:00:01.000Z",
+      "verifiedAt": "2026-09-20",
+      "evidenceTier": "A",
+      "verificationNote": "Official post read in signed-in browser; original 2400×1080 video used for a static frame. Scheduled date is not an actual-release confirmation."
     }
   ],
   "mediaRights": {
@@ -23266,14 +23280,33 @@
       },
       "images": [
         {
-          "url": "https://r.res.easebar.com/pic/20260917/2d404e1a-1c8c-4f8b-a283-cb32bcdc088d.gif",
-          "width": 720,
-          "height": 405,
+          "url": "https://video.twimg.com/amplify_video/2100490639280668672/vid/avc1/2400x1080/Q_42DjBl9hlyHgr-.mp4",
+          "width": 2400,
+          "height": 1080,
+          "bytes": 33657842,
           "reusePermission": "unknown",
+          "kind": "official_appearance_reference",
           "visuallyInspected": true,
-          "sourceFrame": 201,
-          "inspectionNote": "Official named section and representative frame visually reviewed on September 20; preview, not in-game verification.",
-          "server": "Global"
+          "sourceFrame": 624,
+          "sourceTimestampSeconds": 20.8,
+          "sourceCrop": [
+            0,
+            0,
+            2400,
+            1080
+          ],
+          "thumbnailSourceCrop": [
+            850,
+            0,
+            1714,
+            1080
+          ],
+          "inspectionNote": "Official X video frame at 20.8 seconds: upright gold-outlined figure and red circular skill effect. Full frame is downsampled; portrait thumbnail preserves the central figure and ring. No generated edits.",
+          "server": "Global",
+          "alt": {
+            "en": "Valor Aflame: gold-outlined character surrounded by a red circular skill effect",
+            "ko": "영혼의 각인: 금빛 윤곽의 캐릭터와 주변의 붉은 원형 무술 효과"
+          }
         }
       ],
       "officialVideos": [],
