@@ -3266,6 +3266,66 @@
       "evidenceTier": "A",
       "verifiedAt": "2026-09-14",
       "verificationNote": "Official notice read in the browser; named sections and relevant artwork inspected. Cross-region identities are editorial visual matches. No actual September 16 release confirmation is claimed."
+    },
+    {
+      "id": "global-20260917-appearance-en",
+      "url": "https://www.wherewindsmeetgame.com/news/official/920appearance.html",
+      "titleOriginal": "[Perilous Eminence] Version 2.2 New Appearances Overview - September 20",
+      "publisher": "NetEase / Where Winds Meet official website",
+      "server": "Global",
+      "displayedPublicationDate": "2026-09-17",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-09-20"
+    },
+    {
+      "id": "global-20260917-appearance-ko",
+      "url": "https://www.wherewindsmeetgame.com/kr/news/official/920appearance.html",
+      "titleOriginal": "[구름 위 동행] 9월 20일 2.2 버전 신규 외관 목록",
+      "publisher": "NetEase / Where Winds Meet official website",
+      "server": "Global",
+      "displayedPublicationDate": "2026-09-17",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-09-20"
+    },
+    {
+      "id": "cn-20260915-appearance",
+      "url": "https://www.yysls.cn/news/official/20260918/37780_1314347.html",
+      "titleOriginal": "相看戏中戏，对影身外身丨全新主题套装登场",
+      "publisher": "NetEase / Where Winds Meet official website",
+      "server": "CN",
+      "displayedPublicationDate": "2026-09-15",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-09-20"
+    },
+    {
+      "id": "cn-20260916-appearance",
+      "url": "https://www.yysls.cn/news/official/20260918/37780_1314348.html",
+      "titleOriginal": "全新活动丨金拱门中秋开，喜欢您就来！",
+      "publisher": "NetEase / Where Winds Meet official website",
+      "server": "CN",
+      "displayedPublicationDate": "2026-09-16",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-09-20"
+    },
+    {
+      "id": "cn-20260917-appearance",
+      "url": "https://www.yysls.cn/news/official/20260920/37780_1314431.html",
+      "titleOriginal": "9月24日丨入学在即，先览前路好风光！",
+      "publisher": "NetEase / Where Winds Meet official website",
+      "server": "CN",
+      "displayedPublicationDate": "2026-09-17",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-09-20"
     }
   ],
   "mediaRights": {
@@ -4384,8 +4444,8 @@
       "romanization": "Xuanying · Lianchen Buran",
       "category": "weapon_skin",
       "sourceId": "cn-20260903-new-appearance",
-      "officialNameEn": null,
-      "officialNameKo": null,
+      "officialNameEn": "Duskgem: Lotus Unsullied",
+      "officialNameKo": "흑옥-순결한 연꽃",
       "cnRelease": {
         "date": "2026-09-04",
         "precision": "day",
@@ -4427,6 +4487,16 @@
           "description": "A luminous blue blade with a starry finish.",
           "reusePermission": "unknown",
           "localCopy": "/media/xuanying-lianchen-buran-0-full.webp"
+        },
+        {
+          "url": "https://r.res.easebar.com/pic/20260917/40d0ff5e-5d08-4068-9bfc-496a73c9c39e.png",
+          "width": 1080,
+          "height": 1350,
+          "reusePermission": "unknown",
+          "visuallyInspected": true,
+          "sourceFrame": 0,
+          "inspectionNote": "Official named section and representative frame visually reviewed on September 20; preview, not in-game verification.",
+          "server": "Global"
         }
       ],
       "officialVideos": [],
@@ -4435,7 +4505,18 @@
         "timezone": null,
         "precision": "second"
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "searchAliases": [
+        "현영 · 연진불염",
+        "Xuanying · Lianchen Buran",
+        "Duskgem: Lotus Unsullied",
+        "흑옥-순결한 연꽃"
+      ],
+      "namingNote": {
+        "en": "Official English/Korean names from the September 17 Global notice. CN terms remain separate.",
+        "ko": "9월 17일 글로벌 공식 공지의 영문·한국어 명칭입니다. 중국 획득 조건은 별도로 유지합니다."
+      },
+      "mediaStatus": "verified"
     },
     {
       "id": "wanlai-zhan-han-lin",
@@ -5382,8 +5463,8 @@
       "romanization": "Wan He Qing Xiang",
       "category": "outfit",
       "sourceId": "cn-20260226-outfits",
-      "officialNameEn": null,
-      "officialNameKo": null,
+      "officialNameEn": "Valley's Echo",
+      "officialNameKo": "만학의 메아리",
       "cnRelease": {
         "date": "2026-02-27",
         "precision": "day",
@@ -5438,10 +5519,31 @@
           "inspectionNote": "Image and representative upper poster panels visually reviewed; acquisition facts taken from article text.",
           "reusePermission": "unknown",
           "localCopy": null
+        },
+        {
+          "url": "https://r.res.easebar.com/pic/20260917/3ad69e1a-9229-4960-bce3-b0e218dd4e5c.png",
+          "width": 1215,
+          "height": 1080,
+          "reusePermission": "unknown",
+          "visuallyInspected": true,
+          "sourceFrame": 0,
+          "inspectionNote": "Official named section and representative frame visually reviewed on September 20; preview, not in-game verification.",
+          "server": "Global"
         }
       ],
       "officialVideos": [],
-      "wikiDetails": true
+      "wikiDetails": true,
+      "searchAliases": [
+        "만학청향",
+        "Wan He Qing Xiang",
+        "Valley's Echo",
+        "만학의 메아리"
+      ],
+      "namingNote": {
+        "en": "Official English/Korean names from the September 17 Global notice. CN terms remain separate.",
+        "ko": "9월 17일 글로벌 공식 공지의 영문·한국어 명칭입니다. 중국 획득 조건은 별도로 유지합니다."
+      },
+      "mediaStatus": "verified"
     },
     {
       "id": "you-hu-sui-sui",
@@ -11243,8 +11345,8 @@
       "sourceId": "cn-ca623b874012",
       "acquisitionServer": "CN",
       "mediaServer": "CN",
-      "officialNameEn": null,
-      "officialNameKo": null,
+      "officialNameEn": "Goose Down",
+      "officialNameKo": "일석이조 거위",
       "cnRelease": {
         "date": "2025-12-05",
         "precision": "day",
@@ -11286,6 +11388,16 @@
           "reusePermission": "unknown",
           "localCopy": null,
           "server": "CN"
+        },
+        {
+          "url": "https://r.res.easebar.com/pic/20260917/229c3383-8370-44c3-8ee9-53d2f17a5bdf.png",
+          "width": 1080,
+          "height": 1350,
+          "reusePermission": "unknown",
+          "visuallyInspected": true,
+          "sourceFrame": 0,
+          "inspectionNote": "Official named section and representative frame visually reviewed on September 20; preview, not in-game verification.",
+          "server": "Global"
         }
       ],
       "officialVideos": [],
@@ -11295,7 +11407,17 @@
         "officialName": null,
         "releaseDate": null
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "searchAliases": [
+        "一箭双鹅",
+        "yi jianshuang e",
+        "Goose Down",
+        "일석이조 거위"
+      ],
+      "namingNote": {
+        "en": "Official English/Korean names from the September 17 Global notice. CN terms remain separate.",
+        "ko": "9월 17일 글로벌 공식 공지의 영문·한국어 명칭입니다. 중국 획득 조건은 별도로 유지합니다."
+      }
     },
     {
       "id": "xie-tian-xie-de",
@@ -20020,8 +20142,8 @@
       "sourceId": "cn-c2133042ccf0",
       "acquisitionServer": "CN",
       "mediaServer": "CN",
-      "officialNameEn": null,
-      "officialNameKo": null,
+      "officialNameEn": "Duskgem: Slender Crescent",
+      "officialNameKo": "흑옥-가느다란 달",
       "cnRelease": {
         "date": null,
         "precision": "unknown",
@@ -20063,6 +20185,16 @@
           "reusePermission": "unknown",
           "localCopy": null,
           "server": "CN"
+        },
+        {
+          "url": "https://r.res.easebar.com/pic/20260917/a25ffd40-688f-4da0-bcbb-fd5aaa714133.png",
+          "width": 1080,
+          "height": 1350,
+          "reusePermission": "unknown",
+          "visuallyInspected": true,
+          "sourceFrame": 0,
+          "inspectionNote": "Official named section and representative frame visually reviewed on September 20; preview, not in-game verification.",
+          "server": "Global"
         }
       ],
       "officialVideos": [],
@@ -20072,7 +20204,17 @@
         "officialName": null,
         "releaseDate": null
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "searchAliases": [
+        "玄瑛·钩月纤纤",
+        "xuan ying·gou yue xian xian",
+        "Duskgem: Slender Crescent",
+        "흑옥-가느다란 달"
+      ],
+      "namingNote": {
+        "en": "Official English/Korean names from the September 17 Global notice. CN terms remain separate.",
+        "ko": "9월 17일 글로벌 공식 공지의 영문·한국어 명칭입니다. 중국 획득 조건은 별도로 유지합니다."
+      }
     },
     {
       "id": "jin-wu-yu-ri",
@@ -23093,9 +23235,9 @@
       "category": "effect",
       "sourceId": "cn-328aa2453ae5",
       "acquisitionServer": "CN",
-      "mediaServer": "CN",
-      "officialNameEn": null,
-      "officialNameKo": null,
+      "mediaServer": "Global",
+      "officialNameEn": "Valor Aflame",
+      "officialNameKo": "영혼의 각인",
       "cnRelease": {
         "date": null,
         "precision": "unknown",
@@ -23122,16 +23264,37 @@
         "ko": "획득 방법과 출처의 조건을 확인하세요.",
         "sourceExcerpt": "「八方风雷枪」武学特效【英魂照骨】将于本周更新后上架。届时游侠可前往和鸣商店，以1个【八音窍】兑换获得"
       },
-      "images": [],
+      "images": [
+        {
+          "url": "https://r.res.easebar.com/pic/20260917/2d404e1a-1c8c-4f8b-a283-cb32bcdc088d.gif",
+          "width": 720,
+          "height": 405,
+          "reusePermission": "unknown",
+          "visuallyInspected": true,
+          "sourceFrame": 201,
+          "inspectionNote": "Official named section and representative frame visually reviewed on September 20; preview, not in-game verification.",
+          "server": "Global"
+        }
+      ],
       "officialVideos": [],
-      "mediaStatus": "pending",
+      "mediaStatus": "verified",
       "global": {
         "status": "unknown",
         "officialName": null,
         "releaseDate": null
       },
       "sourceEvidence": "「八方风雷枪」武学特效【英魂照骨】将于本周更新后上架。届时游侠可前往和鸣商店，以1个【八音窍】兑换获得",
-      "wikiDetails": true
+      "wikiDetails": true,
+      "searchAliases": [
+        "英魂照骨",
+        "ying hun zhao gu",
+        "Valor Aflame",
+        "영혼의 각인"
+      ],
+      "namingNote": {
+        "en": "Official English/Korean names from the September 17 Global notice. CN terms remain separate.",
+        "ko": "9월 17일 글로벌 공식 공지의 영문·한국어 명칭입니다. 중국 획득 조건은 별도로 유지합니다."
+      }
     },
     {
       "id": "ji-yue-zhang-feng",
@@ -44174,6 +44337,891 @@
         "출석 장신구"
       ],
       "mediaKind": "official"
+    },
+    {
+      "id": "ni-xing-kuang-ding-qian-qiu",
+      "nameOriginal": "拟形·匡定千秋",
+      "romanization": "Ni Xing · Kuang Ding Qian Qiu",
+      "category": "outfit",
+      "sourceId": "cn-20260915-appearance",
+      "acquisitionServer": "CN",
+      "mediaServer": "CN",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": "2026-09-17",
+        "precision": "day",
+        "timezone": null,
+        "contextual": false,
+        "basis": "Item-specific date in official announcement; not a verified actual release."
+      },
+      "acquisition": {
+        "kind": "shop",
+        "pricing": "fixed",
+        "amount": 60,
+        "regularAmount": null,
+        "currencyOriginal": "长鸣珠",
+        "location": {
+          "en": "Shop",
+          "ko": "상점",
+          "original": "商店"
+        },
+        "conditions": {
+          "en": "CN announcement terms only; start hour and timezone unstated.",
+          "ko": "중국 공지의 조건이며 시작 시각·시간대는 미표기입니다."
+        },
+        "en": "See the regional source terms.",
+        "ko": "해당 서버 공지의 조건을 확인하세요."
+      },
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260918/3eb1074e-7275-4d19-ae61-568af43a146a.jpg",
+          "width": 1920,
+          "height": 1080,
+          "reusePermission": "unknown",
+          "visuallyInspected": true,
+          "sourceFrame": 0,
+          "inspectionNote": "Official named section and representative frame visually reviewed on September 20; preview, not in-game verification.",
+          "server": "CN"
+        }
+      ],
+      "officialVideos": [],
+      "mediaStatus": "verified",
+      "namingNote": {
+        "en": "Provisional reading of the CN name; no official Global name verified.",
+        "ko": "중국 원명의 임시 독음이며 글로벌 공식명은 확인하지 못했습니다."
+      }
+    },
+    {
+      "id": "ni-xing-jing-hua-liu-fang",
+      "nameOriginal": "拟形·京华流芳",
+      "romanization": "Ni Xing · Jing Hua Liu Fang",
+      "category": "outfit",
+      "sourceId": "cn-20260915-appearance",
+      "acquisitionServer": "CN",
+      "mediaServer": "CN",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": "2026-09-17",
+        "precision": "day",
+        "timezone": null,
+        "contextual": false,
+        "basis": "Item-specific date in official announcement; not a verified actual release."
+      },
+      "acquisition": {
+        "kind": "shop",
+        "pricing": "fixed",
+        "amount": 60,
+        "regularAmount": null,
+        "currencyOriginal": "长鸣珠",
+        "location": {
+          "en": "Shop",
+          "ko": "상점",
+          "original": "商店"
+        },
+        "conditions": {
+          "en": "CN announcement terms only; start hour and timezone unstated.",
+          "ko": "중국 공지의 조건이며 시작 시각·시간대는 미표기입니다."
+        },
+        "en": "See the regional source terms.",
+        "ko": "해당 서버 공지의 조건을 확인하세요."
+      },
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260918/39d5eaf3-2bb3-4b11-9e56-ada5c0912ae5.jpg",
+          "width": 1080,
+          "height": 1920,
+          "reusePermission": "unknown",
+          "visuallyInspected": true,
+          "sourceFrame": 0,
+          "inspectionNote": "Official named section and representative frame visually reviewed on September 20; preview, not in-game verification.",
+          "server": "CN"
+        }
+      ],
+      "officialVideos": [],
+      "mediaStatus": "verified",
+      "namingNote": {
+        "en": "Provisional reading of the CN name; no official Global name verified.",
+        "ko": "중국 원명의 임시 독음이며 글로벌 공식명은 확인하지 못했습니다."
+      }
+    },
+    {
+      "id": "xing-luo-xing-han-xi-liu",
+      "nameOriginal": "星罗·星汉西流",
+      "romanization": "Xing Luo · Xing Han Xi Liu",
+      "category": "weapon_skin",
+      "sourceId": "cn-20260915-appearance",
+      "acquisitionServer": "CN",
+      "mediaServer": "CN",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": "2026-09-17",
+        "precision": "day",
+        "timezone": null,
+        "contextual": false,
+        "basis": "Item-specific date in official announcement; not a verified actual release."
+      },
+      "acquisition": {
+        "kind": "exchange_shop",
+        "pricing": "fixed",
+        "amount": 1,
+        "regularAmount": 2,
+        "currencyOriginal": "音玉",
+        "location": {
+          "en": "Draw Shop",
+          "ko": "공명 상점",
+          "original": "和鸣-闻音商店"
+        },
+        "conditions": {
+          "en": "Limited CN listing September 17–March 16, 2027, 05:00; timezone unstated.",
+          "ko": "중국 한정 판매: 9월 17일~2027년 3월 16일 05:00. 시간대 미표기."
+        },
+        "en": "See the regional source terms.",
+        "ko": "해당 서버 공지의 조건을 확인하세요."
+      },
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260918/8d60505c-2258-4d2d-8bde-56016a59d44d.jpg",
+          "width": 2880,
+          "height": 5120,
+          "reusePermission": "unknown",
+          "visuallyInspected": true,
+          "sourceFrame": 0,
+          "inspectionNote": "Official named section and representative frame visually reviewed on September 20; preview, not in-game verification.",
+          "server": "CN"
+        }
+      ],
+      "officialVideos": [],
+      "mediaStatus": "verified",
+      "namingNote": {
+        "en": "Provisional reading of the CN name; no official Global name verified.",
+        "ko": "중국 원명의 임시 독음이며 글로벌 공식명은 확인하지 못했습니다."
+      }
+    },
+    {
+      "id": "xing-luo-shen-heng-yue-luo",
+      "nameOriginal": "星罗·参横月落",
+      "romanization": "Xing Luo · Shen Heng Yue Luo",
+      "category": "weapon_skin",
+      "sourceId": "cn-20260915-appearance",
+      "acquisitionServer": "CN",
+      "mediaServer": "CN",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": "2026-09-17",
+        "precision": "day",
+        "timezone": null,
+        "contextual": false,
+        "basis": "Item-specific date in official announcement; not a verified actual release."
+      },
+      "acquisition": {
+        "kind": "exchange_shop",
+        "pricing": "fixed",
+        "amount": 1,
+        "regularAmount": 2,
+        "currencyOriginal": "音玉",
+        "location": {
+          "en": "Draw Shop",
+          "ko": "공명 상점",
+          "original": "和鸣-闻音商店"
+        },
+        "conditions": {
+          "en": "Limited CN listing September 17–March 16, 2027, 05:00; timezone unstated.",
+          "ko": "중국 한정 판매: 9월 17일~2027년 3월 16일 05:00. 시간대 미표기."
+        },
+        "en": "See the regional source terms.",
+        "ko": "해당 서버 공지의 조건을 확인하세요."
+      },
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260918/b59f9a3b-109a-47bd-9818-c9fc54e23126.jpg",
+          "width": 2880,
+          "height": 5120,
+          "reusePermission": "unknown",
+          "visuallyInspected": true,
+          "sourceFrame": 0,
+          "inspectionNote": "Official named section and representative frame visually reviewed on September 20; preview, not in-game verification.",
+          "server": "CN"
+        }
+      ],
+      "officialVideos": [],
+      "mediaStatus": "verified",
+      "namingNote": {
+        "en": "Provisional reading of the CN name; no official Global name verified.",
+        "ko": "중국 원명의 임시 독음이며 글로벌 공식명은 확인하지 못했습니다."
+      }
+    },
+    {
+      "id": "shu-shu-sheng-wei",
+      "nameOriginal": "薯薯生威",
+      "romanization": "Shu Shu Sheng Wei",
+      "category": "outfit",
+      "sourceId": "cn-20260916-appearance",
+      "acquisitionServer": "CN",
+      "mediaServer": "CN",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": "2026-09-24",
+        "precision": "day",
+        "timezone": null,
+        "contextual": false,
+        "basis": "Item-specific date in official announcement; not a verified actual release."
+      },
+      "acquisition": {
+        "kind": "event",
+        "pricing": "unknown",
+        "amount": null,
+        "regularAmount": null,
+        "currencyOriginal": null,
+        "location": {
+          "en": "Event",
+          "ko": "이벤트",
+          "original": "Event"
+        },
+        "conditions": {
+          "en": "From September 24, redeem a code from the specified offline McDonald’s collaboration meal. Meal price and Global availability unverified. The in-game event begins September 19; that is not the outfit date.",
+          "ko": "9월 24일부터 지정 맥도날드 오프라인 협업 세트의 코드를 교환해 획득합니다. 식사 가격·글로벌 도입은 미확인. 게임 이벤트 시작일인 9월 19일은 의상 획득일이 아닙니다."
+        },
+        "en": "See the regional source terms.",
+        "ko": "해당 서버 공지의 조건을 확인하세요."
+      },
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260918/06d21060-94e0-477d-9f9d-38f7cbe3dc7c.jpg",
+          "width": 2880,
+          "height": 5120,
+          "reusePermission": "unknown",
+          "visuallyInspected": true,
+          "sourceFrame": 0,
+          "inspectionNote": "Official named section and representative frame visually reviewed on September 20; preview, not in-game verification.",
+          "server": "CN"
+        }
+      ],
+      "officialVideos": [],
+      "mediaStatus": "verified",
+      "namingNote": {
+        "en": "Provisional reading of the CN name; no official Global name verified.",
+        "ko": "중국 원명의 임시 독음이며 글로벌 공식명은 확인하지 못했습니다."
+      }
+    },
+    {
+      "id": "ta-liu-liu",
+      "nameOriginal": "獭溜溜",
+      "romanization": "Ta Liu Liu",
+      "category": "mount",
+      "sourceId": "cn-20260916-appearance",
+      "acquisitionServer": "CN",
+      "mediaServer": "CN",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": "2026-09-17",
+        "precision": "day",
+        "timezone": null,
+        "contextual": false,
+        "basis": "Item-specific date in official announcement; not a verified actual release."
+      },
+      "acquisition": {
+        "kind": "shop",
+        "pricing": "fixed",
+        "amount": 680,
+        "regularAmount": null,
+        "currencyOriginal": "长鸣珠",
+        "location": {
+          "en": "Shop",
+          "ko": "상점",
+          "original": "商店"
+        },
+        "conditions": {
+          "en": "CN announcement terms only; start hour and timezone unstated.",
+          "ko": "중국 공지의 조건이며 시작 시각·시간대는 미표기입니다."
+        },
+        "en": "See the regional source terms.",
+        "ko": "해당 서버 공지의 조건을 확인하세요."
+      },
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260918/b7ee09f0-762b-4ac0-933e-00898083cad7.jpg",
+          "width": 3840,
+          "height": 2160,
+          "reusePermission": "unknown",
+          "visuallyInspected": true,
+          "sourceFrame": 0,
+          "inspectionNote": "Official named section and representative frame visually reviewed on September 20; preview, not in-game verification.",
+          "server": "CN"
+        }
+      ],
+      "officialVideos": [],
+      "mediaStatus": "verified",
+      "namingNote": {
+        "en": "Provisional reading of the CN name; no official Global name verified.",
+        "ko": "중국 원명의 임시 독음이며 글로벌 공식명은 확인하지 못했습니다."
+      }
+    },
+    {
+      "id": "you-luo-sheng-yan",
+      "nameOriginal": "幽罗盛筵",
+      "romanization": "You Luo Sheng Yan",
+      "category": "effect",
+      "sourceId": "cn-20260916-appearance",
+      "acquisitionServer": "CN",
+      "mediaServer": "CN",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": "2026-09-17",
+        "precision": "day",
+        "timezone": null,
+        "contextual": false,
+        "basis": "Item-specific date in official announcement; not a verified actual release."
+      },
+      "acquisition": {
+        "kind": "exchange_shop",
+        "pricing": "fixed",
+        "amount": 2,
+        "regularAmount": 3,
+        "currencyOriginal": "音玉",
+        "location": {
+          "en": "Draw Shop",
+          "ko": "공명 상점",
+          "original": "和鸣-闻音商店"
+        },
+        "conditions": {
+          "en": "CN discount ends November 2, 2026, 04:59:59; timezone unstated.",
+          "ko": "중국 할인 종료: 2026년 11월 2일 04:59:59. 시간대 미표기."
+        },
+        "en": "See the regional source terms.",
+        "ko": "해당 서버 공지의 조건을 확인하세요."
+      },
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260918/2daba11f-eb83-433b-b7ff-55f0099fc740.gif",
+          "width": 600,
+          "height": 270,
+          "reusePermission": "unknown",
+          "visuallyInspected": true,
+          "sourceFrame": 10,
+          "inspectionNote": "Official named section and representative frame visually reviewed on September 20; preview, not in-game verification.",
+          "server": "CN"
+        }
+      ],
+      "officialVideos": [],
+      "mediaStatus": "verified",
+      "namingNote": {
+        "en": "Provisional reading of the CN name; no official Global name verified.",
+        "ko": "중국 원명의 임시 독음이며 글로벌 공식명은 확인하지 못했습니다."
+      }
+    },
+    {
+      "id": "hao-dai-lai",
+      "nameOriginal": "好袋来",
+      "romanization": "Hao Dai Lai",
+      "category": "accessory",
+      "sourceId": "cn-20260917-appearance",
+      "acquisitionServer": "CN",
+      "mediaServer": "CN",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": "2026-09-19",
+        "precision": "day",
+        "timezone": null,
+        "contextual": false,
+        "basis": "Item-specific date in official announcement; not a verified actual release."
+      },
+      "acquisition": {
+        "kind": "shop",
+        "pricing": "fixed",
+        "amount": 60,
+        "regularAmount": null,
+        "currencyOriginal": "长鸣珠",
+        "location": {
+          "en": "Shop",
+          "ko": "상점",
+          "original": "商店"
+        },
+        "conditions": {
+          "en": "60 per random hat box, not all six hats. Six styles including one hidden style; no duplicates per opening. September 19–October 16, 05:00, timezone unstated.",
+          "ko": "60은 모자 6종 전체가 아닌 랜덤 상자 1개 가격입니다. 히든 포함 6종이며 개봉 시 중복 없음. 9월 19일~10월 16일 05:00, 시간대 미표기."
+        },
+        "en": "See the regional source terms.",
+        "ko": "해당 서버 공지의 조건을 확인하세요."
+      },
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260920/2a396b2f-caea-474c-9f4f-fb26d852f25f.png",
+          "width": 2448,
+          "height": 1378,
+          "reusePermission": "unknown",
+          "visuallyInspected": true,
+          "sourceFrame": 0,
+          "inspectionNote": "Official named section and representative frame visually reviewed on September 20; preview, not in-game verification.",
+          "server": "CN"
+        }
+      ],
+      "officialVideos": [],
+      "mediaStatus": "verified",
+      "namingNote": {
+        "en": "Provisional reading of the CN name; no official Global name verified.",
+        "ko": "중국 원명의 임시 독음이며 글로벌 공식명은 확인하지 못했습니다."
+      }
+    },
+    {
+      "id": "liang-chen-gong-wu-li-he",
+      "nameOriginal": "良辰共舞礼盒",
+      "romanization": "Liang Chen Gong Wu Li He",
+      "category": "effect",
+      "sourceId": "cn-20260917-appearance",
+      "acquisitionServer": "CN",
+      "mediaServer": "CN",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": "2026-09-19",
+        "precision": "day",
+        "timezone": null,
+        "contextual": false,
+        "basis": "Item-specific date in official announcement; not a verified actual release."
+      },
+      "acquisition": {
+        "kind": "event",
+        "pricing": "fixed",
+        "amount": 200,
+        "regularAmount": 400,
+        "currencyOriginal": "长鸣珠",
+        "location": {
+          "en": "Event",
+          "ko": "이벤트",
+          "original": "Event"
+        },
+        "conditions": {
+          "en": "Bundle includes an environment, an emote and a pose. September 19–October 16, 05:00, timezone unstated.",
+          "ko": "환경·표정 동작·자세가 포함된 묶음입니다. 9월 19일~10월 16일 05:00, 시간대 미표기."
+        },
+        "en": "See the regional source terms.",
+        "ko": "해당 서버 공지의 조건을 확인하세요."
+      },
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260920/69502327-50fc-4647-b6a2-5c0fc97d27a3.gif",
+          "width": 450,
+          "height": 600,
+          "reusePermission": "unknown",
+          "visuallyInspected": true,
+          "sourceFrame": 10,
+          "inspectionNote": "Official named section and representative frame visually reviewed on September 20; preview, not in-game verification.",
+          "server": "CN"
+        }
+      ],
+      "officialVideos": [],
+      "mediaStatus": "verified",
+      "namingNote": {
+        "en": "Provisional reading of the CN name; no official Global name verified.",
+        "ko": "중국 원명의 임시 독음이며 글로벌 공식명은 확인하지 못했습니다."
+      }
+    },
+    {
+      "id": "hua-rong-rong",
+      "nameOriginal": "花绒绒",
+      "romanization": "Hua Rong Rong",
+      "category": "effect",
+      "sourceId": "cn-20260917-appearance",
+      "acquisitionServer": "CN",
+      "mediaServer": "CN",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": "2026-09-19",
+        "precision": "day",
+        "timezone": null,
+        "contextual": false,
+        "basis": "Item-specific date in official announcement; not a verified actual release."
+      },
+      "acquisition": {
+        "kind": "shop",
+        "pricing": "fixed",
+        "amount": 300,
+        "regularAmount": null,
+        "currencyOriginal": "长鸣珠",
+        "location": {
+          "en": "Shop",
+          "ko": "상점",
+          "original": "商店"
+        },
+        "conditions": {
+          "en": "CN listing: September 19–October 16, 05:00; timezone unstated.",
+          "ko": "중국 판매 기간: 9월 19일~10월 16일 05:00. 시간대 미표기."
+        },
+        "en": "See the regional source terms.",
+        "ko": "해당 서버 공지의 조건을 확인하세요."
+      },
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260920/9c779fd8-5390-4fcf-a0d3-d96644f7f805.gif",
+          "width": 600,
+          "height": 450,
+          "reusePermission": "unknown",
+          "visuallyInspected": true,
+          "sourceFrame": 10,
+          "inspectionNote": "Official named section and representative frame visually reviewed on September 20; preview, not in-game verification.",
+          "server": "CN"
+        }
+      ],
+      "officialVideos": [],
+      "mediaStatus": "verified",
+      "namingNote": {
+        "en": "Provisional reading of the CN name; no official Global name verified.",
+        "ko": "중국 원명의 임시 독음이며 글로벌 공식명은 확인하지 못했습니다."
+      }
+    },
+    {
+      "id": "tian-jiang-jin-xiu",
+      "nameOriginal": "天降金馐",
+      "romanization": "Tian Jiang Jin Xiu",
+      "category": "effect",
+      "sourceId": "cn-20260917-appearance",
+      "acquisitionServer": "CN",
+      "mediaServer": "CN",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": "2026-09-19",
+        "precision": "day",
+        "timezone": null,
+        "contextual": false,
+        "basis": "Item-specific date in official announcement; not a verified actual release."
+      },
+      "acquisition": {
+        "kind": "shop",
+        "pricing": "fixed",
+        "amount": 60,
+        "regularAmount": 300,
+        "currencyOriginal": "长鸣珠",
+        "location": {
+          "en": "Shop",
+          "ko": "상점",
+          "original": "商店"
+        },
+        "conditions": {
+          "en": "CN listing: September 19–October 16, 05:00; timezone unstated.",
+          "ko": "중국 판매 기간: 9월 19일~10월 16일 05:00. 시간대 미표기."
+        },
+        "en": "See the regional source terms.",
+        "ko": "해당 서버 공지의 조건을 확인하세요."
+      },
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260920/840e0e3b-0303-43df-ac26-849da19be2f3.gif",
+          "width": 600,
+          "height": 338,
+          "reusePermission": "unknown",
+          "visuallyInspected": true,
+          "sourceFrame": 10,
+          "inspectionNote": "Official named section and representative frame visually reviewed on September 20; preview, not in-game verification.",
+          "server": "CN"
+        }
+      ],
+      "officialVideos": [],
+      "mediaStatus": "verified",
+      "namingNote": {
+        "en": "Provisional reading of the CN name; no official Global name verified.",
+        "ko": "중국 원명의 임시 독음이며 글로벌 공식명은 확인하지 못했습니다."
+      }
+    },
+    {
+      "id": "sui-sui-jiu-an",
+      "nameOriginal": "岁岁久安",
+      "romanization": "Sui Sui Jiu An",
+      "category": "accessory",
+      "sourceId": "cn-20260917-appearance",
+      "acquisitionServer": "CN",
+      "mediaServer": "CN",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": "2026-09-19",
+        "precision": "day",
+        "timezone": null,
+        "contextual": false,
+        "basis": "Item-specific date in official announcement; not a verified actual release."
+      },
+      "acquisition": {
+        "kind": "shop",
+        "pricing": "fixed",
+        "amount": 60,
+        "regularAmount": null,
+        "currencyOriginal": "长鸣珠",
+        "location": {
+          "en": "Shop",
+          "ko": "상점",
+          "original": "商店"
+        },
+        "conditions": {
+          "en": "CN listing: September 19–October 16, 05:00; timezone unstated.",
+          "ko": "중국 판매 기간: 9월 19일~10월 16일 05:00. 시간대 미표기."
+        },
+        "en": "See the regional source terms.",
+        "ko": "해당 서버 공지의 조건을 확인하세요."
+      },
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260920/2191d77d-b838-4be8-a122-bf504888874f.jpg",
+          "width": 2560,
+          "height": 1440,
+          "reusePermission": "unknown",
+          "visuallyInspected": true,
+          "sourceFrame": 0,
+          "inspectionNote": "Official named section and representative frame visually reviewed on September 20; preview, not in-game verification.",
+          "server": "CN"
+        }
+      ],
+      "officialVideos": [],
+      "mediaStatus": "verified",
+      "namingNote": {
+        "en": "Provisional reading of the CN name; no official Global name verified.",
+        "ko": "중국 원명의 임시 독음이며 글로벌 공식명은 확인하지 못했습니다."
+      }
+    },
+    {
+      "id": "si-fang-de-yi",
+      "nameOriginal": "四方得意",
+      "romanization": "Si Fang De Yi",
+      "category": "accessory",
+      "sourceId": "cn-20260917-appearance",
+      "acquisitionServer": "CN",
+      "mediaServer": "CN",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": "2026-09-19",
+        "precision": "day",
+        "timezone": null,
+        "contextual": false,
+        "basis": "Item-specific date in official announcement; not a verified actual release."
+      },
+      "acquisition": {
+        "kind": "shop",
+        "pricing": "fixed",
+        "amount": 60,
+        "regularAmount": null,
+        "currencyOriginal": "长鸣珠",
+        "location": {
+          "en": "Shop",
+          "ko": "상점",
+          "original": "商店"
+        },
+        "conditions": {
+          "en": "CN listing: September 19–October 16, 05:00; timezone unstated.",
+          "ko": "중국 판매 기간: 9월 19일~10월 16일 05:00. 시간대 미표기."
+        },
+        "en": "See the regional source terms.",
+        "ko": "해당 서버 공지의 조건을 확인하세요."
+      },
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260920/4299e0ad-acad-4e17-be37-22d3e277eb14.jpg",
+          "width": 2560,
+          "height": 1440,
+          "reusePermission": "unknown",
+          "visuallyInspected": true,
+          "sourceFrame": 0,
+          "inspectionNote": "Official named section and representative frame visually reviewed on September 20; preview, not in-game verification.",
+          "server": "CN"
+        }
+      ],
+      "officialVideos": [],
+      "mediaStatus": "verified",
+      "namingNote": {
+        "en": "Provisional reading of the CN name; no official Global name verified.",
+        "ko": "중국 원명의 임시 독음이며 글로벌 공식명은 확인하지 못했습니다."
+      }
+    },
+    {
+      "id": "chuo-chuo-you-yu",
+      "nameOriginal": "绰绰有鱼",
+      "romanization": "Chuo Chuo You Yu",
+      "category": "accessory",
+      "sourceId": "cn-20260917-appearance",
+      "acquisitionServer": "CN",
+      "mediaServer": "CN",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": "2026-09-19",
+        "precision": "day",
+        "timezone": null,
+        "contextual": false,
+        "basis": "Item-specific date in official announcement; not a verified actual release."
+      },
+      "acquisition": {
+        "kind": "shop",
+        "pricing": "fixed",
+        "amount": 60,
+        "regularAmount": null,
+        "currencyOriginal": "长鸣珠",
+        "location": {
+          "en": "Shop",
+          "ko": "상점",
+          "original": "商店"
+        },
+        "conditions": {
+          "en": "CN listing: September 19–October 16, 05:00; timezone unstated.",
+          "ko": "중국 판매 기간: 9월 19일~10월 16일 05:00. 시간대 미표기."
+        },
+        "en": "See the regional source terms.",
+        "ko": "해당 서버 공지의 조건을 확인하세요."
+      },
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260920/fd1161e4-f323-4004-8f42-16708e2858bc.jpg",
+          "width": 2560,
+          "height": 1440,
+          "reusePermission": "unknown",
+          "visuallyInspected": true,
+          "sourceFrame": 0,
+          "inspectionNote": "Official named section and representative frame visually reviewed on September 20; preview, not in-game verification.",
+          "server": "CN"
+        }
+      ],
+      "officialVideos": [],
+      "mediaStatus": "verified",
+      "namingNote": {
+        "en": "Provisional reading of the CN name; no official Global name verified.",
+        "ko": "중국 원명의 임시 독음이며 글로벌 공식명은 확인하지 못했습니다."
+      }
+    },
+    {
+      "id": "fu-dou-cai-dou",
+      "nameOriginal": "福兜财兜",
+      "romanization": "Fu Dou Cai Dou",
+      "category": "accessory",
+      "sourceId": "cn-20260917-appearance",
+      "acquisitionServer": "CN",
+      "mediaServer": "CN",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": "2026-09-19",
+        "precision": "day",
+        "timezone": null,
+        "contextual": false,
+        "basis": "Item-specific date in official announcement; not a verified actual release."
+      },
+      "acquisition": {
+        "kind": "shop",
+        "pricing": "fixed",
+        "amount": 60,
+        "regularAmount": null,
+        "currencyOriginal": "长鸣珠",
+        "location": {
+          "en": "Shop",
+          "ko": "상점",
+          "original": "商店"
+        },
+        "conditions": {
+          "en": "CN listing: September 19–October 16, 05:00; timezone unstated.",
+          "ko": "중국 판매 기간: 9월 19일~10월 16일 05:00. 시간대 미표기."
+        },
+        "en": "See the regional source terms.",
+        "ko": "해당 서버 공지의 조건을 확인하세요."
+      },
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260920/b843b96f-9e54-4476-8c44-93dad19fe861.jpg",
+          "width": 2560,
+          "height": 1440,
+          "reusePermission": "unknown",
+          "visuallyInspected": true,
+          "sourceFrame": 0,
+          "inspectionNote": "Official named section and representative frame visually reviewed on September 20; preview, not in-game verification.",
+          "server": "CN"
+        }
+      ],
+      "officialVideos": [],
+      "mediaStatus": "verified",
+      "namingNote": {
+        "en": "Provisional reading of the CN name; no official Global name verified.",
+        "ko": "중국 원명의 임시 독음이며 글로벌 공식명은 확인하지 못했습니다."
+      }
     }
   ],
   "contextualOfficialVideos": [

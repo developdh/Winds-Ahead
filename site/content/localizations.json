@@ -4800,5 +4800,110 @@
       "en": "A full-plate outfit with a flame helmet, red scarf and glowing embers, named in the official Global announcement. Acquisition and release details refer to Global only.",
       "ko": "불꽃 투구와 붉은 목도리, 잔불이 빛나는 전신 갑옷입니다. 글로벌 공식 공지에서 확인했으며 획득·출시 정보는 글로벌 기준입니다."
     }
+  },
+  "ni-xing-kuang-ding-qian-qiu": {
+    "koName": "의형 · 광정천추",
+    "description": {
+      "en": "CN official appearance announcement. Global release remains unconfirmed.",
+      "ko": "중국 공식 공지에 소개된 외관입니다. 글로벌 출시는 미확인입니다."
+    }
+  },
+  "ni-xing-jing-hua-liu-fang": {
+    "koName": "의형 · 경화유방",
+    "description": {
+      "en": "CN official appearance announcement. Global release remains unconfirmed.",
+      "ko": "중국 공식 공지에 소개된 외관입니다. 글로벌 출시는 미확인입니다."
+    }
+  },
+  "xing-luo-xing-han-xi-liu": {
+    "koName": "성라 · 성한서류",
+    "description": {
+      "en": "CN official appearance announcement. Global release remains unconfirmed.",
+      "ko": "중국 공식 공지에 소개된 외관입니다. 글로벌 출시는 미확인입니다."
+    }
+  },
+  "xing-luo-shen-heng-yue-luo": {
+    "koName": "성라 · 삼횡월락",
+    "description": {
+      "en": "CN official appearance announcement. Global release remains unconfirmed.",
+      "ko": "중국 공식 공지에 소개된 외관입니다. 글로벌 출시는 미확인입니다."
+    }
+  },
+  "shu-shu-sheng-wei": {
+    "koName": "서서생위",
+    "description": {
+      "en": "CN official appearance announcement. Global release remains unconfirmed.",
+      "ko": "중국 공식 공지에 소개된 외관입니다. 글로벌 출시는 미확인입니다."
+    }
+  },
+  "ta-liu-liu": {
+    "koName": "달류류",
+    "description": {
+      "en": "CN official appearance announcement. Global release remains unconfirmed.",
+      "ko": "중국 공식 공지에 소개된 외관입니다. 글로벌 출시는 미확인입니다."
+    }
+  },
+  "you-luo-sheng-yan": {
+    "koName": "유라성연",
+    "description": {
+      "en": "CN official appearance announcement. Global release remains unconfirmed.",
+      "ko": "중국 공식 공지에 소개된 외관입니다. 글로벌 출시는 미확인입니다."
+    }
+  },
+  "hao-dai-lai": {
+    "koName": "호대래",
+    "description": {
+      "en": "CN official appearance announcement. Global release remains unconfirmed.",
+      "ko": "중국 공식 공지에 소개된 외관입니다. 글로벌 출시는 미확인입니다."
+    }
+  },
+  "liang-chen-gong-wu-li-he": {
+    "koName": "양진공무 예함",
+    "description": {
+      "en": "CN official appearance announcement. Global release remains unconfirmed.",
+      "ko": "중국 공식 공지에 소개된 외관입니다. 글로벌 출시는 미확인입니다."
+    }
+  },
+  "hua-rong-rong": {
+    "koName": "화융융",
+    "description": {
+      "en": "CN official appearance announcement. Global release remains unconfirmed.",
+      "ko": "중국 공식 공지에 소개된 외관입니다. 글로벌 출시는 미확인입니다."
+    }
+  },
+  "tian-jiang-jin-xiu": {
+    "koName": "천강금수",
+    "description": {
+      "en": "CN official appearance announcement. Global release remains unconfirmed.",
+      "ko": "중국 공식 공지에 소개된 외관입니다. 글로벌 출시는 미확인입니다."
+    }
+  },
+  "sui-sui-jiu-an": {
+    "koName": "세세구안",
+    "description": {
+      "en": "CN official appearance announcement. Global release remains unconfirmed.",
+      "ko": "중국 공식 공지에 소개된 외관입니다. 글로벌 출시는 미확인입니다."
+    }
+  },
+  "si-fang-de-yi": {
+    "koName": "사방득의",
+    "description": {
+      "en": "CN official appearance announcement. Global release remains unconfirmed.",
+      "ko": "중국 공식 공지에 소개된 외관입니다. 글로벌 출시는 미확인입니다."
+    }
+  },
+  "chuo-chuo-you-yu": {
+    "koName": "작작유어",
+    "description": {
+      "en": "CN official appearance announcement. Global release remains unconfirmed.",
+      "ko": "중국 공식 공지에 소개된 외관입니다. 글로벌 출시는 미확인입니다."
+    }
+  },
+  "fu-dou-cai-dou": {
+    "koName": "복두재두",
+    "description": {
+      "en": "CN official appearance announcement. Global release remains unconfirmed.",
+      "ko": "중국 공식 공지에 소개된 외관입니다. 글로벌 출시는 미확인입니다."
+    }
   }
 }

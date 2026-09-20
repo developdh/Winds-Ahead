@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "verifiedAt": "2026-09-14",
+  "verifiedAt": "2026-09-20",
   "records": [
     {
       "cosmeticId": "shang-qing-yun",
@@ -13422,6 +13422,481 @@
           "en": "The Global notice does not state a price, currency, or required reward level. CN terms are not applied to Global.",
           "ko": "글로벌 공지에 가격·통화·필요 보상 레벨은 미표기입니다. 중국 조건을 글로벌에 적용하지 않습니다."
         }
+      }
+    },
+    {
+      "cosmeticId": "ying-hun-zhao-gu",
+      "server": "Global",
+      "status": "announced",
+      "releaseDate": "2026-09-20",
+      "precision": "day",
+      "verifiedAt": "2026-09-20",
+      "sourceIds": [
+        "global-20260917-appearance-en",
+        "global-20260917-appearance-ko"
+      ],
+      "scope": {
+        "en": "Announced for September 20, 05:00 (UTC+8). The Korean notice says 06:00 without printing a timezone. A passed date alone does not verify release.",
+        "ko": "9월 20일 05:00(UTC+8) 출시 예고입니다. 한국어 공지는 시간대 없이 06:00로 표기합니다. 날짜 경과만으로 실제 출시를 확인하지 않습니다."
+      },
+      "identityBasis": {
+        "en": "Same Stormbreaker Spear skill and the same distinctive storm/thunder youth verse in both official notices; textual match, no CN image available.",
+        "ko": "두 공식 공지의 동일한 풍뢰 창술과 소년·풍뢰·전장 문구를 대조한 문맥상 대응입니다. 중국 이미지 대조는 불가합니다."
+      },
+      "acquisition": {
+        "kind": "exchange_shop",
+        "pricing": "unknown",
+        "amount": null,
+        "regularAmount": null,
+        "currencyOriginal": null,
+        "location": {
+          "en": "Draw Shop",
+          "ko": "공명 상점",
+          "original": "和鸣-闻音商店"
+        },
+        "conditions": {
+          "en": "Price and currency are not stated in this regional notice.",
+          "ko": "해당 서버 공지에 가격·통화가 명시되지 않았습니다."
+        },
+        "en": "See the regional source terms.",
+        "ko": "해당 서버 공지의 조건을 확인하세요."
+      }
+    },
+    {
+      "cosmeticId": "xuan-yinggou-yue-xian-xian",
+      "server": "Global",
+      "status": "announced",
+      "releaseDate": "2026-09-20",
+      "precision": "day",
+      "verifiedAt": "2026-09-20",
+      "sourceIds": [
+        "global-20260917-appearance-en",
+        "global-20260917-appearance-ko"
+      ],
+      "scope": {
+        "en": "Announced for September 20, 05:00 (UTC+8). The Korean notice says 06:00 without printing a timezone. A passed date alone does not verify release.",
+        "ko": "9월 20일 05:00(UTC+8) 출시 예고입니다. 한국어 공지는 시간대 없이 06:00로 표기합니다. 날짜 경과만으로 실제 출시를 확인하지 않습니다."
+      },
+      "identityBasis": {
+        "en": "Same narrow blue crystalline sword, star particles, gold crescent guard and female pose.",
+        "ko": "푸른 수정 검신·별빛·금색 초승달 가드와 여성 캐릭터 구도가 일치합니다."
+      },
+      "acquisition": {
+        "kind": "unknown",
+        "pricing": "unknown",
+        "amount": null,
+        "regularAmount": null,
+        "currencyOriginal": null,
+        "location": {
+          "en": "Unverified",
+          "ko": "확인 중",
+          "original": "Event"
+        },
+        "conditions": {
+          "en": "Price and currency are not stated in this regional notice.",
+          "ko": "해당 서버 공지에 가격·통화가 명시되지 않았습니다."
+        },
+        "en": "See the regional source terms.",
+        "ko": "해당 서버 공지의 조건을 확인하세요."
+      }
+    },
+    {
+      "cosmeticId": "xuanying-lianchen-buran",
+      "server": "Global",
+      "status": "announced",
+      "releaseDate": "2026-09-20",
+      "precision": "day",
+      "verifiedAt": "2026-09-20",
+      "sourceIds": [
+        "global-20260917-appearance-en",
+        "global-20260917-appearance-ko"
+      ],
+      "scope": {
+        "en": "Announced for September 20, 05:00 (UTC+8). The Korean notice says 06:00 without printing a timezone. A passed date alone does not verify release.",
+        "ko": "9월 20일 05:00(UTC+8) 출시 예고입니다. 한국어 공지는 시간대 없이 06:00로 표기합니다. 날짜 경과만으로 실제 출시를 확인하지 않습니다."
+      },
+      "identityBasis": {
+        "en": "Same luminous blue Heng blade, curved gold hilt and suspended lotus ornament.",
+        "ko": "빛나는 푸른 횡도·굽은 금색 손잡이·매달린 연꽃 장식이 일치합니다."
+      },
+      "acquisition": {
+        "kind": "unknown",
+        "pricing": "unknown",
+        "amount": null,
+        "regularAmount": null,
+        "currencyOriginal": null,
+        "location": {
+          "en": "Unverified",
+          "ko": "확인 중",
+          "original": "Event"
+        },
+        "conditions": {
+          "en": "Price and currency are not stated in this regional notice.",
+          "ko": "해당 서버 공지에 가격·통화가 명시되지 않았습니다."
+        },
+        "en": "See the regional source terms.",
+        "ko": "해당 서버 공지의 조건을 확인하세요."
+      }
+    },
+    {
+      "cosmeticId": "wan-he-qing-xiang",
+      "server": "Global",
+      "status": "announced",
+      "releaseDate": "2026-09-20",
+      "precision": "day",
+      "verifiedAt": "2026-09-20",
+      "sourceIds": [
+        "global-20260917-appearance-en",
+        "global-20260917-appearance-ko"
+      ],
+      "scope": {
+        "en": "Announced for September 20, 05:00 (UTC+8). The Korean notice says 06:00 without printing a timezone. A passed date alone does not verify release.",
+        "ko": "9월 20일 05:00(UTC+8) 출시 예고입니다. 한국어 공지는 시간대 없이 06:00로 표기합니다. 날짜 경과만으로 실제 출시를 확인하지 않습니다."
+      },
+      "identityBasis": {
+        "en": "Same pale scholarly robes, square cap, blue sash and round waist ornament, in the same library setting.",
+        "ko": "같은 서재 배경의 옅은 문인복·각진 모자·푸른 허리띠·둥근 허리 장식이 일치합니다."
+      },
+      "acquisition": {
+        "kind": "unknown",
+        "pricing": "unknown",
+        "amount": null,
+        "regularAmount": null,
+        "currencyOriginal": null,
+        "location": {
+          "en": "Unverified",
+          "ko": "확인 중",
+          "original": "Event"
+        },
+        "conditions": {
+          "en": "Price and currency are not stated in this regional notice.",
+          "ko": "해당 서버 공지에 가격·통화가 명시되지 않았습니다."
+        },
+        "en": "See the regional source terms.",
+        "ko": "해당 서버 공지의 조건을 확인하세요."
+      }
+    },
+    {
+      "cosmeticId": "yi-jianshuang-e",
+      "server": "Global",
+      "status": "announced",
+      "releaseDate": "2026-09-20",
+      "precision": "day",
+      "verifiedAt": "2026-09-20",
+      "sourceIds": [
+        "global-20260917-appearance-en",
+        "global-20260917-appearance-ko"
+      ],
+      "scope": {
+        "en": "Announced for September 20, 05:00 (UTC+8). The Korean notice says 06:00 without printing a timezone. A passed date alone does not verify release.",
+        "ko": "9월 20일 05:00(UTC+8) 출시 예고입니다. 한국어 공지는 시간대 없이 06:00로 표기합니다. 날짜 경과만으로 실제 출시를 확인하지 않습니다."
+      },
+      "identityBasis": {
+        "en": "Same yellow bow with two white goose figures and matching promotional composition.",
+        "ko": "두 흰 거위가 붙은 노란 활과 홍보 이미지 구도가 일치합니다."
+      },
+      "acquisition": {
+        "kind": "unknown",
+        "pricing": "unknown",
+        "amount": null,
+        "regularAmount": null,
+        "currencyOriginal": null,
+        "location": {
+          "en": "Unverified",
+          "ko": "확인 중",
+          "original": "Event"
+        },
+        "conditions": {
+          "en": "Price and currency are not stated in this regional notice.",
+          "ko": "해당 서버 공지에 가격·통화가 명시되지 않았습니다."
+        },
+        "en": "See the regional source terms.",
+        "ko": "해당 서버 공지의 조건을 확인하세요."
+      }
+    },
+    {
+      "cosmeticId": "ni-xing-kuang-ding-qian-qiu",
+      "server": "CN",
+      "status": "announced",
+      "releaseDate": "2026-09-17",
+      "precision": "day",
+      "verifiedAt": "2026-09-20",
+      "sourceIds": [
+        "cn-20260915-appearance"
+      ],
+      "scope": {
+        "en": "CN announcement terms only; start hour and timezone unstated.",
+        "ko": "중국 공지의 조건이며 시작 시각·시간대는 미표기입니다."
+      },
+      "identityBasis": {
+        "en": "Named item and corresponding preview in the CN official notice.",
+        "ko": "중국 공식 공지의 외관명과 해당 미리보기를 대조했습니다."
+      }
+    },
+    {
+      "cosmeticId": "ni-xing-jing-hua-liu-fang",
+      "server": "CN",
+      "status": "announced",
+      "releaseDate": "2026-09-17",
+      "precision": "day",
+      "verifiedAt": "2026-09-20",
+      "sourceIds": [
+        "cn-20260915-appearance"
+      ],
+      "scope": {
+        "en": "CN announcement terms only; start hour and timezone unstated.",
+        "ko": "중국 공지의 조건이며 시작 시각·시간대는 미표기입니다."
+      },
+      "identityBasis": {
+        "en": "Named item and corresponding preview in the CN official notice.",
+        "ko": "중국 공식 공지의 외관명과 해당 미리보기를 대조했습니다."
+      }
+    },
+    {
+      "cosmeticId": "xing-luo-xing-han-xi-liu",
+      "server": "CN",
+      "status": "announced",
+      "releaseDate": "2026-09-17",
+      "precision": "day",
+      "verifiedAt": "2026-09-20",
+      "sourceIds": [
+        "cn-20260915-appearance"
+      ],
+      "scope": {
+        "en": "Limited CN listing September 17–March 16, 2027, 05:00; timezone unstated.",
+        "ko": "중국 한정 판매: 9월 17일~2027년 3월 16일 05:00. 시간대 미표기."
+      },
+      "identityBasis": {
+        "en": "Named item and corresponding preview in the CN official notice.",
+        "ko": "중국 공식 공지의 외관명과 해당 미리보기를 대조했습니다."
+      }
+    },
+    {
+      "cosmeticId": "xing-luo-shen-heng-yue-luo",
+      "server": "CN",
+      "status": "announced",
+      "releaseDate": "2026-09-17",
+      "precision": "day",
+      "verifiedAt": "2026-09-20",
+      "sourceIds": [
+        "cn-20260915-appearance"
+      ],
+      "scope": {
+        "en": "Limited CN listing September 17–March 16, 2027, 05:00; timezone unstated.",
+        "ko": "중국 한정 판매: 9월 17일~2027년 3월 16일 05:00. 시간대 미표기."
+      },
+      "identityBasis": {
+        "en": "Named item and corresponding preview in the CN official notice.",
+        "ko": "중국 공식 공지의 외관명과 해당 미리보기를 대조했습니다."
+      }
+    },
+    {
+      "cosmeticId": "shu-shu-sheng-wei",
+      "server": "CN",
+      "status": "announced",
+      "releaseDate": "2026-09-24",
+      "precision": "day",
+      "verifiedAt": "2026-09-20",
+      "sourceIds": [
+        "cn-20260916-appearance"
+      ],
+      "scope": {
+        "en": "From September 24, redeem a code from the specified offline McDonald’s collaboration meal. Meal price and Global availability unverified. The in-game event begins September 19; that is not the outfit date.",
+        "ko": "9월 24일부터 지정 맥도날드 오프라인 협업 세트의 코드를 교환해 획득합니다. 식사 가격·글로벌 도입은 미확인. 게임 이벤트 시작일인 9월 19일은 의상 획득일이 아닙니다."
+      },
+      "identityBasis": {
+        "en": "Named item and corresponding preview in the CN official notice.",
+        "ko": "중국 공식 공지의 외관명과 해당 미리보기를 대조했습니다."
+      }
+    },
+    {
+      "cosmeticId": "ta-liu-liu",
+      "server": "CN",
+      "status": "announced",
+      "releaseDate": "2026-09-17",
+      "precision": "day",
+      "verifiedAt": "2026-09-20",
+      "sourceIds": [
+        "cn-20260916-appearance"
+      ],
+      "scope": {
+        "en": "CN announcement terms only; start hour and timezone unstated.",
+        "ko": "중국 공지의 조건이며 시작 시각·시간대는 미표기입니다."
+      },
+      "identityBasis": {
+        "en": "Named item and corresponding preview in the CN official notice.",
+        "ko": "중국 공식 공지의 외관명과 해당 미리보기를 대조했습니다."
+      }
+    },
+    {
+      "cosmeticId": "you-luo-sheng-yan",
+      "server": "CN",
+      "status": "announced",
+      "releaseDate": "2026-09-17",
+      "precision": "day",
+      "verifiedAt": "2026-09-20",
+      "sourceIds": [
+        "cn-20260916-appearance"
+      ],
+      "scope": {
+        "en": "CN discount ends November 2, 2026, 04:59:59; timezone unstated.",
+        "ko": "중국 할인 종료: 2026년 11월 2일 04:59:59. 시간대 미표기."
+      },
+      "identityBasis": {
+        "en": "Named item and corresponding preview in the CN official notice.",
+        "ko": "중국 공식 공지의 외관명과 해당 미리보기를 대조했습니다."
+      }
+    },
+    {
+      "cosmeticId": "hao-dai-lai",
+      "server": "CN",
+      "status": "announced",
+      "releaseDate": "2026-09-19",
+      "precision": "day",
+      "verifiedAt": "2026-09-20",
+      "sourceIds": [
+        "cn-20260917-appearance"
+      ],
+      "scope": {
+        "en": "60 per random hat box, not all six hats. Six styles including one hidden style; no duplicates per opening. September 19–October 16, 05:00, timezone unstated.",
+        "ko": "60은 모자 6종 전체가 아닌 랜덤 상자 1개 가격입니다. 히든 포함 6종이며 개봉 시 중복 없음. 9월 19일~10월 16일 05:00, 시간대 미표기."
+      },
+      "identityBasis": {
+        "en": "Named item and corresponding preview in the CN official notice.",
+        "ko": "중국 공식 공지의 외관명과 해당 미리보기를 대조했습니다."
+      }
+    },
+    {
+      "cosmeticId": "liang-chen-gong-wu-li-he",
+      "server": "CN",
+      "status": "announced",
+      "releaseDate": "2026-09-19",
+      "precision": "day",
+      "verifiedAt": "2026-09-20",
+      "sourceIds": [
+        "cn-20260917-appearance"
+      ],
+      "scope": {
+        "en": "Bundle includes an environment, an emote and a pose. September 19–October 16, 05:00, timezone unstated.",
+        "ko": "환경·표정 동작·자세가 포함된 묶음입니다. 9월 19일~10월 16일 05:00, 시간대 미표기."
+      },
+      "identityBasis": {
+        "en": "Named item and corresponding preview in the CN official notice.",
+        "ko": "중국 공식 공지의 외관명과 해당 미리보기를 대조했습니다."
+      }
+    },
+    {
+      "cosmeticId": "hua-rong-rong",
+      "server": "CN",
+      "status": "announced",
+      "releaseDate": "2026-09-19",
+      "precision": "day",
+      "verifiedAt": "2026-09-20",
+      "sourceIds": [
+        "cn-20260917-appearance"
+      ],
+      "scope": {
+        "en": "CN listing: September 19–October 16, 05:00; timezone unstated.",
+        "ko": "중국 판매 기간: 9월 19일~10월 16일 05:00. 시간대 미표기."
+      },
+      "identityBasis": {
+        "en": "Named item and corresponding preview in the CN official notice.",
+        "ko": "중국 공식 공지의 외관명과 해당 미리보기를 대조했습니다."
+      }
+    },
+    {
+      "cosmeticId": "tian-jiang-jin-xiu",
+      "server": "CN",
+      "status": "announced",
+      "releaseDate": "2026-09-19",
+      "precision": "day",
+      "verifiedAt": "2026-09-20",
+      "sourceIds": [
+        "cn-20260917-appearance"
+      ],
+      "scope": {
+        "en": "CN listing: September 19–October 16, 05:00; timezone unstated.",
+        "ko": "중국 판매 기간: 9월 19일~10월 16일 05:00. 시간대 미표기."
+      },
+      "identityBasis": {
+        "en": "Named item and corresponding preview in the CN official notice.",
+        "ko": "중국 공식 공지의 외관명과 해당 미리보기를 대조했습니다."
+      }
+    },
+    {
+      "cosmeticId": "sui-sui-jiu-an",
+      "server": "CN",
+      "status": "announced",
+      "releaseDate": "2026-09-19",
+      "precision": "day",
+      "verifiedAt": "2026-09-20",
+      "sourceIds": [
+        "cn-20260917-appearance"
+      ],
+      "scope": {
+        "en": "CN listing: September 19–October 16, 05:00; timezone unstated.",
+        "ko": "중국 판매 기간: 9월 19일~10월 16일 05:00. 시간대 미표기."
+      },
+      "identityBasis": {
+        "en": "Named item and corresponding preview in the CN official notice.",
+        "ko": "중국 공식 공지의 외관명과 해당 미리보기를 대조했습니다."
+      }
+    },
+    {
+      "cosmeticId": "si-fang-de-yi",
+      "server": "CN",
+      "status": "announced",
+      "releaseDate": "2026-09-19",
+      "precision": "day",
+      "verifiedAt": "2026-09-20",
+      "sourceIds": [
+        "cn-20260917-appearance"
+      ],
+      "scope": {
+        "en": "CN listing: September 19–October 16, 05:00; timezone unstated.",
+        "ko": "중국 판매 기간: 9월 19일~10월 16일 05:00. 시간대 미표기."
+      },
+      "identityBasis": {
+        "en": "Named item and corresponding preview in the CN official notice.",
+        "ko": "중국 공식 공지의 외관명과 해당 미리보기를 대조했습니다."
+      }
+    },
+    {
+      "cosmeticId": "chuo-chuo-you-yu",
+      "server": "CN",
+      "status": "announced",
+      "releaseDate": "2026-09-19",
+      "precision": "day",
+      "verifiedAt": "2026-09-20",
+      "sourceIds": [
+        "cn-20260917-appearance"
+      ],
+      "scope": {
+        "en": "CN listing: September 19–October 16, 05:00; timezone unstated.",
+        "ko": "중국 판매 기간: 9월 19일~10월 16일 05:00. 시간대 미표기."
+      },
+      "identityBasis": {
+        "en": "Named item and corresponding preview in the CN official notice.",
+        "ko": "중국 공식 공지의 외관명과 해당 미리보기를 대조했습니다."
+      }
+    },
+    {
+      "cosmeticId": "fu-dou-cai-dou",
+      "server": "CN",
+      "status": "announced",
+      "releaseDate": "2026-09-19",
+      "precision": "day",
+      "verifiedAt": "2026-09-20",
+      "sourceIds": [
+        "cn-20260917-appearance"
+      ],
+      "scope": {
+        "en": "CN listing: September 19–October 16, 05:00; timezone unstated.",
+        "ko": "중국 판매 기간: 9월 19일~10월 16일 05:00. 시간대 미표기."
+      },
+      "identityBasis": {
+        "en": "Named item and corresponding preview in the CN official notice.",
+        "ko": "중국 공식 공지의 외관명과 해당 미리보기를 대조했습니다."
       }
     }
   ]

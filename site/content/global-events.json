@@ -3223,6 +3223,91 @@
         "en": "Announced for after the September 16 version update (start timezone unstated). Exact opening hour is not stated.",
         "ko": "9월 16일 버전 업데이트 후 (시작 시간대 미표기) 출시 예정입니다. 정확한 시작 시각은 미표기입니다."
       }
+    },
+    {
+      "id": "release-global-ying-hun-zhao-gu",
+      "cosmeticId": "ying-hun-zhao-gu",
+      "date": "2026-09-20",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-20260917-appearance-en",
+        "global-20260917-appearance-ko"
+      ],
+      "status": "announced",
+      "scope": {
+        "en": "Announced for September 20, 05:00 (UTC+8). The Korean notice says 06:00 without printing a timezone. A passed date alone does not verify release.",
+        "ko": "9월 20일 05:00(UTC+8) 출시 예고입니다. 한국어 공지는 시간대 없이 06:00로 표기합니다. 날짜 경과만으로 실제 출시를 확인하지 않습니다."
+      }
+    },
+    {
+      "id": "release-global-xuan-yinggou-yue-xian-xian",
+      "cosmeticId": "xuan-yinggou-yue-xian-xian",
+      "date": "2026-09-20",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-20260917-appearance-en",
+        "global-20260917-appearance-ko"
+      ],
+      "status": "announced",
+      "scope": {
+        "en": "Announced for September 20, 05:00 (UTC+8). The Korean notice says 06:00 without printing a timezone. A passed date alone does not verify release.",
+        "ko": "9월 20일 05:00(UTC+8) 출시 예고입니다. 한국어 공지는 시간대 없이 06:00로 표기합니다. 날짜 경과만으로 실제 출시를 확인하지 않습니다."
+      }
+    },
+    {
+      "id": "release-global-xuanying-lianchen-buran",
+      "cosmeticId": "xuanying-lianchen-buran",
+      "date": "2026-09-20",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-20260917-appearance-en",
+        "global-20260917-appearance-ko"
+      ],
+      "status": "announced",
+      "scope": {
+        "en": "Announced for September 20, 05:00 (UTC+8). The Korean notice says 06:00 without printing a timezone. A passed date alone does not verify release.",
+        "ko": "9월 20일 05:00(UTC+8) 출시 예고입니다. 한국어 공지는 시간대 없이 06:00로 표기합니다. 날짜 경과만으로 실제 출시를 확인하지 않습니다."
+      }
+    },
+    {
+      "id": "release-global-wan-he-qing-xiang",
+      "cosmeticId": "wan-he-qing-xiang",
+      "date": "2026-09-20",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-20260917-appearance-en",
+        "global-20260917-appearance-ko"
+      ],
+      "status": "announced",
+      "scope": {
+        "en": "Announced for September 20, 05:00 (UTC+8). The Korean notice says 06:00 without printing a timezone. A passed date alone does not verify release.",
+        "ko": "9월 20일 05:00(UTC+8) 출시 예고입니다. 한국어 공지는 시간대 없이 06:00로 표기합니다. 날짜 경과만으로 실제 출시를 확인하지 않습니다."
+      }
+    },
+    {
+      "id": "release-global-yi-jianshuang-e",
+      "cosmeticId": "yi-jianshuang-e",
+      "date": "2026-09-20",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-20260917-appearance-en",
+        "global-20260917-appearance-ko"
+      ],
+      "status": "announced",
+      "scope": {
+        "en": "Announced for September 20, 05:00 (UTC+8). The Korean notice says 06:00 without printing a timezone. A passed date alone does not verify release.",
+        "ko": "9월 20일 05:00(UTC+8) 출시 예고입니다. 한국어 공지는 시간대 없이 06:00로 표기합니다. 날짜 경과만으로 실제 출시를 확인하지 않습니다."
+      }
     }
   ]
 }

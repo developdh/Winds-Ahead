@@ -2,6 +2,29 @@
   "schemaVersion": 1,
   "entries": [
     {
+      "id": "official-review-20260920",
+      "date": "2026-09-20",
+      "kind": {
+        "en": "Official notices & roadmap",
+        "ko": "공식 공지·로드맵"
+      },
+      "title": {
+        "en": "September notices and visible estimates",
+        "ko": "9월 신규 공지와 예상 일정 복원"
+      },
+      "body": {
+        "en": "Added five Global September 20 announcements and fifteen CN appearances. Estimates with a remaining window stay visible with a review reminder; past official dates remain in the calendar.",
+        "ko": "9월 20일 글로벌 외관 5종과 중국 외관 15종을 반영했습니다. 기간이 남은 예상은 재검토 표시와 함께 유지하며, 지난 공식 일정은 캘린더에 남깁니다."
+      },
+      "sourceIds": [
+        "global-20260917-appearance-en",
+        "global-20260917-appearance-ko",
+        "cn-20260915-appearance",
+        "cn-20260916-appearance",
+        "cn-20260917-appearance"
+      ]
+    },
+    {
       "id": "forged-in-fire-gallery-20260916",
       "date": "2026-09-16",
       "kind": {
