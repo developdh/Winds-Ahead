@@ -1,0 +1,116 @@
+{
+  "checkedAt": "2026-09-20",
+  "sources": [
+    {
+      "id": "global-20260917-appearance-en",
+      "url": "https://www.wherewindsmeetgame.com/news/official/920appearance.html",
+      "titleOriginal": "[Perilous Eminence] Version 2.2 New Appearances Overview - September 20",
+      "publisher": "NetEase / Where Winds Meet official website",
+      "server": "Global",
+      "displayedPublicationDate": "2026-09-17",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-09-20"
+    },
+    {
+      "id": "global-20260917-appearance-ko",
+      "url": "https://www.wherewindsmeetgame.com/kr/news/official/920appearance.html",
+      "titleOriginal": "[구름 위 동행] 9월 20일 2.2 버전 신규 외관 목록",
+      "publisher": "NetEase / Where Winds Meet official website",
+      "server": "Global",
+      "displayedPublicationDate": "2026-09-17",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-09-20"
+    },
+    {
+      "id": "cn-20260915-appearance",
+      "url": "https://www.yysls.cn/news/official/20260918/37780_1314347.html",
+      "titleOriginal": "相看戏中戏，对影身外身丨全新主题套装登场",
+      "publisher": "NetEase / Where Winds Meet official website",
+      "server": "CN",
+      "displayedPublicationDate": "2026-09-15",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-09-20"
+    },
+    {
+      "id": "cn-20260916-appearance",
+      "url": "https://www.yysls.cn/news/official/20260918/37780_1314348.html",
+      "titleOriginal": "全新活动丨金拱门中秋开，喜欢您就来！",
+      "publisher": "NetEase / Where Winds Meet official website",
+      "server": "CN",
+      "displayedPublicationDate": "2026-09-16",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-09-20"
+    },
+    {
+      "id": "cn-20260917-appearance",
+      "url": "https://www.yysls.cn/news/official/20260920/37780_1314431.html",
+      "titleOriginal": "9月24日丨入学在即，先览前路好风光！",
+      "publisher": "NetEase / Where Winds Meet official website",
+      "server": "CN",
+      "displayedPublicationDate": "2026-09-17",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-09-20"
+    }
+  ],
+  "globalMatches": [
+    {
+      "cosmeticId": "ying-hun-zhao-gu",
+      "identityBasis": "두 공식 공지의 동일한 풍뢰 창술과 소년·풍뢰·전장 문구를 대조한 문맥상 대응입니다. 중국 이미지 대조는 불가합니다.",
+      "method": "textual skill and verse comparison"
+    },
+    {
+      "cosmeticId": "xuan-yinggou-yue-xian-xian",
+      "identityBasis": "푸른 수정 검신·별빛·금색 초승달 가드와 여성 캐릭터 구도가 일치합니다.",
+      "method": "visual comparison"
+    },
+    {
+      "cosmeticId": "xuanying-lianchen-buran",
+      "identityBasis": "빛나는 푸른 횡도·굽은 금색 손잡이·매달린 연꽃 장식이 일치합니다.",
+      "method": "visual comparison"
+    },
+    {
+      "cosmeticId": "wan-he-qing-xiang",
+      "identityBasis": "같은 서재 배경의 옅은 문인복·각진 모자·푸른 허리띠·둥근 허리 장식이 일치합니다.",
+      "method": "visual comparison"
+    },
+    {
+      "cosmeticId": "yi-jianshuang-e",
+      "identityBasis": "두 흰 거위가 붙은 노란 활과 홍보 이미지 구도가 일치합니다.",
+      "method": "visual comparison"
+    }
+  ],
+  "addedCnIds": [
+    "ni-xing-kuang-ding-qian-qiu",
+    "ni-xing-jing-hua-liu-fang",
+    "xing-luo-xing-han-xi-liu",
+    "xing-luo-shen-heng-yue-luo",
+    "shu-shu-sheng-wei",
+    "ta-liu-liu",
+    "you-luo-sheng-yan",
+    "hao-dai-lai",
+    "liang-chen-gong-wu-li-he",
+    "hua-rong-rong",
+    "tian-jiang-jin-xiu",
+    "sui-sui-jiu-an",
+    "si-fang-de-yi",
+    "chuo-chuo-you-yu",
+    "fu-dou-cai-dou"
+  ],
+  "forecastDecision": "Keep the three original windows and revision history unchanged. No verified announcement for the three candidates found in inspected notices. New Duskgem sword/Heng releases do not establish a fan release order. Overdue estimates are labeled, not renewed.",
+  "collectionLimits": [
+    "Official X profile opened directly; latest September 19–20 posts concern story/gameplay, with no named cosmetic schedule. Older profile posts blocked by login wall. Not an exhaustive X review.",
+    "CN and Global official news indexes and September 15–17 appearance originals read. Dates passing do not confirm actual release.",
+    "CN Valor Aflame match is textual, not visual.",
+    "No Global prices inferred from CN prices; image reuse permission remains unknown."
+  ]
+}

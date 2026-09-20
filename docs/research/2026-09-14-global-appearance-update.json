@@ -1,0 +1,541 @@
+{
+  "verifiedAt": "2026-09-14",
+  "scope": "New Global September 16 cosmetic notice and eight associated existing CN records. Asset-only review; no project/Sites edits. No release is asserted to have happened.",
+  "sources": [
+    {
+      "id": "global-20260914-appearance-en",
+      "url": "https://www.wherewindsmeetgame.com/news/official/916appearance.html",
+      "title": "[Perilous Eminence] Version 2.2 New Appearances Overview - September 16",
+      "displayedPublicationDate": "2026-09-14",
+      "publicationTimezone": null
+    },
+    {
+      "id": "global-20260914-appearance-ko",
+      "url": "https://www.wherewindsmeetgame.com/kr/news/official/916appearance.html",
+      "title": "[구름 위 동행] 9월 16일 2.2 버전 신규 외관 목록",
+      "displayedPublicationDate": "2026-09-14",
+      "publicationTimezone": null
+    },
+    {
+      "id": "global-20260914-thousand-mistwreath-x",
+      "url": "https://x.com/WhereWindsMeet_/status/2099317213316428253",
+      "publisher": "Where Winds Meet verified official @WhereWindsMeet_",
+      "publishedAt": "2026-09-14T02:00:01.000Z",
+      "dateEvidence": "Read datetime attribute of the visible post time; rendered UI says 10:00 PM · Sep 13, 2026 in local browser timezone.",
+      "fullPostVisuallyOpened": true
+    }
+  ],
+  "entries": [
+    {
+      "cosmeticId": "zhen-han-liu",
+      "nameOriginal": "枕寒流",
+      "officialNameEn": "Chilled Current",
+      "officialNameKo": "찬 물결",
+      "identityStatus": "visually_matched_editorial_judgment",
+      "identityBasis": "Same male silver crown, blue patterned forehead band, ink landscape robe, blue iris shoulder/waist ornaments, tassels and lakeside scene.",
+      "sources": [
+        "global-20260914-appearance-en",
+        "global-20260914-appearance-ko"
+      ],
+      "globalRelease": {
+        "status": "announced",
+        "date": "2026-09-16",
+        "precision": "day",
+        "timezone": "UTC",
+        "basis": "After the version update; exact opening hour unstated.",
+        "timezoneEvidence": "Existing previously verified Global X poster"
+      },
+      "globalAcquisition": {
+        "kind": "battle_pass",
+        "location": {
+          "en": "Battle Pass",
+          "ko": "강호령"
+        },
+        "amount": null,
+        "regularAmount": null,
+        "currencyOriginal": null,
+        "pricing": "pass",
+        "limitations": "Global price/currency/required reward level not stated; CN values must not be copied."
+      },
+      "globalEnd": {
+        "dateTime": "2026-10-15T04:59",
+        "timezone": "UTC+08:00",
+        "precision": "minute",
+        "englishExactWording": "October 15, 4:59 (UTC+8)",
+        "koreanExactWording": "10월 15일 05:59까지",
+        "koreanLocalDateTime": "2026-10-15T05:59",
+        "koreanSourceTimezone": null,
+        "timezoneLimit": "Korean page is one hour later but does not print a timezone; do not label that Korean wording KST as a directly verified source fact. English UTC+8 is explicit."
+      },
+      "cnReference": {
+        "sourceUrl": "https://www.yysls.cn/news/official/20260807/37780_1310523.html",
+        "imageUrl": "https://nie.res.netease.com/r/pic/20260807/ee6d6298-a5ef-4b80-88ed-c58b3604cd84.jpg"
+      }
+    },
+    {
+      "cosmeticId": "wu-sheng-gu",
+      "nameOriginal": "无生蛊",
+      "officialNameEn": "Bane of Life",
+      "officialNameKo": "무생의 독충",
+      "identityStatus": "visually_matched_editorial_judgment",
+      "identityBasis": "Same white hair, silver insect-like crown, large curving centipede/dragon branches and white/purple butterfly forms as the named CN image.",
+      "sources": [
+        "global-20260914-appearance-en",
+        "global-20260914-appearance-ko"
+      ],
+      "globalRelease": {
+        "status": "announced",
+        "date": "2026-09-16",
+        "precision": "day",
+        "timezone": "UTC",
+        "basis": "After the version update; exact opening hour unstated.",
+        "timezoneEvidence": "Existing previously verified Global X poster"
+      },
+      "globalAcquisition": {
+        "kind": "draw",
+        "location": {
+          "en": "Draw Hairstyle & Accessory Set",
+          "ko": "공명 헤어 장신구 세트"
+        },
+        "amount": null,
+        "regularAmount": null,
+        "currencyOriginal": null,
+        "pricing": "unknown",
+        "limitations": "Global price/currency/required reward level not stated; CN values must not be copied."
+      },
+      "globalEnd": {
+        "dateTime": "2026-12-15T04:59",
+        "timezone": "UTC+08:00",
+        "precision": "minute",
+        "englishExactWording": "December 15, 4:59 (UTC+8)",
+        "koreanExactWording": "12월 15일 05:59까지",
+        "koreanLocalDateTime": "2026-12-15T05:59",
+        "koreanSourceTimezone": null,
+        "timezoneLimit": "Korean page is one hour later but does not print a timezone; do not label that Korean wording KST as a directly verified source fact. English UTC+8 is explicit."
+      },
+      "cnReference": {
+        "sourceUrl": "https://www.yysls.cn/news/official/20260424/37780_1297721.html",
+        "imageUrl": "https://nie.res.netease.com/r/pic/20260424/36853c24-5728-45b5-aa97-1e987efa4c38.png"
+      }
+    },
+    {
+      "cosmeticId": "ru-shi-yuan",
+      "nameOriginal": "如是愿",
+      "officialNameEn": "Thousand Blessings",
+      "officialNameKo": "천수관음",
+      "identityStatus": "visually_matched_editorial_judgment",
+      "identityBasis": "Same gold lotus crown with blue central gem, gold jewelry, translucent cream drapes, blue/black garments and character poses as the named CN 如是愿 images.",
+      "sources": [
+        "global-20260914-appearance-en",
+        "global-20260914-appearance-ko",
+        "global-20260914-thousand-mistwreath-x"
+      ],
+      "globalRelease": {
+        "status": "announced",
+        "date": "2026-09-16",
+        "precision": "day",
+        "timezone": "UTC",
+        "basis": "After the version update; exact opening hour unstated.",
+        "timezoneEvidence": "Fresh X poster visually inspected"
+      },
+      "globalAcquisition": {
+        "kind": "shop",
+        "location": {
+          "en": "Shop Appearance",
+          "ko": "상점 외관"
+        },
+        "amount": null,
+        "regularAmount": null,
+        "currencyOriginal": null,
+        "pricing": "unknown",
+        "limitations": "Global price/currency/required reward level not stated; CN values must not be copied.",
+        "conditions": "Separate top and bottom pieces and full dye support. X image expressly labels SHOP APPEARANCE; no price."
+      },
+      "globalEnd": null,
+      "cnReference": {
+        "sourceUrl": "https://www.yysls.cn/news/official/20260904/37780_1313151.html",
+        "imageUrl": "https://nie.res.netease.com/r/pic/20260904/c23c104b-6296-49d5-8c05-b26b70df7f2f.jpg"
+      }
+    },
+    {
+      "cosmeticId": "ying-kong",
+      "nameOriginal": "萦空",
+      "officialNameEn": "Mistwreath",
+      "officialNameKo": "허공의 물결",
+      "identityStatus": "visually_matched_editorial_judgment",
+      "identityBasis": "Same white swept-up hair and high gold lotus crown with blue oval gem; the female image is the same CN 萦空 pose, while the KR composite adds male front/rear views.",
+      "sources": [
+        "global-20260914-appearance-en",
+        "global-20260914-appearance-ko",
+        "global-20260914-thousand-mistwreath-x"
+      ],
+      "globalRelease": {
+        "status": "announced",
+        "date": "2026-09-16",
+        "precision": "day",
+        "timezone": "UTC",
+        "basis": "After the version update; exact opening hour unstated.",
+        "timezoneEvidence": "Fresh X poster visually inspected"
+      },
+      "globalAcquisition": {
+        "kind": "exchange",
+        "location": {
+          "en": "Draw Shop",
+          "ko": "공명 상점"
+        },
+        "amount": null,
+        "regularAmount": null,
+        "currencyOriginal": null,
+        "pricing": "unknown",
+        "limitations": "Global price/currency/required reward level not stated; CN values must not be copied.",
+        "conditions": "Draw Shop, limited-time listing. Cost and currency unstated."
+      },
+      "globalEnd": {
+        "dateTime": "2026-12-15T04:59:59",
+        "timezone": "UTC+08:00",
+        "precision": "second",
+        "englishExactWording": "4:59:59, December 15 (UTC+8)",
+        "koreanExactWording": "12월 15일 05:59:59까지",
+        "koreanLocalDateTime": "2026-12-15T05:59:59",
+        "koreanSourceTimezone": null,
+        "timezoneLimit": "Korean page is one hour later but does not print a timezone; do not label that Korean wording KST as a directly verified source fact. English UTC+8 is explicit."
+      },
+      "cnReference": {
+        "sourceUrl": "https://www.yysls.cn/news/official/20260904/37780_1313151.html",
+        "imageUrl": "https://nie.res.netease.com/r/pic/20260904/77ebbafa-fa99-49b0-932c-eb3a54b8e1a0.jpg"
+      }
+    },
+    {
+      "cosmeticId": "wan-laixue-zhi-feng",
+      "nameOriginal": "万籁·雪知风",
+      "officialNameEn": "Myriad Sounds: Snow's Lament",
+      "officialNameKo": "만물의 소리-눈꽃의 선율",
+      "identityStatus": "visually_matched_editorial_judgment",
+      "identityBasis": "Same pale umbrella, large blue-white flowers, crystalline pointed rim and chain of snowflakes, including the same frontal canopy composition as the retained CN weapon image.",
+      "sources": [
+        "global-20260914-appearance-en",
+        "global-20260914-appearance-ko"
+      ],
+      "globalRelease": {
+        "status": "announced",
+        "date": "2026-09-16",
+        "precision": "day",
+        "timezone": null,
+        "basis": "After the version update; exact opening hour unstated.",
+        "timezoneEvidence": "EN/KR website text does not state a start timezone."
+      },
+      "globalAcquisition": {
+        "kind": "unknown",
+        "location": null,
+        "amount": null,
+        "regularAmount": null,
+        "currencyOriginal": null,
+        "pricing": "unknown",
+        "limitations": "Global price/currency/required reward level not stated; CN values must not be copied."
+      },
+      "globalEnd": null,
+      "cnReference": {
+        "sourceUrl": "https://www.yysls.cn/news/official/20260116/37780_1282232.html",
+        "imageUrl": "https://nie.res.netease.com/r/pic/20260116/82f136c8-1a0a-4007-8971-56ad4d3756cf.jpg"
+      }
+    },
+    {
+      "cosmeticId": "wan-laifeng-fu-xue",
+      "nameOriginal": "万籁·风拂雪",
+      "officialNameEn": "Myriad Sounds: Wind's Reply",
+      "officialNameKo": "만물의 소리-바람의 눈꽃",
+      "identityStatus": "visually_matched_editorial_judgment",
+      "identityBasis": "Same silver fan ribs, blue-white flowers, pointed icy rim and snowflake edging as the CN image; the male holding pose also matches exactly.",
+      "sources": [
+        "global-20260914-appearance-en",
+        "global-20260914-appearance-ko"
+      ],
+      "globalRelease": {
+        "status": "announced",
+        "date": "2026-09-16",
+        "precision": "day",
+        "timezone": null,
+        "basis": "After the version update; exact opening hour unstated.",
+        "timezoneEvidence": "EN/KR website text does not state a start timezone."
+      },
+      "globalAcquisition": {
+        "kind": "unknown",
+        "location": null,
+        "amount": null,
+        "regularAmount": null,
+        "currencyOriginal": null,
+        "pricing": "unknown",
+        "limitations": "Global price/currency/required reward level not stated; CN values must not be copied."
+      },
+      "globalEnd": null,
+      "cnReference": {
+        "sourceUrl": "https://www.yysls.cn/news/official/20260116/37780_1282232.html",
+        "imageUrl": "https://nie.res.netease.com/r/pic/20260116/f9b0bc8c-e4ed-47c9-a706-aaf49a376934.jpg"
+      }
+    },
+    {
+      "cosmeticId": "sui-mian-xiu-luo",
+      "nameOriginal": "碎面修罗",
+      "officialNameEn": "Shattered Asura",
+      "officialNameKo": "봄빛 호리병",
+      "identityStatus": "visually_matched_editorial_judgment",
+      "identityBasis": "The EN and KR notices show the identical combined companion artwork: left cat has the green gourd with gold vines, yellow flute, red knots, white netting and tassels. This matches the existing CN 碎面修罗 image exactly. The striking semantic difference is not used as matching evidence.",
+      "sources": [
+        "global-20260914-appearance-en",
+        "global-20260914-appearance-ko"
+      ],
+      "globalRelease": {
+        "status": "announced",
+        "date": "2026-09-16",
+        "precision": "day",
+        "timezone": null,
+        "basis": "After the version update; exact opening hour unstated.",
+        "timezoneEvidence": "EN/KR website text does not state a start timezone."
+      },
+      "globalAcquisition": {
+        "kind": "unknown",
+        "location": null,
+        "amount": null,
+        "regularAmount": null,
+        "currencyOriginal": null,
+        "pricing": "unknown",
+        "limitations": "Global price/currency/required reward level not stated; CN values must not be copied."
+      },
+      "globalEnd": null,
+      "cnReference": {
+        "sourceUrl": "https://www.yysls.cn/news/official/20260829/37780_1312584.html",
+        "imageUrl": "https://nie.res.netease.com/r/pic/20260829/62417606-3cda-48a9-b872-93583a7b6736.png"
+      }
+    },
+    {
+      "cosmeticId": "die-qi-fang",
+      "nameOriginal": "蝶栖芳",
+      "officialNameEn": "Blossom Flutter",
+      "officialNameKo": "꽃에 머문 나비",
+      "identityStatus": "visually_matched_editorial_judgment",
+      "identityBasis": "The right cat in both EN/KR notices has the same large pink bow, gold bell strings, bead chain and purple glass ornament as the existing CN 蝶栖芳 image.",
+      "sources": [
+        "global-20260914-appearance-en",
+        "global-20260914-appearance-ko"
+      ],
+      "globalRelease": {
+        "status": "announced",
+        "date": "2026-09-16",
+        "precision": "day",
+        "timezone": null,
+        "basis": "After the version update; exact opening hour unstated.",
+        "timezoneEvidence": "EN/KR website text does not state a start timezone."
+      },
+      "globalAcquisition": {
+        "kind": "unknown",
+        "location": null,
+        "amount": null,
+        "regularAmount": null,
+        "currencyOriginal": null,
+        "pricing": "unknown",
+        "limitations": "Global price/currency/required reward level not stated; CN values must not be copied."
+      },
+      "globalEnd": null,
+      "cnReference": {
+        "sourceUrl": "https://www.yysls.cn/news/official/20260829/37780_1312584.html",
+        "imageUrl": "https://nie.res.netease.com/r/pic/20260829/bc01f9b4-db64-4d10-8bc9-1d2a76c07277.jpg"
+      }
+    }
+  ],
+  "previousValues": [
+    {
+      "cosmeticId": "zhen-han-liu",
+      "officialNameEn": "Chilled Current",
+      "officialNameKo": null,
+      "localization": {
+        "koName": "침한류",
+        "description": {
+          "en": "Ink-white robes with blue irises.",
+          "ko": "푸른 붓꽃으로 장식한 먹빛과 흰색 도포."
+        }
+      },
+      "regionalRecord": {
+        "cosmeticId": "zhen-han-liu",
+        "server": "Global",
+        "status": "announced",
+        "releaseDate": "2026-09-16",
+        "precision": "day",
+        "verifiedAt": "2026-09-13",
+        "sourceIds": [
+          "global-20260911-chilled-current"
+        ],
+        "scope": {
+          "en": "After the September 16 update (UTC, official poster); exact opening hour not stated. Pass available until October 15, 04:59 (UTC+8).",
+          "ko": "9월 16일 업데이트 후 (공식 이미지 UTC 기준). 정확한 시작 시각은 미표기. 강호령은 10월 15일 04:59 (UTC+8)까지."
+        },
+        "identityBasis": {
+          "en": "Official CN and Global panels show the same male crown, ink landscape robe and blue iris shoulder/waist details; both identify it as a battle pass outfit. This is a visual and acquisition match, not a translated-name guess.",
+          "ko": "중국·글로벌 공식 이미지의 남성 관, 수묵 산수 도포, 어깨와 허리의 파란 붓꽃 장식을 대조했고 양쪽 모두 강호령 의상임을 확인했습니다. 번역명만으로 연결하지 않았습니다."
+        },
+        "acquisition": {
+          "kind": "battle_pass",
+          "pricing": "pass",
+          "amount": null,
+          "regularAmount": null,
+          "currencyOriginal": null,
+          "location": {
+            "en": "Battle Pass",
+            "ko": "강호령",
+            "original": "Battle Pass"
+          },
+          "en": "Battle Pass reward.",
+          "ko": "강호령 보상.",
+          "conditions": {
+            "en": "The announcement identifies the Battle Pass set; price and required reward level are not stated.",
+            "ko": "공식 공지에서 강호령 의상으로 소개했습니다. 가격과 필요한 보상 레벨은 미표기입니다."
+          }
+        }
+      },
+      "namingNote": null
+    },
+    {
+      "cosmeticId": "wu-sheng-gu",
+      "officialNameEn": "Bane of Life",
+      "officialNameKo": null,
+      "localization": {
+        "koName": "무생고",
+        "description": {
+          "en": "A hairstyle and accessory set announced for Global on September 16 after the update (UTC). The CN edition includes dyeable hair, a hat, effect accessories, a face accessory and an animated avatar. Global pricing and individual included rewards have not yet been verified.",
+          "ko": "9월 16일 업데이트 후(UTC) 글로벌 출시 예정인 헤어·장신구 세트입니다. 중국 구성은 염색 가능한 헤어·모자·이펙트 장신구·얼굴 장식·동적 초상화이며, 글로벌의 개별 구성과 가격은 아직 확인 중입니다."
+        }
+      },
+      "regionalRecord": {
+        "cosmeticId": "wu-sheng-gu",
+        "server": "Global",
+        "status": "announced",
+        "sourceIds": [
+          "global-x-20260912-bane-of-life"
+        ],
+        "verifiedAt": "2026-09-13",
+        "releaseDate": "2026-09-16",
+        "precision": "day",
+        "scope": {
+          "en": "After the September 16 version update (UTC); available until December 15, 2026 at 04:59 (UTC+8). Exact start hour is not stated.",
+          "ko": "9월 16일 업데이트 후(UTC) 출시 예정, 2026년 12월 15일 04:59(UTC+8)까지. 정확한 시작 시각은 미표기입니다."
+        },
+        "identityBasis": {
+          "en": "Matched the named CN and Global official artwork, including identical model, crown and ornaments.",
+          "ko": "이름이 표기된 중국·글로벌 공식 이미지의 모델·왕관·장식을 대조했습니다."
+        },
+        "acquisition": {
+          "kind": "unknown",
+          "pricing": "unknown",
+          "amount": null,
+          "regularAmount": null,
+          "currencyOriginal": null,
+          "location": {
+            "en": "Draw",
+            "ko": "추첨",
+            "original": "Draw"
+          },
+          "conditions": {
+            "en": "Official Global post identifies a Draw set but does not state its currency, price, exchange quantity or individual included rewards. CN costs are not Global prices.",
+            "ko": "글로벌 공지는 추첨 세트라고만 안내하며 재화·가격·교환 수량·개별 구성품은 명시하지 않았습니다. 중국 비용을 글로벌 가격으로 사용하지 않습니다."
+          },
+          "en": "Global Draw announcement; exact terms under review.",
+          "ko": "글로벌 추첨 공지 · 세부 조건 확인 중."
+        }
+      },
+      "namingNote": {
+        "en": "Hairstyle and accessory set. The Korean title is an editorial reading of the CN name.",
+        "ko": "헤어·장신구 세트입니다. 한국어 표기는 중국 원명을 읽은 비공식 이름입니다."
+      }
+    },
+    {
+      "cosmeticId": "ru-shi-yuan",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "localization": {
+        "koName": "여시원",
+        "description": {
+          "en": "Blue and gold, lotus ornaments and translucent silk.",
+          "ko": "청금빛 연꽃 장식과 투명한 비단."
+        }
+      },
+      "regionalRecord": null,
+      "namingNote": null
+    },
+    {
+      "cosmeticId": "ying-kong",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "localization": {
+        "koName": "영공",
+        "description": {
+          "en": "White hair crowned with delicate gold ornaments.",
+          "ko": "섬세한 금빛 관을 얹은 백색 머리."
+        }
+      },
+      "regionalRecord": null,
+      "namingNote": null
+    },
+    {
+      "cosmeticId": "wan-laixue-zhi-feng",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "localization": {
+        "koName": "万籁·雪知风",
+        "description": {
+          "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+          "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+        }
+      },
+      "regionalRecord": null,
+      "namingNote": null
+    },
+    {
+      "cosmeticId": "wan-laifeng-fu-xue",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "localization": {
+        "koName": "万籁·风拂雪",
+        "description": {
+          "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
+          "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+        }
+      },
+      "regionalRecord": null,
+      "namingNote": null
+    },
+    {
+      "cosmeticId": "sui-mian-xiu-luo",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "localization": {
+        "koName": "碎面修罗",
+        "description": {
+          "en": "Companion cosmetic for a pet, not an outfit worn by the player character. See the CN shop conditions.",
+          "ko": "주인공 의상이 아닌 반려 동물용 외관입니다. 중국 상점의 획득 조건을 확인하세요."
+        }
+      },
+      "regionalRecord": null,
+      "namingNote": null
+    },
+    {
+      "cosmeticId": "die-qi-fang",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "localization": {
+        "koName": "蝶栖芳",
+        "description": {
+          "en": "Companion cosmetic for a pet, not an outfit worn by the player character. See the CN shop conditions.",
+          "ko": "주인공 의상이 아닌 반려 동물용 외관입니다. 중국 상점의 획득 조건을 확인하세요."
+        }
+      },
+      "regionalRecord": null,
+      "namingNote": null
+    }
+  ],
+  "limitations": [
+    "All new Global prices and currencies are unknown in these notices.",
+    "Korean expiry timezone is unstated, so preserve that limitation and use explicitly stated English UTC+8 where a normalized expiry is needed.",
+    "KR original artwork omits item labels; HTML section heading supplies the official Korean name.",
+    "Only 11 of 20 downloaded KR images were visually inspected; other files are available but must not be claimed verified.",
+    "X review was a scoped fresh search plus the new appearance post, not an exhaustive account export."
+  ]
+}

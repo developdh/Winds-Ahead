@@ -1,0 +1,30 @@
+name: Content correction · 정보 수정·삭제 요청
+description: Names, dates, acquisition, missing photos or rights requests. 이름·날짜·획득처·사진·권리 관련 제보.
+title: "[Content] "
+body:
+  - type: input
+    id: cosmetic
+    attributes:
+      label: Cosmetic or page URL · 외관명 또는 페이지 주소
+    validations:
+      required: true
+  - type: dropdown
+    id: region
+    attributes:
+      label: Server · 서버
+      options:
+        - China · 중국
+        - Global · 글로벌
+        - Both or not applicable · 양쪽 또는 해당 없음
+  - type: textarea
+    id: correction
+    attributes:
+      label: Proposed correction or removal · 수정·삭제 요청 내용
+      description: Do not include sensitive identity documents. 민감한 신분 서류를 올리지 마세요.
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Source links and scope · 근거 링크와 범위
+      description: Prefer official sources; distinguish announcement, release and forecast. 공식 근거를 우선하고 예정·출시·예상을 구분해주세요.
