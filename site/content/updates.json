@@ -2,6 +2,25 @@
   "schemaVersion": 1,
   "entries": [
     {
+      "id": "valor-aflame-photo-20260920",
+      "date": "2026-09-20",
+      "kind": {
+        "en": "Photo correction",
+        "ko": "사진 수정"
+      },
+      "title": {
+        "en": "A clearer Valor Aflame preview",
+        "ko": "영혼의 각인 사진 개선"
+      },
+      "body": {
+        "en": "Replaced the enlarged GIF still with a clearer official X video frame and a portrait thumbnail. The red/gold effect stays visible without autoplay.",
+        "ko": "확대한 GIF 장면을 선명한 공식 X 영상의 정지 화면과 세로형 썸네일로 교체했습니다. 자동 재생 없이 붉은색·금색 효과를 보여 줍니다."
+      },
+      "sourceIds": [
+        "global-x-20260917-valor-aflame"
+      ]
+    },
+    {
       "id": "official-review-20260920",
       "date": "2026-09-20",
       "kind": {
