@@ -79,7 +79,7 @@ export default function Roadmap({ l, onCosmeticClick }: { l: Locale; onCosmeticC
   ).sort((a, b) => a.date.localeCompare(b.date));
   const latest = latestRevisions(forecasts) as Forecast[];
   const releasedIds = regionalRecords.filter(r => r.server === (server === "cn" ? "CN" : "Global") && r.status === "released").map(r => r.cosmeticId);
-  const active = latest.filter(f => f.state === "active" && !forecastDue(f, today) && !forecastEnded(f, today) && !globalEvents.some(e => e.cosmeticId === f.cosmeticId && e.kind === "release" && e.status !== "cancelled") && !regionalRecords.some(r => r.cosmeticId === f.cosmeticId && r.server === "Global" && r.status === "released"));
+  const active = latest.filter(f => f.state === "active" && !forecastEnded(f, today) && !globalEvents.some(e => e.cosmeticId === f.cosmeticId && e.kind === "release" && e.status !== "cancelled") && !regionalRecords.some(r => r.cosmeticId === f.cosmeticId && r.server === "Global" && r.status === "released"));
   const estimates = active.filter(
     (f) => server === "global" && kind !== "official" && forecastInMonth(f, month),
   );

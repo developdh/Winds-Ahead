@@ -2,7 +2,7 @@ import Link from 'next/link';
 import { ArrowUpRight, CalendarDays, Sparkles } from 'lucide-react';
 import { categoryNames, findCosmetic, formatDay, imagesOf, nameOf, type Locale } from '@/lib/catalog';
 import { sources, type Forecast, type ReleaseEvent } from '@/lib/roadmap';
-import { upcomingEntries } from '@/lib/roadmap-domain.mjs';
+import { forecastDue, upcomingEntries } from '@/lib/roadmap-domain.mjs';
 import { daysUntil } from '@/lib/archive-domain.mjs';
 import type { CosmeticClickHandler } from '@/components/use-quick-view';
 
@@ -40,6 +40,7 @@ export default function ReleaseTimeline({ l, events, forecasts, today, kind, rel
           <span className="schedule-kind">{official ? <CalendarDays size={15} /> : <Sparkles size={15} />}{official ? status : t('Editorial estimate', '출시 예상')}</span>
           {e ? <time dateTime={e.date}>{formatDay(e.date, l)}</time> : <span className="timeline-window">{forecastWindow(f!, l)}</span>}
           {e && delta !== null && delta >= 0 && <span className="timeline-countdown">{delta === 0 ? t('Today', '오늘') : `D−${delta}`}</span>}
+          {f && forecastDue(f, today) && <span className="badge forecast">{t('Review due', '재검토 필요')}</span>}
           {f && <small>{t('Limited evidence · Not official', '근거 제한적 · 비공식')}</small>}
         </div>
         <article className="timeline-card">

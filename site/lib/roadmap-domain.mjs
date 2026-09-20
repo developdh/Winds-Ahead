@@ -56,6 +56,7 @@ export function cleanWatchlist(value, ids) {
   ];
 }
 
+// Review deadlines flag estimates for attention; only elapsed windows expire them.
 // Official releases override editorial forecasts, including announcements that have
 // left the upcoming view. Past records and forecast history remain unchanged.
 export function upcomingEntries(events, revisions, today, kind = 'all', releasedIds = []) {
@@ -65,7 +66,7 @@ export function upcomingEntries(events, revisions, today, kind = 'all', released
     .filter(e => e.date > today || (e.date === today && e.status === 'announced'))
     .map(event => ({ kind: 'official', date: event.date, event }));
   if (kind !== 'official') for (const forecast of latestRevisions(revisions)) {
-    if (forecast.state !== 'active' || known.has(forecast.cosmeticId) || forecastDue(forecast, today) || forecastEnded(forecast, today)) continue;
+    if (forecast.state !== 'active' || known.has(forecast.cosmeticId) || forecastEnded(forecast, today)) continue;
     entries.push({ kind: 'forecast', date: forecast.precision === 'window' ? forecast.start : forecast.precision === 'month' ? `${forecast.month}-01` : '9999-12-31', forecast });
   }
   return entries.sort((a, b) => a.date.localeCompare(b.date) || (a.kind === b.kind ? 0 : a.kind === 'official' ? -1 : 1) || (a.event?.id ?? a.forecast.id).localeCompare(b.event?.id ?? b.forecast.id));
