@@ -1,4 +1,4 @@
-# Release roadmap and September 13 review
+# Release roadmap and forecast reviews
 
 [한국어](../ko/release-roadmap.md) · [Calendar maintenance](calendar-automation.md)
 
@@ -55,3 +55,8 @@ Validation for this display change: type checking, all 32 existing domain/media 
 Added five September 20 Global announcements from the paired [English](https://www.wherewindsmeetgame.com/news/official/920appearance.html) and [Korean](https://www.wherewindsmeetgame.com/kr/news/official/920appearance.html) notices, plus fifteen CN appearances from the September 15–17 notices. The Global schedule is 05:00 UTC+8; Korean text says 06:00 without an explicit timezone. Dates passing do not confirm release.
 
 The three original forecast windows and revisions are unchanged. They disappeared because all review deadlines were September 16, not because their windows ended. Roadmap/calendar now show them with a review reminder. New Duskgem sword and Heng blade announcements do not establish the fan’s release order. Official X’s latest posts were inspected, but older posts hit a login wall; this is not an exhaustive social review. See the [review record](../research/2026-09-20-official-announcements.json).
+
+
+## September 21 forecast re-review
+
+[Current decisions](forecast-review-2026-09-21.md): retained the three original windows with revision 2 and a September 28 review date; added two limited-evidence Duskgem spear/gauntlet candidates; kept thirteen other candidates undated; added five official September 25/27 announcements. Earlier sections describe their historical review, not the latest forecast revision.
