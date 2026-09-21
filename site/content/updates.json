@@ -2,6 +2,29 @@
   "schemaVersion": 1,
   "entries": [
     {
+      "id": "forecast-review-20260921",
+      "date": "2026-09-21",
+      "kind": {
+        "en": "Forecast review & official dates",
+        "ko": "출시 예상 재검토·공식 일정"
+      },
+      "title": {
+        "en": "Five official dates and two new forecast candidates",
+        "ko": "공식 일정 5종과 신규 예상 후보 2종"
+      },
+      "body": {
+        "en": "Reviewed all three existing estimates, retaining their windows and history. Added limited-evidence Duskgem spear and gauntlet windows, reviewed other candidates without forcing dates, and recorded five September 25/27 official announcements. Next forecast review: September 28.",
+        "ko": "기존 예상 3건을 재검토하고 기간·이력을 유지했습니다. 근거가 제한적인 현영 창·권갑 예상 2건과 9월 25·27일 공식 예고 5종을 추가했으며, 다른 후보는 근거에 따라 시기를 미정으로 유지했습니다. 다음 예상 검토일은 9월 28일입니다."
+      },
+      "sourceIds": [
+        "global-20260921-update-en",
+        "global-20260921-update-ko",
+        "global-x-20260921-jade-moonrise",
+        "cn-c2133042ccf0",
+        "cn-aab8c2b73a91"
+      ]
+    },
+    {
       "id": "valor-aflame-photo-20260920",
       "date": "2026-09-20",
       "kind": {

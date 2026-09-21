@@ -1,0 +1,150 @@
+{
+  "sourceImage": "https://r.res.easebar.com/pic/20260921/c2e1ff4d-68ed-4100-b164-0a5063cdfe15.png",
+  "sourcePage": "https://www.wherewindsmeetgame.com/news/official/921update.html",
+  "sourceDimensions": [
+    984,
+    8416
+  ],
+  "sourceBytes": 8645846,
+  "sourceFrame": 0,
+  "cropFormat": "[left, top, right, bottom], pixels; right/bottom exclusive",
+  "mediaServer": "GLOBAL",
+  "reusePermission": "unknown",
+  "edits": "Only rectangular cropping and WebP encoding. No resize, generated or retouched content. Full previews preserve both official model panels and decorative panel outlines; no heading/body text.",
+  "assets": [
+    {
+      "id": "jin-yan-yu-tuan",
+      "name": "jade-moonrise",
+      "kind": "thumb",
+      "path": "site/public/media/jin-yan-yu-tuan-0-thumb.webp",
+      "width": 432,
+      "height": 540,
+      "bytes": 43890,
+      "sourceCrop": [
+        524,
+        2538,
+        956,
+        3078
+      ],
+      "cropDimensions": [
+        432,
+        540
+      ],
+      "upscaled": false,
+      "encodingQuality": 82
+    },
+    {
+      "id": "jin-yan-yu-tuan",
+      "name": "jade-moonrise",
+      "kind": "full",
+      "path": "site/public/media/jin-yan-yu-tuan-0-full.webp",
+      "width": 922,
+      "height": 856,
+      "bytes": 232880,
+      "sourceCrop": [
+        43,
+        2497,
+        965,
+        3353
+      ],
+      "cropDimensions": [
+        922,
+        856
+      ],
+      "upscaled": false
+    },
+    {
+      "id": "fu-guang",
+      "name": "lunar-radiance",
+      "kind": "thumb",
+      "path": "site/public/media/fu-guang-0-thumb.webp",
+      "width": 432,
+      "height": 540,
+      "bytes": 30708,
+      "sourceCrop": [
+        524,
+        3858,
+        956,
+        4398
+      ],
+      "cropDimensions": [
+        432,
+        540
+      ],
+      "upscaled": false,
+      "encodingQuality": 82
+    },
+    {
+      "id": "fu-guang",
+      "name": "lunar-radiance",
+      "kind": "full",
+      "path": "site/public/media/fu-guang-0-full.webp",
+      "width": 922,
+      "height": 854,
+      "bytes": 210946,
+      "sourceCrop": [
+        43,
+        3801,
+        965,
+        4655
+      ],
+      "cropDimensions": [
+        922,
+        854
+      ],
+      "upscaled": false
+    }
+  ],
+  "identitySource": {
+    "url": "https://www.bilibili.com/opus/1119749625400524839",
+    "author": "燕云十六声官方",
+    "displayedPublicationDateTime": "2025-10-04 12:00",
+    "timezone": null,
+    "matches": [
+      {
+        "id": "jin-yan-yu-tuan",
+        "globalName": "Jade Moonrise",
+        "nameOriginal": "金滟玉团",
+        "namedSourceImage": "https://i0.hdslb.com/bfs/new_dyn/2d1acca5519ccdfb13fa61f17739a8bc1567141152.jpg@1192w",
+        "dimensions": [
+          1080,
+          2543
+        ],
+        "visualBasis": "Same yellow/black set: large central gold bow on female bodice, translucent gold sleeves, osmanthus embroidery, long side ribbons, rabbit shoulder ornament, white rabbit-ear accessory. Male has black/gold outer panels, yellow front sash and rabbit buckle.",
+        "bytes": 475033
+      },
+      {
+        "id": "fu-guang",
+        "globalName": "Lunar Radiance",
+        "nameOriginal": "扶光",
+        "namedSourceImage": "https://i0.hdslb.com/bfs/new_dyn/484f2fb3d225acdefc0b7f80de687a341567141152.png@1192w",
+        "dimensions": [
+          1080,
+          4278
+        ],
+        "visualBasis": "Same cream-blonde male swept fringe and ornate high ponytail with long straight front locks; female straight bangs with rounded side buns, long narrow rear locks and tiny orange/yellow floral ornaments. Rabbit ears are styling accessories shown in Global image; hair identity is based on the hair structure and adornments.",
+        "bytes": 6751609
+      }
+    ]
+  },
+  "existingIdentityMatches": [
+    {
+      "id": "peng-shan-wan-zhong",
+      "globalName": "Penglai’s Peaks",
+      "nameOriginal": "蓬山万重",
+      "visualBasis": "Same black feathered cloak, gold/green bird-head shoulder armor, dark robes with green ornamentation, white hair and half-face mask."
+    },
+    {
+      "id": "shu-tong-liu-xiang",
+      "globalName": "Cicada Requiem",
+      "nameOriginal": "疏桐流响",
+      "visualBasis": "Same black asymmetric bodice, transparent white flower collar and cuffs, gold curving trim and silver hanging chain tassels."
+    },
+    {
+      "id": "qiu-lu-qing",
+      "globalName": "Autumn Dewlight",
+      "nameOriginal": "秋露晴",
+      "visualBasis": "Same pale-blonde feathered bangs and short layered sides, high tied tuft and long white-flower hairpin. Female styling supplies the clearest exact match."
+    }
+  ]
+}
