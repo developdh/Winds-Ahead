@@ -3340,6 +3340,71 @@
       "verifiedAt": "2026-09-20",
       "evidenceTier": "A",
       "verificationNote": "Official post read in signed-in browser; original 2400×1080 video used for a static frame. Scheduled date is not an actual-release confirmation."
+    },
+    {
+      "id": "global-20260921-update-en",
+      "url": "https://www.wherewindsmeetgame.com/news/official/921update.html",
+      "titleOriginal": "[Perilous Eminence] Version 2.2 Update Overview - September 23",
+      "publisher": "Where Winds Meet / NetEase (official)",
+      "server": "Global",
+      "displayedPublicationDate": "2026-09-21",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-09-21",
+      "verificationNote": "Visually read all five named appearance panels, listing dates, prices and conditions in the official image. Timezone is not printed in this image."
+    },
+    {
+      "id": "global-20260921-update-ko",
+      "url": "https://www.wherewindsmeetgame.com/kr/news/official/921update.html",
+      "titleOriginal": "[구름 위 동행] 9월23일 2.2 버전 업데이트 미리보기",
+      "publisher": "Where Winds Meet / NetEase (official)",
+      "server": "Global",
+      "displayedPublicationDate": "2026-09-21",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-09-21",
+      "verificationNote": "Visually read five Korean name/date panels. Jade Moonrise listing row ends October 25 but prose says October 26; retained as source conflict. Timezone is not printed."
+    },
+    {
+      "id": "global-x-20260921-jade-moonrise",
+      "url": "https://x.com/WhereWindsMeet_/status/2102004928151490961",
+      "titleOriginal": "Jade Moonrise and Lunar Radiance — September 25 appearances",
+      "publisher": "Where Winds Meet / NetEase (official)",
+      "server": "Global",
+      "displayedPublicationDate": "2026-09-21",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-09-21",
+      "verificationNote": "Read the complete signed-in official X post. Both start September 25 05:00 UTC+8. Outfit ends October 25 04:59:59 UTC+8, hair December 24 04:59:59 UTC+8."
+    },
+    {
+      "id": "cn-bilibili-20251004-moonrise",
+      "url": "https://www.bilibili.com/opus/1119749625400524839",
+      "titleOriginal": "金桂飘香，人间团圆丨新套装「金滟玉团」即将上架",
+      "publisher": "燕云十六声官方 (official Bilibili)",
+      "server": "CN",
+      "displayedPublicationDate": "2025-10-04",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-09-21",
+      "verificationNote": "Official 燕云十六声官方 article and named imagery inspected. Outfit and hair list October 6 05:00; timezone unstated. Outfit has a 30-day sale; no hair duration inferred."
+    },
+    {
+      "id": "global-x-20260917-duskgem",
+      "url": "https://x.com/WhereWindsMeet_/status/2100555372713120154",
+      "publisher": "Where Winds Meet / NetEase (official X)",
+      "server": "Global",
+      "titleOriginal": "Duskgem sword, Heng blade and Valley’s Echo — September 20",
+      "displayedPublicationDate": "2026-09-17",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-09-21",
+      "verificationNote": "Read the expanded official X post while signed in. Names sword and Heng blade, not fan, spear or gauntlets. Confirms September 20 05:00 UTC+8."
     }
   ],
   "mediaRights": {
@@ -10781,8 +10846,8 @@
       "sourceId": "cn-c65a8def4144",
       "acquisitionServer": "CN",
       "mediaServer": "CN",
-      "officialNameEn": null,
-      "officialNameKo": null,
+      "officialNameEn": "Penglai's Peaks",
+      "officialNameKo": "청산의 도약",
       "cnRelease": {
         "date": "2025-11-21",
         "precision": "day",
@@ -10833,7 +10898,17 @@
         "officialName": null,
         "releaseDate": null
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "searchAliases": [
+        "peng shan wan zhong",
+        "蓬山万重",
+        "Penglai’s Peaks",
+        "청산의 도약"
+      ],
+      "namingNote": {
+        "en": "Official EN/KO names verified in the September 21 Global update image; CN identity visually matched to named official imagery.",
+        "ko": "9월 21일 글로벌 업데이트 이미지에서 확인한 공식 영문·한국어 명칭이며, 외관명이 명시된 중국 공식 이미지와 대조했습니다."
+      }
     },
     {
       "id": "zui-yun-xing-yu",
@@ -20089,7 +20164,7 @@
     {
       "id": "xuan-yingyou-shi-sheng-fang",
       "nameOriginal": "玄瑛·幽石生芳",
-      "romanization": "xuan ying·you shi sheng fang",
+      "romanization": "Xuan Ying · You Shi Sheng Fang",
       "category": "weapon_skin",
       "sourceId": "cn-c2133042ccf0",
       "acquisitionServer": "CN",
@@ -20146,7 +20221,11 @@
         "officialName": null,
         "releaseDate": null
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "namingNote": {
+        "en": "Provisional reading of the CN name; no official Global name verified.",
+        "ko": "중국 원명의 임시 독음이며 글로벌 공식명은 확인하지 못했습니다."
+      }
     },
     {
       "id": "xuan-yinggou-yue-xian-xian",
@@ -21999,7 +22078,7 @@
     {
       "id": "xuan-yingsu-lian-ying-yang",
       "nameOriginal": "玄瑛·素练鹰扬",
-      "romanization": "xuan ying·su lian ying yang",
+      "romanization": "Xuan Ying · Su Lian Ying Yang",
       "category": "weapon_skin",
       "sourceId": "cn-aab8c2b73a91",
       "acquisitionServer": "CN",
@@ -22056,7 +22135,11 @@
         "officialName": null,
         "releaseDate": null
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "namingNote": {
+        "en": "Provisional reading of the CN name; no official Global name verified.",
+        "ko": "중국 원명의 임시 독음이며 글로벌 공식명은 확인하지 못했습니다."
+      }
     },
     {
       "id": "shu-tong-liu-xiang",
@@ -22066,8 +22149,8 @@
       "sourceId": "cn-aab8c2b73a91",
       "acquisitionServer": "CN",
       "mediaServer": "CN",
-      "officialNameEn": null,
-      "officialNameKo": null,
+      "officialNameEn": "Cicada Requiem",
+      "officialNameKo": "흑선의 울림",
       "cnRelease": {
         "date": "2026-08-14",
         "precision": "day",
@@ -22118,7 +22201,17 @@
         "officialName": null,
         "releaseDate": null
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "searchAliases": [
+        "shu tong liu xiang",
+        "疏桐流响",
+        "Cicada Requiem",
+        "흑선의 울림"
+      ],
+      "namingNote": {
+        "en": "Official EN/KO names verified in the September 21 Global update image; CN identity visually matched to named official imagery.",
+        "ko": "9월 21일 글로벌 업데이트 이미지에서 확인한 공식 영문·한국어 명칭이며, 외관명이 명시된 중국 공식 이미지와 대조했습니다."
+      }
     },
     {
       "id": "qiu-lu-qing",
@@ -22128,8 +22221,8 @@
       "sourceId": "cn-aab8c2b73a91",
       "acquisitionServer": "CN",
       "mediaServer": "CN",
-      "officialNameEn": null,
-      "officialNameKo": null,
+      "officialNameEn": "Autumn Dewlight",
+      "officialNameKo": "가을 이슬",
       "cnRelease": {
         "date": "2026-08-14",
         "precision": "day",
@@ -22179,6 +22272,16 @@
         "status": "unknown",
         "officialName": null,
         "releaseDate": null
+      },
+      "searchAliases": [
+        "qiu lu qing",
+        "秋露晴",
+        "Autumn Dewlight",
+        "가을 이슬"
+      ],
+      "namingNote": {
+        "en": "Official EN/KO names verified in the September 21 Global update image; CN identity visually matched to named official imagery.",
+        "ko": "9월 21일 글로벌 업데이트 이미지에서 확인한 공식 영문·한국어 명칭이며, 외관명이 명시된 중국 공식 이미지와 대조했습니다."
       }
     },
     {
@@ -25788,47 +25891,76 @@
       "nameOriginal": "金滟玉团",
       "romanization": "jin yan yu tuan",
       "category": "outfit",
-      "sourceId": "cn-e03f576414d2",
+      "sourceId": "cn-bilibili-20251004-moonrise",
       "acquisitionServer": "CN",
-      "mediaServer": "CN",
-      "officialNameEn": null,
-      "officialNameKo": null,
+      "mediaServer": "Global",
+      "officialNameEn": "Jade Moonrise",
+      "officialNameKo": "황금빛 설렘",
       "cnRelease": {
-        "date": null,
-        "precision": "unknown",
+        "date": "2025-10-06",
+        "precision": "day",
         "timezone": null,
         "contextual": false,
-        "basis": "Exact item release day not established"
+        "basis": "Named official CN October 4 article explicitly lists October 6, 05:00; timezone unstated."
       },
       "acquisition": {
-        "kind": "unknown",
-        "pricing": "unknown",
-        "amount": null,
+        "kind": "shop",
+        "pricing": "fixed",
+        "amount": 2580,
         "regularAmount": null,
-        "currencyOriginal": null,
+        "currencyOriginal": "长鸣珠",
         "location": {
-          "en": "Under review",
-          "ko": "확인 중",
-          "original": "未核实"
+          "en": "Shop",
+          "ko": "상점",
+          "original": "商店"
         },
         "conditions": {
-          "en": "The source does not establish the required amount. Current availability has not been checked.",
-          "ko": "공지에서 필요한 수량을 확인하지 못했습니다. 현재 획득 가능 여부는 별도 확인이 필요합니다."
+          "en": "CN October 6, 2025, 05:00 listing; timezone unstated. Outfit is sold for 30 days; no hair duration stated. Historical terms, not current availability.",
+          "ko": "중국 2025년 10월 6일 05:00 출시 공지이며 시간대 미표기. 의상은 30일 판매, 헤어 기간은 미표기입니다. 과거 조건이며 현재 판매를 뜻하지 않습니다."
         },
-        "en": "See the acquisition method and source conditions.",
-        "ko": "획득 방법과 출처의 조건을 확인하세요.",
-        "sourceExcerpt": "1、优化了套装「金滟玉团」男角色穿戴时衣服下摆处的细闪表现。"
+        "en": "Price stated in this regional official notice.",
+        "ko": "해당 서버 공식 공지에 명시된 가격입니다."
       },
-      "images": [],
+      "images": [
+        {
+          "url": "https://r.res.easebar.com/pic/20260921/c2e1ff4d-68ed-4100-b164-0a5063cdfe15.png",
+          "width": 984,
+          "height": 8416,
+          "reusePermission": "unknown",
+          "visuallyInspected": true,
+          "sourceCrop": [
+            43,
+            2497,
+            965,
+            3353
+          ],
+          "server": "Global",
+          "inspectionNote": "September 21 named Global appearance panel; compared with the named official CN Bilibili imagery. No upscaling.",
+          "alt": {
+            "en": "Official appearance preview: Jade Moonrise",
+            "ko": "황금빛 설렘 공식 외관 미리보기"
+          }
+        }
+      ],
       "officialVideos": [],
-      "mediaStatus": "pending",
+      "mediaStatus": "verified",
       "global": {
         "status": "unknown",
         "officialName": null,
         "releaseDate": null
       },
       "sourceEvidence": "1、优化了套装「金滟玉团」男角色穿戴时衣服下摆处的细闪表现。",
-      "wikiDetails": true
+      "wikiDetails": true,
+      "searchAliases": [
+        "jin yan yu tuan",
+        "金滟玉团",
+        "Jade Moonrise",
+        "황금빛 설렘"
+      ],
+      "namingNote": {
+        "en": "Official EN/KO names verified in the September 21 Global update image; CN identity visually matched to named official imagery.",
+        "ko": "9월 21일 글로벌 업데이트 이미지에서 확인한 공식 영문·한국어 명칭이며, 외관명이 명시된 중국 공식 이미지와 대조했습니다."
+      }
     },
     {
       "id": "yu-tu-dan-gui",
@@ -26711,46 +26843,75 @@
       "nameOriginal": "扶光",
       "romanization": "fu guang",
       "category": "hair",
-      "sourceId": "cn-f16638f3df82",
+      "sourceId": "cn-bilibili-20251004-moonrise",
       "acquisitionServer": "CN",
-      "mediaServer": "CN",
-      "officialNameEn": null,
-      "officialNameKo": null,
+      "mediaServer": "Global",
+      "officialNameEn": "Lunar Radiance",
+      "officialNameKo": "떠오르는 달빛",
       "cnRelease": {
-        "date": null,
-        "precision": "unknown",
+        "date": "2025-10-06",
+        "precision": "day",
         "timezone": null,
         "contextual": false,
-        "basis": "Exact item release day not established"
+        "basis": "Named official CN October 4 article explicitly lists October 6, 05:00; timezone unstated."
       },
       "acquisition": {
-        "kind": "unknown",
-        "pricing": "unknown",
-        "amount": null,
+        "kind": "exchange_shop",
+        "pricing": "fixed",
+        "amount": 1,
         "regularAmount": null,
-        "currencyOriginal": null,
+        "currencyOriginal": "八音窍",
         "location": {
-          "en": "Under review",
-          "ko": "확인 중",
-          "original": "未核实"
+          "en": "Draw Shop",
+          "ko": "공명 상점",
+          "original": "和鸣商店"
         },
         "conditions": {
-          "en": "The source does not establish the required amount. Current availability has not been checked.",
-          "ko": "공지에서 필요한 수량을 확인하지 못했습니다. 현재 획득 가능 여부는 별도 확인이 필요합니다."
+          "en": "CN October 6, 2025, 05:00 listing; timezone unstated. Outfit is sold for 30 days; no hair duration stated. Historical terms, not current availability.",
+          "ko": "중국 2025년 10월 6일 05:00 출시 공지이며 시간대 미표기. 의상은 30일 판매, 헤어 기간은 미표기입니다. 과거 조건이며 현재 판매를 뜻하지 않습니다."
         },
-        "en": "See the acquisition method and source conditions.",
-        "ko": "획득 방법과 출처의 조건을 확인하세요.",
-        "sourceExcerpt": "8、修复了女主发型「扶光」和「金滟玉团」在移动端部分情况下模型显示异常的问题。"
+        "en": "Price stated in this regional official notice.",
+        "ko": "해당 서버 공식 공지에 명시된 가격입니다."
       },
-      "images": [],
+      "images": [
+        {
+          "url": "https://r.res.easebar.com/pic/20260921/c2e1ff4d-68ed-4100-b164-0a5063cdfe15.png",
+          "width": 984,
+          "height": 8416,
+          "reusePermission": "unknown",
+          "visuallyInspected": true,
+          "sourceCrop": [
+            43,
+            3801,
+            965,
+            4655
+          ],
+          "server": "Global",
+          "inspectionNote": "September 21 named Global appearance panel; compared with the named official CN Bilibili imagery. No upscaling.",
+          "alt": {
+            "en": "Official appearance preview: Lunar Radiance",
+            "ko": "떠오르는 달빛 공식 외관 미리보기"
+          }
+        }
+      ],
       "officialVideos": [],
-      "mediaStatus": "pending",
+      "mediaStatus": "verified",
       "global": {
         "status": "unknown",
         "officialName": null,
         "releaseDate": null
       },
-      "sourceEvidence": "8、修复了女主发型「扶光」和「金滟玉团」在移动端部分情况下模型显示异常的问题。"
+      "sourceEvidence": "8、修复了女主发型「扶光」和「金滟玉团」在移动端部分情况下模型显示异常的问题。",
+      "searchAliases": [
+        "fu guang",
+        "扶光",
+        "Lunar Radiance",
+        "떠오르는 달빛"
+      ],
+      "namingNote": {
+        "en": "Official EN/KO names verified in the September 21 Global update image; CN identity visually matched to named official imagery.",
+        "ko": "9월 21일 글로벌 업데이트 이미지에서 확인한 공식 영문·한국어 명칭이며, 외관명이 명시된 중국 공식 이미지와 대조했습니다."
+      }
     },
     {
       "id": "long-teng-jiu-xiao",

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "verifiedAt": "2026-09-20",
+  "verifiedAt": "2026-09-21",
   "records": [
     {
       "cosmeticId": "shang-qing-yun",
@@ -5545,14 +5545,15 @@
       "server": "CN",
       "status": "released",
       "sourceIds": [
-        "cn-e03f576414d2"
+        "cn-e03f576414d2",
+        "cn-bilibili-20251004-moonrise"
       ],
-      "verifiedAt": "2026-09-13",
-      "releaseDate": null,
-      "precision": "unknown",
+      "verifiedAt": "2026-09-21",
+      "releaseDate": "2025-10-06",
+      "precision": "day",
       "scope": {
-        "en": "Historical official listing or in-game appearance maintenance notice. This does not establish current availability or an original release date.",
-        "ko": "과거 공식 출시·외관 수정 공지 기록입니다. 현재 판매 여부와 최초 출시일을 뜻하지 않습니다."
+        "en": "CN October 6, 2025, 05:00 listing; timezone unstated. Outfit is sold for 30 days; no hair duration stated. Historical terms, not current availability.",
+        "ko": "중국 2025년 10월 6일 05:00 출시 공지이며 시간대 미표기. 의상은 30일 판매, 헤어 기간은 미표기입니다. 과거 조건이며 현재 판매를 뜻하지 않습니다."
       },
       "identityBasis": {
         "en": "The official regional source explicitly names this appearance and category.",
@@ -5871,14 +5872,15 @@
       "server": "CN",
       "status": "released",
       "sourceIds": [
-        "cn-f16638f3df82"
+        "cn-f16638f3df82",
+        "cn-bilibili-20251004-moonrise"
       ],
-      "verifiedAt": "2026-09-13",
-      "releaseDate": null,
-      "precision": "unknown",
+      "verifiedAt": "2026-09-21",
+      "releaseDate": "2025-10-06",
+      "precision": "day",
       "scope": {
-        "en": "Historical official listing or in-game appearance maintenance notice. This does not establish current availability or an original release date.",
-        "ko": "과거 공식 출시·외관 수정 공지 기록입니다. 현재 판매 여부와 최초 출시일을 뜻하지 않습니다."
+        "en": "CN October 6, 2025, 05:00 listing; timezone unstated. Outfit is sold for 30 days; no hair duration stated. Historical terms, not current availability.",
+        "ko": "중국 2025년 10월 6일 05:00 출시 공지이며 시간대 미표기. 의상은 30일 판매, 헤어 기간은 미표기입니다. 과거 조건이며 현재 판매를 뜻하지 않습니다."
       },
       "identityBasis": {
         "en": "The official regional source explicitly names this appearance and category.",
@@ -13897,6 +13899,198 @@
       "identityBasis": {
         "en": "Named item and corresponding preview in the CN official notice.",
         "ko": "중국 공식 공지의 외관명과 해당 미리보기를 대조했습니다."
+      }
+    },
+    {
+      "cosmeticId": "jin-yan-yu-tuan",
+      "server": "Global",
+      "status": "announced",
+      "releaseDate": "2026-09-25",
+      "precision": "day",
+      "verifiedAt": "2026-09-21",
+      "sourceIds": [
+        "global-20260921-update-en",
+        "global-20260921-update-ko",
+        "global-x-20260921-jade-moonrise"
+      ],
+      "scope": {
+        "en": "Announced for September 25, 05:00 UTC+8 in the official X post. Korean image says 06:00 without printing its timezone. This is a future announcement, not a verified release.",
+        "ko": "공식 X의 9월 25일 05:00(UTC+8) 출시 예고입니다. 한국어 이미지는 시간대 없이 06:00로 표기합니다. 실제 출시 확인 전의 예정 정보입니다."
+      },
+      "identityBasis": {
+        "en": "Same black/gold rabbit outfit, osmanthus embroidery, broad gold bow and white rabbit on the shoulder.",
+        "ko": "검정·금색 토끼 의상, 계수나무 꽃 자수, 큰 금색 리본과 어깨의 흰 토끼가 일치합니다."
+      },
+      "acquisition": {
+        "kind": "shop",
+        "pricing": "fixed",
+        "amount": 2580,
+        "regularAmount": null,
+        "currencyOriginal": "长鸣珠",
+        "location": {
+          "en": "Shop",
+          "ko": "상점",
+          "original": "商店"
+        },
+        "conditions": {
+          "en": "2,580 Echo Beads. Official X and EN panel end October 25, 04:59:59 UTC+8. KO listing row agrees in calendar day, but KO prose says October 26; conflict retained, not treated as an extension.",
+          "ko": "2,580 장명주. 공식 X·영문 패널 종료는 10월 25일 04:59:59(UTC+8)입니다. 한국어 일정 행은 10월 25일, 본문은 10월 26일로 서로 달라 연장으로 해석하지 않습니다."
+        },
+        "en": "Price stated in this regional official notice.",
+        "ko": "해당 서버 공식 공지에 명시된 가격입니다."
+      }
+    },
+    {
+      "cosmeticId": "fu-guang",
+      "server": "Global",
+      "status": "announced",
+      "releaseDate": "2026-09-25",
+      "precision": "day",
+      "verifiedAt": "2026-09-21",
+      "sourceIds": [
+        "global-20260921-update-en",
+        "global-20260921-update-ko",
+        "global-x-20260921-jade-moonrise"
+      ],
+      "scope": {
+        "en": "Announced for September 25, 05:00 UTC+8 in the official X post. Korean image says 06:00 without printing its timezone. This is a future announcement, not a verified release.",
+        "ko": "공식 X의 9월 25일 05:00(UTC+8) 출시 예고입니다. 한국어 이미지는 시간대 없이 06:00로 표기합니다. 실제 출시 확인 전의 예정 정보입니다."
+      },
+      "identityBasis": {
+        "en": "Same pale cream hair, female blunt fringe and side rolls with orange flowers, male swept fringe and high ponytail.",
+        "ko": "옅은 크림색 헤어, 여성의 일자 앞머리·양옆 말아 올린 머리·주황 꽃, 남성의 넘긴 앞머리·높은 묶음이 일치합니다."
+      },
+      "acquisition": {
+        "kind": "exchange_shop",
+        "pricing": "fixed",
+        "amount": 1,
+        "regularAmount": null,
+        "currencyOriginal": "八音窍",
+        "location": {
+          "en": "Draw Shop",
+          "ko": "공명 상점",
+          "original": "和鸣商店"
+        },
+        "conditions": {
+          "en": "1 Harmonic Core. Official X ends December 24, 04:59:59 UTC+8; dyeing and animated player avatar included.",
+          "ko": "공명 구슬 1개. 공식 X 판매 종료는 12월 24일 04:59:59(UTC+8)이며 염색·움직이는 프로필을 포함합니다."
+        },
+        "en": "Price stated in this regional official notice.",
+        "ko": "해당 서버 공식 공지에 명시된 가격입니다."
+      }
+    },
+    {
+      "cosmeticId": "peng-shan-wan-zhong",
+      "server": "Global",
+      "status": "announced",
+      "releaseDate": "2026-09-27",
+      "precision": "day",
+      "verifiedAt": "2026-09-21",
+      "sourceIds": [
+        "global-20260921-update-en",
+        "global-20260921-update-ko"
+      ],
+      "scope": {
+        "en": "Announced for September 27. EN image lists 05:00; KO lists 06:00. Neither panel states a timezone, so no absolute instant is inferred. Release remains unverified.",
+        "ko": "9월 27일 출시 예고입니다. 영문 이미지는 05:00, 한국어는 06:00로 표기하며 두 패널 모두 시간대가 없어 절대 시각으로 환산하지 않습니다. 실제 출시는 미확인입니다."
+      },
+      "identityBasis": {
+        "en": "Same green/gold avian shoulder armor, half-face mask, white hair and black feather cloak.",
+        "ko": "녹색·금색 새 형상의 어깨 장식, 반쪽 가면, 백발과 검은 깃털 망토가 일치합니다."
+      },
+      "acquisition": {
+        "kind": "exchange_shop",
+        "pricing": "fixed",
+        "amount": 2,
+        "regularAmount": null,
+        "currencyOriginal": "八音窍",
+        "location": {
+          "en": "Draw Shop",
+          "ko": "공명 상점",
+          "original": "和鸣商店"
+        },
+        "conditions": {
+          "en": "2 Harmonic Cores. Listed until December 26, 04:59:59 in EN / 05:59:59 in KO; timezones unstated. Animated player avatar and dyeing included.",
+          "ko": "공명 구슬 2개. 영문 12월 26일 04:59:59 / 한국어 05:59:59까지 판매하며 시간대 미표기. 움직이는 프로필·염색을 포함합니다."
+        },
+        "en": "Price stated in this regional official notice.",
+        "ko": "해당 서버 공식 공지에 명시된 가격입니다."
+      }
+    },
+    {
+      "cosmeticId": "shu-tong-liu-xiang",
+      "server": "Global",
+      "status": "announced",
+      "releaseDate": "2026-09-27",
+      "precision": "day",
+      "verifiedAt": "2026-09-21",
+      "sourceIds": [
+        "global-20260921-update-en",
+        "global-20260921-update-ko"
+      ],
+      "scope": {
+        "en": "Announced for September 27. EN image lists 00:00; KO lists 01:00. Neither panel states a timezone, so no absolute instant is inferred. Release remains unverified.",
+        "ko": "9월 27일 출시 예고입니다. 영문 이미지는 00:00, 한국어는 01:00로 표기하며 두 패널 모두 시간대가 없어 절대 시각으로 환산하지 않습니다. 실제 출시는 미확인입니다."
+      },
+      "identityBasis": {
+        "en": "Same black asymmetrical outfit, translucent white flower collar/cuffs and silver chain tassels.",
+        "ko": "비대칭 검은 의상, 반투명 흰 꽃의 목·소매 장식과 은색 사슬 술이 일치합니다."
+      },
+      "acquisition": {
+        "kind": "shop",
+        "pricing": "fixed",
+        "amount": 1280,
+        "regularAmount": 2580,
+        "currencyOriginal": "长鸣珠",
+        "location": {
+          "en": "Shop",
+          "ko": "상점",
+          "original": "商店"
+        },
+        "conditions": {
+          "en": "1,280 Echo Beads, then 2,580. Discount ends October 10, 23:59:59 in EN / October 11, 00:59:59 in KO; timezones unstated. Separate top/bottom and dye support.",
+          "ko": "1,280 장명주 할인 후 정가 2,580. 할인 종료는 영문 10월 10일 23:59:59 / 한국어 10월 11일 00:59:59이며 시간대 미표기. 상하의 분리·염색을 지원합니다."
+        },
+        "en": "Price stated in this regional official notice.",
+        "ko": "해당 서버 공식 공지에 명시된 가격입니다."
+      }
+    },
+    {
+      "cosmeticId": "qiu-lu-qing",
+      "server": "Global",
+      "status": "announced",
+      "releaseDate": "2026-09-27",
+      "precision": "day",
+      "verifiedAt": "2026-09-21",
+      "sourceIds": [
+        "global-20260921-update-en",
+        "global-20260921-update-ko"
+      ],
+      "scope": {
+        "en": "Announced for September 27. EN image lists 00:00; KO lists 01:00. Neither panel states a timezone, so no absolute instant is inferred. Release remains unverified.",
+        "ko": "9월 27일 출시 예고입니다. 영문 이미지는 00:00, 한국어는 01:00로 표기하며 두 패널 모두 시간대가 없어 절대 시각으로 환산하지 않습니다. 실제 출시는 미확인입니다."
+      },
+      "identityBasis": {
+        "en": "Same pale blonde feathered fringe, short layered sides and high tied tuft with a white flower pin.",
+        "ko": "옅은 금발의 가벼운 앞머리, 층을 낸 짧은 옆머리, 흰 꽃 비녀가 있는 높은 묶음이 일치합니다."
+      },
+      "acquisition": {
+        "kind": "exchange_shop",
+        "pricing": "fixed",
+        "amount": 1,
+        "regularAmount": null,
+        "currencyOriginal": "八音窍",
+        "location": {
+          "en": "Draw Shop",
+          "ko": "공명 상점",
+          "original": "和鸣商店"
+        },
+        "conditions": {
+          "en": "1 Harmonic Core. Listed until December 26, 04:59:59 in EN / 05:59:59 in KO; timezones unstated. Animated player avatar and dyeing included.",
+          "ko": "공명 구슬 1개. 영문 12월 26일 04:59:59 / 한국어 05:59:59까지 판매하며 시간대 미표기. 움직이는 프로필·염색을 포함합니다."
+        },
+        "en": "Price stated in this regional official notice.",
+        "ko": "해당 서버 공식 공지에 명시된 가격입니다."
       }
     }
   ]

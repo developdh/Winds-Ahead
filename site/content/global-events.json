@@ -3308,6 +3308,93 @@
         "en": "Announced for September 20, 05:00 (UTC+8). The Korean notice says 06:00 without printing a timezone. A passed date alone does not verify release.",
         "ko": "9월 20일 05:00(UTC+8) 출시 예고입니다. 한국어 공지는 시간대 없이 06:00로 표기합니다. 날짜 경과만으로 실제 출시를 확인하지 않습니다."
       }
+    },
+    {
+      "id": "release-global-jin-yan-yu-tuan",
+      "cosmeticId": "jin-yan-yu-tuan",
+      "date": "2026-09-25",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-20260921-update-en",
+        "global-20260921-update-ko",
+        "global-x-20260921-jade-moonrise"
+      ],
+      "status": "announced",
+      "scope": {
+        "en": "Announced for September 25, 05:00 UTC+8 in the official X post. Korean image says 06:00 without printing its timezone. This is a future announcement, not a verified release.",
+        "ko": "공식 X의 9월 25일 05:00(UTC+8) 출시 예고입니다. 한국어 이미지는 시간대 없이 06:00로 표기합니다. 실제 출시 확인 전의 예정 정보입니다."
+      }
+    },
+    {
+      "id": "release-global-fu-guang",
+      "cosmeticId": "fu-guang",
+      "date": "2026-09-25",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-20260921-update-en",
+        "global-20260921-update-ko",
+        "global-x-20260921-jade-moonrise"
+      ],
+      "status": "announced",
+      "scope": {
+        "en": "Announced for September 25, 05:00 UTC+8 in the official X post. Korean image says 06:00 without printing its timezone. This is a future announcement, not a verified release.",
+        "ko": "공식 X의 9월 25일 05:00(UTC+8) 출시 예고입니다. 한국어 이미지는 시간대 없이 06:00로 표기합니다. 실제 출시 확인 전의 예정 정보입니다."
+      }
+    },
+    {
+      "id": "release-global-peng-shan-wan-zhong",
+      "cosmeticId": "peng-shan-wan-zhong",
+      "date": "2026-09-27",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-20260921-update-en",
+        "global-20260921-update-ko"
+      ],
+      "status": "announced",
+      "scope": {
+        "en": "Announced for September 27. EN image lists 05:00; KO lists 06:00. Neither panel states a timezone, so no absolute instant is inferred. Release remains unverified.",
+        "ko": "9월 27일 출시 예고입니다. 영문 이미지는 05:00, 한국어는 06:00로 표기하며 두 패널 모두 시간대가 없어 절대 시각으로 환산하지 않습니다. 실제 출시는 미확인입니다."
+      }
+    },
+    {
+      "id": "release-global-shu-tong-liu-xiang",
+      "cosmeticId": "shu-tong-liu-xiang",
+      "date": "2026-09-27",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-20260921-update-en",
+        "global-20260921-update-ko"
+      ],
+      "status": "announced",
+      "scope": {
+        "en": "Announced for September 27. EN image lists 00:00; KO lists 01:00. Neither panel states a timezone, so no absolute instant is inferred. Release remains unverified.",
+        "ko": "9월 27일 출시 예고입니다. 영문 이미지는 00:00, 한국어는 01:00로 표기하며 두 패널 모두 시간대가 없어 절대 시각으로 환산하지 않습니다. 실제 출시는 미확인입니다."
+      }
+    },
+    {
+      "id": "release-global-qiu-lu-qing",
+      "cosmeticId": "qiu-lu-qing",
+      "date": "2026-09-27",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-20260921-update-en",
+        "global-20260921-update-ko"
+      ],
+      "status": "announced",
+      "scope": {
+        "en": "Announced for September 27. EN image lists 00:00; KO lists 01:00. Neither panel states a timezone, so no absolute instant is inferred. Release remains unverified.",
+        "ko": "9월 27일 출시 예고입니다. 영문 이미지는 00:00, 한국어는 01:00로 표기하며 두 패널 모두 시간대가 없어 절대 시각으로 환산하지 않습니다. 실제 출시는 미확인입니다."
+      }
     }
   ]
 }

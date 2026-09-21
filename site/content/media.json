@@ -6504,5 +6504,53 @@
     "fullBytes": 78912,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license"
+  },
+  {
+    "cosmeticId": "jin-yan-yu-tuan",
+    "index": 0,
+    "originalUrl": "https://r.res.easebar.com/pic/20260921/c2e1ff4d-68ed-4100-b164-0a5063cdfe15.png",
+    "sourcePage": "https://www.wherewindsmeetgame.com/news/official/921update.html",
+    "thumbnail": "/media/jin-yan-yu-tuan-0-thumb.webp",
+    "full": "/media/jin-yan-yu-tuan-0-full.webp",
+    "thumbnailBytes": 43890,
+    "fullBytes": 232880,
+    "permission": "unknown",
+    "audience": "reference artwork; excluded from the code license",
+    "sourceCrop": [
+      43,
+      2497,
+      965,
+      3353
+    ],
+    "thumbnailCrop": [
+      524,
+      2538,
+      956,
+      3078
+    ]
+  },
+  {
+    "cosmeticId": "fu-guang",
+    "index": 0,
+    "originalUrl": "https://r.res.easebar.com/pic/20260921/c2e1ff4d-68ed-4100-b164-0a5063cdfe15.png",
+    "sourcePage": "https://www.wherewindsmeetgame.com/news/official/921update.html",
+    "thumbnail": "/media/fu-guang-0-thumb.webp",
+    "full": "/media/fu-guang-0-full.webp",
+    "thumbnailBytes": 30708,
+    "fullBytes": 210946,
+    "permission": "unknown",
+    "audience": "reference artwork; excluded from the code license",
+    "sourceCrop": [
+      43,
+      3801,
+      965,
+      4655
+    ],
+    "thumbnailCrop": [
+      524,
+      3858,
+      956,
+      4398
+    ]
   }
 ]
