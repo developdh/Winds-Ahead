@@ -2,7 +2,7 @@
 
 [한국어](../ko/release-roadmap.md) · [Calendar maintenance](calendar-automation.md)
 
-The roadmap shows upcoming official announcements and current editorial windows in chronological order. The calendar retains historical CN/Global dates. Choose All, Official, or Estimated; language, server, view, month and type are preserved in the URL. Existing links with a month still open the calendar. Blue labels identify official announcements, gold labels identify estimates, with distinct wording and icons.
+The roadmap shows every upcoming official announcement first, followed by a separate Estimated windows section labeled Editorial · Not official. Each section is ordered chronologically; an estimate whose window starts earlier never precedes an official date. The calendar retains historical CN/Global dates. Choose All, Official, or Estimated; language, server, view, month and type are preserved in the URL. Existing links with a month still open the calendar. Blue labels identify official announcements, gold labels identify estimates, with distinct wording and icons.
 
 ## Verified announcement
 

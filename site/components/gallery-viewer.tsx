@@ -1,7 +1,7 @@
 "use client";
 
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
-import { ArrowUpRight, ChevronLeft, ChevronRight, X } from "lucide-react";
+import { ArrowUpRight, ChevronLeft, ChevronRight, Scan, X, ZoomIn } from "lucide-react";
 import {
   DialogClose, DialogDescription, DialogTitle,
 } from "@/components/ui/dialog";
@@ -14,7 +14,7 @@ import { imagesOf, nameOf, type Cosmetic, type Locale } from "@/lib/catalog";
 
 type GalleryImage = ReturnType<typeof imagesOf>[number];
 
-function GalleryFrame({ image, dimensions, active, preload, onReady, label, l }: {
+function GalleryFrame({ image, dimensions, active, preload, onReady, label, l, zoomed }: {
   image: GalleryImage;
   dimensions: Cosmetic["images"][number];
   active: boolean;
@@ -22,16 +22,19 @@ function GalleryFrame({ image, dimensions, active, preload, onReady, label, l }:
   onReady: (source: string) => void;
   label: string;
   l: Locale;
+  zoomed: boolean;
 }) {
+  const scrollRef = useRef<HTMLDivElement>(null);
   const [status, setStatus] = useState<"loading" | "ready" | "error">("loading");
   const [requested, setRequested] = useState(active || preload);
   const t = (en: string, ko: string) => l === "ko" ? ko : en;
   useEffect(() => {
     if (active || preload) setRequested(true);
   }, [active, preload]);
+  useEffect(() => { scrollRef.current?.scrollTo(0, 0); }, [active, zoomed]);
 
   return (
-    <div className="gallery-scroll" tabIndex={active ? 0 : -1} aria-label={label}>
+    <div ref={scrollRef} className="gallery-scroll" data-zoomed={active && zoomed} tabIndex={active ? 0 : -1} aria-label={label}>
       {status === "error" ? (
         <p className="gallery-message" role="alert">
           {t("The image could not load. Open the official original below.", "이미지를 불러오지 못했습니다. 아래의 공식 원본을 열어주세요.")}
@@ -67,6 +70,7 @@ export default function GalleryViewer({ c, l, images, selected, onSelect }: {
 }) {
   const t = (en: string, ko: string) => l === "ko" ? ko : en;
   const [api, setApi] = useState<CarouselApi>();
+  const [zoomed, setZoomed] = useState(false);
   // Capture the opening thumbnail once, rather than resetting the carousel on every selection.
   const [startIndex] = useState(selected);
   const activeIndex = useRef(selected);
@@ -82,11 +86,13 @@ export default function GalleryViewer({ c, l, images, selected, onSelect }: {
     preference.addEventListener("change", update);
     return () => preference.removeEventListener("change", update);
   }, []);
-  const options = useMemo(() => ({ startIndex, duration: reducedMotion ? 0 : 36, loop: false }), [startIndex, reducedMotion]);
+  const options = useMemo(() => ({ startIndex, duration: reducedMotion ? 0 : 36, loop: false, watchDrag: !zoomed }), [startIndex, reducedMotion, zoomed]);
   useEffect(() => {
     if (!api) return;
     const update = () => {
-      activeIndex.current = api.selectedScrollSnap();
+      const next = api.selectedScrollSnap();
+      if (next !== activeIndex.current) setZoomed(false);
+      activeIndex.current = next;
       onSelect(activeIndex.current);
     };
     const restore = () => {
@@ -118,6 +124,7 @@ export default function GalleryViewer({ c, l, images, selected, onSelect }: {
   return (
     <Carousel
       className="gallery-carousel"
+      data-zoomed={zoomed}
       opts={options}
       setApi={setApi}
       aria-label={t("Official images", "공식 이미지")}
@@ -152,6 +159,7 @@ export default function GalleryViewer({ c, l, images, selected, onSelect }: {
               onReady={recordReady}
               label={`${c.nameOriginal} · ${t("Full promotional image", "전체 홍보 이미지")} ${index + 1}`}
               l={l}
+              zoomed={zoomed}
             />
           </CarouselItem>
         ))}
@@ -176,6 +184,10 @@ export default function GalleryViewer({ c, l, images, selected, onSelect }: {
         </>}
       </div>
       <div className="gallery-footer">
+        <button className="gallery-zoom text-link" onClick={() => setZoomed(value => !value)} aria-pressed={zoomed} disabled={!readyImages.has(images[selected].full)}>
+          {zoomed ? <Scan size={18} /> : <ZoomIn size={18} />}
+          {zoomed ? t("Fit image", "전체 맞춤") : t("Zoom in", "확대")}
+        </button>
         <a className="text-link" href={images[selected].originalUrl} target="_blank" rel="noreferrer">
           {t("Official original", "공식 원본")}
           <ArrowUpRight size={16} />

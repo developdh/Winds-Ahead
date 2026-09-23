@@ -1,0 +1,2514 @@
+{
+  "reviewedAt": "2026-09-23",
+  "method": "Existing official poster derivatives compared with the original panels. Coordinates are [left, top, right, bottom] in source pixels. Negative legacy right bounds are preserved only in previousCrop. Full derivatives retain the reviewed artwork, and poster thumbnails use contain rather than attention cropping. No media rights or server-status claims changed.",
+  "images": [
+    {
+      "cosmeticId": "zui-penglai",
+      "index": 1,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260625/62b9865a-c227-4a4f-86c8-c521f41900cc.png",
+      "previousCrop": [
+        36,
+        997,
+        935,
+        2202
+      ],
+      "sourceCrop": [
+        25,
+        1000,
+        963,
+        2197
+      ],
+      "width": 938,
+      "height": 1197
+    },
+    {
+      "cosmeticId": "qing-fangzun",
+      "index": 1,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260625/62b9865a-c227-4a4f-86c8-c521f41900cc.png",
+      "previousCrop": [
+        36,
+        3680,
+        935,
+        4390
+      ],
+      "sourceCrop": [
+        25,
+        3675,
+        963,
+        4383
+      ],
+      "width": 938,
+      "height": 708
+    },
+    {
+      "cosmeticId": "jumang",
+      "index": 1,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260722/2cd08d3a-8c1a-4c71-8b34-00e6317edd28.png",
+      "previousCrop": [
+        36,
+        4506,
+        948,
+        5376
+      ],
+      "sourceCrop": [
+        37,
+        4510,
+        975,
+        5374
+      ],
+      "width": 938,
+      "height": 864
+    },
+    {
+      "cosmeticId": "tianzhi-minggui",
+      "index": 1,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260722/2cd08d3a-8c1a-4c71-8b34-00e6317edd28.png",
+      "previousCrop": [
+        36,
+        5811,
+        948,
+        6192
+      ],
+      "sourceCrop": [
+        37,
+        5817,
+        975,
+        6190
+      ],
+      "width": 938,
+      "height": 373
+    },
+    {
+      "cosmeticId": "qing-yuan-ru-hua",
+      "index": 2,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260819/04b18226-dc19-43b5-ba77-16857244c446.png",
+      "previousCrop": [
+        36,
+        5957,
+        948,
+        6826
+      ],
+      "sourceCrop": [
+        37,
+        5959,
+        975,
+        6824
+      ],
+      "width": 938,
+      "height": 865
+    },
+    {
+      "cosmeticId": "xue-man-chuan",
+      "index": 1,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260305/30e1d6c1-bef4-49c8-a897-f2e3f95759d3.png",
+      "previousCrop": [
+        32,
+        4507,
+        -32,
+        4832
+      ],
+      "sourceCrop": [
+        37,
+        4489,
+        969,
+        4842
+      ],
+      "width": 932,
+      "height": 353
+    },
+    {
+      "cosmeticId": "tie-ma-jin-ge",
+      "index": 1,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260305/30e1d6c1-bef4-49c8-a897-f2e3f95759d3.png",
+      "previousCrop": [
+        32,
+        1972,
+        -32,
+        2299
+      ],
+      "sourceCrop": [
+        37,
+        1952,
+        968,
+        2312
+      ],
+      "width": 931,
+      "height": 360
+    },
+    {
+      "cosmeticId": "qing-yu-an",
+      "index": 1,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260305/30e1d6c1-bef4-49c8-a897-f2e3f95759d3.png",
+      "previousCrop": [
+        32,
+        2414,
+        -32,
+        2728
+      ],
+      "sourceCrop": [
+        37,
+        2387,
+        968,
+        2739
+      ],
+      "width": 931,
+      "height": 352
+    },
+    {
+      "cosmeticId": "yan-hai-xiang",
+      "index": 1,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260402/5a9398c1-58cc-49c6-adb8-c84f16bd438a.png",
+      "previousCrop": [
+        32,
+        10420,
+        -32,
+        11302
+      ],
+      "sourceCrop": [
+        36,
+        10406,
+        967,
+        11266
+      ],
+      "width": 931,
+      "height": 860
+    },
+    {
+      "cosmeticId": "qing-cao-yuan",
+      "index": 1,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260402/5a9398c1-58cc-49c6-adb8-c84f16bd438a.png",
+      "previousCrop": [
+        32,
+        11920,
+        -32,
+        12803
+      ],
+      "sourceCrop": [
+        36,
+        11908,
+        967,
+        12767
+      ],
+      "width": 931,
+      "height": 859
+    },
+    {
+      "cosmeticId": "nan-feng-xun",
+      "index": 1,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260717/f02daf84-e057-4450-be78-eafb375b8eba.png",
+      "previousCrop": [
+        36,
+        2189,
+        948,
+        3054
+      ],
+      "sourceCrop": [
+        46,
+        2193,
+        977,
+        3052
+      ],
+      "width": 931,
+      "height": 859
+    },
+    {
+      "cosmeticId": "li-chuan-chi-su",
+      "index": 1,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260305/30e1d6c1-bef4-49c8-a897-f2e3f95759d3.png",
+      "previousCrop": [
+        32,
+        7623,
+        -32,
+        8442
+      ],
+      "sourceCrop": [
+        37,
+        7597,
+        968,
+        8456
+      ],
+      "width": 931,
+      "height": 859
+    },
+    {
+      "cosmeticId": "fu-rong-qi-lu",
+      "index": 1,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260305/30e1d6c1-bef4-49c8-a897-f2e3f95759d3.png",
+      "previousCrop": [
+        32,
+        7204,
+        -32,
+        7510
+      ],
+      "sourceCrop": [
+        37,
+        7176,
+        968,
+        7522
+      ],
+      "width": 931,
+      "height": 346
+    },
+    {
+      "cosmeticId": "chi-zou-xi-feng",
+      "index": 1,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260402/5a9398c1-58cc-49c6-adb8-c84f16bd438a.png",
+      "previousCrop": [
+        32,
+        5210,
+        -32,
+        6080
+      ],
+      "sourceCrop": [
+        36,
+        5186,
+        967,
+        6046
+      ],
+      "width": 931,
+      "height": 860
+    },
+    {
+      "cosmeticId": "cang-yinwan-gu-bei-chen",
+      "index": 1,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260402/5a9398c1-58cc-49c6-adb8-c84f16bd438a.png",
+      "previousCrop": [
+        32,
+        14355,
+        -32,
+        15130
+      ],
+      "sourceCrop": [
+        36,
+        14346,
+        968,
+        15094
+      ],
+      "width": 932,
+      "height": 748
+    },
+    {
+      "cosmeticId": "fuyun-juan-ai",
+      "index": 1,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260430/3167a507-c015-49c7-b4bf-0820d5d56795.png",
+      "previousCrop": [
+        32,
+        9091,
+        -32,
+        9951
+      ],
+      "sourceCrop": [
+        36,
+        9087,
+        967,
+        9946
+      ],
+      "width": 931,
+      "height": 859
+    },
+    {
+      "cosmeticId": "wu-hui",
+      "index": 1,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260402/5a9398c1-58cc-49c6-adb8-c84f16bd438a.png",
+      "previousCrop": [
+        32,
+        9049,
+        -32,
+        9349
+      ],
+      "sourceCrop": [
+        36,
+        8985,
+        967,
+        9315
+      ],
+      "width": 931,
+      "height": 330
+    },
+    {
+      "cosmeticId": "jinhua-yu",
+      "index": 1,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260819/04b18226-dc19-43b5-ba77-16857244c446.png",
+      "previousCrop": [
+        36,
+        8640,
+        948,
+        9028
+      ],
+      "sourceCrop": [
+        37,
+        8647,
+        975,
+        9025
+      ],
+      "width": 938,
+      "height": 378
+    },
+    {
+      "cosmeticId": "qing-zhi-wu-xin",
+      "index": 1,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260814/b0f8349d-fbf4-4748-9898-fc4f98bcd03b.png",
+      "previousCrop": [
+        36,
+        819,
+        948,
+        1726
+      ],
+      "sourceCrop": [
+        0,
+        820,
+        975,
+        1723
+      ],
+      "width": 975,
+      "height": 903
+    },
+    {
+      "cosmeticId": "que-qiao-xian",
+      "index": 1,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260814/b0f8349d-fbf4-4748-9898-fc4f98bcd03b.png",
+      "previousCrop": [
+        36,
+        2211,
+        948,
+        3188
+      ],
+      "sourceCrop": [
+        0,
+        2221,
+        975,
+        3183
+      ],
+      "width": 975,
+      "height": 962
+    },
+    {
+      "cosmeticId": "sui-shi-an",
+      "index": 1,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260625/62b9865a-c227-4a4f-86c8-c521f41900cc.png",
+      "previousCrop": [
+        36,
+        11925,
+        935,
+        12798
+      ],
+      "sourceCrop": [
+        25,
+        11931,
+        963,
+        12797
+      ],
+      "width": 938,
+      "height": 866
+    },
+    {
+      "cosmeticId": "wang-xiang-ke",
+      "index": 1,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260402/5a9398c1-58cc-49c6-adb8-c84f16bd438a.png",
+      "previousCrop": [
+        32,
+        9454,
+        -32,
+        10288
+      ],
+      "sourceCrop": [
+        36,
+        9369,
+        968,
+        10251
+      ],
+      "width": 932,
+      "height": 882
+    },
+    {
+      "cosmeticId": "yu-you-rong-yan",
+      "index": 1,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260703/d7597d66-5230-4f49-9443-319a1281a5c3.png",
+      "previousCrop": [
+        32,
+        5189,
+        -32,
+        5595
+      ],
+      "sourceCrop": [
+        37,
+        5191,
+        975,
+        5589
+      ],
+      "width": 938,
+      "height": 398
+    },
+    {
+      "cosmeticId": "shi-shuang-feng",
+      "index": 1,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260807/13c6a39d-5f43-4b76-a1dc-c1b0b18bf9f8.png",
+      "previousCrop": [
+        36,
+        4684,
+        948,
+        5053
+      ],
+      "sourceCrop": [
+        0,
+        4687,
+        976,
+        5051
+      ],
+      "width": 976,
+      "height": 364
+    },
+    {
+      "cosmeticId": "xi-fang-shi",
+      "index": 1,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260430/3167a507-c015-49c7-b4bf-0820d5d56795.png",
+      "previousCrop": [
+        32,
+        13215,
+        -32,
+        14075
+      ],
+      "sourceCrop": [
+        36,
+        13210,
+        967,
+        14068
+      ],
+      "width": 931,
+      "height": 858
+    },
+    {
+      "cosmeticId": "cang-yinhe-fei-fa-xiang",
+      "index": 1,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260305/30e1d6c1-bef4-49c8-a897-f2e3f95759d3.png",
+      "previousCrop": [
+        32,
+        8561,
+        -32,
+        8885
+      ],
+      "sourceCrop": [
+        37,
+        8545,
+        969,
+        8899
+      ],
+      "width": 932,
+      "height": 354
+    },
+    {
+      "cosmeticId": "sha-li-wa",
+      "index": 1,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260402/5a9398c1-58cc-49c6-adb8-c84f16bd438a.png",
+      "previousCrop": [
+        32,
+        8579,
+        -32,
+        8944
+      ],
+      "sourceCrop": [
+        36,
+        8515,
+        968,
+        8909
+      ],
+      "width": 932,
+      "height": 394
+    },
+    {
+      "cosmeticId": "wan-laimanfei-ying",
+      "index": 1,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260625/62b9865a-c227-4a4f-86c8-c521f41900cc.png",
+      "previousCrop": [
+        36,
+        8710,
+        935,
+        9177
+      ],
+      "sourceCrop": [
+        25,
+        8734,
+        964,
+        9130
+      ],
+      "width": 939,
+      "height": 396
+    },
+    {
+      "cosmeticId": "you-zhujian",
+      "index": 1,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260722/2cd08d3a-8c1a-4c71-8b34-00e6317edd28.png",
+      "previousCrop": [
+        36,
+        12045,
+        948,
+        12910
+      ],
+      "sourceCrop": [
+        37,
+        12036,
+        975,
+        12902
+      ],
+      "width": 938,
+      "height": 866
+    },
+    {
+      "cosmeticId": "tian-de-xing",
+      "index": 1,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260722/2cd08d3a-8c1a-4c71-8b34-00e6317edd28.png",
+      "previousCrop": [
+        36,
+        10725,
+        948,
+        11598
+      ],
+      "sourceCrop": [
+        37,
+        10734,
+        975,
+        11598
+      ],
+      "width": 938,
+      "height": 864
+    },
+    {
+      "cosmeticId": "mie-ye-ye",
+      "index": 1,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260722/2cd08d3a-8c1a-4c71-8b34-00e6317edd28.png",
+      "previousCrop": [
+        36,
+        6703,
+        948,
+        7084
+      ],
+      "sourceCrop": [
+        37,
+        6706,
+        976,
+        7085
+      ],
+      "width": 939,
+      "height": 379
+    },
+    {
+      "cosmeticId": "miao-xian-ren-zhang",
+      "index": 1,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260807/13c6a39d-5f43-4b76-a1dc-c1b0b18bf9f8.png",
+      "previousCrop": [
+        36,
+        5464,
+        948,
+        5817
+      ],
+      "sourceCrop": [
+        0,
+        5469,
+        976,
+        5815
+      ],
+      "width": 976,
+      "height": 346
+    },
+    {
+      "cosmeticId": "jian-yudiao-ling",
+      "index": 1,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260703/d7597d66-5230-4f49-9443-319a1281a5c3.png",
+      "previousCrop": [
+        32,
+        3844,
+        -32,
+        4718
+      ],
+      "sourceCrop": [
+        37,
+        3851,
+        975,
+        4715
+      ],
+      "width": 938,
+      "height": 864
+    },
+    {
+      "cosmeticId": "wan-laizhanyin-yang",
+      "index": 1,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260819/04b18226-dc19-43b5-ba77-16857244c446.png",
+      "previousCrop": [
+        36,
+        9497,
+        948,
+        9854
+      ],
+      "sourceCrop": [
+        37,
+        9518,
+        975,
+        9848
+      ],
+      "width": 938,
+      "height": 330
+    },
+    {
+      "cosmeticId": "cang-yinlong-yue-xiao-han",
+      "index": 1,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260703/d7597d66-5230-4f49-9443-319a1281a5c3.png",
+      "previousCrop": [
+        32,
+        778,
+        -32,
+        1561
+      ],
+      "sourceCrop": [
+        37,
+        782,
+        975,
+        1557
+      ],
+      "width": 938,
+      "height": 775
+    },
+    {
+      "cosmeticId": "yan-yan-yu-fei",
+      "index": 1,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260826/b2b531db-ec7a-48dc-9a55-f4711afd1d49.png",
+      "previousCrop": [
+        36,
+        7612,
+        948,
+        8481
+      ],
+      "sourceCrop": [
+        35,
+        7613,
+        973,
+        8479
+      ],
+      "width": 938,
+      "height": 866
+    },
+    {
+      "cosmeticId": "kong-que-yao",
+      "index": 1,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260430/3167a507-c015-49c7-b4bf-0820d5d56795.png",
+      "previousCrop": [
+        32,
+        14317,
+        -32,
+        15184
+      ],
+      "sourceCrop": [
+        36,
+        14320,
+        967,
+        15179
+      ],
+      "width": 931,
+      "height": 859
+    },
+    {
+      "cosmeticId": "wu-ji",
+      "index": 1,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260819/04b18226-dc19-43b5-ba77-16857244c446.png",
+      "previousCrop": [
+        36,
+        10286,
+        948,
+        10622
+      ],
+      "sourceCrop": [
+        37,
+        10288,
+        975,
+        10620
+      ],
+      "width": 938,
+      "height": 332
+    },
+    {
+      "cosmeticId": "sui-huayao-tian-xuanguang",
+      "index": 1,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260722/2cd08d3a-8c1a-4c71-8b34-00e6317edd28.png",
+      "previousCrop": [
+        36,
+        815,
+        948,
+        2020
+      ],
+      "sourceCrop": [
+        37,
+        823,
+        975,
+        2020
+      ],
+      "width": 938,
+      "height": 1197
+    },
+    {
+      "cosmeticId": "jiu-xiao-he-ju",
+      "index": 1,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260826/b2b531db-ec7a-48dc-9a55-f4711afd1d49.png",
+      "previousCrop": [
+        36,
+        6396,
+        948,
+        7216
+      ],
+      "sourceCrop": [
+        35,
+        6413,
+        974,
+        7216
+      ],
+      "width": 939,
+      "height": 803
+    },
+    {
+      "cosmeticId": "mo-ran-chen",
+      "index": 1,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260305/30e1d6c1-bef4-49c8-a897-f2e3f95759d3.png",
+      "previousCrop": [
+        32,
+        3695,
+        -32,
+        3984
+      ],
+      "sourceCrop": [
+        37,
+        3669,
+        969,
+        3999
+      ],
+      "width": 932,
+      "height": 330
+    },
+    {
+      "cosmeticId": "feng-xi-wan-gu",
+      "index": 1,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260402/5a9398c1-58cc-49c6-adb8-c84f16bd438a.png",
+      "previousCrop": [
+        32,
+        11435,
+        -32,
+        11787
+      ],
+      "sourceCrop": [
+        36,
+        11422,
+        968,
+        11752
+      ],
+      "width": 932,
+      "height": 330
+    },
+    {
+      "cosmeticId": "zhong-shan-jiu-die",
+      "index": 1,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260625/62b9865a-c227-4a4f-86c8-c521f41900cc.png",
+      "previousCrop": [
+        36,
+        13276,
+        935,
+        13608
+      ],
+      "sourceCrop": [
+        25,
+        13274,
+        964,
+        13606
+      ],
+      "width": 939,
+      "height": 332
+    },
+    {
+      "cosmeticId": "mo-cang-chun",
+      "index": 1,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260909/89e24d3b-aed8-423b-83a9-be53724b40cf.png",
+      "previousCrop": [
+        36,
+        4482,
+        948,
+        4854
+      ],
+      "sourceCrop": [
+        36,
+        4493,
+        974,
+        4856
+      ],
+      "width": 938,
+      "height": 363
+    },
+    {
+      "cosmeticId": "jin-sui-feng-rang",
+      "index": 1,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260305/30e1d6c1-bef4-49c8-a897-f2e3f95759d3.png",
+      "previousCrop": [
+        32,
+        5428,
+        -32,
+        5721
+      ],
+      "sourceCrop": [
+        37,
+        5402,
+        968,
+        5732
+      ],
+      "width": 931,
+      "height": 330
+    },
+    {
+      "cosmeticId": "ni-shang-huai-tian",
+      "index": 1,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260703/d7597d66-5230-4f49-9443-319a1281a5c3.png",
+      "previousCrop": [
+        32,
+        3081,
+        -32,
+        3417
+      ],
+      "sourceCrop": [
+        37,
+        3081,
+        975,
+        3413
+      ],
+      "width": 938,
+      "height": 332
+    },
+    {
+      "cosmeticId": "han-ya-du-ying",
+      "index": 1,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260717/4f44a978-f211-41b4-9cdd-4a3976d8793b.png",
+      "previousCrop": [
+        32,
+        5897,
+        -32,
+        6232
+      ],
+      "sourceCrop": [
+        45,
+        5900,
+        977,
+        6229
+      ],
+      "width": 932,
+      "height": 329
+    },
+    {
+      "cosmeticId": "jin-wu-zhui-huo",
+      "index": 1,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260909/89e24d3b-aed8-423b-83a9-be53724b40cf.png",
+      "previousCrop": [
+        36,
+        3504,
+        948,
+        3969
+      ],
+      "sourceCrop": [
+        36,
+        3507,
+        975,
+        3968
+      ],
+      "width": 939,
+      "height": 461
+    },
+    {
+      "cosmeticId": "fei-shuang-dianxue",
+      "index": 1,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260819/04b18226-dc19-43b5-ba77-16857244c446.png",
+      "previousCrop": [
+        36,
+        11287,
+        948,
+        11692
+      ],
+      "sourceCrop": [
+        37,
+        11302,
+        975,
+        11682
+      ],
+      "width": 938,
+      "height": 380
+    },
+    {
+      "cosmeticId": "yin-qian-ji",
+      "index": 1,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260902/533f67fe-c2af-482b-aaa1-6d5ff0352d59.png",
+      "previousCrop": [
+        36,
+        7441,
+        948,
+        7775
+      ],
+      "sourceCrop": [
+        36,
+        7443,
+        974,
+        7775
+      ],
+      "width": 938,
+      "height": 332
+    },
+    {
+      "cosmeticId": "ling-jiao-zhi-meng",
+      "index": 1,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260717/4f44a978-f211-41b4-9cdd-4a3976d8793b.png",
+      "previousCrop": [
+        36,
+        773,
+        948,
+        1964
+      ],
+      "sourceCrop": [
+        46,
+        777,
+        977,
+        1964
+      ],
+      "width": 931,
+      "height": 1187
+    },
+    {
+      "cosmeticId": "qing-yuzhu-yun",
+      "index": 1,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260803/7c519102-073a-416f-8818-957df99dadd7.png",
+      "previousCrop": [
+        36,
+        777,
+        948,
+        1171
+      ],
+      "sourceCrop": [
+        38,
+        786,
+        977,
+        1169
+      ],
+      "width": 939,
+      "height": 383
+    },
+    {
+      "cosmeticId": "lie-baiyu",
+      "index": 1,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260819/04b18226-dc19-43b5-ba77-16857244c446.png",
+      "previousCrop": [
+        36,
+        12083,
+        948,
+        12959
+      ],
+      "sourceCrop": [
+        37,
+        12090,
+        975,
+        12955
+      ],
+      "width": 938,
+      "height": 865
+    },
+    {
+      "cosmeticId": "fei-peng-tuan-kong",
+      "index": 1,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260826/b2b531db-ec7a-48dc-9a55-f4711afd1d49.png",
+      "previousCrop": [
+        36,
+        5193,
+        948,
+        5926
+      ],
+      "sourceCrop": [
+        35,
+        5263,
+        973,
+        5925
+      ],
+      "width": 938,
+      "height": 662
+    },
+    {
+      "cosmeticId": "ming-he-zai-xue",
+      "index": 1,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260902/533f67fe-c2af-482b-aaa1-6d5ff0352d59.png",
+      "previousCrop": [
+        36,
+        2542,
+        948,
+        3413
+      ],
+      "sourceCrop": [
+        36,
+        2547,
+        974,
+        3413
+      ],
+      "width": 938,
+      "height": 866
+    },
+    {
+      "cosmeticId": "han-ying",
+      "index": 1,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260902/533f67fe-c2af-482b-aaa1-6d5ff0352d59.png",
+      "previousCrop": [
+        36,
+        3885,
+        948,
+        4277
+      ],
+      "sourceCrop": [
+        36,
+        3896,
+        974,
+        4273
+      ],
+      "width": 938,
+      "height": 377
+    },
+    {
+      "cosmeticId": "liu-sha-wen-gu",
+      "index": 1,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260909/89e24d3b-aed8-423b-83a9-be53724b40cf.png",
+      "previousCrop": [
+        36,
+        2116,
+        948,
+        2992
+      ],
+      "sourceCrop": [
+        36,
+        2125,
+        974,
+        2990
+      ],
+      "width": 938,
+      "height": 865
+    },
+    {
+      "cosmeticId": "fang-fei-chun-hua",
+      "index": 1,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260625/62b9865a-c227-4a4f-86c8-c521f41900cc.png",
+      "previousCrop": [
+        36,
+        6086,
+        935,
+        6955
+      ],
+      "sourceCrop": [
+        25,
+        6089,
+        963,
+        6955
+      ],
+      "width": 938,
+      "height": 866
+    },
+    {
+      "cosmeticId": "wu-ling-chun",
+      "index": 1,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260625/62b9865a-c227-4a4f-86c8-c521f41900cc.png",
+      "previousCrop": [
+        36,
+        7429,
+        935,
+        8298
+      ],
+      "sourceCrop": [
+        25,
+        7431,
+        963,
+        8296
+      ],
+      "width": 938,
+      "height": 865
+    },
+    {
+      "cosmeticId": "yi-chun-shan",
+      "index": 1,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260625/62b9865a-c227-4a4f-86c8-c521f41900cc.png",
+      "previousCrop": [
+        36,
+        4454,
+        935,
+        5382
+      ],
+      "sourceCrop": [
+        25,
+        4513,
+        963,
+        5378
+      ],
+      "width": 938,
+      "height": 865
+    },
+    {
+      "cosmeticId": "cang-yindan-xiao-qing-ming",
+      "index": 1,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260803/7c519102-073a-416f-8818-957df99dadd7.png",
+      "previousCrop": [
+        36,
+        1875,
+        948,
+        2546
+      ],
+      "sourceCrop": [
+        38,
+        1881,
+        976,
+        2543
+      ],
+      "width": 938,
+      "height": 662
+    },
+    {
+      "cosmeticId": "wan-laishan-jun-chu",
+      "index": 1,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260722/2cd08d3a-8c1a-4c71-8b34-00e6317edd28.png",
+      "previousCrop": [
+        36,
+        7558,
+        948,
+        8431
+      ],
+      "sourceCrop": [
+        37,
+        7561,
+        975,
+        8427
+      ],
+      "width": 938,
+      "height": 866
+    },
+    {
+      "cosmeticId": "wu-fan-shi-sheng",
+      "index": 1,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260902/533f67fe-c2af-482b-aaa1-6d5ff0352d59.png",
+      "previousCrop": [
+        36,
+        6319,
+        948,
+        7046
+      ],
+      "sourceCrop": [
+        36,
+        6328,
+        974,
+        7045
+      ],
+      "width": 938,
+      "height": 717
+    },
+    {
+      "cosmeticId": "chun-yuan",
+      "index": 1,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260819/04b18226-dc19-43b5-ba77-16857244c446.png",
+      "previousCrop": [
+        36,
+        7300,
+        948,
+        8167
+      ],
+      "sourceCrop": [
+        37,
+        7301,
+        975,
+        8166
+      ],
+      "width": 938,
+      "height": 865
+    },
+    {
+      "cosmeticId": "wan-laiyin-jiang-fu",
+      "index": 1,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260722/2cd08d3a-8c1a-4c71-8b34-00e6317edd28.png",
+      "previousCrop": [
+        36,
+        8863,
+        948,
+        9530
+      ],
+      "sourceCrop": [
+        37,
+        8865,
+        975,
+        9527
+      ],
+      "width": 938,
+      "height": 662
+    },
+    {
+      "cosmeticId": "dianchun-ou",
+      "index": 1,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260807/13c6a39d-5f43-4b76-a1dc-c1b0b18bf9f8.png",
+      "previousCrop": [
+        36,
+        3326,
+        948,
+        4235
+      ],
+      "sourceCrop": [
+        0,
+        3329,
+        975,
+        4230
+      ],
+      "width": 975,
+      "height": 901
+    },
+    {
+      "cosmeticId": "cang-yinxing-he-yu-shu",
+      "index": 1,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260902/533f67fe-c2af-482b-aaa1-6d5ff0352d59.png",
+      "previousCrop": [
+        36,
+        4781,
+        948,
+        5657
+      ],
+      "sourceCrop": [
+        36,
+        4789,
+        974,
+        5654
+      ],
+      "width": 938,
+      "height": 865
+    },
+    {
+      "cosmeticId": "zhi-lan-zi-fang",
+      "index": 1,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260722/2cd08d3a-8c1a-4c71-8b34-00e6317edd28.png",
+      "previousCrop": [
+        36,
+        2918,
+        948,
+        3838
+      ],
+      "sourceCrop": [
+        37,
+        2971,
+        975,
+        3837
+      ],
+      "width": 938,
+      "height": 866
+    },
+    {
+      "cosmeticId": "yu-long-kongyou",
+      "index": 1,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260625/62b9865a-c227-4a4f-86c8-c521f41900cc.png",
+      "previousCrop": [
+        36,
+        10412,
+        935,
+        11380
+      ],
+      "sourceCrop": [
+        25,
+        10510,
+        963,
+        11376
+      ],
+      "width": 938,
+      "height": 866
+    },
+    {
+      "cosmeticId": "han-mo-dan-qing",
+      "index": 1,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260819/04b18226-dc19-43b5-ba77-16857244c446.png",
+      "previousCrop": [
+        36,
+        4363,
+        948,
+        5288
+      ],
+      "sourceCrop": [
+        37,
+        4422,
+        975,
+        5286
+      ],
+      "width": 938,
+      "height": 864
+    },
+    {
+      "cosmeticId": "xuan-yingshui-he-qing-tian",
+      "index": 1,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260909/89e24d3b-aed8-423b-83a9-be53724b40cf.png",
+      "previousCrop": [
+        36,
+        780,
+        948,
+        1650
+      ],
+      "sourceCrop": [
+        36,
+        783,
+        974,
+        1649
+      ],
+      "width": 938,
+      "height": 866
+    },
+    {
+      "cosmeticId": "guaiwu-chang",
+      "index": 1,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260826/b2b531db-ec7a-48dc-9a55-f4711afd1d49.png",
+      "previousCrop": [
+        36,
+        3760,
+        948,
+        4633
+      ],
+      "sourceCrop": [
+        35,
+        3764,
+        973,
+        4630
+      ],
+      "width": 938,
+      "height": 866
+    },
+    {
+      "cosmeticId": "jin-yan-yu-tuan",
+      "index": 0,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260921/c2e1ff4d-68ed-4100-b164-0a5063cdfe15.png",
+      "previousCrop": [
+        43,
+        2497,
+        965,
+        3353
+      ],
+      "sourceCrop": [
+        35,
+        2492,
+        973,
+        3346
+      ],
+      "width": 938,
+      "height": 854
+    },
+    {
+      "cosmeticId": "fu-guang",
+      "index": 0,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260921/c2e1ff4d-68ed-4100-b164-0a5063cdfe15.png",
+      "previousCrop": [
+        43,
+        3801,
+        965,
+        4655
+      ],
+      "sourceCrop": [
+        35,
+        3796,
+        973,
+        4649
+      ],
+      "width": 938,
+      "height": 853
+    },
+    {
+      "cosmeticId": "global-wind-s-far-shore",
+      "index": 0,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260819/04b18226-dc19-43b5-ba77-16857244c446.png",
+      "previousCrop": [
+        36,
+        783,
+        948,
+        1643
+      ],
+      "sourceCrop": [
+        37,
+        800,
+        976,
+        1639
+      ],
+      "width": 939,
+      "height": 839
+    },
+    {
+      "cosmeticId": "global-icebirdie",
+      "index": 0,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260819/04b18226-dc19-43b5-ba77-16857244c446.png",
+      "previousCrop": [
+        36,
+        13429,
+        948,
+        13779
+      ],
+      "sourceCrop": [
+        37,
+        13432,
+        975,
+        13778
+      ],
+      "width": 938,
+      "height": 346
+    },
+    {
+      "cosmeticId": "global-swift-blossom",
+      "index": 0,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260819/04b18226-dc19-43b5-ba77-16857244c446.png",
+      "previousCrop": [
+        36,
+        14172,
+        948,
+        14513
+      ],
+      "sourceCrop": [
+        37,
+        14178,
+        975,
+        14509
+      ],
+      "width": 938,
+      "height": 331
+    },
+    {
+      "cosmeticId": "global-bronze-skyfall",
+      "index": 0,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260722/2cd08d3a-8c1a-4c71-8b34-00e6317edd28.png",
+      "previousCrop": [
+        36,
+        9962,
+        948,
+        10302
+      ],
+      "sourceCrop": [
+        37,
+        9964,
+        975,
+        10296
+      ],
+      "width": 938,
+      "height": 332
+    },
+    {
+      "cosmeticId": "global-withered-ash",
+      "index": 0,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260722/2cd08d3a-8c1a-4c71-8b34-00e6317edd28.png",
+      "previousCrop": [
+        36,
+        13335,
+        948,
+        13675
+      ],
+      "sourceCrop": [
+        37,
+        13341,
+        976,
+        13672
+      ],
+      "width": 939,
+      "height": 331
+    },
+    {
+      "cosmeticId": "global-myriad-sounds-plume-break",
+      "index": 0,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260625/62b9865a-c227-4a4f-86c8-c521f41900cc.png",
+      "previousCrop": [
+        36,
+        9610,
+        935,
+        9980
+      ],
+      "sourceCrop": [
+        25,
+        9613,
+        963,
+        9963
+      ],
+      "width": 938,
+      "height": 350
+    },
+    {
+      "cosmeticId": "global-longing-s-refrain",
+      "index": 0,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260803/7c519102-073a-416f-8818-957df99dadd7.png",
+      "previousCrop": [
+        36,
+        3250,
+        948,
+        4118
+      ],
+      "sourceCrop": [
+        38,
+        3254,
+        976,
+        4120
+      ],
+      "width": 938,
+      "height": 866
+    },
+    {
+      "cosmeticId": "global-rippling-dream",
+      "index": 0,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260807/13c6a39d-5f43-4b76-a1dc-c1b0b18bf9f8.png",
+      "previousCrop": [
+        36,
+        822,
+        948,
+        1748
+      ],
+      "sourceCrop": [
+        0,
+        1019,
+        976,
+        1744
+      ],
+      "width": 976,
+      "height": 725
+    },
+    {
+      "cosmeticId": "global-celestial-calculations",
+      "index": 0,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260807/13c6a39d-5f43-4b76-a1dc-c1b0b18bf9f8.png",
+      "previousCrop": [
+        36,
+        2280,
+        948,
+        2629
+      ],
+      "sourceCrop": [
+        0,
+        2282,
+        976,
+        2627
+      ],
+      "width": 976,
+      "height": 345
+    },
+    {
+      "cosmeticId": "global-dreams-beyond",
+      "index": 0,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260717/4f44a978-f211-41b4-9cdd-4a3976d8793b.png",
+      "previousCrop": [
+        36,
+        2552,
+        948,
+        3415
+      ],
+      "sourceCrop": [
+        46,
+        2554,
+        977,
+        3412
+      ],
+      "width": 931,
+      "height": 858
+    },
+    {
+      "cosmeticId": "global-crimson-bloom",
+      "index": 0,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260717/4f44a978-f211-41b4-9cdd-4a3976d8793b.png",
+      "previousCrop": [
+        36,
+        3881,
+        948,
+        4744
+      ],
+      "sourceCrop": [
+        46,
+        3886,
+        977,
+        4742
+      ],
+      "width": 931,
+      "height": 856
+    },
+    {
+      "cosmeticId": "global-tiger-s-bane",
+      "index": 0,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260305/30e1d6c1-bef4-49c8-a897-f2e3f95759d3.png",
+      "previousCrop": [
+        32,
+        600,
+        -32,
+        1378
+      ],
+      "sourceCrop": [
+        37,
+        531,
+        968,
+        1391
+      ],
+      "width": 931,
+      "height": 860
+    },
+    {
+      "cosmeticId": "global-fieryheart-of-war",
+      "index": 0,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260305/30e1d6c1-bef4-49c8-a897-f2e3f95759d3.png",
+      "previousCrop": [
+        32,
+        1493,
+        -32,
+        1856
+      ],
+      "sourceCrop": [
+        37,
+        1508,
+        969,
+        1869
+      ],
+      "width": 932,
+      "height": 361
+    },
+    {
+      "cosmeticId": "global-bactrian-camel",
+      "index": 0,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260305/30e1d6c1-bef4-49c8-a897-f2e3f95759d3.png",
+      "previousCrop": [
+        32,
+        2843,
+        -32,
+        3154
+      ],
+      "sourceCrop": [
+        37,
+        2819,
+        969,
+        3168
+      ],
+      "width": 932,
+      "height": 349
+    },
+    {
+      "cosmeticId": "global-moonlit-umbra",
+      "index": 0,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260305/30e1d6c1-bef4-49c8-a897-f2e3f95759d3.png",
+      "previousCrop": [
+        32,
+        3272,
+        -32,
+        3583
+      ],
+      "sourceCrop": [
+        37,
+        3248,
+        969,
+        3594
+      ],
+      "width": 932,
+      "height": 346
+    },
+    {
+      "cosmeticId": "global-crane-pierces-the-azure-sky",
+      "index": 0,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260305/30e1d6c1-bef4-49c8-a897-f2e3f95759d3.png",
+      "previousCrop": [
+        32,
+        4102,
+        -32,
+        4389
+      ],
+      "sourceCrop": [
+        37,
+        4074,
+        968,
+        4403
+      ],
+      "width": 931,
+      "height": 329
+    },
+    {
+      "cosmeticId": "global-parting-arrow",
+      "index": 0,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260305/30e1d6c1-bef4-49c8-a897-f2e3f95759d3.png",
+      "previousCrop": [
+        32,
+        4947,
+        -32,
+        5313
+      ],
+      "sourceCrop": [
+        37,
+        4924,
+        969,
+        5326
+      ],
+      "width": 932,
+      "height": 402
+    },
+    {
+      "cosmeticId": "global-sacrificial-flame",
+      "index": 0,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260305/30e1d6c1-bef4-49c8-a897-f2e3f95759d3.png",
+      "previousCrop": [
+        32,
+        5840,
+        -32,
+        6153
+      ],
+      "sourceCrop": [
+        37,
+        5808,
+        968,
+        6165
+      ],
+      "width": 931,
+      "height": 357
+    },
+    {
+      "cosmeticId": "global-yin-yang-unveiled",
+      "index": 0,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260305/30e1d6c1-bef4-49c8-a897-f2e3f95759d3.png",
+      "previousCrop": [
+        32,
+        6265,
+        -32,
+        7085
+      ],
+      "sourceCrop": [
+        37,
+        6240,
+        968,
+        7100
+      ],
+      "width": 931,
+      "height": 860
+    },
+    {
+      "cosmeticId": "global-rain-kissed-lotus",
+      "index": 0,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260305/30e1d6c1-bef4-49c8-a897-f2e3f95759d3.png",
+      "previousCrop": [
+        32,
+        9000,
+        -32,
+        9824
+      ],
+      "sourceCrop": [
+        37,
+        8975,
+        968,
+        9835
+      ],
+      "width": 931,
+      "height": 860
+    },
+    {
+      "cosmeticId": "global-moonlit-pavilion",
+      "index": 0,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260402/5a9398c1-58cc-49c6-adb8-c84f16bd438a.png",
+      "previousCrop": [
+        32,
+        6185,
+        -32,
+        6573
+      ],
+      "sourceCrop": [
+        36,
+        6158,
+        968,
+        6538
+      ],
+      "width": 932,
+      "height": 380
+    },
+    {
+      "cosmeticId": "global-boundless-heart",
+      "index": 0,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260402/5a9398c1-58cc-49c6-adb8-c84f16bd438a.png",
+      "previousCrop": [
+        32,
+        6677,
+        -32,
+        7067
+      ],
+      "sourceCrop": [
+        36,
+        6658,
+        968,
+        7030
+      ],
+      "width": 932,
+      "height": 372
+    },
+    {
+      "cosmeticId": "global-dusk-rider",
+      "index": 0,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260402/5a9398c1-58cc-49c6-adb8-c84f16bd438a.png",
+      "previousCrop": [
+        32,
+        7169,
+        -32,
+        7559
+      ],
+      "sourceCrop": [
+        36,
+        7157,
+        968,
+        7523
+      ],
+      "width": 932,
+      "height": 366
+    },
+    {
+      "cosmeticId": "global-leap-of-tumult",
+      "index": 0,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260402/5a9398c1-58cc-49c6-adb8-c84f16bd438a.png",
+      "previousCrop": [
+        32,
+        7664,
+        -32,
+        7996
+      ],
+      "sourceCrop": [
+        36,
+        7632,
+        967,
+        7961
+      ],
+      "width": 931,
+      "height": 329
+    },
+    {
+      "cosmeticId": "global-shaliwa-s-guise",
+      "index": 0,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260402/5a9398c1-58cc-49c6-adb8-c84f16bd438a.png",
+      "previousCrop": [
+        32,
+        8101,
+        -32,
+        8470
+      ],
+      "sourceCrop": [
+        36,
+        8080,
+        968,
+        8436
+      ],
+      "width": 932,
+      "height": 356
+    },
+    {
+      "cosmeticId": "global-where-clouds-repose",
+      "index": 0,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260402/5a9398c1-58cc-49c6-adb8-c84f16bd438a.png",
+      "previousCrop": [
+        32,
+        12904,
+        -32,
+        13738
+      ],
+      "sourceCrop": [
+        36,
+        12820,
+        967,
+        13702
+      ],
+      "width": 931,
+      "height": 882
+    },
+    {
+      "cosmeticId": "global-sundered-vow",
+      "index": 0,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260402/5a9398c1-58cc-49c6-adb8-c84f16bd438a.png",
+      "previousCrop": [
+        32,
+        13870,
+        -32,
+        14222
+      ],
+      "sourceCrop": [
+        36,
+        13858,
+        968,
+        14188
+      ],
+      "width": 932,
+      "height": 330
+    },
+    {
+      "cosmeticId": "global-lute-of-love",
+      "index": 0,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260402/5a9398c1-58cc-49c6-adb8-c84f16bd438a.png",
+      "previousCrop": [
+        32,
+        15262,
+        -32,
+        15656
+      ],
+      "sourceCrop": [
+        36,
+        15270,
+        968,
+        15621
+      ],
+      "width": 932,
+      "height": 351
+    },
+    {
+      "cosmeticId": "global-northern-star-s-dominion",
+      "index": 0,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260402/5a9398c1-58cc-49c6-adb8-c84f16bd438a.png",
+      "previousCrop": [
+        32,
+        15788,
+        -32,
+        16141
+      ],
+      "sourceCrop": [
+        36,
+        15776,
+        968,
+        16106
+      ],
+      "width": 932,
+      "height": 330
+    },
+    {
+      "cosmeticId": "global-unfurling-lotus",
+      "index": 0,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260402/5a9398c1-58cc-49c6-adb8-c84f16bd438a.png",
+      "previousCrop": [
+        32,
+        16273,
+        -32,
+        16626
+      ],
+      "sourceCrop": [
+        38,
+        16262,
+        966,
+        16592
+      ],
+      "width": 928,
+      "height": 330
+    },
+    {
+      "cosmeticId": "global-graceful-fox",
+      "index": 0,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260527/5473f2c3-12f6-4fc5-afd5-95f5b80e47da.png",
+      "previousCrop": [
+        32,
+        1702,
+        -32,
+        4083
+      ],
+      "sourceCrop": [
+        34,
+        1705,
+        966,
+        4077
+      ],
+      "width": 932,
+      "height": 2372
+    },
+    {
+      "cosmeticId": "global-forest-sovereign",
+      "index": 0,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260527/5473f2c3-12f6-4fc5-afd5-95f5b80e47da.png",
+      "previousCrop": [
+        32,
+        5278,
+        -32,
+        6219
+      ],
+      "sourceCrop": [
+        34,
+        5356,
+        965,
+        6215
+      ],
+      "width": 931,
+      "height": 859
+    },
+    {
+      "cosmeticId": "global-radiant-majesty",
+      "index": 0,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260527/5473f2c3-12f6-4fc5-afd5-95f5b80e47da.png",
+      "previousCrop": [
+        32,
+        6935,
+        -32,
+        7844
+      ],
+      "sourceCrop": [
+        34,
+        6980,
+        965,
+        7839
+      ],
+      "width": 931,
+      "height": 859
+    },
+    {
+      "cosmeticId": "global-crimson-cloud",
+      "index": 0,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260527/5473f2c3-12f6-4fc5-afd5-95f5b80e47da.png",
+      "previousCrop": [
+        32,
+        8383,
+        -32,
+        9302
+      ],
+      "sourceCrop": [
+        34,
+        8382,
+        966,
+        9297
+      ],
+      "width": 932,
+      "height": 915
+    },
+    {
+      "cosmeticId": "global-moonlit-howl",
+      "index": 0,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260527/5473f2c3-12f6-4fc5-afd5-95f5b80e47da.png",
+      "previousCrop": [
+        32,
+        11338,
+        -32,
+        12201
+      ],
+      "sourceCrop": [
+        34,
+        11336,
+        965,
+        12195
+      ],
+      "width": 931,
+      "height": 859
+    },
+    {
+      "cosmeticId": "global-clear-frost",
+      "index": 0,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260527/5473f2c3-12f6-4fc5-afd5-95f5b80e47da.png",
+      "previousCrop": [
+        32,
+        12736,
+        -32,
+        13216
+      ],
+      "sourceCrop": [
+        34,
+        12818,
+        965,
+        13210
+      ],
+      "width": 931,
+      "height": 392
+    },
+    {
+      "cosmeticId": "global-imperial-stag",
+      "index": 0,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260527/5473f2c3-12f6-4fc5-afd5-95f5b80e47da.png",
+      "previousCrop": [
+        32,
+        13622,
+        -32,
+        14008
+      ],
+      "sourceCrop": [
+        34,
+        13651,
+        965,
+        14005
+      ],
+      "width": 931,
+      "height": 354
+    },
+    {
+      "cosmeticId": "global-broom-and-rooster",
+      "index": 0,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260527/5473f2c3-12f6-4fc5-afd5-95f5b80e47da.png",
+      "previousCrop": [
+        32,
+        14596,
+        -32,
+        14926
+      ],
+      "sourceCrop": [
+        34,
+        14591,
+        964,
+        14919
+      ],
+      "width": 930,
+      "height": 328
+    },
+    {
+      "cosmeticId": "global-silent-night-bell",
+      "index": 0,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260527/5473f2c3-12f6-4fc5-afd5-95f5b80e47da.png",
+      "previousCrop": [
+        32,
+        15335,
+        -32,
+        16190
+      ],
+      "sourceCrop": [
+        34,
+        15330,
+        965,
+        16189
+      ],
+      "width": 931,
+      "height": 859
+    },
+    {
+      "cosmeticId": "global-goose-buster",
+      "index": 0,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260527/5473f2c3-12f6-4fc5-afd5-95f5b80e47da.png",
+      "previousCrop": [
+        32,
+        16688,
+        -32,
+        17173
+      ],
+      "sourceCrop": [
+        34,
+        16687,
+        966,
+        17168
+      ],
+      "width": 932,
+      "height": 481
+    },
+    {
+      "cosmeticId": "global-starfrost-butterfly",
+      "index": 0,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260609/8cfa95f3-bc14-458b-9216-c487952e79d3.png",
+      "previousCrop": [
+        32,
+        541,
+        -32,
+        912
+      ],
+      "sourceCrop": [
+        10,
+        546,
+        985,
+        910
+      ],
+      "width": 975,
+      "height": 364
+    },
+    {
+      "cosmeticId": "global-severing-halberd",
+      "index": 0,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260609/8cfa95f3-bc14-458b-9216-c487952e79d3.png",
+      "previousCrop": [
+        32,
+        1542,
+        -32,
+        1875
+      ],
+      "sourceCrop": [
+        32,
+        1540,
+        962,
+        1869
+      ],
+      "width": 930,
+      "height": 329
+    },
+    {
+      "cosmeticId": "global-mountain-s-veil",
+      "index": 0,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260609/8cfa95f3-bc14-458b-9216-c487952e79d3.png",
+      "previousCrop": [
+        32,
+        2456,
+        -32,
+        2789
+      ],
+      "sourceCrop": [
+        32,
+        2456,
+        963,
+        2784
+      ],
+      "width": 931,
+      "height": 328
+    },
+    {
+      "cosmeticId": "global-waking-brush",
+      "index": 0,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260609/8cfa95f3-bc14-458b-9216-c487952e79d3.png",
+      "previousCrop": [
+        32,
+        3419,
+        -32,
+        4278
+      ],
+      "sourceCrop": [
+        32,
+        3417,
+        963,
+        4276
+      ],
+      "width": 931,
+      "height": 859
+    },
+    {
+      "cosmeticId": "global-silent-voice-phoenix-ascent",
+      "index": 0,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260609/8cfa95f3-bc14-458b-9216-c487952e79d3.png",
+      "previousCrop": [
+        32,
+        4910,
+        -32,
+        5241
+      ],
+      "sourceCrop": [
+        33,
+        4909,
+        963,
+        5238
+      ],
+      "width": 930,
+      "height": 329
+    },
+    {
+      "cosmeticId": "global-inkveil-peak",
+      "index": 0,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260717/4f44a978-f211-41b4-9cdd-4a3976d8793b.png",
+      "previousCrop": [
+        32,
+        5174,
+        -32,
+        5510
+      ],
+      "sourceCrop": [
+        46,
+        5177,
+        977,
+        5505
+      ],
+      "width": 931,
+      "height": 328
+    },
+    {
+      "cosmeticId": "global-moonlight-voyage",
+      "index": 0,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260717/f02daf84-e057-4450-be78-eafb375b8eba.png",
+      "previousCrop": [
+        32,
+        1023,
+        -32,
+        1763
+      ],
+      "sourceCrop": [
+        46,
+        1031,
+        977,
+        1760
+      ],
+      "width": 931,
+      "height": 729
+    },
+    {
+      "cosmeticId": "global-vajra-s-awe",
+      "index": 0,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260717/f02daf84-e057-4450-be78-eafb375b8eba.png",
+      "previousCrop": [
+        32,
+        3481,
+        -32,
+        3822
+      ],
+      "sourceCrop": [
+        46,
+        3486,
+        977,
+        3815
+      ],
+      "width": 931,
+      "height": 329
+    },
+    {
+      "cosmeticId": "global-silent-voice-sunstriking",
+      "index": 0,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260430/3167a507-c015-49c7-b4bf-0820d5d56795.png",
+      "previousCrop": [
+        32,
+        6747,
+        -32,
+        7114
+      ],
+      "sourceCrop": [
+        36,
+        6750,
+        968,
+        7113
+      ],
+      "width": 932,
+      "height": 363
+    },
+    {
+      "cosmeticId": "global-twilight-of-dragons",
+      "index": 0,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260430/3167a507-c015-49c7-b4bf-0820d5d56795.png",
+      "previousCrop": [
+        32,
+        7368,
+        -32,
+        7729
+      ],
+      "sourceCrop": [
+        36,
+        7368,
+        967,
+        7722
+      ],
+      "width": 931,
+      "height": 354
+    },
+    {
+      "cosmeticId": "global-tiger-spring-reverie",
+      "index": 0,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260430/3167a507-c015-49c7-b4bf-0820d5d56795.png",
+      "previousCrop": [
+        32,
+        7978,
+        -32,
+        8837
+      ],
+      "sourceCrop": [
+        36,
+        7975,
+        967,
+        8835
+      ],
+      "width": 931,
+      "height": 860
+    },
+    {
+      "cosmeticId": "global-mist-of-dawn",
+      "index": 0,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260430/3167a507-c015-49c7-b4bf-0820d5d56795.png",
+      "previousCrop": [
+        32,
+        10197,
+        -32,
+        11060
+      ],
+      "sourceCrop": [
+        36,
+        10198,
+        967,
+        11057
+      ],
+      "width": 931,
+      "height": 859
+    },
+    {
+      "cosmeticId": "global-leaning-on-the-wind",
+      "index": 0,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260430/3167a507-c015-49c7-b4bf-0820d5d56795.png",
+      "previousCrop": [
+        32,
+        11313,
+        -32,
+        11643
+      ],
+      "sourceCrop": [
+        36,
+        11309,
+        968,
+        11637
+      ],
+      "width": 932,
+      "height": 328
+    },
+    {
+      "cosmeticId": "global-toad-s-luminescence",
+      "index": 0,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260430/3167a507-c015-49c7-b4bf-0820d5d56795.png",
+      "previousCrop": [
+        32,
+        11885,
+        -32,
+        12225
+      ],
+      "sourceCrop": [
+        36,
+        11890,
+        968,
+        12219
+      ],
+      "width": 932,
+      "height": 329
+    },
+    {
+      "cosmeticId": "global-guardian-of-spirit",
+      "index": 0,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260430/3167a507-c015-49c7-b4bf-0820d5d56795.png",
+      "previousCrop": [
+        32,
+        12474,
+        -32,
+        12803
+      ],
+      "sourceCrop": [
+        36,
+        12471,
+        967,
+        12799
+      ],
+      "width": 931,
+      "height": 328
+    },
+    {
+      "cosmeticId": "global-returning-sparrow-dream",
+      "index": 0,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260430/3167a507-c015-49c7-b4bf-0820d5d56795.png",
+      "previousCrop": [
+        32,
+        15593,
+        -32,
+        16452
+      ],
+      "sourceCrop": [
+        36,
+        15590,
+        967,
+        16450
+      ],
+      "width": 931,
+      "height": 860
+    },
+    {
+      "cosmeticId": "global-wind-blows-into-the-painting",
+      "index": 0,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260430/3167a507-c015-49c7-b4bf-0820d5d56795.png",
+      "previousCrop": [
+        32,
+        16703,
+        -32,
+        17564
+      ],
+      "sourceCrop": [
+        36,
+        16702,
+        967,
+        17560
+      ],
+      "width": 931,
+      "height": 858
+    },
+    {
+      "cosmeticId": "global-bone-appetite",
+      "index": 0,
+      "sourceUrl": "https://r.res.easebar.com/pic/20260430/3167a507-c015-49c7-b4bf-0820d5d56795.png",
+      "previousCrop": [
+        32,
+        17816,
+        -32,
+        18148
+      ],
+      "sourceCrop": [
+        36,
+        17813,
+        967,
+        18141
+      ],
+      "width": 931,
+      "height": 328
+    }
+  ]
+}
