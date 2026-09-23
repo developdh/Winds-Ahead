@@ -5839,5 +5839,6 @@ body {
   .cosmetic-dialog .detail-image > span { font-size: .875rem; min-height: 44px; }
   .timeline-group + .timeline-group { margin-top: 32px; padding-top: 22px; }
 }
-.timeline-art img { object-fit: contain; object-position: center; }
+.timeline-art img { object-fit: cover; object-position: center 20%; }
 .cosmetic-card:hover .card-image > img { transform: none; }
+.forecast-list-note { margin: -4px 0 24px; color: var(--muted-foreground); font-size: .9rem; line-height: 1.75; }

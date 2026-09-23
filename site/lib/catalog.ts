@@ -1,6 +1,7 @@
 import research from "@/content/research.json";
 import media from "@/content/media.json";
 import localizations from "@/content/localizations.json";
+import { preferredMedia } from "@/lib/media-domain.mjs";
 export type Locale = "en" | "ko";
 export type Server = "CN" | "Global";
 export type Bilingual = { en: string; ko: string };
@@ -75,7 +76,7 @@ export function nameOf(c: Cosmetic, l: Locale) {
   return l === "ko" ? c.officialNameKo ?? aliases[c.id] : c.officialNameEn ?? c.romanization;
 }
 export function imagesOf(c: Cosmetic) {
-  return media.filter((m) => m.cosmeticId === c.id);
+  return preferredMedia(media, c.id) as typeof media;
 }
 export function findCosmetic(id: string) {
   return cosmetics.find((c) => c.id === id);
