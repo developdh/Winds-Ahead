@@ -4,6 +4,9 @@
 
 The roadmap shows every upcoming official announcement first, followed by a separate Estimated windows section labeled Editorial · Not official. Each section is ordered chronologically; an estimate whose window starts earlier never precedes an official date. The calendar retains historical CN/Global dates. Choose All, Official, or Estimated; language, server, view, month and type are preserved in the URL. Existing links with a month still open the calendar. Blue labels identify official announcements, gold labels identify estimates, with distinct wording and icons.
 
+
+The calendar’s Estimated windows section uses the same complete current-forecast selector and ordering as the roadmap, including windows after the selected month. Month navigation filters dated official events only. Both views suppress withdrawn, elapsed and officially superseded forecasts together, while retaining revision history.
+
 ## Verified announcement
 
 **Chilled Current / 枕寒流**: September 16, 2026 after the update. The [official Global X post](https://x.com/WhereWindsMeet_/status/2098411248107028581), published September 11, was read directly, including the male/female image panels. The poster specifies September 16 UTC; the post gives the closing time as October 15, 04:59 UTC+8. No opening hour is inferred. The status stays **announced**, even after its scheduled day passes, until a subsequent source verifies release.

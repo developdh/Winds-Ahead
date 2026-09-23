@@ -1,0 +1,39 @@
+{
+  "reviewedAt": "2026-09-23",
+  "method": "Presentation crops use existing official artwork only. presentationCrop in media.json is [left, top, right, bottom] relative to the full derivative. Full artwork remains available in the gallery. Previous full-image framing is preserved in the earlier audit.",
+  "bottomCorrections": [
+    {
+      "cosmeticId": "jin-yan-yu-tuan",
+      "sourceUrl": "https://r.res.easebar.com/pic/20260921/c2e1ff4d-68ed-4100-b164-0a5063cdfe15.png",
+      "previousCrop": [
+        35,
+        2492,
+        973,
+        3346
+      ],
+      "sourceCrop": [
+        35,
+        2492,
+        973,
+        3358
+      ]
+    },
+    {
+      "cosmeticId": "fu-guang",
+      "sourceUrl": "https://r.res.easebar.com/pic/20260921/c2e1ff4d-68ed-4100-b164-0a5063cdfe15.png",
+      "previousCrop": [
+        35,
+        3796,
+        973,
+        4649
+      ],
+      "sourceCrop": [
+        35,
+        3796,
+        973,
+        4661
+      ]
+    }
+  ],
+  "posterPreviews": 132
+}

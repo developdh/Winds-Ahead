@@ -468,7 +468,19 @@ test('forecasts retain precision, latest revisions and review expiry; official e
   assert.equal(validServer('invalid'),'all');
 });
 
-import { upcomingEntries } from '../lib/roadmap-domain.mjs';
+import { currentForecasts, upcomingEntries } from '../lib/roadmap-domain.mjs';
+test('calendar estimates and roadmap share every active window, including later months and versions', () => {
+  const events=read('global-events.json').events;
+  const revisions=read('forecasts.json').revisions;
+  const released=read('regional-records.json').records.filter(r=>r.server==='Global'&&r.status==='released').map(r=>r.cosmeticId);
+  const calendar=currentForecasts(events,revisions,'2026-09-23',released);
+  const timeline=upcomingEntries(events,revisions,'2026-09-23','forecast',released).map(entry=>entry.forecast);
+  assert.deepEqual(calendar,timeline);
+  assert.equal(calendar.length,5);
+  assert.ok(calendar.some(f=>f.start>'2026-09-30'));
+  const version={...fixture,id:'future-version',precision:'version',version:'3.0',month:undefined};
+  assert.equal(currentForecasts([], [version], '2026-09-23')[0].version,'3.0');
+});
 test('all official dates precede forecasts even when forecast windows begin earlier', () => {
   const events = ['2026-09-27', '2026-09-25'].map((date, i) => ({id:`official-${i}`, cosmeticId:`official-${i}`, kind:'release', status:'announced', date}));
   const revisions = [

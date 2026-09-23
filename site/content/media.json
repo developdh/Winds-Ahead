@@ -3870,12 +3870,23 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260902/533f67fe-c2af-482b-aaa1-6d5ff0352d59.png",
     "thumbnail": "/media/ming-he-zai-xue-1-thumb.webp",
     "full": "/media/ming-he-zai-xue-1-full.webp",
-    "thumbnailBytes": 45172,
+    "thumbnailBytes": 31498,
     "fullBytes": 143364,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/ming-he-zai-xue-1-preview.webp",
-    "previewBytes": 4520
+    "previewBytes": 2662,
+    "presentationCrop": [
+      516,
+      39,
+      882,
+      589
+    ],
+    "display": "/media/ming-he-zai-xue-1-display.webp",
+    "displayWidth": 366,
+    "displayHeight": 550,
+    "displayBytes": 34590,
+    "presentationSubject": "female"
   },
   {
     "cosmeticId": "han-ying",
@@ -3883,12 +3894,23 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260902/533f67fe-c2af-482b-aaa1-6d5ff0352d59.png",
     "thumbnail": "/media/han-ying-1-thumb.webp",
     "full": "/media/han-ying-1-full.webp",
-    "thumbnailBytes": 15960,
+    "thumbnailBytes": 27488,
     "fullBytes": 45734,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/han-ying-1-preview.webp",
-    "previewBytes": 1654
+    "previewBytes": 2480,
+    "presentationCrop": [
+      572,
+      13,
+      835,
+      358
+    ],
+    "display": "/media/han-ying-1-display.webp",
+    "displayWidth": 263,
+    "displayHeight": 345,
+    "displayBytes": 15140,
+    "presentationSubject": "female"
   },
   {
     "cosmeticId": "cang-yinxing-he-yu-shu",
@@ -3896,12 +3918,23 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260902/533f67fe-c2af-482b-aaa1-6d5ff0352d59.png",
     "thumbnail": "/media/cang-yinxing-he-yu-shu-1-thumb.webp",
     "full": "/media/cang-yinxing-he-yu-shu-1-full.webp",
-    "thumbnailBytes": 82594,
+    "thumbnailBytes": 68922,
     "fullBytes": 235050,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/cang-yinxing-he-yu-shu-1-preview.webp",
-    "previewBytes": 6776
+    "previewBytes": 3674,
+    "presentationCrop": [
+      66,
+      52,
+      436,
+      813
+    ],
+    "display": "/media/cang-yinxing-he-yu-shu-1-display.webp",
+    "displayWidth": 370,
+    "displayHeight": 761,
+    "displayBytes": 87088,
+    "presentationSubject": "female"
   },
   {
     "cosmeticId": "wu-fan-shi-sheng",
@@ -3909,12 +3942,22 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260902/533f67fe-c2af-482b-aaa1-6d5ff0352d59.png",
     "thumbnail": "/media/wu-fan-shi-sheng-1-thumb.webp",
     "full": "/media/wu-fan-shi-sheng-1-full.webp",
-    "thumbnailBytes": 26646,
+    "thumbnailBytes": 28936,
     "fullBytes": 68456,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/wu-fan-shi-sheng-1-preview.webp",
-    "previewBytes": 2844
+    "previewBytes": 1452,
+    "presentationCrop": [
+      75,
+      36,
+      882,
+      323
+    ],
+    "display": "/media/wu-fan-shi-sheng-1-display.webp",
+    "displayWidth": 807,
+    "displayHeight": 287,
+    "displayBytes": 24276
   },
   {
     "cosmeticId": "yin-qian-ji",
@@ -3922,12 +3965,22 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260902/533f67fe-c2af-482b-aaa1-6d5ff0352d59.png",
     "thumbnail": "/media/yin-qian-ji-1-thumb.webp",
     "full": "/media/yin-qian-ji-1-full.webp",
-    "thumbnailBytes": 28906,
+    "thumbnailBytes": 55896,
     "fullBytes": 105924,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/yin-qian-ji-1-preview.webp",
-    "previewBytes": 1936
+    "previewBytes": 1908,
+    "presentationCrop": [
+      70,
+      38,
+      868,
+      295
+    ],
+    "display": "/media/yin-qian-ji-1-display.webp",
+    "displayWidth": 798,
+    "displayHeight": 257,
+    "displayBytes": 77250
   },
   {
     "cosmeticId": "xuan-yingshui-he-qing-tian",
@@ -3935,12 +3988,23 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260909/89e24d3b-aed8-423b-83a9-be53724b40cf.png",
     "thumbnail": "/media/xuan-yingshui-he-qing-tian-1-thumb.webp",
     "full": "/media/xuan-yingshui-he-qing-tian-1-full.webp",
-    "thumbnailBytes": 55228,
+    "thumbnailBytes": 48010,
     "fullBytes": 154450,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/xuan-yingshui-he-qing-tian-1-preview.webp",
-    "previewBytes": 5992
+    "previewBytes": 3378,
+    "presentationCrop": [
+      516,
+      39,
+      882,
+      589
+    ],
+    "display": "/media/xuan-yingshui-he-qing-tian-1-display.webp",
+    "displayWidth": 366,
+    "displayHeight": 550,
+    "displayBytes": 35484,
+    "presentationSubject": "female"
   },
   {
     "cosmeticId": "liu-sha-wen-gu",
@@ -3948,12 +4012,23 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260909/89e24d3b-aed8-423b-83a9-be53724b40cf.png",
     "thumbnail": "/media/liu-sha-wen-gu-1-thumb.webp",
     "full": "/media/liu-sha-wen-gu-1-full.webp",
-    "thumbnailBytes": 59268,
+    "thumbnailBytes": 68302,
     "fullBytes": 184356,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/liu-sha-wen-gu-1-preview.webp",
-    "previewBytes": 4872
+    "previewBytes": 3252,
+    "presentationCrop": [
+      516,
+      39,
+      882,
+      588
+    ],
+    "display": "/media/liu-sha-wen-gu-1-display.webp",
+    "displayWidth": 366,
+    "displayHeight": 549,
+    "displayBytes": 47170,
+    "presentationSubject": "female"
   },
   {
     "cosmeticId": "jin-wu-zhui-huo",
@@ -3961,12 +4036,22 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260909/89e24d3b-aed8-423b-83a9-be53724b40cf.png",
     "thumbnail": "/media/jin-wu-zhui-huo-1-thumb.webp",
     "full": "/media/jin-wu-zhui-huo-1-full.webp",
-    "thumbnailBytes": 29350,
+    "thumbnailBytes": 39272,
     "fullBytes": 76258,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/jin-wu-zhui-huo-1-preview.webp",
-    "previewBytes": 2998
+    "previewBytes": 2816,
+    "presentationCrop": [
+      70,
+      53,
+      869,
+      410
+    ],
+    "display": "/media/jin-wu-zhui-huo-1-display.webp",
+    "displayWidth": 799,
+    "displayHeight": 357,
+    "displayBytes": 55766
   },
   {
     "cosmeticId": "mo-cang-chun",
@@ -3974,12 +4059,22 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260909/89e24d3b-aed8-423b-83a9-be53724b40cf.png",
     "thumbnail": "/media/mo-cang-chun-1-thumb.webp",
     "full": "/media/mo-cang-chun-1-full.webp",
-    "thumbnailBytes": 18830,
+    "thumbnailBytes": 21992,
     "fullBytes": 60492,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/mo-cang-chun-1-preview.webp",
-    "previewBytes": 1800
+    "previewBytes": 1582,
+    "presentationCrop": [
+      70,
+      42,
+      868,
+      323
+    ],
+    "display": "/media/mo-cang-chun-1-display.webp",
+    "displayWidth": 798,
+    "displayHeight": 281,
+    "displayBytes": 41520
   },
   {
     "cosmeticId": "guaiwu-chang",
@@ -3987,12 +4082,23 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260826/b2b531db-ec7a-48dc-9a55-f4711afd1d49.png",
     "thumbnail": "/media/guaiwu-chang-1-thumb.webp",
     "full": "/media/guaiwu-chang-1-full.webp",
-    "thumbnailBytes": 41958,
+    "thumbnailBytes": 42982,
     "fullBytes": 115604,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/guaiwu-chang-1-preview.webp",
-    "previewBytes": 4540
+    "previewBytes": 3356,
+    "presentationCrop": [
+      66,
+      39,
+      436,
+      589
+    ],
+    "display": "/media/guaiwu-chang-1-display.webp",
+    "displayWidth": 370,
+    "displayHeight": 550,
+    "displayBytes": 36914,
+    "presentationSubject": "female"
   },
   {
     "cosmeticId": "fei-peng-tuan-kong",
@@ -4000,12 +4106,22 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260826/b2b531db-ec7a-48dc-9a55-f4711afd1d49.png",
     "thumbnail": "/media/fei-peng-tuan-kong-1-thumb.webp",
     "full": "/media/fei-peng-tuan-kong-1-full.webp",
-    "thumbnailBytes": 21862,
+    "thumbnailBytes": 27402,
     "fullBytes": 59336,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/fei-peng-tuan-kong-1-preview.webp",
-    "previewBytes": 2596
+    "previewBytes": 2488,
+    "presentationCrop": [
+      216,
+      30,
+      610,
+      291
+    ],
+    "display": "/media/fei-peng-tuan-kong-1-display.webp",
+    "displayWidth": 394,
+    "displayHeight": 261,
+    "displayBytes": 17392
   },
   {
     "cosmeticId": "jiu-xiao-he-ju",
@@ -4013,12 +4129,22 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260826/b2b531db-ec7a-48dc-9a55-f4711afd1d49.png",
     "thumbnail": "/media/jiu-xiao-he-ju-1-thumb.webp",
     "full": "/media/jiu-xiao-he-ju-1-full.webp",
-    "thumbnailBytes": 34964,
+    "thumbnailBytes": 52334,
     "fullBytes": 97630,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/jiu-xiao-he-ju-1-preview.webp",
-    "previewBytes": 3610
+    "previewBytes": 4636,
+    "presentationCrop": [
+      94,
+      40,
+      460,
+      361
+    ],
+    "display": "/media/jiu-xiao-he-ju-1-display.webp",
+    "displayWidth": 366,
+    "displayHeight": 321,
+    "displayBytes": 34754
   },
   {
     "cosmeticId": "yan-yan-yu-fei",
@@ -4026,12 +4152,23 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260826/b2b531db-ec7a-48dc-9a55-f4711afd1d49.png",
     "thumbnail": "/media/yan-yan-yu-fei-1-thumb.webp",
     "full": "/media/yan-yan-yu-fei-1-full.webp",
-    "thumbnailBytes": 53124,
+    "thumbnailBytes": 46362,
     "fullBytes": 157162,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/yan-yan-yu-fei-1-preview.webp",
-    "previewBytes": 5726
+    "previewBytes": 3358,
+    "presentationCrop": [
+      516,
+      39,
+      882,
+      589
+    ],
+    "display": "/media/yan-yan-yu-fei-1-display.webp",
+    "displayWidth": 366,
+    "displayHeight": 550,
+    "displayBytes": 42524,
+    "presentationSubject": "female"
   },
   {
     "cosmeticId": "global-wind-s-far-shore",
@@ -4039,12 +4176,23 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260819/04b18226-dc19-43b5-ba77-16857244c446.png",
     "thumbnail": "/media/global-wind-s-far-shore-0-thumb.webp",
     "full": "/media/global-wind-s-far-shore-0-full.webp",
-    "thumbnailBytes": 39134,
+    "thumbnailBytes": 42832,
     "fullBytes": 116368,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/global-wind-s-far-shore-0-preview.webp",
-    "previewBytes": 3332
+    "previewBytes": 2676,
+    "presentationCrop": [
+      498,
+      38,
+      695,
+      445
+    ],
+    "display": "/media/global-wind-s-far-shore-0-display.webp",
+    "displayWidth": 197,
+    "displayHeight": 407,
+    "displayBytes": 23454,
+    "presentationSubject": "female"
   },
   {
     "cosmeticId": "han-mo-dan-qing",
@@ -4052,12 +4200,23 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260819/04b18226-dc19-43b5-ba77-16857244c446.png",
     "thumbnail": "/media/han-mo-dan-qing-1-thumb.webp",
     "full": "/media/han-mo-dan-qing-1-full.webp",
-    "thumbnailBytes": 80450,
+    "thumbnailBytes": 59238,
     "fullBytes": 237044,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/han-mo-dan-qing-1-preview.webp",
-    "previewBytes": 7556
+    "previewBytes": 4746,
+    "presentationCrop": [
+      66,
+      39,
+      436,
+      588
+    ],
+    "display": "/media/han-mo-dan-qing-1-display.webp",
+    "displayWidth": 370,
+    "displayHeight": 549,
+    "displayBytes": 59206,
+    "presentationSubject": "female"
   },
   {
     "cosmeticId": "qing-yuan-ru-hua",
@@ -4065,12 +4224,23 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260819/04b18226-dc19-43b5-ba77-16857244c446.png",
     "thumbnail": "/media/qing-yuan-ru-hua-2-thumb.webp",
     "full": "/media/qing-yuan-ru-hua-2-full.webp",
-    "thumbnailBytes": 68416,
+    "thumbnailBytes": 69578,
     "fullBytes": 211998,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/qing-yuan-ru-hua-2-preview.webp",
-    "previewBytes": 6530
+    "previewBytes": 3950,
+    "presentationCrop": [
+      516,
+      39,
+      882,
+      588
+    ],
+    "display": "/media/qing-yuan-ru-hua-2-display.webp",
+    "displayWidth": 366,
+    "displayHeight": 549,
+    "displayBytes": 52662,
+    "presentationSubject": "female"
   },
   {
     "cosmeticId": "chun-yuan",
@@ -4078,12 +4248,23 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260819/04b18226-dc19-43b5-ba77-16857244c446.png",
     "thumbnail": "/media/chun-yuan-1-thumb.webp",
     "full": "/media/chun-yuan-1-full.webp",
-    "thumbnailBytes": 55882,
+    "thumbnailBytes": 45322,
     "fullBytes": 169208,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/chun-yuan-1-preview.webp",
-    "previewBytes": 5624
+    "previewBytes": 3020,
+    "presentationCrop": [
+      516,
+      39,
+      882,
+      588
+    ],
+    "display": "/media/chun-yuan-1-display.webp",
+    "displayWidth": 366,
+    "displayHeight": 549,
+    "displayBytes": 36102,
+    "presentationSubject": "female"
   },
   {
     "cosmeticId": "jinhua-yu",
@@ -4091,12 +4272,22 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260819/04b18226-dc19-43b5-ba77-16857244c446.png",
     "thumbnail": "/media/jinhua-yu-1-thumb.webp",
     "full": "/media/jinhua-yu-1-full.webp",
-    "thumbnailBytes": 15344,
+    "thumbnailBytes": 7458,
     "fullBytes": 46110,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/jinhua-yu-1-preview.webp",
-    "previewBytes": 1434
+    "previewBytes": 1360,
+    "presentationCrop": [
+      70,
+      43,
+      868,
+      336
+    ],
+    "display": "/media/jinhua-yu-1-display.webp",
+    "displayWidth": 798,
+    "displayHeight": 293,
+    "displayBytes": 29082
   },
   {
     "cosmeticId": "wan-laizhanyin-yang",
@@ -4104,12 +4295,22 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260819/04b18226-dc19-43b5-ba77-16857244c446.png",
     "thumbnail": "/media/wan-laizhanyin-yang-1-thumb.webp",
     "full": "/media/wan-laizhanyin-yang-1-full.webp",
-    "thumbnailBytes": 11704,
+    "thumbnailBytes": 28870,
     "fullBytes": 30164,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/wan-laizhanyin-yang-1-preview.webp",
-    "previewBytes": 1280
+    "previewBytes": 1024,
+    "presentationCrop": [
+      70,
+      38,
+      868,
+      294
+    ],
+    "display": "/media/wan-laizhanyin-yang-1-display.webp",
+    "displayWidth": 798,
+    "displayHeight": 256,
+    "displayBytes": 16824
   },
   {
     "cosmeticId": "wu-ji",
@@ -4117,12 +4318,22 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260819/04b18226-dc19-43b5-ba77-16857244c446.png",
     "thumbnail": "/media/wu-ji-1-thumb.webp",
     "full": "/media/wu-ji-1-full.webp",
-    "thumbnailBytes": 10182,
+    "thumbnailBytes": 26544,
     "fullBytes": 26064,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/wu-ji-1-preview.webp",
-    "previewBytes": 1056
+    "previewBytes": 980,
+    "presentationCrop": [
+      70,
+      38,
+      868,
+      295
+    ],
+    "display": "/media/wu-ji-1-display.webp",
+    "displayWidth": 798,
+    "displayHeight": 257,
+    "displayBytes": 19168
   },
   {
     "cosmeticId": "fei-shuang-dianxue",
@@ -4130,12 +4341,22 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260819/04b18226-dc19-43b5-ba77-16857244c446.png",
     "thumbnail": "/media/fei-shuang-dianxue-1-thumb.webp",
     "full": "/media/fei-shuang-dianxue-1-full.webp",
-    "thumbnailBytes": 17276,
+    "thumbnailBytes": 26322,
     "fullBytes": 50756,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/fei-shuang-dianxue-1-preview.webp",
-    "previewBytes": 1790
+    "previewBytes": 1806,
+    "presentationCrop": [
+      70,
+      44,
+      868,
+      338
+    ],
+    "display": "/media/fei-shuang-dianxue-1-display.webp",
+    "displayWidth": 798,
+    "displayHeight": 294,
+    "displayBytes": 38424
   },
   {
     "cosmeticId": "lie-baiyu",
@@ -4143,12 +4364,23 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260819/04b18226-dc19-43b5-ba77-16857244c446.png",
     "thumbnail": "/media/lie-baiyu-1-thumb.webp",
     "full": "/media/lie-baiyu-1-full.webp",
-    "thumbnailBytes": 53366,
+    "thumbnailBytes": 46758,
     "fullBytes": 155468,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/lie-baiyu-1-preview.webp",
-    "previewBytes": 4938
+    "previewBytes": 2898,
+    "presentationCrop": [
+      66,
+      39,
+      436,
+      588
+    ],
+    "display": "/media/lie-baiyu-1-display.webp",
+    "displayWidth": 370,
+    "displayHeight": 549,
+    "displayBytes": 38222,
+    "presentationSubject": "female"
   },
   {
     "cosmeticId": "global-icebirdie",
@@ -4156,12 +4388,22 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260819/04b18226-dc19-43b5-ba77-16857244c446.png",
     "thumbnail": "/media/global-icebirdie-0-thumb.webp",
     "full": "/media/global-icebirdie-0-full.webp",
-    "thumbnailBytes": 14030,
+    "thumbnailBytes": 44914,
     "fullBytes": 35574,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/global-icebirdie-0-preview.webp",
-    "previewBytes": 1418
+    "previewBytes": 1310,
+    "presentationCrop": [
+      70,
+      40,
+      868,
+      308
+    ],
+    "display": "/media/global-icebirdie-0-display.webp",
+    "displayWidth": 798,
+    "displayHeight": 268,
+    "displayBytes": 24660
   },
   {
     "cosmeticId": "global-swift-blossom",
@@ -4169,12 +4411,22 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260819/04b18226-dc19-43b5-ba77-16857244c446.png",
     "thumbnail": "/media/global-swift-blossom-0-thumb.webp",
     "full": "/media/global-swift-blossom-0-full.webp",
-    "thumbnailBytes": 17162,
+    "thumbnailBytes": 24228,
     "fullBytes": 44512,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/global-swift-blossom-0-preview.webp",
-    "previewBytes": 1922
+    "previewBytes": 1690,
+    "presentationCrop": [
+      70,
+      38,
+      868,
+      295
+    ],
+    "display": "/media/global-swift-blossom-0-display.webp",
+    "displayWidth": 798,
+    "displayHeight": 257,
+    "displayBytes": 29444
   },
   {
     "cosmeticId": "sui-huayao-tian-xuanguang",
@@ -4182,12 +4434,23 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260722/2cd08d3a-8c1a-4c71-8b34-00e6317edd28.png",
     "thumbnail": "/media/sui-huayao-tian-xuanguang-1-thumb.webp",
     "full": "/media/sui-huayao-tian-xuanguang-1-full.webp",
-    "thumbnailBytes": 83348,
+    "thumbnailBytes": 79466,
     "fullBytes": 277028,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/sui-huayao-tian-xuanguang-1-preview.webp",
-    "previewBytes": 5922
+    "previewBytes": 4856,
+    "presentationCrop": [
+      56,
+      66,
+      431,
+      634
+    ],
+    "display": "/media/sui-huayao-tian-xuanguang-1-display.webp",
+    "displayWidth": 375,
+    "displayHeight": 568,
+    "displayBytes": 71882,
+    "presentationSubject": "female"
   },
   {
     "cosmeticId": "zhi-lan-zi-fang",
@@ -4195,12 +4458,23 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260722/2cd08d3a-8c1a-4c71-8b34-00e6317edd28.png",
     "thumbnail": "/media/zhi-lan-zi-fang-1-thumb.webp",
     "full": "/media/zhi-lan-zi-fang-1-full.webp",
-    "thumbnailBytes": 62256,
+    "thumbnailBytes": 66362,
     "fullBytes": 195630,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/zhi-lan-zi-fang-1-preview.webp",
-    "previewBytes": 5672
+    "previewBytes": 3296,
+    "presentationCrop": [
+      66,
+      39,
+      436,
+      589
+    ],
+    "display": "/media/zhi-lan-zi-fang-1-display.webp",
+    "displayWidth": 370,
+    "displayHeight": 550,
+    "displayBytes": 48892,
+    "presentationSubject": "female"
   },
   {
     "cosmeticId": "jumang",
@@ -4208,12 +4482,23 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260722/2cd08d3a-8c1a-4c71-8b34-00e6317edd28.png",
     "thumbnail": "/media/jumang-1-thumb.webp",
     "full": "/media/jumang-1-full.webp",
-    "thumbnailBytes": 51442,
+    "thumbnailBytes": 36228,
     "fullBytes": 163916,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/jumang-1-preview.webp",
-    "previewBytes": 4904
+    "previewBytes": 3058,
+    "presentationCrop": [
+      516,
+      39,
+      882,
+      588
+    ],
+    "display": "/media/jumang-1-display.webp",
+    "displayWidth": 366,
+    "displayHeight": 549,
+    "displayBytes": 39558,
+    "presentationSubject": "female"
   },
   {
     "cosmeticId": "tianzhi-minggui",
@@ -4221,12 +4506,23 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260722/2cd08d3a-8c1a-4c71-8b34-00e6317edd28.png",
     "thumbnail": "/media/tianzhi-minggui-1-thumb.webp",
     "full": "/media/tianzhi-minggui-1-full.webp",
-    "thumbnailBytes": 21410,
+    "thumbnailBytes": 39636,
     "fullBytes": 65018,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/tianzhi-minggui-1-preview.webp",
-    "previewBytes": 2062
+    "previewBytes": 3698,
+    "presentationCrop": [
+      535,
+      15,
+      816,
+      339
+    ],
+    "display": "/media/tianzhi-minggui-1-display.webp",
+    "displayWidth": 281,
+    "displayHeight": 324,
+    "displayBytes": 21646,
+    "presentationSubject": "female"
   },
   {
     "cosmeticId": "mie-ye-ye",
@@ -4234,12 +4530,22 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260722/2cd08d3a-8c1a-4c71-8b34-00e6317edd28.png",
     "thumbnail": "/media/mie-ye-ye-1-thumb.webp",
     "full": "/media/mie-ye-ye-1-full.webp",
-    "thumbnailBytes": 18460,
+    "thumbnailBytes": 24584,
     "fullBytes": 52160,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/mie-ye-ye-1-preview.webp",
-    "previewBytes": 1890
+    "previewBytes": 1856,
+    "presentationCrop": [
+      70,
+      44,
+      869,
+      337
+    ],
+    "display": "/media/mie-ye-ye-1-display.webp",
+    "displayWidth": 799,
+    "displayHeight": 293,
+    "displayBytes": 37356
   },
   {
     "cosmeticId": "wan-laishan-jun-chu",
@@ -4247,12 +4553,22 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260722/2cd08d3a-8c1a-4c71-8b34-00e6317edd28.png",
     "thumbnail": "/media/wan-laishan-jun-chu-1-thumb.webp",
     "full": "/media/wan-laishan-jun-chu-1-full.webp",
-    "thumbnailBytes": 46752,
+    "thumbnailBytes": 31642,
     "fullBytes": 138726,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/wan-laishan-jun-chu-1-preview.webp",
-    "previewBytes": 4762
+    "previewBytes": 2252,
+    "presentationCrop": [
+      516,
+      39,
+      882,
+      823
+    ],
+    "display": "/media/wan-laishan-jun-chu-1-display.webp",
+    "displayWidth": 366,
+    "displayHeight": 784,
+    "displayBytes": 40296
   },
   {
     "cosmeticId": "wan-laiyin-jiang-fu",
@@ -4260,12 +4576,22 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260722/2cd08d3a-8c1a-4c71-8b34-00e6317edd28.png",
     "thumbnail": "/media/wan-laiyin-jiang-fu-1-thumb.webp",
     "full": "/media/wan-laiyin-jiang-fu-1-full.webp",
-    "thumbnailBytes": 27200,
+    "thumbnailBytes": 16446,
     "fullBytes": 67504,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/wan-laiyin-jiang-fu-1-preview.webp",
-    "previewBytes": 2818
+    "previewBytes": 2910,
+    "presentationCrop": [
+      159,
+      33,
+      600,
+      291
+    ],
+    "display": "/media/wan-laiyin-jiang-fu-1-display.webp",
+    "displayWidth": 441,
+    "displayHeight": 258,
+    "displayBytes": 21092
   },
   {
     "cosmeticId": "global-bronze-skyfall",
@@ -4273,12 +4599,22 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260722/2cd08d3a-8c1a-4c71-8b34-00e6317edd28.png",
     "thumbnail": "/media/global-bronze-skyfall-0-thumb.webp",
     "full": "/media/global-bronze-skyfall-0-full.webp",
-    "thumbnailBytes": 17408,
+    "thumbnailBytes": 37748,
     "fullBytes": 43594,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/global-bronze-skyfall-0-preview.webp",
-    "previewBytes": 2042
+    "previewBytes": 1934,
+    "presentationCrop": [
+      70,
+      38,
+      868,
+      295
+    ],
+    "display": "/media/global-bronze-skyfall-0-display.webp",
+    "displayWidth": 798,
+    "displayHeight": 257,
+    "displayBytes": 31380
   },
   {
     "cosmeticId": "tian-de-xing",
@@ -4286,12 +4622,23 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260722/2cd08d3a-8c1a-4c71-8b34-00e6317edd28.png",
     "thumbnail": "/media/tian-de-xing-1-thumb.webp",
     "full": "/media/tian-de-xing-1-full.webp",
-    "thumbnailBytes": 47552,
+    "thumbnailBytes": 54782,
     "fullBytes": 145206,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/tian-de-xing-1-preview.webp",
-    "previewBytes": 4586
+    "previewBytes": 3294,
+    "presentationCrop": [
+      66,
+      39,
+      436,
+      588
+    ],
+    "display": "/media/tian-de-xing-1-display.webp",
+    "displayWidth": 370,
+    "displayHeight": 549,
+    "displayBytes": 42508,
+    "presentationSubject": "female"
   },
   {
     "cosmeticId": "you-zhujian",
@@ -4299,12 +4646,23 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260722/2cd08d3a-8c1a-4c71-8b34-00e6317edd28.png",
     "thumbnail": "/media/you-zhujian-1-thumb.webp",
     "full": "/media/you-zhujian-1-full.webp",
-    "thumbnailBytes": 52046,
+    "thumbnailBytes": 58900,
     "fullBytes": 151478,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/you-zhujian-1-preview.webp",
-    "previewBytes": 4876
+    "previewBytes": 3552,
+    "presentationCrop": [
+      516,
+      39,
+      882,
+      589
+    ],
+    "display": "/media/you-zhujian-1-display.webp",
+    "displayWidth": 366,
+    "displayHeight": 550,
+    "displayBytes": 46216,
+    "presentationSubject": "female"
   },
   {
     "cosmeticId": "global-withered-ash",
@@ -4312,12 +4670,22 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260722/2cd08d3a-8c1a-4c71-8b34-00e6317edd28.png",
     "thumbnail": "/media/global-withered-ash-0-thumb.webp",
     "full": "/media/global-withered-ash-0-full.webp",
-    "thumbnailBytes": 13806,
+    "thumbnailBytes": 30144,
     "fullBytes": 36544,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/global-withered-ash-0-preview.webp",
-    "previewBytes": 1672
+    "previewBytes": 1428,
+    "presentationCrop": [
+      70,
+      38,
+      869,
+      295
+    ],
+    "display": "/media/global-withered-ash-0-display.webp",
+    "displayWidth": 799,
+    "displayHeight": 257,
+    "displayBytes": 24034
   },
   {
     "cosmeticId": "zui-penglai",
@@ -4325,12 +4693,23 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260625/62b9865a-c227-4a4f-86c8-c521f41900cc.png",
     "thumbnail": "/media/zui-penglai-1-thumb.webp",
     "full": "/media/zui-penglai-1-full.webp",
-    "thumbnailBytes": 51414,
+    "thumbnailBytes": 40008,
     "fullBytes": 197084,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/zui-penglai-1-preview.webp",
-    "previewBytes": 3848
+    "previewBytes": 1986,
+    "presentationCrop": [
+      516,
+      54,
+      882,
+      814
+    ],
+    "display": "/media/zui-penglai-1-display.webp",
+    "displayWidth": 366,
+    "displayHeight": 760,
+    "displayBytes": 50788,
+    "presentationSubject": "female"
   },
   {
     "cosmeticId": "qing-fangzun",
@@ -4338,12 +4717,23 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260625/62b9865a-c227-4a4f-86c8-c521f41900cc.png",
     "thumbnail": "/media/qing-fangzun-1-thumb.webp",
     "full": "/media/qing-fangzun-1-full.webp",
-    "thumbnailBytes": 35088,
+    "thumbnailBytes": 28910,
     "fullBytes": 107354,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/qing-fangzun-1-preview.webp",
-    "previewBytes": 3390
+    "previewBytes": 2598,
+    "presentationCrop": [
+      544,
+      21,
+      779,
+      361
+    ],
+    "display": "/media/qing-fangzun-1-display.webp",
+    "displayWidth": 235,
+    "displayHeight": 340,
+    "displayBytes": 16674,
+    "presentationSubject": "female"
   },
   {
     "cosmeticId": "yi-chun-shan",
@@ -4351,12 +4741,23 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260625/62b9865a-c227-4a4f-86c8-c521f41900cc.png",
     "thumbnail": "/media/yi-chun-shan-1-thumb.webp",
     "full": "/media/yi-chun-shan-1-full.webp",
-    "thumbnailBytes": 58998,
+    "thumbnailBytes": 45954,
     "fullBytes": 160564,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/yi-chun-shan-1-preview.webp",
-    "previewBytes": 6340
+    "previewBytes": 4028,
+    "presentationCrop": [
+      516,
+      39,
+      882,
+      588
+    ],
+    "display": "/media/yi-chun-shan-1-display.webp",
+    "displayWidth": 366,
+    "displayHeight": 549,
+    "displayBytes": 39168,
+    "presentationSubject": "female"
   },
   {
     "cosmeticId": "fang-fei-chun-hua",
@@ -4364,12 +4765,23 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260625/62b9865a-c227-4a4f-86c8-c521f41900cc.png",
     "thumbnail": "/media/fang-fei-chun-hua-1-thumb.webp",
     "full": "/media/fang-fei-chun-hua-1-full.webp",
-    "thumbnailBytes": 51514,
+    "thumbnailBytes": 40372,
     "fullBytes": 146860,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/fang-fei-chun-hua-1-preview.webp",
-    "previewBytes": 5868
+    "previewBytes": 3620,
+    "presentationCrop": [
+      66,
+      39,
+      436,
+      589
+    ],
+    "display": "/media/fang-fei-chun-hua-1-display.webp",
+    "displayWidth": 370,
+    "displayHeight": 550,
+    "displayBytes": 38996,
+    "presentationSubject": "female"
   },
   {
     "cosmeticId": "wu-ling-chun",
@@ -4377,12 +4789,23 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260625/62b9865a-c227-4a4f-86c8-c521f41900cc.png",
     "thumbnail": "/media/wu-ling-chun-1-thumb.webp",
     "full": "/media/wu-ling-chun-1-full.webp",
-    "thumbnailBytes": 53384,
+    "thumbnailBytes": 43540,
     "fullBytes": 154944,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/wu-ling-chun-1-preview.webp",
-    "previewBytes": 5756
+    "previewBytes": 3690,
+    "presentationCrop": [
+      66,
+      39,
+      436,
+      588
+    ],
+    "display": "/media/wu-ling-chun-1-display.webp",
+    "displayWidth": 370,
+    "displayHeight": 549,
+    "displayBytes": 39548,
+    "presentationSubject": "female"
   },
   {
     "cosmeticId": "wan-laimanfei-ying",
@@ -4390,12 +4813,22 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260625/62b9865a-c227-4a4f-86c8-c521f41900cc.png",
     "thumbnail": "/media/wan-laimanfei-ying-1-thumb.webp",
     "full": "/media/wan-laimanfei-ying-1-full.webp",
-    "thumbnailBytes": 9954,
+    "thumbnailBytes": 27354,
     "fullBytes": 23806,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/wan-laimanfei-ying-1-preview.webp",
-    "previewBytes": 1304
+    "previewBytes": 1098,
+    "presentationCrop": [
+      70,
+      46,
+      869,
+      352
+    ],
+    "display": "/media/wan-laimanfei-ying-1-display.webp",
+    "displayWidth": 799,
+    "displayHeight": 306,
+    "displayBytes": 17154
   },
   {
     "cosmeticId": "global-myriad-sounds-plume-break",
@@ -4403,12 +4836,22 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260625/62b9865a-c227-4a4f-86c8-c521f41900cc.png",
     "thumbnail": "/media/global-myriad-sounds-plume-break-0-thumb.webp",
     "full": "/media/global-myriad-sounds-plume-break-0-full.webp",
-    "thumbnailBytes": 16466,
+    "thumbnailBytes": 10470,
     "fullBytes": 41508,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/global-myriad-sounds-plume-break-0-preview.webp",
-    "previewBytes": 2054
+    "previewBytes": 1962,
+    "presentationCrop": [
+      70,
+      40,
+      868,
+      312
+    ],
+    "display": "/media/global-myriad-sounds-plume-break-0-display.webp",
+    "displayWidth": 798,
+    "displayHeight": 272,
+    "displayBytes": 29310
   },
   {
     "cosmeticId": "yu-long-kongyou",
@@ -4416,12 +4859,22 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260625/62b9865a-c227-4a4f-86c8-c521f41900cc.png",
     "thumbnail": "/media/yu-long-kongyou-1-thumb.webp",
     "full": "/media/yu-long-kongyou-1-full.webp",
-    "thumbnailBytes": 50446,
+    "thumbnailBytes": 42824,
     "fullBytes": 136956,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/yu-long-kongyou-1-preview.webp",
-    "previewBytes": 5116
+    "previewBytes": 2428,
+    "presentationCrop": [
+      66,
+      52,
+      436,
+      814
+    ],
+    "display": "/media/yu-long-kongyou-1-display.webp",
+    "displayWidth": 370,
+    "displayHeight": 762,
+    "displayBytes": 56804
   },
   {
     "cosmeticId": "sui-shi-an",
@@ -4429,12 +4882,23 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260625/62b9865a-c227-4a4f-86c8-c521f41900cc.png",
     "thumbnail": "/media/sui-shi-an-1-thumb.webp",
     "full": "/media/sui-shi-an-1-full.webp",
-    "thumbnailBytes": 42344,
+    "thumbnailBytes": 25468,
     "fullBytes": 133566,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/sui-shi-an-1-preview.webp",
-    "previewBytes": 4302
+    "previewBytes": 2418,
+    "presentationCrop": [
+      66,
+      39,
+      436,
+      589
+    ],
+    "display": "/media/sui-shi-an-1-display.webp",
+    "displayWidth": 370,
+    "displayHeight": 550,
+    "displayBytes": 29224,
+    "presentationSubject": "female"
   },
   {
     "cosmeticId": "zhong-shan-jiu-die",
@@ -4442,12 +4906,22 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260625/62b9865a-c227-4a4f-86c8-c521f41900cc.png",
     "thumbnail": "/media/zhong-shan-jiu-die-1-thumb.webp",
     "full": "/media/zhong-shan-jiu-die-1-full.webp",
-    "thumbnailBytes": 16224,
+    "thumbnailBytes": 36112,
     "fullBytes": 44484,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/zhong-shan-jiu-die-1-preview.webp",
-    "previewBytes": 1718
+    "previewBytes": 1618,
+    "presentationCrop": [
+      70,
+      38,
+      869,
+      295
+    ],
+    "display": "/media/zhong-shan-jiu-die-1-display.webp",
+    "displayWidth": 799,
+    "displayHeight": 257,
+    "displayBytes": 32954
   },
   {
     "cosmeticId": "qing-yuzhu-yun",
@@ -4455,12 +4929,22 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260803/7c519102-073a-416f-8818-957df99dadd7.png",
     "thumbnail": "/media/qing-yuzhu-yun-1-thumb.webp",
     "full": "/media/qing-yuzhu-yun-1-full.webp",
-    "thumbnailBytes": 20170,
+    "thumbnailBytes": 61310,
     "fullBytes": 62860,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/qing-yuzhu-yun-1-preview.webp",
-    "previewBytes": 1860
+    "previewBytes": 1816,
+    "presentationCrop": [
+      70,
+      44,
+      869,
+      341
+    ],
+    "display": "/media/qing-yuzhu-yun-1-display.webp",
+    "displayWidth": 799,
+    "displayHeight": 297,
+    "displayBytes": 46388
   },
   {
     "cosmeticId": "cang-yindan-xiao-qing-ming",
@@ -4468,12 +4952,22 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260803/7c519102-073a-416f-8818-957df99dadd7.png",
     "thumbnail": "/media/cang-yindan-xiao-qing-ming-1-thumb.webp",
     "full": "/media/cang-yindan-xiao-qing-ming-1-full.webp",
-    "thumbnailBytes": 33620,
+    "thumbnailBytes": 49812,
     "fullBytes": 91784,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/cang-yindan-xiao-qing-ming-1-preview.webp",
-    "previewBytes": 3088
+    "previewBytes": 5680,
+    "presentationCrop": [
+      328,
+      40,
+      628,
+      298
+    ],
+    "display": "/media/cang-yindan-xiao-qing-ming-1-display.webp",
+    "displayWidth": 300,
+    "displayHeight": 258,
+    "displayBytes": 26576
   },
   {
     "cosmeticId": "global-longing-s-refrain",
@@ -4481,12 +4975,23 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260803/7c519102-073a-416f-8818-957df99dadd7.png",
     "thumbnail": "/media/global-longing-s-refrain-0-thumb.webp",
     "full": "/media/global-longing-s-refrain-0-full.webp",
-    "thumbnailBytes": 39194,
+    "thumbnailBytes": 30184,
     "fullBytes": 95322,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/global-longing-s-refrain-0-preview.webp",
-    "previewBytes": 5166
+    "previewBytes": 3330,
+    "presentationCrop": [
+      66,
+      39,
+      436,
+      589
+    ],
+    "display": "/media/global-longing-s-refrain-0-display.webp",
+    "displayWidth": 370,
+    "displayHeight": 550,
+    "displayBytes": 27982,
+    "presentationSubject": "female"
   },
   {
     "cosmeticId": "global-rippling-dream",
@@ -4494,12 +4999,22 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260807/13c6a39d-5f43-4b76-a1dc-c1b0b18bf9f8.png",
     "thumbnail": "/media/global-rippling-dream-0-thumb.webp",
     "full": "/media/global-rippling-dream-0-full.webp",
-    "thumbnailBytes": 27796,
+    "thumbnailBytes": 42158,
     "fullBytes": 80396,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/global-rippling-dream-0-preview.webp",
-    "previewBytes": 2740
+    "previewBytes": 1622,
+    "presentationCrop": [
+      78,
+      40,
+      898,
+      326
+    ],
+    "display": "/media/global-rippling-dream-0-display.webp",
+    "displayWidth": 820,
+    "displayHeight": 286,
+    "displayBytes": 37942
   },
   {
     "cosmeticId": "global-celestial-calculations",
@@ -4507,12 +5022,22 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260807/13c6a39d-5f43-4b76-a1dc-c1b0b18bf9f8.png",
     "thumbnail": "/media/global-celestial-calculations-0-thumb.webp",
     "full": "/media/global-celestial-calculations-0-full.webp",
-    "thumbnailBytes": 22608,
+    "thumbnailBytes": 34788,
     "fullBytes": 77226,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/global-celestial-calculations-0-preview.webp",
-    "previewBytes": 1710
+    "previewBytes": 1582,
+    "presentationCrop": [
+      73,
+      40,
+      903,
+      307
+    ],
+    "display": "/media/global-celestial-calculations-0-display.webp",
+    "displayWidth": 830,
+    "displayHeight": 267,
+    "displayBytes": 53770
   },
   {
     "cosmeticId": "dianchun-ou",
@@ -4520,12 +5045,23 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260807/13c6a39d-5f43-4b76-a1dc-c1b0b18bf9f8.png",
     "thumbnail": "/media/dianchun-ou-1-thumb.webp",
     "full": "/media/dianchun-ou-1-full.webp",
-    "thumbnailBytes": 57586,
+    "thumbnailBytes": 35196,
     "fullBytes": 175338,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/dianchun-ou-1-preview.webp",
-    "previewBytes": 5336
+    "previewBytes": 3242,
+    "presentationCrop": [
+      536,
+      41,
+      917,
+      613
+    ],
+    "display": "/media/dianchun-ou-1-display.webp",
+    "displayWidth": 381,
+    "displayHeight": 572,
+    "displayBytes": 40356,
+    "presentationSubject": "female"
   },
   {
     "cosmeticId": "shi-shuang-feng",
@@ -4533,12 +5069,22 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260807/13c6a39d-5f43-4b76-a1dc-c1b0b18bf9f8.png",
     "thumbnail": "/media/shi-shuang-feng-1-thumb.webp",
     "full": "/media/shi-shuang-feng-1-full.webp",
-    "thumbnailBytes": 16194,
+    "thumbnailBytes": 34230,
     "fullBytes": 62456,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/shi-shuang-feng-1-preview.webp",
-    "previewBytes": 1542
+    "previewBytes": 1400,
+    "presentationCrop": [
+      73,
+      42,
+      903,
+      324
+    ],
+    "display": "/media/shi-shuang-feng-1-display.webp",
+    "displayWidth": 830,
+    "displayHeight": 282,
+    "displayBytes": 44080
   },
   {
     "cosmeticId": "miao-xian-ren-zhang",
@@ -4546,12 +5092,22 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260807/13c6a39d-5f43-4b76-a1dc-c1b0b18bf9f8.png",
     "thumbnail": "/media/miao-xian-ren-zhang-1-thumb.webp",
     "full": "/media/miao-xian-ren-zhang-1-full.webp",
-    "thumbnailBytes": 7580,
+    "thumbnailBytes": 20220,
     "fullBytes": 20528,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/miao-xian-ren-zhang-1-preview.webp",
-    "previewBytes": 942
+    "previewBytes": 910,
+    "presentationCrop": [
+      73,
+      40,
+      903,
+      308
+    ],
+    "display": "/media/miao-xian-ren-zhang-1-display.webp",
+    "displayWidth": 830,
+    "displayHeight": 268,
+    "displayBytes": 16080
   },
   {
     "cosmeticId": "qing-zhi-wu-xin",
@@ -4559,12 +5115,23 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260814/b0f8349d-fbf4-4748-9898-fc4f98bcd03b.png",
     "thumbnail": "/media/qing-zhi-wu-xin-1-thumb.webp",
     "full": "/media/qing-zhi-wu-xin-1-full.webp",
-    "thumbnailBytes": 54800,
+    "thumbnailBytes": 42870,
     "fullBytes": 161840,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/qing-zhi-wu-xin-1-preview.webp",
-    "previewBytes": 6238
+    "previewBytes": 4172,
+    "presentationCrop": [
+      68,
+      41,
+      453,
+      614
+    ],
+    "display": "/media/qing-zhi-wu-xin-1-display.webp",
+    "displayWidth": 385,
+    "displayHeight": 573,
+    "displayBytes": 44512,
+    "presentationSubject": "female"
   },
   {
     "cosmeticId": "que-qiao-xian",
@@ -4572,12 +5139,22 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260814/b0f8349d-fbf4-4748-9898-fc4f98bcd03b.png",
     "thumbnail": "/media/que-qiao-xian-1-thumb.webp",
     "full": "/media/que-qiao-xian-1-full.webp",
-    "thumbnailBytes": 45502,
+    "thumbnailBytes": 36032,
     "fullBytes": 169378,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/que-qiao-xian-1-preview.webp",
-    "previewBytes": 4236
+    "previewBytes": 3182,
+    "presentationCrop": [
+      107,
+      53,
+      419,
+      433
+    ],
+    "display": "/media/que-qiao-xian-1-display.webp",
+    "displayWidth": 312,
+    "displayHeight": 380,
+    "displayBytes": 24534
   },
   {
     "cosmeticId": "ling-jiao-zhi-meng",
@@ -4585,12 +5162,23 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260717/4f44a978-f211-41b4-9cdd-4a3976d8793b.png",
     "thumbnail": "/media/ling-jiao-zhi-meng-1-thumb.webp",
     "full": "/media/ling-jiao-zhi-meng-1-full.webp",
-    "thumbnailBytes": 65648,
+    "thumbnailBytes": 49470,
     "fullBytes": 213936,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/ling-jiao-zhi-meng-1-preview.webp",
-    "previewBytes": 4900
+    "previewBytes": 2998,
+    "presentationCrop": [
+      512,
+      53,
+      875,
+      807
+    ],
+    "display": "/media/ling-jiao-zhi-meng-1-display.webp",
+    "displayWidth": 363,
+    "displayHeight": 754,
+    "displayBytes": 68596,
+    "presentationSubject": "female"
   },
   {
     "cosmeticId": "global-dreams-beyond",
@@ -4598,12 +5186,23 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260717/4f44a978-f211-41b4-9cdd-4a3976d8793b.png",
     "thumbnail": "/media/global-dreams-beyond-0-thumb.webp",
     "full": "/media/global-dreams-beyond-0-full.webp",
-    "thumbnailBytes": 46018,
+    "thumbnailBytes": 40976,
     "fullBytes": 138332,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/global-dreams-beyond-0-preview.webp",
-    "previewBytes": 4770
+    "previewBytes": 3086,
+    "presentationCrop": [
+      512,
+      39,
+      875,
+      583
+    ],
+    "display": "/media/global-dreams-beyond-0-display.webp",
+    "displayWidth": 363,
+    "displayHeight": 544,
+    "displayBytes": 33450,
+    "presentationSubject": "female"
   },
   {
     "cosmeticId": "global-crimson-bloom",
@@ -4611,12 +5210,23 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260717/4f44a978-f211-41b4-9cdd-4a3976d8793b.png",
     "thumbnail": "/media/global-crimson-bloom-0-thumb.webp",
     "full": "/media/global-crimson-bloom-0-full.webp",
-    "thumbnailBytes": 51264,
+    "thumbnailBytes": 36006,
     "fullBytes": 151698,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/global-crimson-bloom-0-preview.webp",
-    "previewBytes": 4974
+    "previewBytes": 2676,
+    "presentationCrop": [
+      512,
+      39,
+      875,
+      582
+    ],
+    "display": "/media/global-crimson-bloom-0-display.webp",
+    "displayWidth": 363,
+    "displayHeight": 543,
+    "displayBytes": 28550,
+    "presentationSubject": "female"
   },
   {
     "cosmeticId": "nan-feng-xun",
@@ -4624,12 +5234,23 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260717/f02daf84-e057-4450-be78-eafb375b8eba.png",
     "thumbnail": "/media/nan-feng-xun-1-thumb.webp",
     "full": "/media/nan-feng-xun-1-full.webp",
-    "thumbnailBytes": 60310,
+    "thumbnailBytes": 53858,
     "fullBytes": 178914,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/nan-feng-xun-1-preview.webp",
-    "previewBytes": 6654
+    "previewBytes": 4100,
+    "presentationCrop": [
+      65,
+      39,
+      433,
+      584
+    ],
+    "display": "/media/nan-feng-xun-1-display.webp",
+    "displayWidth": 368,
+    "displayHeight": 545,
+    "displayBytes": 50892,
+    "presentationSubject": "female"
   },
   {
     "cosmeticId": "global-launch-swaying-lotus-outfit",
@@ -4741,12 +5362,23 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260305/30e1d6c1-bef4-49c8-a897-f2e3f95759d3.png",
     "thumbnail": "/media/global-tiger-s-bane-0-thumb.webp",
     "full": "/media/global-tiger-s-bane-0-full.webp",
-    "thumbnailBytes": 52828,
+    "thumbnailBytes": 49552,
     "fullBytes": 161190,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/global-tiger-s-bane-0-preview.webp",
-    "previewBytes": 5066
+    "previewBytes": 2894,
+    "presentationCrop": [
+      512,
+      39,
+      875,
+      585
+    ],
+    "display": "/media/global-tiger-s-bane-0-display.webp",
+    "displayWidth": 363,
+    "displayHeight": 546,
+    "displayBytes": 40838,
+    "presentationSubject": "female"
   },
   {
     "cosmeticId": "global-fieryheart-of-war",
@@ -4754,12 +5386,22 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260305/30e1d6c1-bef4-49c8-a897-f2e3f95759d3.png",
     "thumbnail": "/media/global-fieryheart-of-war-0-thumb.webp",
     "full": "/media/global-fieryheart-of-war-0-full.webp",
-    "thumbnailBytes": 13730,
+    "thumbnailBytes": 27898,
     "fullBytes": 31418,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/global-fieryheart-of-war-0-preview.webp",
-    "previewBytes": 1602
+    "previewBytes": 1478,
+    "presentationCrop": [
+      70,
+      42,
+      862,
+      321
+    ],
+    "display": "/media/global-fieryheart-of-war-0-display.webp",
+    "displayWidth": 792,
+    "displayHeight": 279,
+    "displayBytes": 22096
   },
   {
     "cosmeticId": "tie-ma-jin-ge",
@@ -4767,12 +5409,23 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260305/30e1d6c1-bef4-49c8-a897-f2e3f95759d3.png",
     "thumbnail": "/media/tie-ma-jin-ge-1-thumb.webp",
     "full": "/media/tie-ma-jin-ge-1-full.webp",
-    "thumbnailBytes": 12686,
+    "thumbnailBytes": 29908,
     "fullBytes": 33990,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/tie-ma-jin-ge-1-preview.webp",
-    "previewBytes": 1468
+    "previewBytes": 3040,
+    "presentationCrop": [
+      484,
+      40,
+      717,
+      346
+    ],
+    "display": "/media/tie-ma-jin-ge-1-display.webp",
+    "displayWidth": 233,
+    "displayHeight": 306,
+    "displayBytes": 14862,
+    "presentationSubject": "female"
   },
   {
     "cosmeticId": "qing-yu-an",
@@ -4780,12 +5433,23 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260305/30e1d6c1-bef4-49c8-a897-f2e3f95759d3.png",
     "thumbnail": "/media/qing-yu-an-1-thumb.webp",
     "full": "/media/qing-yu-an-1-full.webp",
-    "thumbnailBytes": 21452,
+    "thumbnailBytes": 38088,
     "fullBytes": 56908,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/qing-yu-an-1-preview.webp",
-    "previewBytes": 2286
+    "previewBytes": 4386,
+    "presentationCrop": [
+      251,
+      37,
+      466,
+      338
+    ],
+    "display": "/media/qing-yu-an-1-display.webp",
+    "displayWidth": 215,
+    "displayHeight": 301,
+    "displayBytes": 19588,
+    "presentationSubject": "female"
   },
   {
     "cosmeticId": "global-bactrian-camel",
@@ -4793,12 +5457,22 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260305/30e1d6c1-bef4-49c8-a897-f2e3f95759d3.png",
     "thumbnail": "/media/global-bactrian-camel-0-thumb.webp",
     "full": "/media/global-bactrian-camel-0-full.webp",
-    "thumbnailBytes": 14290,
+    "thumbnailBytes": 27882,
     "fullBytes": 43178,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/global-bactrian-camel-0-preview.webp",
-    "previewBytes": 1708
+    "previewBytes": 1502,
+    "presentationCrop": [
+      70,
+      40,
+      862,
+      311
+    ],
+    "display": "/media/global-bactrian-camel-0-display.webp",
+    "displayWidth": 792,
+    "displayHeight": 271,
+    "displayBytes": 32780
   },
   {
     "cosmeticId": "global-moonlit-umbra",
@@ -4806,12 +5480,22 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260305/30e1d6c1-bef4-49c8-a897-f2e3f95759d3.png",
     "thumbnail": "/media/global-moonlit-umbra-0-thumb.webp",
     "full": "/media/global-moonlit-umbra-0-full.webp",
-    "thumbnailBytes": 18258,
+    "thumbnailBytes": 44760,
     "fullBytes": 49684,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/global-moonlit-umbra-0-preview.webp",
-    "previewBytes": 1894
+    "previewBytes": 1752,
+    "presentationCrop": [
+      70,
+      40,
+      862,
+      308
+    ],
+    "display": "/media/global-moonlit-umbra-0-display.webp",
+    "displayWidth": 792,
+    "displayHeight": 268,
+    "displayBytes": 35152
   },
   {
     "cosmeticId": "mo-ran-chen",
@@ -4819,12 +5503,22 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260305/30e1d6c1-bef4-49c8-a897-f2e3f95759d3.png",
     "thumbnail": "/media/mo-ran-chen-1-thumb.webp",
     "full": "/media/mo-ran-chen-1-full.webp",
-    "thumbnailBytes": 20398,
+    "thumbnailBytes": 30330,
     "fullBytes": 59896,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/mo-ran-chen-1-preview.webp",
-    "previewBytes": 1926
+    "previewBytes": 1760,
+    "presentationCrop": [
+      70,
+      38,
+      862,
+      294
+    ],
+    "display": "/media/mo-ran-chen-1-display.webp",
+    "displayWidth": 792,
+    "displayHeight": 256,
+    "displayBytes": 40594
   },
   {
     "cosmeticId": "global-crane-pierces-the-azure-sky",
@@ -4832,12 +5526,22 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260305/30e1d6c1-bef4-49c8-a897-f2e3f95759d3.png",
     "thumbnail": "/media/global-crane-pierces-the-azure-sky-0-thumb.webp",
     "full": "/media/global-crane-pierces-the-azure-sky-0-full.webp",
-    "thumbnailBytes": 15762,
+    "thumbnailBytes": 32452,
     "fullBytes": 35864,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/global-crane-pierces-the-azure-sky-0-preview.webp",
-    "previewBytes": 1632
+    "previewBytes": 1582,
+    "presentationCrop": [
+      70,
+      38,
+      861,
+      293
+    ],
+    "display": "/media/global-crane-pierces-the-azure-sky-0-display.webp",
+    "displayWidth": 791,
+    "displayHeight": 255,
+    "displayBytes": 26100
   },
   {
     "cosmeticId": "xue-man-chuan",
@@ -4845,12 +5549,23 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260305/30e1d6c1-bef4-49c8-a897-f2e3f95759d3.png",
     "thumbnail": "/media/xue-man-chuan-1-thumb.webp",
     "full": "/media/xue-man-chuan-1-full.webp",
-    "thumbnailBytes": 16960,
+    "thumbnailBytes": 36866,
     "fullBytes": 54586,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/xue-man-chuan-1-preview.webp",
-    "previewBytes": 1644
+    "previewBytes": 3550,
+    "presentationCrop": [
+      485,
+      39,
+      746,
+      335
+    ],
+    "display": "/media/xue-man-chuan-1-display.webp",
+    "displayWidth": 261,
+    "displayHeight": 296,
+    "displayBytes": 20530,
+    "presentationSubject": "female"
   },
   {
     "cosmeticId": "global-parting-arrow",
@@ -4858,12 +5573,22 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260305/30e1d6c1-bef4-49c8-a897-f2e3f95759d3.png",
     "thumbnail": "/media/global-parting-arrow-0-thumb.webp",
     "full": "/media/global-parting-arrow-0-full.webp",
-    "thumbnailBytes": 14512,
+    "thumbnailBytes": 13032,
     "fullBytes": 37820,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/global-parting-arrow-0-preview.webp",
-    "previewBytes": 1572
+    "previewBytes": 1484,
+    "presentationCrop": [
+      70,
+      46,
+      862,
+      358
+    ],
+    "display": "/media/global-parting-arrow-0-display.webp",
+    "displayWidth": 792,
+    "displayHeight": 312,
+    "displayBytes": 27846
   },
   {
     "cosmeticId": "jin-sui-feng-rang",
@@ -4871,12 +5596,22 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260305/30e1d6c1-bef4-49c8-a897-f2e3f95759d3.png",
     "thumbnail": "/media/jin-sui-feng-rang-1-thumb.webp",
     "full": "/media/jin-sui-feng-rang-1-full.webp",
-    "thumbnailBytes": 33338,
+    "thumbnailBytes": 37396,
     "fullBytes": 93548,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/jin-sui-feng-rang-1-preview.webp",
-    "previewBytes": 2726
+    "previewBytes": 2624,
+    "presentationCrop": [
+      70,
+      38,
+      861,
+      294
+    ],
+    "display": "/media/jin-sui-feng-rang-1-display.webp",
+    "displayWidth": 791,
+    "displayHeight": 256,
+    "displayBytes": 66338
   },
   {
     "cosmeticId": "global-sacrificial-flame",
@@ -4884,12 +5619,23 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260305/30e1d6c1-bef4-49c8-a897-f2e3f95759d3.png",
     "thumbnail": "/media/global-sacrificial-flame-0-thumb.webp",
     "full": "/media/global-sacrificial-flame-0-full.webp",
-    "thumbnailBytes": 24202,
+    "thumbnailBytes": 45604,
     "fullBytes": 78098,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/global-sacrificial-flame-0-preview.webp",
-    "previewBytes": 2038
+    "previewBytes": 3810,
+    "presentationCrop": [
+      503,
+      14,
+      689,
+      343
+    ],
+    "display": "/media/global-sacrificial-flame-0-display.webp",
+    "displayWidth": 186,
+    "displayHeight": 329,
+    "displayBytes": 24976,
+    "presentationSubject": "female"
   },
   {
     "cosmeticId": "global-yin-yang-unveiled",
@@ -4897,12 +5643,23 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260305/30e1d6c1-bef4-49c8-a897-f2e3f95759d3.png",
     "thumbnail": "/media/global-yin-yang-unveiled-0-thumb.webp",
     "full": "/media/global-yin-yang-unveiled-0-full.webp",
-    "thumbnailBytes": 64256,
+    "thumbnailBytes": 77592,
     "fullBytes": 178204,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/global-yin-yang-unveiled-0-preview.webp",
-    "previewBytes": 5950
+    "previewBytes": 4376,
+    "presentationCrop": [
+      65,
+      39,
+      433,
+      585
+    ],
+    "display": "/media/global-yin-yang-unveiled-0-display.webp",
+    "displayWidth": 368,
+    "displayHeight": 546,
+    "displayBytes": 61164,
+    "presentationSubject": "female"
   },
   {
     "cosmeticId": "fu-rong-qi-lu",
@@ -4910,12 +5667,23 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260305/30e1d6c1-bef4-49c8-a897-f2e3f95759d3.png",
     "thumbnail": "/media/fu-rong-qi-lu-1-thumb.webp",
     "full": "/media/fu-rong-qi-lu-1-full.webp",
-    "thumbnailBytes": 16098,
+    "thumbnailBytes": 25818,
     "fullBytes": 42678,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/fu-rong-qi-lu-1-preview.webp",
-    "previewBytes": 2048
+    "previewBytes": 2960,
+    "presentationCrop": [
+      521,
+      31,
+      782,
+      332
+    ],
+    "display": "/media/fu-rong-qi-lu-1-display.webp",
+    "displayWidth": 261,
+    "displayHeight": 301,
+    "displayBytes": 13932,
+    "presentationSubject": "female"
   },
   {
     "cosmeticId": "li-chuan-chi-su",
@@ -4923,12 +5691,23 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260305/30e1d6c1-bef4-49c8-a897-f2e3f95759d3.png",
     "thumbnail": "/media/li-chuan-chi-su-1-thumb.webp",
     "full": "/media/li-chuan-chi-su-1-full.webp",
-    "thumbnailBytes": 55396,
+    "thumbnailBytes": 54714,
     "fullBytes": 158374,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/li-chuan-chi-su-1-preview.webp",
-    "previewBytes": 5550
+    "previewBytes": 3536,
+    "presentationCrop": [
+      65,
+      39,
+      433,
+      584
+    ],
+    "display": "/media/li-chuan-chi-su-1-display.webp",
+    "displayWidth": 368,
+    "displayHeight": 545,
+    "displayBytes": 41672,
+    "presentationSubject": "female"
   },
   {
     "cosmeticId": "cang-yinhe-fei-fa-xiang",
@@ -4936,12 +5715,22 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260305/30e1d6c1-bef4-49c8-a897-f2e3f95759d3.png",
     "thumbnail": "/media/cang-yinhe-fei-fa-xiang-1-thumb.webp",
     "full": "/media/cang-yinhe-fei-fa-xiang-1-full.webp",
-    "thumbnailBytes": 10622,
+    "thumbnailBytes": 13148,
     "fullBytes": 25920,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/cang-yinhe-fei-fa-xiang-1-preview.webp",
-    "previewBytes": 1082
+    "previewBytes": 920,
+    "presentationCrop": [
+      70,
+      41,
+      862,
+      315
+    ],
+    "display": "/media/cang-yinhe-fei-fa-xiang-1-display.webp",
+    "displayWidth": 792,
+    "displayHeight": 274,
+    "displayBytes": 17874
   },
   {
     "cosmeticId": "global-rain-kissed-lotus",
@@ -4949,12 +5738,23 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260305/30e1d6c1-bef4-49c8-a897-f2e3f95759d3.png",
     "thumbnail": "/media/global-rain-kissed-lotus-0-thumb.webp",
     "full": "/media/global-rain-kissed-lotus-0-full.webp",
-    "thumbnailBytes": 41646,
+    "thumbnailBytes": 29330,
     "fullBytes": 118162,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/global-rain-kissed-lotus-0-preview.webp",
-    "previewBytes": 4428
+    "previewBytes": 2510,
+    "presentationCrop": [
+      65,
+      39,
+      433,
+      585
+    ],
+    "display": "/media/global-rain-kissed-lotus-0-display.webp",
+    "displayWidth": 368,
+    "displayHeight": 546,
+    "displayBytes": 25780,
+    "presentationSubject": "female"
   },
   {
     "cosmeticId": "chi-zou-xi-feng",
@@ -4962,12 +5762,23 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260402/5a9398c1-58cc-49c6-adb8-c84f16bd438a.png",
     "thumbnail": "/media/chi-zou-xi-feng-1-thumb.webp",
     "full": "/media/chi-zou-xi-feng-1-full.webp",
-    "thumbnailBytes": 57370,
+    "thumbnailBytes": 46364,
     "fullBytes": 186720,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/chi-zou-xi-feng-1-preview.webp",
-    "previewBytes": 4702
+    "previewBytes": 2982,
+    "presentationCrop": [
+      65,
+      39,
+      433,
+      585
+    ],
+    "display": "/media/chi-zou-xi-feng-1-display.webp",
+    "displayWidth": 368,
+    "displayHeight": 546,
+    "displayBytes": 47122,
+    "presentationSubject": "female"
   },
   {
     "cosmeticId": "global-moonlit-pavilion",
@@ -4975,12 +5786,23 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260402/5a9398c1-58cc-49c6-adb8-c84f16bd438a.png",
     "thumbnail": "/media/global-moonlit-pavilion-0-thumb.webp",
     "full": "/media/global-moonlit-pavilion-0-full.webp",
-    "thumbnailBytes": 23172,
+    "thumbnailBytes": 52826,
     "fullBytes": 75524,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/global-moonlit-pavilion-0-preview.webp",
-    "previewBytes": 2054
+    "previewBytes": 3678,
+    "presentationCrop": [
+      503,
+      15,
+      736,
+      365
+    ],
+    "display": "/media/global-moonlit-pavilion-0-display.webp",
+    "displayWidth": 233,
+    "displayHeight": 350,
+    "displayBytes": 24936,
+    "presentationSubject": "female"
   },
   {
     "cosmeticId": "global-boundless-heart",
@@ -4988,12 +5810,23 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260402/5a9398c1-58cc-49c6-adb8-c84f16bd438a.png",
     "thumbnail": "/media/global-boundless-heart-0-thumb.webp",
     "full": "/media/global-boundless-heart-0-full.webp",
-    "thumbnailBytes": 17414,
+    "thumbnailBytes": 37464,
     "fullBytes": 48618,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/global-boundless-heart-0-preview.webp",
-    "previewBytes": 1822
+    "previewBytes": 3324,
+    "presentationCrop": [
+      494,
+      15,
+      718,
+      357
+    ],
+    "display": "/media/global-boundless-heart-0-display.webp",
+    "displayWidth": 224,
+    "displayHeight": 342,
+    "displayBytes": 19454,
+    "presentationSubject": "female"
   },
   {
     "cosmeticId": "global-dusk-rider",
@@ -5001,12 +5834,23 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260402/5a9398c1-58cc-49c6-adb8-c84f16bd438a.png",
     "thumbnail": "/media/global-dusk-rider-0-thumb.webp",
     "full": "/media/global-dusk-rider-0-full.webp",
-    "thumbnailBytes": 19950,
+    "thumbnailBytes": 35338,
     "fullBytes": 54088,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/global-dusk-rider-0-preview.webp",
-    "previewBytes": 2308
+    "previewBytes": 3392,
+    "presentationCrop": [
+      494,
+      15,
+      699,
+      351
+    ],
+    "display": "/media/global-dusk-rider-0-display.webp",
+    "displayWidth": 205,
+    "displayHeight": 336,
+    "displayBytes": 18790,
+    "presentationSubject": "female"
   },
   {
     "cosmeticId": "global-leap-of-tumult",
@@ -5014,12 +5858,22 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260402/5a9398c1-58cc-49c6-adb8-c84f16bd438a.png",
     "thumbnail": "/media/global-leap-of-tumult-0-thumb.webp",
     "full": "/media/global-leap-of-tumult-0-full.webp",
-    "thumbnailBytes": 23014,
+    "thumbnailBytes": 35590,
     "fullBytes": 66672,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/global-leap-of-tumult-0-preview.webp",
-    "previewBytes": 2302
+    "previewBytes": 2122,
+    "presentationCrop": [
+      70,
+      38,
+      861,
+      293
+    ],
+    "display": "/media/global-leap-of-tumult-0-display.webp",
+    "displayWidth": 791,
+    "displayHeight": 255,
+    "displayBytes": 48172
   },
   {
     "cosmeticId": "global-shaliwa-s-guise",
@@ -5027,12 +5881,22 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260402/5a9398c1-58cc-49c6-adb8-c84f16bd438a.png",
     "thumbnail": "/media/global-shaliwa-s-guise-0-thumb.webp",
     "full": "/media/global-shaliwa-s-guise-0-full.webp",
-    "thumbnailBytes": 13916,
+    "thumbnailBytes": 24350,
     "fullBytes": 30900,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/global-shaliwa-s-guise-0-preview.webp",
-    "previewBytes": 1852
+    "previewBytes": 1654,
+    "presentationCrop": [
+      70,
+      41,
+      862,
+      317
+    ],
+    "display": "/media/global-shaliwa-s-guise-0-display.webp",
+    "displayWidth": 792,
+    "displayHeight": 276,
+    "displayBytes": 20924
   },
   {
     "cosmeticId": "sha-li-wa",
@@ -5040,12 +5904,22 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260402/5a9398c1-58cc-49c6-adb8-c84f16bd438a.png",
     "thumbnail": "/media/sha-li-wa-1-thumb.webp",
     "full": "/media/sha-li-wa-1-full.webp",
-    "thumbnailBytes": 16518,
+    "thumbnailBytes": 31360,
     "fullBytes": 40032,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/sha-li-wa-1-preview.webp",
-    "previewBytes": 2012
+    "previewBytes": 1804,
+    "presentationCrop": [
+      70,
+      45,
+      862,
+      351
+    ],
+    "display": "/media/sha-li-wa-1-display.webp",
+    "displayWidth": 792,
+    "displayHeight": 306,
+    "displayBytes": 30358
   },
   {
     "cosmeticId": "wu-hui",
@@ -5053,12 +5927,22 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260402/5a9398c1-58cc-49c6-adb8-c84f16bd438a.png",
     "thumbnail": "/media/wu-hui-1-thumb.webp",
     "full": "/media/wu-hui-1-full.webp",
-    "thumbnailBytes": 13342,
+    "thumbnailBytes": 42140,
     "fullBytes": 36528,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/wu-hui-1-preview.webp",
-    "previewBytes": 1394
+    "previewBytes": 1292,
+    "presentationCrop": [
+      70,
+      38,
+      861,
+      294
+    ],
+    "display": "/media/wu-hui-1-display.webp",
+    "displayWidth": 791,
+    "displayHeight": 256,
+    "displayBytes": 27756
   },
   {
     "cosmeticId": "wang-xiang-ke",
@@ -5066,12 +5950,23 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260402/5a9398c1-58cc-49c6-adb8-c84f16bd438a.png",
     "thumbnail": "/media/wang-xiang-ke-1-thumb.webp",
     "full": "/media/wang-xiang-ke-1-full.webp",
-    "thumbnailBytes": 38754,
+    "thumbnailBytes": 34978,
     "fullBytes": 117574,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/wang-xiang-ke-1-preview.webp",
-    "previewBytes": 4448
+    "previewBytes": 2924,
+    "presentationCrop": [
+      65,
+      40,
+      433,
+      600
+    ],
+    "display": "/media/wang-xiang-ke-1-display.webp",
+    "displayWidth": 368,
+    "displayHeight": 560,
+    "displayBytes": 32488,
+    "presentationSubject": "female"
   },
   {
     "cosmeticId": "yan-hai-xiang",
@@ -5079,12 +5974,23 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260402/5a9398c1-58cc-49c6-adb8-c84f16bd438a.png",
     "thumbnail": "/media/yan-hai-xiang-1-thumb.webp",
     "full": "/media/yan-hai-xiang-1-full.webp",
-    "thumbnailBytes": 44748,
+    "thumbnailBytes": 39668,
     "fullBytes": 125928,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/yan-hai-xiang-1-preview.webp",
-    "previewBytes": 4938
+    "previewBytes": 3126,
+    "presentationCrop": [
+      512,
+      39,
+      875,
+      585
+    ],
+    "display": "/media/yan-hai-xiang-1-display.webp",
+    "displayWidth": 363,
+    "displayHeight": 546,
+    "displayBytes": 36094,
+    "presentationSubject": "female"
   },
   {
     "cosmeticId": "feng-xi-wan-gu",
@@ -5092,12 +5998,22 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260402/5a9398c1-58cc-49c6-adb8-c84f16bd438a.png",
     "thumbnail": "/media/feng-xi-wan-gu-1-thumb.webp",
     "full": "/media/feng-xi-wan-gu-1-full.webp",
-    "thumbnailBytes": 21970,
+    "thumbnailBytes": 43920,
     "fullBytes": 75170,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/feng-xi-wan-gu-1-preview.webp",
-    "previewBytes": 1962
+    "previewBytes": 1980,
+    "presentationCrop": [
+      70,
+      38,
+      862,
+      294
+    ],
+    "display": "/media/feng-xi-wan-gu-1-display.webp",
+    "displayWidth": 792,
+    "displayHeight": 256,
+    "displayBytes": 56140
   },
   {
     "cosmeticId": "qing-cao-yuan",
@@ -5105,12 +6021,23 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260402/5a9398c1-58cc-49c6-adb8-c84f16bd438a.png",
     "thumbnail": "/media/qing-cao-yuan-1-thumb.webp",
     "full": "/media/qing-cao-yuan-1-full.webp",
-    "thumbnailBytes": 50570,
+    "thumbnailBytes": 31552,
     "fullBytes": 129244,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/qing-cao-yuan-1-preview.webp",
-    "previewBytes": 5426
+    "previewBytes": 3254,
+    "presentationCrop": [
+      65,
+      39,
+      433,
+      584
+    ],
+    "display": "/media/qing-cao-yuan-1-display.webp",
+    "displayWidth": 368,
+    "displayHeight": 545,
+    "displayBytes": 32538,
+    "presentationSubject": "female"
   },
   {
     "cosmeticId": "global-where-clouds-repose",
@@ -5118,12 +6045,23 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260402/5a9398c1-58cc-49c6-adb8-c84f16bd438a.png",
     "thumbnail": "/media/global-where-clouds-repose-0-thumb.webp",
     "full": "/media/global-where-clouds-repose-0-full.webp",
-    "thumbnailBytes": 52706,
+    "thumbnailBytes": 38016,
     "fullBytes": 139504,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/global-where-clouds-repose-0-preview.webp",
-    "previewBytes": 6224
+    "previewBytes": 3204,
+    "presentationCrop": [
+      65,
+      40,
+      433,
+      600
+    ],
+    "display": "/media/global-where-clouds-repose-0-display.webp",
+    "displayWidth": 368,
+    "displayHeight": 560,
+    "displayBytes": 32038,
+    "presentationSubject": "female"
   },
   {
     "cosmeticId": "global-sundered-vow",
@@ -5131,12 +6069,22 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260402/5a9398c1-58cc-49c6-adb8-c84f16bd438a.png",
     "thumbnail": "/media/global-sundered-vow-0-thumb.webp",
     "full": "/media/global-sundered-vow-0-full.webp",
-    "thumbnailBytes": 13942,
+    "thumbnailBytes": 24918,
     "fullBytes": 34164,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/global-sundered-vow-0-preview.webp",
-    "previewBytes": 1650
+    "previewBytes": 1518,
+    "presentationCrop": [
+      70,
+      38,
+      862,
+      294
+    ],
+    "display": "/media/global-sundered-vow-0-display.webp",
+    "displayWidth": 792,
+    "displayHeight": 256,
+    "displayBytes": 24400
   },
   {
     "cosmeticId": "cang-yinwan-gu-bei-chen",
@@ -5144,12 +6092,22 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260402/5a9398c1-58cc-49c6-adb8-c84f16bd438a.png",
     "thumbnail": "/media/cang-yinwan-gu-bei-chen-1-thumb.webp",
     "full": "/media/cang-yinwan-gu-bei-chen-1-full.webp",
-    "thumbnailBytes": 34156,
+    "thumbnailBytes": 29460,
     "fullBytes": 90312,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/cang-yinwan-gu-bei-chen-1-preview.webp",
-    "previewBytes": 3560
+    "previewBytes": 1624,
+    "presentationCrop": [
+      75,
+      41,
+      857,
+      344
+    ],
+    "display": "/media/cang-yinwan-gu-bei-chen-1-display.webp",
+    "displayWidth": 782,
+    "displayHeight": 303,
+    "displayBytes": 28034
   },
   {
     "cosmeticId": "global-lute-of-love",
@@ -5157,12 +6115,23 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260402/5a9398c1-58cc-49c6-adb8-c84f16bd438a.png",
     "thumbnail": "/media/global-lute-of-love-0-thumb.webp",
     "full": "/media/global-lute-of-love-0-full.webp",
-    "thumbnailBytes": 14856,
+    "thumbnailBytes": 31228,
     "fullBytes": 38330,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/global-lute-of-love-0-preview.webp",
-    "previewBytes": 1642
+    "previewBytes": 3422,
+    "presentationCrop": [
+      466,
+      14,
+      708,
+      337
+    ],
+    "display": "/media/global-lute-of-love-0-display.webp",
+    "displayWidth": 242,
+    "displayHeight": 323,
+    "displayBytes": 18218,
+    "presentationSubject": "female"
   },
   {
     "cosmeticId": "global-northern-star-s-dominion",
@@ -5170,12 +6139,22 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260402/5a9398c1-58cc-49c6-adb8-c84f16bd438a.png",
     "thumbnail": "/media/global-northern-star-s-dominion-0-thumb.webp",
     "full": "/media/global-northern-star-s-dominion-0-full.webp",
-    "thumbnailBytes": 17410,
+    "thumbnailBytes": 24600,
     "fullBytes": 54158,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/global-northern-star-s-dominion-0-preview.webp",
-    "previewBytes": 1588
+    "previewBytes": 1386,
+    "presentationCrop": [
+      70,
+      38,
+      862,
+      294
+    ],
+    "display": "/media/global-northern-star-s-dominion-0-display.webp",
+    "displayWidth": 792,
+    "displayHeight": 256,
+    "displayBytes": 33362
   },
   {
     "cosmeticId": "global-unfurling-lotus",
@@ -5183,12 +6162,22 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260402/5a9398c1-58cc-49c6-adb8-c84f16bd438a.png",
     "thumbnail": "/media/global-unfurling-lotus-0-thumb.webp",
     "full": "/media/global-unfurling-lotus-0-full.webp",
-    "thumbnailBytes": 24178,
+    "thumbnailBytes": 35026,
     "fullBytes": 67258,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/global-unfurling-lotus-0-preview.webp",
-    "previewBytes": 2274
+    "previewBytes": 2164,
+    "presentationCrop": [
+      70,
+      38,
+      858,
+      294
+    ],
+    "display": "/media/global-unfurling-lotus-0-display.webp",
+    "displayWidth": 788,
+    "displayHeight": 256,
+    "displayBytes": 48116
   },
   {
     "cosmeticId": "zhui-bu-shang-e",
@@ -5495,12 +6484,23 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260527/5473f2c3-12f6-4fc5-afd5-95f5b80e47da.png",
     "thumbnail": "/media/global-graceful-fox-0-thumb.webp",
     "full": "/media/global-graceful-fox-0-full.webp",
-    "thumbnailBytes": 36016,
+    "thumbnailBytes": 46352,
     "fullBytes": 395472,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/global-graceful-fox-0-preview.webp",
-    "previewBytes": 3138
+    "previewBytes": 3140,
+    "presentationCrop": [
+      513,
+      59,
+      876,
+      735
+    ],
+    "display": "/media/global-graceful-fox-0-display.webp",
+    "displayWidth": 363,
+    "displayHeight": 676,
+    "displayBytes": 58156,
+    "presentationSubject": "female"
   },
   {
     "cosmeticId": "global-forest-sovereign",
@@ -5508,12 +6508,23 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260527/5473f2c3-12f6-4fc5-afd5-95f5b80e47da.png",
     "thumbnail": "/media/global-forest-sovereign-0-thumb.webp",
     "full": "/media/global-forest-sovereign-0-full.webp",
-    "thumbnailBytes": 64324,
+    "thumbnailBytes": 50080,
     "fullBytes": 182020,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/global-forest-sovereign-0-preview.webp",
-    "previewBytes": 6292
+    "previewBytes": 4272,
+    "presentationCrop": [
+      512,
+      39,
+      875,
+      584
+    ],
+    "display": "/media/global-forest-sovereign-0-display.webp",
+    "displayWidth": 363,
+    "displayHeight": 545,
+    "displayBytes": 50092,
+    "presentationSubject": "female"
   },
   {
     "cosmeticId": "global-radiant-majesty",
@@ -5521,12 +6532,23 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260527/5473f2c3-12f6-4fc5-afd5-95f5b80e47da.png",
     "thumbnail": "/media/global-radiant-majesty-0-thumb.webp",
     "full": "/media/global-radiant-majesty-0-full.webp",
-    "thumbnailBytes": 69492,
+    "thumbnailBytes": 64806,
     "fullBytes": 202402,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/global-radiant-majesty-0-preview.webp",
-    "previewBytes": 6640
+    "previewBytes": 4536,
+    "presentationCrop": [
+      65,
+      39,
+      433,
+      584
+    ],
+    "display": "/media/global-radiant-majesty-0-display.webp",
+    "displayWidth": 368,
+    "displayHeight": 545,
+    "displayBytes": 58230,
+    "presentationSubject": "female"
   },
   {
     "cosmeticId": "global-crimson-cloud",
@@ -5534,12 +6556,23 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260527/5473f2c3-12f6-4fc5-afd5-95f5b80e47da.png",
     "thumbnail": "/media/global-crimson-cloud-0-thumb.webp",
     "full": "/media/global-crimson-cloud-0-full.webp",
-    "thumbnailBytes": 45768,
+    "thumbnailBytes": 37718,
     "fullBytes": 129254,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/global-crimson-cloud-0-preview.webp",
-    "previewBytes": 4104
+    "previewBytes": 3310,
+    "presentationCrop": [
+      186,
+      485,
+      447,
+      851
+    ],
+    "display": "/media/global-crimson-cloud-0-display.webp",
+    "displayWidth": 261,
+    "displayHeight": 366,
+    "displayBytes": 23234,
+    "presentationSubject": "female"
   },
   {
     "cosmeticId": "global-moonlit-howl",
@@ -5547,12 +6580,23 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260527/5473f2c3-12f6-4fc5-afd5-95f5b80e47da.png",
     "thumbnail": "/media/global-moonlit-howl-0-thumb.webp",
     "full": "/media/global-moonlit-howl-0-full.webp",
-    "thumbnailBytes": 59582,
+    "thumbnailBytes": 47596,
     "fullBytes": 168518,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/global-moonlit-howl-0-preview.webp",
-    "previewBytes": 5620
+    "previewBytes": 3954,
+    "presentationCrop": [
+      65,
+      39,
+      433,
+      584
+    ],
+    "display": "/media/global-moonlit-howl-0-display.webp",
+    "displayWidth": 368,
+    "displayHeight": 545,
+    "displayBytes": 46398,
+    "presentationSubject": "female"
   },
   {
     "cosmeticId": "global-clear-frost",
@@ -5560,12 +6604,22 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260527/5473f2c3-12f6-4fc5-afd5-95f5b80e47da.png",
     "thumbnail": "/media/global-clear-frost-0-thumb.webp",
     "full": "/media/global-clear-frost-0-full.webp",
-    "thumbnailBytes": 18106,
+    "thumbnailBytes": 18830,
     "fullBytes": 52688,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/global-clear-frost-0-preview.webp",
-    "previewBytes": 1700
+    "previewBytes": 1510,
+    "presentationCrop": [
+      70,
+      45,
+      861,
+      349
+    ],
+    "display": "/media/global-clear-frost-0-display.webp",
+    "displayWidth": 791,
+    "displayHeight": 304,
+    "displayBytes": 41690
   },
   {
     "cosmeticId": "global-imperial-stag",
@@ -5573,12 +6627,22 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260527/5473f2c3-12f6-4fc5-afd5-95f5b80e47da.png",
     "thumbnail": "/media/global-imperial-stag-0-thumb.webp",
     "full": "/media/global-imperial-stag-0-full.webp",
-    "thumbnailBytes": 12452,
+    "thumbnailBytes": 26772,
     "fullBytes": 31168,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/global-imperial-stag-0-preview.webp",
-    "previewBytes": 1322
+    "previewBytes": 1158,
+    "presentationCrop": [
+      70,
+      41,
+      861,
+      315
+    ],
+    "display": "/media/global-imperial-stag-0-display.webp",
+    "displayWidth": 791,
+    "displayHeight": 274,
+    "displayBytes": 18154
   },
   {
     "cosmeticId": "global-broom-and-rooster",
@@ -5586,12 +6650,22 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260527/5473f2c3-12f6-4fc5-afd5-95f5b80e47da.png",
     "thumbnail": "/media/global-broom-and-rooster-0-thumb.webp",
     "full": "/media/global-broom-and-rooster-0-full.webp",
-    "thumbnailBytes": 18970,
+    "thumbnailBytes": 23530,
     "fullBytes": 52766,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/global-broom-and-rooster-0-preview.webp",
-    "previewBytes": 2034
+    "previewBytes": 1792,
+    "presentationCrop": [
+      70,
+      38,
+      860,
+      292
+    ],
+    "display": "/media/global-broom-and-rooster-0-display.webp",
+    "displayWidth": 790,
+    "displayHeight": 254,
+    "displayBytes": 37894
   },
   {
     "cosmeticId": "global-silent-night-bell",
@@ -5599,12 +6673,23 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260527/5473f2c3-12f6-4fc5-afd5-95f5b80e47da.png",
     "thumbnail": "/media/global-silent-night-bell-0-thumb.webp",
     "full": "/media/global-silent-night-bell-0-full.webp",
-    "thumbnailBytes": 51746,
+    "thumbnailBytes": 38434,
     "fullBytes": 150726,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/global-silent-night-bell-0-preview.webp",
-    "previewBytes": 4398
+    "previewBytes": 2772,
+    "presentationCrop": [
+      65,
+      39,
+      433,
+      584
+    ],
+    "display": "/media/global-silent-night-bell-0-display.webp",
+    "displayWidth": 368,
+    "displayHeight": 545,
+    "displayBytes": 38208,
+    "presentationSubject": "female"
   },
   {
     "cosmeticId": "global-goose-buster",
@@ -5612,12 +6697,22 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260527/5473f2c3-12f6-4fc5-afd5-95f5b80e47da.png",
     "thumbnail": "/media/global-goose-buster-0-thumb.webp",
     "full": "/media/global-goose-buster-0-full.webp",
-    "thumbnailBytes": 21774,
+    "thumbnailBytes": 19942,
     "fullBytes": 56618,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/global-goose-buster-0-preview.webp",
-    "previewBytes": 3104
+    "previewBytes": 2468,
+    "presentationCrop": [
+      345,
+      67,
+      596,
+      443
+    ],
+    "display": "/media/global-goose-buster-0-display.webp",
+    "displayWidth": 251,
+    "displayHeight": 376,
+    "displayBytes": 13122
   },
   {
     "cosmeticId": "global-starfrost-butterfly",
@@ -5625,12 +6720,22 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260609/8cfa95f3-bc14-458b-9216-c487952e79d3.png",
     "thumbnail": "/media/global-starfrost-butterfly-0-thumb.webp",
     "full": "/media/global-starfrost-butterfly-0-full.webp",
-    "thumbnailBytes": 13894,
+    "thumbnailBytes": 23162,
     "fullBytes": 35968,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/global-starfrost-butterfly-0-preview.webp",
-    "previewBytes": 1772
+    "previewBytes": 1524,
+    "presentationCrop": [
+      73,
+      42,
+      902,
+      324
+    ],
+    "display": "/media/global-starfrost-butterfly-0-display.webp",
+    "displayWidth": 829,
+    "displayHeight": 282,
+    "displayBytes": 23392
   },
   {
     "cosmeticId": "global-severing-halberd",
@@ -5638,12 +6743,22 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260609/8cfa95f3-bc14-458b-9216-c487952e79d3.png",
     "thumbnail": "/media/global-severing-halberd-0-thumb.webp",
     "full": "/media/global-severing-halberd-0-full.webp",
-    "thumbnailBytes": 19548,
+    "thumbnailBytes": 31140,
     "fullBytes": 52380,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/global-severing-halberd-0-preview.webp",
-    "previewBytes": 1960
+    "previewBytes": 1926,
+    "presentationCrop": [
+      70,
+      38,
+      860,
+      293
+    ],
+    "display": "/media/global-severing-halberd-0-display.webp",
+    "displayWidth": 790,
+    "displayHeight": 255,
+    "displayBytes": 39160
   },
   {
     "cosmeticId": "global-mountain-s-veil",
@@ -5651,12 +6766,23 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260609/8cfa95f3-bc14-458b-9216-c487952e79d3.png",
     "thumbnail": "/media/global-mountain-s-veil-0-thumb.webp",
     "full": "/media/global-mountain-s-veil-0-full.webp",
-    "thumbnailBytes": 11170,
+    "thumbnailBytes": 30940,
     "fullBytes": 30852,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/global-mountain-s-veil-0-preview.webp",
-    "previewBytes": 1016
+    "previewBytes": 4096,
+    "presentationCrop": [
+      219,
+      72,
+      410,
+      266
+    ],
+    "display": "/media/global-mountain-s-veil-0-display.webp",
+    "displayWidth": 191,
+    "displayHeight": 194,
+    "displayBytes": 10188,
+    "presentationSubject": "female"
   },
   {
     "cosmeticId": "global-waking-brush",
@@ -5664,12 +6790,23 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260609/8cfa95f3-bc14-458b-9216-c487952e79d3.png",
     "thumbnail": "/media/global-waking-brush-0-thumb.webp",
     "full": "/media/global-waking-brush-0-full.webp",
-    "thumbnailBytes": 59218,
+    "thumbnailBytes": 51778,
     "fullBytes": 173362,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/global-waking-brush-0-preview.webp",
-    "previewBytes": 5614
+    "previewBytes": 3518,
+    "presentationCrop": [
+      512,
+      39,
+      875,
+      584
+    ],
+    "display": "/media/global-waking-brush-0-display.webp",
+    "displayWidth": 363,
+    "displayHeight": 545,
+    "displayBytes": 42730,
+    "presentationSubject": "female"
   },
   {
     "cosmeticId": "global-silent-voice-phoenix-ascent",
@@ -5677,12 +6814,22 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260609/8cfa95f3-bc14-458b-9216-c487952e79d3.png",
     "thumbnail": "/media/global-silent-voice-phoenix-ascent-0-thumb.webp",
     "full": "/media/global-silent-voice-phoenix-ascent-0-full.webp",
-    "thumbnailBytes": 21928,
+    "thumbnailBytes": 46304,
     "fullBytes": 63694,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/global-silent-voice-phoenix-ascent-0-preview.webp",
-    "previewBytes": 2024
+    "previewBytes": 4032,
+    "presentationCrop": [
+      84,
+      33,
+      419,
+      299
+    ],
+    "display": "/media/global-silent-voice-phoenix-ascent-0-display.webp",
+    "displayWidth": 335,
+    "displayHeight": 266,
+    "displayBytes": 26330
   },
   {
     "cosmeticId": "cang-yinlong-yue-xiao-han",
@@ -5690,12 +6837,22 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260703/d7597d66-5230-4f49-9443-319a1281a5c3.png",
     "thumbnail": "/media/cang-yinlong-yue-xiao-han-1-thumb.webp",
     "full": "/media/cang-yinlong-yue-xiao-han-1-full.webp",
-    "thumbnailBytes": 33350,
+    "thumbnailBytes": 36210,
     "fullBytes": 95348,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/cang-yinlong-yue-xiao-han-1-preview.webp",
-    "previewBytes": 2996
+    "previewBytes": 1584,
+    "presentationCrop": [
+      94,
+      43,
+      863,
+      341
+    ],
+    "display": "/media/cang-yinlong-yue-xiao-han-1-display.webp",
+    "displayWidth": 769,
+    "displayHeight": 298,
+    "displayBytes": 37798
   },
   {
     "cosmeticId": "ni-shang-huai-tian",
@@ -5703,12 +6860,22 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260703/d7597d66-5230-4f49-9443-319a1281a5c3.png",
     "thumbnail": "/media/ni-shang-huai-tian-1-thumb.webp",
     "full": "/media/ni-shang-huai-tian-1-full.webp",
-    "thumbnailBytes": 19008,
+    "thumbnailBytes": 37068,
     "fullBytes": 55930,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/ni-shang-huai-tian-1-preview.webp",
-    "previewBytes": 1694
+    "previewBytes": 1520,
+    "presentationCrop": [
+      70,
+      38,
+      868,
+      295
+    ],
+    "display": "/media/ni-shang-huai-tian-1-display.webp",
+    "displayWidth": 798,
+    "displayHeight": 257,
+    "displayBytes": 37818
   },
   {
     "cosmeticId": "jian-yudiao-ling",
@@ -5716,12 +6883,23 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260703/d7597d66-5230-4f49-9443-319a1281a5c3.png",
     "thumbnail": "/media/jian-yudiao-ling-1-thumb.webp",
     "full": "/media/jian-yudiao-ling-1-full.webp",
-    "thumbnailBytes": 59014,
+    "thumbnailBytes": 60646,
     "fullBytes": 163344,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/jian-yudiao-ling-1-preview.webp",
-    "previewBytes": 6502
+    "previewBytes": 3962,
+    "presentationCrop": [
+      66,
+      39,
+      436,
+      588
+    ],
+    "display": "/media/jian-yudiao-ling-1-display.webp",
+    "displayWidth": 370,
+    "displayHeight": 549,
+    "displayBytes": 48662,
+    "presentationSubject": "female"
   },
   {
     "cosmeticId": "yu-you-rong-yan",
@@ -5729,12 +6907,22 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260703/d7597d66-5230-4f49-9443-319a1281a5c3.png",
     "thumbnail": "/media/yu-you-rong-yan-1-thumb.webp",
     "full": "/media/yu-you-rong-yan-1-full.webp",
-    "thumbnailBytes": 14712,
+    "thumbnailBytes": 14176,
     "fullBytes": 36206,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/yu-you-rong-yan-1-preview.webp",
-    "previewBytes": 1872
+    "previewBytes": 1858,
+    "presentationCrop": [
+      70,
+      46,
+      868,
+      354
+    ],
+    "display": "/media/yu-you-rong-yan-1-display.webp",
+    "displayWidth": 798,
+    "displayHeight": 308,
+    "displayBytes": 28280
   },
   {
     "cosmeticId": "global-inkveil-peak",
@@ -5742,12 +6930,22 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260717/4f44a978-f211-41b4-9cdd-4a3976d8793b.png",
     "thumbnail": "/media/global-inkveil-peak-0-thumb.webp",
     "full": "/media/global-inkveil-peak-0-full.webp",
-    "thumbnailBytes": 31284,
+    "thumbnailBytes": 40290,
     "fullBytes": 94156,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/global-inkveil-peak-0-preview.webp",
-    "previewBytes": 2924
+    "previewBytes": 2750,
+    "presentationCrop": [
+      70,
+      38,
+      861,
+      292
+    ],
+    "display": "/media/global-inkveil-peak-0-display.webp",
+    "displayWidth": 791,
+    "displayHeight": 254,
+    "displayBytes": 67504
   },
   {
     "cosmeticId": "han-ya-du-ying",
@@ -5755,12 +6953,22 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260717/4f44a978-f211-41b4-9cdd-4a3976d8793b.png",
     "thumbnail": "/media/han-ya-du-ying-1-thumb.webp",
     "full": "/media/han-ya-du-ying-1-full.webp",
-    "thumbnailBytes": 26346,
+    "thumbnailBytes": 63354,
     "fullBytes": 89456,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/han-ya-du-ying-1-preview.webp",
-    "previewBytes": 1692
+    "previewBytes": 1490,
+    "presentationCrop": [
+      70,
+      38,
+      862,
+      293
+    ],
+    "display": "/media/han-ya-du-ying-1-display.webp",
+    "displayWidth": 792,
+    "displayHeight": 255,
+    "displayBytes": 57938
   },
   {
     "cosmeticId": "global-moonlight-voyage",
@@ -5768,12 +6976,22 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260717/f02daf84-e057-4450-be78-eafb375b8eba.png",
     "thumbnail": "/media/global-moonlight-voyage-0-thumb.webp",
     "full": "/media/global-moonlight-voyage-0-full.webp",
-    "thumbnailBytes": 25114,
+    "thumbnailBytes": 36000,
     "fullBytes": 63834,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/global-moonlight-voyage-0-preview.webp",
-    "previewBytes": 2656
+    "previewBytes": 3108,
+    "presentationCrop": [
+      223,
+      26,
+      605,
+      328
+    ],
+    "display": "/media/global-moonlight-voyage-0-display.webp",
+    "displayWidth": 382,
+    "displayHeight": 302,
+    "displayBytes": 20516
   },
   {
     "cosmeticId": "global-vajra-s-awe",
@@ -5781,12 +6999,22 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260717/f02daf84-e057-4450-be78-eafb375b8eba.png",
     "thumbnail": "/media/global-vajra-s-awe-0-thumb.webp",
     "full": "/media/global-vajra-s-awe-0-full.webp",
-    "thumbnailBytes": 14680,
+    "thumbnailBytes": 27638,
     "fullBytes": 36614,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/global-vajra-s-awe-0-preview.webp",
-    "previewBytes": 1608
+    "previewBytes": 1510,
+    "presentationCrop": [
+      70,
+      38,
+      861,
+      293
+    ],
+    "display": "/media/global-vajra-s-awe-0-display.webp",
+    "displayWidth": 791,
+    "displayHeight": 255,
+    "displayBytes": 24692
   },
   {
     "cosmeticId": "global-silent-voice-sunstriking",
@@ -5794,12 +7022,22 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260430/3167a507-c015-49c7-b4bf-0820d5d56795.png",
     "thumbnail": "/media/global-silent-voice-sunstriking-0-thumb.webp",
     "full": "/media/global-silent-voice-sunstriking-0-full.webp",
-    "thumbnailBytes": 17038,
+    "thumbnailBytes": 46524,
     "fullBytes": 43904,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/global-silent-voice-sunstriking-0-preview.webp",
-    "previewBytes": 1866
+    "previewBytes": 1858,
+    "presentationCrop": [
+      70,
+      42,
+      862,
+      323
+    ],
+    "display": "/media/global-silent-voice-sunstriking-0-display.webp",
+    "displayWidth": 792,
+    "displayHeight": 281,
+    "displayBytes": 34484
   },
   {
     "cosmeticId": "global-twilight-of-dragons",
@@ -5807,12 +7045,22 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260430/3167a507-c015-49c7-b4bf-0820d5d56795.png",
     "thumbnail": "/media/global-twilight-of-dragons-0-thumb.webp",
     "full": "/media/global-twilight-of-dragons-0-full.webp",
-    "thumbnailBytes": 15860,
+    "thumbnailBytes": 24132,
     "fullBytes": 42382,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/global-twilight-of-dragons-0-preview.webp",
-    "previewBytes": 1610
+    "previewBytes": 1538,
+    "presentationCrop": [
+      70,
+      41,
+      861,
+      315
+    ],
+    "display": "/media/global-twilight-of-dragons-0-display.webp",
+    "displayWidth": 791,
+    "displayHeight": 274,
+    "displayBytes": 34208
   },
   {
     "cosmeticId": "global-tiger-spring-reverie",
@@ -5820,12 +7068,23 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260430/3167a507-c015-49c7-b4bf-0820d5d56795.png",
     "thumbnail": "/media/global-tiger-spring-reverie-0-thumb.webp",
     "full": "/media/global-tiger-spring-reverie-0-full.webp",
-    "thumbnailBytes": 48728,
+    "thumbnailBytes": 50422,
     "fullBytes": 143642,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/global-tiger-spring-reverie-0-preview.webp",
-    "previewBytes": 5092
+    "previewBytes": 3114,
+    "presentationCrop": [
+      512,
+      39,
+      875,
+      585
+    ],
+    "display": "/media/global-tiger-spring-reverie-0-display.webp",
+    "displayWidth": 363,
+    "displayHeight": 546,
+    "displayBytes": 39162,
+    "presentationSubject": "female"
   },
   {
     "cosmeticId": "fuyun-juan-ai",
@@ -5833,12 +7092,23 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260430/3167a507-c015-49c7-b4bf-0820d5d56795.png",
     "thumbnail": "/media/fuyun-juan-ai-1-thumb.webp",
     "full": "/media/fuyun-juan-ai-1-full.webp",
-    "thumbnailBytes": 48564,
+    "thumbnailBytes": 28588,
     "fullBytes": 139462,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/fuyun-juan-ai-1-preview.webp",
-    "previewBytes": 4910
+    "previewBytes": 2804,
+    "presentationCrop": [
+      65,
+      39,
+      433,
+      584
+    ],
+    "display": "/media/fuyun-juan-ai-1-display.webp",
+    "displayWidth": 368,
+    "displayHeight": 545,
+    "displayBytes": 30120,
+    "presentationSubject": "female"
   },
   {
     "cosmeticId": "global-mist-of-dawn",
@@ -5846,12 +7116,23 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260430/3167a507-c015-49c7-b4bf-0820d5d56795.png",
     "thumbnail": "/media/global-mist-of-dawn-0-thumb.webp",
     "full": "/media/global-mist-of-dawn-0-full.webp",
-    "thumbnailBytes": 47416,
+    "thumbnailBytes": 35582,
     "fullBytes": 132120,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/global-mist-of-dawn-0-preview.webp",
-    "previewBytes": 5120
+    "previewBytes": 2854,
+    "presentationCrop": [
+      65,
+      39,
+      433,
+      584
+    ],
+    "display": "/media/global-mist-of-dawn-0-display.webp",
+    "displayWidth": 368,
+    "displayHeight": 545,
+    "displayBytes": 33508,
+    "presentationSubject": "female"
   },
   {
     "cosmeticId": "global-leaning-on-the-wind",
@@ -5859,12 +7140,23 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260430/3167a507-c015-49c7-b4bf-0820d5d56795.png",
     "thumbnail": "/media/global-leaning-on-the-wind-0-thumb.webp",
     "full": "/media/global-leaning-on-the-wind-0-full.webp",
-    "thumbnailBytes": 14792,
+    "thumbnailBytes": 23426,
     "fullBytes": 37558,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/global-leaning-on-the-wind-0-preview.webp",
-    "previewBytes": 1778
+    "previewBytes": 2830,
+    "presentationCrop": [
+      475,
+      13,
+      699,
+      315
+    ],
+    "display": "/media/global-leaning-on-the-wind-0-display.webp",
+    "displayWidth": 224,
+    "displayHeight": 302,
+    "displayBytes": 13068,
+    "presentationSubject": "female"
   },
   {
     "cosmeticId": "global-toad-s-luminescence",
@@ -5872,12 +7164,22 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260430/3167a507-c015-49c7-b4bf-0820d5d56795.png",
     "thumbnail": "/media/global-toad-s-luminescence-0-thumb.webp",
     "full": "/media/global-toad-s-luminescence-0-full.webp",
-    "thumbnailBytes": 12668,
+    "thumbnailBytes": 22820,
     "fullBytes": 30376,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/global-toad-s-luminescence-0-preview.webp",
-    "previewBytes": 1534
+    "previewBytes": 1414,
+    "presentationCrop": [
+      70,
+      38,
+      862,
+      293
+    ],
+    "display": "/media/global-toad-s-luminescence-0-display.webp",
+    "displayWidth": 792,
+    "displayHeight": 255,
+    "displayBytes": 21348
   },
   {
     "cosmeticId": "global-guardian-of-spirit",
@@ -5885,12 +7187,22 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260430/3167a507-c015-49c7-b4bf-0820d5d56795.png",
     "thumbnail": "/media/global-guardian-of-spirit-0-thumb.webp",
     "full": "/media/global-guardian-of-spirit-0-full.webp",
-    "thumbnailBytes": 14794,
+    "thumbnailBytes": 29102,
     "fullBytes": 40144,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/global-guardian-of-spirit-0-preview.webp",
-    "previewBytes": 1612
+    "previewBytes": 1314,
+    "presentationCrop": [
+      70,
+      38,
+      861,
+      292
+    ],
+    "display": "/media/global-guardian-of-spirit-0-display.webp",
+    "displayWidth": 791,
+    "displayHeight": 254,
+    "displayBytes": 23790
   },
   {
     "cosmeticId": "xi-fang-shi",
@@ -5898,12 +7210,23 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260430/3167a507-c015-49c7-b4bf-0820d5d56795.png",
     "thumbnail": "/media/xi-fang-shi-1-thumb.webp",
     "full": "/media/xi-fang-shi-1-full.webp",
-    "thumbnailBytes": 58996,
+    "thumbnailBytes": 42206,
     "fullBytes": 157810,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/xi-fang-shi-1-preview.webp",
-    "previewBytes": 6442
+    "previewBytes": 3916,
+    "presentationCrop": [
+      512,
+      39,
+      875,
+      583
+    ],
+    "display": "/media/xi-fang-shi-1-display.webp",
+    "displayWidth": 363,
+    "displayHeight": 544,
+    "displayBytes": 40026,
+    "presentationSubject": "female"
   },
   {
     "cosmeticId": "kong-que-yao",
@@ -5911,12 +7234,23 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260430/3167a507-c015-49c7-b4bf-0820d5d56795.png",
     "thumbnail": "/media/kong-que-yao-1-thumb.webp",
     "full": "/media/kong-que-yao-1-full.webp",
-    "thumbnailBytes": 72008,
+    "thumbnailBytes": 73584,
     "fullBytes": 205820,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/kong-que-yao-1-preview.webp",
-    "previewBytes": 7260
+    "previewBytes": 4888,
+    "presentationCrop": [
+      65,
+      39,
+      433,
+      584
+    ],
+    "display": "/media/kong-que-yao-1-display.webp",
+    "displayWidth": 368,
+    "displayHeight": 545,
+    "displayBytes": 56636,
+    "presentationSubject": "female"
   },
   {
     "cosmeticId": "global-returning-sparrow-dream",
@@ -5924,12 +7258,23 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260430/3167a507-c015-49c7-b4bf-0820d5d56795.png",
     "thumbnail": "/media/global-returning-sparrow-dream-0-thumb.webp",
     "full": "/media/global-returning-sparrow-dream-0-full.webp",
-    "thumbnailBytes": 45918,
+    "thumbnailBytes": 31802,
     "fullBytes": 131372,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/global-returning-sparrow-dream-0-preview.webp",
-    "previewBytes": 5488
+    "previewBytes": 2494,
+    "presentationCrop": [
+      79,
+      34,
+      428,
+      688
+    ],
+    "display": "/media/global-returning-sparrow-dream-0-display.webp",
+    "displayWidth": 349,
+    "displayHeight": 654,
+    "displayBytes": 32554,
+    "presentationSubject": "female"
   },
   {
     "cosmeticId": "global-wind-blows-into-the-painting",
@@ -5937,12 +7282,23 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260430/3167a507-c015-49c7-b4bf-0820d5d56795.png",
     "thumbnail": "/media/global-wind-blows-into-the-painting-0-thumb.webp",
     "full": "/media/global-wind-blows-into-the-painting-0-full.webp",
-    "thumbnailBytes": 44872,
+    "thumbnailBytes": 48594,
     "fullBytes": 138092,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/global-wind-blows-into-the-painting-0-preview.webp",
-    "previewBytes": 4942
+    "previewBytes": 3690,
+    "presentationCrop": [
+      65,
+      39,
+      433,
+      583
+    ],
+    "display": "/media/global-wind-blows-into-the-painting-0-display.webp",
+    "displayWidth": 368,
+    "displayHeight": 544,
+    "displayBytes": 41746,
+    "presentationSubject": "female"
   },
   {
     "cosmeticId": "global-bone-appetite",
@@ -5950,12 +7306,22 @@
     "originalUrl": "https://r.res.easebar.com/pic/20260430/3167a507-c015-49c7-b4bf-0820d5d56795.png",
     "thumbnail": "/media/global-bone-appetite-0-thumb.webp",
     "full": "/media/global-bone-appetite-0-full.webp",
-    "thumbnailBytes": 6032,
+    "thumbnailBytes": 8280,
     "fullBytes": 13460,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/global-bone-appetite-0-preview.webp",
-    "previewBytes": 812
+    "previewBytes": 562,
+    "presentationCrop": [
+      70,
+      38,
+      861,
+      292
+    ],
+    "display": "/media/global-bone-appetite-0-display.webp",
+    "displayWidth": 791,
+    "displayHeight": 254,
+    "displayBytes": 7066
   },
   {
     "cosmeticId": "kuai-zai-feng",
@@ -7672,24 +9038,29 @@
     "sourcePage": "https://www.wherewindsmeetgame.com/news/official/921update.html",
     "thumbnail": "/media/jin-yan-yu-tuan-0-thumb.webp",
     "full": "/media/jin-yan-yu-tuan-0-full.webp",
-    "thumbnailBytes": 48414,
-    "fullBytes": 140134,
+    "thumbnailBytes": 45506,
+    "fullBytes": 141082,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "sourceCrop": [
-      43,
-      2497,
-      965,
-      3353
-    ],
-    "thumbnailCrop": [
-      524,
-      2538,
-      956,
-      3078
+      35,
+      2492,
+      973,
+      3358
     ],
     "preview": "/media/jin-yan-yu-tuan-0-preview.webp",
-    "previewBytes": 5244
+    "previewBytes": 3356,
+    "presentationCrop": [
+      516,
+      39,
+      872,
+      572
+    ],
+    "display": "/media/jin-yan-yu-tuan-0-display.webp",
+    "displayWidth": 356,
+    "displayHeight": 533,
+    "displayBytes": 40412,
+    "presentationSubject": "female"
   },
   {
     "cosmeticId": "fu-guang",
@@ -7698,23 +9069,28 @@
     "sourcePage": "https://www.wherewindsmeetgame.com/news/official/921update.html",
     "thumbnail": "/media/fu-guang-0-thumb.webp",
     "full": "/media/fu-guang-0-full.webp",
-    "thumbnailBytes": 48514,
-    "fullBytes": 127966,
+    "thumbnailBytes": 28608,
+    "fullBytes": 129038,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "sourceCrop": [
-      43,
-      3801,
-      965,
-      4655
-    ],
-    "thumbnailCrop": [
-      524,
-      3858,
-      956,
-      4398
+      35,
+      3796,
+      973,
+      4661
     ],
     "preview": "/media/fu-guang-0-preview.webp",
-    "previewBytes": 5456
+    "previewBytes": 3356,
+    "presentationCrop": [
+      516,
+      39,
+      872,
+      510
+    ],
+    "display": "/media/fu-guang-0-display.webp",
+    "displayWidth": 356,
+    "displayHeight": 471,
+    "displayBytes": 25580,
+    "presentationSubject": "female"
   }
 ]

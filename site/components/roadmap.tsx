@@ -7,7 +7,6 @@ import {
   CalendarDays,
   ChevronLeft,
   ChevronRight,
-  Compass,
   History,
   Info,
   ShieldCheck,
@@ -36,9 +35,8 @@ import {
 import {
   forecastDue,
   forecastEnded,
-  forecastInMonth,
+  currentForecasts,
   isMonth,
-  latestRevisions,
   monthGrid,
   shiftMonth,
 } from "@/lib/roadmap-domain.mjs";
@@ -77,12 +75,9 @@ export default function Roadmap({ l, onCosmeticClick }: { l: Locale; onCosmeticC
   const events = (server === "cn" ? cnEvents : globalEvents).filter((e) =>
     e.date.startsWith(month) && kind !== "forecast",
   ).sort((a, b) => a.date.localeCompare(b.date));
-  const latest = latestRevisions(forecasts) as Forecast[];
   const releasedIds = regionalRecords.filter(r => r.server === (server === "cn" ? "CN" : "Global") && r.status === "released").map(r => r.cosmeticId);
-  const active = latest.filter(f => f.state === "active" && !forecastEnded(f, today) && !globalEvents.some(e => e.cosmeticId === f.cosmeticId && e.kind === "release" && e.status !== "cancelled") && !regionalRecords.some(r => r.cosmeticId === f.cosmeticId && r.server === "Global" && r.status === "released"));
-  const estimates = active.filter(
-    (f) => server === "global" && kind !== "official" && forecastInMonth(f, month),
-  );
+  const active = currentForecasts(globalEvents, forecasts, today, regionalRecords.filter(r => r.server === "Global" && r.status === "released").map(r => r.cosmeticId)) as Forecast[];
+  const estimates = server === "global" && kind !== "official" ? active : [];
   const unscheduled = cosmetics.filter((c) =>
     server === "global"
       ? !releasedIds.includes(c.id) && !globalEvents.some(
@@ -90,9 +85,6 @@ export default function Roadmap({ l, onCosmeticClick }: { l: Locale; onCosmeticC
         ) &&
         !active.some((f) => f.cosmeticId === c.id && !forecastEnded(f, today))
       : !c.cnRelease.date,
-  );
-  const versionForecasts = active.filter(
-    (f) => server === "global" && kind !== "official" && f.precision === "version",
   );
   const title = new Intl.DateTimeFormat(l === "ko" ? "ko-KR" : "en-US", {
     month: "long",
@@ -125,11 +117,7 @@ export default function Roadmap({ l, onCosmeticClick }: { l: Locale; onCosmeticC
           <Link href={`/${l}/cosmetics/${c.id}`} onClick={event => onCosmeticClick(event, c.id)} prefetch={false} aria-haspopup="dialog">{nameOf(c, l)}</Link>
         </h3>
         <p className="estimate-window">
-          {f.precision === "month"
-            ? f.month
-            : f.precision === "window"
-              ? `${formatDay(f.start!, l)} – ${formatDay(f.end!, l)}`
-              : f.version}
+          {forecastWindow(f, l)}
         </p>
         <p>{f.rationale[l]}</p>
         <details>
@@ -390,45 +378,27 @@ export default function Roadmap({ l, onCosmeticClick }: { l: Locale; onCosmeticC
         )}
       </section>
       {server === "global" &&
-        (estimates.length > 0 || versionForecasts.length > 0) && (
-          <section className="forecast-section">
+        estimates.length > 0 && (
+          <section className="forecast-section" aria-label={t("Estimated windows", "예상 기간")}>
             <div className="catalog-heading">
               <h2>
                 <Sparkles size={20} />
                 {t("Estimated windows", "예상 기간")}
+                <span className="result-count">{estimates.length}</span>
               </h2>
               <span>
                 {t("Editorial · Not official", "운영자 예상 · 비공식")}
               </span>
             </div>
-            {estimates.length || versionForecasts.length ? (
+            <p className="forecast-list-note">{t("All current estimates from the roadmap, including windows beyond the selected month.", "선택한 달 이후의 기간을 포함해 로드맵의 유효한 예상을 모두 표시합니다.")}</p>
               <div className="estimate-grid">
-                {[...estimates, ...versionForecasts].map((f) => (
+                {estimates.map((f) => (
                   <Estimate key={f.id} f={f} />
                 ))}
               </div>
-            ) : (
-              <div className="forecast-empty">
-                <Compass size={22} />
-                <div>
-                  <h3>
-                    {t(
-                      "Still waiting for a reliable signal",
-                      "근거가 모이면 예상이 시작됩니다",
-                    )}
-                  </h3>
-                  <p>
-                    {t(
-                      "No supported estimate is recorded for this view. We keep unknown dates open rather than assign an arbitrary delay.",
-                      "이 조건에 게시된 예상이 없습니다. 출시 순서와 비교 사례를 확인한 뒤 근거가 뒷받침하는 기간만 제시합니다.",
-                    )}
-                  </p>
-                </div>
-              </div>
-            )}
           </section>
         )}
-      {kind === "forecast" && !estimates.length && !versionForecasts.length && <p className="timeline-empty">{t("No current estimates for this month.", "이 달에는 유효한 예상 일정이 없습니다.")}</p>}
+      {kind === "forecast" && !estimates.length && <p className="timeline-empty">{t("No current estimates.", "현재 유효한 예상 일정이 없습니다.")}</p>}
       </>}
       <section className="unscheduled-section">
         <div className="catalog-heading">
