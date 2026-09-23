@@ -18,13 +18,14 @@ export default function CosmeticGallery({ c, l, selected, onSelect, immersive = 
 }) {
   const t = (en: string, ko: string) => l === "ko" ? ko : en;
   const images = useMemo(() => imagesOf(c), [c]);
+  const picture = images[selected];
   if (!images.length) return <div className="detail-image media-pending"><span aria-hidden="true">鏡</span><p>{t("Image under review", "사진 확인 중")}</p><small>{c.wikiOnly ? t("A wiki reference is available; an individual image has not been verified.", "위키 참고 정보가 있으며 개별 사진은 아직 확인 중입니다.") : t("The official source names this appearance; an individual image has not been verified.", "공식 원문에 외관이 기록되어 있으나 개별 사진은 아직 확인 중입니다.")}</small></div>;
   return (
     <Dialog>
       <div className={immersive ? "quick-view-media" : undefined}>
       <DialogTrigger asChild>
         <button className="detail-image" aria-label={t("Open full official image", "공식 이미지 크게 보기")}>
-          <img key={images[selected].full} src={images[selected].full} width={c.images[images[selected].index].width} height={c.images[images[selected].index].height} alt={c.images[images[selected].index].alt?.[l] ?? `${c.nameOriginal} · ${t("Game appearance preview", "게임 외관 미리보기")}`} decoding="async" fetchPriority="high" />
+          <img key={picture.display ?? picture.full} src={picture.display ?? picture.full} width={picture.displayWidth ?? c.images[picture.index].width} height={picture.displayHeight ?? c.images[picture.index].height} alt={c.images[picture.index].alt?.[l] ?? `${c.nameOriginal} · ${t("Game appearance preview", "게임 외관 미리보기")}`} decoding="async" fetchPriority="high" />
           <span><ZoomIn size={17} />{t("View full image", "전체 이미지 보기")}</span>
         </button>
       </DialogTrigger>

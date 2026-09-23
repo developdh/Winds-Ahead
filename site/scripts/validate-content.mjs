@@ -268,7 +268,7 @@ export function validateContent(research, media, forecastData, globalData) {
   for (const m of media) {
     if (!knownIds.has(m.cosmeticId))
       throw new Error("Media has an unknown cosmetic");
-    for (const key of ["thumbnail", "full", "preview"]) {
+    for (const key of ["thumbnail", "full", "preview", ...(m.display ? ["display"] : [])]) {
       if (!/^\/media\/[a-z0-9-]+\.webp$/.test(m[key]))
         throw new Error("Invalid media path");
     }
@@ -384,7 +384,7 @@ if (
     ),
   );
   for (const m of media)
-    for (const key of ["thumbnail", "full", "preview"]) {
+    for (const key of ["thumbnail", "full", "preview", ...(m.display ? ["display"] : [])]) {
       const stat = fs.statSync(path.join(root, "public", m[key]));
       if (stat.size !== m[key + "Bytes"])
         throw new Error(`Media size mismatch: ${m[key]}`);

@@ -2,6 +2,14 @@
 
 [한국어](../ko/gallery-navigation.md)
 
+## September 23 follow-up: female-first presentation previews
+
+Prefer identified female artwork for previews when it shows the cosmetic clearly, as requested by the owner. The shared media selector places explicitly identified female presentations first and preserves original image indices for enlargement. Other artwork remains available. Do not infer this choice from filenames or create a fictional female version.
+
+Cards, detail/quick-view presentations and selectors now use deliberately cropped artwork for 132 poster images. Sixty-eight female presentations are recorded. Individual character views replace paired poster layouts where available; weapon/effect crops focus on the item. The enlarged gallery retains the complete artwork and fit/zoom controls. Lunar Radiance and Moonrise had a lower border cut out of the image file; their complete lower edges have been restored and their source coordinates reconciled. See [the follow-up audit](../research/2026-09-23-preview-framing.json).
+
+`media.json` records `presentationCrop` relative to the full derivative and, where identified, `presentationSubject: female`. Regenerate presentation images, card thumbnails and small selectors with `node scripts/refresh-gallery-previews.mjs`. Check crops against the full reference before publishing; preview choices must not replace or shorten the full artwork. The following earlier preview/letterboxing behavior is superseded by this follow-up.
+
 ## September 23, 2026: complete artwork and optional zoom
 
 Detail pages and quick views now use full images in stable, contained frames. The gallery opens fitted to both viewport dimensions; Zoom in enables two-axis scrolling and Fit image restores the complete composition. Selecting another image resets zoom and scroll. Carousel swiping is disabled during zoom so panning does not switch photos. Keyboard arrows, selected-image state, source links and close/focus restoration remain available.

@@ -13,6 +13,7 @@ M1 includes designs and a clickable prototype of the three core screens using re
 ## 2. Visual and usability principles
 
 - Choose image aspect ratios and crops that preserve readable silhouettes, materials, and colors. Provide full-appearance and enlarged views on detail pages.
+- **Preview selection:** Prefer a verified female appearance when usable female artwork exists. Use a clean individual image or a deliberate character crop instead of a framed multi-panel poster. Use another view only when a female view is unavailable or does not show the defining cosmetic clearly. Keep the complete source artwork in the enlarged gallery; do not infer gender from filenames or fabricate an alternative.
 - Apply the ink/jade direction consistently through color, type, spacing, borders, and states. Decoration must not obscure names, sources, or dates.
 - Give immediate visual feedback for search, saving, filters, and gallery actions. Longer operations need progress and retry paths.
 - Respect Korean input-method composition. Preserve filters, month, and list position where possible across back navigation and language switches.

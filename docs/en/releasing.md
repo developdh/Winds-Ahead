@@ -30,6 +30,7 @@ This is part of completing each update, including updates from the existing cale
 
 ## Release notes
 
+- [0.2.6 — Female-first previews and synchronized forecast lists](releases/0.2.6.md)
 - [0.2.5 — Official dates first and complete image framing](releases/0.2.5.md)
 - [0.2.4 — Forecast re-review and September announcements](releases/0.2.4.md)
 - [0.2.3 — Clearer Valor Aflame preview](releases/0.2.3.md)
