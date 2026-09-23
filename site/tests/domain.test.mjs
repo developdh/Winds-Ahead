@@ -469,6 +469,18 @@ test('forecasts retain precision, latest revisions and review expiry; official e
 });
 
 import { upcomingEntries } from '../lib/roadmap-domain.mjs';
+test('all official dates precede forecasts even when forecast windows begin earlier', () => {
+  const events = ['2026-09-27', '2026-09-25'].map((date, i) => ({id:`official-${i}`, cosmeticId:`official-${i}`, kind:'release', status:'announced', date}));
+  const revisions = [
+    {...fixture, id:'later', cosmeticId:'later', month:'2026-10'},
+    {...fixture, id:'earlier', cosmeticId:'earlier', month:'2026-09'},
+    {...fixture, id:'version', cosmeticId:'version', precision:'version', month:undefined, version:'3.0'},
+  ];
+  const rows = upcomingEntries(events, revisions, '2026-09-23');
+  assert.deepEqual(rows.map(row => row.event?.id ?? row.forecast.id), ['official-1', 'official-0', 'earlier', 'later', 'version']);
+  assert.deepEqual(upcomingEntries(events, revisions, '2026-09-23', 'forecast').map(row => row.forecast.id), ['earlier', 'later', 'version']);
+  assert.deepEqual(events.map(event => event.date), ['2026-09-27', '2026-09-25']);
+});
 test('roadmap prioritizes official announcements, hides elapsed announcements, and retains overdue estimates until their window ends', () => {
   const f={...fixture,id:'f',cosmeticId:'fan',precision:'window',month:undefined,start:'2026-09-16',end:'2026-10-31',reviewDue:'2026-09-16'};
   const official={id:'announcement',cosmeticId:'pass',kind:'release',status:'announced',date:'2026-09-16'};

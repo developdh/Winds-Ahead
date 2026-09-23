@@ -6,12 +6,21 @@ const root=new URL('../',import.meta.url);
 const media=JSON.parse(await fs.readFile(new URL('content/media.json',root),'utf8'));
 const research=JSON.parse(await fs.readFile(new URL('content/research.json',root),'utf8'));
 test('catalog and gallery images cannot silently become animated assets',async()=>{
- for(const m of media) for(const key of ['thumbnail','full']) {
+ for(const m of media) for(const key of ['thumbnail','full','preview']) {
   const file=new URL('public'+m[key],root);
   const meta=await sharp(file.pathname).metadata();
   assert.equal(meta.pages??1,1,`Animated image: ${m[key]}`);
   assert.equal(meta.format,'webp');
-  assert.ok((await fs.stat(file)).size <= (key==='thumbnail'?160_000:2_500_000), `Image budget exceeded: ${m[key]}`);
+  assert.ok((await fs.stat(file)).size <= (key==='preview'?20_000:key==='thumbnail'?160_000:2_500_000), `Image budget exceeded: ${m[key]}`);
+ }
+});
+test('gallery selector previews preserve the complete full-image aspect ratio', async () => {
+ for (const m of media) {
+  const full=await sharp(new URL('public'+m.full,root).pathname).metadata();
+  const preview=await sharp(new URL('public'+m.preview,root).pathname).metadata();
+  assert.ok(Math.max(preview.width,preview.height)<=160);
+  const scale=Math.min(160/full.width,160/full.height,1);
+  assert.ok(Math.abs(preview.width-full.width*scale)<=1 && Math.abs(preview.height-full.height*scale)<=1, `Cropped selector preview: ${m.preview}`);
  }
 });
 test('local effect videos match byte records and put playback metadata before frames',async()=>{

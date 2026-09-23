@@ -27,7 +27,15 @@ export default function ReleaseTimeline({ l, events, forecasts, today, kind, rel
     <div className="timeline-summary" aria-live="polite">
       <span>{t('From today onward', '오늘부터, 앞으로')}</span><span>{entries.length} {t('appearances', '개 외관')}</span>
     </div>
-    {entries.length ? <ol className="timeline-list">{entries.map(entry => {
+    {entries.length ? (['official', 'forecast'] as const).map(group => {
+      const rows = entries.filter(entry => entry.kind === group);
+      if (!rows.length) return null;
+      return <section className={`timeline-group ${group}`} key={group} aria-labelledby={`timeline-${group}`}>
+      <div className="timeline-group-heading">
+        <h2 id={`timeline-${group}`}>{group === 'official' ? t('Official dates', '공식 일정') : t('Estimated windows', '예상 일정')}</h2>
+        <span>{group === 'official' ? t('Confirmed announcements', '공식 발표 기준') : t('Editorial · Not official', '운영자 예상 · 비공식')}</span>
+      </div>
+      <ol className="timeline-list">{rows.map(entry => {
       const official = entry.kind === 'official';
       const f = entry.kind === 'forecast' ? entry.forecast : null;
       const e = entry.kind === 'official' ? entry.event : null;
@@ -41,7 +49,7 @@ export default function ReleaseTimeline({ l, events, forecasts, today, kind, rel
           {e ? <time dateTime={e.date}>{formatDay(e.date, l)}</time> : <span className="timeline-window">{forecastWindow(f!, l)}</span>}
           {e && delta !== null && delta >= 0 && <span className="timeline-countdown">{delta === 0 ? t('Today', '오늘') : `D−${delta}`}</span>}
           {f && forecastDue(f, today) && <span className="badge forecast">{t('Review due', '재검토 필요')}</span>}
-          {f && <small>{t('Limited evidence · Not official', '근거 제한적 · 비공식')}</small>}
+          {f && <small>{f.evidenceLevel === 'supported' ? t('Supported · Not official', '근거 충분 · 비공식') : t('Limited evidence · Not official', '근거 제한적 · 비공식')}</small>}
         </div>
         <article className="timeline-card">
           <Link className="timeline-art" href={`/${l}/cosmetics/${c.id}`} aria-label={nameOf(c, l)} onClick={event => onCosmeticClick(event, c.id)} prefetch={false} aria-haspopup="dialog">
@@ -50,7 +58,7 @@ export default function ReleaseTimeline({ l, events, forecasts, today, kind, rel
           </Link>
           <div className="timeline-copy">
             <span className="timeline-category">{categoryNames[c.category][l]}</span>
-            <h2><Link href={`/${l}/cosmetics/${c.id}`} onClick={event => onCosmeticClick(event, c.id)} prefetch={false} aria-haspopup="dialog">{nameOf(c, l)}<ArrowUpRight size={18}/></Link></h2>
+            <h3><Link href={`/${l}/cosmetics/${c.id}`} onClick={event => onCosmeticClick(event, c.id)} prefetch={false} aria-haspopup="dialog">{nameOf(c, l)}<ArrowUpRight size={18}/></Link></h3>
             <p className="timeline-original">{c.nameOriginal}{c.cnRelease.date && <> · CN {formatDay(c.cnRelease.date, l)}</>}</p>
             <p className="timeline-reason">{e ? e.scope[l] : f!.rationale[l]}</p>
             <details className="timeline-evidence">
@@ -61,6 +69,7 @@ export default function ReleaseTimeline({ l, events, forecasts, today, kind, rel
           </div>
         </article>
       </li>;
-    })}</ol> : <div className="timeline-empty"><CalendarDays size={28}/><h2>{t('The next date is still open.', '다음 일정은 아직 미정입니다.')}</h2><p>{t('Only verified announcements and current editorial estimates appear here. Switch to the calendar for recorded releases.', '확인된 공식 예고와 유효한 예상만 표시합니다. 지난 출시 기록은 캘린더에서 볼 수 있습니다.')}</p></div>}
+    })}</ol></section>;
+    }) : <div className="timeline-empty"><CalendarDays size={28}/><h2>{t('The next date is still open.', '다음 일정은 아직 미정입니다.')}</h2><p>{t('Only verified announcements and current editorial estimates appear here. Switch to the calendar for recorded releases.', '확인된 공식 예고와 유효한 예상만 표시합니다. 지난 출시 기록은 캘린더에서 볼 수 있습니다.')}</p></div>}
   </section>;
 }
