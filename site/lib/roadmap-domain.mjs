@@ -69,5 +69,7 @@ export function upcomingEntries(events, revisions, today, kind = 'all', released
     if (forecast.state !== 'active' || known.has(forecast.cosmeticId) || forecastEnded(forecast, today)) continue;
     entries.push({ kind: 'forecast', date: forecast.precision === 'window' ? forecast.start : forecast.precision === 'month' ? `${forecast.month}-01` : '9999-12-31', forecast });
   }
-  return entries.sort((a, b) => a.date.localeCompare(b.date) || (a.kind === b.kind ? 0 : a.kind === 'official' ? -1 : 1) || (a.event?.id ?? a.forecast.id).localeCompare(b.event?.id ?? b.forecast.id));
+  // A forecast window can start before a confirmed day without taking priority.
+  // Keep all official dates first, then order each group chronologically.
+  return entries.sort((a, b) => (a.kind === b.kind ? 0 : a.kind === 'official' ? -1 : 1) || a.date.localeCompare(b.date) || (a.event?.id ?? a.forecast.id).localeCompare(b.event?.id ?? b.forecast.id));
 }

@@ -2,6 +2,17 @@
 
 [한국어](../ko/gallery-navigation.md)
 
+## September 23, 2026: complete artwork and optional zoom
+
+Detail pages and quick views now use full images in stable, contained frames. The gallery opens fitted to both viewport dimensions; Zoom in enables two-axis scrolling and Fit image restores the complete composition. Selecting another image resets zoom and scroll. Carousel swiping is disabled during zoom so panning does not switch photos. Keyboard arrows, selected-image state, source links and close/focus restoration remain available.
+
+Reframed 132 existing official-poster derivatives after comparing the original artwork boundaries, including Sandveil Venom's clipped right border. Before/after source coordinates are retained in [the crop audit](../research/2026-09-23-image-framing.json). Poster thumbnails preserve complete panels with letterboxing, and all 582 gallery selectors have separate uncropped previews, bounded to 160px (about 1.76 MB in total, loaded only where used). No source identity, forecast, price or media-rights status changed.
+
+When adding or replacing media, run `node scripts/refresh-gallery-previews.mjs` from `site/`, then content validation and media tests. Review new poster crops visually against the original boundaries; automated cropping or CSS cannot restore missing source pixels. Existing card thumbnails remain distinct from gallery selectors and full views.
+
+The earlier September 13 implementation and verification record follows; its scroll-first description is superseded by this update.
+
+
 Opening a detail image now keeps the selected variant and offers large previous/next chevrons over the photo, horizontal dragging/swiping, and left/right keyboard arrows. The footer contains the current image number and the matching official-original link. Single-image cosmetics omit navigation; the first and last images disable the unavailable direction. Closing restores focus to the opening button, and the selected detail thumbnail follows gallery navigation.
 
 ## Motion correction

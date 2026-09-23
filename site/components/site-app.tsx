@@ -645,9 +645,11 @@ function Detail({
                   onClick={() => setSelected(i)}
                 >
                   <img
-                    src={m.thumbnail}
+                    src={m.preview}
                     width={60}
                     height={70}
+                    loading="lazy"
+                    decoding="async"
                     alt={t(`Variant ${i + 1}`, `외형 ${i + 1}`)}
                   />
                 </button>
