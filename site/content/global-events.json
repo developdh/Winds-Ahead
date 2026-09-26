@@ -3319,12 +3319,14 @@
       "sourceIds": [
         "global-20260921-update-en",
         "global-20260921-update-ko",
-        "global-x-20260921-jade-moonrise"
+        "global-x-20260921-jade-moonrise",
+        "global-20260923-appearance-en",
+        "global-20260923-appearance-ko"
       ],
       "status": "announced",
       "scope": {
-        "en": "Announced for September 25, 05:00 UTC+8 in the official X post. Korean image says 06:00 without printing its timezone. This is a future announcement, not a verified release.",
-        "ko": "공식 X의 9월 25일 05:00(UTC+8) 출시 예고입니다. 한국어 이미지는 시간대 없이 06:00로 표기합니다. 실제 출시 확인 전의 예정 정보입니다."
+        "en": "Official schedule: September 25, 05:00 UTC+8. The September 23 English overview supplies the timezone; Korean local wording does not state one. Actual release remains unverified.",
+        "ko": "공식 일정은 9월 25일 05:00(UTC+8)입니다. 9월 23일 영문 외관 공지의 시간대를 사용하며 한국어 공지의 시간대는 미표기입니다. 실제 출시는 미확인입니다."
       }
     },
     {
@@ -3337,12 +3339,14 @@
       "sourceIds": [
         "global-20260921-update-en",
         "global-20260921-update-ko",
-        "global-x-20260921-jade-moonrise"
+        "global-x-20260921-jade-moonrise",
+        "global-20260923-appearance-en",
+        "global-20260923-appearance-ko"
       ],
       "status": "announced",
       "scope": {
-        "en": "Announced for September 25, 05:00 UTC+8 in the official X post. Korean image says 06:00 without printing its timezone. This is a future announcement, not a verified release.",
-        "ko": "공식 X의 9월 25일 05:00(UTC+8) 출시 예고입니다. 한국어 이미지는 시간대 없이 06:00로 표기합니다. 실제 출시 확인 전의 예정 정보입니다."
+        "en": "Official schedule: September 25, 05:00 UTC+8. The September 23 English overview supplies the timezone; Korean local wording does not state one. Actual release remains unverified.",
+        "ko": "공식 일정은 9월 25일 05:00(UTC+8)입니다. 9월 23일 영문 외관 공지의 시간대를 사용하며 한국어 공지의 시간대는 미표기입니다. 실제 출시는 미확인입니다."
       }
     },
     {
@@ -3354,12 +3358,15 @@
       "kind": "release",
       "sourceIds": [
         "global-20260921-update-en",
-        "global-20260921-update-ko"
+        "global-20260921-update-ko",
+        "global-20260923-appearance-en",
+        "global-20260923-appearance-ko",
+        "global-x-20260922-penglai"
       ],
       "status": "announced",
       "scope": {
-        "en": "Announced for September 27. EN image lists 05:00; KO lists 06:00. Neither panel states a timezone, so no absolute instant is inferred. Release remains unverified.",
-        "ko": "9월 27일 출시 예고입니다. 영문 이미지는 05:00, 한국어는 06:00로 표기하며 두 패널 모두 시간대가 없어 절대 시각으로 환산하지 않습니다. 실제 출시는 미확인입니다."
+        "en": "Official schedule: September 27, 05:00 UTC+8. The September 23 English overview supplies the timezone; Korean local wording does not state one. Actual release remains unverified.",
+        "ko": "공식 일정은 9월 27일 05:00(UTC+8)입니다. 9월 23일 영문 외관 공지의 시간대를 사용하며 한국어 공지의 시간대는 미표기입니다. 실제 출시는 미확인입니다."
       }
     },
     {
@@ -3371,12 +3378,15 @@
       "kind": "release",
       "sourceIds": [
         "global-20260921-update-en",
-        "global-20260921-update-ko"
+        "global-20260921-update-ko",
+        "global-20260923-appearance-en",
+        "global-20260923-appearance-ko",
+        "global-x-20260923-cicada"
       ],
       "status": "announced",
       "scope": {
-        "en": "Announced for September 27. EN image lists 00:00; KO lists 01:00. Neither panel states a timezone, so no absolute instant is inferred. Release remains unverified.",
-        "ko": "9월 27일 출시 예고입니다. 영문 이미지는 00:00, 한국어는 01:00로 표기하며 두 패널 모두 시간대가 없어 절대 시각으로 환산하지 않습니다. 실제 출시는 미확인입니다."
+        "en": "Official schedule: September 27, 00:00 UTC+8. The September 23 English overview supplies the timezone; Korean local wording does not state one. Actual release remains unverified.",
+        "ko": "공식 일정은 9월 27일 00:00(UTC+8)입니다. 9월 23일 영문 외관 공지의 시간대를 사용하며 한국어 공지의 시간대는 미표기입니다. 실제 출시는 미확인입니다."
       }
     },
     {
@@ -3388,12 +3398,31 @@
       "kind": "release",
       "sourceIds": [
         "global-20260921-update-en",
-        "global-20260921-update-ko"
+        "global-20260921-update-ko",
+        "global-20260923-appearance-en",
+        "global-20260923-appearance-ko",
+        "global-x-20260923-cicada"
       ],
       "status": "announced",
       "scope": {
-        "en": "Announced for September 27. EN image lists 00:00; KO lists 01:00. Neither panel states a timezone, so no absolute instant is inferred. Release remains unverified.",
-        "ko": "9월 27일 출시 예고입니다. 영문 이미지는 00:00, 한국어는 01:00로 표기하며 두 패널 모두 시간대가 없어 절대 시각으로 환산하지 않습니다. 실제 출시는 미확인입니다."
+        "en": "Official schedule: September 27, 00:00 UTC+8. The September 23 English overview supplies the timezone; Korean local wording does not state one. Actual release remains unverified.",
+        "ko": "공식 일정은 9월 27일 00:00(UTC+8)입니다. 9월 23일 영문 외관 공지의 시간대를 사용하며 한국어 공지의 시간대는 미표기입니다. 실제 출시는 미확인입니다."
+      }
+    },
+    {
+      "id": "release-global-moonhare-merriment",
+      "cosmeticId": "global-moonhare-merriment",
+      "date": "2026-09-25",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-x-20260924-moonhare"
+      ],
+      "status": "announced",
+      "scope": {
+        "en": "Reward event announced for September 25–October 2; timezone unstated. The date records the event opening, not a verified claim or CN identity match.",
+        "ko": "9월 25일~10월 2일 보상 이벤트 예고이며 시간대 미표기입니다. 날짜는 이벤트 시작일이며 실제 수령 확인·중국 항목 대응을 뜻하지 않습니다."
       }
     }
   ]

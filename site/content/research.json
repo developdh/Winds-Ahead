@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "verifiedAt": "2026-09-13",
+  "verifiedAt": "2026-09-26",
   "scope": "Cross-server archive from individually reviewed official announcements; not a certified complete game inventory.",
   "sources": [
     {
@@ -3405,6 +3405,129 @@
       "evidenceTier": "A",
       "verifiedAt": "2026-09-21",
       "verificationNote": "Read the expanded official X post while signed in. Names sword and Heng blade, not fan, spear or gauntlets. Confirms September 20 05:00 UTC+8."
+    },
+    {
+      "id": "cn-20260922-appearance",
+      "url": "https://www.yysls.cn/news/official/20260925/37780_1315084.html",
+      "titleOriginal": "桂影流金，华服相迎丨多套全新外观盛装登场",
+      "publisher": "NetEase / Where Winds Meet official website",
+      "server": "CN",
+      "displayedPublicationDate": "2026-09-22",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-09-26",
+      "verificationNote": "Read the full text and visually inspected named appearance images. September 24 update context is explicit; publication and URL dates differ.",
+      "urlPathDate": "2026-09-25",
+      "dateDiscrepancyNote": "Use the displayed publication date, not the URL directory."
+    },
+    {
+      "id": "cn-20260923-appearance",
+      "url": "https://www.yysls.cn/news/official/20260925/37780_1315085.html",
+      "titleOriginal": "9月24日丨退恶潮，定风波——全新镇守〖捍海塘〗",
+      "publisher": "NetEase / Where Winds Meet official website",
+      "server": "CN",
+      "displayedPublicationDate": "2026-09-23",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-09-26",
+      "verificationNote": "Read the appearance and event sections and inspected named imagery; exact item dates and reward conditions are kept separately.",
+      "urlPathDate": "2026-09-25",
+      "dateDiscrepancyNote": "Use the displayed publication date, not the URL directory."
+    },
+    {
+      "id": "cn-20260925-hotfix",
+      "url": "https://www.yysls.cn/news/update/20260926/40412_1315101.html",
+      "titleOriginal": "9月25日2.8.5版本在线修复公告",
+      "publisher": "NetEase / Where Winds Meet official website",
+      "server": "CN",
+      "displayedPublicationDate": "2026-09-25",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-09-26",
+      "verificationNote": "Direct HTTPS retrieval: September 24 fixes name 金玉梦 dyeing, 金昭玉 clothing, 穿花见 female clothing and 飞天舞乐兔 mobile model. This provides in-game evidence for those four items, not every announced cosmetic.",
+      "urlPathDate": "2026-09-26",
+      "dateDiscrepancyNote": "Use the displayed publication date, not the URL directory."
+    },
+    {
+      "id": "global-20260923-appearance-en",
+      "url": "https://www.wherewindsmeetgame.com/news/official/925appearance.html",
+      "titleOriginal": "[Perilous Eminence] Version 2.2 New Appearances Overview - September 25-27",
+      "publisher": "NetEase / Where Winds Meet official website",
+      "server": "Global",
+      "displayedPublicationDate": "2026-09-23",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-09-26",
+      "verificationNote": "Full text reread; explicit UTC+8 schedule for five previously matched appearances. Announcement wording does not establish actual availability."
+    },
+    {
+      "id": "global-20260923-appearance-ko",
+      "url": "https://www.wherewindsmeetgame.com/kr/news/official/925appearance.html",
+      "titleOriginal": "[구름 위 동행] 9월 25-27일 2.2 버전 신규 외관 목록",
+      "publisher": "NetEase / Where Winds Meet official website",
+      "server": "Global",
+      "displayedPublicationDate": "2026-09-23",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-09-26",
+      "verificationNote": "Full text reread. Local clock wording retained without assuming a timezone. Jade Moonrise ends October 25 here, clarifying the earlier Korean image prose discrepancy."
+    },
+    {
+      "id": "global-x-20260922-penglai",
+      "url": "https://x.com/WhereWindsMeet_/status/2102397514192167213",
+      "titleOriginal": "Penglai's Peaks — September 27 schedule",
+      "publisher": "Where Winds Meet / NetEase (official X)",
+      "server": "Global",
+      "displayedPublicationDate": "2026-09-22",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-09-26",
+      "verificationNote": "Read signed-in official profile post. September 27 05:00 to December 26 04:59:59 UTC+8; video preview is not an actual release confirmation."
+    },
+    {
+      "id": "global-x-20260923-cicada",
+      "url": "https://x.com/WhereWindsMeet_/status/2102759906612789566",
+      "titleOriginal": "Cicada Requiem and Autumn Dewlight — September 27",
+      "publisher": "Where Winds Meet / NetEase (official X)",
+      "server": "Global",
+      "displayedPublicationDate": "2026-09-23",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-09-26",
+      "verificationNote": "Expanded and read the official post: Cicada discount and Autumn Dewlight listing both begin September 27 00:00 UTC+8."
+    },
+    {
+      "id": "global-x-20260924-moonhare",
+      "url": "https://x.com/WhereWindsMeet_/status/2103122279957934298",
+      "titleOriginal": "One Moon, Miles Apart — Moonhare Merriment reward",
+      "publisher": "Where Winds Meet / NetEase (official X)",
+      "server": "Global",
+      "displayedPublicationDate": "2026-09-24",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-09-26",
+      "verificationNote": "Expanded official post and opened its image. Event September 25–October 2; timezone unstated. Image is scenery, not an individual accessory reference."
+    },
+    {
+      "id": "global-x-20260924-cloudgrace",
+      "url": "https://x.com/WhereWindsMeet_/status/2103092088565088701",
+      "titleOriginal": "Mid-Autumn check-in — Cloudgrace Earrings reward",
+      "publisher": "Where Winds Meet / NetEase (official X)",
+      "server": "Global",
+      "displayedPublicationDate": "2026-09-24",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-09-26",
+      "verificationNote": "Expanded official post: September 25–October 10 UTC, log in for ten days for the reward bundle. Exact accessory reward day is not stated."
     }
   ],
   "mediaRights": {
@@ -45415,6 +45538,957 @@
       "namingNote": {
         "en": "Provisional reading of the CN name; no official Global name verified.",
         "ko": "중국 원명의 임시 독음이며 글로벌 공식명은 확인하지 못했습니다."
+      }
+    },
+    {
+      "id": "jin-zhao-yu",
+      "nameOriginal": "金昭玉",
+      "romanization": "Jin Zhao Yu",
+      "category": "outfit",
+      "sourceId": "cn-20260922-appearance",
+      "acquisitionServer": "CN",
+      "mediaServer": "CN",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": "2026-09-24",
+        "precision": "day",
+        "timezone": null,
+        "contextual": false,
+        "basis": "Item schedule in the named official CN notice; actual status is recorded separately."
+      },
+      "acquisition": {
+        "kind": "limited_draw",
+        "pricing": "draw",
+        "amount": null,
+        "regularAmount": null,
+        "currencyOriginal": "玉烟斗",
+        "location": {
+          "en": "Jin Sheng Yu Run event",
+          "ko": "금성옥윤 이벤트",
+          "original": "金声玉润"
+        },
+        "conditions": {
+          "en": "CN: after the September 24 update. Uses 玉烟斗; first draw is free. The event has four pools; an individual item cost and end date are not verified.",
+          "ko": "중국: 9월 24일 업데이트 후. 옥연두 사용, 첫 회 무료. 네 개의 보상 풀로 구성되며 개별 외관 비용·종료일은 미확인입니다."
+        },
+        "en": "See the regional official conditions.",
+        "ko": "해당 서버 공식 공지의 조건을 확인하세요."
+      },
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260925/63c12c43-7dd6-46c7-b63c-19deda12d246.jpg",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 1804865,
+          "reusePermission": "unknown",
+          "visuallyInspected": true,
+          "sourceFrame": 0,
+          "inspectionNote": "Named official section and character/item artwork inspected September 26. Static frame 0 retained for GIF; full composition accessible in gallery. Not in-game verification.",
+          "server": "CN"
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260925/c37fb1da-c6c9-4a19-8bcb-0d10dd802d67.jpg",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 2002362,
+          "reusePermission": "unknown",
+          "visuallyInspected": true,
+          "sourceFrame": 0,
+          "inspectionNote": "Named official section and character/item artwork inspected September 26. Static frame 0 retained for GIF; full composition accessible in gallery. Not in-game verification.",
+          "server": "CN"
+        }
+      ],
+      "officialVideos": [],
+      "mediaStatus": "verified",
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "namingNote": {
+        "en": "Provisional reading of the CN name; no official Global name verified.",
+        "ko": "중국 원명의 임시 독음이며 글로벌 공식명은 미확인입니다."
+      }
+    },
+    {
+      "id": "jin-yu-meng",
+      "nameOriginal": "金玉梦",
+      "romanization": "Jin Yu Meng",
+      "category": "hair",
+      "sourceId": "cn-20260922-appearance",
+      "acquisitionServer": "CN",
+      "mediaServer": "CN",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": "2026-09-24",
+        "precision": "day",
+        "timezone": null,
+        "contextual": false,
+        "basis": "Item schedule in the named official CN notice; actual status is recorded separately."
+      },
+      "acquisition": {
+        "kind": "limited_draw",
+        "pricing": "draw",
+        "amount": null,
+        "regularAmount": null,
+        "currencyOriginal": "玉烟斗",
+        "location": {
+          "en": "Jin Sheng Yu Run event",
+          "ko": "금성옥윤 이벤트",
+          "original": "金声玉润"
+        },
+        "conditions": {
+          "en": "CN: after the September 24 update. Uses 玉烟斗; first draw is free. The event has four pools; an individual item cost and end date are not verified. Hair shaping and regional dye controls announced; September 24 fix confirms dyeing opened.",
+          "ko": "중국: 9월 24일 업데이트 후. 옥연두 사용, 첫 회 무료. 네 개의 보상 풀로 구성되며 개별 외관 비용·종료일은 미확인입니다. 헤어 재단·구역별 염색을 소개하며 9월 24일 수정 공지가 염색 개방을 확인합니다."
+        },
+        "en": "See the regional official conditions.",
+        "ko": "해당 서버 공식 공지의 조건을 확인하세요."
+      },
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260925/5bbebbf8-7066-4216-bd41-584da9e00e14.jpg",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 1823860,
+          "reusePermission": "unknown",
+          "visuallyInspected": true,
+          "sourceFrame": 0,
+          "inspectionNote": "Named official section and character/item artwork inspected September 26. Static frame 0 retained for GIF; full composition accessible in gallery. Not in-game verification.",
+          "server": "CN"
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260925/20b58a55-c89b-4b09-a4d3-2f5327e8b4ed.jpg",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 1818541,
+          "reusePermission": "unknown",
+          "visuallyInspected": true,
+          "sourceFrame": 0,
+          "inspectionNote": "Named official section and character/item artwork inspected September 26. Static frame 0 retained for GIF; full composition accessible in gallery. Not in-game verification.",
+          "server": "CN"
+        }
+      ],
+      "officialVideos": [],
+      "mediaStatus": "verified",
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "namingNote": {
+        "en": "Provisional reading of the CN name; no official Global name verified.",
+        "ko": "중국 원명의 임시 독음이며 글로벌 공식명은 미확인입니다."
+      }
+    },
+    {
+      "id": "he-rao-qing-hui",
+      "nameOriginal": "鹤绕清辉",
+      "romanization": "He Rao Qing Hui",
+      "category": "effect",
+      "sourceId": "cn-20260922-appearance",
+      "acquisitionServer": "CN",
+      "mediaServer": "CN",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": "2026-09-24",
+        "precision": "day",
+        "timezone": null,
+        "contextual": false,
+        "basis": "Item schedule in the named official CN notice; actual status is recorded separately."
+      },
+      "acquisition": {
+        "kind": "limited_draw",
+        "pricing": "draw",
+        "amount": null,
+        "regularAmount": null,
+        "currencyOriginal": "玉烟斗",
+        "location": {
+          "en": "Jin Sheng Yu Run event",
+          "ko": "금성옥윤 이벤트",
+          "original": "金声玉润"
+        },
+        "conditions": {
+          "en": "CN: after the September 24 update. Uses 玉烟斗; first draw is free. The event has four pools; an individual item cost and end date are not verified.",
+          "ko": "중국: 9월 24일 업데이트 후. 옥연두 사용, 첫 회 무료. 네 개의 보상 풀로 구성되며 개별 외관 비용·종료일은 미확인입니다."
+        },
+        "en": "See the regional official conditions.",
+        "ko": "해당 서버 공식 공지의 조건을 확인하세요."
+      },
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260925/94f8ef8f-2ed7-4d0b-a58e-2b51ada664d2.gif",
+          "width": 600,
+          "height": 440,
+          "bytes": 14712630,
+          "reusePermission": "unknown",
+          "visuallyInspected": true,
+          "sourceFrame": 0,
+          "inspectionNote": "Named official section and character/item artwork inspected September 26. Static frame 0 retained for GIF; full composition accessible in gallery. Not in-game verification.",
+          "server": "CN"
+        }
+      ],
+      "officialVideos": [],
+      "mediaStatus": "verified",
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "namingNote": {
+        "en": "Provisional reading of the CN name; no official Global name verified.",
+        "ko": "중국 원명의 임시 독음이며 글로벌 공식명은 미확인입니다."
+      }
+    },
+    {
+      "id": "hong-ye-xiao-xiao",
+      "nameOriginal": "红叶萧萧",
+      "romanization": "Hong Ye Xiao Xiao",
+      "category": "outfit",
+      "sourceId": "cn-20260922-appearance",
+      "acquisitionServer": "CN",
+      "mediaServer": "CN",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": "2026-09-24",
+        "precision": "day",
+        "timezone": null,
+        "contextual": false,
+        "basis": "Item schedule in the named official CN notice; actual status is recorded separately."
+      },
+      "acquisition": {
+        "kind": "battle_pass",
+        "pricing": "pass",
+        "amount": null,
+        "regularAmount": null,
+        "currencyOriginal": null,
+        "location": {
+          "en": "Nan Lü Xiang He · Part I",
+          "ko": "남려상화·상",
+          "original": "南吕相和·上"
+        },
+        "conditions": {
+          "en": "CN Elite Battle Pass outfit. Premium pass also includes the elite rewards; price and outfit reward level are unstated.",
+          "ko": "중국 정예 배틀패스 의상입니다. 상위 등급 배틀패스에도 정예 보상이 포함되며 가격·의상 보상 레벨은 미표기입니다."
+        },
+        "en": "See the regional official conditions.",
+        "ko": "해당 서버 공식 공지의 조건을 확인하세요."
+      },
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260925/27833b70-4b26-4289-b178-940791bfb474.jpg",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 1879159,
+          "reusePermission": "unknown",
+          "visuallyInspected": true,
+          "sourceFrame": 0,
+          "inspectionNote": "Named official section and character/item artwork inspected September 26. Static frame 0 retained for GIF; full composition accessible in gallery. Not in-game verification.",
+          "server": "CN"
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260925/67ee0024-978e-4d30-98f6-701e1d9fa3ee.jpg",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 1811869,
+          "reusePermission": "unknown",
+          "visuallyInspected": true,
+          "sourceFrame": 0,
+          "inspectionNote": "Named official section and character/item artwork inspected September 26. Static frame 0 retained for GIF; full composition accessible in gallery. Not in-game verification.",
+          "server": "CN"
+        }
+      ],
+      "officialVideos": [],
+      "mediaStatus": "verified",
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "namingNote": {
+        "en": "Provisional reading of the CN name; no official Global name verified.",
+        "ko": "중국 원명의 임시 독음이며 글로벌 공식명은 미확인입니다."
+      }
+    },
+    {
+      "id": "wan-lai-chen-zhong-jian-yue",
+      "nameOriginal": "万籁·尘中见月",
+      "romanization": "Wan Lai · Chen Zhong Jian Yue",
+      "category": "weapon_skin",
+      "sourceId": "cn-20260922-appearance",
+      "acquisitionServer": "CN",
+      "mediaServer": "CN",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": "2026-09-24",
+        "precision": "day",
+        "timezone": null,
+        "contextual": true,
+        "basis": "This week’s update in the September 22 article; the same article explicitly identifies the update as September 24. No exact release time is inferred."
+      },
+      "acquisition": {
+        "kind": "shop",
+        "pricing": "fixed",
+        "amount": 1280,
+        "regularAmount": null,
+        "currencyOriginal": "长鸣珠",
+        "location": {
+          "en": "Shop",
+          "ko": "상점",
+          "original": "商店"
+        },
+        "conditions": {
+          "en": "CN: 1,280 Echo Beads after this week’s September 24 update; no removal date stated.",
+          "ko": "중국: 해당 주 9월 24일 업데이트 후 1,280 장명주. 판매 종료일 미표기."
+        },
+        "en": "See the regional official conditions.",
+        "ko": "해당 서버 공식 공지의 조건을 확인하세요."
+      },
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260925/930c3ef4-e126-4ab2-b5f3-2c3cc1660340.jpg",
+          "width": 5120,
+          "height": 8595,
+          "bytes": 19912006,
+          "reusePermission": "unknown",
+          "visuallyInspected": true,
+          "sourceFrame": 0,
+          "inspectionNote": "Named official section and character/item artwork inspected September 26. Static frame 0 retained for GIF; full composition accessible in gallery. Not in-game verification.",
+          "server": "CN"
+        }
+      ],
+      "officialVideos": [],
+      "mediaStatus": "verified",
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "namingNote": {
+        "en": "Provisional reading of the CN name; no official Global name verified.",
+        "ko": "중국 원명의 임시 독음이며 글로벌 공식명은 미확인입니다."
+      }
+    },
+    {
+      "id": "yi-gui",
+      "nameOriginal": "义归",
+      "romanization": "Yi Gui",
+      "category": "outfit",
+      "sourceId": "cn-20260922-appearance",
+      "acquisitionServer": "CN",
+      "mediaServer": "CN",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": "2026-09-24",
+        "precision": "day",
+        "timezone": null,
+        "contextual": true,
+        "basis": "This week’s update in the September 22 article; the same article explicitly identifies the update as September 24. No exact release time is inferred."
+      },
+      "acquisition": {
+        "kind": "event",
+        "pricing": "free",
+        "amount": null,
+        "regularAmount": null,
+        "currencyOriginal": null,
+        "location": {
+          "en": "Guild rewards",
+          "ko": "백업 보상",
+          "original": "百业"
+        },
+        "conditions": {
+          "en": "Announced as a free CN guild outfit alongside the September 24 guild update. Exact unlock requirements and reward tier are not specified.",
+          "ko": "9월 24일 백업 개편과 함께 소개한 중국 무료 의상입니다. 정확한 해금 조건·보상 단계는 미표기입니다."
+        },
+        "en": "See the regional official conditions.",
+        "ko": "해당 서버 공식 공지의 조건을 확인하세요."
+      },
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260925/90b7bbca-132f-4552-9a34-faf8d6592170.jpg",
+          "width": 2880,
+          "height": 5120,
+          "bytes": 7415802,
+          "reusePermission": "unknown",
+          "visuallyInspected": true,
+          "sourceFrame": 0,
+          "inspectionNote": "Named official section and character/item artwork inspected September 26. Static frame 0 retained for GIF; full composition accessible in gallery. Not in-game verification.",
+          "server": "CN"
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260925/12707af3-2efb-4a1c-b104-9418cf057e44.jpg",
+          "width": 2880,
+          "height": 5120,
+          "bytes": 7826487,
+          "reusePermission": "unknown",
+          "visuallyInspected": true,
+          "sourceFrame": 0,
+          "inspectionNote": "Named official section and character/item artwork inspected September 26. Static frame 0 retained for GIF; full composition accessible in gallery. Not in-game verification.",
+          "server": "CN"
+        }
+      ],
+      "officialVideos": [],
+      "mediaStatus": "verified",
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "namingNote": {
+        "en": "Provisional reading of the CN name; no official Global name verified.",
+        "ko": "중국 원명의 임시 독음이며 글로벌 공식명은 미확인입니다."
+      }
+    },
+    {
+      "id": "yu-gui-shan-shan",
+      "nameOriginal": "玉桂珊珊",
+      "romanization": "Yu Gui Shan Shan",
+      "category": "outfit",
+      "sourceId": "cn-20260923-appearance",
+      "acquisitionServer": "CN",
+      "mediaServer": "CN",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": "2026-09-24",
+        "precision": "day",
+        "timezone": null,
+        "contextual": false,
+        "basis": "Item schedule in the named official CN notice; actual status is recorded separately."
+      },
+      "acquisition": {
+        "kind": "shop",
+        "pricing": "fixed",
+        "amount": 2580,
+        "regularAmount": null,
+        "currencyOriginal": "长鸣珠",
+        "location": {
+          "en": "Shop",
+          "ko": "상점",
+          "original": "商店"
+        },
+        "conditions": {
+          "en": "CN: after the September 24 update–October 24, 05:00; timezone unstated. Supports separate top/bottom and dyeing; includes accessories and avatar.",
+          "ko": "중국: 9월 24일 업데이트 후~10월 24일 05:00, 시간대 미표기. 상하의 분리·염색 지원, 장신구·프로필 포함."
+        },
+        "en": "See the regional official conditions.",
+        "ko": "해당 서버 공식 공지의 조건을 확인하세요."
+      },
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260925/c73c38f4-d424-4622-8821-a1ea772cde25.jpg",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 1457057,
+          "reusePermission": "unknown",
+          "visuallyInspected": true,
+          "sourceFrame": 0,
+          "inspectionNote": "Named official section and character/item artwork inspected September 26. Static frame 0 retained for GIF; full composition accessible in gallery. Not in-game verification.",
+          "server": "CN"
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260925/72c3da0c-c986-4345-86af-1eeb8fdc4994.jpg",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 1985410,
+          "reusePermission": "unknown",
+          "visuallyInspected": true,
+          "sourceFrame": 0,
+          "inspectionNote": "Named official section and character/item artwork inspected September 26. Static frame 0 retained for GIF; full composition accessible in gallery. Not in-game verification.",
+          "server": "CN"
+        }
+      ],
+      "officialVideos": [],
+      "mediaStatus": "verified",
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "namingNote": {
+        "en": "Provisional reading of the CN name; no official Global name verified.",
+        "ko": "중국 원명의 임시 독음이며 글로벌 공식명은 미확인입니다."
+      }
+    },
+    {
+      "id": "shun-hua",
+      "nameOriginal": "舜华",
+      "romanization": "Shun Hua",
+      "category": "hair",
+      "sourceId": "cn-20260923-appearance",
+      "acquisitionServer": "CN",
+      "mediaServer": "CN",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": "2026-09-24",
+        "precision": "day",
+        "timezone": null,
+        "contextual": false,
+        "basis": "Item schedule in the named official CN notice; actual status is recorded separately."
+      },
+      "acquisition": {
+        "kind": "exchange_shop",
+        "pricing": "fixed",
+        "amount": 1,
+        "regularAmount": null,
+        "currencyOriginal": "八音窍",
+        "location": {
+          "en": "Resonance Shop",
+          "ko": "공명 상점",
+          "original": "和鸣商店"
+        },
+        "conditions": {
+          "en": "CN: 90-day listing after the September 24 update. Dyeing and animated player avatar included; exact end instant is not inferred from the duration.",
+          "ko": "중국: 9월 24일 업데이트 후 90일간 판매. 염색·움직이는 프로필 포함. 기간만으로 정확한 종료 시각을 계산하지 않습니다."
+        },
+        "en": "See the regional official conditions.",
+        "ko": "해당 서버 공식 공지의 조건을 확인하세요."
+      },
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260925/3c5ea912-3581-49d5-990e-440136e7443b.jpg",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 1692257,
+          "reusePermission": "unknown",
+          "visuallyInspected": true,
+          "sourceFrame": 0,
+          "inspectionNote": "Named official section and character/item artwork inspected September 26. Static frame 0 retained for GIF; full composition accessible in gallery. Not in-game verification.",
+          "server": "CN"
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260925/bf2e5c3a-d16d-488c-ae05-3914888a4d04.jpg",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 2176172,
+          "reusePermission": "unknown",
+          "visuallyInspected": true,
+          "sourceFrame": 0,
+          "inspectionNote": "Named official section and character/item artwork inspected September 26. Static frame 0 retained for GIF; full composition accessible in gallery. Not in-game verification.",
+          "server": "CN"
+        }
+      ],
+      "officialVideos": [],
+      "mediaStatus": "verified",
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "namingNote": {
+        "en": "Provisional reading of the CN name; no official Global name verified.",
+        "ko": "중국 원명의 임시 독음이며 글로벌 공식명은 미확인입니다."
+      }
+    },
+    {
+      "id": "chuan-hua-jian",
+      "nameOriginal": "穿花见",
+      "romanization": "Chuan Hua Jian",
+      "category": "outfit",
+      "sourceId": "cn-20260923-appearance",
+      "acquisitionServer": "CN",
+      "mediaServer": "CN",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": "2026-09-24",
+        "precision": "day",
+        "timezone": null,
+        "contextual": false,
+        "basis": "Item schedule in the named official CN notice; actual status is recorded separately."
+      },
+      "acquisition": {
+        "kind": "seasonal_draw",
+        "pricing": "draw",
+        "amount": null,
+        "regularAmount": null,
+        "currencyOriginal": "绕梁之音",
+        "location": {
+          "en": "Nan Lü Xiang He seasonal draw",
+          "ko": "남려상화 시즌 공명",
+          "original": "和鸣·玉振扬音"
+        },
+        "conditions": {
+          "en": "CN: September 24 after update–December 25, 05:00; timezone unstated. Uses 绕梁之音. Up to 150 draws for all seasonal appearances is a shared pool guarantee, not an individual item price.",
+          "ko": "중국: 9월 24일 업데이트 후~12월 25일 05:00, 시간대 미표기. 요량지음 사용. 시즌 외관 전체를 최대 150회로 획득하는 공동 보장이며 개별 외관 가격이 아닙니다."
+        },
+        "en": "See the regional official conditions.",
+        "ko": "해당 서버 공식 공지의 조건을 확인하세요."
+      },
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260925/0e0e34b9-f31e-4d43-9182-eb00538e2581.png",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 3354499,
+          "reusePermission": "unknown",
+          "visuallyInspected": true,
+          "sourceFrame": 0,
+          "inspectionNote": "Named official section and character/item artwork inspected September 26. Static frame 0 retained for GIF; full composition accessible in gallery. Not in-game verification.",
+          "server": "CN"
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260925/a8a3fb99-059f-495e-8953-d89f41adc6f6.png",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 3489895,
+          "reusePermission": "unknown",
+          "visuallyInspected": true,
+          "sourceFrame": 0,
+          "inspectionNote": "Named official section and character/item artwork inspected September 26. Static frame 0 retained for GIF; full composition accessible in gallery. Not in-game verification.",
+          "server": "CN"
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260925/e91037c0-fef2-4b17-b449-b51b53b19d77.png",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 3898884,
+          "reusePermission": "unknown",
+          "visuallyInspected": true,
+          "sourceFrame": 0,
+          "inspectionNote": "Named official section and character/item artwork inspected September 26. Static frame 0 retained for GIF; full composition accessible in gallery. Not in-game verification.",
+          "server": "CN"
+        }
+      ],
+      "officialVideos": [],
+      "mediaStatus": "verified",
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "namingNote": {
+        "en": "Provisional reading of the CN name; no official Global name verified.",
+        "ko": "중국 원명의 임시 독음이며 글로벌 공식명은 미확인입니다."
+      }
+    },
+    {
+      "id": "fu-liu-xiang",
+      "nameOriginal": "拂留香",
+      "romanization": "Fu Liu Xiang",
+      "category": "hair",
+      "sourceId": "cn-20260923-appearance",
+      "acquisitionServer": "CN",
+      "mediaServer": "CN",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": "2026-09-24",
+        "precision": "day",
+        "timezone": null,
+        "contextual": false,
+        "basis": "Item schedule in the named official CN notice; actual status is recorded separately."
+      },
+      "acquisition": {
+        "kind": "seasonal_draw",
+        "pricing": "draw",
+        "amount": null,
+        "regularAmount": null,
+        "currencyOriginal": "绕梁之音",
+        "location": {
+          "en": "Nan Lü Xiang He seasonal draw",
+          "ko": "남려상화 시즌 공명",
+          "original": "和鸣·玉振扬音"
+        },
+        "conditions": {
+          "en": "CN: September 24 after update–December 25, 05:00; timezone unstated. Uses 绕梁之音. Up to 150 draws for all seasonal appearances is a shared pool guarantee, not an individual item price.",
+          "ko": "중국: 9월 24일 업데이트 후~12월 25일 05:00, 시간대 미표기. 요량지음 사용. 시즌 외관 전체를 최대 150회로 획득하는 공동 보장이며 개별 외관 가격이 아닙니다."
+        },
+        "en": "See the regional official conditions.",
+        "ko": "해당 서버 공식 공지의 조건을 확인하세요."
+      },
+      "images": [],
+      "officialVideos": [],
+      "mediaStatus": "pending",
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "namingNote": {
+        "en": "Provisional reading of the CN name; no official Global name verified.",
+        "ko": "중국 원명의 임시 독음이며 글로벌 공식명은 미확인입니다."
+      }
+    },
+    {
+      "id": "ru-fang-fei",
+      "nameOriginal": "入芳菲",
+      "romanization": "Ru Fang Fei",
+      "category": "hair",
+      "sourceId": "cn-20260923-appearance",
+      "acquisitionServer": "CN",
+      "mediaServer": "CN",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": "2026-09-24",
+        "precision": "day",
+        "timezone": null,
+        "contextual": false,
+        "basis": "Item schedule in the named official CN notice; actual status is recorded separately."
+      },
+      "acquisition": {
+        "kind": "seasonal_draw",
+        "pricing": "draw",
+        "amount": null,
+        "regularAmount": null,
+        "currencyOriginal": "绕梁之音",
+        "location": {
+          "en": "Nan Lü Xiang He seasonal draw",
+          "ko": "남려상화 시즌 공명",
+          "original": "和鸣·玉振扬音"
+        },
+        "conditions": {
+          "en": "CN: September 24 after update–December 25, 05:00; timezone unstated. Uses 绕梁之音. Up to 150 draws for all seasonal appearances is a shared pool guarantee, not an individual item price.",
+          "ko": "중국: 9월 24일 업데이트 후~12월 25일 05:00, 시간대 미표기. 요량지음 사용. 시즌 외관 전체를 최대 150회로 획득하는 공동 보장이며 개별 외관 가격이 아닙니다."
+        },
+        "en": "See the regional official conditions.",
+        "ko": "해당 서버 공식 공지의 조건을 확인하세요."
+      },
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260925/45e57e6f-9dfd-477a-9053-400d397f8919.jpg",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 1934483,
+          "reusePermission": "unknown",
+          "visuallyInspected": true,
+          "sourceFrame": 0,
+          "inspectionNote": "Named official section and character/item artwork inspected September 26. Static frame 0 retained for GIF; full composition accessible in gallery. Not in-game verification.",
+          "server": "CN"
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260925/491dbd2c-5722-4ac4-9396-5ea552abaf01.jpg",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 1729943,
+          "reusePermission": "unknown",
+          "visuallyInspected": true,
+          "sourceFrame": 0,
+          "inspectionNote": "Named official section and character/item artwork inspected September 26. Static frame 0 retained for GIF; full composition accessible in gallery. Not in-game verification.",
+          "server": "CN"
+        }
+      ],
+      "officialVideos": [],
+      "mediaStatus": "verified",
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "namingNote": {
+        "en": "Provisional reading of the CN name; no official Global name verified.",
+        "ko": "중국 원명의 임시 독음이며 글로벌 공식명은 미확인입니다."
+      }
+    },
+    {
+      "id": "sheng-yue-lun",
+      "nameOriginal": "盛月轮",
+      "romanization": "Sheng Yue Lun",
+      "category": "accessory",
+      "sourceId": "cn-20260923-appearance",
+      "acquisitionServer": "CN",
+      "mediaServer": "CN",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": "2026-09-25",
+        "precision": "day",
+        "timezone": null,
+        "contextual": false,
+        "basis": "Item schedule in the named official CN notice; actual status is recorded separately."
+      },
+      "acquisition": {
+        "kind": "event",
+        "pricing": "free",
+        "amount": null,
+        "regularAmount": null,
+        "currencyOriginal": null,
+        "location": {
+          "en": "Mid-Autumn moon-viewing event",
+          "ko": "중추절 달맞이 이벤트",
+          "original": "中秋赏月"
+        },
+        "conditions": {
+          "en": "CN event: September 25, 00:00–October 2, 05:00; timezone unstated. Visit the event area to view the moon and receive rewards. Individual artwork is not verified.",
+          "ko": "중국 이벤트: 9월 25일 00:00~10월 2일 05:00, 시간대 미표기. 이벤트 장소에서 달맞이에 참여해 보상을 받습니다. 개별 외관 이미지는 미확인입니다."
+        },
+        "en": "See the regional official conditions.",
+        "ko": "해당 서버 공식 공지의 조건을 확인하세요."
+      },
+      "images": [],
+      "officialVideos": [],
+      "mediaStatus": "pending",
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "namingNote": {
+        "en": "Provisional reading of the CN name; no official Global name verified.",
+        "ko": "중국 원명의 임시 독음이며 글로벌 공식명은 미확인입니다."
+      }
+    },
+    {
+      "id": "fei-tian-wu-yue-tu",
+      "nameOriginal": "飞天舞乐兔",
+      "romanization": "Fei Tian Wu Yue Tu",
+      "category": "accessory",
+      "sourceId": "cn-20260923-appearance",
+      "acquisitionServer": "CN",
+      "mediaServer": "CN",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": "2026-09-24",
+        "precision": "day",
+        "timezone": null,
+        "contextual": false,
+        "basis": "Item schedule in the named official CN notice; actual status is recorded separately."
+      },
+      "acquisition": {
+        "kind": "battle_pass",
+        "pricing": "pass",
+        "amount": null,
+        "regularAmount": null,
+        "currencyOriginal": null,
+        "location": {
+          "en": "Jianghu Yi Elite Wu Lu Scroll",
+          "ko": "강호혁 정예 오로권",
+          "original": "江湖弈·精英乌鹭卷"
+        },
+        "conditions": {
+          "en": "CN: unlock the elite scroll for CNY 68, then level it to earn the accessory. September 24 after update–December 25, 05:00; timezone unstated. CNY 68 is the pass price, not a standalone accessory price; exact reward level unstated.",
+          "ko": "중국: 정예권을 68위안으로 해금한 뒤 레벨을 올려 장신구를 획득합니다. 9월 24일 업데이트 후~12월 25일 05:00, 시간대 미표기. 68위안은 이용권 가격이며 장신구 단품 가격이 아닙니다. 정확한 보상 레벨 미표기."
+        },
+        "en": "See the regional official conditions.",
+        "ko": "해당 서버 공식 공지의 조건을 확인하세요."
+      },
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260925/ec792e91-30b7-4ac5-b736-dcb617db3d1c.png",
+          "width": 1920,
+          "height": 881,
+          "bytes": 2063525,
+          "reusePermission": "unknown",
+          "visuallyInspected": true,
+          "sourceFrame": 0,
+          "inspectionNote": "Named official section and character/item artwork inspected September 26. Static frame 0 retained for GIF; full composition accessible in gallery. Not in-game verification.",
+          "server": "CN"
+        }
+      ],
+      "officialVideos": [],
+      "mediaStatus": "verified",
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "namingNote": {
+        "en": "Provisional reading of the CN name; no official Global name verified.",
+        "ko": "중국 원명의 임시 독음이며 글로벌 공식명은 미확인입니다."
+      }
+    },
+    {
+      "id": "global-moonhare-merriment",
+      "nameOriginal": "Moonhare Merriment",
+      "romanization": "Moonhare Merriment",
+      "category": "accessory",
+      "sourceId": "global-x-20260924-moonhare",
+      "acquisitionServer": "Global",
+      "mediaServer": "Global",
+      "officialNameEn": "Moonhare Merriment",
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": null,
+        "precision": "unknown",
+        "timezone": null,
+        "contextual": false,
+        "basis": "CN identity and release are unverified."
+      },
+      "acquisition": {
+        "kind": "event",
+        "pricing": "free",
+        "amount": null,
+        "regularAmount": null,
+        "currencyOriginal": null,
+        "location": {
+          "en": "One Moon, Miles Apart",
+          "ko": "One Moon, Miles Apart 달맞이 이벤트",
+          "original": "One Moon, Miles Apart"
+        },
+        "conditions": {
+          "en": "Global event: September 25–October 2; exact times and timezone unstated. Visit the event area and admire the moon to claim the accessory. Individual artwork and Korean official name are unverified.",
+          "ko": "글로벌 이벤트: 9월 25일~10월 2일, 정확한 시각·시간대 미표기. 이벤트 장소에서 달맞이에 참여해 장신구를 획득합니다. 개별 외관 이미지·한국어 공식명은 미확인입니다."
+        },
+        "en": "See the regional official conditions.",
+        "ko": "해당 서버 공식 공지의 조건을 확인하세요."
+      },
+      "images": [],
+      "officialVideos": [],
+      "mediaStatus": "pending",
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "namingNote": {
+        "en": "Official English name; Korean transliteration is provisional. CN identity is unverified.",
+        "ko": "공식 영문명이며 한국어 독음은 임시 표기입니다. 중국 항목과의 대응은 미확인입니다."
+      }
+    },
+    {
+      "id": "global-cloudgrace-earrings",
+      "nameOriginal": "Cloudgrace Earrings",
+      "romanization": "Cloudgrace Earrings",
+      "category": "accessory",
+      "sourceId": "global-x-20260924-cloudgrace",
+      "acquisitionServer": "Global",
+      "mediaServer": "Global",
+      "officialNameEn": "Cloudgrace Earrings",
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": null,
+        "precision": "unknown",
+        "timezone": null,
+        "contextual": false,
+        "basis": "CN identity and release are unverified."
+      },
+      "acquisition": {
+        "kind": "event",
+        "pricing": "free",
+        "amount": null,
+        "regularAmount": null,
+        "currencyOriginal": null,
+        "location": {
+          "en": "Mid-Autumn check-in",
+          "ko": "중추절 출석 이벤트",
+          "original": "Mid-Autumn check-in"
+        },
+        "conditions": {
+          "en": "Global event: September 25–October 10 (UTC). Log in for 10 days for the reward bundle. The exact day awarding the accessory is unstated, so no individual release date is assigned.",
+          "ko": "글로벌 이벤트: 9월 25일~10월 10일(UTC). 10일간 접속하면 보상 묶음을 획득합니다. 장신구의 정확한 지급 일차는 미표기이므로 개별 출시일을 정하지 않습니다."
+        },
+        "en": "See the regional official conditions.",
+        "ko": "해당 서버 공식 공지의 조건을 확인하세요."
+      },
+      "images": [],
+      "officialVideos": [],
+      "mediaStatus": "pending",
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "namingNote": {
+        "en": "Official English name; Korean transliteration is provisional. CN identity is unverified.",
+        "ko": "공식 영문명이며 한국어 독음은 임시 표기입니다. 중국 항목과의 대응은 미확인입니다."
       }
     }
   ],
