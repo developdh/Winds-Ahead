@@ -4905,5 +4905,110 @@
       "en": "CN official appearance announcement. Global release remains unconfirmed.",
       "ko": "중국 공식 공지에 소개된 외관입니다. 글로벌 출시는 미확인입니다."
     }
+  },
+  "jin-zhao-yu": {
+    "koName": "금소옥",
+    "description": {
+      "en": "Black, silver and gold CN event outfit with white fur, bead chains and embroidered sheer layers.",
+      "ko": "흰 털 장식·구슬 사슬·얇은 자수 겉옷을 조합한 검정·은색·금색 중국 이벤트 의상입니다."
+    }
+  },
+  "jin-yu-meng": {
+    "koName": "금옥몽",
+    "description": {
+      "en": "Pale-gold event hairstyle with shaping and regional dye controls.",
+      "ko": "재단과 구역별 염색을 지원하는 옅은 금색 이벤트 헤어입니다."
+    }
+  },
+  "he-rao-qing-hui": {
+    "koName": "학요청휘",
+    "description": {
+      "en": "Wearable roaming-light effect with golden cranes circling the character; categorized as 游光 in CN.",
+      "ko": "금빛 학이 캐릭터 주변을 도는 착용형 광효과이며 중국 분류명은 游光입니다."
+    }
+  },
+  "hong-ye-xiao-xiao": {
+    "koName": "홍엽소소",
+    "description": {
+      "en": "White autumn outfit with red maple leaves, a broad hat and layered featherlike trim.",
+      "ko": "흰 옷에 붉은 단풍·넓은 갓·겹겹의 깃 모양 장식을 더한 가을 의상입니다."
+    }
+  },
+  "wan-lai-chen-zhong-jian-yue": {
+    "koName": "만뢰·진중견월",
+    "description": {
+      "en": "Umbrella appearance with a starry canopy, moon and mountain scenery.",
+      "ko": "별빛 우산 면에 달과 산 풍경을 담은 우산 외관입니다."
+    }
+  },
+  "yi-gui": {
+    "koName": "의귀",
+    "description": {
+      "en": "Dark guild outfit with braided trim, fur panels and layered belts.",
+      "ko": "꼰 끈 장식·털 패널·겹 허리띠가 특징인 어두운 백업 의상입니다."
+    }
+  },
+  "yu-gui-shan-shan": {
+    "koName": "옥계산산",
+    "description": {
+      "en": "Mid-Autumn commemorative outfit in moon-white, pink and gold with osmanthus details.",
+      "ko": "달빛 흰색·분홍·금색 바탕에 계수나무 꽃 장식을 더한 중추절 기념 의상입니다."
+    }
+  },
+  "shun-hua": {
+    "koName": "순화",
+    "description": {
+      "en": "Soft pink hairstyle shown with the Mid-Autumn set.",
+      "ko": "중추절 세트와 함께 소개된 부드러운 분홍색 헤어입니다."
+    }
+  },
+  "chuan-hua-jian": {
+    "koName": "천화견",
+    "description": {
+      "en": "Pink-and-white floral seasonal draw outfit with petal layers and butterfly details.",
+      "ko": "꽃잎 형태의 겹옷과 나비 장식이 특징인 분홍·흰색 시즌 공명 의상입니다."
+    }
+  },
+  "fu-liu-xiang": {
+    "koName": "불류향",
+    "description": {
+      "en": "Named hairstyle reward in the CN seasonal draw; a separate matching hairstyle image is not verified.",
+      "ko": "중국 시즌 공명에서 명시한 헤어 보상입니다. 독립된 해당 헤어 이미지는 미확인입니다."
+    }
+  },
+  "ru-fang-fei": {
+    "koName": "입방비",
+    "description": {
+      "en": "Seasonal draw hairstyle with flower and butterfly-inspired pink accents.",
+      "ko": "분홍 꽃·나비 형상의 장식이 있는 시즌 공명 헤어입니다."
+    }
+  },
+  "sheng-yue-lun": {
+    "koName": "성월륜",
+    "description": {
+      "en": "Accessory named in the CN moon-viewing reward list; no Global identity match established.",
+      "ko": "중국 달맞이 보상 목록에 명시된 장신구입니다. 글로벌 항목과의 대응은 미확인입니다."
+    }
+  },
+  "fei-tian-wu-yue-tu": {
+    "koName": "비천무악토",
+    "description": {
+      "en": "White rabbit accessory with musical instruments and flowing ribbons; distinct from the same-named game piece.",
+      "ko": "악기와 흩날리는 띠가 있는 흰 토끼 장신구입니다. 같은 이름의 게임 말과 구분합니다."
+    }
+  },
+  "global-moonhare-merriment": {
+    "koName": "문헤어 메리먼트",
+    "description": {
+      "en": "Accessory reward announced for the Global Mid-Autumn moon-viewing event.",
+      "ko": "글로벌 중추절 달맞이 이벤트에서 예고한 장신구 보상입니다."
+    }
+  },
+  "global-cloudgrace-earrings": {
+    "koName": "클라우드그레이스 이어링",
+    "description": {
+      "en": "Earrings announced among the Global Mid-Autumn check-in rewards.",
+      "ko": "글로벌 중추절 출석 보상에 포함된 귀걸이입니다."
+    }
   }
 }

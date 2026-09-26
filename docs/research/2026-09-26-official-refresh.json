@@ -1,0 +1,791 @@
+{
+  "checkedAt": "2026-09-26T17:47:29Z",
+  "scope": "September 22–26 CN/Global appearance and event refresh; signed-in official X posts September 21–26; not a complete game inventory.",
+  "sources": [
+    {
+      "id": "cn-20260922-appearance",
+      "url": "https://www.yysls.cn/news/official/20260925/37780_1315084.html",
+      "titleOriginal": "桂影流金，华服相迎丨多套全新外观盛装登场",
+      "publisher": "NetEase / Where Winds Meet official website",
+      "server": "CN",
+      "displayedPublicationDate": "2026-09-22",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-09-26",
+      "verificationNote": "Read the full text and visually inspected named appearance images. September 24 update context is explicit; publication and URL dates differ.",
+      "urlPathDate": "2026-09-25",
+      "dateDiscrepancyNote": "Use the displayed publication date, not the URL directory."
+    },
+    {
+      "id": "cn-20260923-appearance",
+      "url": "https://www.yysls.cn/news/official/20260925/37780_1315085.html",
+      "titleOriginal": "9月24日丨退恶潮，定风波——全新镇守〖捍海塘〗",
+      "publisher": "NetEase / Where Winds Meet official website",
+      "server": "CN",
+      "displayedPublicationDate": "2026-09-23",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-09-26",
+      "verificationNote": "Read the appearance and event sections and inspected named imagery; exact item dates and reward conditions are kept separately.",
+      "urlPathDate": "2026-09-25",
+      "dateDiscrepancyNote": "Use the displayed publication date, not the URL directory."
+    },
+    {
+      "id": "cn-20260925-hotfix",
+      "url": "https://www.yysls.cn/news/update/20260926/40412_1315101.html",
+      "titleOriginal": "9月25日2.8.5版本在线修复公告",
+      "publisher": "NetEase / Where Winds Meet official website",
+      "server": "CN",
+      "displayedPublicationDate": "2026-09-25",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-09-26",
+      "verificationNote": "Direct HTTPS retrieval: September 24 fixes name 金玉梦 dyeing, 金昭玉 clothing, 穿花见 female clothing and 飞天舞乐兔 mobile model. This provides in-game evidence for those four items, not every announced cosmetic.",
+      "urlPathDate": "2026-09-26",
+      "dateDiscrepancyNote": "Use the displayed publication date, not the URL directory."
+    },
+    {
+      "id": "global-20260923-appearance-en",
+      "url": "https://www.wherewindsmeetgame.com/news/official/925appearance.html",
+      "titleOriginal": "[Perilous Eminence] Version 2.2 New Appearances Overview - September 25-27",
+      "publisher": "NetEase / Where Winds Meet official website",
+      "server": "Global",
+      "displayedPublicationDate": "2026-09-23",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-09-26",
+      "verificationNote": "Full text reread; explicit UTC+8 schedule for five previously matched appearances. Announcement wording does not establish actual availability."
+    },
+    {
+      "id": "global-20260923-appearance-ko",
+      "url": "https://www.wherewindsmeetgame.com/kr/news/official/925appearance.html",
+      "titleOriginal": "[구름 위 동행] 9월 25-27일 2.2 버전 신규 외관 목록",
+      "publisher": "NetEase / Where Winds Meet official website",
+      "server": "Global",
+      "displayedPublicationDate": "2026-09-23",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-09-26",
+      "verificationNote": "Full text reread. Local clock wording retained without assuming a timezone. Jade Moonrise ends October 25 here, clarifying the earlier Korean image prose discrepancy."
+    },
+    {
+      "id": "global-x-20260922-penglai",
+      "url": "https://x.com/WhereWindsMeet_/status/2102397514192167213",
+      "titleOriginal": "Penglai's Peaks — September 27 schedule",
+      "publisher": "Where Winds Meet / NetEase (official X)",
+      "server": "Global",
+      "displayedPublicationDate": "2026-09-22",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-09-26",
+      "verificationNote": "Read signed-in official profile post. September 27 05:00 to December 26 04:59:59 UTC+8; video preview is not an actual release confirmation."
+    },
+    {
+      "id": "global-x-20260923-cicada",
+      "url": "https://x.com/WhereWindsMeet_/status/2102759906612789566",
+      "titleOriginal": "Cicada Requiem and Autumn Dewlight — September 27",
+      "publisher": "Where Winds Meet / NetEase (official X)",
+      "server": "Global",
+      "displayedPublicationDate": "2026-09-23",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-09-26",
+      "verificationNote": "Expanded and read the official post: Cicada discount and Autumn Dewlight listing both begin September 27 00:00 UTC+8."
+    },
+    {
+      "id": "global-x-20260924-moonhare",
+      "url": "https://x.com/WhereWindsMeet_/status/2103122279957934298",
+      "titleOriginal": "One Moon, Miles Apart — Moonhare Merriment reward",
+      "publisher": "Where Winds Meet / NetEase (official X)",
+      "server": "Global",
+      "displayedPublicationDate": "2026-09-24",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-09-26",
+      "verificationNote": "Expanded official post and opened its image. Event September 25–October 2; timezone unstated. Image is scenery, not an individual accessory reference."
+    },
+    {
+      "id": "global-x-20260924-cloudgrace",
+      "url": "https://x.com/WhereWindsMeet_/status/2103092088565088701",
+      "titleOriginal": "Mid-Autumn check-in — Cloudgrace Earrings reward",
+      "publisher": "Where Winds Meet / NetEase (official X)",
+      "server": "Global",
+      "displayedPublicationDate": "2026-09-24",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-09-26",
+      "verificationNote": "Expanded official post: September 25–October 10 UTC, log in for ten days for the reward bundle. Exact accessory reward day is not stated."
+    }
+  ],
+  "addedCosmeticIds": [
+    "jin-zhao-yu",
+    "jin-yu-meng",
+    "he-rao-qing-hui",
+    "hong-ye-xiao-xiao",
+    "wan-lai-chen-zhong-jian-yue",
+    "yi-gui",
+    "yu-gui-shan-shan",
+    "shun-hua",
+    "chuan-hua-jian",
+    "fu-liu-xiang",
+    "ru-fang-fei",
+    "sheng-yue-lun",
+    "fei-tian-wu-yue-tu",
+    "global-moonhare-merriment",
+    "global-cloudgrace-earrings"
+  ],
+  "updatedGlobalIds": [
+    "jin-yan-yu-tuan",
+    "fu-guang",
+    "peng-shan-wan-zhong",
+    "shu-tong-liu-xiang",
+    "qiu-lu-qing"
+  ],
+  "previousRecords": {
+    "regionalRecords": [
+      {
+        "cosmeticId": "jin-yan-yu-tuan",
+        "server": "Global",
+        "status": "announced",
+        "releaseDate": "2026-09-25",
+        "precision": "day",
+        "verifiedAt": "2026-09-21",
+        "sourceIds": [
+          "global-20260921-update-en",
+          "global-20260921-update-ko",
+          "global-x-20260921-jade-moonrise"
+        ],
+        "scope": {
+          "en": "Announced for September 25, 05:00 UTC+8 in the official X post. Korean image says 06:00 without printing its timezone. This is a future announcement, not a verified release.",
+          "ko": "공식 X의 9월 25일 05:00(UTC+8) 출시 예고입니다. 한국어 이미지는 시간대 없이 06:00로 표기합니다. 실제 출시 확인 전의 예정 정보입니다."
+        },
+        "identityBasis": {
+          "en": "Same black/gold rabbit outfit, osmanthus embroidery, broad gold bow and white rabbit on the shoulder.",
+          "ko": "검정·금색 토끼 의상, 계수나무 꽃 자수, 큰 금색 리본과 어깨의 흰 토끼가 일치합니다."
+        },
+        "acquisition": {
+          "kind": "shop",
+          "pricing": "fixed",
+          "amount": 2580,
+          "regularAmount": null,
+          "currencyOriginal": "长鸣珠",
+          "location": {
+            "en": "Shop",
+            "ko": "상점",
+            "original": "商店"
+          },
+          "conditions": {
+            "en": "2,580 Echo Beads. Official X and EN panel end October 25, 04:59:59 UTC+8. KO listing row agrees in calendar day, but KO prose says October 26; conflict retained, not treated as an extension.",
+            "ko": "2,580 장명주. 공식 X·영문 패널 종료는 10월 25일 04:59:59(UTC+8)입니다. 한국어 일정 행은 10월 25일, 본문은 10월 26일로 서로 달라 연장으로 해석하지 않습니다."
+          },
+          "en": "Price stated in this regional official notice.",
+          "ko": "해당 서버 공식 공지에 명시된 가격입니다."
+        }
+      },
+      {
+        "cosmeticId": "fu-guang",
+        "server": "Global",
+        "status": "announced",
+        "releaseDate": "2026-09-25",
+        "precision": "day",
+        "verifiedAt": "2026-09-21",
+        "sourceIds": [
+          "global-20260921-update-en",
+          "global-20260921-update-ko",
+          "global-x-20260921-jade-moonrise"
+        ],
+        "scope": {
+          "en": "Announced for September 25, 05:00 UTC+8 in the official X post. Korean image says 06:00 without printing its timezone. This is a future announcement, not a verified release.",
+          "ko": "공식 X의 9월 25일 05:00(UTC+8) 출시 예고입니다. 한국어 이미지는 시간대 없이 06:00로 표기합니다. 실제 출시 확인 전의 예정 정보입니다."
+        },
+        "identityBasis": {
+          "en": "Same pale cream hair, female blunt fringe and side rolls with orange flowers, male swept fringe and high ponytail.",
+          "ko": "옅은 크림색 헤어, 여성의 일자 앞머리·양옆 말아 올린 머리·주황 꽃, 남성의 넘긴 앞머리·높은 묶음이 일치합니다."
+        },
+        "acquisition": {
+          "kind": "exchange_shop",
+          "pricing": "fixed",
+          "amount": 1,
+          "regularAmount": null,
+          "currencyOriginal": "八音窍",
+          "location": {
+            "en": "Draw Shop",
+            "ko": "공명 상점",
+            "original": "和鸣商店"
+          },
+          "conditions": {
+            "en": "1 Harmonic Core. Official X ends December 24, 04:59:59 UTC+8; dyeing and animated player avatar included.",
+            "ko": "공명 구슬 1개. 공식 X 판매 종료는 12월 24일 04:59:59(UTC+8)이며 염색·움직이는 프로필을 포함합니다."
+          },
+          "en": "Price stated in this regional official notice.",
+          "ko": "해당 서버 공식 공지에 명시된 가격입니다."
+        }
+      },
+      {
+        "cosmeticId": "peng-shan-wan-zhong",
+        "server": "Global",
+        "status": "announced",
+        "releaseDate": "2026-09-27",
+        "precision": "day",
+        "verifiedAt": "2026-09-21",
+        "sourceIds": [
+          "global-20260921-update-en",
+          "global-20260921-update-ko"
+        ],
+        "scope": {
+          "en": "Announced for September 27. EN image lists 05:00; KO lists 06:00. Neither panel states a timezone, so no absolute instant is inferred. Release remains unverified.",
+          "ko": "9월 27일 출시 예고입니다. 영문 이미지는 05:00, 한국어는 06:00로 표기하며 두 패널 모두 시간대가 없어 절대 시각으로 환산하지 않습니다. 실제 출시는 미확인입니다."
+        },
+        "identityBasis": {
+          "en": "Same green/gold avian shoulder armor, half-face mask, white hair and black feather cloak.",
+          "ko": "녹색·금색 새 형상의 어깨 장식, 반쪽 가면, 백발과 검은 깃털 망토가 일치합니다."
+        },
+        "acquisition": {
+          "kind": "exchange_shop",
+          "pricing": "fixed",
+          "amount": 2,
+          "regularAmount": null,
+          "currencyOriginal": "八音窍",
+          "location": {
+            "en": "Draw Shop",
+            "ko": "공명 상점",
+            "original": "和鸣商店"
+          },
+          "conditions": {
+            "en": "2 Harmonic Cores. Listed until December 26, 04:59:59 in EN / 05:59:59 in KO; timezones unstated. Animated player avatar and dyeing included.",
+            "ko": "공명 구슬 2개. 영문 12월 26일 04:59:59 / 한국어 05:59:59까지 판매하며 시간대 미표기. 움직이는 프로필·염색을 포함합니다."
+          },
+          "en": "Price stated in this regional official notice.",
+          "ko": "해당 서버 공식 공지에 명시된 가격입니다."
+        }
+      },
+      {
+        "cosmeticId": "shu-tong-liu-xiang",
+        "server": "Global",
+        "status": "announced",
+        "releaseDate": "2026-09-27",
+        "precision": "day",
+        "verifiedAt": "2026-09-21",
+        "sourceIds": [
+          "global-20260921-update-en",
+          "global-20260921-update-ko"
+        ],
+        "scope": {
+          "en": "Announced for September 27. EN image lists 00:00; KO lists 01:00. Neither panel states a timezone, so no absolute instant is inferred. Release remains unverified.",
+          "ko": "9월 27일 출시 예고입니다. 영문 이미지는 00:00, 한국어는 01:00로 표기하며 두 패널 모두 시간대가 없어 절대 시각으로 환산하지 않습니다. 실제 출시는 미확인입니다."
+        },
+        "identityBasis": {
+          "en": "Same black asymmetrical outfit, translucent white flower collar/cuffs and silver chain tassels.",
+          "ko": "비대칭 검은 의상, 반투명 흰 꽃의 목·소매 장식과 은색 사슬 술이 일치합니다."
+        },
+        "acquisition": {
+          "kind": "shop",
+          "pricing": "fixed",
+          "amount": 1280,
+          "regularAmount": 2580,
+          "currencyOriginal": "长鸣珠",
+          "location": {
+            "en": "Shop",
+            "ko": "상점",
+            "original": "商店"
+          },
+          "conditions": {
+            "en": "1,280 Echo Beads, then 2,580. Discount ends October 10, 23:59:59 in EN / October 11, 00:59:59 in KO; timezones unstated. Separate top/bottom and dye support.",
+            "ko": "1,280 장명주 할인 후 정가 2,580. 할인 종료는 영문 10월 10일 23:59:59 / 한국어 10월 11일 00:59:59이며 시간대 미표기. 상하의 분리·염색을 지원합니다."
+          },
+          "en": "Price stated in this regional official notice.",
+          "ko": "해당 서버 공식 공지에 명시된 가격입니다."
+        }
+      },
+      {
+        "cosmeticId": "qiu-lu-qing",
+        "server": "Global",
+        "status": "announced",
+        "releaseDate": "2026-09-27",
+        "precision": "day",
+        "verifiedAt": "2026-09-21",
+        "sourceIds": [
+          "global-20260921-update-en",
+          "global-20260921-update-ko"
+        ],
+        "scope": {
+          "en": "Announced for September 27. EN image lists 00:00; KO lists 01:00. Neither panel states a timezone, so no absolute instant is inferred. Release remains unverified.",
+          "ko": "9월 27일 출시 예고입니다. 영문 이미지는 00:00, 한국어는 01:00로 표기하며 두 패널 모두 시간대가 없어 절대 시각으로 환산하지 않습니다. 실제 출시는 미확인입니다."
+        },
+        "identityBasis": {
+          "en": "Same pale blonde feathered fringe, short layered sides and high tied tuft with a white flower pin.",
+          "ko": "옅은 금발의 가벼운 앞머리, 층을 낸 짧은 옆머리, 흰 꽃 비녀가 있는 높은 묶음이 일치합니다."
+        },
+        "acquisition": {
+          "kind": "exchange_shop",
+          "pricing": "fixed",
+          "amount": 1,
+          "regularAmount": null,
+          "currencyOriginal": "八音窍",
+          "location": {
+            "en": "Draw Shop",
+            "ko": "공명 상점",
+            "original": "和鸣商店"
+          },
+          "conditions": {
+            "en": "1 Harmonic Core. Listed until December 26, 04:59:59 in EN / 05:59:59 in KO; timezones unstated. Animated player avatar and dyeing included.",
+            "ko": "공명 구슬 1개. 영문 12월 26일 04:59:59 / 한국어 05:59:59까지 판매하며 시간대 미표기. 움직이는 프로필·염색을 포함합니다."
+          },
+          "en": "Price stated in this regional official notice.",
+          "ko": "해당 서버 공식 공지에 명시된 가격입니다."
+        }
+      }
+    ],
+    "globalEvents": [
+      {
+        "id": "release-global-jin-yan-yu-tuan",
+        "cosmeticId": "jin-yan-yu-tuan",
+        "date": "2026-09-25",
+        "precision": "day",
+        "server": "Global",
+        "kind": "release",
+        "sourceIds": [
+          "global-20260921-update-en",
+          "global-20260921-update-ko",
+          "global-x-20260921-jade-moonrise"
+        ],
+        "status": "announced",
+        "scope": {
+          "en": "Announced for September 25, 05:00 UTC+8 in the official X post. Korean image says 06:00 without printing its timezone. This is a future announcement, not a verified release.",
+          "ko": "공식 X의 9월 25일 05:00(UTC+8) 출시 예고입니다. 한국어 이미지는 시간대 없이 06:00로 표기합니다. 실제 출시 확인 전의 예정 정보입니다."
+        }
+      },
+      {
+        "id": "release-global-fu-guang",
+        "cosmeticId": "fu-guang",
+        "date": "2026-09-25",
+        "precision": "day",
+        "server": "Global",
+        "kind": "release",
+        "sourceIds": [
+          "global-20260921-update-en",
+          "global-20260921-update-ko",
+          "global-x-20260921-jade-moonrise"
+        ],
+        "status": "announced",
+        "scope": {
+          "en": "Announced for September 25, 05:00 UTC+8 in the official X post. Korean image says 06:00 without printing its timezone. This is a future announcement, not a verified release.",
+          "ko": "공식 X의 9월 25일 05:00(UTC+8) 출시 예고입니다. 한국어 이미지는 시간대 없이 06:00로 표기합니다. 실제 출시 확인 전의 예정 정보입니다."
+        }
+      },
+      {
+        "id": "release-global-peng-shan-wan-zhong",
+        "cosmeticId": "peng-shan-wan-zhong",
+        "date": "2026-09-27",
+        "precision": "day",
+        "server": "Global",
+        "kind": "release",
+        "sourceIds": [
+          "global-20260921-update-en",
+          "global-20260921-update-ko"
+        ],
+        "status": "announced",
+        "scope": {
+          "en": "Announced for September 27. EN image lists 05:00; KO lists 06:00. Neither panel states a timezone, so no absolute instant is inferred. Release remains unverified.",
+          "ko": "9월 27일 출시 예고입니다. 영문 이미지는 05:00, 한국어는 06:00로 표기하며 두 패널 모두 시간대가 없어 절대 시각으로 환산하지 않습니다. 실제 출시는 미확인입니다."
+        }
+      },
+      {
+        "id": "release-global-shu-tong-liu-xiang",
+        "cosmeticId": "shu-tong-liu-xiang",
+        "date": "2026-09-27",
+        "precision": "day",
+        "server": "Global",
+        "kind": "release",
+        "sourceIds": [
+          "global-20260921-update-en",
+          "global-20260921-update-ko"
+        ],
+        "status": "announced",
+        "scope": {
+          "en": "Announced for September 27. EN image lists 00:00; KO lists 01:00. Neither panel states a timezone, so no absolute instant is inferred. Release remains unverified.",
+          "ko": "9월 27일 출시 예고입니다. 영문 이미지는 00:00, 한국어는 01:00로 표기하며 두 패널 모두 시간대가 없어 절대 시각으로 환산하지 않습니다. 실제 출시는 미확인입니다."
+        }
+      },
+      {
+        "id": "release-global-qiu-lu-qing",
+        "cosmeticId": "qiu-lu-qing",
+        "date": "2026-09-27",
+        "precision": "day",
+        "server": "Global",
+        "kind": "release",
+        "sourceIds": [
+          "global-20260921-update-en",
+          "global-20260921-update-ko"
+        ],
+        "status": "announced",
+        "scope": {
+          "en": "Announced for September 27. EN image lists 00:00; KO lists 01:00. Neither panel states a timezone, so no absolute instant is inferred. Release remains unverified.",
+          "ko": "9월 27일 출시 예고입니다. 영문 이미지는 00:00, 한국어는 01:00로 표기하며 두 패널 모두 시간대가 없어 절대 시각으로 환산하지 않습니다. 실제 출시는 미확인입니다."
+        }
+      }
+    ]
+  },
+  "releaseConfirmation": {
+    "sourceId": "cn-20260925-hotfix",
+    "cosmeticIds": [
+      "jin-zhao-yu",
+      "jin-yu-meng",
+      "chuan-hua-jian",
+      "fei-tian-wu-yue-tu"
+    ],
+    "basis": "September 24 in-game cosmetic fixes named in September 25 hotfix."
+  },
+  "forecastDecision": {
+    "decision": "Keep all five current windows, original revisions and September 28 review deadlines unchanged. No candidate-specific announcement was identified in the inspected new sources.",
+    "reviewedAtChanged": true,
+    "reviewedAtNote": "Source review timestamp advances to September 26 after this new source inspection. Revision contents and September 28 deadlines are unchanged."
+  },
+  "collectionLimits": [
+    "Six long image panels in the September 24 CN update were retrieved but not fully read; no full-image review is claimed. Named text appearance articles and hotfix text are the factual basis.",
+    "X profile reviewed from September 26 through September 21; expanded relevant cosmetic/event posts. Replies, reposted fan claims and unrelated gameplay are not treated as cosmetic evidence.",
+    "Two Global accessory CN identities, Korean official names and item artwork are unverified. Similar event scenery does not establish item identity.",
+    "Cloudgrace Earrings event opening is not its unknown individual reward date.",
+    "CN guild outfit unlock details, individual draw prices and the exact 90-day hairstyle expiry instant remain unknown.",
+    "Non-character UI rewards, group poses and game pieces are outside this intake; the Fei Tian Wu Yue Tu accessory is distinct from its same-named game piece.",
+    "Media reuse permission remains unknown; originals and optimized derivatives are excluded from the code license."
+  ],
+  "media": {
+    "addedCount": 20,
+    "femaleCount": 10,
+    "thumbnailBytes": 903554,
+    "fullBytes": 4516694,
+    "previewBytes": 75496,
+    "records": [
+      {
+        "cosmeticId": "jin-zhao-yu",
+        "index": 0,
+        "originalUrl": "https://nie.res.netease.com/r/pic/20260925/63c12c43-7dd6-46c7-b63c-19deda12d246.jpg",
+        "sourcePage": "https://www.yysls.cn/news/official/20260925/37780_1315084.html",
+        "thumbnail": "/media/jin-zhao-yu-0-thumb.webp",
+        "full": "/media/jin-zhao-yu-0-full.webp",
+        "preview": "/media/jin-zhao-yu-0-preview.webp",
+        "permission": "unknown",
+        "audience": "reference artwork; excluded from the code license",
+        "presentationSubject": "female",
+        "thumbnailBytes": 55156,
+        "fullBytes": 307854,
+        "previewBytes": 3682
+      },
+      {
+        "cosmeticId": "jin-zhao-yu",
+        "index": 1,
+        "originalUrl": "https://nie.res.netease.com/r/pic/20260925/c37fb1da-c6c9-4a19-8bcb-0d10dd802d67.jpg",
+        "sourcePage": "https://www.yysls.cn/news/official/20260925/37780_1315084.html",
+        "thumbnail": "/media/jin-zhao-yu-1-thumb.webp",
+        "full": "/media/jin-zhao-yu-1-full.webp",
+        "preview": "/media/jin-zhao-yu-1-preview.webp",
+        "permission": "unknown",
+        "audience": "reference artwork; excluded from the code license",
+        "presentationSubject": "male",
+        "thumbnailBytes": 65362,
+        "fullBytes": 348428,
+        "previewBytes": 4392
+      },
+      {
+        "cosmeticId": "jin-yu-meng",
+        "index": 0,
+        "originalUrl": "https://nie.res.netease.com/r/pic/20260925/5bbebbf8-7066-4216-bd41-584da9e00e14.jpg",
+        "sourcePage": "https://www.yysls.cn/news/official/20260925/37780_1315084.html",
+        "thumbnail": "/media/jin-yu-meng-0-thumb.webp",
+        "full": "/media/jin-yu-meng-0-full.webp",
+        "preview": "/media/jin-yu-meng-0-preview.webp",
+        "permission": "unknown",
+        "audience": "reference artwork; excluded from the code license",
+        "presentationSubject": "female",
+        "thumbnailBytes": 61574,
+        "fullBytes": 307938,
+        "previewBytes": 4190
+      },
+      {
+        "cosmeticId": "jin-yu-meng",
+        "index": 1,
+        "originalUrl": "https://nie.res.netease.com/r/pic/20260925/20b58a55-c89b-4b09-a4d3-2f5327e8b4ed.jpg",
+        "sourcePage": "https://www.yysls.cn/news/official/20260925/37780_1315084.html",
+        "thumbnail": "/media/jin-yu-meng-1-thumb.webp",
+        "full": "/media/jin-yu-meng-1-full.webp",
+        "preview": "/media/jin-yu-meng-1-preview.webp",
+        "permission": "unknown",
+        "audience": "reference artwork; excluded from the code license",
+        "presentationSubject": "male",
+        "thumbnailBytes": 61170,
+        "fullBytes": 304396,
+        "previewBytes": 4670
+      },
+      {
+        "cosmeticId": "he-rao-qing-hui",
+        "index": 0,
+        "originalUrl": "https://nie.res.netease.com/r/pic/20260925/94f8ef8f-2ed7-4d0b-a58e-2b51ada664d2.gif",
+        "sourcePage": "https://www.yysls.cn/news/official/20260925/37780_1315084.html",
+        "thumbnail": "/media/he-rao-qing-hui-0-thumb.webp",
+        "full": "/media/he-rao-qing-hui-0-full.webp",
+        "preview": "/media/he-rao-qing-hui-0-preview.webp",
+        "permission": "unknown",
+        "audience": "reference artwork; excluded from the code license",
+        "presentationSubject": "female",
+        "thumbnailBytes": 21358,
+        "fullBytes": 24278,
+        "previewBytes": 2048
+      },
+      {
+        "cosmeticId": "hong-ye-xiao-xiao",
+        "index": 0,
+        "originalUrl": "https://nie.res.netease.com/r/pic/20260925/27833b70-4b26-4289-b178-940791bfb474.jpg",
+        "sourcePage": "https://www.yysls.cn/news/official/20260925/37780_1315084.html",
+        "thumbnail": "/media/hong-ye-xiao-xiao-0-thumb.webp",
+        "full": "/media/hong-ye-xiao-xiao-0-full.webp",
+        "preview": "/media/hong-ye-xiao-xiao-0-preview.webp",
+        "permission": "unknown",
+        "audience": "reference artwork; excluded from the code license",
+        "presentationSubject": "female",
+        "thumbnailBytes": 51278,
+        "fullBytes": 266928,
+        "previewBytes": 4236
+      },
+      {
+        "cosmeticId": "hong-ye-xiao-xiao",
+        "index": 1,
+        "originalUrl": "https://nie.res.netease.com/r/pic/20260925/67ee0024-978e-4d30-98f6-701e1d9fa3ee.jpg",
+        "sourcePage": "https://www.yysls.cn/news/official/20260925/37780_1315084.html",
+        "thumbnail": "/media/hong-ye-xiao-xiao-1-thumb.webp",
+        "full": "/media/hong-ye-xiao-xiao-1-full.webp",
+        "preview": "/media/hong-ye-xiao-xiao-1-preview.webp",
+        "permission": "unknown",
+        "audience": "reference artwork; excluded from the code license",
+        "presentationSubject": "male",
+        "thumbnailBytes": 51076,
+        "fullBytes": 254580,
+        "previewBytes": 4466
+      },
+      {
+        "cosmeticId": "wan-lai-chen-zhong-jian-yue",
+        "index": 0,
+        "originalUrl": "https://nie.res.netease.com/r/pic/20260925/930c3ef4-e126-4ab2-b5f3-2c3cc1660340.jpg",
+        "sourcePage": "https://www.yysls.cn/news/official/20260925/37780_1315084.html",
+        "thumbnail": "/media/wan-lai-chen-zhong-jian-yue-0-thumb.webp",
+        "full": "/media/wan-lai-chen-zhong-jian-yue-0-full.webp",
+        "preview": "/media/wan-lai-chen-zhong-jian-yue-0-preview.webp",
+        "permission": "unknown",
+        "audience": "reference artwork; excluded from the code license",
+        "presentationSubject": "item",
+        "display": "/media/wan-lai-chen-zhong-jian-yue-0-display.webp",
+        "presentationCrop": [
+          10,
+          8,
+          890,
+          505
+        ],
+        "displayWidth": 880,
+        "displayHeight": 497,
+        "displayBytes": 54272,
+        "thumbnailBytes": 20232,
+        "fullBytes": 172392,
+        "previewBytes": 2294
+      },
+      {
+        "cosmeticId": "yi-gui",
+        "index": 0,
+        "originalUrl": "https://nie.res.netease.com/r/pic/20260925/90b7bbca-132f-4552-9a34-faf8d6592170.jpg",
+        "sourcePage": "https://www.yysls.cn/news/official/20260925/37780_1315084.html",
+        "thumbnail": "/media/yi-gui-0-thumb.webp",
+        "full": "/media/yi-gui-0-full.webp",
+        "preview": "/media/yi-gui-0-preview.webp",
+        "permission": "unknown",
+        "audience": "reference artwork; excluded from the code license",
+        "presentationSubject": "female",
+        "thumbnailBytes": 37824,
+        "fullBytes": 183130,
+        "previewBytes": 3770
+      },
+      {
+        "cosmeticId": "yi-gui",
+        "index": 1,
+        "originalUrl": "https://nie.res.netease.com/r/pic/20260925/12707af3-2efb-4a1c-b104-9418cf057e44.jpg",
+        "sourcePage": "https://www.yysls.cn/news/official/20260925/37780_1315084.html",
+        "thumbnail": "/media/yi-gui-1-thumb.webp",
+        "full": "/media/yi-gui-1-full.webp",
+        "preview": "/media/yi-gui-1-preview.webp",
+        "permission": "unknown",
+        "audience": "reference artwork; excluded from the code license",
+        "presentationSubject": "male",
+        "thumbnailBytes": 35650,
+        "fullBytes": 181782,
+        "previewBytes": 3424
+      },
+      {
+        "cosmeticId": "yu-gui-shan-shan",
+        "index": 0,
+        "originalUrl": "https://nie.res.netease.com/r/pic/20260925/c73c38f4-d424-4622-8821-a1ea772cde25.jpg",
+        "sourcePage": "https://www.yysls.cn/news/official/20260925/37780_1315085.html",
+        "thumbnail": "/media/yu-gui-shan-shan-0-thumb.webp",
+        "full": "/media/yu-gui-shan-shan-0-full.webp",
+        "preview": "/media/yu-gui-shan-shan-0-preview.webp",
+        "permission": "unknown",
+        "audience": "reference artwork; excluded from the code license",
+        "presentationSubject": "female",
+        "thumbnailBytes": 43094,
+        "fullBytes": 179316,
+        "previewBytes": 4050
+      },
+      {
+        "cosmeticId": "yu-gui-shan-shan",
+        "index": 1,
+        "originalUrl": "https://nie.res.netease.com/r/pic/20260925/72c3da0c-c986-4345-86af-1eeb8fdc4994.jpg",
+        "sourcePage": "https://www.yysls.cn/news/official/20260925/37780_1315085.html",
+        "thumbnail": "/media/yu-gui-shan-shan-1-thumb.webp",
+        "full": "/media/yu-gui-shan-shan-1-full.webp",
+        "preview": "/media/yu-gui-shan-shan-1-preview.webp",
+        "permission": "unknown",
+        "audience": "reference artwork; excluded from the code license",
+        "presentationSubject": "male",
+        "thumbnailBytes": 51240,
+        "fullBytes": 261876,
+        "previewBytes": 3906
+      },
+      {
+        "cosmeticId": "shun-hua",
+        "index": 0,
+        "originalUrl": "https://nie.res.netease.com/r/pic/20260925/3c5ea912-3581-49d5-990e-440136e7443b.jpg",
+        "sourcePage": "https://www.yysls.cn/news/official/20260925/37780_1315085.html",
+        "thumbnail": "/media/shun-hua-0-thumb.webp",
+        "full": "/media/shun-hua-0-full.webp",
+        "preview": "/media/shun-hua-0-preview.webp",
+        "permission": "unknown",
+        "audience": "reference artwork; excluded from the code license",
+        "presentationSubject": "female",
+        "thumbnailBytes": 43804,
+        "fullBytes": 225664,
+        "previewBytes": 3640
+      },
+      {
+        "cosmeticId": "shun-hua",
+        "index": 1,
+        "originalUrl": "https://nie.res.netease.com/r/pic/20260925/bf2e5c3a-d16d-488c-ae05-3914888a4d04.jpg",
+        "sourcePage": "https://www.yysls.cn/news/official/20260925/37780_1315085.html",
+        "thumbnail": "/media/shun-hua-1-thumb.webp",
+        "full": "/media/shun-hua-1-full.webp",
+        "preview": "/media/shun-hua-1-preview.webp",
+        "permission": "unknown",
+        "audience": "reference artwork; excluded from the code license",
+        "presentationSubject": "male",
+        "thumbnailBytes": 53028,
+        "fullBytes": 304696,
+        "previewBytes": 3728
+      },
+      {
+        "cosmeticId": "chuan-hua-jian",
+        "index": 0,
+        "originalUrl": "https://nie.res.netease.com/r/pic/20260925/0e0e34b9-f31e-4d43-9182-eb00538e2581.png",
+        "sourcePage": "https://www.yysls.cn/news/official/20260925/37780_1315085.html",
+        "thumbnail": "/media/chuan-hua-jian-0-thumb.webp",
+        "full": "/media/chuan-hua-jian-0-full.webp",
+        "preview": "/media/chuan-hua-jian-0-preview.webp",
+        "permission": "unknown",
+        "audience": "reference artwork; excluded from the code license",
+        "presentationSubject": "female",
+        "thumbnailBytes": 43500,
+        "fullBytes": 191956,
+        "previewBytes": 4152
+      },
+      {
+        "cosmeticId": "chuan-hua-jian",
+        "index": 1,
+        "originalUrl": "https://nie.res.netease.com/r/pic/20260925/a8a3fb99-059f-495e-8953-d89f41adc6f6.png",
+        "sourcePage": "https://www.yysls.cn/news/official/20260925/37780_1315085.html",
+        "thumbnail": "/media/chuan-hua-jian-1-thumb.webp",
+        "full": "/media/chuan-hua-jian-1-full.webp",
+        "preview": "/media/chuan-hua-jian-1-preview.webp",
+        "permission": "unknown",
+        "audience": "reference artwork; excluded from the code license",
+        "presentationSubject": "male",
+        "thumbnailBytes": 48192,
+        "fullBytes": 210610,
+        "previewBytes": 4222
+      },
+      {
+        "cosmeticId": "chuan-hua-jian",
+        "index": 2,
+        "originalUrl": "https://nie.res.netease.com/r/pic/20260925/e91037c0-fef2-4b17-b449-b51b53b19d77.png",
+        "sourcePage": "https://www.yysls.cn/news/official/20260925/37780_1315085.html",
+        "thumbnail": "/media/chuan-hua-jian-2-thumb.webp",
+        "full": "/media/chuan-hua-jian-2-full.webp",
+        "preview": "/media/chuan-hua-jian-2-preview.webp",
+        "permission": "unknown",
+        "audience": "reference artwork; excluded from the code license",
+        "presentationSubject": "female",
+        "thumbnailBytes": 53018,
+        "fullBytes": 273722,
+        "previewBytes": 3902
+      },
+      {
+        "cosmeticId": "ru-fang-fei",
+        "index": 0,
+        "originalUrl": "https://nie.res.netease.com/r/pic/20260925/45e57e6f-9dfd-477a-9053-400d397f8919.jpg",
+        "sourcePage": "https://www.yysls.cn/news/official/20260925/37780_1315085.html",
+        "thumbnail": "/media/ru-fang-fei-0-thumb.webp",
+        "full": "/media/ru-fang-fei-0-full.webp",
+        "preview": "/media/ru-fang-fei-0-preview.webp",
+        "permission": "unknown",
+        "audience": "reference artwork; excluded from the code license",
+        "presentationSubject": "female",
+        "thumbnailBytes": 48136,
+        "fullBytes": 254336,
+        "previewBytes": 3840
+      },
+      {
+        "cosmeticId": "ru-fang-fei",
+        "index": 1,
+        "originalUrl": "https://nie.res.netease.com/r/pic/20260925/491dbd2c-5722-4ac4-9396-5ea552abaf01.jpg",
+        "sourcePage": "https://www.yysls.cn/news/official/20260925/37780_1315085.html",
+        "thumbnail": "/media/ru-fang-fei-1-thumb.webp",
+        "full": "/media/ru-fang-fei-1-full.webp",
+        "preview": "/media/ru-fang-fei-1-preview.webp",
+        "permission": "unknown",
+        "audience": "reference artwork; excluded from the code license",
+        "presentationSubject": "male",
+        "thumbnailBytes": 43660,
+        "fullBytes": 229664,
+        "previewBytes": 3716
+      },
+      {
+        "cosmeticId": "fei-tian-wu-yue-tu",
+        "index": 0,
+        "originalUrl": "https://nie.res.netease.com/r/pic/20260925/ec792e91-30b7-4ac5-b736-dcb617db3d1c.png",
+        "sourcePage": "https://www.yysls.cn/news/official/20260925/37780_1315085.html",
+        "thumbnail": "/media/fei-tian-wu-yue-tu-0-thumb.webp",
+        "full": "/media/fei-tian-wu-yue-tu-0-full.webp",
+        "preview": "/media/fei-tian-wu-yue-tu-0-preview.webp",
+        "permission": "unknown",
+        "audience": "reference artwork; excluded from the code license",
+        "presentationSubject": "item",
+        "display": "/media/fei-tian-wu-yue-tu-0-display.webp",
+        "presentationCrop": [
+          562,
+          12,
+          894,
+          407
+        ],
+        "displayWidth": 332,
+        "displayHeight": 395,
+        "displayBytes": 18242,
+        "thumbnailBytes": 15202,
+        "fullBytes": 33148,
+        "previewBytes": 3168
+      }
+    ]
+  }
+}

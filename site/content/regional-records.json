@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "verifiedAt": "2026-09-21",
+  "verifiedAt": "2026-09-26",
   "records": [
     {
       "cosmeticId": "shang-qing-yun",
@@ -13907,15 +13907,17 @@
       "status": "announced",
       "releaseDate": "2026-09-25",
       "precision": "day",
-      "verifiedAt": "2026-09-21",
+      "verifiedAt": "2026-09-26",
       "sourceIds": [
         "global-20260921-update-en",
         "global-20260921-update-ko",
-        "global-x-20260921-jade-moonrise"
+        "global-x-20260921-jade-moonrise",
+        "global-20260923-appearance-en",
+        "global-20260923-appearance-ko"
       ],
       "scope": {
-        "en": "Announced for September 25, 05:00 UTC+8 in the official X post. Korean image says 06:00 without printing its timezone. This is a future announcement, not a verified release.",
-        "ko": "공식 X의 9월 25일 05:00(UTC+8) 출시 예고입니다. 한국어 이미지는 시간대 없이 06:00로 표기합니다. 실제 출시 확인 전의 예정 정보입니다."
+        "en": "Official schedule: September 25, 05:00 UTC+8. The September 23 English overview supplies the timezone; Korean local wording does not state one. Actual release remains unverified.",
+        "ko": "공식 일정은 9월 25일 05:00(UTC+8)입니다. 9월 23일 영문 외관 공지의 시간대를 사용하며 한국어 공지의 시간대는 미표기입니다. 실제 출시는 미확인입니다."
       },
       "identityBasis": {
         "en": "Same black/gold rabbit outfit, osmanthus embroidery, broad gold bow and white rabbit on the shoulder.",
@@ -13933,12 +13935,13 @@
           "original": "商店"
         },
         "conditions": {
-          "en": "2,580 Echo Beads. Official X and EN panel end October 25, 04:59:59 UTC+8. KO listing row agrees in calendar day, but KO prose says October 26; conflict retained, not treated as an extension.",
-          "ko": "2,580 장명주. 공식 X·영문 패널 종료는 10월 25일 04:59:59(UTC+8)입니다. 한국어 일정 행은 10월 25일, 본문은 10월 26일로 서로 달라 연장으로 해석하지 않습니다."
+          "en": "2,580 Echo Beads. Ends October 25, 04:59:59 UTC+8. The newer September 23 Korean overview also says October 25 (05:59:59, timezone unstated); earlier September 21 prose said October 26. The older conflict is preserved in the audit and is not an extension.",
+          "ko": "2,580 장명주. 10월 25일 04:59:59(UTC+8) 종료입니다. 새 9월 23일 한국어 공지도 10월 25일(05:59:59·시간대 미표기)로 명시합니다. 9월 21일 본문의 10월 26일 표기는 조사 이력에 보존하며 연장으로 보지 않습니다."
         },
         "en": "Price stated in this regional official notice.",
         "ko": "해당 서버 공식 공지에 명시된 가격입니다."
-      }
+      },
+      "confirmationPending": true
     },
     {
       "cosmeticId": "fu-guang",
@@ -13946,15 +13949,17 @@
       "status": "announced",
       "releaseDate": "2026-09-25",
       "precision": "day",
-      "verifiedAt": "2026-09-21",
+      "verifiedAt": "2026-09-26",
       "sourceIds": [
         "global-20260921-update-en",
         "global-20260921-update-ko",
-        "global-x-20260921-jade-moonrise"
+        "global-x-20260921-jade-moonrise",
+        "global-20260923-appearance-en",
+        "global-20260923-appearance-ko"
       ],
       "scope": {
-        "en": "Announced for September 25, 05:00 UTC+8 in the official X post. Korean image says 06:00 without printing its timezone. This is a future announcement, not a verified release.",
-        "ko": "공식 X의 9월 25일 05:00(UTC+8) 출시 예고입니다. 한국어 이미지는 시간대 없이 06:00로 표기합니다. 실제 출시 확인 전의 예정 정보입니다."
+        "en": "Official schedule: September 25, 05:00 UTC+8. The September 23 English overview supplies the timezone; Korean local wording does not state one. Actual release remains unverified.",
+        "ko": "공식 일정은 9월 25일 05:00(UTC+8)입니다. 9월 23일 영문 외관 공지의 시간대를 사용하며 한국어 공지의 시간대는 미표기입니다. 실제 출시는 미확인입니다."
       },
       "identityBasis": {
         "en": "Same pale cream hair, female blunt fringe and side rolls with orange flowers, male swept fringe and high ponytail.",
@@ -13972,12 +13977,13 @@
           "original": "和鸣商店"
         },
         "conditions": {
-          "en": "1 Harmonic Core. Official X ends December 24, 04:59:59 UTC+8; dyeing and animated player avatar included.",
-          "ko": "공명 구슬 1개. 공식 X 판매 종료는 12월 24일 04:59:59(UTC+8)이며 염색·움직이는 프로필을 포함합니다."
+          "en": "1 Harmonic Core. Listed until December 24, 04:59:59 UTC+8. Korean end time is 05:59:59 on the same date, with no timezone printed. Dyeing and animated player avatar included.",
+          "ko": "공명 구슬 1개. 12월 24일 04:59:59(UTC+8)까지 판매합니다. 한국어 종료 시각은 같은 날 05:59:59이며 시간대 미표기입니다. 염색·움직이는 프로필을 포함합니다."
         },
         "en": "Price stated in this regional official notice.",
         "ko": "해당 서버 공식 공지에 명시된 가격입니다."
-      }
+      },
+      "confirmationPending": true
     },
     {
       "cosmeticId": "peng-shan-wan-zhong",
@@ -13985,14 +13991,17 @@
       "status": "announced",
       "releaseDate": "2026-09-27",
       "precision": "day",
-      "verifiedAt": "2026-09-21",
+      "verifiedAt": "2026-09-26",
       "sourceIds": [
         "global-20260921-update-en",
-        "global-20260921-update-ko"
+        "global-20260921-update-ko",
+        "global-20260923-appearance-en",
+        "global-20260923-appearance-ko",
+        "global-x-20260922-penglai"
       ],
       "scope": {
-        "en": "Announced for September 27. EN image lists 05:00; KO lists 06:00. Neither panel states a timezone, so no absolute instant is inferred. Release remains unverified.",
-        "ko": "9월 27일 출시 예고입니다. 영문 이미지는 05:00, 한국어는 06:00로 표기하며 두 패널 모두 시간대가 없어 절대 시각으로 환산하지 않습니다. 실제 출시는 미확인입니다."
+        "en": "Official schedule: September 27, 05:00 UTC+8. The September 23 English overview supplies the timezone; Korean local wording does not state one. Actual release remains unverified.",
+        "ko": "공식 일정은 9월 27일 05:00(UTC+8)입니다. 9월 23일 영문 외관 공지의 시간대를 사용하며 한국어 공지의 시간대는 미표기입니다. 실제 출시는 미확인입니다."
       },
       "identityBasis": {
         "en": "Same green/gold avian shoulder armor, half-face mask, white hair and black feather cloak.",
@@ -14010,8 +14019,8 @@
           "original": "和鸣商店"
         },
         "conditions": {
-          "en": "2 Harmonic Cores. Listed until December 26, 04:59:59 in EN / 05:59:59 in KO; timezones unstated. Animated player avatar and dyeing included.",
-          "ko": "공명 구슬 2개. 영문 12월 26일 04:59:59 / 한국어 05:59:59까지 판매하며 시간대 미표기. 움직이는 프로필·염색을 포함합니다."
+          "en": "2 Harmonic Cores. Listed until December 26, 04:59:59 UTC+8. Korean end time is 05:59:59 on the same date, with no timezone printed. Dyeing and animated player avatar included.",
+          "ko": "공명 구슬 2개. 12월 26일 04:59:59(UTC+8)까지 판매합니다. 한국어 종료 시각은 같은 날 05:59:59이며 시간대 미표기입니다. 염색·움직이는 프로필을 포함합니다."
         },
         "en": "Price stated in this regional official notice.",
         "ko": "해당 서버 공식 공지에 명시된 가격입니다."
@@ -14023,14 +14032,17 @@
       "status": "announced",
       "releaseDate": "2026-09-27",
       "precision": "day",
-      "verifiedAt": "2026-09-21",
+      "verifiedAt": "2026-09-26",
       "sourceIds": [
         "global-20260921-update-en",
-        "global-20260921-update-ko"
+        "global-20260921-update-ko",
+        "global-20260923-appearance-en",
+        "global-20260923-appearance-ko",
+        "global-x-20260923-cicada"
       ],
       "scope": {
-        "en": "Announced for September 27. EN image lists 00:00; KO lists 01:00. Neither panel states a timezone, so no absolute instant is inferred. Release remains unverified.",
-        "ko": "9월 27일 출시 예고입니다. 영문 이미지는 00:00, 한국어는 01:00로 표기하며 두 패널 모두 시간대가 없어 절대 시각으로 환산하지 않습니다. 실제 출시는 미확인입니다."
+        "en": "Official schedule: September 27, 00:00 UTC+8. The September 23 English overview supplies the timezone; Korean local wording does not state one. Actual release remains unverified.",
+        "ko": "공식 일정은 9월 27일 00:00(UTC+8)입니다. 9월 23일 영문 외관 공지의 시간대를 사용하며 한국어 공지의 시간대는 미표기입니다. 실제 출시는 미확인입니다."
       },
       "identityBasis": {
         "en": "Same black asymmetrical outfit, translucent white flower collar/cuffs and silver chain tassels.",
@@ -14048,8 +14060,8 @@
           "original": "商店"
         },
         "conditions": {
-          "en": "1,280 Echo Beads, then 2,580. Discount ends October 10, 23:59:59 in EN / October 11, 00:59:59 in KO; timezones unstated. Separate top/bottom and dye support.",
-          "ko": "1,280 장명주 할인 후 정가 2,580. 할인 종료는 영문 10월 10일 23:59:59 / 한국어 10월 11일 00:59:59이며 시간대 미표기. 상하의 분리·염색을 지원합니다."
+          "en": "1,280 Echo Beads during the discount through October 10, 23:59:59 UTC+8, then 2,580. This is a discount deadline, not removal from sale. Separate top/bottom and dyeing supported.",
+          "ko": "10월 10일 23:59:59(UTC+8)까지 1,280 장명주, 이후 정가 2,580입니다. 할인 종료일이며 판매 종료일이 아닙니다. 상하의 분리·염색을 지원합니다."
         },
         "en": "Price stated in this regional official notice.",
         "ko": "해당 서버 공식 공지에 명시된 가격입니다."
@@ -14061,14 +14073,17 @@
       "status": "announced",
       "releaseDate": "2026-09-27",
       "precision": "day",
-      "verifiedAt": "2026-09-21",
+      "verifiedAt": "2026-09-26",
       "sourceIds": [
         "global-20260921-update-en",
-        "global-20260921-update-ko"
+        "global-20260921-update-ko",
+        "global-20260923-appearance-en",
+        "global-20260923-appearance-ko",
+        "global-x-20260923-cicada"
       ],
       "scope": {
-        "en": "Announced for September 27. EN image lists 00:00; KO lists 01:00. Neither panel states a timezone, so no absolute instant is inferred. Release remains unverified.",
-        "ko": "9월 27일 출시 예고입니다. 영문 이미지는 00:00, 한국어는 01:00로 표기하며 두 패널 모두 시간대가 없어 절대 시각으로 환산하지 않습니다. 실제 출시는 미확인입니다."
+        "en": "Official schedule: September 27, 00:00 UTC+8. The September 23 English overview supplies the timezone; Korean local wording does not state one. Actual release remains unverified.",
+        "ko": "공식 일정은 9월 27일 00:00(UTC+8)입니다. 9월 23일 영문 외관 공지의 시간대를 사용하며 한국어 공지의 시간대는 미표기입니다. 실제 출시는 미확인입니다."
       },
       "identityBasis": {
         "en": "Same pale blonde feathered fringe, short layered sides and high tied tuft with a white flower pin.",
@@ -14086,11 +14101,301 @@
           "original": "和鸣商店"
         },
         "conditions": {
-          "en": "1 Harmonic Core. Listed until December 26, 04:59:59 in EN / 05:59:59 in KO; timezones unstated. Animated player avatar and dyeing included.",
-          "ko": "공명 구슬 1개. 영문 12월 26일 04:59:59 / 한국어 05:59:59까지 판매하며 시간대 미표기. 움직이는 프로필·염색을 포함합니다."
+          "en": "1 Harmonic Core. Listed until December 26, 04:59:59 UTC+8. Korean end time is 05:59:59 on the same date, with no timezone printed. Dyeing and animated player avatar included.",
+          "ko": "공명 구슬 1개. 12월 26일 04:59:59(UTC+8)까지 판매합니다. 한국어 종료 시각은 같은 날 05:59:59이며 시간대 미표기입니다. 염색·움직이는 프로필을 포함합니다."
         },
         "en": "Price stated in this regional official notice.",
         "ko": "해당 서버 공식 공지에 명시된 가격입니다."
+      }
+    },
+    {
+      "cosmeticId": "jin-zhao-yu",
+      "server": "CN",
+      "status": "released",
+      "releaseDate": "2026-09-24",
+      "precision": "day",
+      "verifiedAt": "2026-09-26",
+      "sourceIds": [
+        "cn-20260922-appearance",
+        "cn-20260925-hotfix"
+      ],
+      "scope": {
+        "en": "The September 24 in-game fix named this cosmetic; listing date comes from the appearance notice. This does not establish ongoing availability.",
+        "ko": "9월 24일 게임 내 수정 내역에서 이 외관을 명시했습니다. 출시일은 외관 공지 기준이며 현재 판매 여부를 보장하지 않습니다."
+      },
+      "identityBasis": {
+        "en": "The regional official notice explicitly names this cosmetic and category.",
+        "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
+      }
+    },
+    {
+      "cosmeticId": "jin-yu-meng",
+      "server": "CN",
+      "status": "released",
+      "releaseDate": "2026-09-24",
+      "precision": "day",
+      "verifiedAt": "2026-09-26",
+      "sourceIds": [
+        "cn-20260922-appearance",
+        "cn-20260925-hotfix"
+      ],
+      "scope": {
+        "en": "The September 24 in-game fix named this cosmetic; listing date comes from the appearance notice. This does not establish ongoing availability.",
+        "ko": "9월 24일 게임 내 수정 내역에서 이 외관을 명시했습니다. 출시일은 외관 공지 기준이며 현재 판매 여부를 보장하지 않습니다."
+      },
+      "identityBasis": {
+        "en": "The regional official notice explicitly names this cosmetic and category.",
+        "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
+      }
+    },
+    {
+      "cosmeticId": "he-rao-qing-hui",
+      "server": "CN",
+      "status": "announced",
+      "releaseDate": "2026-09-24",
+      "precision": "day",
+      "verifiedAt": "2026-09-26",
+      "sourceIds": [
+        "cn-20260922-appearance"
+      ],
+      "scope": {
+        "en": "Officially announced schedule. An elapsed date does not confirm release or current availability; exact timezone is unstated.",
+        "ko": "공식 공지의 일정입니다. 날짜 경과만으로 실제 출시·현재 획득 가능 여부를 확인하지 않으며 정확한 시간대는 미표기입니다."
+      },
+      "identityBasis": {
+        "en": "The regional official notice explicitly names this cosmetic and category.",
+        "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
+      }
+    },
+    {
+      "cosmeticId": "hong-ye-xiao-xiao",
+      "server": "CN",
+      "status": "announced",
+      "releaseDate": "2026-09-24",
+      "precision": "day",
+      "verifiedAt": "2026-09-26",
+      "sourceIds": [
+        "cn-20260922-appearance"
+      ],
+      "scope": {
+        "en": "Officially announced schedule. An elapsed date does not confirm release or current availability; exact timezone is unstated.",
+        "ko": "공식 공지의 일정입니다. 날짜 경과만으로 실제 출시·현재 획득 가능 여부를 확인하지 않으며 정확한 시간대는 미표기입니다."
+      },
+      "identityBasis": {
+        "en": "The regional official notice explicitly names this cosmetic and category.",
+        "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
+      }
+    },
+    {
+      "cosmeticId": "wan-lai-chen-zhong-jian-yue",
+      "server": "CN",
+      "status": "announced",
+      "releaseDate": "2026-09-24",
+      "precision": "day",
+      "verifiedAt": "2026-09-26",
+      "sourceIds": [
+        "cn-20260922-appearance"
+      ],
+      "scope": {
+        "en": "Officially announced schedule. An elapsed date does not confirm release or current availability; exact timezone is unstated.",
+        "ko": "공식 공지의 일정입니다. 날짜 경과만으로 실제 출시·현재 획득 가능 여부를 확인하지 않으며 정확한 시간대는 미표기입니다."
+      },
+      "identityBasis": {
+        "en": "The regional official notice explicitly names this cosmetic and category.",
+        "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
+      }
+    },
+    {
+      "cosmeticId": "yi-gui",
+      "server": "CN",
+      "status": "announced",
+      "releaseDate": "2026-09-24",
+      "precision": "day",
+      "verifiedAt": "2026-09-26",
+      "sourceIds": [
+        "cn-20260922-appearance"
+      ],
+      "scope": {
+        "en": "Officially announced schedule. An elapsed date does not confirm release or current availability; exact timezone is unstated.",
+        "ko": "공식 공지의 일정입니다. 날짜 경과만으로 실제 출시·현재 획득 가능 여부를 확인하지 않으며 정확한 시간대는 미표기입니다."
+      },
+      "identityBasis": {
+        "en": "The regional official notice explicitly names this cosmetic and category.",
+        "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
+      }
+    },
+    {
+      "cosmeticId": "yu-gui-shan-shan",
+      "server": "CN",
+      "status": "announced",
+      "releaseDate": "2026-09-24",
+      "precision": "day",
+      "verifiedAt": "2026-09-26",
+      "sourceIds": [
+        "cn-20260923-appearance"
+      ],
+      "scope": {
+        "en": "Officially announced schedule. An elapsed date does not confirm release or current availability; exact timezone is unstated.",
+        "ko": "공식 공지의 일정입니다. 날짜 경과만으로 실제 출시·현재 획득 가능 여부를 확인하지 않으며 정확한 시간대는 미표기입니다."
+      },
+      "identityBasis": {
+        "en": "The regional official notice explicitly names this cosmetic and category.",
+        "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
+      }
+    },
+    {
+      "cosmeticId": "shun-hua",
+      "server": "CN",
+      "status": "announced",
+      "releaseDate": "2026-09-24",
+      "precision": "day",
+      "verifiedAt": "2026-09-26",
+      "sourceIds": [
+        "cn-20260923-appearance"
+      ],
+      "scope": {
+        "en": "Officially announced schedule. An elapsed date does not confirm release or current availability; exact timezone is unstated.",
+        "ko": "공식 공지의 일정입니다. 날짜 경과만으로 실제 출시·현재 획득 가능 여부를 확인하지 않으며 정확한 시간대는 미표기입니다."
+      },
+      "identityBasis": {
+        "en": "The regional official notice explicitly names this cosmetic and category.",
+        "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
+      }
+    },
+    {
+      "cosmeticId": "chuan-hua-jian",
+      "server": "CN",
+      "status": "released",
+      "releaseDate": "2026-09-24",
+      "precision": "day",
+      "verifiedAt": "2026-09-26",
+      "sourceIds": [
+        "cn-20260923-appearance",
+        "cn-20260925-hotfix"
+      ],
+      "scope": {
+        "en": "The September 24 in-game fix named this cosmetic; listing date comes from the appearance notice. This does not establish ongoing availability.",
+        "ko": "9월 24일 게임 내 수정 내역에서 이 외관을 명시했습니다. 출시일은 외관 공지 기준이며 현재 판매 여부를 보장하지 않습니다."
+      },
+      "identityBasis": {
+        "en": "The regional official notice explicitly names this cosmetic and category.",
+        "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
+      }
+    },
+    {
+      "cosmeticId": "fu-liu-xiang",
+      "server": "CN",
+      "status": "announced",
+      "releaseDate": "2026-09-24",
+      "precision": "day",
+      "verifiedAt": "2026-09-26",
+      "sourceIds": [
+        "cn-20260923-appearance"
+      ],
+      "scope": {
+        "en": "Officially announced schedule. An elapsed date does not confirm release or current availability; exact timezone is unstated.",
+        "ko": "공식 공지의 일정입니다. 날짜 경과만으로 실제 출시·현재 획득 가능 여부를 확인하지 않으며 정확한 시간대는 미표기입니다."
+      },
+      "identityBasis": {
+        "en": "The regional official notice explicitly names this cosmetic and category.",
+        "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
+      }
+    },
+    {
+      "cosmeticId": "ru-fang-fei",
+      "server": "CN",
+      "status": "announced",
+      "releaseDate": "2026-09-24",
+      "precision": "day",
+      "verifiedAt": "2026-09-26",
+      "sourceIds": [
+        "cn-20260923-appearance"
+      ],
+      "scope": {
+        "en": "Officially announced schedule. An elapsed date does not confirm release or current availability; exact timezone is unstated.",
+        "ko": "공식 공지의 일정입니다. 날짜 경과만으로 실제 출시·현재 획득 가능 여부를 확인하지 않으며 정확한 시간대는 미표기입니다."
+      },
+      "identityBasis": {
+        "en": "The regional official notice explicitly names this cosmetic and category.",
+        "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
+      }
+    },
+    {
+      "cosmeticId": "sheng-yue-lun",
+      "server": "CN",
+      "status": "announced",
+      "releaseDate": "2026-09-25",
+      "precision": "day",
+      "verifiedAt": "2026-09-26",
+      "sourceIds": [
+        "cn-20260923-appearance"
+      ],
+      "scope": {
+        "en": "Officially announced schedule. An elapsed date does not confirm release or current availability; exact timezone is unstated.",
+        "ko": "공식 공지의 일정입니다. 날짜 경과만으로 실제 출시·현재 획득 가능 여부를 확인하지 않으며 정확한 시간대는 미표기입니다."
+      },
+      "identityBasis": {
+        "en": "The regional official notice explicitly names this cosmetic and category.",
+        "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
+      }
+    },
+    {
+      "cosmeticId": "fei-tian-wu-yue-tu",
+      "server": "CN",
+      "status": "released",
+      "releaseDate": "2026-09-24",
+      "precision": "day",
+      "verifiedAt": "2026-09-26",
+      "sourceIds": [
+        "cn-20260923-appearance",
+        "cn-20260925-hotfix"
+      ],
+      "scope": {
+        "en": "The September 24 in-game fix named this cosmetic; listing date comes from the appearance notice. This does not establish ongoing availability.",
+        "ko": "9월 24일 게임 내 수정 내역에서 이 외관을 명시했습니다. 출시일은 외관 공지 기준이며 현재 판매 여부를 보장하지 않습니다."
+      },
+      "identityBasis": {
+        "en": "The regional official notice explicitly names this cosmetic and category.",
+        "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
+      }
+    },
+    {
+      "cosmeticId": "global-moonhare-merriment",
+      "server": "Global",
+      "status": "announced",
+      "releaseDate": "2026-09-25",
+      "precision": "day",
+      "verifiedAt": "2026-09-26",
+      "sourceIds": [
+        "global-x-20260924-moonhare"
+      ],
+      "scope": {
+        "en": "Reward event announced for September 25–October 2; timezone unstated. The date records the event opening, not a verified claim or CN identity match.",
+        "ko": "9월 25일~10월 2일 보상 이벤트 예고이며 시간대 미표기입니다. 날짜는 이벤트 시작일이며 실제 수령 확인·중국 항목 대응을 뜻하지 않습니다."
+      },
+      "identityBasis": {
+        "en": "The regional official notice explicitly names this cosmetic and category.",
+        "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
+      },
+      "confirmationPending": true
+    },
+    {
+      "cosmeticId": "global-cloudgrace-earrings",
+      "server": "Global",
+      "status": "announced",
+      "releaseDate": null,
+      "precision": "unknown",
+      "verifiedAt": "2026-09-26",
+      "sourceIds": [
+        "global-x-20260924-cloudgrace"
+      ],
+      "scope": {
+        "en": "Event runs September 25–October 10 UTC. Exact accessory reward day is unverified; the event start is not treated as the individual unlock date.",
+        "ko": "이벤트는 9월 25일~10월 10일(UTC)입니다. 장신구의 정확한 지급 일차는 미확인이며 이벤트 시작일을 개별 해금일로 간주하지 않습니다."
+      },
+      "identityBasis": {
+        "en": "The regional official notice explicitly names this cosmetic and category.",
+        "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
       }
     }
   ]
