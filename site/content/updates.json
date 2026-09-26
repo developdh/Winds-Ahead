@@ -2,6 +2,33 @@
   "schemaVersion": 1,
   "entries": [
     {
+      "id": "official-refresh-20260926",
+      "date": "2026-09-26",
+      "kind": {
+        "en": "Official news & event rewards",
+        "ko": "공식 소식·이벤트 보상"
+      },
+      "title": {
+        "en": "September cosmetics and Mid-Autumn rewards refreshed",
+        "ko": "9월 신규 외관·중추절 보상 갱신"
+      },
+      "body": {
+        "en": "Added 13 CN cosmetics and two Global event accessories. Refined five Global schedules using explicit UTC+8 evidence and clarified Jade Moonrise’s October 25 end. Four CN items have in-game hotfix evidence. Unverified dates, translations and photos remain marked; the five forecast windows and their history are unchanged.",
+        "ko": "중국 외관 13종·글로벌 이벤트 장신구 2종을 추가했습니다. 글로벌 일정 5종의 UTC+8 근거를 보강하고 황금빛 설렘의 10월 25일 종료를 재확인했습니다. 중국 4종은 게임 내 수정 공지로 확인했습니다. 미확인 날짜·번역·사진을 구분하고 예상 5건과 이력을 유지합니다."
+      },
+      "sourceIds": [
+        "cn-20260922-appearance",
+        "cn-20260923-appearance",
+        "cn-20260925-hotfix",
+        "global-20260923-appearance-en",
+        "global-20260923-appearance-ko",
+        "global-x-20260922-penglai",
+        "global-x-20260923-cicada",
+        "global-x-20260924-moonhare",
+        "global-x-20260924-cloudgrace"
+      ]
+    },
+    {
       "id": "forecast-review-20260921",
       "date": "2026-09-21",
       "kind": {

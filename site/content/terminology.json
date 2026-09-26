@@ -67,6 +67,10 @@
     "蜀戏春": {
       "en": "Shu Xi Chun",
       "ko": "촉희춘"
+    },
+    "玉烟斗": {
+      "en": "Yu Yan Dou (CN event token)",
+      "ko": "옥연두(중국 이벤트 재화)"
     }
   },
   "sources": [
@@ -109,6 +113,11 @@
       "url": "https://www.yysls.cn/news/official/20260724/37780_1309060.html",
       "title": "全新聆音外观【银浦流云】登场，《新白娘子传奇》联动将启",
       "use": "CN event-currency originals only; EN/KO readings provisional"
+    },
+    {
+      "url": "https://www.yysls.cn/news/official/20260925/37780_1315084.html",
+      "title": "桂影流金，华服相迎丨多套全新外观盛装登场",
+      "use": "CN event token 玉烟斗; provisional EN/KO reading, not an official Global currency name."
     }
   ],
   "note": {
