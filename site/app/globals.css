@@ -5842,3 +5842,27 @@ body {
 .timeline-art img { object-fit: cover; object-position: center 20%; }
 .cosmetic-card:hover .card-image > img { transform: none; }
 .forecast-list-note { margin: -4px 0 24px; color: var(--muted-foreground); font-size: .9rem; line-height: 1.75; }
+/* Deadlines use a restrained amber accent, scoped to the selected server. */
+.deadline-badge{display:flex;align-items:center;gap:6px;color:#e8bd79;font-size:14px;line-height:1.5;margin:10px 0 0;flex-wrap:wrap}
+.deadline-badge svg{flex-shrink:0}
+.deadline-detail{margin:20px 0;padding:16px 0;border-block:1px solid var(--border);font-size:16px}
+.deadline-detail>p:first-child{display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin:0 0 8px}
+.deadline-detail.is-near>p:first-child{color:#e8bd79}
+.deadline-detail time{display:block;line-height:1.65;font-variant-numeric:tabular-nums}
+.deadline-state{font-size:14px;color:var(--muted-foreground)}
+.deadline-detail .text-link{min-height:44px;font-size:14px}
+.ending-soon{margin:24px 0 36px;padding:20px 24px;background:rgba(194,144,65,.055);border:1px solid rgba(194,144,65,.28)}
+.ending-heading{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap}
+.ending-heading h2{display:flex;align-items:center;gap:9px;margin:0;font-size:20px;color:#e8bd79}
+.ending-heading>span{font-size:14px;color:var(--muted-foreground)}
+.ending-soon>.small-muted{margin:10px 0 16px}
+.ending-list{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px 24px}
+.ending-item{display:flex;align-items:center;gap:12px;min-width:0;padding:12px 0;border-top:1px solid rgba(194,144,65,.18)}
+.ending-item>span:not(.ending-no-image){flex:1;min-width:0}
+.ending-item strong{display:block;font-size:16px;font-weight:400;line-height:1.5}
+.ending-item small{display:block;margin-top:4px;font-size:14px;color:var(--muted-foreground);line-height:1.6;overflow-wrap:anywhere}
+.ending-item>svg{flex-shrink:0;color:#e8bd79}
+.ending-item img,.ending-no-image{width:48px;height:60px;object-fit:contain;flex-shrink:0;background:rgba(255,255,255,.025)}
+.ending-no-image{display:grid;place-items:center;color:var(--muted-foreground);font-family:WindsHeading, serif;font-size:26px}
+.ending-item:hover strong,.ending-item:focus-visible strong{color:#e8bd79}
+@media(max-width:680px){.ending-soon{padding:18px 16px}.ending-list{grid-template-columns:1fr}.ending-heading{align-items:flex-start}.ending-heading h2{font-size:19px}}

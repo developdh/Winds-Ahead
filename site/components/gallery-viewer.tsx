@@ -37,7 +37,7 @@ function GalleryFrame({ image, dimensions, active, preload, onReady, label, l, z
     <div ref={scrollRef} className="gallery-scroll" data-zoomed={active && zoomed} tabIndex={active ? 0 : -1} aria-label={label}>
       {status === "error" ? (
         <p className="gallery-message" role="alert">
-          {t("The image could not load. Open the official original below.", "이미지를 불러오지 못했습니다. 아래의 공식 원본을 열어주세요.")}
+          {t("The image could not load. Open the original below.", "이미지를 불러오지 못했습니다. 아래의 원본을 열어주세요.")}
         </p>
       ) : (
         <div className="gallery-image-frame" aria-busy={status === "loading"}>
@@ -127,7 +127,7 @@ export default function GalleryViewer({ c, l, images, selected, onSelect }: {
       data-zoomed={zoomed}
       opts={options}
       setApi={setApi}
-      aria-label={t("Official images", "공식 이미지")}
+      aria-label={t("Appearance images", "외관 이미지")}
       aria-roledescription={t("carousel", "갤러리")}
       onKeyDownCapture={undefined}
     >
@@ -157,7 +157,7 @@ export default function GalleryViewer({ c, l, images, selected, onSelect }: {
               active={index === selected}
               preload={readyImages.has(images[selected].full) && Math.abs(index - selected) === 1}
               onReady={recordReady}
-              label={`${c.nameOriginal} · ${t("Full promotional image", "전체 홍보 이미지")} ${index + 1}`}
+              label={`${c.nameOriginal} · ${t("Full appearance image", "전체 외관 이미지")} ${index + 1}`}
               l={l}
               zoomed={zoomed}
             />
@@ -189,7 +189,7 @@ export default function GalleryViewer({ c, l, images, selected, onSelect }: {
           {zoomed ? t("Fit image", "전체 맞춤") : t("Zoom in", "확대")}
         </button>
         <a className="text-link" href={images[selected].originalUrl} target="_blank" rel="noreferrer">
-          {t("Official original", "공식 원본")}
+          {c.images[images[selected].index].sourceKind === 'community' ? t('Wiki original', '위키 원본') : t("Original image", "원본 이미지")}
           <ArrowUpRight size={16} />
         </a>
         {images.length > 1 && (

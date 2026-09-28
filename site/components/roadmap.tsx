@@ -40,7 +40,8 @@ import {
   monthGrid,
   shiftMonth,
 } from "@/lib/roadmap-domain.mjs";
-export default function Roadmap({ l, onCosmeticClick }: { l: Locale; onCosmeticClick: CosmeticClickHandler }) {
+import { EndingSoon } from "@/components/deadline-info";
+export default function Roadmap({ l, now, onCosmeticClick }: { l: Locale; now: number; onCosmeticClick: CosmeticClickHandler }) {
   const t = (en: string, ko: string) => (l === "ko" ? ko : en);
   const params = useSearchParams();
   const today = new Date().toISOString().slice(0, 10);
@@ -198,6 +199,7 @@ export default function Roadmap({ l, onCosmeticClick }: { l: Locale; onCosmeticC
               )}
         </p>
       </div>
+      {kind !== "forecast" && <EndingSoon server={server === "cn" ? "CN" : "Global"} l={l} now={now} onCosmeticClick={onCosmeticClick}/>}
       {view === "timeline" ? <ReleaseTimeline l={l} events={server === "cn" ? cnEvents : globalEvents} forecasts={server === "global" ? forecasts : []} today={today} kind={kind} releasedIds={releasedIds} onCosmeticClick={onCosmeticClick}/> : <>
       <section
         className="calendar-panel"

@@ -2,6 +2,7 @@ import test from "node:test";
 import assert from "node:assert/strict";
 import fs from "node:fs";
 import { readWiki, validateWiki, wikiSchema } from "../scripts/validate-wiki.mjs";
+import { deadlineBounds, deadlineState, endingDeadlines } from '../lib/deadline-domain.mjs';
 import {
   cleanWatchlist,
   forecastDue,
@@ -20,6 +21,7 @@ import {
   validateRegional,
   videoSchema,
   validateContent,
+  validateDeadlines,
 } from "../scripts/validate-content.mjs";
 const read = (name) =>
   JSON.parse(
@@ -27,6 +29,38 @@ const read = (name) =>
   );
 const research = read("research.json"),
   media = read("media.json");
+test('deadlines preserve server evidence, precision and references', () => {
+  const data = read('deadlines.json');
+  assert.equal(validateDeadlines(research, read('global-events.json'), data).deadlines, data.records.length);
+  const invalid = record => ({...data, records:[{...data.records[0],...record}]});
+  for (const record of [{end:'2026-02-30T12:00:00'}, {precision:'day'}, {end:'2026-10-06T25:00:00'}, {cosmeticId:'missing'}, {sourceIds:['missing']}, {server:'CN'}]) {
+    assert.throws(() => validateDeadlines(research, read('global-events.json'), invalid(record)));
+  }
+  assert.equal(data.records.find(d => d.cosmeticId === 'shu-tong-liu-xiang').kind, 'discount');
+  assert.equal(data.records.some(d => d.cosmeticId === 'global-forged-in-fire'), false, 'Conflicting removal dates cannot become a deadline');
+});
+test('deadline clock respects the seven-day boundary and UTC+8 end instant', () => {
+  const d = { id:'sale', startDate:'2026-09-01', end:'2026-10-10T23:59:59', precision:'second', timezone:'UTC+8', server:'Global' };
+  const end = Date.parse('2026-10-10T15:59:59Z');
+  assert.deepEqual(deadlineBounds(d), {earliest:end,latest:end});
+  assert.equal(deadlineState(d,end-7*86400000-1),'scheduled');
+  assert.equal(deadlineState(d,end-7*86400000),'ending-soon');
+  assert.equal(deadlineState(d,end-1),'ending-soon');
+  assert.equal(deadlineState(d,end),'ended');
+  assert.equal(deadlineState(d,0),'unresolved');
+  assert.equal(endingDeadlines([d],'CN',end-1).length,0);
+  assert.equal(endingDeadlines([d],'Global',end).length,0);
+});
+test('unknown zones and date-only deadlines cannot imply an exact expiry', () => {
+  const d = {id:'event', startDate:'2026-09-25', end:'2026-10-02', precision:'day', timezone:null, server:'Global'};
+  assert.equal(deadlineState(d,Date.parse('2026-09-28T00:00:00Z')),'ending-soon');
+  assert.equal(deadlineState(d,Date.parse('2026-10-02T23:59:59Z')),'check-time');
+  assert.equal(deadlineState(d,Date.parse('2026-10-03T12:00:00Z')),'ended');
+  assert.equal(deadlineState({...d,startDate:'2026-10-01'},Date.parse('2026-09-28T00:00:00Z')),'upcoming');
+  const zoned = {...d, timezone:'UTC'};
+  assert.equal(deadlineState(zoned,Date.parse('2026-10-02T12:00:00Z')),'check-time');
+  assert.equal(deadlineState(zoned,Date.parse('2026-10-03T00:00:00Z')),'ended');
+});
 test("wiki facts preserve unknown flags, source attribution and one document per cosmetic", () => {
   const wiki = readWiki();
   assert.equal(validateWiki(research, wiki).wikiReferences, research.cosmetics.filter(c=>c.wikiDetails).length);

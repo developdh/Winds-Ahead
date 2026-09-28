@@ -1,0 +1,436 @@
+{
+  "schemaVersion": 1,
+  "reviewedAt": "2026-09-28",
+  "records": [
+    {
+      "id": "global-global-wind-s-far-shore-exchange-2026-11-18",
+      "cosmeticId": "global-wind-s-far-shore",
+      "server": "Global",
+      "kind": "exchange",
+      "startDate": "2026-08-20",
+      "end": "2026-11-18T04:59:59",
+      "precision": "second",
+      "timezone": null,
+      "sourceIds": [
+        "global-7108a47efe11",
+        "global-8658e239e38f"
+      ],
+      "verifiedAt": "2026-09-13",
+      "note": {
+        "en": "Official announcement schedule; current in-game availability has not been reverified.",
+        "ko": "공식 공지의 일정이며 현재 게임 내 획득 가능 여부는 별도 확인이 필요합니다."
+      }
+    },
+    {
+      "id": "global-global-rippling-dream-exchange-2026-10-06",
+      "cosmeticId": "global-rippling-dream",
+      "server": "Global",
+      "kind": "exchange",
+      "startDate": "2026-08-09",
+      "end": "2026-10-06T23:59:59",
+      "precision": "second",
+      "timezone": null,
+      "sourceIds": [
+        "global-1bf16bd98a9a",
+        "global-94c483cc789e"
+      ],
+      "verifiedAt": "2026-09-13",
+      "note": {
+        "en": "Official announcement schedule; current in-game availability has not been reverified.",
+        "ko": "공식 공지의 일정이며 현재 게임 내 획득 가능 여부는 별도 확인이 필요합니다."
+      }
+    },
+    {
+      "id": "global-global-crimson-bloom-exchange-2026-10-10",
+      "cosmeticId": "global-crimson-bloom",
+      "server": "Global",
+      "kind": "exchange",
+      "startDate": "2026-07-13",
+      "end": "2026-10-10T23:59:59",
+      "precision": "second",
+      "timezone": null,
+      "sourceIds": [
+        "global-9b0320799ff3",
+        "global-19a9c86d2a46"
+      ],
+      "verifiedAt": "2026-09-13",
+      "note": {
+        "en": "Official announcement schedule; current in-game availability has not been reverified.",
+        "ko": "공식 공지의 일정이며 현재 게임 내 획득 가능 여부는 별도 확인이 필요합니다."
+      }
+    },
+    {
+      "id": "global-han-ying-exchange-2026-12-05",
+      "cosmeticId": "han-ying",
+      "server": "Global",
+      "kind": "exchange",
+      "startDate": "2026-09-06",
+      "end": "2026-12-05T04:59:59",
+      "precision": "second",
+      "timezone": null,
+      "sourceIds": [
+        "global-73654b7bf516",
+        "global-daca950e5aa6"
+      ],
+      "verifiedAt": "2026-09-13",
+      "note": {
+        "en": "Official announcement schedule; current in-game availability has not been reverified.",
+        "ko": "공식 공지의 일정이며 현재 게임 내 획득 가능 여부는 별도 확인이 필요합니다."
+      }
+    },
+    {
+      "id": "global-xuan-yingshui-he-qing-tian-exchange-2026-11-09",
+      "cosmeticId": "xuan-yingshui-he-qing-tian",
+      "server": "Global",
+      "kind": "exchange",
+      "startDate": "2026-09-13",
+      "end": "2026-11-09T04:59:59",
+      "precision": "second",
+      "timezone": null,
+      "sourceIds": [
+        "global-73654b7bf516",
+        "global-daca950e5aa6"
+      ],
+      "verifiedAt": "2026-09-13",
+      "note": {
+        "en": "Official announcement schedule; current in-game availability has not been reverified.",
+        "ko": "공식 공지의 일정이며 현재 게임 내 획득 가능 여부는 별도 확인이 필요합니다."
+      }
+    },
+    {
+      "id": "global-fei-peng-tuan-kong-exchange-2026-10-27",
+      "cosmeticId": "fei-peng-tuan-kong",
+      "server": "Global",
+      "kind": "exchange",
+      "startDate": "2026-08-30",
+      "end": "2026-10-27T23:59:59",
+      "precision": "second",
+      "timezone": null,
+      "sourceIds": [
+        "global-7ed8d05169eb",
+        "global-539052c7278c"
+      ],
+      "verifiedAt": "2026-09-13",
+      "note": {
+        "en": "Official announcement schedule; current in-game availability has not been reverified.",
+        "ko": "공식 공지의 일정이며 현재 게임 내 획득 가능 여부는 별도 확인이 필요합니다."
+      }
+    },
+    {
+      "id": "global-chun-yuan-exchange-2026-11-18",
+      "cosmeticId": "chun-yuan",
+      "server": "Global",
+      "kind": "exchange",
+      "startDate": "2026-08-20",
+      "end": "2026-11-18T04:59:59",
+      "precision": "second",
+      "timezone": null,
+      "sourceIds": [
+        "global-7108a47efe11",
+        "global-8658e239e38f"
+      ],
+      "verifiedAt": "2026-09-13",
+      "note": {
+        "en": "Official announcement schedule; current in-game availability has not been reverified.",
+        "ko": "공식 공지의 일정이며 현재 게임 내 획득 가능 여부는 별도 확인이 필요합니다."
+      }
+    },
+    {
+      "id": "global-tianzhi-minggui-exchange-2026-10-21",
+      "cosmeticId": "tianzhi-minggui",
+      "server": "Global",
+      "kind": "exchange",
+      "startDate": "2026-07-23",
+      "end": "2026-10-21T04:59:59",
+      "precision": "second",
+      "timezone": null,
+      "sourceIds": [
+        "global-1bf16bd98a9a",
+        "global-94c483cc789e"
+      ],
+      "verifiedAt": "2026-09-13",
+      "note": {
+        "en": "Official announcement schedule; current in-game availability has not been reverified.",
+        "ko": "공식 공지의 일정이며 현재 게임 내 획득 가능 여부는 별도 확인이 필요합니다."
+      }
+    },
+    {
+      "id": "global-que-qiao-xian-exchange-2026-11-13",
+      "cosmeticId": "que-qiao-xian",
+      "server": "Global",
+      "kind": "exchange",
+      "startDate": "2026-08-16",
+      "end": "2026-11-13T23:59:59",
+      "precision": "second",
+      "timezone": null,
+      "sourceIds": [
+        "global-1bf16bd98a9a",
+        "global-94c483cc789e",
+        "global-x-20260813-magpie-bridge"
+      ],
+      "verifiedAt": "2026-09-13",
+      "note": {
+        "en": "Official announcement schedule; current in-game availability has not been reverified.",
+        "ko": "공식 공지의 일정이며 현재 게임 내 획득 가능 여부는 별도 확인이 필요합니다."
+      }
+    },
+    {
+      "id": "global-ling-jiao-zhi-meng-exchange-2026-10-14",
+      "cosmeticId": "ling-jiao-zhi-meng",
+      "server": "Global",
+      "kind": "exchange",
+      "startDate": "2026-07-16",
+      "end": "2026-10-14T04:59:59",
+      "precision": "second",
+      "timezone": null,
+      "sourceIds": [
+        "global-9b0320799ff3",
+        "global-19a9c86d2a46"
+      ],
+      "verifiedAt": "2026-09-13",
+      "note": {
+        "en": "Official announcement schedule; current in-game availability has not been reverified.",
+        "ko": "공식 공지의 일정이며 현재 게임 내 획득 가능 여부는 별도 확인이 필요합니다."
+      }
+    },
+    {
+      "id": "global-jin-yan-yu-tuan-sale-2026-10-25",
+      "cosmeticId": "jin-yan-yu-tuan",
+      "server": "Global",
+      "kind": "sale",
+      "startDate": "2026-09-25",
+      "end": "2026-10-25T04:59:59",
+      "precision": "second",
+      "timezone": "UTC+8",
+      "sourceIds": [
+        "global-20260923-appearance-en",
+        "global-20260923-appearance-ko"
+      ],
+      "verifiedAt": "2026-09-28",
+      "note": {
+        "en": "Official announcement schedule; current in-game availability has not been reverified.",
+        "ko": "공식 공지의 일정이며 현재 게임 내 획득 가능 여부는 별도 확인이 필요합니다."
+      }
+    },
+    {
+      "id": "global-fu-guang-exchange-2026-12-24",
+      "cosmeticId": "fu-guang",
+      "server": "Global",
+      "kind": "exchange",
+      "startDate": "2026-09-25",
+      "end": "2026-12-24T04:59:59",
+      "precision": "second",
+      "timezone": "UTC+8",
+      "sourceIds": [
+        "global-20260923-appearance-en",
+        "global-20260923-appearance-ko"
+      ],
+      "verifiedAt": "2026-09-28",
+      "note": {
+        "en": "Official announcement schedule; current in-game availability has not been reverified.",
+        "ko": "공식 공지의 일정이며 현재 게임 내 획득 가능 여부는 별도 확인이 필요합니다."
+      }
+    },
+    {
+      "id": "global-peng-shan-wan-zhong-draw-2026-12-26",
+      "cosmeticId": "peng-shan-wan-zhong",
+      "server": "Global",
+      "kind": "draw",
+      "startDate": "2026-09-27",
+      "end": "2026-12-26T04:59:59",
+      "precision": "second",
+      "timezone": "UTC+8",
+      "sourceIds": [
+        "global-20260923-appearance-en",
+        "global-20260923-appearance-ko"
+      ],
+      "verifiedAt": "2026-09-28",
+      "note": {
+        "en": "Official announcement schedule; current in-game availability has not been reverified.",
+        "ko": "공식 공지의 일정이며 현재 게임 내 획득 가능 여부는 별도 확인이 필요합니다."
+      }
+    },
+    {
+      "id": "global-qiu-lu-qing-exchange-2026-12-26",
+      "cosmeticId": "qiu-lu-qing",
+      "server": "Global",
+      "kind": "exchange",
+      "startDate": "2026-09-27",
+      "end": "2026-12-26T04:59:59",
+      "precision": "second",
+      "timezone": "UTC+8",
+      "sourceIds": [
+        "global-20260923-appearance-en",
+        "global-20260923-appearance-ko"
+      ],
+      "verifiedAt": "2026-09-28",
+      "note": {
+        "en": "Official announcement schedule; current in-game availability has not been reverified.",
+        "ko": "공식 공지의 일정이며 현재 게임 내 획득 가능 여부는 별도 확인이 필요합니다."
+      }
+    },
+    {
+      "id": "global-shu-tong-liu-xiang-discount-2026-10-10",
+      "cosmeticId": "shu-tong-liu-xiang",
+      "server": "Global",
+      "kind": "discount",
+      "startDate": "2026-09-27",
+      "end": "2026-10-10T23:59:59",
+      "precision": "second",
+      "timezone": "UTC+8",
+      "sourceIds": [
+        "global-20260923-appearance-en",
+        "global-20260923-appearance-ko"
+      ],
+      "verifiedAt": "2026-09-28",
+      "note": {
+        "en": "The 1,280 Echo Beads discount ends; regular price is 2,580. This is not a sale-removal date.",
+        "ko": "1,280 장명주 할인이 끝나고 정가 2,580으로 바뀝니다. 판매 종료일이 아닙니다."
+      }
+    },
+    {
+      "id": "global-global-moonhare-merriment-event-2026-10-02",
+      "cosmeticId": "global-moonhare-merriment",
+      "server": "Global",
+      "kind": "event",
+      "startDate": "2026-09-25",
+      "end": "2026-10-02",
+      "precision": "day",
+      "timezone": null,
+      "sourceIds": [
+        "global-x-20260924-moonhare"
+      ],
+      "verifiedAt": "2026-09-26",
+      "note": {
+        "en": "One Moon, Miles Apart reward event. The exact end time and time zone are not stated.",
+        "ko": "One Moon, Miles Apart 달맞이 보상 이벤트입니다. 종료 시각·시간대는 미표기입니다."
+      }
+    },
+    {
+      "id": "global-global-cloudgrace-earrings-event-2026-10-10",
+      "cosmeticId": "global-cloudgrace-earrings",
+      "server": "Global",
+      "kind": "event",
+      "startDate": "2026-09-25",
+      "end": "2026-10-10",
+      "precision": "day",
+      "timezone": "UTC",
+      "sourceIds": [
+        "global-x-20260924-cloudgrace"
+      ],
+      "verifiedAt": "2026-09-26",
+      "note": {
+        "en": "Log in for 10 days during the check-in event; the accessory reward day and exact end time are unstated.",
+        "ko": "이벤트 기간 10일간 접속해야 하며 장신구 지급 일차와 정확한 종료 시각은 미표기입니다."
+      }
+    },
+    {
+      "id": "cn-yu-gui-shan-shan-sale-2026-10-24",
+      "cosmeticId": "yu-gui-shan-shan",
+      "server": "CN",
+      "kind": "sale",
+      "startDate": "2026-09-24",
+      "end": "2026-10-24T05:00",
+      "precision": "minute",
+      "timezone": null,
+      "sourceIds": [
+        "cn-20260923-appearance"
+      ],
+      "verifiedAt": "2026-09-28",
+      "note": {
+        "en": "Official announcement schedule; current in-game availability has not been reverified.",
+        "ko": "공식 공지의 일정이며 현재 게임 내 획득 가능 여부는 별도 확인이 필요합니다."
+      }
+    },
+    {
+      "id": "cn-sheng-yue-lun-event-2026-10-02",
+      "cosmeticId": "sheng-yue-lun",
+      "server": "CN",
+      "kind": "event",
+      "startDate": "2026-09-25",
+      "end": "2026-10-02T05:00",
+      "precision": "minute",
+      "timezone": null,
+      "sourceIds": [
+        "cn-20260923-appearance"
+      ],
+      "verifiedAt": "2026-09-28",
+      "note": {
+        "en": "Official announcement schedule; current in-game availability has not been reverified.",
+        "ko": "공식 공지의 일정이며 현재 게임 내 획득 가능 여부는 별도 확인이 필요합니다."
+      }
+    },
+    {
+      "id": "cn-xuanying-lianchen-buran-exchange-2026-11-02",
+      "cosmeticId": "xuanying-lianchen-buran",
+      "server": "CN",
+      "kind": "exchange",
+      "startDate": "2026-09-04",
+      "end": "2026-11-02T05:00",
+      "precision": "minute",
+      "timezone": null,
+      "sourceIds": [
+        "cn-20260903-new-appearance"
+      ],
+      "verifiedAt": "2026-09-28",
+      "note": {
+        "en": "The announcement gives a limited listing through this date, with a discounted exchange cost of 2 Sound Jade (regularly 3).",
+        "ko": "원문에 이 날짜까지 한정 입점으로 명시되어 있으며 2 음옥으로 할인 교환합니다(정가 3). 시간대는 미표기입니다."
+      }
+    },
+    {
+      "id": "cn-chuan-hua-jian-draw-2026-12-25",
+      "cosmeticId": "chuan-hua-jian",
+      "server": "CN",
+      "kind": "draw",
+      "startDate": "2026-09-24",
+      "end": "2026-12-25T05:00",
+      "precision": "minute",
+      "timezone": null,
+      "sourceIds": [
+        "cn-20260923-appearance"
+      ],
+      "verifiedAt": "2026-09-28",
+      "note": {
+        "en": "Official announcement schedule; current in-game availability has not been reverified.",
+        "ko": "공식 공지의 일정이며 현재 게임 내 획득 가능 여부는 별도 확인이 필요합니다."
+      }
+    },
+    {
+      "id": "cn-fu-liu-xiang-draw-2026-12-25",
+      "cosmeticId": "fu-liu-xiang",
+      "server": "CN",
+      "kind": "draw",
+      "startDate": "2026-09-24",
+      "end": "2026-12-25T05:00",
+      "precision": "minute",
+      "timezone": null,
+      "sourceIds": [
+        "cn-20260923-appearance"
+      ],
+      "verifiedAt": "2026-09-28",
+      "note": {
+        "en": "Official announcement schedule; current in-game availability has not been reverified.",
+        "ko": "공식 공지의 일정이며 현재 게임 내 획득 가능 여부는 별도 확인이 필요합니다."
+      }
+    },
+    {
+      "id": "cn-ru-fang-fei-draw-2026-12-25",
+      "cosmeticId": "ru-fang-fei",
+      "server": "CN",
+      "kind": "draw",
+      "startDate": "2026-09-24",
+      "end": "2026-12-25T05:00",
+      "precision": "minute",
+      "timezone": null,
+      "sourceIds": [
+        "cn-20260923-appearance"
+      ],
+      "verifiedAt": "2026-09-28",
+      "note": {
+        "en": "Official announcement schedule; current in-game availability has not been reverified.",
+        "ko": "공식 공지의 일정이며 현재 게임 내 획득 가능 여부는 별도 확인이 필요합니다."
+      }
+    }
+  ]
+}

@@ -24,7 +24,7 @@ export default function CosmeticGallery({ c, l, selected, onSelect, immersive = 
     <Dialog>
       <div className={immersive ? "quick-view-media" : undefined}>
       <DialogTrigger asChild>
-        <button className="detail-image" aria-label={t("Open full official image", "공식 이미지 크게 보기")}>
+        <button className="detail-image" aria-label={t("Open full image", "이미지 크게 보기")}>
           <img key={picture.display ?? picture.full} src={picture.display ?? picture.full} width={picture.displayWidth ?? c.images[picture.index].width} height={picture.displayHeight ?? c.images[picture.index].height} alt={c.images[picture.index].alt?.[l] ?? `${c.nameOriginal} · ${t("Game appearance preview", "게임 외관 미리보기")}`} decoding="async" fetchPriority="high" />
           <span><ZoomIn size={17} />{t("View full image", "전체 이미지 보기")}</span>
         </button>
@@ -36,6 +36,7 @@ export default function CosmeticGallery({ c, l, selected, onSelect, immersive = 
       </>}
       </div>
       {c.images[images[selected].index].caption && <p className="small-muted">{c.images[images[selected].index].caption?.[l]}</p>}
+      {c.images[picture.index].sourceKind === 'community' && <p className="media-credit"><a className="text-link" href={c.images[picture.index].sourceUrl} target="_blank" rel="noreferrer">{t('Photo source · Huiji Wiki', '사진 출처 · 회기 위키')}</a> · {c.images[picture.index].contributor} · {t('Community reference', '커뮤니티 참고 이미지')}</p>}
       <DialogContent className="gallery-dialog" showCloseButton={false}>
         <Suspense fallback={
           <div className="gallery-carousel">

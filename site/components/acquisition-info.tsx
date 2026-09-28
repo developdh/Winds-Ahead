@@ -1,7 +1,8 @@
 import { serverName } from '@/lib/regional-status';
 import { currencyName } from '@/lib/acquisition';
 import type { Cosmetic, Locale } from '@/lib/catalog';
-export default function AcquisitionInfo({ c, l }: { c: Cosmetic; l: Locale }) {
+import { DeadlineDetails } from "@/components/deadline-info";
+export default function AcquisitionInfo({ c, l, now }: { c: Cosmetic; l: Locale; now: number }) {
   const a = c.acquisition;
   const t = (en: string, ko: string) => l === 'ko' ? ko : en;
   const fixed = a.pricing === 'fixed';
@@ -23,6 +24,7 @@ export default function AcquisitionInfo({ c, l }: { c: Cosmetic; l: Locale }) {
       <div><dt>{t('Currency', '필요 재화')}</dt><dd>{currency ?? t('Not stated', '공지 미표기')}{a.currencyOriginal && <small lang="zh-Hans">{a.currencyOriginal}</small>}</dd></div>
       {!fixed && a.pricing !== 'free' && <div><dt>{t('Required amount', '필요 수량')}</dt><dd>{a.pricing === 'draw' ? t('Total not established', '총 필요 수량 미정') : a.pricing === 'unknown' ? t('Not stated in the source', '공지에 수량 미표기') : t('Price not stated', '구매 가격 미정')}</dd></div>}
     </dl>
+    <DeadlineDetails id={c.id} server={c.acquisitionServer ?? "CN"} l={l} now={now}/>
     {a.conditions && <p className="acquisition-conditions">{a.conditions[l]}</p>}
     {a.sourceExcerpt && <details className="regional-evidence"><summary>{t("Original acquisition wording", "획득 조건 원문")}</summary><p lang="zh-Hans">{a.sourceExcerpt}</p></details>}
     <p className="acquisition-scope">{t('Terms for the server shown above. Current availability may differ.', '위에 표시된 서버의 조건입니다. 현재 획득 가능 여부는 다를 수 있습니다.')}</p>

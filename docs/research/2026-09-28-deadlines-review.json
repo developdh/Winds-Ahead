@@ -1,0 +1,11 @@
+{
+  "reviewedAt": "2026-09-28",
+  "records": 23,
+  "method": "Structured existing official terms with original review dates; re-read Global 925appearance and CN 1315085/1313151 prose.",
+  "excluded": [
+    "global-forged-in-fire: conflicted removal dates",
+    "duration-only offers: no inferred exact end"
+  ],
+  "precisionPolicy": "No invented timezone, exact day cutoff or second. Unknown zones use possible UTC+14 through UTC-12 interval.",
+  "regionalStatusChanged": false
+}
