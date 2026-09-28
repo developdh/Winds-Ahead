@@ -3417,7 +3417,8 @@
       "server": "Global",
       "kind": "release",
       "sourceIds": [
-        "global-x-20260924-moonhare"
+        "global-x-20260924-moonhare",
+        "global-naver-20260927-moonhare-ko"
       ],
       "status": "announced",
       "scope": {

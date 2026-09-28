@@ -1,0 +1,36 @@
+{
+  "reviewedAt": "2026-09-28",
+  "cosmeticId": "global-moonhare-merriment",
+  "officialNameKo": "성월륜",
+  "officialNameEn": "Moonhare Merriment",
+  "eventNameKo": "달빛 동행",
+  "koreanSource": {
+    "id": "global-naver-20260927-moonhare-ko",
+    "url": "https://cafe.naver.com/wherewindsmeet/2270",
+    "publisher": "GM 연지",
+    "displayedPublicationDateTime": "2026-09-27 21:02",
+    "publicationTimezone": null,
+    "verifiedExcerpt": "장신구 [성월륜]",
+    "officialChannelLinkedFrom": "https://www.wherewindsmeetgame.com/kr/news/official/921update.html",
+    "method": "Read the official Cafe article body in a browser, including publisher, date, reward and event period."
+  },
+  "englishSource": "https://x.com/WhereWindsMeet_/status/2103122279957934298",
+  "identityEvidence": [
+    "Same September 25–October 2 event window",
+    "Same moon-viewing participation condition",
+    "Same accessory reward role"
+  ],
+  "changes": [
+    "Official Korean name and localization corrected",
+    "Official Korean event name and source links added",
+    "Old transliteration retained only as search alias",
+    "Obsolete Korean-name-unverified copy removed from current item"
+  ],
+  "preserved": [
+    "English name",
+    "Stable cosmetic ID and existing saved-item links",
+    "Event dates and unknown time zone",
+    "CN identity uncertainty",
+    "Historical September 26 review and release notes"
+  ]
+}

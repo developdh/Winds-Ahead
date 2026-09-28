@@ -298,12 +298,13 @@
       "precision": "day",
       "timezone": null,
       "sourceIds": [
-        "global-x-20260924-moonhare"
+        "global-x-20260924-moonhare",
+        "global-naver-20260927-moonhare-ko"
       ],
-      "verifiedAt": "2026-09-26",
+      "verifiedAt": "2026-09-28",
       "note": {
         "en": "One Moon, Miles Apart reward event. The exact end time and time zone are not stated.",
-        "ko": "One Moon, Miles Apart 달맞이 보상 이벤트입니다. 종료 시각·시간대는 미표기입니다."
+        "ko": "달빛 동행 보상 이벤트입니다. 종료 시각·시간대는 미표기입니다."
       }
     },
     {
