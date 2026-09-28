@@ -2,6 +2,26 @@
   "schemaVersion": 1,
   "entries": [
     {
+      "id": "moonhare-korean-name-20260928",
+      "date": "2026-09-28",
+      "kind": {
+        "en": "Official Korean name correction",
+        "ko": "한국어 공식명 정정"
+      },
+      "title": {
+        "en": "Moonhare Merriment: official Korean name verified",
+        "ko": "장신구 한국어 공식명을 성월륜으로 정정"
+      },
+      "body": {
+        "en": "Replaced the provisional Korean transliteration with 성월륜, verified in GM 연지’s official Korean Cafe notice. Added the official event name 달빛 동행 and Korean evidence links. English naming, event dates and unknown time zones are preserved.",
+        "ko": "GM 연지의 한국 공식 카페 공지를 확인해 임시 음역을 성월륜으로 바로잡았습니다. 공식 이벤트명 달빛 동행과 한국어 출처도 반영했습니다. 영문명·이벤트 일정·미명시 시간대는 유지합니다."
+      },
+      "sourceIds": [
+        "global-naver-20260927-moonhare-ko",
+        "global-x-20260924-moonhare"
+      ]
+    },
+    {
       "id": "deadlines-wiki-20260928",
       "date": "2026-09-28",
       "kind": {
