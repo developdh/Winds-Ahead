@@ -476,7 +476,7 @@ test('calendar estimates and roadmap share every active window, including later 
   const calendar=currentForecasts(events,revisions,'2026-09-23',released);
   const timeline=upcomingEntries(events,revisions,'2026-09-23','forecast',released).map(entry=>entry.forecast);
   assert.deepEqual(calendar,timeline);
-  assert.equal(calendar.length,5);
+  assert.equal(calendar.length,8);
   assert.ok(calendar.some(f=>f.start>'2026-09-30'));
   const version={...fixture,id:'future-version',precision:'version',version:'3.0',month:undefined};
   assert.equal(currentForecasts([], [version], '2026-09-23')[0].version,'3.0');

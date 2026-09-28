@@ -2,6 +2,37 @@
   "schemaVersion": 1,
   "entries": [
     {
+      "id": "forecast-gallery-20260928",
+      "date": "2026-09-28",
+      "kind": {
+        "en": "Forecast review & photos",
+        "ko": "출시 예상 재검토·사진"
+      },
+      "title": {
+        "en": "Three more roadmap estimates and six female gallery views",
+        "ko": "로드맵 예상 3건·여성 외형 사진 6장 추가"
+      },
+      "body": {
+        "en": "Added broad, limited-evidence windows for Bu Qiu Ting and two Myriad Sounds blades. Reviewed the five existing windows without moving them, preserved every revision, and set October 5 for the next review. Added six official female views across four galleries. No newer official cosmetic schedule was identified in the inspected news and recent Global posts.",
+        "ko": "보추정·만뢰 계열 무기 2종에 근거가 제한적인 넓은 예상 기간을 추가했습니다. 기존 예상 5건은 기간과 모든 이력을 보존해 재검토했으며 다음 검토일은 10월 5일입니다. 외관 4종의 공식 여성 이미지 6장을 추가했습니다. 확인한 공지와 최신 글로벌 게시물에서 더 새로운 공식 외관 일정은 식별하지 못했습니다."
+      },
+      "sourceIds": [
+        "cn-20260909-new-appearance",
+        "cn-0976cf8180c3",
+        "cn-b0bcdbb85576",
+        "cn-20260630-outfits",
+        "cn-20260723-outfits",
+        "cn-c2133042ccf0",
+        "cn-aab8c2b73a91",
+        "global-20260914-appearance-en",
+        "global-20260917-appearance-en",
+        "global-20260923-appearance-en",
+        "global-20260923-appearance-ko",
+        "cn-20260922-appearance",
+        "cn-20260923-appearance"
+      ]
+    },
+    {
       "id": "official-refresh-20260926",
       "date": "2026-09-26",
       "kind": {

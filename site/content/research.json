@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "verifiedAt": "2026-09-26",
+  "verifiedAt": "2026-09-28",
   "scope": "Cross-server archive from individually reviewed official announcements; not a certified complete game inventory.",
   "sources": [
     {
@@ -19917,7 +19917,7 @@
     {
       "id": "wan-laizuo-xuan-gui",
       "nameOriginal": "万籁·琢玄圭",
-      "romanization": "wan lai·zuo xuan gui",
+      "romanization": "Wan Lai · Zhuo Xuan Gui",
       "category": "weapon_skin",
       "sourceId": "cn-b0bcdbb85576",
       "acquisitionServer": "CN",
@@ -19925,11 +19925,11 @@
       "officialNameEn": null,
       "officialNameKo": null,
       "cnRelease": {
-        "date": null,
-        "precision": "unknown",
+        "date": "2026-06-12",
+        "precision": "day",
         "timezone": null,
         "contextual": false,
-        "basis": "Exact item release day not established"
+        "basis": "Both Heng blade and Mo blade are explicitly named in the June 12 listing sentence of the displayed June 10 official notice. Start is after the update; no clock or timezone is inferred."
       },
       "acquisition": {
         "kind": "unknown",
@@ -19974,12 +19974,16 @@
         "officialName": null,
         "releaseDate": null
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "namingNote": {
+        "en": "Provisional reading of the CN name; no item-specific official Global name verified.",
+        "ko": "중국 원명의 임시 독음이며 해당 외관의 글로벌 공식명은 미확인입니다."
+      }
     },
     {
       "id": "wan-laipei-cang-long",
       "nameOriginal": "万籁·佩苍龙",
-      "romanization": "wan lai·pei cang long",
+      "romanization": "Wan Lai · Pei Cang Long",
       "category": "weapon_skin",
       "sourceId": "cn-b0bcdbb85576",
       "acquisitionServer": "CN",
@@ -20036,7 +20040,11 @@
         "officialName": null,
         "releaseDate": null
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "namingNote": {
+        "en": "Provisional reading of the CN name; no item-specific official Global name verified.",
+        "ko": "중국 원명의 임시 독음이며 해당 외관의 글로벌 공식명은 미확인입니다."
+      }
     },
     {
       "id": "shuang-yue-yin",
@@ -45597,6 +45605,42 @@
           "sourceFrame": 0,
           "inspectionNote": "Named official section and character/item artwork inspected September 26. Static frame 0 retained for GIF; full composition accessible in gallery. Not in-game verification.",
           "server": "CN"
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260925/b60ac0d4-af03-44e4-8528-32585fc793e8.jpg",
+          "width": 1920,
+          "height": 1080,
+          "bytes": 1340701,
+          "kind": "official_promotional_game_image",
+          "visuallyInspected": true,
+          "description": "Female three-quarter front upper-body view; black-and-white clothing, white shoulder fur, gold cicada ornaments, pearl chains, earrings and gold pipe visible. Lower skirt and feet are outside the frame. Single scene with edge title and logo, no multi-panel frame.",
+          "alt": {
+            "en": "Female upper-body view with white shoulder fur, gold cicada ornaments and pearl chains.",
+            "ko": "흰 어깨 털장식, 금색 매미 장식과 진주 사슬이 보이는 여성형 상반신."
+          },
+          "inspectionNote": "Official named section and individual female view inspected September 28 UTC; original composition retained. Not in-game verification.",
+          "sourceId": "cn-20260922-appearance",
+          "reusePermission": "unknown",
+          "localCopy": "/media/jin-zhao-yu-2-full.webp",
+          "server": "CN"
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260925/3fb9b73b-23af-4810-b1b1-aae34c554170.png",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 3691232,
+          "kind": "official_promotional_game_image",
+          "visuallyInspected": true,
+          "description": "Female rear detail from head to upper skirt; coiled hair, hair chains, embroidered black sleeve, white shoulder fur and trailing gold chains visible. Legs and hem are outside the frame. Single scene with edge title and logo.",
+          "alt": {
+            "en": "Female rear detail showing the coiled hairstyle, shoulder fur and trailing gold ornaments.",
+            "ko": "틀어 올린 머리, 어깨 털장식과 늘어진 금색 장식이 보이는 여성형 뒷모습."
+          },
+          "inspectionNote": "Official named section and individual female view inspected September 28 UTC; original composition retained. Not in-game verification.",
+          "sourceId": "cn-20260922-appearance",
+          "reusePermission": "unknown",
+          "localCopy": "/media/jin-zhao-yu-3-full.webp",
+          "server": "CN"
         }
       ],
       "officialVideos": [],
@@ -45798,6 +45842,24 @@
           "visuallyInspected": true,
           "sourceFrame": 0,
           "inspectionNote": "Named official section and character/item artwork inspected September 26. Static frame 0 retained for GIF; full composition accessible in gallery. Not in-game verification.",
+          "server": "CN"
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260925/365203f7-1c4a-45ae-862a-0d9f48bf28dc.jpg",
+          "width": 1920,
+          "height": 1080,
+          "bytes": 1623829,
+          "kind": "official_promotional_game_image",
+          "visuallyInspected": true,
+          "description": "Female three-quarter front upper-body view; white leaf-shaped hat and cape, autumn maple shoulder ornaments, red ties and patterned bodice. Waist visible; lower garment and feet outside the frame. Single scene with edge title and logo.",
+          "alt": {
+            "en": "Female upper-body view with a leaf-shaped hat, maple shoulder ornaments and red ties.",
+            "ko": "잎 모양 삿갓, 단풍 어깨 장식과 붉은 끈이 보이는 여성형 상반신."
+          },
+          "inspectionNote": "Official named section and individual female view inspected September 28 UTC; original composition retained. Not in-game verification.",
+          "sourceId": "cn-20260922-appearance",
+          "reusePermission": "unknown",
+          "localCopy": "/media/hong-ye-xiao-xiao-2-full.webp",
           "server": "CN"
         }
       ],
@@ -46001,6 +46063,42 @@
           "sourceFrame": 0,
           "inspectionNote": "Named official section and character/item artwork inspected September 26. Static frame 0 retained for GIF; full composition accessible in gallery. Not in-game verification.",
           "server": "CN"
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260925/1681b88c-ad34-420b-8b6e-7432f4699544.jpg",
+          "width": 1920,
+          "height": 1080,
+          "bytes": 1253570,
+          "kind": "official_promotional_game_image",
+          "visuallyInspected": true,
+          "description": "Female three-quarter front upper-body view; paired loop hair buns, white fur accents, pink and white sleeves, golden osmanthus shoulder decoration and moon effect visible. Lower garment outside frame. Single scene with edge title and logo.",
+          "alt": {
+            "en": "Female upper-body view with paired loop hair buns, pink sleeves and gold osmanthus ornaments.",
+            "ko": "고리 모양 쌍쪽머리, 분홍 소매와 금색 계화 장식이 보이는 여성형 상반신."
+          },
+          "inspectionNote": "Official named section and individual female view inspected September 28 UTC; original composition retained. Not in-game verification.",
+          "sourceId": "cn-20260923-appearance",
+          "reusePermission": "unknown",
+          "localCopy": "/media/yu-gui-shan-shan-2-full.webp",
+          "server": "CN"
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260925/966b3eed-8723-40bc-b448-a8b45c27826a.jpg",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 1608264,
+          "kind": "official_promotional_game_image",
+          "visuallyInspected": true,
+          "description": "Female rear view from head down most of skirt; matching rabbit-ear-like loop buns, long black hair and gold ribbons, open shoulder cutouts, pink-white embroidered draping and gold bow visible. Feet and complete hem outside frame. Single scene with edge title and logo.",
+          "alt": {
+            "en": "Female rear view showing long gold hair ribbons, pink embroidered draping and the gold waist bow.",
+            "ko": "금색 머리 리본, 분홍색 자수 옷자락과 금색 허리 리본이 보이는 여성형 뒷모습."
+          },
+          "inspectionNote": "Official named section and individual female view inspected September 28 UTC; original composition retained. Not in-game verification.",
+          "sourceId": "cn-20260923-appearance",
+          "reusePermission": "unknown",
+          "localCopy": "/media/yu-gui-shan-shan-3-full.webp",
+          "server": "CN"
         }
       ],
       "officialVideos": [],
@@ -46153,6 +46251,24 @@
           "visuallyInspected": true,
           "sourceFrame": 0,
           "inspectionNote": "Named official section and character/item artwork inspected September 26. Static frame 0 retained for GIF; full composition accessible in gallery. Not in-game verification.",
+          "server": "CN"
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260925/055e11b8-29bc-4ce3-bf3a-af3b3004ed93.png",
+          "width": 1920,
+          "height": 1080,
+          "bytes": 3330481,
+          "kind": "official_promotional_game_image",
+          "visuallyInspected": true,
+          "description": "Female three-quarter front upper-body view playing a flute; pink-white flower embroidered sleeves, butterfly hair ornaments and chest detail clearly visible. Lower skirt and feet outside frame. Single scene with edge title and logo.",
+          "alt": {
+            "en": "Female upper-body view playing a flute, with butterfly hair ornaments and flower-embroidered sleeves.",
+            "ko": "나비 머리 장식과 꽃 자수 소매를 갖추고 피리를 부는 여성형 상반신."
+          },
+          "inspectionNote": "Official named section and individual female view inspected September 28 UTC; original composition retained. Not in-game verification.",
+          "sourceId": "cn-20260923-appearance",
+          "reusePermission": "unknown",
+          "localCopy": "/media/chuan-hua-jian-3-full.webp",
           "server": "CN"
         }
       ],
