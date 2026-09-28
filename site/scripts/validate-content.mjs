@@ -232,6 +232,12 @@ export function validateContent(research, media, forecastData, globalData) {
       if (!bySource.has(video.sourceId))
         throw new Error(`Unknown video source ${video.sourceId}`);
     }
+    for (const image of c.images.filter(image => image.sourceKind === 'community')) {
+      if (bySource.get(image.sourceId)?.kind !== 'community' ||
+          !image.sourceUrl?.startsWith('https://yy16s.huijiwiki.com/wiki/') ||
+          !image.attribution || image.reusePermission !== 'unknown' || !image.visuallyInspected)
+        throw new Error('Wiki images require community attribution and honest reuse/inspection metadata');
+    }
     if (c.mediaStatus !== "pending" && !media.some((m) => m.cosmeticId === c.id && m.index === 0))
       throw new Error(`Missing primary media ${c.id}`);
   }
@@ -309,6 +315,36 @@ export function validateRegional(research, globalData, regionalData) {
   return { regionalRecords: data.records.length };
 }
 
+export function validateDeadlines(research, globalData, data) {
+  const schema = z.object({
+    schemaVersion: z.literal(1), reviewedAt: day,
+    records: z.array(z.object({
+      id: z.string().min(1), cosmeticId: z.string(), server: z.enum(['CN', 'Global']),
+      kind: z.enum(['sale', 'exchange', 'discount', 'event', 'draw', 'pass']),
+      startDate: day, end: z.string(), precision: z.enum(['day', 'minute', 'second']),
+      timezone: z.enum(['UTC', 'UTC+8']).nullable(), sourceIds: z.array(z.string()).min(1),
+      verifiedAt: day, note: bilingual,
+    }).strict().superRefine((d, ctx) => {
+      const shape = { day: /^\d{4}-\d{2}-\d{2}$/, minute: /^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}$/, second: /^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}$/ };
+      const bad = message => ctx.addIssue({code:z.ZodIssueCode.custom,message});
+      if (!shape[d.precision].test(d.end) || !isDay(d.end.slice(0,10))) bad('Deadline precision must match a valid local date/time');
+      if (d.precision !== 'day' && (Number(d.end.slice(11,13)) > 23 || Number(d.end.slice(14,16)) > 59 || Number(d.end.slice(17,19)) > 59)) bad('Invalid deadline time');
+      if (d.startDate > d.end.slice(0,10)) bad('Deadline must follow listing start');
+    })),
+  }).strict().parse(data);
+  unique(schema.records.map(d => d.id), 'deadline ID');
+  unique(schema.records.map(d => `${d.cosmeticId}:${d.server}:${d.kind}:${d.end}`), 'deadline');
+  const ids = new Set(research.cosmetics.map(c => c.id));
+  const sources = new Map([...research.sources, ...globalData.sources].map(s => [s.id,s]));
+  for (const d of schema.records) {
+    if (!ids.has(d.cosmeticId)) throw new Error('Unknown deadline cosmetic');
+    if (d.sourceIds.some(id => !sources.has(id))) throw new Error('Unknown deadline source');
+    if (!d.sourceIds.some(id => sources.get(id).server === d.server && sources.get(id).kind !== 'community')) throw new Error('Deadline needs official evidence from the same server');
+    if (d.verifiedAt > schema.reviewedAt) throw new Error('Deadline review exceeds batch review');
+  }
+  return { deadlines: schema.records.length };
+}
+
 export function validateEditorial(
   research,
   globalData,
@@ -366,6 +402,7 @@ if (
   const read = (name) =>
     JSON.parse(fs.readFileSync(path.join(root, "content", name), "utf8"));
   const media = read("media.json");
+  console.log(validateDeadlines(read("research.json"), read("global-events.json"), read("deadlines.json")));
   console.log(validateRegional(read("research.json"), read("global-events.json"), read("regional-records.json")));
   console.log(
     validateContent(

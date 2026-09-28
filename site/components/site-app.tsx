@@ -33,6 +33,7 @@ import {
 import { regionalRecord, regionalState, releasedOn, matchesServer, serverName, stateName } from "@/lib/regional-status";
 import { rememberLocale } from "@/lib/language-preference";
 import CosmeticVideos from "@/components/cosmetic-videos";
+import { DeadlineBadge } from "@/components/deadline-info";
 import AcquisitionInfo from "@/components/acquisition-info";
 import CosmeticGallery from "@/components/cosmetic-gallery";
 import { acquisitionSummary, archiveAcquisition, currencyName } from "@/lib/acquisition";
@@ -100,9 +101,10 @@ export default function SiteApp({
   const quickViewEnabled = view === "catalog" || view === "watchlist" || view === "calendar";
   const quickView = useQuickView(quickViewEnabled, path);
   const previewItem = quickView.id ? findCosmetic(quickView.id) : undefined;
-  const [today, setToday] = useState("");
+  const [now, setNow] = useState(0);
+  const today = now ? new Date(now).toISOString().slice(0, 10) : "";
   useEffect(() => {
-    const update = () => setToday(new Date().toISOString().slice(0, 10));
+    const update = () => setNow(Date.now());
     update();
     const timer = setInterval(update, 60_000);
     document.addEventListener("visibilitychange", update);
@@ -263,6 +265,7 @@ export default function SiteApp({
               {cnState === "released" && globalState === "released" ? t("CN + Global released", "중국·글로벌 출시") : globalState === "released" ? t("Global released", "글로벌 출시") : cnState === "released" ? t("China released", "중국 출시") : t("Unverified", "출시 확인 중")}
             </span>}
           </div>
+          <DeadlineBadge id={c.id} server={acquisitionServer} l={l} now={now} />
           <ReleaseOutlook c={c} l={l} today={today} />
         </div>
       </article>
@@ -327,6 +330,7 @@ export default function SiteApp({
         )}
         {view === "detail" && item && (
           <Detail
+            now={now}
             key={item.id}
             c={item}
             l={l}
@@ -344,7 +348,7 @@ export default function SiteApp({
               </div>
             }
           >
-            <Roadmap l={l} onCosmeticClick={quickView.show} />
+            <Roadmap now={now} l={l} onCosmeticClick={quickView.show} />
           </Suspense>
         )}
         {view === "updates" && <Updates l={l} />}
@@ -361,7 +365,7 @@ export default function SiteApp({
               <Link className="quick-view-permalink" href={`/${l}/cosmetics/${previewItem.id}${backQuery}`} aria-label={t("Open standalone page", "개별 페이지 열기")}><ArrowUpRight size={19} /></Link>
               <DialogClose ref={quickView.closeButton} className="quick-view-close" aria-label={t("Close details", "상세 정보 닫기")}><X size={22} /></DialogClose>
             </div>
-            <Detail key={previewItem.id} c={previewItem} l={l} today={today} saveButton={saveButton} card={card} backQuery={backQuery} embedded />
+            <Detail key={previewItem.id} c={previewItem} l={l} today={today} now={now} saveButton={saveButton} card={card} backQuery={backQuery} embedded />
           </>}
         </DialogContent>
       </Dialog>
@@ -601,6 +605,7 @@ function Catalog({
   );
 }
 function Detail({
+  now,
   c,
   l,
   today,
@@ -610,6 +615,7 @@ function Detail({
   embedded = false,
 }: {
   embedded?: boolean;
+  now: number;
   backQuery: string;
   c: Cosmetic;
   l: Locale;
@@ -691,8 +697,8 @@ function Detail({
             </a>
           </div>
           <GlobalPanel c={c} l={l} today={today} />
-          {!c.wikiOnly && <AcquisitionInfo c={c} l={l} />}
-          {(["CN", "Global"] as const).filter(server => server !== (c.acquisitionServer ?? "CN")).map(server => { const record = regionalRecord(c, server); return record?.acquisition ? <AcquisitionInfo key={server} c={{...c, acquisition: record.acquisition, acquisitionServer: server}} l={l} /> : null; })}
+          {!c.wikiOnly && <AcquisitionInfo c={c} l={l} now={now} />}
+          {(["CN", "Global"] as const).filter(server => server !== (c.acquisitionServer ?? "CN")).map(server => { const record = regionalRecord(c, server); return record?.acquisition ? <AcquisitionInfo key={server} c={{...c, acquisition: record.acquisition, acquisitionServer: server}} l={l} now={now} /> : null; })}
           {source.server === "CN" && source.kind !== "community" && <div className="facts">
             <h2>
               <ShieldCheck size={18} />

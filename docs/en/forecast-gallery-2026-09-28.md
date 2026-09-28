@@ -26,6 +26,6 @@ Added six individually inspected official female views: two 金昭玉, one 红�
 
 The archive remains at 716 cosmetics and grows from 602 to 608 image references. New thumbnails total 276,492 bytes, full views 1,469,754 bytes and selector previews 24,286 bytes. Images are lazy loaded through the existing gallery. Official attribution does not grant redistribution permission, which remains unknown; media is excluded from the code license.
 
-No new service, schedule, automated merge or interface feature was introduced. A proposed sale-ending display remains outside this update and requires owner approval.
+The owner subsequently approved the sale/exchange ending-soon display and further Huiji Wiki photo collection. These additions are grouped into this update; see [Deadlines and wiki photos](deadlines-wiki-2026-09-28.md). No new service, recurring schedule or automatic merge is introduced.
 
 Validation: type checking, all 41 tests, content validation, forecast-history preservation and the production Worker build passed. Browser checks covered Korean at 390 px (roadmap/calendar both showing eight estimates and gallery navigation to the new photo) and English at 320 px (new candidate names, labels and no horizontal overflow). No broken loaded images were found in those views. Physical devices, Firefox/WebKit and field performance were not tested. Existing build warnings about large chunks and future Vite config loading remain.

@@ -60,3 +60,5 @@ September 21: the owner requested a forecast re-review and additional candidate 
 
 
 Added three broad editorial windows and six female gallery views. Re-reviewed the five existing estimates without moving their windows; all previous revisions remain, and the next review is October 5. [Review and limitations](forecast-gallery-2026-09-28.md).
+
+September 28 follow-up: the owner approved deadline notices and a larger Huiji photo batch. Keep `deadlines.json` source-backed and server-specific during future content checks; distinguish sale/exchange ends from discount deadlines, retain missing zones and date precision, and exclude unresolved conflicts. This uses the existing review process and adds no schedule. [Behavior and photo provenance](deadlines-wiki-2026-09-28.md).
