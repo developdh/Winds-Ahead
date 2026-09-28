@@ -14365,17 +14365,18 @@
       "status": "announced",
       "releaseDate": "2026-09-25",
       "precision": "day",
-      "verifiedAt": "2026-09-26",
+      "verifiedAt": "2026-09-28",
       "sourceIds": [
-        "global-x-20260924-moonhare"
+        "global-x-20260924-moonhare",
+        "global-naver-20260927-moonhare-ko"
       ],
       "scope": {
         "en": "Reward event announced for September 25–October 2; timezone unstated. The date records the event opening, not a verified claim or CN identity match.",
         "ko": "9월 25일~10월 2일 보상 이벤트 예고이며 시간대 미표기입니다. 날짜는 이벤트 시작일이며 실제 수령 확인·중국 항목 대응을 뜻하지 않습니다."
       },
       "identityBasis": {
-        "en": "The regional official notice explicitly names this cosmetic and category.",
-        "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
+        "en": "English and Korean official notices match on September 25–October 2, moon-viewing activity and accessory reward; the Korean notice names 성월륜. This does not establish a CN identity match.",
+        "ko": "영문·한국어 공식 공지의 9월 25일~10월 2일 일정, 달맞이 참여 방식, 장신구 보상이 일치하며 한국어 공지는 성월륜을 명시합니다. 중국 항목 대응은 별도로 미확인입니다."
       },
       "confirmationPending": true
     },

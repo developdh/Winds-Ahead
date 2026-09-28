@@ -3588,6 +3588,19 @@
       "displayedPublicationDate": null,
       "evidenceTier": "C",
       "kind": "community"
+    },
+    {
+      "id": "global-naver-20260927-moonhare-ko",
+      "url": "https://cafe.naver.com/wherewindsmeet/2270",
+      "titleOriginal": "🌕 달빛 동행 | 맑은 달빛 아래에서 푸짐한 선물 받아가세요!",
+      "publisher": "연운 / GM 연지 (official Korean Naver Cafe)",
+      "server": "Global",
+      "displayedPublicationDate": "2026-09-27",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-09-28",
+      "verificationNote": "Read the official Korean Cafe article in the browser. It explicitly names 장신구 [성월륜] and the 달빛 동행 event, September 25–October 2. Matched the English official post by event dates, moon-viewing activity and accessory reward. The official Korean website links this Cafe. Exact event times and timezone are unstated."
     }
   ],
   "mediaRights": {
@@ -48110,11 +48123,11 @@
       "nameOriginal": "Moonhare Merriment",
       "romanization": "Moonhare Merriment",
       "category": "accessory",
-      "sourceId": "global-x-20260924-moonhare",
+      "sourceId": "global-naver-20260927-moonhare-ko",
       "acquisitionServer": "Global",
       "mediaServer": "Global",
       "officialNameEn": "Moonhare Merriment",
-      "officialNameKo": null,
+      "officialNameKo": "성월륜",
       "cnRelease": {
         "date": null,
         "precision": "unknown",
@@ -48130,12 +48143,12 @@
         "currencyOriginal": null,
         "location": {
           "en": "One Moon, Miles Apart",
-          "ko": "One Moon, Miles Apart 달맞이 이벤트",
+          "ko": "달빛 동행",
           "original": "One Moon, Miles Apart"
         },
         "conditions": {
-          "en": "Global event: September 25–October 2; exact times and timezone unstated. Visit the event area and admire the moon to claim the accessory. Individual artwork and Korean official name are unverified.",
-          "ko": "글로벌 이벤트: 9월 25일~10월 2일, 정확한 시각·시간대 미표기. 이벤트 장소에서 달맞이에 참여해 장신구를 획득합니다. 개별 외관 이미지·한국어 공식명은 미확인입니다."
+          "en": "Global event: September 25–October 2; exact times and timezone unstated. Visit the event area and admire the moon to claim the accessory. The official Korean Cafe confirms the name 성월륜. Individual accessory artwork remains unverified.",
+          "ko": "글로벌 이벤트: 9월 25일~10월 2일, 정확한 시각·시간대 미표기. 달빛 동행 이벤트 장소에서 달을 감상하면 장신구 성월륜을 획득할 수 있습니다. 개별 외관 이미지는 미확인입니다."
         },
         "en": "See the regional official conditions.",
         "ko": "해당 서버 공식 공지의 조건을 확인하세요."
@@ -48149,9 +48162,12 @@
         "releaseDate": null
       },
       "namingNote": {
-        "en": "Official English name; Korean transliteration is provisional. CN identity is unverified.",
-        "ko": "공식 영문명이며 한국어 독음은 임시 표기입니다. 중국 항목과의 대응은 미확인입니다."
-      }
+        "en": "Official Korean name 성월륜 verified in the September 27 Korean Cafe notice. The English name remains Moonhare Merriment; the former provisional Korean transliteration is retained only as a search alias. CN identity remains unverified.",
+        "ko": "9월 27일 한국 공식 카페 공지에서 공식명 성월륜을 확인했습니다. 영문명은 Moonhare Merriment이며, 기존 임시 음역은 검색어로만 남깁니다. 중국 항목과의 대응은 미확인입니다."
+      },
+      "searchAliases": [
+        "문헤어 메리먼트"
+      ]
     },
     {
       "id": "global-cloudgrace-earrings",
