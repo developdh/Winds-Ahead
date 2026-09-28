@@ -625,6 +625,7 @@ function Detail({
 }) {
   const t = (en: string, ko: string) => (l === "ko" ? ko : en);
   const source = sourceOf(c);
+  const appearanceSource = c.appearanceDetails && allSources.find(s => s.id === c.appearanceDetails!.sourceId);
   const images = imagesOf(c);
   const related = cosmetics.filter(x => x.id !== c.id && x.sourceId === c.sourceId).slice(0, 3);
   const [selected, setSelected] = useState(0);
@@ -729,6 +730,13 @@ function Detail({
         </section>
       </div>
       <div className="detail-bottom">
+        {c.appearanceDetails && appearanceSource && <section className="facts" aria-labelledby={`appearance-${c.id}`}>
+          <p className="eyebrow">{t("Community reference", "커뮤니티 참고 정보")} · {appearanceSource.server === "Global" ? t("Global", "글로벌") : t("China", "중국")}</p>
+          <h2 id={`appearance-${c.id}`}>{t("Appearance details", "외관 상세 정보")}</h2>
+          <dl>{c.appearanceDetails.facts.map(fact => <div key={fact.label.en}><dt>{fact.label[l]}</dt><dd>{fact.value[l]}</dd></div>)}</dl>
+          <a className="text-link" href={appearanceSource.url} target="_blank" rel="noreferrer">{appearanceSource.publisher}<ArrowUpRight size={16} /></a>
+          <p className="small-muted">{t("Checked", "확인")} {formatDay(c.appearanceDetails.checkedAt, l)} · {t("Community observations; official event terms are listed separately above.", "커뮤니티 도감·사진에서 확인한 정보이며 공식 이벤트 조건은 위에서 따로 안내합니다.")}</p>
+        </section>}
         {c.wikiDetails && <Suspense fallback={<div className="wiki-panel wiki-loading" aria-live="polite">{t("Loading wiki details…", "위키 정보를 불러오는 중…")}</div>}><WikiDetails key={c.id} id={c.id} l={l} /></Suspense>}
         <details className="source-panel evidence-disclosure">
           <summary>

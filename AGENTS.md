@@ -7,6 +7,7 @@
 - Keep the site and project documentation in English and Korean. Update paired documents together. Chinese source names are retained for identification, not a third interface language.
 - Use English PR titles/descriptions and preferably English commit messages.
 - The user selected GitHub-based content updates and recurring checks in this task for initial AI calendar maintenance. Follow `docs/en/calendar-automation.md`; preserve the current phase and do not create duplicate schedules.
+- The user authorizes proactive completion of verified cosmetic information and usable reference photos during existing maintenance. Check names, acquisition, deadlines and missing galleries together; fill supported gaps without waiting for individual requests. New unrelated features or services still need approval.
 - Prioritize design, UI/UX, responsive behavior, and interaction/loading speed even when development takes longer. Apply `docs/en/design-quality.md` during each feature, not only before launch.
 - Prefer female-character artwork for cosmetic previews when a verified, usable female view exists. Prefer a clean individual image or a deliberate character crop over a framed multi-panel poster. Use another view when no female version is available or it obscures the item's defining features; keep full artwork accessible.
 - Use GitHub at meaningful milestones as requested by the user; preserve reviewable branches, source references, and honest validation notes. Do not enable automatic merging unless requested.
@@ -23,6 +24,7 @@
 - 사이트와 프로젝트 문서는 영어·한국어로 유지하고 대응 문서를 함께 수정합니다. 중국어 원명은 식별용이며 세 번째 UI 언어가 아닙니다.
 - PR 제목·본문은 영어, 커밋 메시지도 가급적 영어로 작성합니다.
 - 사용자는 GitHub 콘텐츠 갱신과 이 작업의 정기 점검을 통한 초기 AI 캘린더 관리를 선택했습니다. `docs/ko/calendar-automation.md`를 따르고 현재 작업 단계를 지키며 중복 예약을 만들지 않습니다.
+- 사용자는 기존 점검에서 확인된 외관 정보와 사용 가능한 참고 사진을 선제적으로 보완하도록 승인했습니다. 명칭·획득처·종료 일정·빈 갤러리를 함께 확인하고 근거가 있는 누락은 개별 요청을 기다리지 않고 반영합니다. 무관한 새 기능·서비스는 계속 사전 승인이 필요합니다.
 - 개발 기간이 늘어나더라도 디자인·UI/UX·반응형·조작 및 로딩 속도를 우선합니다. `docs/ko/design-quality.md`를 공개 직전뿐 아니라 각 기능 개발 중에 적용합니다.
 - 외관 미리보기는 확인된 여성 외형 사진이 있으면 여성 캐릭터를 우선합니다. 테두리가 있는 합성 포스터보다 개별 사진이나 인물 중심으로 자른 구도를 우선하며, 여성 이미지가 없거나 외관의 특징을 확인하기 어려울 때만 다른 구도를 사용합니다. 전체 이미지는 별도로 볼 수 있게 유지합니다.
 - 사용자 요청에 따라 의미 있는 완료 지점에 GitHub를 갱신하고, 리뷰 가능한 브랜치·출처·실제 검증 내용을 남깁니다. 요청 없이 자동 병합을 켜지 않습니다.

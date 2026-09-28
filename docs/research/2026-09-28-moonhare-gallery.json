@@ -1,0 +1,102 @@
+{
+  "checkedAt": "2026-09-28T02:55:29.538Z",
+  "sourceUrl": "https://acp.idv.tw/where_winds_meet/moonhare-merriment/",
+  "sourceId": "acp-global-moonhare-20260928",
+  "cosmeticId": "global-moonhare-merriment",
+  "identityBasis": "Page explicitly titles both screenshots Moonhare Merriment / 盛月輪; Korean official name separately verified at https://cafe.naver.com/wherewindsmeet/2270. No CN/global merge inferred from this Traditional Chinese Global page.",
+  "factsOriginal": {
+    "placement": "正中背",
+    "styles": "男女同款",
+    "adjustment": "可放大縮小及移動",
+    "stylePoints": 30
+  },
+  "rights": "Reuse permission not specified; do not treat source attribution as a license. Preserve watermarks and source links; images excluded from the project code license.",
+  "images": [
+    {
+      "url": "https://img.acp.idv.tw/2026/09/20260925222911_1.jpg",
+      "width": 422,
+      "height": 562,
+      "bytes": 63488,
+      "kind": "community_gameplay_screenshot",
+      "visuallyInspected": true,
+      "contributor": "貓植事x恩奇ANCHI",
+      "sourceKind": "community",
+      "sourceLabel": {
+        "en": "Global appearance archive",
+        "ko": "글로벌 외관 도감"
+      },
+      "sourceUrl": "https://acp.idv.tw/where_winds_meet/moonhare-merriment/",
+      "sourceId": "acp-global-moonhare-20260928",
+      "attribution": "NetEase / Where Winds Meet; screenshot by 貓植事x恩奇ANCHI",
+      "reusePermission": "unknown",
+      "localCopy": "/media/global-moonhare-merriment-0-full.webp",
+      "server": "Global",
+      "alt": {
+        "en": "Moonhare Merriment on a female character: a rabbit and mooncake basket worn at the center of the back.",
+        "ko": "여성 캐릭터가 착용한 성월륜: 등 중앙의 토끼·월병 바구니 장식."
+      },
+      "caption": {
+        "en": "Female rear view from the Global community archive. Source watermark and full frame retained.",
+        "ko": "글로벌 커뮤니티 도감의 여성 착용 후면 사진입니다. 원본 구도와 워터마크를 유지했습니다."
+      },
+      "derivatives": {
+        "cosmeticId": "global-moonhare-merriment",
+        "index": 0,
+        "originalUrl": "https://img.acp.idv.tw/2026/09/20260925222911_1.jpg",
+        "thumbnail": "/media/global-moonhare-merriment-0-thumb.webp",
+        "full": "/media/global-moonhare-merriment-0-full.webp",
+        "preview": "/media/global-moonhare-merriment-0-preview.webp",
+        "permission": "unknown",
+        "audience": "reference artwork; excluded from the code license",
+        "presentationSubject": "female",
+        "thumbnailBytes": 22642,
+        "fullBytes": 30710,
+        "previewBytes": 2916
+      },
+      "inspectionNote": "Female rear view from the Global community archive. Source watermark and full frame retained."
+    },
+    {
+      "url": "https://img.acp.idv.tw/2026/09/2026-09-25-222702.jpg",
+      "width": 397,
+      "height": 368,
+      "bytes": 20109,
+      "kind": "community_gameplay_screenshot",
+      "visuallyInspected": true,
+      "contributor": "貓植事x恩奇ANCHI",
+      "sourceKind": "community",
+      "sourceLabel": {
+        "en": "Global appearance archive",
+        "ko": "글로벌 외관 도감"
+      },
+      "sourceUrl": "https://acp.idv.tw/where_winds_meet/moonhare-merriment/",
+      "sourceId": "acp-global-moonhare-20260928",
+      "attribution": "NetEase / Where Winds Meet; screenshot by 貓植事x恩奇ANCHI",
+      "reusePermission": "unknown",
+      "localCopy": "/media/global-moonhare-merriment-1-full.webp",
+      "server": "Global",
+      "alt": {
+        "en": "Moonhare Merriment item panel showing center-back placement and 30 style points.",
+        "ko": "등 중앙 착용 부위와 풍화치 30이 표시된 성월륜 아이템 설명 화면."
+      },
+      "caption": {
+        "en": "Traditional Chinese item panel from the Global community archive. The displayed 30 is a collection score, not a purchase price.",
+        "ko": "글로벌 커뮤니티 도감의 번체 중국어 아이템 설명 화면입니다. 표시된 30은 가격이 아닌 풍화치입니다."
+      },
+      "derivatives": {
+        "cosmeticId": "global-moonhare-merriment",
+        "index": 1,
+        "originalUrl": "https://img.acp.idv.tw/2026/09/2026-09-25-222702.jpg",
+        "thumbnail": "/media/global-moonhare-merriment-1-thumb.webp",
+        "full": "/media/global-moonhare-merriment-1-full.webp",
+        "preview": "/media/global-moonhare-merriment-1-preview.webp",
+        "permission": "unknown",
+        "audience": "reference artwork; excluded from the code license",
+        "presentationSubject": "detail",
+        "thumbnailBytes": 9498,
+        "fullBytes": 11680,
+        "previewBytes": 2422
+      },
+      "inspectionNote": "Traditional Chinese item panel from the Global community archive. The displayed 30 is a collection score, not a purchase price."
+    }
+  ]
+}

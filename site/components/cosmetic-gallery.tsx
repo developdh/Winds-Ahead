@@ -36,7 +36,7 @@ export default function CosmeticGallery({ c, l, selected, onSelect, immersive = 
       </>}
       </div>
       {c.images[images[selected].index].caption && <p className="small-muted">{c.images[images[selected].index].caption?.[l]}</p>}
-      {c.images[picture.index].sourceKind === 'community' && <p className="media-credit"><a className="text-link" href={c.images[picture.index].sourceUrl} target="_blank" rel="noreferrer">{t('Photo source · Huiji Wiki', '사진 출처 · 회기 위키')}</a> · {c.images[picture.index].contributor} · {t('Community reference', '커뮤니티 참고 이미지')}</p>}
+      {c.images[picture.index].sourceKind === 'community' && <p className="media-credit"><a className="text-link" href={c.images[picture.index].sourceUrl} target="_blank" rel="noreferrer">{t('Photo source', '사진 출처')} · {c.images[picture.index].sourceLabel?.[l] ?? t('Huiji Wiki', '회기 위키')}</a> · {c.images[picture.index].contributor} · {t('Community reference', '커뮤니티 참고 이미지')}</p>}
       <DialogContent className="gallery-dialog" showCloseButton={false}>
         <Suspense fallback={
           <div className="gallery-carousel">
