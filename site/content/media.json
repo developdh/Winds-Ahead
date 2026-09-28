@@ -9412,5 +9412,83 @@
     "thumbnailBytes": 15202,
     "fullBytes": 33148,
     "previewBytes": 3168
+  },
+  {
+    "cosmeticId": "jin-zhao-yu",
+    "index": 2,
+    "originalUrl": "https://nie.res.netease.com/r/pic/20260925/b60ac0d4-af03-44e4-8528-32585fc793e8.jpg",
+    "thumbnail": "/media/jin-zhao-yu-2-thumb.webp",
+    "full": "/media/jin-zhao-yu-2-full.webp",
+    "preview": "/media/jin-zhao-yu-2-preview.webp",
+    "thumbnailBytes": 35076,
+    "fullBytes": 202152,
+    "previewBytes": 3682,
+    "permission": "unknown",
+    "audience": "reference artwork; excluded from the code license"
+  },
+  {
+    "cosmeticId": "jin-zhao-yu",
+    "index": 3,
+    "originalUrl": "https://nie.res.netease.com/r/pic/20260925/3fb9b73b-23af-4810-b1b1-aae34c554170.png",
+    "thumbnail": "/media/jin-zhao-yu-3-thumb.webp",
+    "full": "/media/jin-zhao-yu-3-full.webp",
+    "preview": "/media/jin-zhao-yu-3-preview.webp",
+    "thumbnailBytes": 77254,
+    "fullBytes": 440780,
+    "previewBytes": 4530,
+    "permission": "unknown",
+    "audience": "reference artwork; excluded from the code license"
+  },
+  {
+    "cosmeticId": "hong-ye-xiao-xiao",
+    "index": 2,
+    "originalUrl": "https://nie.res.netease.com/r/pic/20260925/365203f7-1c4a-45ae-862a-0d9f48bf28dc.jpg",
+    "thumbnail": "/media/hong-ye-xiao-xiao-2-thumb.webp",
+    "full": "/media/hong-ye-xiao-xiao-2-full.webp",
+    "preview": "/media/hong-ye-xiao-xiao-2-preview.webp",
+    "thumbnailBytes": 40870,
+    "fullBytes": 216012,
+    "previewBytes": 4878,
+    "permission": "unknown",
+    "audience": "reference artwork; excluded from the code license"
+  },
+  {
+    "cosmeticId": "yu-gui-shan-shan",
+    "index": 2,
+    "originalUrl": "https://nie.res.netease.com/r/pic/20260925/1681b88c-ad34-420b-8b6e-7432f4699544.jpg",
+    "thumbnail": "/media/yu-gui-shan-shan-2-thumb.webp",
+    "full": "/media/yu-gui-shan-shan-2-full.webp",
+    "preview": "/media/yu-gui-shan-shan-2-preview.webp",
+    "thumbnailBytes": 23944,
+    "fullBytes": 132586,
+    "previewBytes": 2686,
+    "permission": "unknown",
+    "audience": "reference artwork; excluded from the code license"
+  },
+  {
+    "cosmeticId": "yu-gui-shan-shan",
+    "index": 3,
+    "originalUrl": "https://nie.res.netease.com/r/pic/20260925/966b3eed-8723-40bc-b448-a8b45c27826a.jpg",
+    "thumbnail": "/media/yu-gui-shan-shan-3-thumb.webp",
+    "full": "/media/yu-gui-shan-shan-3-full.webp",
+    "preview": "/media/yu-gui-shan-shan-3-preview.webp",
+    "thumbnailBytes": 60858,
+    "fullBytes": 293090,
+    "previewBytes": 4196,
+    "permission": "unknown",
+    "audience": "reference artwork; excluded from the code license"
+  },
+  {
+    "cosmeticId": "chuan-hua-jian",
+    "index": 3,
+    "originalUrl": "https://nie.res.netease.com/r/pic/20260925/055e11b8-29bc-4ce3-bf3a-af3b3004ed93.png",
+    "thumbnail": "/media/chuan-hua-jian-3-thumb.webp",
+    "full": "/media/chuan-hua-jian-3-full.webp",
+    "preview": "/media/chuan-hua-jian-3-preview.webp",
+    "thumbnailBytes": 38490,
+    "fullBytes": 185134,
+    "previewBytes": 4314,
+    "permission": "unknown",
+    "audience": "reference artwork; excluded from the code license"
   }
 ]

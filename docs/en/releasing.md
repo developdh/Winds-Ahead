@@ -30,6 +30,7 @@ This is part of completing each update, including updates from the existing cale
 
 ## Release notes
 
+- [0.2.8 — Broader roadmap and female gallery details](releases/0.2.8.md)
 - [0.2.7 — September cosmetics and Mid-Autumn rewards](releases/0.2.7.md)
 - [0.2.6 — Female-first previews and synchronized forecast lists](releases/0.2.6.md)
 - [0.2.5 — Official dates first and complete image framing](releases/0.2.5.md)

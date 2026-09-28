@@ -63,3 +63,8 @@ The three original forecast windows and revisions are unchanged. They disappeare
 ## September 21 forecast re-review
 
 [Current decisions](forecast-review-2026-09-21.md): retained the three original windows with revision 2 and a September 28 review date; added two limited-evidence Duskgem spear/gauntlet candidates; kept thirteen other candidates undated; added five official September 25/27 announcements. Earlier sections describe their historical review, not the latest forecast revision.
+
+
+## September 28 forecast and gallery review
+
+Added three broad editorial windows and six female gallery views. Re-reviewed the five existing estimates without moving their windows; all previous revisions remain, and the next review is October 5. [Review and limitations](forecast-gallery-2026-09-28.md).
