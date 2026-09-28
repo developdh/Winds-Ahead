@@ -189,7 +189,7 @@ export default function GalleryViewer({ c, l, images, selected, onSelect }: {
           {zoomed ? t("Fit image", "전체 맞춤") : t("Zoom in", "확대")}
         </button>
         <a className="text-link" href={images[selected].originalUrl} target="_blank" rel="noreferrer">
-          {c.images[images[selected].index].sourceKind === 'community' ? t('Wiki original', '위키 원본') : t("Original image", "원본 이미지")}
+          {t("Original image", "원본 이미지")}
           <ArrowUpRight size={16} />
         </a>
         {images.length > 1 && (

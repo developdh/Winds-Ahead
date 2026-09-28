@@ -195,6 +195,18 @@ test("published content validates with explicit evidence and precision", () => {
   assert.ok(stats.cosmetics > 0);
   assert.equal(stats.forecasts, read("forecasts.json").revisions.length);
 });
+test('community image links must match the registered source, including non-wiki galleries', () => {
+  const changed = structuredClone(research);
+  const item = changed.cosmetics.find(c => c.id === 'global-moonhare-merriment');
+  item.images[0].sourceUrl = 'https://example.com/unrelated-image';
+  assert.throws(() => validateContent(changed, media, read('forecasts.json'), read('global-events.json')), /Community images require matching source/);
+});
+test('community appearance observations cannot borrow an official source label', () => {
+  const changed = structuredClone(research);
+  const item = changed.cosmetics.find(c => c.id === 'global-moonhare-merriment');
+  item.appearanceDetails.sourceId = item.sourceId;
+  assert.throws(() => validateContent(changed, media, read('forecasts.json'), read('global-events.json')), /Appearance details need a registered community source/);
+});
 test("a CN source cannot establish a global fact", () => {
   const events = {
     schemaVersion: 1,

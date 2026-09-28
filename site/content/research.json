@@ -3601,6 +3601,18 @@
       "evidenceTier": "A",
       "verifiedAt": "2026-09-28",
       "verificationNote": "Read the official Korean Cafe article in the browser. It explicitly names 장신구 [성월륜] and the 달빛 동행 event, September 25–October 2. Matched the English official post by event dates, moon-viewing activity and accessory reward. The official Korean website links this Cafe. Exact event times and timezone are unstated."
+    },
+    {
+      "id": "acp-global-moonhare-20260928",
+      "url": "https://acp.idv.tw/where_winds_meet/moonhare-merriment/",
+      "publisher": "貓植事x恩奇ANCHI",
+      "server": "Global",
+      "titleOriginal": "盛月輪 (Moonhare Merriment)",
+      "displayedPublicationDate": null,
+      "evidenceTier": "C",
+      "kind": "community",
+      "verifiedAt": "2026-09-28",
+      "verificationNote": "Read the Global appearance archive and visually inspected both linked screenshots. Title explicitly matches Moonhare Merriment; categories identify male/female accessory, center back and positioning. Item screenshot displays 30 style points. Community evidence does not establish a CN-server match or official release status."
     }
   ],
   "mediaRights": {
@@ -48147,27 +48159,131 @@
           "original": "One Moon, Miles Apart"
         },
         "conditions": {
-          "en": "Global event: September 25–October 2; exact times and timezone unstated. Visit the event area and admire the moon to claim the accessory. The official Korean Cafe confirms the name 성월륜. Individual accessory artwork remains unverified.",
-          "ko": "글로벌 이벤트: 9월 25일~10월 2일, 정확한 시각·시간대 미표기. 달빛 동행 이벤트 장소에서 달을 감상하면 장신구 성월륜을 획득할 수 있습니다. 개별 외관 이미지는 미확인입니다."
+          "en": "Global event: September 25–October 2, 2026. Visit the One Moon, Miles Apart event area and admire the moon to claim this free accessory. Exact opening/closing times and timezone are not stated.",
+          "ko": "글로벌 달빛 동행 이벤트: 2026년 9월 25일~10월 2일. 이벤트 장소에서 달을 감상하면 장신구 성월륜을 무료로 획득할 수 있습니다. 정확한 시작·종료 시각과 시간대는 공개되지 않았습니다."
         },
         "en": "See the regional official conditions.",
         "ko": "해당 서버 공식 공지의 조건을 확인하세요."
       },
-      "images": [],
+      "images": [
+        {
+          "url": "https://img.acp.idv.tw/2026/09/20260925222911_1.jpg",
+          "width": 422,
+          "height": 562,
+          "bytes": 63488,
+          "kind": "community_gameplay_screenshot",
+          "visuallyInspected": true,
+          "contributor": "貓植事x恩奇ANCHI",
+          "sourceKind": "community",
+          "sourceLabel": {
+            "en": "Global appearance archive",
+            "ko": "글로벌 외관 도감"
+          },
+          "sourceUrl": "https://acp.idv.tw/where_winds_meet/moonhare-merriment/",
+          "sourceId": "acp-global-moonhare-20260928",
+          "attribution": "NetEase / Where Winds Meet; screenshot by 貓植事x恩奇ANCHI",
+          "reusePermission": "unknown",
+          "localCopy": "/media/global-moonhare-merriment-0-full.webp",
+          "server": "Global",
+          "alt": {
+            "en": "Moonhare Merriment on a female character: a rabbit and mooncake basket worn at the center of the back.",
+            "ko": "여성 캐릭터가 착용한 성월륜: 등 중앙의 토끼·월병 바구니 장식."
+          },
+          "caption": {
+            "en": "Female rear view from the Global community archive. Source watermark and full frame retained.",
+            "ko": "글로벌 커뮤니티 도감의 여성 착용 후면 사진입니다. 원본 구도와 워터마크를 유지했습니다."
+          }
+        },
+        {
+          "url": "https://img.acp.idv.tw/2026/09/2026-09-25-222702.jpg",
+          "width": 397,
+          "height": 368,
+          "bytes": 20109,
+          "kind": "community_gameplay_screenshot",
+          "visuallyInspected": true,
+          "contributor": "貓植事x恩奇ANCHI",
+          "sourceKind": "community",
+          "sourceLabel": {
+            "en": "Global appearance archive",
+            "ko": "글로벌 외관 도감"
+          },
+          "sourceUrl": "https://acp.idv.tw/where_winds_meet/moonhare-merriment/",
+          "sourceId": "acp-global-moonhare-20260928",
+          "attribution": "NetEase / Where Winds Meet; screenshot by 貓植事x恩奇ANCHI",
+          "reusePermission": "unknown",
+          "localCopy": "/media/global-moonhare-merriment-1-full.webp",
+          "server": "Global",
+          "alt": {
+            "en": "Moonhare Merriment item panel showing center-back placement and 30 style points.",
+            "ko": "등 중앙 착용 부위와 풍화치 30이 표시된 성월륜 아이템 설명 화면."
+          },
+          "caption": {
+            "en": "Traditional Chinese item panel from the Global community archive. The displayed 30 is a collection score, not a purchase price.",
+            "ko": "글로벌 커뮤니티 도감의 번체 중국어 아이템 설명 화면입니다. 표시된 30은 가격이 아닌 풍화치입니다."
+          }
+        }
+      ],
       "officialVideos": [],
-      "mediaStatus": "pending",
+      "mediaStatus": "verified",
       "global": {
         "status": "unknown",
         "officialName": null,
         "releaseDate": null
       },
       "namingNote": {
-        "en": "Official Korean name 성월륜 verified in the September 27 Korean Cafe notice. The English name remains Moonhare Merriment; the former provisional Korean transliteration is retained only as a search alias. CN identity remains unverified.",
-        "ko": "9월 27일 한국 공식 카페 공지에서 공식명 성월륜을 확인했습니다. 영문명은 Moonhare Merriment이며, 기존 임시 음역은 검색어로만 남깁니다. 중국 항목과의 대응은 미확인입니다."
+        "en": "Korean name verified in the official Korean Cafe; the Global community archive identifies its screenshots as Moonhare Merriment / 盛月輪. A match to the separate CN-server record remains unverified.",
+        "ko": "한국 공식 카페에서 성월륜이라는 명칭을 확인했습니다. 글로벌 커뮤니티 도감은 사진을 Moonhare Merriment / 盛月輪으로 명시합니다. 별도 중국 서버 기록과의 대응은 아직 확정하지 않았습니다."
       },
       "searchAliases": [
-        "문헤어 메리먼트"
-      ]
+        "문헤어 메리먼트",
+        "盛月輪"
+      ],
+      "appearanceDetails": {
+        "sourceId": "acp-global-moonhare-20260928",
+        "checkedAt": "2026-09-28",
+        "facts": [
+          {
+            "label": {
+              "en": "Placement",
+              "ko": "착용 부위"
+            },
+            "value": {
+              "en": "Center back",
+              "ko": "등 중앙"
+            }
+          },
+          {
+            "label": {
+              "en": "Character styles",
+              "ko": "착용 외형"
+            },
+            "value": {
+              "en": "Same accessory for male and female characters",
+              "ko": "남녀 공용"
+            }
+          },
+          {
+            "label": {
+              "en": "Adjustments",
+              "ko": "위치·크기 조절"
+            },
+            "value": {
+              "en": "Position and size can be adjusted",
+              "ko": "위치 이동·확대·축소 가능"
+            }
+          },
+          {
+            "label": {
+              "en": "Style points",
+              "ko": "풍화치"
+            },
+            "value": {
+              "en": "30 · collection score, not a price",
+              "ko": "30 · 수집 점수이며 가격이 아닙니다"
+            }
+          }
+        ]
+      }
     },
     {
       "id": "global-cloudgrace-earrings",

@@ -64,3 +64,11 @@ Added three broad editorial windows and six female gallery views. Re-reviewed th
 September 28 follow-up: the owner approved deadline notices and a larger Huiji photo batch. Keep `deadlines.json` source-backed and server-specific during future content checks; distinguish sale/exchange ends from discount deadlines, retain missing zones and date precision, and exclude unresolved conflicts. This uses the existing review process and adds no schedule. [Behavior and photo provenance](deadlines-wiki-2026-09-28.md).
 
 Korean name verification: check the [official Korean Cafe](https://cafe.naver.com/wherewindsmeet), linked from the official Korean website, as well as the news pages. Read the GM notice body before marking a Korean name official; an English transliteration is not confirmation. [September 28 correction](releases/0.2.9.md).
+
+## 7. Proactive completeness checks
+
+The owner explicitly authorized routine information and photo additions on September 28. During the existing check, inspect each new or changed cosmetic as a complete entry: official Korean/English names, acquisition method, event or shop end, and usable photos. Fill verified gaps without waiting for another item-by-item request. If there is no new announcement, prioritize a bounded batch of image-missing entries, especially current event rewards and approaching deadlines.
+
+Inspect the actual named item page and every selected image. Prefer a verified female view, keep the complete frame and watermarks, record the source/rights status, and serve appropriately sized local derivatives. Identify community observations separately from official regional facts; style points are not prices. A Traditional Chinese Global page does not by itself establish a China-server identity or date. Record inaccessible sources and remaining gaps instead of claiming that nothing is available.
+
+Use the existing validation, reviewed publication and release process. This expands the maintenance checklist, not its schedule; no additional job or unrelated product feature is authorized by it. [Moonhare Merriment example](releases/0.2.10.md).
