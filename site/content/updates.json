@@ -2,6 +2,26 @@
   "schemaVersion": 1,
   "entries": [
     {
+      "id": "moonhare-gallery-20260928",
+      "date": "2026-09-28",
+      "kind": {
+        "en": "Photos & appearance details",
+        "ko": "사진·외관 정보"
+      },
+      "title": {
+        "en": "Moonhare Merriment: two photos and accessory details",
+        "ko": "성월륜 사진 2장과 외관 상세 정보 추가"
+      },
+      "body": {
+        "en": "Added a female rear-view photo and item panel with original watermarks. The Global community archive identifies center-back placement, shared male/female styling, adjustable position/size and 30 style points. Official event acquisition remains separately sourced to the Korean Cafe.",
+        "ko": "원본 워터마크를 유지한 여성 착용 후면 사진과 아이템 설명 화면을 추가했습니다. 글로벌 커뮤니티 도감의 등 중앙 착용·남녀 공용·위치와 크기 조절·풍화치 30 정보를 별도로 안내하고, 이벤트 획득 조건은 한국 공식 카페를 근거로 제공합니다."
+      },
+      "sourceIds": [
+        "acp-global-moonhare-20260928",
+        "global-naver-20260927-moonhare-ko"
+      ]
+    },
+    {
       "id": "moonhare-korean-name-20260928",
       "date": "2026-09-28",
       "kind": {

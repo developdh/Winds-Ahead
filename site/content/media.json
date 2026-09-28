@@ -10762,5 +10762,33 @@
     "previewBytes": 4114,
     "displayBytes": 73046,
     "presentationSubject": "female"
+  },
+  {
+    "cosmeticId": "global-moonhare-merriment",
+    "index": 0,
+    "originalUrl": "https://img.acp.idv.tw/2026/09/20260925222911_1.jpg",
+    "thumbnail": "/media/global-moonhare-merriment-0-thumb.webp",
+    "full": "/media/global-moonhare-merriment-0-full.webp",
+    "preview": "/media/global-moonhare-merriment-0-preview.webp",
+    "permission": "unknown",
+    "audience": "reference artwork; excluded from the code license",
+    "presentationSubject": "female",
+    "thumbnailBytes": 22642,
+    "fullBytes": 30710,
+    "previewBytes": 2916
+  },
+  {
+    "cosmeticId": "global-moonhare-merriment",
+    "index": 1,
+    "originalUrl": "https://img.acp.idv.tw/2026/09/2026-09-25-222702.jpg",
+    "thumbnail": "/media/global-moonhare-merriment-1-thumb.webp",
+    "full": "/media/global-moonhare-merriment-1-full.webp",
+    "preview": "/media/global-moonhare-merriment-1-preview.webp",
+    "permission": "unknown",
+    "audience": "reference artwork; excluded from the code license",
+    "presentationSubject": "detail",
+    "thumbnailBytes": 9498,
+    "fullBytes": 11680,
+    "previewBytes": 2422
   }
 ]

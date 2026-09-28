@@ -94,6 +94,7 @@ const cosmeticSchema = z
     category: z.enum(["outfit", "hair", "weapon_skin", "effect", "accessory", "mount"]),
     secondaryCategories: z.array(z.enum(["outfit", "hair", "weapon_skin", "effect", "accessory", "mount"])).optional(),
     sourceId: z.string(),
+    appearanceDetails: z.object({ sourceId: z.string().min(1), checkedAt: day, facts: z.array(z.object({ label: bilingual, value: bilingual })).min(1) }).strict().optional(),
     acquisitionServer: z.enum(["CN", "Global"]).optional(),
     mediaServer: z.enum(["CN", "Global"]).optional(),
     cnRelease: z
@@ -216,6 +217,9 @@ export function validateContent(research, media, forecastData, globalData) {
     "source ID",
   );
   const bySource = new Map(allSources.map((s) => [s.id, s]));
+  for (const c of base.cosmetics) if (c.appearanceDetails && bySource.get(c.appearanceDetails.sourceId)?.kind !== 'community') {
+    throw new Error(`Appearance details need a registered community source: ${c.id}`);
+  }
   function refs(item) {
     if (!knownIds.has(item.cosmeticId))
       throw new Error(`Unknown cosmetic ${item.cosmeticId}`);
@@ -233,10 +237,10 @@ export function validateContent(research, media, forecastData, globalData) {
         throw new Error(`Unknown video source ${video.sourceId}`);
     }
     for (const image of c.images.filter(image => image.sourceKind === 'community')) {
-      if (bySource.get(image.sourceId)?.kind !== 'community' ||
-          !image.sourceUrl?.startsWith('https://yy16s.huijiwiki.com/wiki/') ||
+      const imageSource = bySource.get(image.sourceId);
+      if (imageSource?.kind !== 'community' || image.sourceUrl !== imageSource.url ||
           !image.attribution || image.reusePermission !== 'unknown' || !image.visuallyInspected)
-        throw new Error('Wiki images require community attribution and honest reuse/inspection metadata');
+        throw new Error('Community images require matching source attribution and honest reuse/inspection metadata');
     }
     if (c.mediaStatus !== "pending" && !media.some((m) => m.cosmeticId === c.id && m.index === 0))
       throw new Error(`Missing primary media ${c.id}`);
