@@ -57,3 +57,8 @@ The schedule targets the implemented JSON content and validation commands. The S
 September 20: the existing schedule is unchanged. Forecast review deadlines now trigger visible roadmap/calendar reminders instead of hiding estimates whose windows remain open. A source check does not automatically renew a forecast or erase its history. See [Release roadmap](release-roadmap.md).
 
 September 21: the owner requested a forecast re-review and additional candidate screening. Three revision-2 records and two new limited-evidence candidates now have a September 28 review date; original revisions remain. Thirteen screened items remain undated. This completed manual review does not establish a successful scheduled run or create another schedule. [Review details](forecast-review-2026-09-21.md).
+
+
+Added three broad editorial windows and six female gallery views. Re-reviewed the five existing estimates without moving their windows; all previous revisions remain, and the next review is October 5. [Review and limitations](forecast-gallery-2026-09-28.md).
+
+September 28 follow-up: the owner approved deadline notices and a larger Huiji photo batch. Keep `deadlines.json` source-backed and server-specific during future content checks; distinguish sale/exchange ends from discount deadlines, retain missing zones and date precision, and exclude unresolved conflicts. This uses the existing review process and adds no schedule. [Behavior and photo provenance](deadlines-wiki-2026-09-28.md).

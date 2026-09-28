@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "verifiedAt": "2026-09-26",
+  "verifiedAt": "2026-09-28",
   "records": [
     {
       "cosmeticId": "shang-qing-yun",
@@ -3500,9 +3500,9 @@
       "sourceIds": [
         "cn-b0bcdbb85576"
       ],
-      "verifiedAt": "2026-09-13",
-      "releaseDate": null,
-      "precision": "unknown",
+      "verifiedAt": "2026-09-28",
+      "releaseDate": "2026-06-12",
+      "precision": "day",
       "scope": {
         "en": "Historical official listing or in-game appearance maintenance notice. This does not establish current availability or an original release date.",
         "ko": "과거 공식 출시·외관 수정 공지 기록입니다. 현재 판매 여부와 최초 출시일을 뜻하지 않습니다."

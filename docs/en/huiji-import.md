@@ -27,3 +27,8 @@ Final build measurements are recorded below. The initial 200 KB JavaScript targe
 ## Final build measurements
 
 Build passed. All emitted client JavaScript, including lazy chunks, totals **388,229 bytes gzip** (previous milestone: 368,241). The catalog chunk is 168,977 bytes gzip. The 395 wiki JSON files total 691,534 bytes but load individually: median **1,564 bytes**, maximum **3,928 bytes**, uncompressed. Two subset fonts total 334,876 bytes. These are artifact sizes, not real-user transfer or responsiveness measurements.
+
+
+## September 28 photo follow-up
+
+The earlier intake above copied no wiki images. The owner-approved follow-up now adds 55 verified visual references; the community data license is not extended to game artwork. [Photo scope and validation](deadlines-wiki-2026-09-28.md).

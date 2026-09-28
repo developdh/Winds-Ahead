@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "verifiedAt": "2026-09-26",
+  "verifiedAt": "2026-09-28",
   "scope": "Cross-server archive from individually reviewed official announcements; not a certified complete game inventory.",
   "sources": [
     {
@@ -3528,6 +3528,66 @@
       "evidenceTier": "A",
       "verifiedAt": "2026-09-26",
       "verificationNote": "Expanded official post: September 25–October 10 UTC, log in for ten days for the reward bundle. Exact accessory reward day is not stated."
+    },
+    {
+      "id": "huiji-media-yue-zhong-tian-que",
+      "url": "https://yy16s.huijiwiki.com/wiki/%E6%9C%88%E4%B8%AD%E5%A4%A9%E9%98%99",
+      "publisher": "燕云十六声中文维基 contributors",
+      "server": "CN",
+      "titleOriginal": "月中天阙",
+      "displayedPublicationDate": null,
+      "evidenceTier": "C",
+      "kind": "community"
+    },
+    {
+      "id": "huiji-media-qing-qiu-qian-sui",
+      "url": "https://yy16s.huijiwiki.com/wiki/%E9%9D%92%E4%B8%98%E5%8D%83%E5%B2%81",
+      "publisher": "燕云十六声中文维基 contributors",
+      "server": "CN",
+      "titleOriginal": "青丘千岁",
+      "displayedPublicationDate": null,
+      "evidenceTier": "C",
+      "kind": "community"
+    },
+    {
+      "id": "huiji-media-cang-yinqian-gu-duanyun",
+      "url": "https://yy16s.huijiwiki.com/wiki/%E8%97%8F%E9%9F%B3%C2%B7%E5%8D%83%E5%8F%A4%E6%96%AD%E4%BA%91",
+      "publisher": "燕云十六声中文维基 contributors",
+      "server": "CN",
+      "titleOriginal": "藏音·千古断云",
+      "displayedPublicationDate": null,
+      "evidenceTier": "C",
+      "kind": "community"
+    },
+    {
+      "id": "huiji-media-cang-yinbei-ming-you-yu",
+      "url": "https://yy16s.huijiwiki.com/wiki/%E8%97%8F%E9%9F%B3%C2%B7%E5%8C%97%E6%BA%9F%E6%9C%89%E9%B1%BC",
+      "publisher": "燕云十六声中文维基 contributors",
+      "server": "CN",
+      "titleOriginal": "藏音·北溟有鱼",
+      "displayedPublicationDate": null,
+      "evidenceTier": "C",
+      "kind": "community"
+    },
+    {
+      "id": "huiji-media-cang-yinluan-yi-jiu-xiao",
+      "url": "https://yy16s.huijiwiki.com/wiki/%E8%97%8F%E9%9F%B3%C2%B7%E9%B8%BE%E5%80%9A%E4%B9%9D%E9%9C%84",
+      "publisher": "燕云十六声中文维基 contributors",
+      "server": "CN",
+      "titleOriginal": "藏音·鸾倚九霄",
+      "displayedPublicationDate": null,
+      "evidenceTier": "C",
+      "kind": "community"
+    },
+    {
+      "id": "huiji-media-da-man-guan",
+      "url": "https://yy16s.huijiwiki.com/wiki/%E5%A4%A7%E6%BB%A1%E8%B4%AF",
+      "publisher": "燕云十六声中文维基 contributors",
+      "server": "CN",
+      "titleOriginal": "大满贯",
+      "displayedPublicationDate": null,
+      "evidenceTier": "C",
+      "kind": "community"
     }
   ],
   "mediaRights": {
@@ -3546,7 +3606,7 @@
     ],
     "externalLinkingNote": "Source URLs identify publicly accessible originals; access, attribution and embedding are not equivalent to a verified redistribution license.",
     "downloadedOrRehosted": true,
-    "localScope": "Optimized owner-private reference copies. Permission remains unknown."
+    "localScope": "Optimized reference copies on the public archive; media excluded from the project code license. Permission remains unknown."
   },
   "cosmetics": [
     {
@@ -19917,7 +19977,7 @@
     {
       "id": "wan-laizuo-xuan-gui",
       "nameOriginal": "万籁·琢玄圭",
-      "romanization": "wan lai·zuo xuan gui",
+      "romanization": "Wan Lai · Zhuo Xuan Gui",
       "category": "weapon_skin",
       "sourceId": "cn-b0bcdbb85576",
       "acquisitionServer": "CN",
@@ -19925,11 +19985,11 @@
       "officialNameEn": null,
       "officialNameKo": null,
       "cnRelease": {
-        "date": null,
-        "precision": "unknown",
+        "date": "2026-06-12",
+        "precision": "day",
         "timezone": null,
         "contextual": false,
-        "basis": "Exact item release day not established"
+        "basis": "Both Heng blade and Mo blade are explicitly named in the June 12 listing sentence of the displayed June 10 official notice. Start is after the update; no clock or timezone is inferred."
       },
       "acquisition": {
         "kind": "unknown",
@@ -19974,12 +20034,16 @@
         "officialName": null,
         "releaseDate": null
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "namingNote": {
+        "en": "Provisional reading of the CN name; no item-specific official Global name verified.",
+        "ko": "중국 원명의 임시 독음이며 해당 외관의 글로벌 공식명은 미확인입니다."
+      }
     },
     {
       "id": "wan-laipei-cang-long",
       "nameOriginal": "万籁·佩苍龙",
-      "romanization": "wan lai·pei cang long",
+      "romanization": "Wan Lai · Pei Cang Long",
       "category": "weapon_skin",
       "sourceId": "cn-b0bcdbb85576",
       "acquisitionServer": "CN",
@@ -20036,7 +20100,11 @@
         "officialName": null,
         "releaseDate": null
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "namingNote": {
+        "en": "Provisional reading of the CN name; no item-specific official Global name verified.",
+        "ko": "중국 원명의 임시 독음이며 해당 외관의 글로벌 공식명은 미확인입니다."
+      }
     },
     {
       "id": "shuang-yue-yin",
@@ -23410,9 +23478,36 @@
         "ko": "획득 방법과 출처의 조건을 확인하세요.",
         "sourceExcerpt": "那么，如何让自己更具牌桌高手风范呢？这款以叶子戏为主题的全新武器外观【大满贯】也许就是个不错的选项。本周五更新后，游侠们可前往「商店」，以60「长鸣珠」购得。"
       },
-      "images": [],
+      "images": [
+        {
+          "url": "https://huiji-public.huijistatic.com/yy16s/uploads/0/0c/%E5%A4%A7%E6%BB%A1%E8%B4%AF.png",
+          "width": 1024,
+          "height": 513,
+          "bytes": 323171,
+          "kind": "community_game_client_render",
+          "visuallyInspected": true,
+          "description": "Complete weapon render (with paired blade or scabbard where present), transparent background.",
+          "contributor": "Fr0z",
+          "sourceKind": "community",
+          "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E5%A4%A7%E6%BB%A1%E8%B4%AF",
+          "filePage": "https://yy16s.huijiwiki.com/wiki/%E6%96%87%E4%BB%B6%3A%E5%A4%A7%E6%BB%A1%E8%B4%AF.png",
+          "sourceId": "huiji-media-da-man-guan",
+          "attribution": "NetEase / Where Winds Meet; game asset file uploaded by Fr0z to 燕云十六声中文维基",
+          "reusePermission": "unknown",
+          "localCopy": "/media/da-man-guan-0-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "da man guan · appearance reference from Huiji Wiki",
+            "ko": "大满贯 · 회기 위키 외관 참고 이미지"
+          },
+          "caption": {
+            "en": "Huiji Wiki reference. Full original retained; image availability does not verify regional release.",
+            "ko": "회기 위키 참고 이미지입니다. 전체 원본을 보존하며 사진 확보가 서버별 출시 확인을 뜻하지 않습니다."
+          }
+        }
+      ],
       "officialVideos": [],
-      "mediaStatus": "pending",
+      "mediaStatus": "verified",
       "global": {
         "status": "unknown",
         "officialName": null,
@@ -25458,9 +25553,36 @@
         "ko": "획득 방법과 출처의 조건을 확인하세요.",
         "sourceExcerpt": "此外，为进一步优化和鸣外观品质，更好地打磨细节和表现效果，本期【和鸣-大音希声】将延长开放时间至8月29日5:00，【和鸣商店】中套装【月中天阙】的可兑换时间将延长至9月5日5:00。我们在此深表歉意，也会马不停蹄地持续优化，希望可以给诸位游侠带来更优质、更富有乐趣的个性化外观体验。具体详情请各位游侠留意后续官方公告~"
       },
-      "images": [],
+      "images": [
+        {
+          "url": "https://huiji-public.huijistatic.com/yy16s/uploads/d/dc/%E6%9C%88%E4%B8%AD%E5%A4%A9%E9%98%99%E5%A5%B3.png",
+          "width": 512,
+          "height": 512,
+          "bytes": 228767,
+          "kind": "community_game_client_render",
+          "visuallyInspected": true,
+          "description": "Full female character render with outfit visible head to foot, transparent background; no poster frame or unrelated interface icons.",
+          "contributor": "Fr0z",
+          "sourceKind": "community",
+          "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E6%9C%88%E4%B8%AD%E5%A4%A9%E9%98%99",
+          "filePage": "https://yy16s.huijiwiki.com/wiki/%E6%96%87%E4%BB%B6%3A%E6%9C%88%E4%B8%AD%E5%A4%A9%E9%98%99%E5%A5%B3.png",
+          "sourceId": "huiji-media-yue-zhong-tian-que",
+          "attribution": "NetEase / Where Winds Meet; game asset file uploaded by Fr0z to 燕云十六声中文维基",
+          "reusePermission": "unknown",
+          "localCopy": "/media/yue-zhong-tian-que-0-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "yue zhong tian que · female outfit reference from Huiji Wiki",
+            "ko": "月中天阙 · 회기 위키 여성 외형 참고 이미지"
+          },
+          "caption": {
+            "en": "Huiji Wiki reference. Full original retained; image availability does not verify regional release.",
+            "ko": "회기 위키 참고 이미지입니다. 전체 원본을 보존하며 사진 확보가 서버별 출시 확인을 뜻하지 않습니다."
+          }
+        }
+      ],
       "officialVideos": [],
-      "mediaStatus": "pending",
+      "mediaStatus": "verified",
       "global": {
         "status": "unknown",
         "officialName": null,
@@ -26521,9 +26643,36 @@
         "ko": "획득 방법과 출처의 조건을 확인하세요.",
         "sourceExcerpt": "18、修复了武器外观·剑「藏音·千古断云」在「流火」词条下特效颜色显示异常的问题。"
       },
-      "images": [],
+      "images": [
+        {
+          "url": "https://huiji-public.huijistatic.com/yy16s/uploads/b/b8/%E8%97%8F%E9%9F%B3%C2%B7%E5%8D%83%E5%8F%A4%E6%96%AD%E4%BA%91.png",
+          "width": 1024,
+          "height": 465,
+          "bytes": 338112,
+          "kind": "community_game_client_render",
+          "visuallyInspected": true,
+          "description": "Complete weapon render (with paired blade or scabbard where present), transparent background.",
+          "contributor": "Fr0z",
+          "sourceKind": "community",
+          "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E8%97%8F%E9%9F%B3%C2%B7%E5%8D%83%E5%8F%A4%E6%96%AD%E4%BA%91",
+          "filePage": "https://yy16s.huijiwiki.com/wiki/%E6%96%87%E4%BB%B6%3A%E8%97%8F%E9%9F%B3%C2%B7%E5%8D%83%E5%8F%A4%E6%96%AD%E4%BA%91.png",
+          "sourceId": "huiji-media-cang-yinqian-gu-duanyun",
+          "attribution": "NetEase / Where Winds Meet; game asset file uploaded by Fr0z to 燕云十六声中文维基",
+          "reusePermission": "unknown",
+          "localCopy": "/media/cang-yinqian-gu-duanyun-0-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "cang yin·qian gu duanyun · appearance reference from Huiji Wiki",
+            "ko": "藏音·千古断云 · 회기 위키 외관 참고 이미지"
+          },
+          "caption": {
+            "en": "Huiji Wiki reference. Full original retained; image availability does not verify regional release.",
+            "ko": "회기 위키 참고 이미지입니다. 전체 원본을 보존하며 사진 확보가 서버별 출시 확인을 뜻하지 않습니다."
+          }
+        }
+      ],
       "officialVideos": [],
-      "mediaStatus": "pending",
+      "mediaStatus": "verified",
       "global": {
         "status": "unknown",
         "officialName": null,
@@ -27211,9 +27360,36 @@
         "ko": "획득 방법과 출처의 조건을 확인하세요.",
         "sourceExcerpt": "1、修复了外观套装「青丘千岁」女主服装部分情况下异常穿模的问题。"
       },
-      "images": [],
+      "images": [
+        {
+          "url": "https://huiji-public.huijistatic.com/yy16s/uploads/b/b8/%E9%9D%92%E4%B8%98%E5%8D%83%E5%B2%81%E5%A5%B3.png",
+          "width": 512,
+          "height": 483,
+          "bytes": 246294,
+          "kind": "community_game_client_render",
+          "visuallyInspected": true,
+          "description": "Full female character render with outfit visible head to foot, transparent background; no poster frame or unrelated interface icons.",
+          "contributor": "Fr0z",
+          "sourceKind": "community",
+          "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E9%9D%92%E4%B8%98%E5%8D%83%E5%B2%81",
+          "filePage": "https://yy16s.huijiwiki.com/wiki/%E6%96%87%E4%BB%B6%3A%E9%9D%92%E4%B8%98%E5%8D%83%E5%B2%81%E5%A5%B3.png",
+          "sourceId": "huiji-media-qing-qiu-qian-sui",
+          "attribution": "NetEase / Where Winds Meet; game asset file uploaded by Fr0z to 燕云十六声中文维基",
+          "reusePermission": "unknown",
+          "localCopy": "/media/qing-qiu-qian-sui-0-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "qing qiu qian sui · female outfit reference from Huiji Wiki",
+            "ko": "青丘千岁 · 회기 위키 여성 외형 참고 이미지"
+          },
+          "caption": {
+            "en": "Huiji Wiki reference. Full original retained; image availability does not verify regional release.",
+            "ko": "회기 위키 참고 이미지입니다. 전체 원본을 보존하며 사진 확보가 서버별 출시 확인을 뜻하지 않습니다."
+          }
+        }
+      ],
       "officialVideos": [],
-      "mediaStatus": "pending",
+      "mediaStatus": "verified",
       "global": {
         "status": "unknown",
         "officialName": null,
@@ -27323,9 +27499,36 @@
         "ko": "획득 방법과 출처의 조건을 확인하세요.",
         "sourceExcerpt": "3、修复了武器外观·伞「藏音·北溟有鱼」合伞状态在衣柜界面显示异常的问题。"
       },
-      "images": [],
+      "images": [
+        {
+          "url": "https://huiji-public.huijistatic.com/yy16s/uploads/f/f8/%E8%97%8F%E9%9F%B3%C2%B7%E5%8C%97%E6%BA%9F%E6%9C%89%E9%B1%BC.png",
+          "width": 1024,
+          "height": 513,
+          "bytes": 455887,
+          "kind": "community_game_client_render",
+          "visuallyInspected": true,
+          "description": "Complete weapon render (with paired blade or scabbard where present), transparent background.",
+          "contributor": "Fr0z",
+          "sourceKind": "community",
+          "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E8%97%8F%E9%9F%B3%C2%B7%E5%8C%97%E6%BA%9F%E6%9C%89%E9%B1%BC",
+          "filePage": "https://yy16s.huijiwiki.com/wiki/%E6%96%87%E4%BB%B6%3A%E8%97%8F%E9%9F%B3%C2%B7%E5%8C%97%E6%BA%9F%E6%9C%89%E9%B1%BC.png",
+          "sourceId": "huiji-media-cang-yinbei-ming-you-yu",
+          "attribution": "NetEase / Where Winds Meet; game asset file uploaded by Fr0z to 燕云十六声中文维基",
+          "reusePermission": "unknown",
+          "localCopy": "/media/cang-yinbei-ming-you-yu-0-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "cang yin·bei ming you yu · appearance reference from Huiji Wiki",
+            "ko": "藏音·北溟有鱼 · 회기 위키 외관 참고 이미지"
+          },
+          "caption": {
+            "en": "Huiji Wiki reference. Full original retained; image availability does not verify regional release.",
+            "ko": "회기 위키 참고 이미지입니다. 전체 원본을 보존하며 사진 확보가 서버별 출시 확인을 뜻하지 않습니다."
+          }
+        }
+      ],
       "officialVideos": [],
-      "mediaStatus": "pending",
+      "mediaStatus": "verified",
       "global": {
         "status": "unknown",
         "officialName": null,
@@ -28784,9 +28987,36 @@
         "ko": "획득 방법과 출처의 조건을 확인하세요.",
         "sourceExcerpt": "7月24日更新后，武器外观·双刀【藏音·鸾倚九霄】限时360天上架，默认形态可前往「和鸣商店」，以1个八音窍兑换获得。此外观取国画风雅意象与双刀纤巧锋利气质融合，即使出鞘，背后亦自成景致。"
       },
-      "images": [],
+      "images": [
+        {
+          "url": "https://huiji-public.huijistatic.com/yy16s/uploads/4/40/%E8%97%8F%E9%9F%B3%C2%B7%E9%B8%BE%E5%80%9A%E4%B9%9D%E9%9C%84.png",
+          "width": 1024,
+          "height": 513,
+          "bytes": 447189,
+          "kind": "community_game_client_render",
+          "visuallyInspected": true,
+          "description": "Complete weapon render (with paired blade or scabbard where present), transparent background.",
+          "contributor": "Fr0z",
+          "sourceKind": "community",
+          "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E8%97%8F%E9%9F%B3%C2%B7%E9%B8%BE%E5%80%9A%E4%B9%9D%E9%9C%84",
+          "filePage": "https://yy16s.huijiwiki.com/wiki/%E6%96%87%E4%BB%B6%3A%E8%97%8F%E9%9F%B3%C2%B7%E9%B8%BE%E5%80%9A%E4%B9%9D%E9%9C%84.png",
+          "sourceId": "huiji-media-cang-yinluan-yi-jiu-xiao",
+          "attribution": "NetEase / Where Winds Meet; game asset file uploaded by Fr0z to 燕云十六声中文维基",
+          "reusePermission": "unknown",
+          "localCopy": "/media/cang-yinluan-yi-jiu-xiao-0-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "cang yin·luan yi jiu xiao · appearance reference from Huiji Wiki",
+            "ko": "藏音·鸾倚九霄 · 회기 위키 외관 참고 이미지"
+          },
+          "caption": {
+            "en": "Huiji Wiki reference. Full original retained; image availability does not verify regional release.",
+            "ko": "회기 위키 참고 이미지입니다. 전체 원본을 보존하며 사진 확보가 서버별 출시 확인을 뜻하지 않습니다."
+          }
+        }
+      ],
       "officialVideos": [],
-      "mediaStatus": "pending",
+      "mediaStatus": "verified",
       "global": {
         "status": "unknown",
         "officialName": null,
@@ -38001,14 +38231,42 @@
         "releaseDate": null,
         "officialName": null
       },
-      "images": [],
+      "images": [
+        {
+          "url": "https://huiji-public.huijistatic.com/yy16s/uploads/d/d2/%E6%B2%A7%E6%B5%B7%E9%BE%99%E5%90%9F%E5%A5%B3.png",
+          "width": 806,
+          "height": 1024,
+          "bytes": 839252,
+          "kind": "community_game_client_render",
+          "visuallyInspected": true,
+          "description": "Full female character render with outfit visible head to foot, transparent background; no poster frame or unrelated interface icons.",
+          "contributor": "Fr0z",
+          "sourceKind": "community",
+          "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E6%B2%A7%E6%B5%B7%E9%BE%99%E5%90%9F",
+          "filePage": "https://yy16s.huijiwiki.com/wiki/%E6%96%87%E4%BB%B6%3A%E6%B2%A7%E6%B5%B7%E9%BE%99%E5%90%9F%E5%A5%B3.png",
+          "sourceId": "huiji-cang-hai-long-yin",
+          "attribution": "NetEase / Where Winds Meet; game asset file uploaded by Fr0z to 燕云十六声中文维基",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wiki-cang-hai-long-yin-0-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Cang Hai Long Yin · female outfit reference from Huiji Wiki",
+            "ko": "沧海龙吟 · 회기 위키 여성 외형 참고 이미지"
+          },
+          "caption": {
+            "en": "Huiji Wiki reference. Full original retained; image availability does not verify regional release.",
+            "ko": "회기 위키 참고 이미지입니다. 전체 원본을 보존하며 사진 확보가 서버별 출시 확인을 뜻하지 않습니다."
+          }
+        }
+      ],
       "officialVideos": [],
-      "mediaStatus": "pending",
+      "mediaStatus": "verified",
       "namingNote": {
         "en": "Provisional reading of the Chinese identifier; an official global name has not been verified.",
         "ko": "공식 한국어 명칭 미확인으로 중국 원명을 표기합니다."
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "mediaServer": "CN"
     },
     {
       "id": "wiki-wu-jian-wu-xiang",
@@ -38049,14 +38307,42 @@
         "releaseDate": null,
         "officialName": null
       },
-      "images": [],
+      "images": [
+        {
+          "url": "https://huiji-public.huijistatic.com/yy16s/uploads/7/74/%E6%97%A0%E9%97%B4%E6%97%A0%E7%9B%B8%E5%A5%B3.png",
+          "width": 608,
+          "height": 1024,
+          "bytes": 524971,
+          "kind": "community_game_client_render",
+          "visuallyInspected": true,
+          "description": "Full female character render with outfit visible head to foot, transparent background; no poster frame or unrelated interface icons.",
+          "contributor": "Fr0z",
+          "sourceKind": "community",
+          "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E6%97%A0%E9%97%B4%E6%97%A0%E7%9B%B8",
+          "filePage": "https://yy16s.huijiwiki.com/wiki/%E6%96%87%E4%BB%B6%3A%E6%97%A0%E9%97%B4%E6%97%A0%E7%9B%B8%E5%A5%B3.png",
+          "sourceId": "huiji-wu-jian-wu-xiang",
+          "attribution": "NetEase / Where Winds Meet; game asset file uploaded by Fr0z to 燕云十六声中文维基",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wiki-wu-jian-wu-xiang-0-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Wu Jian Wu Xiang · female outfit reference from Huiji Wiki",
+            "ko": "无间无相 · 회기 위키 여성 외형 참고 이미지"
+          },
+          "caption": {
+            "en": "Huiji Wiki reference. Full original retained; image availability does not verify regional release.",
+            "ko": "회기 위키 참고 이미지입니다. 전체 원본을 보존하며 사진 확보가 서버별 출시 확인을 뜻하지 않습니다."
+          }
+        }
+      ],
       "officialVideos": [],
-      "mediaStatus": "pending",
+      "mediaStatus": "verified",
       "namingNote": {
         "en": "Provisional reading of the Chinese identifier; an official global name has not been verified.",
         "ko": "공식 한국어 명칭 미확인으로 중국 원명을 표기합니다."
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "mediaServer": "CN"
     },
     {
       "id": "wiki-le-shen-shi-yan",
@@ -38097,14 +38383,42 @@
         "releaseDate": null,
         "officialName": null
       },
-      "images": [],
+      "images": [
+        {
+          "url": "https://huiji-public.huijistatic.com/yy16s/uploads/c/ce/%E4%B9%90%E7%A5%9E%E5%B8%88%E5%BB%B6%E5%A5%B3.png",
+          "width": 1024,
+          "height": 1024,
+          "bytes": 792412,
+          "kind": "community_game_client_render",
+          "visuallyInspected": true,
+          "description": "Full female character render with outfit visible head to foot, transparent background; no poster frame or unrelated interface icons.",
+          "contributor": "Fr0z",
+          "sourceKind": "community",
+          "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E4%B9%90%E7%A5%9E%E5%B8%88%E5%BB%B6",
+          "filePage": "https://yy16s.huijiwiki.com/wiki/%E6%96%87%E4%BB%B6%3A%E4%B9%90%E7%A5%9E%E5%B8%88%E5%BB%B6%E5%A5%B3.png",
+          "sourceId": "huiji-le-shen-shi-yan",
+          "attribution": "NetEase / Where Winds Meet; game asset file uploaded by Fr0z to 燕云十六声中文维基",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wiki-le-shen-shi-yan-0-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Le Shen Shi Yan · female outfit reference from Huiji Wiki",
+            "ko": "乐神师延 · 회기 위키 여성 외형 참고 이미지"
+          },
+          "caption": {
+            "en": "Huiji Wiki reference. Full original retained; image availability does not verify regional release.",
+            "ko": "회기 위키 참고 이미지입니다. 전체 원본을 보존하며 사진 확보가 서버별 출시 확인을 뜻하지 않습니다."
+          }
+        }
+      ],
       "officialVideos": [],
-      "mediaStatus": "pending",
+      "mediaStatus": "verified",
       "namingNote": {
         "en": "Provisional reading of the Chinese identifier; an official global name has not been verified.",
         "ko": "공식 한국어 명칭 미확인으로 중국 원명을 표기합니다."
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "mediaServer": "CN"
     },
     {
       "id": "wiki-rui-he-xian",
@@ -38481,14 +38795,42 @@
         "releaseDate": null,
         "officialName": null
       },
-      "images": [],
+      "images": [
+        {
+          "url": "https://huiji-public.huijistatic.com/yy16s/uploads/5/53/%E8%91%AC%E8%8A%B1%E5%90%9F%E5%A5%B3.png",
+          "width": 608,
+          "height": 1024,
+          "bytes": 553472,
+          "kind": "community_game_client_render",
+          "visuallyInspected": true,
+          "description": "Full female character render with outfit visible head to foot, transparent background; no poster frame or unrelated interface icons.",
+          "contributor": "Fr0z",
+          "sourceKind": "community",
+          "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E8%91%AC%E8%8A%B1%E5%90%9F",
+          "filePage": "https://yy16s.huijiwiki.com/wiki/%E6%96%87%E4%BB%B6%3A%E8%91%AC%E8%8A%B1%E5%90%9F%E5%A5%B3.png",
+          "sourceId": "huiji-zang-hua-yin",
+          "attribution": "NetEase / Where Winds Meet; game asset file uploaded by Fr0z to 燕云十六声中文维基",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wiki-zang-hua-yin-0-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Zang Hua Yin · female outfit reference from Huiji Wiki",
+            "ko": "葬花吟 · 회기 위키 여성 외형 참고 이미지"
+          },
+          "caption": {
+            "en": "Huiji Wiki reference. Full original retained; image availability does not verify regional release.",
+            "ko": "회기 위키 참고 이미지입니다. 전체 원본을 보존하며 사진 확보가 서버별 출시 확인을 뜻하지 않습니다."
+          }
+        }
+      ],
       "officialVideos": [],
-      "mediaStatus": "pending",
+      "mediaStatus": "verified",
       "namingNote": {
         "en": "Provisional reading of the Chinese identifier; an official global name has not been verified.",
         "ko": "공식 한국어 명칭 미확인으로 중국 원명을 표기합니다."
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "mediaServer": "CN"
     },
     {
       "id": "wiki-jian-ying-cang-xin",
@@ -38673,14 +39015,42 @@
         "releaseDate": null,
         "officialName": null
       },
-      "images": [],
+      "images": [
+        {
+          "url": "https://huiji-public.huijistatic.com/yy16s/uploads/d/d8/%E4%B9%8C%E7%BA%B1%E7%BA%A2%E6%BC%AA%E5%A5%B3.png",
+          "width": 608,
+          "height": 1024,
+          "bytes": 558753,
+          "kind": "community_game_client_render",
+          "visuallyInspected": true,
+          "description": "Full female character render with outfit visible head to foot, transparent background; no poster frame or unrelated interface icons.",
+          "contributor": "Fr0z",
+          "sourceKind": "community",
+          "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E4%B9%8C%E7%BA%B1%E7%BA%A2%E6%BC%AA",
+          "filePage": "https://yy16s.huijiwiki.com/wiki/%E6%96%87%E4%BB%B6%3A%E4%B9%8C%E7%BA%B1%E7%BA%A2%E6%BC%AA%E5%A5%B3.png",
+          "sourceId": "huiji-wu-sha-hong-yi",
+          "attribution": "NetEase / Where Winds Meet; game asset file uploaded by Fr0z to 燕云十六声中文维基",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wiki-wu-sha-hong-yi-0-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Wu Sha Hong Yi · female outfit reference from Huiji Wiki",
+            "ko": "乌纱红漪 · 회기 위키 여성 외형 참고 이미지"
+          },
+          "caption": {
+            "en": "Huiji Wiki reference. Full original retained; image availability does not verify regional release.",
+            "ko": "회기 위키 참고 이미지입니다. 전체 원본을 보존하며 사진 확보가 서버별 출시 확인을 뜻하지 않습니다."
+          }
+        }
+      ],
       "officialVideos": [],
-      "mediaStatus": "pending",
+      "mediaStatus": "verified",
       "namingNote": {
         "en": "Provisional reading of the Chinese identifier; an official global name has not been verified.",
         "ko": "공식 한국어 명칭 미확인으로 중국 원명을 표기합니다."
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "mediaServer": "CN"
     },
     {
       "id": "wiki-feng-hua-wu",
@@ -41649,14 +42019,42 @@
         "releaseDate": null,
         "officialName": null
       },
-      "images": [],
+      "images": [
+        {
+          "url": "https://huiji-public.huijistatic.com/yy16s/uploads/7/75/%E8%97%8F%E9%9F%B3%C2%B7%E6%98%86%E5%B1%B1%E7%8E%89%E7%A2%8E.png",
+          "width": 1024,
+          "height": 513,
+          "bytes": 330083,
+          "kind": "community_game_client_render",
+          "visuallyInspected": true,
+          "description": "Complete weapon render (with paired blade or scabbard where present), transparent background.",
+          "contributor": "Fr0z",
+          "sourceKind": "community",
+          "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E8%97%8F%E9%9F%B3%C2%B7%E6%98%86%E5%B1%B1%E7%8E%89%E7%A2%8E",
+          "filePage": "https://yy16s.huijiwiki.com/wiki/%E6%96%87%E4%BB%B6%3A%E8%97%8F%E9%9F%B3%C2%B7%E6%98%86%E5%B1%B1%E7%8E%89%E7%A2%8E.png",
+          "sourceId": "huiji-cang-yin-kun-shan-yu-sui",
+          "attribution": "NetEase / Where Winds Meet; game asset file uploaded by Fr0z to 燕云十六声中文维基",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wiki-cang-yin-kun-shan-yu-sui-0-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Cang Yin·Kun Shan Yu Sui · appearance reference from Huiji Wiki",
+            "ko": "藏音·昆山玉碎 · 회기 위키 외관 참고 이미지"
+          },
+          "caption": {
+            "en": "Huiji Wiki reference. Full original retained; image availability does not verify regional release.",
+            "ko": "회기 위키 참고 이미지입니다. 전체 원본을 보존하며 사진 확보가 서버별 출시 확인을 뜻하지 않습니다."
+          }
+        }
+      ],
       "officialVideos": [],
-      "mediaStatus": "pending",
+      "mediaStatus": "verified",
       "namingNote": {
         "en": "Provisional reading of the Chinese identifier; an official global name has not been verified.",
         "ko": "공식 한국어 명칭 미확인으로 중국 원명을 표기합니다."
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "mediaServer": "CN"
     },
     {
       "id": "wiki-cang-yin-ku-zhounan-zhang",
@@ -41697,14 +42095,42 @@
         "releaseDate": null,
         "officialName": null
       },
-      "images": [],
+      "images": [
+        {
+          "url": "https://huiji-public.huijistatic.com/yy16s/uploads/b/bb/%E8%97%8F%E9%9F%B3%C2%B7%E8%8B%A6%E6%98%BC%E9%9A%BE%E9%95%BF.png",
+          "width": 1024,
+          "height": 513,
+          "bytes": 354976,
+          "kind": "community_game_client_render",
+          "visuallyInspected": true,
+          "description": "Complete weapon render (with paired blade or scabbard where present), transparent background.",
+          "contributor": "Fr0z",
+          "sourceKind": "community",
+          "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E8%97%8F%E9%9F%B3%C2%B7%E8%8B%A6%E6%98%BC%E9%9A%BE%E9%95%BF",
+          "filePage": "https://yy16s.huijiwiki.com/wiki/%E6%96%87%E4%BB%B6%3A%E8%97%8F%E9%9F%B3%C2%B7%E8%8B%A6%E6%98%BC%E9%9A%BE%E9%95%BF.png",
+          "sourceId": "huiji-cang-yin-ku-zhounan-zhang",
+          "attribution": "NetEase / Where Winds Meet; game asset file uploaded by Fr0z to 燕云十六声中文维基",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wiki-cang-yin-ku-zhounan-zhang-0-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Cang Yin·Ku Zhounan Zhang · appearance reference from Huiji Wiki",
+            "ko": "藏音·苦昼难长 · 회기 위키 외관 참고 이미지"
+          },
+          "caption": {
+            "en": "Huiji Wiki reference. Full original retained; image availability does not verify regional release.",
+            "ko": "회기 위키 참고 이미지입니다. 전체 원본을 보존하며 사진 확보가 서버별 출시 확인을 뜻하지 않습니다."
+          }
+        }
+      ],
       "officialVideos": [],
-      "mediaStatus": "pending",
+      "mediaStatus": "verified",
       "namingNote": {
         "en": "Provisional reading of the Chinese identifier; an official global name has not been verified.",
         "ko": "공식 한국어 명칭 미확인으로 중국 원명을 표기합니다."
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "mediaServer": "CN"
     },
     {
       "id": "wiki-cang-yin-shao-guang-si-ji",
@@ -41745,14 +42171,42 @@
         "releaseDate": null,
         "officialName": null
       },
-      "images": [],
+      "images": [
+        {
+          "url": "https://huiji-public.huijistatic.com/yy16s/uploads/0/02/%E8%97%8F%E9%9F%B3%C2%B7%E9%9F%B6%E5%85%89%E5%9B%9B%E6%9E%81.png",
+          "width": 1024,
+          "height": 513,
+          "bytes": 415612,
+          "kind": "community_game_client_render",
+          "visuallyInspected": true,
+          "description": "Complete weapon render (with paired blade or scabbard where present), transparent background.",
+          "contributor": "Fr0z",
+          "sourceKind": "community",
+          "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E8%97%8F%E9%9F%B3%C2%B7%E9%9F%B6%E5%85%89%E5%9B%9B%E6%9E%81",
+          "filePage": "https://yy16s.huijiwiki.com/wiki/%E6%96%87%E4%BB%B6%3A%E8%97%8F%E9%9F%B3%C2%B7%E9%9F%B6%E5%85%89%E5%9B%9B%E6%9E%81.png",
+          "sourceId": "huiji-cang-yin-shao-guang-si-ji",
+          "attribution": "NetEase / Where Winds Meet; game asset file uploaded by Fr0z to 燕云十六声中文维基",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wiki-cang-yin-shao-guang-si-ji-0-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Cang Yin·Shao Guang Si Ji · appearance reference from Huiji Wiki",
+            "ko": "藏音·韶光四极 · 회기 위키 외관 참고 이미지"
+          },
+          "caption": {
+            "en": "Huiji Wiki reference. Full original retained; image availability does not verify regional release.",
+            "ko": "회기 위키 참고 이미지입니다. 전체 원본을 보존하며 사진 확보가 서버별 출시 확인을 뜻하지 않습니다."
+          }
+        }
+      ],
       "officialVideos": [],
-      "mediaStatus": "pending",
+      "mediaStatus": "verified",
       "namingNote": {
         "en": "Provisional reading of the Chinese identifier; an official global name has not been verified.",
         "ko": "공식 한국어 명칭 미확인으로 중국 원명을 표기합니다."
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "mediaServer": "CN"
     },
     {
       "id": "wiki-wan-lai-jue-yun-yi",
@@ -41793,14 +42247,42 @@
         "releaseDate": null,
         "officialName": null
       },
-      "images": [],
+      "images": [
+        {
+          "url": "https://huiji-public.huijistatic.com/yy16s/uploads/3/36/%E4%B8%87%E7%B1%81%C2%B7%E7%BB%9D%E4%BA%91%E7%BF%BC.png",
+          "width": 1024,
+          "height": 513,
+          "bytes": 319536,
+          "kind": "community_game_client_render",
+          "visuallyInspected": true,
+          "description": "Complete weapon render (with paired blade or scabbard where present), transparent background.",
+          "contributor": "Fr0z",
+          "sourceKind": "community",
+          "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E4%B8%87%E7%B1%81%C2%B7%E7%BB%9D%E4%BA%91%E7%BF%BC",
+          "filePage": "https://yy16s.huijiwiki.com/wiki/%E6%96%87%E4%BB%B6%3A%E4%B8%87%E7%B1%81%C2%B7%E7%BB%9D%E4%BA%91%E7%BF%BC.png",
+          "sourceId": "huiji-wan-lai-jue-yun-yi",
+          "attribution": "NetEase / Where Winds Meet; game asset file uploaded by Fr0z to 燕云十六声中文维基",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wiki-wan-lai-jue-yun-yi-0-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Wan Lai·Jue Yun Yi · appearance reference from Huiji Wiki",
+            "ko": "万籁·绝云翼 · 회기 위키 외관 참고 이미지"
+          },
+          "caption": {
+            "en": "Huiji Wiki reference. Full original retained; image availability does not verify regional release.",
+            "ko": "회기 위키 참고 이미지입니다. 전체 원본을 보존하며 사진 확보가 서버별 출시 확인을 뜻하지 않습니다."
+          }
+        }
+      ],
       "officialVideos": [],
-      "mediaStatus": "pending",
+      "mediaStatus": "verified",
       "namingNote": {
         "en": "Provisional reading of the Chinese identifier; an official global name has not been verified.",
         "ko": "공식 한국어 명칭 미확인으로 중국 원명을 표기합니다."
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "mediaServer": "CN"
     },
     {
       "id": "wiki-ling-shuang-chu-xue",
@@ -41841,14 +42323,42 @@
         "releaseDate": null,
         "officialName": null
       },
-      "images": [],
+      "images": [
+        {
+          "url": "https://huiji-public.huijistatic.com/yy16s/uploads/1/15/%E5%87%8C%E9%9C%9C%E8%A7%A6%E9%9B%AA.png",
+          "width": 1024,
+          "height": 513,
+          "bytes": 333597,
+          "kind": "community_game_client_render",
+          "visuallyInspected": true,
+          "description": "Complete weapon render (with paired blade or scabbard where present), transparent background.",
+          "contributor": "Fr0z",
+          "sourceKind": "community",
+          "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E5%87%8C%E9%9C%9C%E8%A7%A6%E9%9B%AA",
+          "filePage": "https://yy16s.huijiwiki.com/wiki/%E6%96%87%E4%BB%B6%3A%E5%87%8C%E9%9C%9C%E8%A7%A6%E9%9B%AA.png",
+          "sourceId": "huiji-ling-shuang-chu-xue",
+          "attribution": "NetEase / Where Winds Meet; game asset file uploaded by Fr0z to 燕云十六声中文维基",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wiki-ling-shuang-chu-xue-0-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Ling Shuang Chu Xue · appearance reference from Huiji Wiki",
+            "ko": "凌霜触雪 · 회기 위키 외관 참고 이미지"
+          },
+          "caption": {
+            "en": "Huiji Wiki reference. Full original retained; image availability does not verify regional release.",
+            "ko": "회기 위키 참고 이미지입니다. 전체 원본을 보존하며 사진 확보가 서버별 출시 확인을 뜻하지 않습니다."
+          }
+        }
+      ],
       "officialVideos": [],
-      "mediaStatus": "pending",
+      "mediaStatus": "verified",
       "namingNote": {
         "en": "Provisional reading of the Chinese identifier; an official global name has not been verified.",
         "ko": "공식 한국어 명칭 미확인으로 중국 원명을 표기합니다."
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "mediaServer": "CN"
     },
     {
       "id": "wiki-juan-lin-guang",
@@ -41889,14 +42399,42 @@
         "releaseDate": null,
         "officialName": null
       },
-      "images": [],
+      "images": [
+        {
+          "url": "https://huiji-public.huijistatic.com/yy16s/uploads/c/c4/%E5%8D%B7%E9%B3%9E%E5%85%89.png",
+          "width": 1024,
+          "height": 513,
+          "bytes": 323064,
+          "kind": "community_game_client_render",
+          "visuallyInspected": true,
+          "description": "Complete weapon render (with paired blade or scabbard where present), transparent background.",
+          "contributor": "Fr0z",
+          "sourceKind": "community",
+          "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E5%8D%B7%E9%B3%9E%E5%85%89",
+          "filePage": "https://yy16s.huijiwiki.com/wiki/%E6%96%87%E4%BB%B6%3A%E5%8D%B7%E9%B3%9E%E5%85%89.png",
+          "sourceId": "huiji-juan-lin-guang",
+          "attribution": "NetEase / Where Winds Meet; game asset file uploaded by Fr0z to 燕云十六声中文维基",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wiki-juan-lin-guang-0-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Juan Lin Guang · appearance reference from Huiji Wiki",
+            "ko": "卷鳞光 · 회기 위키 외관 참고 이미지"
+          },
+          "caption": {
+            "en": "Huiji Wiki reference. Full original retained; image availability does not verify regional release.",
+            "ko": "회기 위키 참고 이미지입니다. 전체 원본을 보존하며 사진 확보가 서버별 출시 확인을 뜻하지 않습니다."
+          }
+        }
+      ],
       "officialVideos": [],
-      "mediaStatus": "pending",
+      "mediaStatus": "verified",
       "namingNote": {
         "en": "Provisional reading of the Chinese identifier; an official global name has not been verified.",
         "ko": "공식 한국어 명칭 미확인으로 중국 원명을 표기합니다."
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "mediaServer": "CN"
     },
     {
       "id": "wiki-chui-leng-qiu-shuang",
@@ -41937,14 +42475,42 @@
         "releaseDate": null,
         "officialName": null
       },
-      "images": [],
+      "images": [
+        {
+          "url": "https://huiji-public.huijistatic.com/yy16s/uploads/f/fa/%E5%90%B9%E5%86%B7%E7%A7%8B%E9%9C%9C.png",
+          "width": 1024,
+          "height": 513,
+          "bytes": 326151,
+          "kind": "community_game_client_render",
+          "visuallyInspected": true,
+          "description": "Complete weapon render (with paired blade or scabbard where present), transparent background.",
+          "contributor": "Fr0z",
+          "sourceKind": "community",
+          "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E5%90%B9%E5%86%B7%E7%A7%8B%E9%9C%9C",
+          "filePage": "https://yy16s.huijiwiki.com/wiki/%E6%96%87%E4%BB%B6%3A%E5%90%B9%E5%86%B7%E7%A7%8B%E9%9C%9C.png",
+          "sourceId": "huiji-chui-leng-qiu-shuang",
+          "attribution": "NetEase / Where Winds Meet; game asset file uploaded by Fr0z to 燕云十六声中文维基",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wiki-chui-leng-qiu-shuang-0-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Chui Leng Qiu Shuang · appearance reference from Huiji Wiki",
+            "ko": "吹冷秋霜 · 회기 위키 외관 참고 이미지"
+          },
+          "caption": {
+            "en": "Huiji Wiki reference. Full original retained; image availability does not verify regional release.",
+            "ko": "회기 위키 참고 이미지입니다. 전체 원본을 보존하며 사진 확보가 서버별 출시 확인을 뜻하지 않습니다."
+          }
+        }
+      ],
       "officialVideos": [],
-      "mediaStatus": "pending",
+      "mediaStatus": "verified",
       "namingNote": {
         "en": "Provisional reading of the Chinese identifier; an official global name has not been verified.",
         "ko": "공식 한국어 명칭 미확인으로 중국 원명을 표기합니다."
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "mediaServer": "CN"
     },
     {
       "id": "wiki-zhan-lin-guang",
@@ -41985,14 +42551,42 @@
         "releaseDate": null,
         "officialName": null
       },
-      "images": [],
+      "images": [
+        {
+          "url": "https://huiji-public.huijistatic.com/yy16s/uploads/e/e3/%E6%88%98%E9%B3%9E%E5%85%89.png",
+          "width": 1024,
+          "height": 513,
+          "bytes": 310407,
+          "kind": "community_game_client_render",
+          "visuallyInspected": true,
+          "description": "Complete weapon render (with paired blade or scabbard where present), transparent background.",
+          "contributor": "Fr0z",
+          "sourceKind": "community",
+          "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E6%88%98%E9%B3%9E%E5%85%89",
+          "filePage": "https://yy16s.huijiwiki.com/wiki/%E6%96%87%E4%BB%B6%3A%E6%88%98%E9%B3%9E%E5%85%89.png",
+          "sourceId": "huiji-zhan-lin-guang",
+          "attribution": "NetEase / Where Winds Meet; game asset file uploaded by Fr0z to 燕云十六声中文维基",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wiki-zhan-lin-guang-0-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Zhan Lin Guang · appearance reference from Huiji Wiki",
+            "ko": "战鳞光 · 회기 위키 외관 참고 이미지"
+          },
+          "caption": {
+            "en": "Huiji Wiki reference. Full original retained; image availability does not verify regional release.",
+            "ko": "회기 위키 참고 이미지입니다. 전체 원본을 보존하며 사진 확보가 서버별 출시 확인을 뜻하지 않습니다."
+          }
+        }
+      ],
       "officialVideos": [],
-      "mediaStatus": "pending",
+      "mediaStatus": "verified",
       "namingNote": {
         "en": "Provisional reading of the Chinese identifier; an official global name has not been verified.",
         "ko": "공식 한국어 명칭 미확인으로 중국 원명을 표기합니다."
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "mediaServer": "CN"
     },
     {
       "id": "wiki-zhanlin-guang",
@@ -42033,14 +42627,42 @@
         "releaseDate": null,
         "officialName": null
       },
-      "images": [],
+      "images": [
+        {
+          "url": "https://huiji-public.huijistatic.com/yy16s/uploads/1/16/%E6%96%A9%E9%B3%9E%E5%85%89.png",
+          "width": 1024,
+          "height": 513,
+          "bytes": 263378,
+          "kind": "community_game_client_render",
+          "visuallyInspected": true,
+          "description": "Complete weapon render (with paired blade or scabbard where present), transparent background.",
+          "contributor": "Fr0z",
+          "sourceKind": "community",
+          "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E6%96%A9%E9%B3%9E%E5%85%89",
+          "filePage": "https://yy16s.huijiwiki.com/wiki/%E6%96%87%E4%BB%B6%3A%E6%96%A9%E9%B3%9E%E5%85%89.png",
+          "sourceId": "huiji-zhanlin-guang",
+          "attribution": "NetEase / Where Winds Meet; game asset file uploaded by Fr0z to 燕云十六声中文维基",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wiki-zhanlin-guang-0-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Zhanlin Guang · appearance reference from Huiji Wiki",
+            "ko": "斩鳞光 · 회기 위키 외관 참고 이미지"
+          },
+          "caption": {
+            "en": "Huiji Wiki reference. Full original retained; image availability does not verify regional release.",
+            "ko": "회기 위키 참고 이미지입니다. 전체 원본을 보존하며 사진 확보가 서버별 출시 확인을 뜻하지 않습니다."
+          }
+        }
+      ],
       "officialVideos": [],
-      "mediaStatus": "pending",
+      "mediaStatus": "verified",
       "namingNote": {
         "en": "Provisional reading of the Chinese identifier; an official global name has not been verified.",
         "ko": "공식 한국어 명칭 미확인으로 중국 원명을 표기합니다."
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "mediaServer": "CN"
     },
     {
       "id": "wiki-duanlin-guang",
@@ -42081,14 +42703,42 @@
         "releaseDate": null,
         "officialName": null
       },
-      "images": [],
+      "images": [
+        {
+          "url": "https://huiji-public.huijistatic.com/yy16s/uploads/1/11/%E6%96%AD%E9%B3%9E%E5%85%89.png",
+          "width": 1024,
+          "height": 513,
+          "bytes": 325760,
+          "kind": "community_game_client_render",
+          "visuallyInspected": true,
+          "description": "Complete weapon render (with paired blade or scabbard where present), transparent background.",
+          "contributor": "Fr0z",
+          "sourceKind": "community",
+          "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E6%96%AD%E9%B3%9E%E5%85%89",
+          "filePage": "https://yy16s.huijiwiki.com/wiki/%E6%96%87%E4%BB%B6%3A%E6%96%AD%E9%B3%9E%E5%85%89.png",
+          "sourceId": "huiji-duanlin-guang",
+          "attribution": "NetEase / Where Winds Meet; game asset file uploaded by Fr0z to 燕云十六声中文维基",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wiki-duanlin-guang-0-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Duanlin Guang · appearance reference from Huiji Wiki",
+            "ko": "断鳞光 · 회기 위키 외관 참고 이미지"
+          },
+          "caption": {
+            "en": "Huiji Wiki reference. Full original retained; image availability does not verify regional release.",
+            "ko": "회기 위키 참고 이미지입니다. 전체 원본을 보존하며 사진 확보가 서버별 출시 확인을 뜻하지 않습니다."
+          }
+        }
+      ],
       "officialVideos": [],
-      "mediaStatus": "pending",
+      "mediaStatus": "verified",
       "namingNote": {
         "en": "Provisional reading of the Chinese identifier; an official global name has not been verified.",
         "ko": "공식 한국어 명칭 미확인으로 중국 원명을 표기합니다."
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "mediaServer": "CN"
     },
     {
       "id": "wiki-wu-zheng",
@@ -42129,14 +42779,42 @@
         "releaseDate": null,
         "officialName": null
       },
-      "images": [],
+      "images": [
+        {
+          "url": "https://huiji-public.huijistatic.com/yy16s/uploads/2/2e/%E6%97%A0%E4%BA%89.png",
+          "width": 1024,
+          "height": 465,
+          "bytes": 280072,
+          "kind": "community_game_client_render",
+          "visuallyInspected": true,
+          "description": "Complete weapon render (with paired blade or scabbard where present), transparent background.",
+          "contributor": "Fr0z",
+          "sourceKind": "community",
+          "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E6%97%A0%E4%BA%89",
+          "filePage": "https://yy16s.huijiwiki.com/wiki/%E6%96%87%E4%BB%B6%3A%E6%97%A0%E4%BA%89.png",
+          "sourceId": "huiji-wu-zheng",
+          "attribution": "NetEase / Where Winds Meet; game asset file uploaded by Fr0z to 燕云十六声中文维基",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wiki-wu-zheng-0-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Wu Zheng · appearance reference from Huiji Wiki",
+            "ko": "无争 · 회기 위키 외관 참고 이미지"
+          },
+          "caption": {
+            "en": "Huiji Wiki reference. Full original retained; image availability does not verify regional release.",
+            "ko": "회기 위키 참고 이미지입니다. 전체 원본을 보존하며 사진 확보가 서버별 출시 확인을 뜻하지 않습니다."
+          }
+        }
+      ],
       "officialVideos": [],
-      "mediaStatus": "pending",
+      "mediaStatus": "verified",
       "namingNote": {
         "en": "Provisional reading of the Chinese identifier; an official global name has not been verified.",
         "ko": "공식 한국어 명칭 미확인으로 중국 원명을 표기합니다."
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "mediaServer": "CN"
     },
     {
       "id": "wiki-wu-ying",
@@ -42177,14 +42855,42 @@
         "releaseDate": null,
         "officialName": null
       },
-      "images": [],
+      "images": [
+        {
+          "url": "https://huiji-public.huijistatic.com/yy16s/uploads/7/7a/%E6%97%A0%E5%BD%B1.png",
+          "width": 1024,
+          "height": 465,
+          "bytes": 284536,
+          "kind": "community_game_client_render",
+          "visuallyInspected": true,
+          "description": "Complete weapon render (with paired blade or scabbard where present), transparent background.",
+          "contributor": "Fr0z",
+          "sourceKind": "community",
+          "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E6%97%A0%E5%BD%B1",
+          "filePage": "https://yy16s.huijiwiki.com/wiki/%E6%96%87%E4%BB%B6%3A%E6%97%A0%E5%BD%B1.png",
+          "sourceId": "huiji-wu-ying",
+          "attribution": "NetEase / Where Winds Meet; game asset file uploaded by Fr0z to 燕云十六声中文维基",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wiki-wu-ying-0-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Wu Ying · appearance reference from Huiji Wiki",
+            "ko": "无影 · 회기 위키 외관 참고 이미지"
+          },
+          "caption": {
+            "en": "Huiji Wiki reference. Full original retained; image availability does not verify regional release.",
+            "ko": "회기 위키 참고 이미지입니다. 전체 원본을 보존하며 사진 확보가 서버별 출시 확인을 뜻하지 않습니다."
+          }
+        }
+      ],
       "officialVideos": [],
-      "mediaStatus": "pending",
+      "mediaStatus": "verified",
       "namingNote": {
         "en": "Provisional reading of the Chinese identifier; an official global name has not been verified.",
         "ko": "공식 한국어 명칭 미확인으로 중국 원명을 표기합니다."
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "mediaServer": "CN"
     },
     {
       "id": "wiki-wu-ming",
@@ -42225,14 +42931,42 @@
         "releaseDate": null,
         "officialName": null
       },
-      "images": [],
+      "images": [
+        {
+          "url": "https://huiji-public.huijistatic.com/yy16s/uploads/f/f1/%E6%97%A0%E6%98%8E.png",
+          "width": 1024,
+          "height": 465,
+          "bytes": 201761,
+          "kind": "community_game_client_render",
+          "visuallyInspected": true,
+          "description": "Complete weapon render (with paired blade or scabbard where present), transparent background.",
+          "contributor": "Fr0z",
+          "sourceKind": "community",
+          "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E6%97%A0%E6%98%8E",
+          "filePage": "https://yy16s.huijiwiki.com/wiki/%E6%96%87%E4%BB%B6%3A%E6%97%A0%E6%98%8E.png",
+          "sourceId": "huiji-wu-ming",
+          "attribution": "NetEase / Where Winds Meet; game asset file uploaded by Fr0z to 燕云十六声中文维基",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wiki-wu-ming-0-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Wu Ming · appearance reference from Huiji Wiki",
+            "ko": "无明 · 회기 위키 외관 참고 이미지"
+          },
+          "caption": {
+            "en": "Huiji Wiki reference. Full original retained; image availability does not verify regional release.",
+            "ko": "회기 위키 참고 이미지입니다. 전체 원본을 보존하며 사진 확보가 서버별 출시 확인을 뜻하지 않습니다."
+          }
+        }
+      ],
       "officialVideos": [],
-      "mediaStatus": "pending",
+      "mediaStatus": "verified",
       "namingNote": {
         "en": "Provisional reading of the Chinese identifier; an official global name has not been verified.",
         "ko": "공식 한국어 명칭 미확인으로 중국 원명을 표기합니다."
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "mediaServer": "CN"
     },
     {
       "id": "wiki-wu-qing",
@@ -42273,14 +43007,42 @@
         "releaseDate": null,
         "officialName": null
       },
-      "images": [],
+      "images": [
+        {
+          "url": "https://huiji-public.huijistatic.com/yy16s/uploads/f/f0/%E6%97%A0%E6%99%B4.png",
+          "width": 1024,
+          "height": 465,
+          "bytes": 254150,
+          "kind": "community_game_client_render",
+          "visuallyInspected": true,
+          "description": "Complete weapon render (with paired blade or scabbard where present), transparent background.",
+          "contributor": "Fr0z",
+          "sourceKind": "community",
+          "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E6%97%A0%E6%99%B4",
+          "filePage": "https://yy16s.huijiwiki.com/wiki/%E6%96%87%E4%BB%B6%3A%E6%97%A0%E6%99%B4.png",
+          "sourceId": "huiji-wu-qing",
+          "attribution": "NetEase / Where Winds Meet; game asset file uploaded by Fr0z to 燕云十六声中文维基",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wiki-wu-qing-0-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Wu Qing · appearance reference from Huiji Wiki",
+            "ko": "无晴 · 회기 위키 외관 참고 이미지"
+          },
+          "caption": {
+            "en": "Huiji Wiki reference. Full original retained; image availability does not verify regional release.",
+            "ko": "회기 위키 참고 이미지입니다. 전체 원본을 보존하며 사진 확보가 서버별 출시 확인을 뜻하지 않습니다."
+          }
+        }
+      ],
       "officialVideos": [],
-      "mediaStatus": "pending",
+      "mediaStatus": "verified",
       "namingNote": {
         "en": "Provisional reading of the Chinese identifier; an official global name has not been verified.",
         "ko": "공식 한국어 명칭 미확인으로 중국 원명을 표기합니다."
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "mediaServer": "CN"
     },
     {
       "id": "wiki-wu-sheng",
@@ -42321,14 +43083,42 @@
         "releaseDate": null,
         "officialName": null
       },
-      "images": [],
+      "images": [
+        {
+          "url": "https://huiji-public.huijistatic.com/yy16s/uploads/c/c2/%E6%97%A0%E7%94%9F.png",
+          "width": 1024,
+          "height": 465,
+          "bytes": 285682,
+          "kind": "community_game_client_render",
+          "visuallyInspected": true,
+          "description": "Complete weapon render (with paired blade or scabbard where present), transparent background.",
+          "contributor": "Fr0z",
+          "sourceKind": "community",
+          "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E6%97%A0%E7%94%9F",
+          "filePage": "https://yy16s.huijiwiki.com/wiki/%E6%96%87%E4%BB%B6%3A%E6%97%A0%E7%94%9F.png",
+          "sourceId": "huiji-wu-sheng",
+          "attribution": "NetEase / Where Winds Meet; game asset file uploaded by Fr0z to 燕云十六声中文维基",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wiki-wu-sheng-0-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Wu Sheng · appearance reference from Huiji Wiki",
+            "ko": "无生 · 회기 위키 외관 참고 이미지"
+          },
+          "caption": {
+            "en": "Huiji Wiki reference. Full original retained; image availability does not verify regional release.",
+            "ko": "회기 위키 참고 이미지입니다. 전체 원본을 보존하며 사진 확보가 서버별 출시 확인을 뜻하지 않습니다."
+          }
+        }
+      ],
       "officialVideos": [],
-      "mediaStatus": "pending",
+      "mediaStatus": "verified",
       "namingNote": {
         "en": "Provisional reading of the Chinese identifier; an official global name has not been verified.",
         "ko": "공식 한국어 명칭 미확인으로 중국 원명을 표기합니다."
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "mediaServer": "CN"
     },
     {
       "id": "wiki-wu-feng",
@@ -42369,14 +43159,42 @@
         "releaseDate": null,
         "officialName": null
       },
-      "images": [],
+      "images": [
+        {
+          "url": "https://huiji-public.huijistatic.com/yy16s/uploads/6/63/%E6%97%A0%E9%94%8B.png",
+          "width": 1024,
+          "height": 465,
+          "bytes": 315001,
+          "kind": "community_game_client_render",
+          "visuallyInspected": true,
+          "description": "Complete weapon render (with paired blade or scabbard where present), transparent background.",
+          "contributor": "Fr0z",
+          "sourceKind": "community",
+          "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E6%97%A0%E9%94%8B",
+          "filePage": "https://yy16s.huijiwiki.com/wiki/%E6%96%87%E4%BB%B6%3A%E6%97%A0%E9%94%8B.png",
+          "sourceId": "huiji-wu-feng",
+          "attribution": "NetEase / Where Winds Meet; game asset file uploaded by Fr0z to 燕云十六声中文维基",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wiki-wu-feng-0-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Wu Feng · appearance reference from Huiji Wiki",
+            "ko": "无锋 · 회기 위키 외관 참고 이미지"
+          },
+          "caption": {
+            "en": "Huiji Wiki reference. Full original retained; image availability does not verify regional release.",
+            "ko": "회기 위키 참고 이미지입니다. 전체 원본을 보존하며 사진 확보가 서버별 출시 확인을 뜻하지 않습니다."
+          }
+        }
+      ],
       "officialVideos": [],
-      "mediaStatus": "pending",
+      "mediaStatus": "verified",
       "namingNote": {
         "en": "Provisional reading of the Chinese identifier; an official global name has not been verified.",
         "ko": "공식 한국어 명칭 미확인으로 중국 원명을 표기합니다."
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "mediaServer": "CN"
     },
     {
       "id": "wiki-wu-ming-acf56a",
@@ -42417,14 +43235,42 @@
         "releaseDate": null,
         "officialName": null
       },
-      "images": [],
+      "images": [
+        {
+          "url": "https://huiji-public.huijistatic.com/yy16s/uploads/d/d9/%E6%97%A0%E9%B8%A3.png",
+          "width": 1024,
+          "height": 465,
+          "bytes": 338791,
+          "kind": "community_game_client_render",
+          "visuallyInspected": true,
+          "description": "Complete weapon render (with paired blade or scabbard where present), transparent background.",
+          "contributor": "Fr0z",
+          "sourceKind": "community",
+          "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E6%97%A0%E9%B8%A3",
+          "filePage": "https://yy16s.huijiwiki.com/wiki/%E6%96%87%E4%BB%B6%3A%E6%97%A0%E9%B8%A3.png",
+          "sourceId": "huiji-wu-ming-acf56a",
+          "attribution": "NetEase / Where Winds Meet; game asset file uploaded by Fr0z to 燕云十六声中文维基",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wiki-wu-ming-acf56a-0-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Wu Ming · appearance reference from Huiji Wiki",
+            "ko": "无鸣 · 회기 위키 외관 참고 이미지"
+          },
+          "caption": {
+            "en": "Huiji Wiki reference. Full original retained; image availability does not verify regional release.",
+            "ko": "회기 위키 참고 이미지입니다. 전체 원본을 보존하며 사진 확보가 서버별 출시 확인을 뜻하지 않습니다."
+          }
+        }
+      ],
       "officialVideos": [],
-      "mediaStatus": "pending",
+      "mediaStatus": "verified",
       "namingNote": {
         "en": "Provisional reading of the Chinese identifier; an official global name has not been verified.",
         "ko": "공식 한국어 명칭 미확인으로 중국 원명을 표기합니다."
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "mediaServer": "CN"
     },
     {
       "id": "wiki-jian-lin-guang",
@@ -42465,14 +43311,42 @@
         "releaseDate": null,
         "officialName": null
       },
-      "images": [],
+      "images": [
+        {
+          "url": "https://huiji-public.huijistatic.com/yy16s/uploads/5/5a/%E7%BF%A6%E9%B3%9E%E5%85%89.png",
+          "width": 1024,
+          "height": 513,
+          "bytes": 285824,
+          "kind": "community_game_client_render",
+          "visuallyInspected": true,
+          "description": "Complete weapon render (with paired blade or scabbard where present), transparent background.",
+          "contributor": "Fr0z",
+          "sourceKind": "community",
+          "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E7%BF%A6%E9%B3%9E%E5%85%89",
+          "filePage": "https://yy16s.huijiwiki.com/wiki/%E6%96%87%E4%BB%B6%3A%E7%BF%A6%E9%B3%9E%E5%85%89.png",
+          "sourceId": "huiji-jian-lin-guang",
+          "attribution": "NetEase / Where Winds Meet; game asset file uploaded by Fr0z to 燕云十六声中文维基",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wiki-jian-lin-guang-0-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Jian Lin Guang · appearance reference from Huiji Wiki",
+            "ko": "翦鳞光 · 회기 위키 외관 참고 이미지"
+          },
+          "caption": {
+            "en": "Huiji Wiki reference. Full original retained; image availability does not verify regional release.",
+            "ko": "회기 위키 참고 이미지입니다. 전체 원본을 보존하며 사진 확보가 서버별 출시 확인을 뜻하지 않습니다."
+          }
+        }
+      ],
       "officialVideos": [],
-      "mediaStatus": "pending",
+      "mediaStatus": "verified",
       "namingNote": {
         "en": "Provisional reading of the Chinese identifier; an official global name has not been verified.",
         "ko": "공식 한국어 명칭 미확인으로 중국 원명을 표기합니다."
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "mediaServer": "CN"
     },
     {
       "id": "wiki-wu-lin-guang",
@@ -42513,14 +43387,42 @@
         "releaseDate": null,
         "officialName": null
       },
-      "images": [],
+      "images": [
+        {
+          "url": "https://huiji-public.huijistatic.com/yy16s/uploads/f/f5/%E8%88%9E%E9%B3%9E%E5%85%89.png",
+          "width": 1024,
+          "height": 513,
+          "bytes": 214764,
+          "kind": "community_game_client_render",
+          "visuallyInspected": true,
+          "description": "Complete weapon render (with paired blade or scabbard where present), transparent background.",
+          "contributor": "Fr0z",
+          "sourceKind": "community",
+          "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E8%88%9E%E9%B3%9E%E5%85%89",
+          "filePage": "https://yy16s.huijiwiki.com/wiki/%E6%96%87%E4%BB%B6%3A%E8%88%9E%E9%B3%9E%E5%85%89.png",
+          "sourceId": "huiji-wu-lin-guang",
+          "attribution": "NetEase / Where Winds Meet; game asset file uploaded by Fr0z to 燕云十六声中文维基",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wiki-wu-lin-guang-0-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Wu Lin Guang · appearance reference from Huiji Wiki",
+            "ko": "舞鳞光 · 회기 위키 외관 참고 이미지"
+          },
+          "caption": {
+            "en": "Huiji Wiki reference. Full original retained; image availability does not verify regional release.",
+            "ko": "회기 위키 참고 이미지입니다. 전체 원본을 보존하며 사진 확보가 서버별 출시 확인을 뜻하지 않습니다."
+          }
+        }
+      ],
       "officialVideos": [],
-      "mediaStatus": "pending",
+      "mediaStatus": "verified",
       "namingNote": {
         "en": "Provisional reading of the Chinese identifier; an official global name has not been verified.",
         "ko": "공식 한국어 명칭 미확인으로 중국 원명을 표기합니다."
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "mediaServer": "CN"
     },
     {
       "id": "wiki-xian-lin-guang",
@@ -42561,14 +43463,42 @@
         "releaseDate": null,
         "officialName": null
       },
-      "images": [],
+      "images": [
+        {
+          "url": "https://huiji-public.huijistatic.com/yy16s/uploads/8/8c/%E8%A1%94%E9%B3%9E%E5%85%89.png",
+          "width": 1024,
+          "height": 513,
+          "bytes": 255101,
+          "kind": "community_game_client_render",
+          "visuallyInspected": true,
+          "description": "Complete weapon render (with paired blade or scabbard where present), transparent background.",
+          "contributor": "Fr0z",
+          "sourceKind": "community",
+          "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E8%A1%94%E9%B3%9E%E5%85%89",
+          "filePage": "https://yy16s.huijiwiki.com/wiki/%E6%96%87%E4%BB%B6%3A%E8%A1%94%E9%B3%9E%E5%85%89.png",
+          "sourceId": "huiji-xian-lin-guang",
+          "attribution": "NetEase / Where Winds Meet; game asset file uploaded by Fr0z to 燕云十六声中文维基",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wiki-xian-lin-guang-0-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Xian Lin Guang · appearance reference from Huiji Wiki",
+            "ko": "衔鳞光 · 회기 위키 외관 참고 이미지"
+          },
+          "caption": {
+            "en": "Huiji Wiki reference. Full original retained; image availability does not verify regional release.",
+            "ko": "회기 위키 참고 이미지입니다. 전체 원본을 보존하며 사진 확보가 서버별 출시 확인을 뜻하지 않습니다."
+          }
+        }
+      ],
       "officialVideos": [],
-      "mediaStatus": "pending",
+      "mediaStatus": "verified",
       "namingNote": {
         "en": "Provisional reading of the Chinese identifier; an official global name has not been verified.",
         "ko": "공식 한국어 명칭 미확인으로 중국 원명을 표기합니다."
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "mediaServer": "CN"
     },
     {
       "id": "wiki-zhang-an-bu-jian",
@@ -42609,14 +43539,42 @@
         "releaseDate": null,
         "officialName": null
       },
-      "images": [],
+      "images": [
+        {
+          "url": "https://huiji-public.huijistatic.com/yy16s/uploads/1/1d/%E9%95%BF%E5%AE%89%E4%B8%8D%E8%A7%81.png",
+          "width": 1024,
+          "height": 513,
+          "bytes": 217369,
+          "kind": "community_game_client_render",
+          "visuallyInspected": true,
+          "description": "Complete weapon render (with paired blade or scabbard where present), transparent background.",
+          "contributor": "Fr0z",
+          "sourceKind": "community",
+          "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E9%95%BF%E5%AE%89%E4%B8%8D%E8%A7%81",
+          "filePage": "https://yy16s.huijiwiki.com/wiki/%E6%96%87%E4%BB%B6%3A%E9%95%BF%E5%AE%89%E4%B8%8D%E8%A7%81.png",
+          "sourceId": "huiji-zhang-an-bu-jian",
+          "attribution": "NetEase / Where Winds Meet; game asset file uploaded by Fr0z to 燕云十六声中文维基",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wiki-zhang-an-bu-jian-0-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Zhang An Bu Jian · appearance reference from Huiji Wiki",
+            "ko": "长安不见 · 회기 위키 외관 참고 이미지"
+          },
+          "caption": {
+            "en": "Huiji Wiki reference. Full original retained; image availability does not verify regional release.",
+            "ko": "회기 위키 참고 이미지입니다. 전체 원본을 보존하며 사진 확보가 서버별 출시 확인을 뜻하지 않습니다."
+          }
+        }
+      ],
       "officialVideos": [],
-      "mediaStatus": "pending",
+      "mediaStatus": "verified",
       "namingNote": {
         "en": "Provisional reading of the Chinese identifier; an official global name has not been verified.",
         "ko": "공식 한국어 명칭 미확인으로 중국 원명을 표기합니다."
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "mediaServer": "CN"
     },
     {
       "id": "wiki-fei-yun",
@@ -42657,14 +43615,42 @@
         "releaseDate": null,
         "officialName": null
       },
-      "images": [],
+      "images": [
+        {
+          "url": "https://huiji-public.huijistatic.com/yy16s/uploads/b/b9/%E9%A3%9E%E4%BA%91.png",
+          "width": 1024,
+          "height": 513,
+          "bytes": 312477,
+          "kind": "community_game_client_render",
+          "visuallyInspected": true,
+          "description": "Complete weapon render (with paired blade or scabbard where present), transparent background.",
+          "contributor": "Fr0z",
+          "sourceKind": "community",
+          "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E9%A3%9E%E4%BA%91",
+          "filePage": "https://yy16s.huijiwiki.com/wiki/%E6%96%87%E4%BB%B6%3A%E9%A3%9E%E4%BA%91.png",
+          "sourceId": "huiji-fei-yun",
+          "attribution": "NetEase / Where Winds Meet; game asset file uploaded by Fr0z to 燕云十六声中文维基",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wiki-fei-yun-0-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Fei Yun · appearance reference from Huiji Wiki",
+            "ko": "飞云 · 회기 위키 외관 참고 이미지"
+          },
+          "caption": {
+            "en": "Huiji Wiki reference. Full original retained; image availability does not verify regional release.",
+            "ko": "회기 위키 참고 이미지입니다. 전체 원본을 보존하며 사진 확보가 서버별 출시 확인을 뜻하지 않습니다."
+          }
+        }
+      ],
       "officialVideos": [],
-      "mediaStatus": "pending",
+      "mediaStatus": "verified",
       "namingNote": {
         "en": "Provisional reading of the Chinese identifier; an official global name has not been verified.",
         "ko": "공식 한국어 명칭 미확인으로 중국 원명을 표기합니다."
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "mediaServer": "CN"
     },
     {
       "id": "wiki-fei-ying",
@@ -42705,14 +43691,42 @@
         "releaseDate": null,
         "officialName": null
       },
-      "images": [],
+      "images": [
+        {
+          "url": "https://huiji-public.huijistatic.com/yy16s/uploads/0/0a/%E9%A3%9E%E5%BD%B1.png",
+          "width": 1024,
+          "height": 513,
+          "bytes": 379544,
+          "kind": "community_game_client_render",
+          "visuallyInspected": true,
+          "description": "Complete weapon render (with paired blade or scabbard where present), transparent background.",
+          "contributor": "Fr0z",
+          "sourceKind": "community",
+          "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E9%A3%9E%E5%BD%B1",
+          "filePage": "https://yy16s.huijiwiki.com/wiki/%E6%96%87%E4%BB%B6%3A%E9%A3%9E%E5%BD%B1.png",
+          "sourceId": "huiji-fei-ying",
+          "attribution": "NetEase / Where Winds Meet; game asset file uploaded by Fr0z to 燕云十六声中文维基",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wiki-fei-ying-0-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Fei Ying · appearance reference from Huiji Wiki",
+            "ko": "飞影 · 회기 위키 외관 참고 이미지"
+          },
+          "caption": {
+            "en": "Huiji Wiki reference. Full original retained; image availability does not verify regional release.",
+            "ko": "회기 위키 참고 이미지입니다. 전체 원본을 보존하며 사진 확보가 서버별 출시 확인을 뜻하지 않습니다."
+          }
+        }
+      ],
       "officialVideos": [],
-      "mediaStatus": "pending",
+      "mediaStatus": "verified",
       "namingNote": {
         "en": "Provisional reading of the Chinese identifier; an official global name has not been verified.",
         "ko": "공식 한국어 명칭 미확인으로 중국 원명을 표기합니다."
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "mediaServer": "CN"
     },
     {
       "id": "wiki-fei-ming",
@@ -42753,14 +43767,42 @@
         "releaseDate": null,
         "officialName": null
       },
-      "images": [],
+      "images": [
+        {
+          "url": "https://huiji-public.huijistatic.com/yy16s/uploads/c/c8/%E9%A3%9E%E6%98%8E.png",
+          "width": 1024,
+          "height": 513,
+          "bytes": 398187,
+          "kind": "community_game_client_render",
+          "visuallyInspected": true,
+          "description": "Complete weapon render (with paired blade or scabbard where present), transparent background.",
+          "contributor": "Fr0z",
+          "sourceKind": "community",
+          "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E9%A3%9E%E6%98%8E",
+          "filePage": "https://yy16s.huijiwiki.com/wiki/%E6%96%87%E4%BB%B6%3A%E9%A3%9E%E6%98%8E.png",
+          "sourceId": "huiji-fei-ming",
+          "attribution": "NetEase / Where Winds Meet; game asset file uploaded by Fr0z to 燕云十六声中文维基",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wiki-fei-ming-0-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Fei Ming · appearance reference from Huiji Wiki",
+            "ko": "飞明 · 회기 위키 외관 참고 이미지"
+          },
+          "caption": {
+            "en": "Huiji Wiki reference. Full original retained; image availability does not verify regional release.",
+            "ko": "회기 위키 참고 이미지입니다. 전체 원본을 보존하며 사진 확보가 서버별 출시 확인을 뜻하지 않습니다."
+          }
+        }
+      ],
       "officialVideos": [],
-      "mediaStatus": "pending",
+      "mediaStatus": "verified",
       "namingNote": {
         "en": "Provisional reading of the Chinese identifier; an official global name has not been verified.",
         "ko": "공식 한국어 명칭 미확인으로 중국 원명을 표기합니다."
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "mediaServer": "CN"
     },
     {
       "id": "wiki-fei-xing",
@@ -42801,14 +43843,42 @@
         "releaseDate": null,
         "officialName": null
       },
-      "images": [],
+      "images": [
+        {
+          "url": "https://huiji-public.huijistatic.com/yy16s/uploads/f/fe/%E9%A3%9E%E6%98%9F.png",
+          "width": 1024,
+          "height": 513,
+          "bytes": 350312,
+          "kind": "community_game_client_render",
+          "visuallyInspected": true,
+          "description": "Complete weapon render (with paired blade or scabbard where present), transparent background.",
+          "contributor": "Fr0z",
+          "sourceKind": "community",
+          "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E9%A3%9E%E6%98%9F",
+          "filePage": "https://yy16s.huijiwiki.com/wiki/%E6%96%87%E4%BB%B6%3A%E9%A3%9E%E6%98%9F.png",
+          "sourceId": "huiji-fei-xing",
+          "attribution": "NetEase / Where Winds Meet; game asset file uploaded by Fr0z to 燕云十六声中文维基",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wiki-fei-xing-0-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Fei Xing · appearance reference from Huiji Wiki",
+            "ko": "飞星 · 회기 위키 외관 참고 이미지"
+          },
+          "caption": {
+            "en": "Huiji Wiki reference. Full original retained; image availability does not verify regional release.",
+            "ko": "회기 위키 참고 이미지입니다. 전체 원본을 보존하며 사진 확보가 서버별 출시 확인을 뜻하지 않습니다."
+          }
+        }
+      ],
       "officialVideos": [],
-      "mediaStatus": "pending",
+      "mediaStatus": "verified",
       "namingNote": {
         "en": "Provisional reading of the Chinese identifier; an official global name has not been verified.",
         "ko": "공식 한국어 명칭 미확인으로 중국 원명을 표기합니다."
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "mediaServer": "CN"
     },
     {
       "id": "wiki-fei-sha",
@@ -42849,14 +43919,42 @@
         "releaseDate": null,
         "officialName": null
       },
-      "images": [],
+      "images": [
+        {
+          "url": "https://huiji-public.huijistatic.com/yy16s/uploads/d/dc/%E9%A3%9E%E6%B2%99.png",
+          "width": 1024,
+          "height": 513,
+          "bytes": 243463,
+          "kind": "community_game_client_render",
+          "visuallyInspected": true,
+          "description": "Complete weapon render (with paired blade or scabbard where present), transparent background.",
+          "contributor": "Fr0z",
+          "sourceKind": "community",
+          "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E9%A3%9E%E6%B2%99",
+          "filePage": "https://yy16s.huijiwiki.com/wiki/%E6%96%87%E4%BB%B6%3A%E9%A3%9E%E6%B2%99.png",
+          "sourceId": "huiji-fei-sha",
+          "attribution": "NetEase / Where Winds Meet; game asset file uploaded by Fr0z to 燕云十六声中文维基",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wiki-fei-sha-0-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Fei Sha · appearance reference from Huiji Wiki",
+            "ko": "飞沙 · 회기 위키 외관 참고 이미지"
+          },
+          "caption": {
+            "en": "Huiji Wiki reference. Full original retained; image availability does not verify regional release.",
+            "ko": "회기 위키 참고 이미지입니다. 전체 원본을 보존하며 사진 확보가 서버별 출시 확인을 뜻하지 않습니다."
+          }
+        }
+      ],
       "officialVideos": [],
-      "mediaStatus": "pending",
+      "mediaStatus": "verified",
       "namingNote": {
         "en": "Provisional reading of the Chinese identifier; an official global name has not been verified.",
         "ko": "공식 한국어 명칭 미확인으로 중국 원명을 표기합니다."
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "mediaServer": "CN"
     },
     {
       "id": "wiki-fei-yan",
@@ -42897,14 +43995,42 @@
         "releaseDate": null,
         "officialName": null
       },
-      "images": [],
+      "images": [
+        {
+          "url": "https://huiji-public.huijistatic.com/yy16s/uploads/1/1c/%E9%A3%9E%E7%84%B0.png",
+          "width": 1024,
+          "height": 513,
+          "bytes": 315911,
+          "kind": "community_game_client_render",
+          "visuallyInspected": true,
+          "description": "Complete weapon render (with paired blade or scabbard where present), transparent background.",
+          "contributor": "Fr0z",
+          "sourceKind": "community",
+          "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E9%A3%9E%E7%84%B0",
+          "filePage": "https://yy16s.huijiwiki.com/wiki/%E6%96%87%E4%BB%B6%3A%E9%A3%9E%E7%84%B0.png",
+          "sourceId": "huiji-fei-yan",
+          "attribution": "NetEase / Where Winds Meet; game asset file uploaded by Fr0z to 燕云十六声中文维基",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wiki-fei-yan-0-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Fei Yan · appearance reference from Huiji Wiki",
+            "ko": "飞焰 · 회기 위키 외관 참고 이미지"
+          },
+          "caption": {
+            "en": "Huiji Wiki reference. Full original retained; image availability does not verify regional release.",
+            "ko": "회기 위키 참고 이미지입니다. 전체 원본을 보존하며 사진 확보가 서버별 출시 확인을 뜻하지 않습니다."
+          }
+        }
+      ],
       "officialVideos": [],
-      "mediaStatus": "pending",
+      "mediaStatus": "verified",
       "namingNote": {
         "en": "Provisional reading of the Chinese identifier; an official global name has not been verified.",
         "ko": "공식 한국어 명칭 미확인으로 중국 원명을 표기합니다."
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "mediaServer": "CN"
     },
     {
       "id": "wiki-fei-yu",
@@ -42945,14 +44071,42 @@
         "releaseDate": null,
         "officialName": null
       },
-      "images": [],
+      "images": [
+        {
+          "url": "https://huiji-public.huijistatic.com/yy16s/uploads/3/33/%E9%A3%9E%E7%BE%BD.png",
+          "width": 1024,
+          "height": 513,
+          "bytes": 307654,
+          "kind": "community_game_client_render",
+          "visuallyInspected": true,
+          "description": "Complete weapon render (with paired blade or scabbard where present), transparent background.",
+          "contributor": "Fr0z",
+          "sourceKind": "community",
+          "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E9%A3%9E%E7%BE%BD",
+          "filePage": "https://yy16s.huijiwiki.com/wiki/%E6%96%87%E4%BB%B6%3A%E9%A3%9E%E7%BE%BD.png",
+          "sourceId": "huiji-fei-yu",
+          "attribution": "NetEase / Where Winds Meet; game asset file uploaded by Fr0z to 燕云十六声中文维基",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wiki-fei-yu-0-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Fei Yu · appearance reference from Huiji Wiki",
+            "ko": "飞羽 · 회기 위키 외관 참고 이미지"
+          },
+          "caption": {
+            "en": "Huiji Wiki reference. Full original retained; image availability does not verify regional release.",
+            "ko": "회기 위키 참고 이미지입니다. 전체 원본을 보존하며 사진 확보가 서버별 출시 확인을 뜻하지 않습니다."
+          }
+        }
+      ],
       "officialVideos": [],
-      "mediaStatus": "pending",
+      "mediaStatus": "verified",
       "namingNote": {
         "en": "Provisional reading of the Chinese identifier; an official global name has not been verified.",
         "ko": "공식 한국어 명칭 미확인으로 중국 원명을 표기합니다."
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "mediaServer": "CN"
     },
     {
       "id": "wiki-fei-hong",
@@ -42993,14 +44147,42 @@
         "releaseDate": null,
         "officialName": null
       },
-      "images": [],
+      "images": [
+        {
+          "url": "https://huiji-public.huijistatic.com/yy16s/uploads/a/a2/%E9%A3%9E%E8%99%B9.png",
+          "width": 1024,
+          "height": 513,
+          "bytes": 270149,
+          "kind": "community_game_client_render",
+          "visuallyInspected": true,
+          "description": "Complete weapon render (with paired blade or scabbard where present), transparent background.",
+          "contributor": "Fr0z",
+          "sourceKind": "community",
+          "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E9%A3%9E%E8%99%B9",
+          "filePage": "https://yy16s.huijiwiki.com/wiki/%E6%96%87%E4%BB%B6%3A%E9%A3%9E%E8%99%B9.png",
+          "sourceId": "huiji-fei-hong",
+          "attribution": "NetEase / Where Winds Meet; game asset file uploaded by Fr0z to 燕云十六声中文维基",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wiki-fei-hong-0-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Fei Hong · appearance reference from Huiji Wiki",
+            "ko": "飞虹 · 회기 위키 외관 참고 이미지"
+          },
+          "caption": {
+            "en": "Huiji Wiki reference. Full original retained; image availability does not verify regional release.",
+            "ko": "회기 위키 참고 이미지입니다. 전체 원본을 보존하며 사진 확보가 서버별 출시 확인을 뜻하지 않습니다."
+          }
+        }
+      ],
       "officialVideos": [],
-      "mediaStatus": "pending",
+      "mediaStatus": "verified",
       "namingNote": {
         "en": "Provisional reading of the Chinese identifier; an official global name has not been verified.",
         "ko": "공식 한국어 명칭 미확인으로 중국 원명을 표기합니다."
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "mediaServer": "CN"
     },
     {
       "id": "wiki-fei-xia",
@@ -43041,14 +44223,42 @@
         "releaseDate": null,
         "officialName": null
       },
-      "images": [],
+      "images": [
+        {
+          "url": "https://huiji-public.huijistatic.com/yy16s/uploads/0/0b/%E9%A3%9E%E9%9C%9E.png",
+          "width": 1024,
+          "height": 513,
+          "bytes": 299085,
+          "kind": "community_game_client_render",
+          "visuallyInspected": true,
+          "description": "Complete weapon render (with paired blade or scabbard where present), transparent background.",
+          "contributor": "Fr0z",
+          "sourceKind": "community",
+          "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E9%A3%9E%E9%9C%9E",
+          "filePage": "https://yy16s.huijiwiki.com/wiki/%E6%96%87%E4%BB%B6%3A%E9%A3%9E%E9%9C%9E.png",
+          "sourceId": "huiji-fei-xia",
+          "attribution": "NetEase / Where Winds Meet; game asset file uploaded by Fr0z to 燕云十六声中文维基",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wiki-fei-xia-0-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Fei Xia · appearance reference from Huiji Wiki",
+            "ko": "飞霞 · 회기 위키 외관 참고 이미지"
+          },
+          "caption": {
+            "en": "Huiji Wiki reference. Full original retained; image availability does not verify regional release.",
+            "ko": "회기 위키 참고 이미지입니다. 전체 원본을 보존하며 사진 확보가 서버별 출시 확인을 뜻하지 않습니다."
+          }
+        }
+      ],
       "officialVideos": [],
-      "mediaStatus": "pending",
+      "mediaStatus": "verified",
       "namingNote": {
         "en": "Provisional reading of the Chinese identifier; an official global name has not been verified.",
         "ko": "공식 한국어 명칭 미확인으로 중국 원명을 표기합니다."
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "mediaServer": "CN"
     },
     {
       "id": "wiki-yue-zhong-shi",
@@ -43089,14 +44299,42 @@
         "releaseDate": null,
         "officialName": null
       },
-      "images": [],
+      "images": [
+        {
+          "url": "https://huiji-public.huijistatic.com/yy16s/uploads/c/c5/%E6%9C%88%E4%B8%AD%E8%AF%97.png",
+          "width": 1024,
+          "height": 513,
+          "bytes": 190605,
+          "kind": "community_game_client_render",
+          "visuallyInspected": true,
+          "description": "Complete weapon render (with paired blade or scabbard where present), transparent background.",
+          "contributor": "Fr0z",
+          "sourceKind": "community",
+          "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E6%9C%88%E4%B8%AD%E8%AF%97",
+          "filePage": "https://yy16s.huijiwiki.com/wiki/%E6%96%87%E4%BB%B6%3A%E6%9C%88%E4%B8%AD%E8%AF%97.png",
+          "sourceId": "huiji-yue-zhong-shi",
+          "attribution": "NetEase / Where Winds Meet; game asset file uploaded by Fr0z to 燕云十六声中文维基",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wiki-yue-zhong-shi-0-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Yue Zhong Shi · appearance reference from Huiji Wiki",
+            "ko": "月中诗 · 회기 위키 외관 참고 이미지"
+          },
+          "caption": {
+            "en": "Huiji Wiki reference. Full original retained; image availability does not verify regional release.",
+            "ko": "회기 위키 참고 이미지입니다. 전체 원본을 보존하며 사진 확보가 서버별 출시 확인을 뜻하지 않습니다."
+          }
+        }
+      ],
       "officialVideos": [],
-      "mediaStatus": "pending",
+      "mediaStatus": "verified",
       "namingNote": {
         "en": "Provisional reading of the Chinese identifier; an official global name has not been verified.",
         "ko": "공식 한국어 명칭 미확인으로 중국 원명을 표기합니다."
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "mediaServer": "CN"
     },
     {
       "id": "wiki-mugun",
@@ -43137,14 +44375,42 @@
         "releaseDate": null,
         "officialName": null
       },
-      "images": [],
+      "images": [
+        {
+          "url": "https://huiji-public.huijistatic.com/yy16s/uploads/2/2f/%E6%9C%A8%E6%A3%8D.png",
+          "width": 1024,
+          "height": 513,
+          "bytes": 156534,
+          "kind": "community_game_client_render",
+          "visuallyInspected": true,
+          "description": "Complete weapon render (with paired blade or scabbard where present), transparent background.",
+          "contributor": "Fr0z",
+          "sourceKind": "community",
+          "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E6%9C%A8%E6%A3%8D",
+          "filePage": "https://yy16s.huijiwiki.com/wiki/%E6%96%87%E4%BB%B6%3A%E6%9C%A8%E6%A3%8D.png",
+          "sourceId": "huiji-mugun",
+          "attribution": "NetEase / Where Winds Meet; game asset file uploaded by Fr0z to 燕云十六声中文维基",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wiki-mugun-0-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Mugun · appearance reference from Huiji Wiki",
+            "ko": "木棍 · 회기 위키 외관 참고 이미지"
+          },
+          "caption": {
+            "en": "Huiji Wiki reference. Full original retained; image availability does not verify regional release.",
+            "ko": "회기 위키 참고 이미지입니다. 전체 원본을 보존하며 사진 확보가 서버별 출시 확인을 뜻하지 않습니다."
+          }
+        }
+      ],
       "officialVideos": [],
-      "mediaStatus": "pending",
+      "mediaStatus": "verified",
       "namingNote": {
         "en": "Provisional reading of the Chinese identifier; an official global name has not been verified.",
         "ko": "공식 한국어 명칭 미확인으로 중국 원명을 표기합니다."
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "mediaServer": "CN"
     },
     {
       "id": "wiki-youren-you-yu",
@@ -43185,14 +44451,42 @@
         "releaseDate": null,
         "officialName": null
       },
-      "images": [],
+      "images": [
+        {
+          "url": "https://huiji-public.huijistatic.com/yy16s/uploads/e/e2/%E6%B2%B9%E5%88%83%E6%9C%89%E4%BD%99.png",
+          "width": 1024,
+          "height": 465,
+          "bytes": 313988,
+          "kind": "community_game_client_render",
+          "visuallyInspected": true,
+          "description": "Complete weapon render (with paired blade or scabbard where present), transparent background.",
+          "contributor": "Fr0z",
+          "sourceKind": "community",
+          "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E6%B2%B9%E5%88%83%E6%9C%89%E4%BD%99",
+          "filePage": "https://yy16s.huijiwiki.com/wiki/%E6%96%87%E4%BB%B6%3A%E6%B2%B9%E5%88%83%E6%9C%89%E4%BD%99.png",
+          "sourceId": "huiji-youren-you-yu",
+          "attribution": "NetEase / Where Winds Meet; game asset file uploaded by Fr0z to 燕云十六声中文维基",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wiki-youren-you-yu-0-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Youren You Yu · appearance reference from Huiji Wiki",
+            "ko": "油刃有余 · 회기 위키 외관 참고 이미지"
+          },
+          "caption": {
+            "en": "Huiji Wiki reference. Full original retained; image availability does not verify regional release.",
+            "ko": "회기 위키 참고 이미지입니다. 전체 원본을 보존하며 사진 확보가 서버별 출시 확인을 뜻하지 않습니다."
+          }
+        }
+      ],
       "officialVideos": [],
-      "mediaStatus": "pending",
+      "mediaStatus": "verified",
       "namingNote": {
         "en": "Provisional reading of the Chinese identifier; an official global name has not been verified.",
         "ko": "공식 한국어 명칭 미확인으로 중국 원명을 표기합니다."
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "mediaServer": "CN"
     },
     {
       "id": "wiki-zongbu-zong",
@@ -43233,14 +44527,42 @@
         "releaseDate": null,
         "officialName": null
       },
-      "images": [],
+      "images": [
+        {
+          "url": "https://huiji-public.huijistatic.com/yy16s/uploads/1/18/%E7%B2%BD%E4%B8%8D%E7%B2%BD.png",
+          "width": 1024,
+          "height": 513,
+          "bytes": 293966,
+          "kind": "community_game_client_render",
+          "visuallyInspected": true,
+          "description": "Complete weapon render (with paired blade or scabbard where present), transparent background.",
+          "contributor": "Fr0z",
+          "sourceKind": "community",
+          "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E7%B2%BD%E4%B8%8D%E7%B2%BD",
+          "filePage": "https://yy16s.huijiwiki.com/wiki/%E6%96%87%E4%BB%B6%3A%E7%B2%BD%E4%B8%8D%E7%B2%BD.png",
+          "sourceId": "huiji-zongbu-zong",
+          "attribution": "NetEase / Where Winds Meet; game asset file uploaded by Fr0z to 燕云十六声中文维基",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wiki-zongbu-zong-0-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Zongbu Zong · appearance reference from Huiji Wiki",
+            "ko": "粽不粽 · 회기 위키 외관 참고 이미지"
+          },
+          "caption": {
+            "en": "Huiji Wiki reference. Full original retained; image availability does not verify regional release.",
+            "ko": "회기 위키 참고 이미지입니다. 전체 원본을 보존하며 사진 확보가 서버별 출시 확인을 뜻하지 않습니다."
+          }
+        }
+      ],
       "officialVideos": [],
-      "mediaStatus": "pending",
+      "mediaStatus": "verified",
       "namingNote": {
         "en": "Provisional reading of the Chinese identifier; an official global name has not been verified.",
         "ko": "공식 한국어 명칭 미확인으로 중국 원명을 표기합니다."
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "mediaServer": "CN"
     },
     {
       "id": "wiki-cong-cong-na-nian",
@@ -43281,14 +44603,42 @@
         "releaseDate": null,
         "officialName": null
       },
-      "images": [],
+      "images": [
+        {
+          "url": "https://huiji-public.huijistatic.com/yy16s/uploads/1/17/%E8%91%B1%E8%91%B1%E9%82%A3%E5%B9%B4.png",
+          "width": 1024,
+          "height": 513,
+          "bytes": 176277,
+          "kind": "community_game_client_render",
+          "visuallyInspected": true,
+          "description": "Complete weapon render (with paired blade or scabbard where present), transparent background.",
+          "contributor": "Fr0z",
+          "sourceKind": "community",
+          "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E8%91%B1%E8%91%B1%E9%82%A3%E5%B9%B4",
+          "filePage": "https://yy16s.huijiwiki.com/wiki/%E6%96%87%E4%BB%B6%3A%E8%91%B1%E8%91%B1%E9%82%A3%E5%B9%B4.png",
+          "sourceId": "huiji-cong-cong-na-nian",
+          "attribution": "NetEase / Where Winds Meet; game asset file uploaded by Fr0z to 燕云十六声中文维基",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wiki-cong-cong-na-nian-0-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Cong Cong Na Nian · appearance reference from Huiji Wiki",
+            "ko": "葱葱那年 · 회기 위키 외관 참고 이미지"
+          },
+          "caption": {
+            "en": "Huiji Wiki reference. Full original retained; image availability does not verify regional release.",
+            "ko": "회기 위키 참고 이미지입니다. 전체 원본을 보존하며 사진 확보가 서버별 출시 확인을 뜻하지 않습니다."
+          }
+        }
+      ],
       "officialVideos": [],
-      "mediaStatus": "pending",
+      "mediaStatus": "verified",
       "namingNote": {
         "en": "Provisional reading of the Chinese identifier; an official global name has not been verified.",
         "ko": "공식 한국어 명칭 미확인으로 중국 원명을 표기합니다."
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "mediaServer": "CN"
     },
     {
       "id": "wiki-sa-mo-ye",
@@ -43329,14 +44679,42 @@
         "releaseDate": null,
         "officialName": null
       },
-      "images": [],
+      "images": [
+        {
+          "url": "https://huiji-public.huijistatic.com/yy16s/uploads/c/c9/%E9%A3%92%E9%99%8C%E8%80%B6.png",
+          "width": 1024,
+          "height": 513,
+          "bytes": 262213,
+          "kind": "community_game_client_render",
+          "visuallyInspected": true,
+          "description": "Complete weapon render (with paired blade or scabbard where present), transparent background.",
+          "contributor": "Fr0z",
+          "sourceKind": "community",
+          "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E9%A3%92%E9%99%8C%E8%80%B6",
+          "filePage": "https://yy16s.huijiwiki.com/wiki/%E6%96%87%E4%BB%B6%3A%E9%A3%92%E9%99%8C%E8%80%B6.png",
+          "sourceId": "huiji-sa-mo-ye",
+          "attribution": "NetEase / Where Winds Meet; game asset file uploaded by Fr0z to 燕云十六声中文维基",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wiki-sa-mo-ye-0-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Sa Mo Ye · appearance reference from Huiji Wiki",
+            "ko": "飒陌耶 · 회기 위키 외관 참고 이미지"
+          },
+          "caption": {
+            "en": "Huiji Wiki reference. Full original retained; image availability does not verify regional release.",
+            "ko": "회기 위키 참고 이미지입니다. 전체 원본을 보존하며 사진 확보가 서버별 출시 확인을 뜻하지 않습니다."
+          }
+        }
+      ],
       "officialVideos": [],
-      "mediaStatus": "pending",
+      "mediaStatus": "verified",
       "namingNote": {
         "en": "Provisional reading of the Chinese identifier; an official global name has not been verified.",
         "ko": "공식 한국어 명칭 미확인으로 중국 원명을 표기합니다."
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "mediaServer": "CN"
     },
     {
       "id": "wiki-shuang-fenghan",
@@ -43377,14 +44755,42 @@
         "releaseDate": null,
         "officialName": null
       },
-      "images": [],
+      "images": [
+        {
+          "url": "https://huiji-public.huijistatic.com/yy16s/uploads/3/3e/%E9%9C%9C%E6%9E%AB%E5%AF%92.png",
+          "width": 1024,
+          "height": 513,
+          "bytes": 200119,
+          "kind": "community_game_client_render",
+          "visuallyInspected": true,
+          "description": "Complete weapon render (with paired blade or scabbard where present), transparent background.",
+          "contributor": "Fr0z",
+          "sourceKind": "community",
+          "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E9%9C%9C%E6%9E%AB%E5%AF%92",
+          "filePage": "https://yy16s.huijiwiki.com/wiki/%E6%96%87%E4%BB%B6%3A%E9%9C%9C%E6%9E%AB%E5%AF%92.png",
+          "sourceId": "huiji-shuang-fenghan",
+          "attribution": "NetEase / Where Winds Meet; game asset file uploaded by Fr0z to 燕云十六声中文维基",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wiki-shuang-fenghan-0-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Shuang Fenghan · appearance reference from Huiji Wiki",
+            "ko": "霜枫寒 · 회기 위키 외관 참고 이미지"
+          },
+          "caption": {
+            "en": "Huiji Wiki reference. Full original retained; image availability does not verify regional release.",
+            "ko": "회기 위키 참고 이미지입니다. 전체 원본을 보존하며 사진 확보가 서버별 출시 확인을 뜻하지 않습니다."
+          }
+        }
+      ],
       "officialVideos": [],
-      "mediaStatus": "pending",
+      "mediaStatus": "verified",
       "namingNote": {
         "en": "Provisional reading of the Chinese identifier; an official global name has not been verified.",
         "ko": "공식 한국어 명칭 미확인으로 중국 원명을 표기합니다."
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "mediaServer": "CN"
     },
     {
       "id": "wiki-shuang-fengjin",
@@ -43425,14 +44831,42 @@
         "releaseDate": null,
         "officialName": null
       },
-      "images": [],
+      "images": [
+        {
+          "url": "https://huiji-public.huijistatic.com/yy16s/uploads/e/ea/%E9%9C%9C%E6%9E%AB%E5%B0%BD.png",
+          "width": 1024,
+          "height": 513,
+          "bytes": 218300,
+          "kind": "community_game_client_render",
+          "visuallyInspected": true,
+          "description": "Complete weapon render (with paired blade or scabbard where present), transparent background.",
+          "contributor": "Fr0z",
+          "sourceKind": "community",
+          "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E9%9C%9C%E6%9E%AB%E5%B0%BD",
+          "filePage": "https://yy16s.huijiwiki.com/wiki/%E6%96%87%E4%BB%B6%3A%E9%9C%9C%E6%9E%AB%E5%B0%BD.png",
+          "sourceId": "huiji-shuang-fengjin",
+          "attribution": "NetEase / Where Winds Meet; game asset file uploaded by Fr0z to 燕云十六声中文维基",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wiki-shuang-fengjin-0-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Shuang Fengjin · appearance reference from Huiji Wiki",
+            "ko": "霜枫尽 · 회기 위키 외관 참고 이미지"
+          },
+          "caption": {
+            "en": "Huiji Wiki reference. Full original retained; image availability does not verify regional release.",
+            "ko": "회기 위키 참고 이미지입니다. 전체 원본을 보존하며 사진 확보가 서버별 출시 확인을 뜻하지 않습니다."
+          }
+        }
+      ],
       "officialVideos": [],
-      "mediaStatus": "pending",
+      "mediaStatus": "verified",
       "namingNote": {
         "en": "Provisional reading of the Chinese identifier; an official global name has not been verified.",
         "ko": "공식 한국어 명칭 미확인으로 중국 원명을 표기합니다."
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "mediaServer": "CN"
     },
     {
       "id": "wiki-shuang-fengchou",
@@ -43473,14 +44907,42 @@
         "releaseDate": null,
         "officialName": null
       },
-      "images": [],
+      "images": [
+        {
+          "url": "https://huiji-public.huijistatic.com/yy16s/uploads/2/20/%E9%9C%9C%E6%9E%AB%E6%84%81.png",
+          "width": 1024,
+          "height": 513,
+          "bytes": 226131,
+          "kind": "community_game_client_render",
+          "visuallyInspected": true,
+          "description": "Complete weapon render (with paired blade or scabbard where present), transparent background.",
+          "contributor": "Fr0z",
+          "sourceKind": "community",
+          "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E9%9C%9C%E6%9E%AB%E6%84%81",
+          "filePage": "https://yy16s.huijiwiki.com/wiki/%E6%96%87%E4%BB%B6%3A%E9%9C%9C%E6%9E%AB%E6%84%81.png",
+          "sourceId": "huiji-shuang-fengchou",
+          "attribution": "NetEase / Where Winds Meet; game asset file uploaded by Fr0z to 燕云十六声中文维基",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wiki-shuang-fengchou-0-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Shuang Fengchou · appearance reference from Huiji Wiki",
+            "ko": "霜枫愁 · 회기 위키 외관 참고 이미지"
+          },
+          "caption": {
+            "en": "Huiji Wiki reference. Full original retained; image availability does not verify regional release.",
+            "ko": "회기 위키 참고 이미지입니다. 전체 원본을 보존하며 사진 확보가 서버별 출시 확인을 뜻하지 않습니다."
+          }
+        }
+      ],
       "officialVideos": [],
-      "mediaStatus": "pending",
+      "mediaStatus": "verified",
       "namingNote": {
         "en": "Provisional reading of the Chinese identifier; an official global name has not been verified.",
         "ko": "공식 한국어 명칭 미확인으로 중국 원명을 표기합니다."
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "mediaServer": "CN"
     },
     {
       "id": "wiki-shuang-fengheng",
@@ -43521,14 +44983,42 @@
         "releaseDate": null,
         "officialName": null
       },
-      "images": [],
+      "images": [
+        {
+          "url": "https://huiji-public.huijistatic.com/yy16s/uploads/2/22/%E9%9C%9C%E6%9E%AB%E6%A8%AA.png",
+          "width": 1024,
+          "height": 513,
+          "bytes": 211267,
+          "kind": "community_game_client_render",
+          "visuallyInspected": true,
+          "description": "Complete weapon render (with paired blade or scabbard where present), transparent background.",
+          "contributor": "Fr0z",
+          "sourceKind": "community",
+          "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E9%9C%9C%E6%9E%AB%E6%A8%AA",
+          "filePage": "https://yy16s.huijiwiki.com/wiki/%E6%96%87%E4%BB%B6%3A%E9%9C%9C%E6%9E%AB%E6%A8%AA.png",
+          "sourceId": "huiji-shuang-fengheng",
+          "attribution": "NetEase / Where Winds Meet; game asset file uploaded by Fr0z to 燕云十六声中文维基",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wiki-shuang-fengheng-0-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Shuang Fengheng · appearance reference from Huiji Wiki",
+            "ko": "霜枫横 · 회기 위키 외관 참고 이미지"
+          },
+          "caption": {
+            "en": "Huiji Wiki reference. Full original retained; image availability does not verify regional release.",
+            "ko": "회기 위키 참고 이미지입니다. 전체 원본을 보존하며 사진 확보가 서버별 출시 확인을 뜻하지 않습니다."
+          }
+        }
+      ],
       "officialVideos": [],
-      "mediaStatus": "pending",
+      "mediaStatus": "verified",
       "namingNote": {
         "en": "Provisional reading of the Chinese identifier; an official global name has not been verified.",
         "ko": "공식 한국어 명칭 미확인으로 중국 원명을 표기합니다."
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "mediaServer": "CN"
     },
     {
       "id": "wiki-shuang-fengmian",
@@ -43569,14 +45059,42 @@
         "releaseDate": null,
         "officialName": null
       },
-      "images": [],
+      "images": [
+        {
+          "url": "https://huiji-public.huijistatic.com/yy16s/uploads/e/eb/%E9%9C%9C%E6%9E%AB%E7%9C%A0.png",
+          "width": 1024,
+          "height": 513,
+          "bytes": 306967,
+          "kind": "community_game_client_render",
+          "visuallyInspected": true,
+          "description": "Complete weapon render (with paired blade or scabbard where present), transparent background.",
+          "contributor": "Fr0z",
+          "sourceKind": "community",
+          "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E9%9C%9C%E6%9E%AB%E7%9C%A0",
+          "filePage": "https://yy16s.huijiwiki.com/wiki/%E6%96%87%E4%BB%B6%3A%E9%9C%9C%E6%9E%AB%E7%9C%A0.png",
+          "sourceId": "huiji-shuang-fengmian",
+          "attribution": "NetEase / Where Winds Meet; game asset file uploaded by Fr0z to 燕云十六声中文维基",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wiki-shuang-fengmian-0-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Shuang Fengmian · appearance reference from Huiji Wiki",
+            "ko": "霜枫眠 · 회기 위키 외관 참고 이미지"
+          },
+          "caption": {
+            "en": "Huiji Wiki reference. Full original retained; image availability does not verify regional release.",
+            "ko": "회기 위키 참고 이미지입니다. 전체 원본을 보존하며 사진 확보가 서버별 출시 확인을 뜻하지 않습니다."
+          }
+        }
+      ],
       "officialVideos": [],
-      "mediaStatus": "pending",
+      "mediaStatus": "verified",
       "namingNote": {
         "en": "Provisional reading of the Chinese identifier; an official global name has not been verified.",
         "ko": "공식 한국어 명칭 미확인으로 중국 원명을 표기합니다."
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "mediaServer": "CN"
     },
     {
       "id": "wiki-shuang-fengwu",
@@ -43617,14 +45135,42 @@
         "releaseDate": null,
         "officialName": null
       },
-      "images": [],
+      "images": [
+        {
+          "url": "https://huiji-public.huijistatic.com/yy16s/uploads/4/47/%E9%9C%9C%E6%9E%AB%E8%88%9E.png",
+          "width": 1024,
+          "height": 513,
+          "bytes": 240929,
+          "kind": "community_game_client_render",
+          "visuallyInspected": true,
+          "description": "Complete weapon render (with paired blade or scabbard where present), transparent background.",
+          "contributor": "Fr0z",
+          "sourceKind": "community",
+          "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E9%9C%9C%E6%9E%AB%E8%88%9E",
+          "filePage": "https://yy16s.huijiwiki.com/wiki/%E6%96%87%E4%BB%B6%3A%E9%9C%9C%E6%9E%AB%E8%88%9E.png",
+          "sourceId": "huiji-shuang-fengwu",
+          "attribution": "NetEase / Where Winds Meet; game asset file uploaded by Fr0z to 燕云十六声中文维基",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wiki-shuang-fengwu-0-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Shuang Fengwu · appearance reference from Huiji Wiki",
+            "ko": "霜枫舞 · 회기 위키 외관 참고 이미지"
+          },
+          "caption": {
+            "en": "Huiji Wiki reference. Full original retained; image availability does not verify regional release.",
+            "ko": "회기 위키 참고 이미지입니다. 전체 원본을 보존하며 사진 확보가 서버별 출시 확인을 뜻하지 않습니다."
+          }
+        }
+      ],
       "officialVideos": [],
-      "mediaStatus": "pending",
+      "mediaStatus": "verified",
       "namingNote": {
         "en": "Provisional reading of the Chinese identifier; an official global name has not been verified.",
         "ko": "공식 한국어 명칭 미확인으로 중국 원명을 표기합니다."
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "mediaServer": "CN"
     },
     {
       "id": "wiki-shuang-fengjue",
@@ -43665,14 +45211,42 @@
         "releaseDate": null,
         "officialName": null
       },
-      "images": [],
+      "images": [
+        {
+          "url": "https://huiji-public.huijistatic.com/yy16s/uploads/4/48/%E9%9C%9C%E6%9E%AB%E8%AF%80.png",
+          "width": 1024,
+          "height": 513,
+          "bytes": 222843,
+          "kind": "community_game_client_render",
+          "visuallyInspected": true,
+          "description": "Complete weapon render (with paired blade or scabbard where present), transparent background.",
+          "contributor": "Fr0z",
+          "sourceKind": "community",
+          "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E9%9C%9C%E6%9E%AB%E8%AF%80",
+          "filePage": "https://yy16s.huijiwiki.com/wiki/%E6%96%87%E4%BB%B6%3A%E9%9C%9C%E6%9E%AB%E8%AF%80.png",
+          "sourceId": "huiji-shuang-fengjue",
+          "attribution": "NetEase / Where Winds Meet; game asset file uploaded by Fr0z to 燕云十六声中文维基",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wiki-shuang-fengjue-0-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Shuang Fengjue · appearance reference from Huiji Wiki",
+            "ko": "霜枫诀 · 회기 위키 외관 참고 이미지"
+          },
+          "caption": {
+            "en": "Huiji Wiki reference. Full original retained; image availability does not verify regional release.",
+            "ko": "회기 위키 참고 이미지입니다. 전체 원본을 보존하며 사진 확보가 서버별 출시 확인을 뜻하지 않습니다."
+          }
+        }
+      ],
       "officialVideos": [],
-      "mediaStatus": "pending",
+      "mediaStatus": "verified",
       "namingNote": {
         "en": "Provisional reading of the Chinese identifier; an official global name has not been verified.",
         "ko": "공식 한국어 명칭 미확인으로 중국 원명을 표기합니다."
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "mediaServer": "CN"
     },
     {
       "id": "wiki-yi-lei-jing-zhe",
@@ -44241,14 +45815,42 @@
         "releaseDate": null,
         "officialName": null
       },
-      "images": [],
+      "images": [
+        {
+          "url": "https://huiji-public.huijistatic.com/yy16s/uploads/4/4a/%E5%90%8A%E7%9D%9B%E7%99%BD%E9%A2%9D%E5%A4%A7%E9%B9%85.png",
+          "width": 260,
+          "height": 260,
+          "bytes": 48154,
+          "kind": "community_game_client_render",
+          "visuallyInspected": true,
+          "description": "Full goose body visible in the original transparent render; small source resolution, preserve native limits.",
+          "contributor": "Fr0z",
+          "sourceKind": "community",
+          "sourceUrl": "https://yy16s.huijiwiki.com/wiki/%E5%90%8A%E7%9D%9B%E7%99%BD%E9%A2%9D%E5%A4%A7%E9%B9%85",
+          "filePage": "https://yy16s.huijiwiki.com/wiki/%E6%96%87%E4%BB%B6%3A%E5%90%8A%E7%9D%9B%E7%99%BD%E9%A2%9D%E5%A4%A7%E9%B9%85.png",
+          "sourceId": "huiji-diao-jing-baie-da-e",
+          "attribution": "NetEase / Where Winds Meet; game asset file uploaded by Fr0z to 燕云十六声中文维基",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wiki-diao-jing-baie-da-e-0-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Diao Jing Baie Da E · appearance reference from Huiji Wiki",
+            "ko": "吊睛白额大鹅 · 회기 위키 외관 참고 이미지"
+          },
+          "caption": {
+            "en": "Huiji Wiki reference · native source 260×260; fine details are limited. Full original retained.",
+            "ko": "회기 위키 참고 이미지 · 원본 260×260으로 세부 표현에 한계가 있습니다. 전체 원본을 보존합니다."
+          }
+        }
+      ],
       "officialVideos": [],
-      "mediaStatus": "pending",
+      "mediaStatus": "verified",
       "namingNote": {
         "en": "Provisional reading of the Chinese identifier; an official global name has not been verified.",
         "ko": "공식 한국어 명칭 미확인으로 중국 원명을 표기합니다."
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "mediaServer": "CN"
     },
     {
       "id": "wiki-ha-shiqi",
@@ -45597,6 +47199,42 @@
           "sourceFrame": 0,
           "inspectionNote": "Named official section and character/item artwork inspected September 26. Static frame 0 retained for GIF; full composition accessible in gallery. Not in-game verification.",
           "server": "CN"
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260925/b60ac0d4-af03-44e4-8528-32585fc793e8.jpg",
+          "width": 1920,
+          "height": 1080,
+          "bytes": 1340701,
+          "kind": "official_promotional_game_image",
+          "visuallyInspected": true,
+          "description": "Female three-quarter front upper-body view; black-and-white clothing, white shoulder fur, gold cicada ornaments, pearl chains, earrings and gold pipe visible. Lower skirt and feet are outside the frame. Single scene with edge title and logo, no multi-panel frame.",
+          "alt": {
+            "en": "Female upper-body view with white shoulder fur, gold cicada ornaments and pearl chains.",
+            "ko": "흰 어깨 털장식, 금색 매미 장식과 진주 사슬이 보이는 여성형 상반신."
+          },
+          "inspectionNote": "Official named section and individual female view inspected September 28 UTC; original composition retained. Not in-game verification.",
+          "sourceId": "cn-20260922-appearance",
+          "reusePermission": "unknown",
+          "localCopy": "/media/jin-zhao-yu-2-full.webp",
+          "server": "CN"
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260925/3fb9b73b-23af-4810-b1b1-aae34c554170.png",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 3691232,
+          "kind": "official_promotional_game_image",
+          "visuallyInspected": true,
+          "description": "Female rear detail from head to upper skirt; coiled hair, hair chains, embroidered black sleeve, white shoulder fur and trailing gold chains visible. Legs and hem are outside the frame. Single scene with edge title and logo.",
+          "alt": {
+            "en": "Female rear detail showing the coiled hairstyle, shoulder fur and trailing gold ornaments.",
+            "ko": "틀어 올린 머리, 어깨 털장식과 늘어진 금색 장식이 보이는 여성형 뒷모습."
+          },
+          "inspectionNote": "Official named section and individual female view inspected September 28 UTC; original composition retained. Not in-game verification.",
+          "sourceId": "cn-20260922-appearance",
+          "reusePermission": "unknown",
+          "localCopy": "/media/jin-zhao-yu-3-full.webp",
+          "server": "CN"
         }
       ],
       "officialVideos": [],
@@ -45798,6 +47436,24 @@
           "visuallyInspected": true,
           "sourceFrame": 0,
           "inspectionNote": "Named official section and character/item artwork inspected September 26. Static frame 0 retained for GIF; full composition accessible in gallery. Not in-game verification.",
+          "server": "CN"
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260925/365203f7-1c4a-45ae-862a-0d9f48bf28dc.jpg",
+          "width": 1920,
+          "height": 1080,
+          "bytes": 1623829,
+          "kind": "official_promotional_game_image",
+          "visuallyInspected": true,
+          "description": "Female three-quarter front upper-body view; white leaf-shaped hat and cape, autumn maple shoulder ornaments, red ties and patterned bodice. Waist visible; lower garment and feet outside the frame. Single scene with edge title and logo.",
+          "alt": {
+            "en": "Female upper-body view with a leaf-shaped hat, maple shoulder ornaments and red ties.",
+            "ko": "잎 모양 삿갓, 단풍 어깨 장식과 붉은 끈이 보이는 여성형 상반신."
+          },
+          "inspectionNote": "Official named section and individual female view inspected September 28 UTC; original composition retained. Not in-game verification.",
+          "sourceId": "cn-20260922-appearance",
+          "reusePermission": "unknown",
+          "localCopy": "/media/hong-ye-xiao-xiao-2-full.webp",
           "server": "CN"
         }
       ],
@@ -46001,6 +47657,42 @@
           "sourceFrame": 0,
           "inspectionNote": "Named official section and character/item artwork inspected September 26. Static frame 0 retained for GIF; full composition accessible in gallery. Not in-game verification.",
           "server": "CN"
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260925/1681b88c-ad34-420b-8b6e-7432f4699544.jpg",
+          "width": 1920,
+          "height": 1080,
+          "bytes": 1253570,
+          "kind": "official_promotional_game_image",
+          "visuallyInspected": true,
+          "description": "Female three-quarter front upper-body view; paired loop hair buns, white fur accents, pink and white sleeves, golden osmanthus shoulder decoration and moon effect visible. Lower garment outside frame. Single scene with edge title and logo.",
+          "alt": {
+            "en": "Female upper-body view with paired loop hair buns, pink sleeves and gold osmanthus ornaments.",
+            "ko": "고리 모양 쌍쪽머리, 분홍 소매와 금색 계화 장식이 보이는 여성형 상반신."
+          },
+          "inspectionNote": "Official named section and individual female view inspected September 28 UTC; original composition retained. Not in-game verification.",
+          "sourceId": "cn-20260923-appearance",
+          "reusePermission": "unknown",
+          "localCopy": "/media/yu-gui-shan-shan-2-full.webp",
+          "server": "CN"
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260925/966b3eed-8723-40bc-b448-a8b45c27826a.jpg",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 1608264,
+          "kind": "official_promotional_game_image",
+          "visuallyInspected": true,
+          "description": "Female rear view from head down most of skirt; matching rabbit-ear-like loop buns, long black hair and gold ribbons, open shoulder cutouts, pink-white embroidered draping and gold bow visible. Feet and complete hem outside frame. Single scene with edge title and logo.",
+          "alt": {
+            "en": "Female rear view showing long gold hair ribbons, pink embroidered draping and the gold waist bow.",
+            "ko": "금색 머리 리본, 분홍색 자수 옷자락과 금색 허리 리본이 보이는 여성형 뒷모습."
+          },
+          "inspectionNote": "Official named section and individual female view inspected September 28 UTC; original composition retained. Not in-game verification.",
+          "sourceId": "cn-20260923-appearance",
+          "reusePermission": "unknown",
+          "localCopy": "/media/yu-gui-shan-shan-3-full.webp",
+          "server": "CN"
         }
       ],
       "officialVideos": [],
@@ -46153,6 +47845,24 @@
           "visuallyInspected": true,
           "sourceFrame": 0,
           "inspectionNote": "Named official section and character/item artwork inspected September 26. Static frame 0 retained for GIF; full composition accessible in gallery. Not in-game verification.",
+          "server": "CN"
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260925/055e11b8-29bc-4ce3-bf3a-af3b3004ed93.png",
+          "width": 1920,
+          "height": 1080,
+          "bytes": 3330481,
+          "kind": "official_promotional_game_image",
+          "visuallyInspected": true,
+          "description": "Female three-quarter front upper-body view playing a flute; pink-white flower embroidered sleeves, butterfly hair ornaments and chest detail clearly visible. Lower skirt and feet outside frame. Single scene with edge title and logo.",
+          "alt": {
+            "en": "Female upper-body view playing a flute, with butterfly hair ornaments and flower-embroidered sleeves.",
+            "ko": "나비 머리 장식과 꽃 자수 소매를 갖추고 피리를 부는 여성형 상반신."
+          },
+          "inspectionNote": "Official named section and individual female view inspected September 28 UTC; original composition retained. Not in-game verification.",
+          "sourceId": "cn-20260923-appearance",
+          "reusePermission": "unknown",
+          "localCopy": "/media/chuan-hua-jian-3-full.webp",
           "server": "CN"
         }
       ],
