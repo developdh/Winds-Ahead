@@ -284,5 +284,10 @@
       "2026-09-29-update-ui/ko-cloudgrace-390.png",
       "2026-09-29-update-ui/en-bloom-1440.png"
     ]
+  },
+  "publicationDecision": {
+    "ownerAuthorized": true,
+    "scope": "Owner requested release and deployment of the prepared update after being informed about unverified media reuse permission. This records publication authorization, not a third-party license.",
+    "pullRequest": "https://github.com/developdh/Winds-Ahead/pull/37"
   }
 }
