@@ -3425,6 +3425,23 @@
         "en": "Reward event announced for September 25–October 2; timezone unstated. The date records the event opening, not a verified claim or CN identity match.",
         "ko": "9월 25일~10월 2일 보상 이벤트 예고이며 시간대 미표기입니다. 날짜는 이벤트 시작일이며 실제 수령 확인·중국 항목 대응을 뜻하지 않습니다."
       }
+    },
+    {
+      "id": "release-global-yu-long-yan-wu",
+      "cosmeticId": "yu-long-yan-wu",
+      "date": "2026-10-04",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-x-20260928-dragoncarp",
+        "global-naver-20260928-dragoncarp-ko"
+      ],
+      "status": "announced",
+      "scope": {
+        "en": "Official Global schedule: October 4, 2026 at 05:00 UTC+8 (06:00 KST). The English post states UTC+8; the Korean Cafe gives 06:00 without a zone. Actual release remains unverified.",
+        "ko": "공식 글로벌 일정: 2026년 10월 4일 05:00(UTC+8), 한국시간 06:00. 영문 공지에 시간대가 명시돼 있으며 한국 공식 카페는 시간대 없이 06:00로 표기합니다. 실제 출시는 아직 미확인입니다."
+      }
     }
   ]
 }

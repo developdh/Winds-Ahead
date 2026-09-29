@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "verifiedAt": "2026-09-28",
+  "verifiedAt": "2026-09-29",
   "scope": "Cross-server archive from individually reviewed official announcements; not a certified complete game inventory.",
   "sources": [
     {
@@ -3613,6 +3613,46 @@
       "kind": "community",
       "verifiedAt": "2026-09-28",
       "verificationNote": "Read the Global appearance archive and visually inspected both linked screenshots. Title explicitly matches Moonhare Merriment; categories identify male/female accessory, center back and positioning. Item screenshot displays 30 style points. Community evidence does not establish a CN-server match or official release status."
+    },
+    {
+      "id": "global-x-20260928-dragoncarp",
+      "url": "https://x.com/WhereWindsMeet_/status/2104541645068755437",
+      "publisher": "Where Winds Meet / NetEase (official X)",
+      "server": "Global",
+      "titleOriginal": "Dragoncarp Blaze — October 4 Draw Shop announcement",
+      "displayedPublicationDate": "2026-09-28",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": "UTC",
+      "publishedAt": "2026-09-28T12:00:03Z",
+      "evidenceTier": "A",
+      "verifiedAt": "2026-09-29",
+      "verificationNote": "Read the official post and inspected its playing video in the browser. Explicitly identifies Mortal Rope Dart VFX Dragoncarp Blaze, October 4 at 05:00 UTC+8, Draw Shop. The unique introductory verse and goldfish flame effects match the CN named section for 鱼龙焰舞. Global cost and end date are unstated."
+    },
+    {
+      "id": "global-naver-20260928-dragoncarp-ko",
+      "url": "https://cafe.naver.com/wherewindsmeet/2273",
+      "publisher": "연운 / GM 연지 (official Korean Naver Cafe)",
+      "server": "Global",
+      "titleOriginal": "🔥 불꽃을 따라 피어나는 어룡의 기세! 「어룡의 불꽃」 무술 이펙트, 10월 4일 공명 상점 출시",
+      "displayedPublicationDate": "2026-09-28",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-09-29",
+      "verificationNote": "Read the GM notice body and inspected its video poster in the browser. It explicitly names 속세의 지혜, 어룡의 불꽃, October 4 06:00 and 공명 상점. Its timezone is unstated; the EN official post supplies 05:00 UTC+8, equivalent to 06:00 KST. Introductory verse and effect visuals match the CN record."
+    },
+    {
+      "id": "global-naver-20260927-cloudgrace-ko",
+      "url": "https://cafe.naver.com/wherewindsmeet/2269",
+      "publisher": "연운 / GM 연지 (official Korean Naver Cafe)",
+      "server": "Global",
+      "titleOriginal": "강호가 함께 경축! 출석하고 가을맞이 선물 받아가세요",
+      "displayedPublicationDate": "2026-09-27",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-09-29",
+      "verificationNote": "Read the GM notice in the browser. The accessory is explicitly named 서운 장식. Matched to Cloudgrace Earrings by the same September 25–October 10 event, ten login days and the two melody rewards in the official English post. Korean notice does not state a timezone; English specifies UTC. Individual accessory payout day remains unstated. The scenery poster is not an accessory reference photo."
     }
   ],
   "mediaRights": {
@@ -13602,8 +13642,8 @@
       "sourceId": "cn-434a951d3e36",
       "acquisitionServer": "CN",
       "mediaServer": "CN",
-      "officialNameEn": null,
-      "officialNameKo": null,
+      "officialNameEn": "Dragoncarp Blaze",
+      "officialNameKo": "어룡의 불꽃",
       "cnRelease": {
         "date": null,
         "precision": "unknown",
@@ -13654,7 +13694,11 @@
         "officialName": null,
         "releaseDate": null
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "namingNote": {
+        "en": "Official EN and KO names verified in the September 28 Global notices. Matched to 鱼龙焰舞 by the distinctive promotional verse, rope-dart effect and goldfish flame visuals. The photo remains a CN reference.",
+        "ko": "9월 28일 글로벌 공식 공지에서 영문명 Dragoncarp Blaze와 한국어명 어룡의 불꽃을 확인했습니다. 고유 소개 문구·승표 이펙트·금빛 물고기 불꽃 연출로 중국 鱼龙焰舞와 대응했습니다. 사진은 중국 서버 참고 이미지입니다."
+      }
     },
     {
       "id": "jin-gang-she-nie",
@@ -48290,11 +48334,11 @@
       "nameOriginal": "Cloudgrace Earrings",
       "romanization": "Cloudgrace Earrings",
       "category": "accessory",
-      "sourceId": "global-x-20260924-cloudgrace",
+      "sourceId": "global-naver-20260927-cloudgrace-ko",
       "acquisitionServer": "Global",
       "mediaServer": "Global",
       "officialNameEn": "Cloudgrace Earrings",
-      "officialNameKo": null,
+      "officialNameKo": "서운 장식",
       "cnRelease": {
         "date": null,
         "precision": "unknown",
@@ -48329,9 +48373,12 @@
         "releaseDate": null
       },
       "namingNote": {
-        "en": "Official English name; Korean transliteration is provisional. CN identity is unverified.",
-        "ko": "공식 영문명이며 한국어 독음은 임시 표기입니다. 중국 항목과의 대응은 미확인입니다."
-      }
+        "en": "Official Korean name 서운 장식 verified in the Korean Cafe. The matching event dates, ten login days and reward bundle identify it as Cloudgrace Earrings. CN identity remains unverified.",
+        "ko": "한국 공식 카페에서 서운 장식이라는 명칭을 확인했습니다. 이벤트 기간·누적 출석 10일·보상 묶음이 영문 Cloudgrace Earrings 공지와 일치합니다. 중국 항목과의 대응은 미확인입니다."
+      },
+      "searchAliases": [
+        "클라우드그레이스 이어링"
+      ]
     }
   ],
   "contextualOfficialVideos": [

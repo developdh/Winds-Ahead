@@ -903,10 +903,10 @@
     }
   },
   "yu-long-yan-wu": {
-    "koName": "鱼龙焰舞",
+    "koName": "어룡의 불꽃",
     "description": {
-      "en": "Skill effect documented in the official CN archive. Regional availability and acquisition are recorded separately.",
-      "ko": "공식 중국 자료에서 확인한 이펙트입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+      "en": "Mortal Rope Dart VFX with golden fish and flames. Announced for the Global Draw Shop on October 4, 2026; CN imagery and acquisition remain separately labeled.",
+      "ko": "금빛 물고기와 불꽃이 어우러지는 속세의 지혜 무술 이펙트입니다. 2026년 10월 4일 글로벌 공명 상점 출시 예고이며 중국 사진과 획득 조건은 별도로 표시합니다."
     }
   },
   "jin-gang-she-nie": {
@@ -5005,10 +5005,10 @@
     }
   },
   "global-cloudgrace-earrings": {
-    "koName": "클라우드그레이스 이어링",
+    "koName": "서운 장식",
     "description": {
-      "en": "Earrings announced among the Global Mid-Autumn check-in rewards.",
-      "ko": "글로벌 중추절 출석 보상에 포함된 귀걸이입니다."
+      "en": "Cloudgrace Earrings, officially named 서운 장식 in Korean, are part of the Global Mid-Autumn check-in rewards.",
+      "ko": "글로벌 가을맞이 출석 보상에 포함된 장신구입니다. 한국 공식명은 서운 장식이며 이벤트 기간 누적 출석 10일로 보상 묶음을 받을 수 있습니다."
     }
   }
 }
