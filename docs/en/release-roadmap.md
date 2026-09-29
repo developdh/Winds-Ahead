@@ -68,3 +68,7 @@ The three original forecast windows and revisions are unchanged. They disappeare
 ## September 28 forecast and gallery review
 
 Added three broad editorial windows and six female gallery views. Re-reviewed the five existing estimates without moving their windows; all previous revisions remain, and the next review is October 5. [Review and limitations](forecast-gallery-2026-09-28.md).
+
+## September 28 official-source follow-up
+
+The September 28 official posts add Dragoncarp Blaze / 어룡의 불꽃 on October 4 at 05:00 UTC+8 (06:00 KST), using the existing 鱼龙焰舞 record. This is a new official announcement, not an editorial forecast revision. Global price and end are unknown. Cloudgrace Earrings is now officially named 서운 장식 in Korean. The UTC inspection record is dated September 29; existing forecast windows and their October 5 review date remain. [Sources and limits](releases/0.2.11.md).
