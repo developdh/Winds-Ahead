@@ -13,6 +13,34 @@
       "evidenceTier": "A",
       "verifiedAt": "2026-09-13",
       "verificationNote": "Official post text and male/female image panels inspected directly in browser. Poster gives September 16 (UTC) after the version update. End time is October 15 04:59 (UTC+8)."
+    },
+    {
+      "id": "global-20260929-overview-en",
+      "url": "https://www.wherewindsmeetgame.com/news/official/929update.html",
+      "publisher": "NetEase / Where Winds Meet official website",
+      "server": "Global",
+      "titleOriginal": "[Perilous Eminence] Version 2.2 Update Overview - September 30",
+      "displayedPublicationDate": "2026-09-29",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-09-29",
+      "imageUrl": "https://r.res.easebar.com/pic/20260929/dac719a6-65fe-46ce-9536-4e8583118e25.png",
+      "verificationNote": "Read both original image notices. October 4 item listings and November 3 discount end are explicit; these posters do not print a timezone. Korean image header says September 16 despite the September 30 page title; use explicit dates in the item sections. Korean outfit paragraph repeats the effect name once; outfit heading and purchase sentence agree on 홍염의 밤."
+    },
+    {
+      "id": "global-20260929-overview-ko",
+      "url": "https://www.wherewindsmeetgame.com/kr/news/official/929update.html",
+      "publisher": "NetEase / Where Winds Meet official website",
+      "server": "Global",
+      "titleOriginal": "[구름 위 동행] 9월30일 2.2 버전 업데이트 미리보기",
+      "displayedPublicationDate": "2026-09-29",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-09-29",
+      "imageUrl": "https://r.res.easebar.com/pic/20260929/d72e5b7c-5433-4d31-988e-d0c5828720c0.png",
+      "verificationNote": "Read both original image notices. October 4 item listings and November 3 discount end are explicit; these posters do not print a timezone. Korean image header says September 16 despite the September 30 page title; use explicit dates in the item sections. Korean outfit paragraph repeats the effect name once; outfit heading and purchase sentence agree on 홍염의 밤."
     }
   ],
   "events": [
@@ -3435,12 +3463,65 @@
       "kind": "release",
       "sourceIds": [
         "global-x-20260928-dragoncarp",
-        "global-naver-20260928-dragoncarp-ko"
+        "global-naver-20260928-dragoncarp-ko",
+        "global-20260929-overview-en",
+        "global-20260929-overview-ko"
       ],
       "status": "announced",
       "scope": {
         "en": "Official Global schedule: October 4, 2026 at 05:00 UTC+8 (06:00 KST). The English post states UTC+8; the Korean Cafe gives 06:00 without a zone. Actual release remains unverified.",
         "ko": "공식 글로벌 일정: 2026년 10월 4일 05:00(UTC+8), 한국시간 06:00. 영문 공지에 시간대가 명시돼 있으며 한국 공식 카페는 시간대 없이 06:00로 표기합니다. 실제 출시는 아직 미확인입니다."
+      }
+    },
+    {
+      "id": "release-global-yan-juan-can-ye",
+      "cosmeticId": "yan-juan-can-ye",
+      "date": "2026-10-04",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-20260929-overview-en",
+        "global-20260929-overview-ko"
+      ],
+      "status": "announced",
+      "scope": {
+        "en": "Announced for October 4, 2026. English poster: 05:00:00; Korean poster: 06:00:00. Neither poster states its timezone. This is a scheduled listing, not verified live availability.",
+        "ko": "2026년 10월 4일 출시 예고입니다. 영문 이미지는 05:00:00, 한국어 이미지는 06:00:00이며 두 이미지 모두 시간대를 명시하지 않습니다. 예정 일정이며 실제 판매 확인은 아닙니다."
+      }
+    },
+    {
+      "id": "release-global-da-dao-tong-ming",
+      "cosmeticId": "da-dao-tong-ming",
+      "date": "2026-10-04",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-20260929-overview-en",
+        "global-20260929-overview-ko"
+      ],
+      "status": "announced",
+      "scope": {
+        "en": "Announced for October 4, 2026. English poster: 05:00:00; Korean poster: 06:00:00. Neither poster states its timezone. This is a scheduled listing, not verified live availability.",
+        "ko": "2026년 10월 4일 출시 예고입니다. 영문 이미지는 05:00:00, 한국어 이미지는 06:00:00이며 두 이미지 모두 시간대를 명시하지 않습니다. 예정 일정이며 실제 판매 확인은 아닙니다."
+      }
+    },
+    {
+      "id": "release-global-ran-hua-qing-ye",
+      "cosmeticId": "ran-hua-qing-ye",
+      "date": "2026-10-04",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-20260929-overview-en",
+        "global-20260929-overview-ko"
+      ],
+      "status": "announced",
+      "scope": {
+        "en": "Announced for October 4, 2026. English poster: 05:00:00; Korean poster: 06:00:00. Neither poster states its timezone. This is a scheduled listing, not verified live availability.",
+        "ko": "2026년 10월 4일 출시 예고입니다. 영문 이미지는 05:00:00, 한국어 이미지는 06:00:00이며 두 이미지 모두 시간대를 명시하지 않습니다. 예정 일정이며 실제 판매 확인은 아닙니다."
       }
     }
   ]

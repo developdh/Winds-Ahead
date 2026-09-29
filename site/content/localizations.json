@@ -770,10 +770,10 @@
     }
   },
   "yan-juan-can-ye": {
-    "koName": "焰卷残夜",
+    "koName": "홍염의 밤",
     "description": {
-      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
-      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+      "en": "Red and black armor, red flowers and feather ornaments, with a gold beast shoulder plate.",
+      "ko": "붉은 꽃과 깃 장식, 금빛 짐승 어깨 갑옷이 돋보이는 붉고 검은 의상."
     }
   },
   "fei-baicheng-shi": {
@@ -1078,17 +1078,17 @@
     }
   },
   "da-dao-tong-ming": {
-    "koName": "大道通明",
+    "koName": "광명의 길",
     "description": {
-      "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
-      "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+      "en": "A rope dart with a gold bell-shaped head, green stone details and linked gold chain.",
+      "ko": "금빛 종 모양 끝과 녹색 돌 장식, 금색 사슬이 특징인 승표 외관."
     }
   },
   "ran-hua-qing-ye": {
-    "koName": "燃花庆夜",
+    "koName": "불꽃 축제의 밤",
     "description": {
-      "en": "Skill effect documented in the official CN archive. Regional availability and acquisition are recorded separately.",
-      "ko": "공식 중국 자료에서 확인한 이펙트입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+      "en": "Soaring Spin effect that launches bright multicolored fireworks.",
+      "ko": "명수의 돌격 동작에서 다채로운 불꽃을 쏘아 올리는 이펙트."
     }
   },
   "cang-yinni-shang-tian-feng": {
@@ -5007,8 +5007,8 @@
   "global-cloudgrace-earrings": {
     "koName": "서운 장식",
     "description": {
-      "en": "Cloudgrace Earrings, officially named 서운 장식 in Korean, are part of the Global Mid-Autumn check-in rewards.",
-      "ko": "글로벌 가을맞이 출석 보상에 포함된 장신구입니다. 한국 공식명은 서운 장식이며 이벤트 기간 누적 출석 10일로 보상 묶음을 받을 수 있습니다."
+      "en": "Gold cloud earrings on lilac loops; a Mid-Autumn check-in accessory.",
+      "ko": "연보라색 고리에 금빛 구름이 달린 중추절 출석 보상 귀걸이."
     }
   }
 }
