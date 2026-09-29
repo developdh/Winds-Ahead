@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "verifiedAt": "2026-09-28",
+  "verifiedAt": "2026-09-29",
   "records": [
     {
       "cosmeticId": "shang-qing-yun",
@@ -14386,9 +14386,10 @@
       "status": "announced",
       "releaseDate": null,
       "precision": "unknown",
-      "verifiedAt": "2026-09-26",
+      "verifiedAt": "2026-09-29",
       "sourceIds": [
-        "global-x-20260924-cloudgrace"
+        "global-x-20260924-cloudgrace",
+        "global-naver-20260927-cloudgrace-ko"
       ],
       "scope": {
         "en": "Event runs September 25–October 10 UTC. Exact accessory reward day is unverified; the event start is not treated as the individual unlock date.",
@@ -14397,6 +14398,44 @@
       "identityBasis": {
         "en": "The regional official notice explicitly names this cosmetic and category.",
         "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
+      }
+    },
+    {
+      "cosmeticId": "yu-long-yan-wu",
+      "server": "Global",
+      "status": "announced",
+      "releaseDate": "2026-10-04",
+      "precision": "day",
+      "verifiedAt": "2026-09-29",
+      "sourceIds": [
+        "global-x-20260928-dragoncarp",
+        "global-naver-20260928-dragoncarp-ko"
+      ],
+      "scope": {
+        "en": "Official Global schedule: October 4, 2026 at 05:00 UTC+8 (06:00 KST). The English post states UTC+8; the Korean Cafe gives 06:00 without a zone. Actual release remains unverified.",
+        "ko": "공식 글로벌 일정: 2026년 10월 4일 05:00(UTC+8), 한국시간 06:00. 영문 공지에 시간대가 명시돼 있으며 한국 공식 카페는 시간대 없이 06:00로 표기합니다. 실제 출시는 아직 미확인입니다."
+      },
+      "identityBasis": {
+        "en": "The CN, English and Korean notices share the distinctive verse about searching and following fragrance through flames; rope-dart combat and golden fish/flame visuals match in the official video and CN image.",
+        "ko": "중국·영어·한국어 공지의 불꽃을 따라 향기를 쫓는 고유 소개 문구가 대응하며, 공식 영상과 중국 이미지의 승표 동작·금빛 물고기·불꽃 연출이 일치합니다."
+      },
+      "acquisition": {
+        "kind": "exchange_shop",
+        "pricing": "unknown",
+        "amount": null,
+        "regularAmount": null,
+        "currencyOriginal": null,
+        "location": {
+          "en": "Draw Shop",
+          "ko": "공명 상점",
+          "original": "공명 상점"
+        },
+        "conditions": {
+          "en": "Announced for October 4, 2026 at 05:00 UTC+8 (06:00 KST). Global price, currency and exchange end are not stated; the historical CN cost is not a Global quote.",
+          "ko": "2026년 10월 4일 05:00(UTC+8), 한국시간 06:00 출시 예고입니다. 글로벌 가격·재화·교환 종료일은 미공개이며 중국의 기존 가격을 글로벌 가격으로 적용하지 않습니다."
+        },
+        "en": "See the regional official conditions.",
+        "ko": "해당 서버 공식 공지의 조건을 확인하세요."
       }
     }
   ]

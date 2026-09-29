@@ -1,0 +1,92 @@
+{
+  "checkedAt": "2026-09-29",
+  "requestLocalDate": "2026-09-28",
+  "scope": "Manual follow-up to the September 28 maintenance. CN/EN/KO official news lists, latest Korean Cafe notices and recent official X posts inspected; not an exhaustive game inventory.",
+  "sources": [
+    {
+      "id": "global-x-20260928-dragoncarp",
+      "url": "https://x.com/WhereWindsMeet_/status/2104541645068755437",
+      "publisher": "Where Winds Meet / NetEase (official X)",
+      "server": "Global",
+      "titleOriginal": "Dragoncarp Blaze — October 4 Draw Shop announcement",
+      "displayedPublicationDate": "2026-09-28",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": "UTC",
+      "publishedAt": "2026-09-28T12:00:03Z",
+      "evidenceTier": "A",
+      "verifiedAt": "2026-09-29",
+      "verificationNote": "Read the official post and inspected its playing video in the browser. Explicitly identifies Mortal Rope Dart VFX Dragoncarp Blaze, October 4 at 05:00 UTC+8, Draw Shop. The unique introductory verse and goldfish flame effects match the CN named section for 鱼龙焰舞. Global cost and end date are unstated."
+    },
+    {
+      "id": "global-naver-20260928-dragoncarp-ko",
+      "url": "https://cafe.naver.com/wherewindsmeet/2273",
+      "publisher": "연운 / GM 연지 (official Korean Naver Cafe)",
+      "server": "Global",
+      "titleOriginal": "🔥 불꽃을 따라 피어나는 어룡의 기세! 「어룡의 불꽃」 무술 이펙트, 10월 4일 공명 상점 출시",
+      "displayedPublicationDate": "2026-09-28",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-09-29",
+      "verificationNote": "Read the GM notice body and inspected its video poster in the browser. It explicitly names 속세의 지혜, 어룡의 불꽃, October 4 06:00 and 공명 상점. Its timezone is unstated; the EN official post supplies 05:00 UTC+8, equivalent to 06:00 KST. Introductory verse and effect visuals match the CN record."
+    },
+    {
+      "id": "global-naver-20260927-cloudgrace-ko",
+      "url": "https://cafe.naver.com/wherewindsmeet/2269",
+      "publisher": "연운 / GM 연지 (official Korean Naver Cafe)",
+      "server": "Global",
+      "titleOriginal": "강호가 함께 경축! 출석하고 가을맞이 선물 받아가세요",
+      "displayedPublicationDate": "2026-09-27",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-09-29",
+      "verificationNote": "Read the GM notice in the browser. The accessory is explicitly named 서운 장식. Matched to Cloudgrace Earrings by the same September 25–October 10 event, ten login days and the two melody rewards in the official English post. Korean notice does not state a timezone; English specifies UTC. Individual accessory payout day remains unstated. The scenery poster is not an accessory reference photo."
+    }
+  ],
+  "identity": {
+    "cosmeticId": "yu-long-yan-wu",
+    "cnSourceId": "cn-434a951d3e36",
+    "cnSourceUrl": "https://www.yysls.cn/news/official/20250911/37780_1258911.html",
+    "basis": {
+      "en": "The CN, English and Korean notices share the distinctive verse about searching and following fragrance through flames; rope-dart combat and golden fish/flame visuals match in the official video and CN image.",
+      "ko": "중국·영어·한국어 공지의 불꽃을 따라 향기를 쫓는 고유 소개 문구가 대응하며, 공식 영상과 중국 이미지의 승표 동작·금빛 물고기·불꽃 연출이 일치합니다."
+    },
+    "media": "Existing named CN reference image and the Global official video visually compared. Reuse the existing CN-labeled photo; no new media attribution or redistribution claim."
+  },
+  "correctedName": {
+    "cosmeticId": "global-cloudgrace-earrings",
+    "previous": {
+      "officialNameKo": null,
+      "koName": "클라우드그레이스 이어링"
+    },
+    "currentOfficialKo": "서운 장식",
+    "englishSourceUrl": "https://x.com/WhereWindsMeet_/status/2103092088565088701",
+    "basis": "Matching event period, ten login days and melody/accessory reward bundle. English UTC retained; Korean notice does not print a timezone."
+  },
+  "otherChecks": [
+    {
+      "url": "https://www.wherewindsmeetgame.com/news/",
+      "result": "Latest September 28 article is an account-ban notice, not a cosmetic update."
+    },
+    {
+      "url": "https://www.wherewindsmeetgame.com/kr/news/",
+      "result": "No newer named cosmetic notice found beyond the already recorded September 23 overview."
+    },
+    {
+      "url": "https://www.yysls.cn/news/",
+      "result": "Latest September 25 hotfix already in the archive; no new named cosmetic announcement identified in this check."
+    }
+  ],
+  "limits": [
+    "No in-game availability or claims verified. Announcement remains announced.",
+    "Global price, currency and exchange end are unstated. CN cost is not copied.",
+    "Cloudgrace reward day remains unknown; scenery poster is not used as an item photo.",
+    "No forecast windows or revisions changed; no new schedule created."
+  ],
+  "screenshots": [
+    "2026-09-29-refresh/official-ko-flames-notice.png",
+    "2026-09-29-refresh/official-en-dragoncarp-notice.png",
+    "2026-09-29-refresh/official-ko-cloudgrace-notice.png"
+  ]
+}

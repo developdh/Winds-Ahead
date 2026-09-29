@@ -30,6 +30,7 @@ This is part of completing each update, including updates from the existing cale
 
 ## Release notes
 
+- [0.2.11 — Dragoncarp Blaze schedule and official Korean names](releases/0.2.11.md)
 - [0.2.10 — Moonhare Merriment photos and appearance details](releases/0.2.10.md)
 - [0.2.9 — Official Korean name for Moonhare Merriment](releases/0.2.9.md)
 - [0.2.8 — Deadline notices, broader roadmap and wiki photos](releases/0.2.8.md)

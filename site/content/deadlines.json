@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "reviewedAt": "2026-09-28",
+  "reviewedAt": "2026-09-29",
   "records": [
     {
       "id": "global-global-wind-s-far-shore-exchange-2026-11-18",
@@ -317,9 +317,10 @@
       "precision": "day",
       "timezone": "UTC",
       "sourceIds": [
-        "global-x-20260924-cloudgrace"
+        "global-x-20260924-cloudgrace",
+        "global-naver-20260927-cloudgrace-ko"
       ],
-      "verifiedAt": "2026-09-26",
+      "verifiedAt": "2026-09-29",
       "note": {
         "en": "Log in for 10 days during the check-in event; the accessory reward day and exact end time are unstated.",
         "ko": "이벤트 기간 10일간 접속해야 하며 장신구 지급 일차와 정확한 종료 시각은 미표기입니다."
