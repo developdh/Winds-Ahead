@@ -6315,12 +6315,12 @@
     "originalUrl": "https://yysls.fp.ps.netease.com/file/6985cf5832f00a2389238cc65Sc1Tv9g07.mp4",
     "thumbnail": "/media/ran-hua-qing-ye-0-thumb.webp",
     "full": "/media/ran-hua-qing-ye-0-full.webp",
-    "thumbnailBytes": 22768,
-    "fullBytes": 66018,
+    "preview": "/media/ran-hua-qing-ye-0-preview.webp",
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
-    "preview": "/media/ran-hua-qing-ye-0-preview.webp",
-    "previewBytes": 1094
+    "thumbnailBytes": 31318,
+    "fullBytes": 166708,
+    "previewBytes": 2768
   },
   {
     "cosmeticId": "zhong-ming-zheng-yin",
@@ -10790,5 +10790,33 @@
     "thumbnailBytes": 9498,
     "fullBytes": 11680,
     "previewBytes": 2422
+  },
+  {
+    "cosmeticId": "yan-juan-can-ye",
+    "index": 1,
+    "originalUrl": "https://nie.res.netease.com/r/pic/20251224/c62e909e-965d-4467-8de4-0ba7cc325599.jpg",
+    "thumbnail": "/media/yan-juan-can-ye-1-thumb.webp",
+    "full": "/media/yan-juan-can-ye-1-full.webp",
+    "preview": "/media/yan-juan-can-ye-1-preview.webp",
+    "permission": "unknown",
+    "audience": "reference artwork; excluded from the code license",
+    "presentationSubject": "female",
+    "thumbnailBytes": 39656,
+    "fullBytes": 405572,
+    "previewBytes": 3044
+  },
+  {
+    "cosmeticId": "global-cloudgrace-earrings",
+    "index": 0,
+    "originalUrl": "https://img.acp.idv.tw/2026/09/20260929145451_1.jpg",
+    "thumbnail": "/media/global-cloudgrace-earrings-0-thumb.webp",
+    "full": "/media/global-cloudgrace-earrings-0-full.webp",
+    "preview": "/media/global-cloudgrace-earrings-0-preview.webp",
+    "permission": "unknown",
+    "audience": "reference artwork; excluded from the code license",
+    "presentationSubject": "female",
+    "thumbnailBytes": 10852,
+    "fullBytes": 14178,
+    "previewBytes": 1720
   }
 ]

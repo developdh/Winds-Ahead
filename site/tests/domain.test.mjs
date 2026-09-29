@@ -407,14 +407,18 @@ test('Forged in Fire no longer inherits the unrelated CN red-cloth outfit', () =
   const cn=research.cosmetics.find(c=>c.id==='yan-juan-can-ye');
   const global=research.cosmetics.find(c=>c.id==='global-forged-in-fire');
   assert.equal(cn.nameOriginal,'焰卷残夜');
-  assert.equal(cn.officialNameEn,null);
+  assert.equal(cn.officialNameEn,'Blazing Conquest');
+  assert.notEqual(cn.officialNameEn,global.officialNameEn);
   assert.equal(global.officialNameKo,'불길에 단련된 철골');
   assert.equal(global.acquisitionServer,'Global');
   assert.equal(global.cnRelease.date,null);
-  assert.equal(cn.images.length,1);
+  assert.ok(cn.images.length>=1);
   assert.equal(global.images.length,4);
   assert.notEqual(cn.images[0].url,global.images[0].url);
-  assert.equal(read('regional-records.json').records.some(r=>r.cosmeticId===cn.id && r.server==='Global'),false);
+  const matched=read('regional-records.json').records.find(r=>r.cosmeticId===cn.id && r.server==='Global');
+  assert.equal(matched.releaseDate,'2026-10-04');
+  assert.ok(matched.sourceIds.includes('global-20260929-overview-en'));
+  assert.ok(!matched.sourceIds.includes(global.sourceId));
   assert.equal(read('global-events.json').events.some(e=>e.cosmeticId===global.id),true);
   for (const c of [cn,global]) {
     const records=media.filter(m=>m.cosmeticId===c.id);

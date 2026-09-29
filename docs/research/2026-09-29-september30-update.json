@@ -1,0 +1,288 @@
+{
+  "checkedAt": "2026-09-29T16:31:47+00:00",
+  "scope": "September 29 EN/KO image notices, current CN rolling hotfix, three named CN identity comparisons and Cloudgrace missing-photo completion. Not a complete game inventory.",
+  "sources": [
+    {
+      "id": "global-20260929-overview-en",
+      "url": "https://www.wherewindsmeetgame.com/news/official/929update.html",
+      "publisher": "NetEase / Where Winds Meet official website",
+      "server": "Global",
+      "titleOriginal": "[Perilous Eminence] Version 2.2 Update Overview - September 30",
+      "displayedPublicationDate": "2026-09-29",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-09-29",
+      "imageUrl": "https://r.res.easebar.com/pic/20260929/dac719a6-65fe-46ce-9536-4e8583118e25.png",
+      "verificationNote": "Read both original image notices. October 4 item listings and November 3 discount end are explicit; these posters do not print a timezone. Korean image header says September 16 despite the September 30 page title; use explicit dates in the item sections. Korean outfit paragraph repeats the effect name once; outfit heading and purchase sentence agree on 홍염의 밤."
+    },
+    {
+      "id": "global-20260929-overview-ko",
+      "url": "https://www.wherewindsmeetgame.com/kr/news/official/929update.html",
+      "publisher": "NetEase / Where Winds Meet official website",
+      "server": "Global",
+      "titleOriginal": "[구름 위 동행] 9월30일 2.2 버전 업데이트 미리보기",
+      "displayedPublicationDate": "2026-09-29",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-09-29",
+      "imageUrl": "https://r.res.easebar.com/pic/20260929/d72e5b7c-5433-4d31-988e-d0c5828720c0.png",
+      "verificationNote": "Read both original image notices. October 4 item listings and November 3 discount end are explicit; these posters do not print a timezone. Korean image header says September 16 despite the September 30 page title; use explicit dates in the item sections. Korean outfit paragraph repeats the effect name once; outfit heading and purchase sentence agree on 홍염의 밤."
+    },
+    {
+      "id": "cn-20260929-hotfix",
+      "url": "https://www.yysls.cn/news/update/20260929/40412_1315311.html",
+      "publisher": "NetEase / Where Winds Meet official website",
+      "server": "CN",
+      "titleOriginal": "9月29日2.8.5版本在线修复公告",
+      "displayedPublicationDate": "2026-09-29",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-09-29",
+      "verificationNote": "Direct HTTPS text inspected. Rolling notice retains September 24 in-game appearance fixes and adds September 26 金玉梦 dyeing fix. Prior September 25 URL returned HTTP 404; its historical record is preserved."
+    },
+    {
+      "id": "acp-global-cloudgrace-20260929",
+      "url": "https://acp.idv.tw/where_winds_meet/cloudgrace-earrings/",
+      "publisher": "貓植事x恩奇ANCHI / Global community appearance archive",
+      "server": "Global",
+      "titleOriginal": "舒雲綴 — Cloudgrace Earrings",
+      "displayedPublicationDate": null,
+      "publicationDatePrecision": "unknown",
+      "publicationTimezone": null,
+      "evidenceTier": "C",
+      "kind": "community",
+      "verifiedAt": "2026-09-29",
+      "verificationNote": "Named article explicitly states Cloudgrace Earrings, complete earrings and shared male/female styling. Female side photo and panel visually inspected. Female photo saved through browser download; panel download unavailable. Community reference is not CN identity, official release evidence or a reuse license."
+    }
+  ],
+  "imageNoticeInspection": {
+    "en": [
+      "https://r.res.easebar.com/pic/20260929/2396b316-5771-4cd0-9f73-50418892d22f.png",
+      "https://r.res.easebar.com/pic/20260929/dac719a6-65fe-46ce-9536-4e8583118e25.png"
+    ],
+    "ko": [
+      "https://r.res.easebar.com/pic/20260929/f297f775-25e8-469c-9414-588a7777692c.png",
+      "https://r.res.easebar.com/pic/20260929/d72e5b7c-5433-4d31-988e-d0c5828720c0.png"
+    ],
+    "method": "Both original posters in each language were visually read. The event poster lists poses, badge, decoration and inscription rewards outside this wearable-cosmetic batch.",
+    "anomalies": [
+      "Korean header says September 16 despite September 30 page title; explicit item section dates are October 4.",
+      "Korean outfit description repeats 불꽃의 밤 in one sentence. Heading and purchase sentence say 홍염의 밤; English consistently Blazing Conquest.",
+      "Posters do not state timezones. The previously verified UTC+8 applies to Dragoncarp only, not automatically to other entries."
+    ]
+  },
+  "matchedGlobalRecords": [
+    {
+      "cosmeticId": "yan-juan-can-ye",
+      "identityBasis": {
+        "en": "Matching male/female artwork: red-black armor, red flowers, gold beast shoulder plate, red feather and the female gourd pose; CN and Global notices both describe separate top/bottom dyeing and a matching avatar.",
+        "ko": "중국·글로벌 남녀 사진의 적흑 갑옷·붉은 꽃·금빛 짐승 어깨 장식·붉은 깃·여성의 호리병 자세가 일치하며 상하의 분리 염색·동일 주인공 프로필 보너스도 대응합니다."
+      },
+      "scope": {
+        "en": "Announced for October 4, 2026. English poster: 05:00:00; Korean poster: 06:00:00. Neither poster states its timezone. This is a scheduled listing, not verified live availability.",
+        "ko": "2026년 10월 4일 출시 예고입니다. 영문 이미지는 05:00:00, 한국어 이미지는 06:00:00이며 두 이미지 모두 시간대를 명시하지 않습니다. 예정 일정이며 실제 판매 확인은 아닙니다."
+      },
+      "acquisition": {
+        "kind": "shop",
+        "pricing": "fixed",
+        "amount": 1280,
+        "regularAmount": null,
+        "currencyOriginal": "Echo Beads",
+        "location": {
+          "en": "Shop",
+          "ko": "상점",
+          "original": "Shop"
+        },
+        "conditions": {
+          "en": "Announced for October 4, 2026. English poster: 05:00:00; Korean poster: 06:00:00. Neither poster states its timezone. This is a scheduled listing, not verified live availability. Costs 1,280 Echo Beads and includes a matching player avatar. Separate top/bottom pieces and dyeing are supported. No sale end is stated.",
+          "ko": "2026년 10월 4일 출시 예고입니다. 영문 이미지는 05:00:00, 한국어 이미지는 06:00:00이며 두 이미지 모두 시간대를 명시하지 않습니다. 예정 일정이며 실제 판매 확인은 아닙니다. 장명주 1,280개이며 동일 주인공 프로필을 함께 지급합니다. 상하의 분리·염색을 지원합니다. 판매 종료일은 미표기입니다."
+        },
+        "en": "See the regional official conditions.",
+        "ko": "해당 서버 공식 공지의 조건을 확인하세요."
+      }
+    },
+    {
+      "cosmeticId": "da-dao-tong-ming",
+      "identityBasis": {
+        "en": "The named CN and Global images show the same rope dart: bell-shaped gold head with square spiral engraving, green prongs and gold chain, in the same combat scene.",
+        "ko": "중국·글로벌 명명 이미지의 사각 나선 문양이 새겨진 금빛 종 모양 끝·녹색 돌기·금색 사슬 및 전투 장면이 일치합니다."
+      },
+      "scope": {
+        "en": "Announced for October 4, 2026. English poster: 05:00:00; Korean poster: 06:00:00. Neither poster states its timezone. This is a scheduled listing, not verified live availability.",
+        "ko": "2026년 10월 4일 출시 예고입니다. 영문 이미지는 05:00:00, 한국어 이미지는 06:00:00이며 두 이미지 모두 시간대를 명시하지 않습니다. 예정 일정이며 실제 판매 확인은 아닙니다."
+      },
+      "acquisition": {
+        "kind": "shop",
+        "pricing": "fixed",
+        "amount": 680,
+        "regularAmount": null,
+        "currencyOriginal": "Echo Beads",
+        "location": {
+          "en": "Shop",
+          "ko": "상점",
+          "original": "Shop"
+        },
+        "conditions": {
+          "en": "Announced for October 4, 2026. English poster: 05:00:00; Korean poster: 06:00:00. Neither poster states its timezone. This is a scheduled listing, not verified live availability. Costs 680 Echo Beads. No sale end is stated.",
+          "ko": "2026년 10월 4일 출시 예고입니다. 영문 이미지는 05:00:00, 한국어 이미지는 06:00:00이며 두 이미지 모두 시간대를 명시하지 않습니다. 예정 일정이며 실제 판매 확인은 아닙니다. 장명주 680개입니다. 판매 종료일은 미표기입니다."
+        },
+        "en": "See the regional official conditions.",
+        "ko": "해당 서버 공식 공지의 조건을 확인하세요."
+      }
+    },
+    {
+      "cosmeticId": "ran-hua-qing-ye",
+      "identityBasis": {
+        "en": "The named CN 骑龙回马 effect video at six seconds matches the Global Soaring Spin poster: the same courtyard, character pose and multicolored fireworks bursts.",
+        "ko": "중국 骑龙回马 이펙트 공식 영상 6초 장면의 뜰·인물 자세·다채로운 불꽃 폭발이 글로벌 명수의 돌격 공지 이미지와 일치합니다."
+      },
+      "scope": {
+        "en": "Announced for October 4, 2026. English poster: 05:00:00; Korean poster: 06:00:00. Neither poster states its timezone. This is a scheduled listing, not verified live availability.",
+        "ko": "2026년 10월 4일 출시 예고입니다. 영문 이미지는 05:00:00, 한국어 이미지는 06:00:00이며 두 이미지 모두 시간대를 명시하지 않습니다. 예정 일정이며 실제 판매 확인은 아닙니다."
+      },
+      "acquisition": {
+        "kind": "shop",
+        "pricing": "fixed",
+        "amount": 60,
+        "regularAmount": 300,
+        "currencyOriginal": "Echo Beads",
+        "location": {
+          "en": "Shop",
+          "ko": "상점",
+          "original": "Shop"
+        },
+        "conditions": {
+          "en": "Announced for October 4, 2026. English poster: 05:00:00; Korean poster: 06:00:00. Neither poster states its timezone. This is a scheduled listing, not verified live availability. Discount: 60 Echo Beads until November 3, 2026 at 04:59:59 in the English poster (05:59:59 in Korean), then 300. Timezones are unstated. The discount ending does not mean removal from sale.",
+          "ko": "2026년 10월 4일 출시 예고입니다. 영문 이미지는 05:00:00, 한국어 이미지는 06:00:00이며 두 이미지 모두 시간대를 명시하지 않습니다. 예정 일정이며 실제 판매 확인은 아닙니다. 할인가는 장명주 60개이며 2026년 11월 3일 영문 04:59:59·한국어 05:59:59까지 적용된 뒤 300개로 복귀합니다. 시간대는 미명시이며 할인 종료가 판매 종료를 뜻하지 않습니다."
+        },
+        "en": "See the regional official conditions.",
+        "ko": "해당 서버 공식 공지의 조건을 확인하세요."
+      }
+    }
+  ],
+  "media": [
+    {
+      "cosmeticId": "yan-juan-can-ye",
+      "index": 1,
+      "image": {
+        "url": "https://nie.res.netease.com/r/pic/20251224/c62e909e-965d-4467-8de4-0ba7cc325599.jpg",
+        "width": 2813,
+        "height": 5000,
+        "bytes": 5265955,
+        "kind": "official_appearance_reference",
+        "visuallyInspected": true,
+        "sourceId": "cn-d8dfdef52f57",
+        "inspectionNote": "Named item and original image individually visually compared on September 29, 2026.",
+        "reusePermission": "unknown",
+        "localCopy": "/media/yan-juan-can-ye-1-full.webp",
+        "server": "CN",
+        "alt": {
+          "en": "Blazing Conquest female appearance with red flowers, gold beast shoulder armor and a gourd.",
+          "ko": "붉은 꽃·금빛 짐승 어깨 갑옷·호리병이 돋보이는 홍염의 밤 여성 외형."
+        },
+        "caption": {
+          "en": "Official CN female reference. The complete artwork remains available; Global name matched from the September 29 notice.",
+          "ko": "중국 공식 여성 참고 이미지입니다. 전체 원본을 제공하며 9월 29일 글로벌 공지와 명칭을 대응했습니다."
+        }
+      },
+      "previousFrameSeconds": null
+    },
+    {
+      "cosmeticId": "global-cloudgrace-earrings",
+      "index": 0,
+      "image": {
+        "url": "https://img.acp.idv.tw/2026/09/20260929145451_1.jpg",
+        "width": 463,
+        "height": 514,
+        "bytes": 48249,
+        "kind": "community_gameplay_screenshot",
+        "visuallyInspected": true,
+        "sourceId": "acp-global-cloudgrace-20260929",
+        "inspectionNote": "Named item and original image individually visually compared on September 29, 2026.",
+        "reusePermission": "unknown",
+        "localCopy": "/media/global-cloudgrace-earrings-0-full.webp",
+        "server": "Global",
+        "alt": {
+          "en": "Cloudgrace Earrings on a female character: a gold cloud suspended from a lilac loop.",
+          "ko": "여성 캐릭터가 착용한 서운 장식: 연보라색 고리에 매달린 금빛 구름 귀걸이."
+        },
+        "caption": {
+          "en": "Female side view from the Global community archive. The 463 × 514 source frame and watermark are preserved.",
+          "ko": "글로벌 커뮤니티 도감의 여성 측면 착용 사진입니다. 463 × 514 원본 구도와 워터마크를 유지했습니다."
+        },
+        "contributor": "貓植事x恩奇ANCHI",
+        "sourceKind": "community",
+        "sourceLabel": {
+          "en": "Global appearance archive",
+          "ko": "글로벌 외관 도감"
+        },
+        "sourceUrl": "https://acp.idv.tw/where_winds_meet/cloudgrace-earrings/",
+        "attribution": "NetEase / Where Winds Meet; screenshot by 貓植事x恩奇ANCHI"
+      },
+      "previousFrameSeconds": null
+    },
+    {
+      "cosmeticId": "ran-hua-qing-ye",
+      "index": 0,
+      "image": {
+        "url": "https://yysls.fp.ps.netease.com/file/6985cf5832f00a2389238cc65Sc1Tv9g07.mp4",
+        "width": 2400,
+        "height": 1080,
+        "bytes": 209637,
+        "kind": "official_video_still",
+        "visuallyInspected": true,
+        "sourceId": "cn-a599073c12b1",
+        "inspectionNote": "Named item and original image individually visually compared on September 29, 2026.",
+        "reusePermission": "unknown",
+        "localCopy": "/media/ran-hua-qing-ye-0-full.webp",
+        "server": "CN",
+        "alt": {
+          "en": "Bloom Night: multicolored fireworks burst above the courtyard during the Soaring Spin effect.",
+          "ko": "불꽃 축제의 밤: 명수의 돌격 이펙트로 뜰 위에 다채로운 불꽃이 터지는 장면."
+        },
+        "caption": {
+          "en": "Still at six seconds from the named official CN effect video, matching the Global announcement artwork.",
+          "ko": "중국 공식 이펙트 영상의 6초 정지 장면이며 글로벌 공지 이미지와 대응합니다."
+        },
+        "sourceFrame": 0,
+        "sourceFrameSeconds": 6
+      },
+      "previousFrameSeconds": 2
+    }
+  ],
+  "collectionLimits": [
+    "CN news was inaccessible through web retrieval; direct HTTPS succeeded and the current rolling hotfix was read.",
+    "The earlier September 25 hotfix URL now returns 404. Historical evidence remains; the current official rolling page is added to four already released CN records.",
+    "Cloudgrace original image returned 403 with direct HTTP; normal browser download succeeded for the female view. The item-panel download timed out, so it is not published.",
+    "Sites plugin files disappeared from the installed path during this session. Existing verified source checkout and native Sites tools are used as the publishing fallback; no replacement service or schedule is created."
+  ],
+  "preserved": [
+    "CN acquisition prices and release dates",
+    "Global announcement status, with no in-game availability claim",
+    "Cloudgrace official event dates and unknown unlock day",
+    "All 16 forecast revisions and 8 latest windows, with no forecast-history edits",
+    "Current public website audience and existing recurring schedule"
+  ],
+  "validation": {
+    "types": "passed",
+    "tests": 46,
+    "content": "passed",
+    "forecastHistory": "unchanged",
+    "productionBuild": "passed",
+    "browser": "Chromium; KO 390x844, EN 1440x1000",
+    "observations": "No horizontal overflow, broken loaded images or browser console errors in checked views. Gallery female-first selection and next photo verified.",
+    "fonts": {
+      "uiBytes": 58436,
+      "headingBytes": 301176,
+      "newKoreanGlyphsVerified": true
+    },
+    "screenshots": [
+      "2026-09-29-update-ui/ko-blazing-390.png",
+      "2026-09-29-update-ui/ko-cloudgrace-390.png",
+      "2026-09-29-update-ui/en-bloom-1440.png"
+    ]
+  }
+}
