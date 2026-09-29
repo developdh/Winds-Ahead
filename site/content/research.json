@@ -3653,6 +3653,33 @@
       "evidenceTier": "A",
       "verifiedAt": "2026-09-29",
       "verificationNote": "Read the GM notice in the browser. The accessory is explicitly named 서운 장식. Matched to Cloudgrace Earrings by the same September 25–October 10 event, ten login days and the two melody rewards in the official English post. Korean notice does not state a timezone; English specifies UTC. Individual accessory payout day remains unstated. The scenery poster is not an accessory reference photo."
+    },
+    {
+      "id": "cn-20260929-hotfix",
+      "url": "https://www.yysls.cn/news/update/20260929/40412_1315311.html",
+      "publisher": "NetEase / Where Winds Meet official website",
+      "server": "CN",
+      "titleOriginal": "9月29日2.8.5版本在线修复公告",
+      "displayedPublicationDate": "2026-09-29",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-09-29",
+      "verificationNote": "Direct HTTPS text inspected. Rolling notice retains September 24 in-game appearance fixes and adds September 26 金玉梦 dyeing fix. Prior September 25 URL returned HTTP 404; its historical record is preserved."
+    },
+    {
+      "id": "acp-global-cloudgrace-20260929",
+      "url": "https://acp.idv.tw/where_winds_meet/cloudgrace-earrings/",
+      "publisher": "貓植事x恩奇ANCHI / Global community appearance archive",
+      "server": "Global",
+      "titleOriginal": "舒雲綴 — Cloudgrace Earrings",
+      "displayedPublicationDate": null,
+      "publicationDatePrecision": "unknown",
+      "publicationTimezone": null,
+      "evidenceTier": "C",
+      "kind": "community",
+      "verifiedAt": "2026-09-29",
+      "verificationNote": "Named article explicitly states Cloudgrace Earrings, complete earrings and shared male/female styling. Female side photo and panel visually inspected. Female photo saved through browser download; panel download unavailable. Community reference is not CN identity, official release evidence or a reuse license."
     }
   ],
   "mediaRights": {
@@ -12206,8 +12233,8 @@
       "sourceId": "cn-d8dfdef52f57",
       "acquisitionServer": "CN",
       "mediaServer": "CN",
-      "officialNameEn": null,
-      "officialNameKo": null,
+      "officialNameEn": "Blazing Conquest",
+      "officialNameKo": "홍염의 밤",
       "cnRelease": {
         "date": "2025-12-27",
         "precision": "day",
@@ -12249,6 +12276,27 @@
           "reusePermission": "unknown",
           "localCopy": null,
           "server": "CN"
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20251224/c62e909e-965d-4467-8de4-0ba7cc325599.jpg",
+          "width": 2813,
+          "height": 5000,
+          "bytes": 5265955,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-d8dfdef52f57",
+          "inspectionNote": "Named item and original image individually visually compared on September 29, 2026.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/yan-juan-can-ye-1-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Blazing Conquest female appearance with red flowers, gold beast shoulder armor and a gourd.",
+            "ko": "붉은 꽃·금빛 짐승 어깨 갑옷·호리병이 돋보이는 홍염의 밤 여성 외형."
+          },
+          "caption": {
+            "en": "Official CN female reference. The complete artwork remains available; Global name matched from the September 29 notice.",
+            "ko": "중국 공식 여성 참고 이미지입니다. 전체 원본을 제공하며 9월 29일 글로벌 공지와 명칭을 대응했습니다."
+          }
         }
       ],
       "officialVideos": [],
@@ -12258,7 +12306,14 @@
         "officialName": null,
         "releaseDate": null
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "searchAliases": [
+        "焰卷残夜"
+      ],
+      "namingNote": {
+        "en": "Official English/Korean names read in the September 29 Global image notices. Matched to the existing CN entry through individually inspected named artwork; CN media and acquisition remain separately labeled.",
+        "ko": "9월 29일 글로벌 이미지 공지에서 영어·한국어 공식명을 확인했습니다. 이름이 표시된 양 서버 원본 이미지를 대조해 기존 중국 항목에 연결했으며 중국 참고 사진과 획득 조건은 별도로 유지합니다."
+      }
     },
     {
       "id": "global-forged-in-fire",
@@ -15498,8 +15553,8 @@
       "sourceId": "cn-a599073c12b1",
       "acquisitionServer": "CN",
       "mediaServer": "CN",
-      "officialNameEn": null,
-      "officialNameKo": null,
+      "officialNameEn": "Vindicated Way",
+      "officialNameKo": "광명의 길",
       "cnRelease": {
         "date": "2026-02-06",
         "precision": "day",
@@ -15550,7 +15605,14 @@
         "officialName": null,
         "releaseDate": null
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "searchAliases": [
+        "大道通明"
+      ],
+      "namingNote": {
+        "en": "Official English/Korean names read in the September 29 Global image notices. Matched to the existing CN entry through individually inspected named artwork; CN media and acquisition remain separately labeled.",
+        "ko": "9월 29일 글로벌 이미지 공지에서 영어·한국어 공식명을 확인했습니다. 이름이 표시된 양 서버 원본 이미지를 대조해 기존 중국 항목에 연결했으며 중국 참고 사진과 획득 조건은 별도로 유지합니다."
+      }
     },
     {
       "id": "ran-hua-qing-ye",
@@ -15560,8 +15622,8 @@
       "sourceId": "cn-a599073c12b1",
       "acquisitionServer": "CN",
       "mediaServer": "CN",
-      "officialNameEn": null,
-      "officialNameKo": null,
+      "officialNameEn": "Bloom Night",
+      "officialNameKo": "불꽃 축제의 밤",
       "cnRelease": {
         "date": "2026-02-06",
         "precision": "day",
@@ -15593,16 +15655,24 @@
           "url": "https://yysls.fp.ps.netease.com/file/6985cf5832f00a2389238cc65Sc1Tv9g07.mp4",
           "width": 2400,
           "height": 1080,
-          "bytes": 148994,
+          "bytes": 209637,
           "kind": "official_video_still",
           "visuallyInspected": true,
-          "description": "Named appearance reference",
-          "inspectionNote": "Individual named source art visually checked; video-only effects use a single inspected still at 2 seconds.",
-          "sourceFrame": 0,
-          "sourceFrameSeconds": 2,
+          "sourceId": "cn-a599073c12b1",
+          "inspectionNote": "Named item and original image individually visually compared on September 29, 2026.",
           "reusePermission": "unknown",
-          "localCopy": null,
-          "server": "CN"
+          "localCopy": "/media/ran-hua-qing-ye-0-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Bloom Night: multicolored fireworks burst above the courtyard during the Soaring Spin effect.",
+            "ko": "불꽃 축제의 밤: 명수의 돌격 이펙트로 뜰 위에 다채로운 불꽃이 터지는 장면."
+          },
+          "caption": {
+            "en": "Still at six seconds from the named official CN effect video, matching the Global announcement artwork.",
+            "ko": "중국 공식 이펙트 영상의 6초 정지 장면이며 글로벌 공지 이미지와 대응합니다."
+          },
+          "sourceFrame": 0,
+          "sourceFrameSeconds": 6
         }
       ],
       "officialVideos": [],
@@ -15611,6 +15681,13 @@
         "status": "unknown",
         "officialName": null,
         "releaseDate": null
+      },
+      "searchAliases": [
+        "燃花庆夜"
+      ],
+      "namingNote": {
+        "en": "Official English/Korean names read in the September 29 Global image notices. Matched to the existing CN entry through individually inspected named artwork; CN media and acquisition remain separately labeled.",
+        "ko": "9월 29일 글로벌 이미지 공지에서 영어·한국어 공식명을 확인했습니다. 이름이 표시된 양 서버 원본 이미지를 대조해 기존 중국 항목에 연결했으며 중국 참고 사진과 획득 조건은 별도로 유지합니다."
       }
     },
     {
@@ -48364,9 +48441,39 @@
         "en": "See the regional official conditions.",
         "ko": "해당 서버 공식 공지의 조건을 확인하세요."
       },
-      "images": [],
+      "images": [
+        {
+          "url": "https://img.acp.idv.tw/2026/09/20260929145451_1.jpg",
+          "width": 463,
+          "height": 514,
+          "bytes": 48249,
+          "kind": "community_gameplay_screenshot",
+          "visuallyInspected": true,
+          "sourceId": "acp-global-cloudgrace-20260929",
+          "inspectionNote": "Named item and original image individually visually compared on September 29, 2026.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/global-cloudgrace-earrings-0-full.webp",
+          "server": "Global",
+          "alt": {
+            "en": "Cloudgrace Earrings on a female character: a gold cloud suspended from a lilac loop.",
+            "ko": "여성 캐릭터가 착용한 서운 장식: 연보라색 고리에 매달린 금빛 구름 귀걸이."
+          },
+          "caption": {
+            "en": "Female side view from the Global community archive. The 463 × 514 source frame and watermark are preserved.",
+            "ko": "글로벌 커뮤니티 도감의 여성 측면 착용 사진입니다. 463 × 514 원본 구도와 워터마크를 유지했습니다."
+          },
+          "contributor": "貓植事x恩奇ANCHI",
+          "sourceKind": "community",
+          "sourceLabel": {
+            "en": "Global appearance archive",
+            "ko": "글로벌 외관 도감"
+          },
+          "sourceUrl": "https://acp.idv.tw/where_winds_meet/cloudgrace-earrings/",
+          "attribution": "NetEase / Where Winds Meet; screenshot by 貓植事x恩奇ANCHI"
+        }
+      ],
       "officialVideos": [],
-      "mediaStatus": "pending",
+      "mediaStatus": "verified",
       "global": {
         "status": "unknown",
         "officialName": null,
@@ -48377,8 +48484,35 @@
         "ko": "한국 공식 카페에서 서운 장식이라는 명칭을 확인했습니다. 이벤트 기간·누적 출석 10일·보상 묶음이 영문 Cloudgrace Earrings 공지와 일치합니다. 중국 항목과의 대응은 미확인입니다."
       },
       "searchAliases": [
-        "클라우드그레이스 이어링"
-      ]
+        "클라우드그레이스 이어링",
+        "舒雲綴"
+      ],
+      "appearanceDetails": {
+        "sourceId": "acp-global-cloudgrace-20260929",
+        "checkedAt": "2026-09-29",
+        "facts": [
+          {
+            "label": {
+              "en": "Placement",
+              "ko": "착용 부위"
+            },
+            "value": {
+              "en": "Complete earrings",
+              "ko": "귀걸이 전체"
+            }
+          },
+          {
+            "label": {
+              "en": "Character styles",
+              "ko": "착용 외형"
+            },
+            "value": {
+              "en": "Same accessory for male and female characters",
+              "ko": "남녀 공용"
+            }
+          }
+        ]
+      }
     }
   ],
   "contextualOfficialVideos": [

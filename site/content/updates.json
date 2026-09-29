@@ -2,6 +2,28 @@
   "schemaVersion": 1,
   "entries": [
     {
+      "id": "september30-overview-20260929",
+      "date": "2026-09-29",
+      "kind": {
+        "en": "Official schedules & reference photos",
+        "ko": "공식 일정·참고 사진"
+      },
+      "title": {
+        "en": "Three October 4 appearances, verified prices and Cloudgrace photo",
+        "ko": "10월 4일 외관 3종·가격 확인·서운 장식 사진"
+      },
+      "body": {
+        "en": "Added Blazing Conquest, Vindicated Way and Bloom Night to the Global schedule and linked their CN records. Dragoncarp Blaze costs 1 Harmonic Core; Bloom Night has a separate November 3 discount deadline. Added female Blazing Conquest and Cloudgrace references and a clearer Bloom Night still. Poster timezones and actual availability remain unverified; existing forecast history is unchanged.",
+        "ko": "홍염의 밤·광명의 길·불꽃 축제의 밤의 글로벌 일정을 추가하고 중국 기록과 연결했습니다. 어룡의 불꽃은 공명 구슬 1개이며 불꽃 축제의 밤의 11월 3일 할인 종료를 별도 등록했습니다. 홍염의 밤·서운 장식 여성 참고 사진과 불꽃이 보이는 이펙트 장면을 보완했습니다. 이미지 공지의 시간대·실제 출시는 미확인이며 기존 예상 이력은 유지합니다."
+      },
+      "sourceIds": [
+        "global-20260929-overview-en",
+        "global-20260929-overview-ko",
+        "acp-global-cloudgrace-20260929",
+        "cn-20260929-hotfix"
+      ]
+    },
+    {
       "id": "official-refresh-20260929",
       "date": "2026-09-29",
       "kind": {

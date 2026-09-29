@@ -14114,10 +14114,11 @@
       "status": "released",
       "releaseDate": "2026-09-24",
       "precision": "day",
-      "verifiedAt": "2026-09-26",
+      "verifiedAt": "2026-09-29",
       "sourceIds": [
         "cn-20260922-appearance",
-        "cn-20260925-hotfix"
+        "cn-20260925-hotfix",
+        "cn-20260929-hotfix"
       ],
       "scope": {
         "en": "The September 24 in-game fix named this cosmetic; listing date comes from the appearance notice. This does not establish ongoing availability.",
@@ -14134,10 +14135,11 @@
       "status": "released",
       "releaseDate": "2026-09-24",
       "precision": "day",
-      "verifiedAt": "2026-09-26",
+      "verifiedAt": "2026-09-29",
       "sourceIds": [
         "cn-20260922-appearance",
-        "cn-20260925-hotfix"
+        "cn-20260925-hotfix",
+        "cn-20260929-hotfix"
       ],
       "scope": {
         "en": "The September 24 in-game fix named this cosmetic; listing date comes from the appearance notice. This does not establish ongoing availability.",
@@ -14268,10 +14270,11 @@
       "status": "released",
       "releaseDate": "2026-09-24",
       "precision": "day",
-      "verifiedAt": "2026-09-26",
+      "verifiedAt": "2026-09-29",
       "sourceIds": [
         "cn-20260923-appearance",
-        "cn-20260925-hotfix"
+        "cn-20260925-hotfix",
+        "cn-20260929-hotfix"
       ],
       "scope": {
         "en": "The September 24 in-game fix named this cosmetic; listing date comes from the appearance notice. This does not establish ongoing availability.",
@@ -14345,10 +14348,11 @@
       "status": "released",
       "releaseDate": "2026-09-24",
       "precision": "day",
-      "verifiedAt": "2026-09-26",
+      "verifiedAt": "2026-09-29",
       "sourceIds": [
         "cn-20260923-appearance",
-        "cn-20260925-hotfix"
+        "cn-20260925-hotfix",
+        "cn-20260929-hotfix"
       ],
       "scope": {
         "en": "The September 24 in-game fix named this cosmetic; listing date comes from the appearance notice. This does not establish ongoing availability.",
@@ -14409,7 +14413,9 @@
       "verifiedAt": "2026-09-29",
       "sourceIds": [
         "global-x-20260928-dragoncarp",
-        "global-naver-20260928-dragoncarp-ko"
+        "global-naver-20260928-dragoncarp-ko",
+        "global-20260929-overview-en",
+        "global-20260929-overview-ko"
       ],
       "scope": {
         "en": "Official Global schedule: October 4, 2026 at 05:00 UTC+8 (06:00 KST). The English post states UTC+8; the Korean Cafe gives 06:00 without a zone. Actual release remains unverified.",
@@ -14421,18 +14427,132 @@
       },
       "acquisition": {
         "kind": "exchange_shop",
-        "pricing": "unknown",
-        "amount": null,
+        "pricing": "fixed",
+        "amount": 1,
         "regularAmount": null,
-        "currencyOriginal": null,
+        "currencyOriginal": "Harmonic Core",
         "location": {
           "en": "Draw Shop",
           "ko": "공명 상점",
           "original": "공명 상점"
         },
         "conditions": {
-          "en": "Announced for October 4, 2026 at 05:00 UTC+8 (06:00 KST). Global price, currency and exchange end are not stated; the historical CN cost is not a Global quote.",
-          "ko": "2026년 10월 4일 05:00(UTC+8), 한국시간 06:00 출시 예고입니다. 글로벌 가격·재화·교환 종료일은 미공개이며 중국의 기존 가격을 글로벌 가격으로 적용하지 않습니다."
+          "en": "Official Global listing: October 4, 2026, 05:00 UTC+8 (06:00 KST), with the timezone verified in the earlier official English post. The September 29 poster specifies 1 Harmonic Core at the Draw Shop. No exchange end is stated.",
+          "ko": "공식 글로벌 출시 예고: 2026년 10월 4일 05:00(UTC+8), 한국시간 06:00. 시간대는 앞서 확인한 영문 공식 게시물 기준입니다. 9월 29일 이미지 공지에서 공명 상점 교환 비용을 공명 구슬 1개로 명시했습니다. 교환 종료일은 미표기입니다."
+        },
+        "en": "See the regional official conditions.",
+        "ko": "해당 서버 공식 공지의 조건을 확인하세요."
+      }
+    },
+    {
+      "cosmeticId": "yan-juan-can-ye",
+      "server": "Global",
+      "status": "announced",
+      "releaseDate": "2026-10-04",
+      "precision": "day",
+      "verifiedAt": "2026-09-29",
+      "sourceIds": [
+        "global-20260929-overview-en",
+        "global-20260929-overview-ko"
+      ],
+      "scope": {
+        "en": "Announced for October 4, 2026. English poster: 05:00:00; Korean poster: 06:00:00. Neither poster states its timezone. This is a scheduled listing, not verified live availability.",
+        "ko": "2026년 10월 4일 출시 예고입니다. 영문 이미지는 05:00:00, 한국어 이미지는 06:00:00이며 두 이미지 모두 시간대를 명시하지 않습니다. 예정 일정이며 실제 판매 확인은 아닙니다."
+      },
+      "identityBasis": {
+        "en": "Matching male/female artwork: red-black armor, red flowers, gold beast shoulder plate, red feather and the female gourd pose; CN and Global notices both describe separate top/bottom dyeing and a matching avatar.",
+        "ko": "중국·글로벌 남녀 사진의 적흑 갑옷·붉은 꽃·금빛 짐승 어깨 장식·붉은 깃·여성의 호리병 자세가 일치하며 상하의 분리 염색·동일 주인공 프로필 보너스도 대응합니다."
+      },
+      "acquisition": {
+        "kind": "shop",
+        "pricing": "fixed",
+        "amount": 1280,
+        "regularAmount": null,
+        "currencyOriginal": "Echo Beads",
+        "location": {
+          "en": "Shop",
+          "ko": "상점",
+          "original": "Shop"
+        },
+        "conditions": {
+          "en": "Announced for October 4, 2026. English poster: 05:00:00; Korean poster: 06:00:00. Neither poster states its timezone. This is a scheduled listing, not verified live availability. Costs 1,280 Echo Beads and includes a matching player avatar. Separate top/bottom pieces and dyeing are supported. No sale end is stated.",
+          "ko": "2026년 10월 4일 출시 예고입니다. 영문 이미지는 05:00:00, 한국어 이미지는 06:00:00이며 두 이미지 모두 시간대를 명시하지 않습니다. 예정 일정이며 실제 판매 확인은 아닙니다. 장명주 1,280개이며 동일 주인공 프로필을 함께 지급합니다. 상하의 분리·염색을 지원합니다. 판매 종료일은 미표기입니다."
+        },
+        "en": "See the regional official conditions.",
+        "ko": "해당 서버 공식 공지의 조건을 확인하세요."
+      }
+    },
+    {
+      "cosmeticId": "da-dao-tong-ming",
+      "server": "Global",
+      "status": "announced",
+      "releaseDate": "2026-10-04",
+      "precision": "day",
+      "verifiedAt": "2026-09-29",
+      "sourceIds": [
+        "global-20260929-overview-en",
+        "global-20260929-overview-ko"
+      ],
+      "scope": {
+        "en": "Announced for October 4, 2026. English poster: 05:00:00; Korean poster: 06:00:00. Neither poster states its timezone. This is a scheduled listing, not verified live availability.",
+        "ko": "2026년 10월 4일 출시 예고입니다. 영문 이미지는 05:00:00, 한국어 이미지는 06:00:00이며 두 이미지 모두 시간대를 명시하지 않습니다. 예정 일정이며 실제 판매 확인은 아닙니다."
+      },
+      "identityBasis": {
+        "en": "The named CN and Global images show the same rope dart: bell-shaped gold head with square spiral engraving, green prongs and gold chain, in the same combat scene.",
+        "ko": "중국·글로벌 명명 이미지의 사각 나선 문양이 새겨진 금빛 종 모양 끝·녹색 돌기·금색 사슬 및 전투 장면이 일치합니다."
+      },
+      "acquisition": {
+        "kind": "shop",
+        "pricing": "fixed",
+        "amount": 680,
+        "regularAmount": null,
+        "currencyOriginal": "Echo Beads",
+        "location": {
+          "en": "Shop",
+          "ko": "상점",
+          "original": "Shop"
+        },
+        "conditions": {
+          "en": "Announced for October 4, 2026. English poster: 05:00:00; Korean poster: 06:00:00. Neither poster states its timezone. This is a scheduled listing, not verified live availability. Costs 680 Echo Beads. No sale end is stated.",
+          "ko": "2026년 10월 4일 출시 예고입니다. 영문 이미지는 05:00:00, 한국어 이미지는 06:00:00이며 두 이미지 모두 시간대를 명시하지 않습니다. 예정 일정이며 실제 판매 확인은 아닙니다. 장명주 680개입니다. 판매 종료일은 미표기입니다."
+        },
+        "en": "See the regional official conditions.",
+        "ko": "해당 서버 공식 공지의 조건을 확인하세요."
+      }
+    },
+    {
+      "cosmeticId": "ran-hua-qing-ye",
+      "server": "Global",
+      "status": "announced",
+      "releaseDate": "2026-10-04",
+      "precision": "day",
+      "verifiedAt": "2026-09-29",
+      "sourceIds": [
+        "global-20260929-overview-en",
+        "global-20260929-overview-ko"
+      ],
+      "scope": {
+        "en": "Announced for October 4, 2026. English poster: 05:00:00; Korean poster: 06:00:00. Neither poster states its timezone. This is a scheduled listing, not verified live availability.",
+        "ko": "2026년 10월 4일 출시 예고입니다. 영문 이미지는 05:00:00, 한국어 이미지는 06:00:00이며 두 이미지 모두 시간대를 명시하지 않습니다. 예정 일정이며 실제 판매 확인은 아닙니다."
+      },
+      "identityBasis": {
+        "en": "The named CN 骑龙回马 effect video at six seconds matches the Global Soaring Spin poster: the same courtyard, character pose and multicolored fireworks bursts.",
+        "ko": "중국 骑龙回马 이펙트 공식 영상 6초 장면의 뜰·인물 자세·다채로운 불꽃 폭발이 글로벌 명수의 돌격 공지 이미지와 일치합니다."
+      },
+      "acquisition": {
+        "kind": "shop",
+        "pricing": "fixed",
+        "amount": 60,
+        "regularAmount": 300,
+        "currencyOriginal": "Echo Beads",
+        "location": {
+          "en": "Shop",
+          "ko": "상점",
+          "original": "Shop"
+        },
+        "conditions": {
+          "en": "Announced for October 4, 2026. English poster: 05:00:00; Korean poster: 06:00:00. Neither poster states its timezone. This is a scheduled listing, not verified live availability. Discount: 60 Echo Beads until November 3, 2026 at 04:59:59 in the English poster (05:59:59 in Korean), then 300. Timezones are unstated. The discount ending does not mean removal from sale.",
+          "ko": "2026년 10월 4일 출시 예고입니다. 영문 이미지는 05:00:00, 한국어 이미지는 06:00:00이며 두 이미지 모두 시간대를 명시하지 않습니다. 예정 일정이며 실제 판매 확인은 아닙니다. 할인가는 장명주 60개이며 2026년 11월 3일 영문 04:59:59·한국어 05:59:59까지 적용된 뒤 300개로 복귀합니다. 시간대는 미명시이며 할인 종료가 판매 종료를 뜻하지 않습니다."
         },
         "en": "See the regional official conditions.",
         "ko": "해당 서버 공식 공지의 조건을 확인하세요."

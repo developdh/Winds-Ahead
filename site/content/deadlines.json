@@ -433,6 +433,25 @@
         "en": "Official announcement schedule; current in-game availability has not been reverified.",
         "ko": "공식 공지의 일정이며 현재 게임 내 획득 가능 여부는 별도 확인이 필요합니다."
       }
+    },
+    {
+      "id": "global-ran-hua-qing-ye-discount-2026-11-03",
+      "cosmeticId": "ran-hua-qing-ye",
+      "server": "Global",
+      "kind": "discount",
+      "startDate": "2026-10-04",
+      "end": "2026-11-03T04:59:59",
+      "precision": "second",
+      "timezone": null,
+      "sourceIds": [
+        "global-20260929-overview-en",
+        "global-20260929-overview-ko"
+      ],
+      "verifiedAt": "2026-09-29",
+      "note": {
+        "en": "English poster: November 3 at 04:59:59; Korean poster: 05:59:59. Neither states a timezone. 60 Echo Beads returns to 300; this is a discount deadline, not a sale end.",
+        "ko": "영문 이미지: 11월 3일 04:59:59, 한국어: 05:59:59. 두 이미지 모두 시간대 미표기입니다. 장명주 60개에서 300개로 복귀하며 할인 종료이지 판매 종료가 아닙니다."
+      }
     }
   ]
 }
