@@ -38,7 +38,7 @@ export interface Cosmetic {
   cnRelease: { date: string | null; precision: "day" | "unknown"; timezone: null; contextual: boolean; basis: string };
   acquisition: Acquisition;
   global: { status: string; releaseDate: string | null; officialName: string | null };
-  images: { url: string; width: number; height: number; reusePermission: string; alt?: Bilingual; caption?: Bilingual; sourceKind?: 'community'; sourceUrl?: string; sourceLabel?: Bilingual; attribution?: string; contributor?: string }[];
+  images: { url: string; server?: Server; width: number; height: number; reusePermission: string; alt?: Bilingual; caption?: Bilingual; sourceKind?: 'community'; sourceUrl?: string; sourceLabel?: Bilingual; attribution?: string; contributor?: string }[];
   officialVideos: typeof research.cosmetics[number]["officialVideos"];
 }
 export const source = research.sources[0];

@@ -3465,12 +3465,14 @@
         "global-x-20260928-dragoncarp",
         "global-naver-20260928-dragoncarp-ko",
         "global-20260929-overview-en",
-        "global-20260929-overview-ko"
+        "global-20260929-overview-ko",
+        "global-20260930-october-appearances-en",
+        "global-20260930-october-appearances-ko"
       ],
       "status": "announced",
       "scope": {
-        "en": "Official Global schedule: October 4, 2026 at 05:00 UTC+8 (06:00 KST). The English post states UTC+8; the Korean Cafe gives 06:00 without a zone. Actual release remains unverified.",
-        "ko": "공식 글로벌 일정: 2026년 10월 4일 05:00(UTC+8), 한국시간 06:00. 영문 공지에 시간대가 명시돼 있으며 한국 공식 카페는 시간대 없이 06:00로 표기합니다. 실제 출시는 아직 미확인입니다."
+        "en": "Announced for October 4, 2026 at 05:00 (UTC+8), explicitly stated by the September 30 English notice (06:00 KST when converted). The Korean notice shows 06:00 without naming a timezone. Scheduled listing; live availability is not verified.",
+        "ko": "9월 30일 영문 공지는 2026년 10월 4일 05:00(UTC+8)을 명시합니다. 한국 시간으로 06:00이며 한국어 공지도 06:00을 표기하지만 시간대는 별도로 적지 않았습니다. 출시 예고이며 실제 판매 확인은 아닙니다."
       }
     },
     {
@@ -3482,12 +3484,14 @@
       "kind": "release",
       "sourceIds": [
         "global-20260929-overview-en",
-        "global-20260929-overview-ko"
+        "global-20260929-overview-ko",
+        "global-20260930-october-appearances-en",
+        "global-20260930-october-appearances-ko"
       ],
       "status": "announced",
       "scope": {
-        "en": "Announced for October 4, 2026. English poster: 05:00:00; Korean poster: 06:00:00. Neither poster states its timezone. This is a scheduled listing, not verified live availability.",
-        "ko": "2026년 10월 4일 출시 예고입니다. 영문 이미지는 05:00:00, 한국어 이미지는 06:00:00이며 두 이미지 모두 시간대를 명시하지 않습니다. 예정 일정이며 실제 판매 확인은 아닙니다."
+        "en": "Announced for October 4, 2026 at 05:00 (UTC+8), explicitly stated by the September 30 English notice (06:00 KST when converted). The Korean notice shows 06:00 without naming a timezone. Scheduled listing; live availability is not verified.",
+        "ko": "9월 30일 영문 공지는 2026년 10월 4일 05:00(UTC+8)을 명시합니다. 한국 시간으로 06:00이며 한국어 공지도 06:00을 표기하지만 시간대는 별도로 적지 않았습니다. 출시 예고이며 실제 판매 확인은 아닙니다."
       }
     },
     {
@@ -3499,12 +3503,14 @@
       "kind": "release",
       "sourceIds": [
         "global-20260929-overview-en",
-        "global-20260929-overview-ko"
+        "global-20260929-overview-ko",
+        "global-20260930-october-appearances-en",
+        "global-20260930-october-appearances-ko"
       ],
       "status": "announced",
       "scope": {
-        "en": "Announced for October 4, 2026. English poster: 05:00:00; Korean poster: 06:00:00. Neither poster states its timezone. This is a scheduled listing, not verified live availability.",
-        "ko": "2026년 10월 4일 출시 예고입니다. 영문 이미지는 05:00:00, 한국어 이미지는 06:00:00이며 두 이미지 모두 시간대를 명시하지 않습니다. 예정 일정이며 실제 판매 확인은 아닙니다."
+        "en": "Announced for October 4, 2026 at 05:00 (UTC+8), explicitly stated by the September 30 English notice (06:00 KST when converted). The Korean notice shows 06:00 without naming a timezone. Scheduled listing; live availability is not verified.",
+        "ko": "9월 30일 영문 공지는 2026년 10월 4일 05:00(UTC+8)을 명시합니다. 한국 시간으로 06:00이며 한국어 공지도 06:00을 표기하지만 시간대는 별도로 적지 않았습니다. 출시 예고이며 실제 판매 확인은 아닙니다."
       }
     },
     {
@@ -3516,12 +3522,14 @@
       "kind": "release",
       "sourceIds": [
         "global-20260929-overview-en",
-        "global-20260929-overview-ko"
+        "global-20260929-overview-ko",
+        "global-20260930-october-appearances-en",
+        "global-20260930-october-appearances-ko"
       ],
       "status": "announced",
       "scope": {
-        "en": "Announced for October 4, 2026. English poster: 05:00:00; Korean poster: 06:00:00. Neither poster states its timezone. This is a scheduled listing, not verified live availability.",
-        "ko": "2026년 10월 4일 출시 예고입니다. 영문 이미지는 05:00:00, 한국어 이미지는 06:00:00이며 두 이미지 모두 시간대를 명시하지 않습니다. 예정 일정이며 실제 판매 확인은 아닙니다."
+        "en": "Announced for October 4, 2026 at 05:00 (UTC+8), explicitly stated by the September 30 English notice (06:00 KST when converted). The Korean notice shows 06:00 without naming a timezone. Scheduled listing; live availability is not verified.",
+        "ko": "9월 30일 영문 공지는 2026년 10월 4일 05:00(UTC+8)을 명시합니다. 한국 시간으로 06:00이며 한국어 공지도 06:00을 표기하지만 시간대는 별도로 적지 않았습니다. 출시 예고이며 실제 판매 확인은 아닙니다."
       }
     }
   ]

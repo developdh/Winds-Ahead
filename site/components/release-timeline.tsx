@@ -54,7 +54,7 @@ export default function ReleaseTimeline({ l, events, forecasts, today, kind, rel
         <article className="timeline-card">
           <Link className="timeline-art" href={`/${l}/cosmetics/${c.id}`} aria-label={nameOf(c, l)} onClick={event => onCosmeticClick(event, c.id)} prefetch={false} aria-haspopup="dialog">
             {picture ? <img src={picture.thumbnail} alt="" width={240} height={300} loading="lazy" decoding="async" /> : <span className="timeline-no-image">鏡</span>}
-            <span className="timeline-image-origin">{c.mediaServer === 'Global' ? t('Global preview', '글로벌 이미지') : t('CN preview', '중국 이미지')}</span>
+            <span className="timeline-image-origin">{(picture ? c.images[picture.index]?.server ?? c.mediaServer : c.mediaServer) === 'Global' ? t('Global preview', '글로벌 이미지') : t('CN preview', '중국 이미지')}</span>
           </Link>
           <div className="timeline-copy">
             <span className="timeline-category">{categoryNames[c.category][l]}</span>
