@@ -1,0 +1,1486 @@
+{
+  "totalPhotos": 117,
+  "olderPhotos": 102,
+  "olderGalleries": 28,
+  "newCosmetics": 3,
+  "newPhotos": 15,
+  "filledEmptyGalleries": [
+    "wiki-wu-feng-qing",
+    "wiki-xiangsi-qu",
+    "wiki-ran-qing-cang",
+    "wiki-meng-zhu-jia-dao",
+    "wiki-you-lan-lu",
+    "wiki-shan-zhong-ren"
+  ],
+  "galleries": [
+    {
+      "cosmeticId": "zui-penglai",
+      "nameOriginal": "醉蓬莱",
+      "before": 2,
+      "after": 5
+    },
+    {
+      "cosmeticId": "qian-nian-you-dai",
+      "nameOriginal": "千年有待",
+      "before": 2,
+      "after": 15
+    },
+    {
+      "cosmeticId": "qing-lin-fu-yu",
+      "nameOriginal": "青鳞拂雨",
+      "before": 2,
+      "after": 14
+    },
+    {
+      "cosmeticId": "lian-du-you-luo",
+      "nameOriginal": "莲渡幽罗",
+      "before": 2,
+      "after": 9
+    },
+    {
+      "cosmeticId": "wan-he-qing-xiang",
+      "nameOriginal": "万壑清响",
+      "before": 3,
+      "after": 5
+    },
+    {
+      "cosmeticId": "qing-xiao-lue-ying",
+      "nameOriginal": "青霄掠影",
+      "before": 2,
+      "after": 6
+    },
+    {
+      "cosmeticId": "xuan-gu-zai-yuan",
+      "nameOriginal": "玄骨在渊",
+      "before": 2,
+      "after": 11
+    },
+    {
+      "cosmeticId": "qing-yuan-ru-hua",
+      "nameOriginal": "轻鸢入画",
+      "before": 3,
+      "after": 5
+    },
+    {
+      "cosmeticId": "nan-ming-you-meng",
+      "nameOriginal": "南冥幽梦",
+      "before": 2,
+      "after": 10
+    },
+    {
+      "cosmeticId": "fu-chen-wu-ji",
+      "nameOriginal": "茯尘无寄",
+      "before": 2,
+      "after": 8
+    },
+    {
+      "cosmeticId": "lian-tai-he",
+      "nameOriginal": "莲台鹤",
+      "before": 2,
+      "after": 4
+    },
+    {
+      "cosmeticId": "yan-yan-yu-fei",
+      "nameOriginal": "燕燕于飞",
+      "before": 2,
+      "after": 4
+    },
+    {
+      "cosmeticId": "lie-baiyu",
+      "nameOriginal": "猎白羽",
+      "before": 2,
+      "after": 4
+    },
+    {
+      "cosmeticId": "liu-sha-wen-gu",
+      "nameOriginal": "流沙问蛊",
+      "before": 2,
+      "after": 4
+    },
+    {
+      "cosmeticId": "dianchun-ou",
+      "nameOriginal": "点春瓯",
+      "before": 2,
+      "after": 4
+    },
+    {
+      "cosmeticId": "han-mo-dan-qing",
+      "nameOriginal": "翰墨丹青",
+      "before": 2,
+      "after": 4
+    },
+    {
+      "cosmeticId": "shu-tong-liu-xiang",
+      "nameOriginal": "疏桐流响",
+      "before": 1,
+      "after": 3
+    },
+    {
+      "cosmeticId": "guaiwu-chang",
+      "nameOriginal": "怪无常",
+      "before": 2,
+      "after": 4
+    },
+    {
+      "cosmeticId": "jin-yan-yu-tuan",
+      "nameOriginal": "金滟玉团",
+      "before": 1,
+      "after": 3
+    },
+    {
+      "cosmeticId": "global-forest-sovereign",
+      "nameOriginal": "Forest Sovereign",
+      "before": 1,
+      "after": 3
+    },
+    {
+      "cosmeticId": "global-moonlit-howl",
+      "nameOriginal": "Moonlit Howl",
+      "before": 1,
+      "after": 3
+    },
+    {
+      "cosmeticId": "wiki-zang-hua-yin",
+      "nameOriginal": "葬花吟",
+      "before": 1,
+      "after": 3
+    },
+    {
+      "cosmeticId": "wiki-wu-feng-qing",
+      "nameOriginal": "午风清",
+      "before": 0,
+      "after": 2
+    },
+    {
+      "cosmeticId": "wiki-xiangsi-qu",
+      "nameOriginal": "相思曲",
+      "before": 0,
+      "after": 2
+    },
+    {
+      "cosmeticId": "wiki-ran-qing-cang",
+      "nameOriginal": "染青苍",
+      "before": 0,
+      "after": 2
+    },
+    {
+      "cosmeticId": "wiki-meng-zhu-jia-dao",
+      "nameOriginal": "萌主驾到",
+      "before": 0,
+      "after": 2
+    },
+    {
+      "cosmeticId": "wiki-you-lan-lu",
+      "nameOriginal": "幽兰露",
+      "before": 0,
+      "after": 2
+    },
+    {
+      "cosmeticId": "wiki-shan-zhong-ren",
+      "nameOriginal": "山中人",
+      "before": 0,
+      "after": 2
+    },
+    {
+      "cosmeticId": "zhu-luan-gu-qing",
+      "nameOriginal": "朱鸾顾晴",
+      "before": 0,
+      "after": 8
+    },
+    {
+      "cosmeticId": "cang-yin-tian-di-yi-xiao",
+      "nameOriginal": "藏音·天地一啸",
+      "before": 0,
+      "after": 4
+    },
+    {
+      "cosmeticId": "wan-lai-zhu-yue-xian",
+      "nameOriginal": "万籁·逐月霰",
+      "before": 0,
+      "after": 3
+    }
+  ],
+  "sources": [
+    {
+      "id": "cn-20250925-new-appearance",
+      "url": "https://www.yysls.cn/news/official/20250926/37780_1261910.html",
+      "titleOriginal": "全新外观 | 方外山门开，华服启新程",
+      "publisher": "燕云十六声 / NetEase",
+      "server": "CN",
+      "displayedPublicationDate": "2025-09-25",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "urlPathDate": "2025-09-26",
+      "dateDiscrepancyNote": "Use displayed publication date; the URL directory is the following day.",
+      "releaseContextDate": "2025-09-26",
+      "releaseContext": "After the version update; individual records preserve cases where no item-specific exact date was stated.",
+      "sourceImageCaveat": {
+        "en": "Preview images; actual in-game appearance may differ.",
+        "ko": "개발 중 미리보기 이미지이며 실제 게임 내 모습과 다를 수 있습니다."
+      }
+    },
+    {
+      "id": "cn-20260729-outfits",
+      "url": "https://www.yysls.cn/news/official/20260801/37780_1309788.html",
+      "titleOriginal": "千年一梦着青白丨《新白娘子传奇》联动外观登场",
+      "publisher": "燕云十六声 / NetEase",
+      "server": "CN",
+      "displayedPublicationDate": "2026-07-29",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "urlPathDate": "2026-08-01",
+      "dateDiscrepancyNote": "Release facts come from article text, not the URL folder.",
+      "sourceImageCaveat": {
+        "en": "Official preview; final in-game appearance may differ.",
+        "ko": "공식 미리보기이며 실제 게임 내 모습과 다를 수 있습니다."
+      }
+    },
+    {
+      "id": "cn-20260226-outfits",
+      "url": "https://www.yysls.cn/news/official/20260227/37780_1288734.html",
+      "titleOriginal": "和鸣上新丨莲舟渡幽罗，青鸾鸣瑶音",
+      "publisher": "燕云十六声 / NetEase",
+      "server": "CN",
+      "displayedPublicationDate": "2026-02-26",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "urlPathDate": "2026-02-27",
+      "dateDiscrepancyNote": "Release facts come from article text, not the URL folder.",
+      "sourceImageCaveat": {
+        "en": "Official preview; final in-game appearance may differ.",
+        "ko": "공식 미리보기이며 실제 게임 내 모습과 다를 수 있습니다."
+      }
+    },
+    {
+      "id": "cn-20260331-outfits",
+      "url": "https://www.yysls.cn/news/official/20260401/37780_1294224.html",
+      "titleOriginal": "掠影穿尘，一翎轻落丨全新套装【青霄掠影】登场",
+      "publisher": "燕云十六声 / NetEase",
+      "server": "CN",
+      "displayedPublicationDate": "2026-03-31",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "urlPathDate": "2026-04-01",
+      "dateDiscrepancyNote": "Release facts come from article text, not the URL folder.",
+      "sourceImageCaveat": {
+        "en": "Official preview; final in-game appearance may differ.",
+        "ko": "공식 미리보기이며 실제 게임 내 모습과 다를 수 있습니다."
+      }
+    },
+    {
+      "id": "cn-20260422-outfits",
+      "url": "https://www.yysls.cn/news/official/20260424/37780_1297721.html",
+      "titleOriginal": "玄骨在渊丨全新和鸣外观上线",
+      "publisher": "燕云十六声 / NetEase",
+      "server": "CN",
+      "displayedPublicationDate": "2026-04-22",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "urlPathDate": "2026-04-24",
+      "dateDiscrepancyNote": "Release facts come from article text, not the URL folder.",
+      "sourceImageCaveat": {
+        "en": "Official preview; final in-game appearance may differ.",
+        "ko": "공식 미리보기이며 실제 게임 내 모습과 다를 수 있습니다."
+      }
+    },
+    {
+      "id": "cn-20260514-outfits",
+      "url": "https://www.yysls.cn/news/official/20260514/37780_1300268.html",
+      "titleOriginal": "幽冥有蝶，引渡离思丨套装【南冥幽梦】即将上线",
+      "publisher": "燕云十六声 / NetEase",
+      "server": "CN",
+      "displayedPublicationDate": "2026-05-14",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "urlPathDate": "2026-05-14",
+      "dateDiscrepancyNote": "Release facts come from article text, not the URL folder.",
+      "sourceImageCaveat": {
+        "en": "Official preview; final in-game appearance may differ.",
+        "ko": "공식 미리보기이며 실제 게임 내 모습과 다를 수 있습니다."
+      }
+    },
+    {
+      "id": "cn-20260528-outfits",
+      "url": "https://www.yysls.cn/news/official/20260529/37780_1302239.html",
+      "titleOriginal": "舞蹈合作主题外观上架，赋神系列伞登场！",
+      "publisher": "燕云十六声 / NetEase",
+      "server": "CN",
+      "displayedPublicationDate": "2026-05-28",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "urlPathDate": "2026-05-29",
+      "dateDiscrepancyNote": "Release facts come from article text, not the URL folder.",
+      "sourceImageCaveat": {
+        "en": "Official preview; final in-game appearance may differ.",
+        "ko": "공식 미리보기이며 실제 게임 내 모습과 다를 수 있습니다."
+      }
+    },
+    {
+      "id": "cn-20260630-outfits",
+      "url": "https://www.yysls.cn/news/official/20260703/37780_1306509.html",
+      "titleOriginal": "月随碧山，水合青天丨「玄瑛」系列弓武器外观登场",
+      "publisher": "燕云十六声 / NetEase",
+      "server": "CN",
+      "displayedPublicationDate": "2026-06-30",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "urlPathDate": "2026-07-03",
+      "dateDiscrepancyNote": "Release facts come from article text, not the URL folder.",
+      "sourceImageCaveat": {
+        "en": "Official preview; final in-game appearance may differ.",
+        "ko": "공식 미리보기이며 실제 게임 내 모습과 다를 수 있습니다."
+      }
+    },
+    {
+      "id": "cn-20260930-appearances",
+      "url": "https://www.yysls.cn/news/official/20260930/37780_1315695.html",
+      "titleOriginal": "横刀藏音外观上新，新套装【朱鸾顾晴】登场",
+      "publisher": "NetEase / Where Winds Meet official website",
+      "server": "CN",
+      "displayedPublicationDate": "2026-09-29",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-09-30",
+      "verificationNote": "Article displays September 29 although its URL contains September 30. Named text, prices and all selected original stills visually inspected September 30. Dates cross-checked against the September 30 update poster."
+    },
+    {
+      "id": "cn-20260930-update",
+      "url": "https://www.yysls.cn/news/update/20260930/40412_1315694.html",
+      "titleOriginal": "9月30日版本更新公告",
+      "publisher": "NetEase / Where Winds Meet official website",
+      "server": "CN",
+      "displayedPublicationDate": "2026-09-30",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-09-30",
+      "verificationNote": "Official tall update poster visually inspected in full-resolution sections. The three new appearances list October 2 at 00:00:00; timezone is unstated. Image: https://nie.res.netease.com/r/pic/20260930/d5e6c1e5-6359-442e-accc-47bcffce7680.jpg"
+    },
+    {
+      "id": "global-20260930-october-appearances-en",
+      "url": "https://www.wherewindsmeetgame.com/news/official/1004appearance.html",
+      "titleOriginal": "[Perilous Eminence] Version 2.2 New Appearances Overview - October 4",
+      "publisher": "NetEase / Where Winds Meet official website",
+      "server": "Global",
+      "displayedPublicationDate": "2026-09-30",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-09-30",
+      "verificationNote": "English explicitly gives October 4 at 05:00 (UTC+8); Korean gives 06:00 without an explicit timezone. EN mistakenly repeats Penglai’s Peaks in the rope-dart heading, but its paragraph names Vindicated Way; Korean agrees with Vindicated Way. Discount-end sentences do not explicitly specify a timezone. Do not create a duplicate cosmetic from the EN heading."
+    },
+    {
+      "id": "global-20260930-october-appearances-ko",
+      "url": "https://www.wherewindsmeetgame.com/kr/news/official/1004appearance.html",
+      "titleOriginal": "[구름 위 동행] 10월4일 2.2 버전 신규 외관 목록",
+      "publisher": "NetEase / Where Winds Meet official website",
+      "server": "Global",
+      "displayedPublicationDate": "2026-09-30",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-09-30",
+      "verificationNote": "English explicitly gives October 4 at 05:00 (UTC+8); Korean gives 06:00 without an explicit timezone. EN mistakenly repeats Penglai’s Peaks in the rope-dart heading, but its paragraph names Vindicated Way; Korean agrees with Vindicated Way. Discount-end sentences do not explicitly specify a timezone. Do not create a duplicate cosmetic from the EN heading."
+    },
+    {
+      "id": "acp-forest-sovereign-f-20260930",
+      "url": "https://acp.idv.tw/where_winds_meet/forest-sovereign-f/",
+      "titleOriginal": "Forest Sovereign — forest-sovereign-f",
+      "publisher": "貓植事x恩奇ANCHI / Global community appearance archive",
+      "server": "Global",
+      "displayedPublicationDate": null,
+      "publicationDatePrecision": "unknown",
+      "publicationTimezone": null,
+      "evidenceTier": "C",
+      "kind": "community",
+      "verifiedAt": "2026-09-30",
+      "verificationNote": "Named Chinese outfit and front/rear captions inspected on the rendered article; exact existing name and appearance matched. Community evidence is used only for gallery photos, not official Global naming, release dates or prices. Original watermark retained; reuse permission remains unknown."
+    },
+    {
+      "id": "acp-cicada-requiem-f-20260930",
+      "url": "https://acp.idv.tw/where_winds_meet/cicada-requiem-f/",
+      "titleOriginal": "疏桐流响 — cicada-requiem-f",
+      "publisher": "貓植事x恩奇ANCHI / Global community appearance archive",
+      "server": "Global",
+      "displayedPublicationDate": null,
+      "publicationDatePrecision": "unknown",
+      "publicationTimezone": null,
+      "evidenceTier": "C",
+      "kind": "community",
+      "verifiedAt": "2026-09-30",
+      "verificationNote": "Named Chinese outfit and front/rear captions inspected on the rendered article; exact existing name and appearance matched. Community evidence is used only for gallery photos, not official Global naming, release dates or prices. Original watermark retained; reuse permission remains unknown."
+    },
+    {
+      "id": "acp-jade-moonrise-f-20260930",
+      "url": "https://acp.idv.tw/where_winds_meet/jade-moonrise-f/",
+      "titleOriginal": "金滟玉团 — jade-moonrise-f",
+      "publisher": "貓植事x恩奇ANCHI / Global community appearance archive",
+      "server": "Global",
+      "displayedPublicationDate": null,
+      "publicationDatePrecision": "unknown",
+      "publicationTimezone": null,
+      "evidenceTier": "C",
+      "kind": "community",
+      "verifiedAt": "2026-09-30",
+      "verificationNote": "Named Chinese outfit and front/rear captions inspected on the rendered article; exact existing name and appearance matched. Community evidence is used only for gallery photos, not official Global naming, release dates or prices. Original watermark retained; reuse permission remains unknown."
+    },
+    {
+      "id": "acp-valleys-echo-f-20260930",
+      "url": "https://acp.idv.tw/where_winds_meet/valleys-echo-f/",
+      "titleOriginal": "万壑清响 — valleys-echo-f",
+      "publisher": "貓植事x恩奇ANCHI / Global community appearance archive",
+      "server": "Global",
+      "displayedPublicationDate": null,
+      "publicationDatePrecision": "unknown",
+      "publicationTimezone": null,
+      "evidenceTier": "C",
+      "kind": "community",
+      "verifiedAt": "2026-09-30",
+      "verificationNote": "Named Chinese outfit and front/rear captions inspected on the rendered article; exact existing name and appearance matched. Community evidence is used only for gallery photos, not official Global naming, release dates or prices. Original watermark retained; reuse permission remains unknown."
+    },
+    {
+      "id": "acp-sandveil-venom-f-20260930",
+      "url": "https://acp.idv.tw/where_winds_meet/sandveil-venom-f/",
+      "titleOriginal": "流沙问蛊 — sandveil-venom-f",
+      "publisher": "貓植事x恩奇ANCHI / Global community appearance archive",
+      "server": "Global",
+      "displayedPublicationDate": null,
+      "publicationDatePrecision": "unknown",
+      "publicationTimezone": null,
+      "evidenceTier": "C",
+      "kind": "community",
+      "verifiedAt": "2026-09-30",
+      "verificationNote": "Named Chinese outfit and front/rear captions inspected on the rendered article; exact existing name and appearance matched. Community evidence is used only for gallery photos, not official Global naming, release dates or prices. Original watermark retained; reuse permission remains unknown."
+    },
+    {
+      "id": "acp-soaring-swallows-f-20260930",
+      "url": "https://acp.idv.tw/where_winds_meet/soaring-swallows-f/",
+      "titleOriginal": "燕燕于飞 — soaring-swallows-f",
+      "publisher": "貓植事x恩奇ANCHI / Global community appearance archive",
+      "server": "Global",
+      "displayedPublicationDate": null,
+      "publicationDatePrecision": "unknown",
+      "publicationTimezone": null,
+      "evidenceTier": "C",
+      "kind": "community",
+      "verifiedAt": "2026-09-30",
+      "verificationNote": "Named Chinese outfit and front/rear captions inspected on the rendered article; exact existing name and appearance matched. Community evidence is used only for gallery photos, not official Global naming, release dates or prices. Original watermark retained; reuse permission remains unknown."
+    },
+    {
+      "id": "acp-phantom-shift-f-20260930",
+      "url": "https://acp.idv.tw/where_winds_meet/phantom-shift-f/",
+      "titleOriginal": "怪无常 — phantom-shift-f",
+      "publisher": "貓植事x恩奇ANCHI / Global community appearance archive",
+      "server": "Global",
+      "displayedPublicationDate": null,
+      "publicationDatePrecision": "unknown",
+      "publicationTimezone": null,
+      "evidenceTier": "C",
+      "kind": "community",
+      "verifiedAt": "2026-09-30",
+      "verificationNote": "Named Chinese outfit and front/rear captions inspected on the rendered article; exact existing name and appearance matched. Community evidence is used only for gallery photos, not official Global naming, release dates or prices. Original watermark retained; reuse permission remains unknown."
+    },
+    {
+      "id": "acp-white-plume-hunter-f-20260930",
+      "url": "https://acp.idv.tw/where_winds_meet/white-plume-hunter-f/",
+      "titleOriginal": "猎白羽 — white-plume-hunter-f",
+      "publisher": "貓植事x恩奇ANCHI / Global community appearance archive",
+      "server": "Global",
+      "displayedPublicationDate": null,
+      "publicationDatePrecision": "unknown",
+      "publicationTimezone": null,
+      "evidenceTier": "C",
+      "kind": "community",
+      "verifiedAt": "2026-09-30",
+      "verificationNote": "Named Chinese outfit and front/rear captions inspected on the rendered article; exact existing name and appearance matched. Community evidence is used only for gallery photos, not official Global naming, release dates or prices. Original watermark retained; reuse permission remains unknown."
+    },
+    {
+      "id": "acp-kite-in-the-painting-f-20260930",
+      "url": "https://acp.idv.tw/where_winds_meet/kite-in-the-painting-f/",
+      "titleOriginal": "轻鸢入画 — kite-in-the-painting-f",
+      "publisher": "貓植事x恩奇ANCHI / Global community appearance archive",
+      "server": "Global",
+      "displayedPublicationDate": null,
+      "publicationDatePrecision": "unknown",
+      "publicationTimezone": null,
+      "evidenceTier": "C",
+      "kind": "community",
+      "verifiedAt": "2026-09-30",
+      "verificationNote": "Named Chinese outfit and front/rear captions inspected on the rendered article; exact existing name and appearance matched. Community evidence is used only for gallery photos, not official Global naming, release dates or prices. Original watermark retained; reuse permission remains unknown."
+    },
+    {
+      "id": "acp-moonlit-howl-f-20260930",
+      "url": "https://acp.idv.tw/where_winds_meet/moonlit-howl-f/",
+      "titleOriginal": "Moonlit Howl — moonlit-howl-f",
+      "publisher": "貓植事x恩奇ANCHI / Global community appearance archive",
+      "server": "Global",
+      "displayedPublicationDate": null,
+      "publicationDatePrecision": "unknown",
+      "publicationTimezone": null,
+      "evidenceTier": "C",
+      "kind": "community",
+      "verifiedAt": "2026-09-30",
+      "verificationNote": "Named Chinese outfit and front/rear captions inspected on the rendered article; exact existing name and appearance matched. Community evidence is used only for gallery photos, not official Global naming, release dates or prices. Original watermark retained; reuse permission remains unknown."
+    },
+    {
+      "id": "acp-strokes-of-grace-f-20260930",
+      "url": "https://acp.idv.tw/where_winds_meet/strokes-of-grace-f/",
+      "titleOriginal": "翰墨丹青 — strokes-of-grace-f",
+      "publisher": "貓植事x恩奇ANCHI / Global community appearance archive",
+      "server": "Global",
+      "displayedPublicationDate": null,
+      "publicationDatePrecision": "unknown",
+      "publicationTimezone": null,
+      "evidenceTier": "C",
+      "kind": "community",
+      "verifiedAt": "2026-09-30",
+      "verificationNote": "Named Chinese outfit and front/rear captions inspected on the rendered article; exact existing name and appearance matched. Community evidence is used only for gallery photos, not official Global naming, release dates or prices. Original watermark retained; reuse permission remains unknown."
+    },
+    {
+      "id": "acp-springtide-verse-f-20260930",
+      "url": "https://acp.idv.tw/where_winds_meet/springtide-verse-f/",
+      "titleOriginal": "点春瓯 — springtide-verse-f",
+      "publisher": "貓植事x恩奇ANCHI / Global community appearance archive",
+      "server": "Global",
+      "displayedPublicationDate": null,
+      "publicationDatePrecision": "unknown",
+      "publicationTimezone": null,
+      "evidenceTier": "C",
+      "kind": "community",
+      "verifiedAt": "2026-09-30",
+      "verificationNote": "Named Chinese outfit and front/rear captions inspected on the rendered article; exact existing name and appearance matched. Community evidence is used only for gallery photos, not official Global naming, release dates or prices. Original watermark retained; reuse permission remains unknown."
+    },
+    {
+      "id": "acp-song-of-longing-f-20260930",
+      "url": "https://acp.idv.tw/where_winds_meet/song-of-longing-f/",
+      "titleOriginal": "相思曲 — song-of-longing-f",
+      "publisher": "貓植事x恩奇ANCHI / Global community appearance archive",
+      "server": "Global",
+      "displayedPublicationDate": null,
+      "publicationDatePrecision": "unknown",
+      "publicationTimezone": null,
+      "evidenceTier": "C",
+      "kind": "community",
+      "verifiedAt": "2026-09-30",
+      "verificationNote": "Named Chinese outfit and front/rear captions inspected on the rendered article; exact existing name and appearance matched. Community evidence is used only for gallery photos, not official Global naming, release dates or prices. Original watermark retained; reuse permission remains unknown."
+    },
+    {
+      "id": "acp-dyed-azure-f-20260930",
+      "url": "https://acp.idv.tw/where_winds_meet/dyed-azure-f/",
+      "titleOriginal": "染青苍 — dyed-azure-f",
+      "publisher": "貓植事x恩奇ANCHI / Global community appearance archive",
+      "server": "Global",
+      "displayedPublicationDate": null,
+      "publicationDatePrecision": "unknown",
+      "publicationTimezone": null,
+      "evidenceTier": "C",
+      "kind": "community",
+      "verifiedAt": "2026-09-30",
+      "verificationNote": "Named Chinese outfit and front/rear captions inspected on the rendered article; exact existing name and appearance matched. Community evidence is used only for gallery photos, not official Global naming, release dates or prices. Original watermark retained; reuse permission remains unknown."
+    },
+    {
+      "id": "acp-highland-heritage-f-20260930",
+      "url": "https://acp.idv.tw/where_winds_meet/highland-heritage-f/",
+      "titleOriginal": "山中人 — highland-heritage-f",
+      "publisher": "貓植事x恩奇ANCHI / Global community appearance archive",
+      "server": "Global",
+      "displayedPublicationDate": null,
+      "publicationDatePrecision": "unknown",
+      "publicationTimezone": null,
+      "evidenceTier": "C",
+      "kind": "community",
+      "verifiedAt": "2026-09-30",
+      "verificationNote": "Named Chinese outfit and front/rear captions inspected on the rendered article; exact existing name and appearance matched. Community evidence is used only for gallery photos, not official Global naming, release dates or prices. Original watermark retained; reuse permission remains unknown."
+    },
+    {
+      "id": "acp-orchid-dew-f-20260930",
+      "url": "https://acp.idv.tw/where_winds_meet/orchid-dew-f/",
+      "titleOriginal": "幽兰露 — orchid-dew-f",
+      "publisher": "貓植事x恩奇ANCHI / Global community appearance archive",
+      "server": "Global",
+      "displayedPublicationDate": null,
+      "publicationDatePrecision": "unknown",
+      "publicationTimezone": null,
+      "evidenceTier": "C",
+      "kind": "community",
+      "verifiedAt": "2026-09-30",
+      "verificationNote": "Named Chinese outfit and front/rear captions inspected on the rendered article; exact existing name and appearance matched. Community evidence is used only for gallery photos, not official Global naming, release dates or prices. Original watermark retained; reuse permission remains unknown."
+    },
+    {
+      "id": "acp-elegy-of-petals-f-20260930",
+      "url": "https://acp.idv.tw/where_winds_meet/elegy-of-petals-f/",
+      "titleOriginal": "葬花吟 — elegy-of-petals-f",
+      "publisher": "貓植事x恩奇ANCHI / Global community appearance archive",
+      "server": "Global",
+      "displayedPublicationDate": null,
+      "publicationDatePrecision": "unknown",
+      "publicationTimezone": null,
+      "evidenceTier": "C",
+      "kind": "community",
+      "verifiedAt": "2026-09-30",
+      "verificationNote": "Named Chinese outfit and front/rear captions inspected on the rendered article; exact existing name and appearance matched. Community evidence is used only for gallery photos, not official Global naming, release dates or prices. Original watermark retained; reuse permission remains unknown."
+    },
+    {
+      "id": "acp-enter-the-cutie-f-20260930",
+      "url": "https://acp.idv.tw/where_winds_meet/enter-the-cutie-f/",
+      "titleOriginal": "萌主驾到 — enter-the-cutie-f",
+      "publisher": "貓植事x恩奇ANCHI / Global community appearance archive",
+      "server": "Global",
+      "displayedPublicationDate": null,
+      "publicationDatePrecision": "unknown",
+      "publicationTimezone": null,
+      "evidenceTier": "C",
+      "kind": "community",
+      "verifiedAt": "2026-09-30",
+      "verificationNote": "Named Chinese outfit and front/rear captions inspected on the rendered article; exact existing name and appearance matched. Community evidence is used only for gallery photos, not official Global naming, release dates or prices. Original watermark retained; reuse permission remains unknown."
+    },
+    {
+      "id": "acp-midsummer-grace-f-20260930",
+      "url": "https://acp.idv.tw/where_winds_meet/midsummer-grace-f/",
+      "titleOriginal": "午风清 — midsummer-grace-f",
+      "publisher": "貓植事x恩奇ANCHI / Global community appearance archive",
+      "server": "Global",
+      "displayedPublicationDate": null,
+      "publicationDatePrecision": "unknown",
+      "publicationTimezone": null,
+      "evidenceTier": "C",
+      "kind": "community",
+      "verifiedAt": "2026-09-30",
+      "verificationNote": "Named Chinese outfit and front/rear captions inspected on the rendered article; exact existing name and appearance matched. Community evidence is used only for gallery photos, not official Global naming, release dates or prices. Original watermark retained; reuse permission remains unknown."
+    }
+  ],
+  "checkedAt": "2026-09-30",
+  "scope": "Bounded older-outfit gallery expansion and current CN/Global/Korean official notices; not a complete inventory of competitor galleries.",
+  "images": [
+    {
+      "cid": "zui-penglai",
+      "index": 2,
+      "sourceId": "cn-20250925-new-appearance",
+      "url": "https://nie.res.netease.com/r/pic/20250926/3c34ab4c-6508-44de-9e02-097bc95b0102.png",
+      "community": false
+    },
+    {
+      "cid": "zui-penglai",
+      "index": 3,
+      "sourceId": "cn-20250925-new-appearance",
+      "url": "https://nie.res.netease.com/r/pic/20250926/c070d95f-c673-493c-b058-4f768fdbe83c.jpg",
+      "community": false
+    },
+    {
+      "cid": "zui-penglai",
+      "index": 4,
+      "sourceId": "cn-20250925-new-appearance",
+      "url": "https://nie.res.netease.com/r/pic/20250926/adcd557c-c0af-460c-b1c0-df37ca6f5bad.jpg",
+      "community": false
+    },
+    {
+      "cid": "qian-nian-you-dai",
+      "index": 2,
+      "sourceId": "cn-20260729-outfits",
+      "url": "https://nie.res.netease.com/r/pic/20260801/356d9172-f220-456e-8fc4-b218e5f6d69f.jpg",
+      "community": false
+    },
+    {
+      "cid": "qian-nian-you-dai",
+      "index": 3,
+      "sourceId": "cn-20260729-outfits",
+      "url": "https://nie.res.netease.com/r/pic/20260801/205de5d3-28ff-4d12-97b5-f0796db63443.jpeg",
+      "community": false
+    },
+    {
+      "cid": "qian-nian-you-dai",
+      "index": 4,
+      "sourceId": "cn-20260729-outfits",
+      "url": "https://nie.res.netease.com/r/pic/20260801/84f91a3a-8e25-41d6-815b-23b44b42c790.jpg",
+      "community": false
+    },
+    {
+      "cid": "qian-nian-you-dai",
+      "index": 5,
+      "sourceId": "cn-20260729-outfits",
+      "url": "https://nie.res.netease.com/r/pic/20260801/40b6c743-5419-49e8-aa62-ef71204a496e.jpg",
+      "community": false
+    },
+    {
+      "cid": "qian-nian-you-dai",
+      "index": 6,
+      "sourceId": "cn-20260729-outfits",
+      "url": "https://nie.res.netease.com/r/pic/20260801/1410210f-0539-4a70-8b30-716a4393bf45.jpg",
+      "community": false
+    },
+    {
+      "cid": "qian-nian-you-dai",
+      "index": 7,
+      "sourceId": "cn-20260729-outfits",
+      "url": "https://nie.res.netease.com/r/pic/20260801/15e7a95e-50a9-4f5d-bf03-c079216aabd4.jpg",
+      "community": false
+    },
+    {
+      "cid": "qian-nian-you-dai",
+      "index": 8,
+      "sourceId": "cn-20260729-outfits",
+      "url": "https://nie.res.netease.com/r/pic/20260801/d7e889a9-c051-4643-90bb-10768d260e8c.jpg",
+      "community": false
+    },
+    {
+      "cid": "qian-nian-you-dai",
+      "index": 9,
+      "sourceId": "cn-20260729-outfits",
+      "url": "https://nie.res.netease.com/r/pic/20260801/50f120a3-5a7b-486e-9680-8c74c88feed1.jpg",
+      "community": false
+    },
+    {
+      "cid": "qian-nian-you-dai",
+      "index": 10,
+      "sourceId": "cn-20260729-outfits",
+      "url": "https://nie.res.netease.com/r/pic/20260801/4c2ca689-d332-4758-a3c6-0e925e813c49.jpg",
+      "community": false
+    },
+    {
+      "cid": "qian-nian-you-dai",
+      "index": 11,
+      "sourceId": "cn-20260729-outfits",
+      "url": "https://nie.res.netease.com/r/pic/20260801/0f094a03-b597-4a3e-9ce8-c51e9471c214.jpg",
+      "community": false
+    },
+    {
+      "cid": "qian-nian-you-dai",
+      "index": 12,
+      "sourceId": "cn-20260729-outfits",
+      "url": "https://nie.res.netease.com/r/pic/20260801/fd898f5e-2257-4c07-a555-c465e67d72f8.jpg",
+      "community": false
+    },
+    {
+      "cid": "qian-nian-you-dai",
+      "index": 13,
+      "sourceId": "cn-20260729-outfits",
+      "url": "https://nie.res.netease.com/r/pic/20260801/00db1826-b4fa-463d-a415-7d27f10721e7.jpg",
+      "community": false
+    },
+    {
+      "cid": "qian-nian-you-dai",
+      "index": 14,
+      "sourceId": "cn-20260729-outfits",
+      "url": "https://nie.res.netease.com/r/pic/20260801/fb9769b7-b7e5-4a3c-8a51-81885b9687b3.jpg",
+      "community": false
+    },
+    {
+      "cid": "qing-lin-fu-yu",
+      "index": 2,
+      "sourceId": "cn-20260729-outfits",
+      "url": "https://nie.res.netease.com/r/pic/20260801/39cd7ba6-e7de-47a0-87de-d376165371fe.jpg",
+      "community": false
+    },
+    {
+      "cid": "qing-lin-fu-yu",
+      "index": 3,
+      "sourceId": "cn-20260729-outfits",
+      "url": "https://nie.res.netease.com/r/pic/20260801/be1116cb-8ad1-4263-9a7f-5275da7c5498.jpg",
+      "community": false
+    },
+    {
+      "cid": "qing-lin-fu-yu",
+      "index": 4,
+      "sourceId": "cn-20260729-outfits",
+      "url": "https://nie.res.netease.com/r/pic/20260801/80821cad-95ce-4acd-a063-189fa56f502b.jpg",
+      "community": false
+    },
+    {
+      "cid": "qing-lin-fu-yu",
+      "index": 5,
+      "sourceId": "cn-20260729-outfits",
+      "url": "https://nie.res.netease.com/r/pic/20260801/c7fc07cf-cf17-44a2-81e8-d722d3b583c8.jpg",
+      "community": false
+    },
+    {
+      "cid": "qing-lin-fu-yu",
+      "index": 6,
+      "sourceId": "cn-20260729-outfits",
+      "url": "https://nie.res.netease.com/r/pic/20260801/569a73a4-fc5e-42d8-bed7-0565c123f9ad.jpg",
+      "community": false
+    },
+    {
+      "cid": "qing-lin-fu-yu",
+      "index": 7,
+      "sourceId": "cn-20260729-outfits",
+      "url": "https://nie.res.netease.com/r/pic/20260801/4da90509-5046-42b2-8779-362e6db54a2d.jpg",
+      "community": false
+    },
+    {
+      "cid": "qing-lin-fu-yu",
+      "index": 8,
+      "sourceId": "cn-20260729-outfits",
+      "url": "https://nie.res.netease.com/r/pic/20260801/6710e050-f3ca-4104-949c-72ab495ce66d.jpg",
+      "community": false
+    },
+    {
+      "cid": "qing-lin-fu-yu",
+      "index": 9,
+      "sourceId": "cn-20260729-outfits",
+      "url": "https://nie.res.netease.com/r/pic/20260801/47671a33-684f-4702-9574-6b4cfc17f6f9.jpg",
+      "community": false
+    },
+    {
+      "cid": "qing-lin-fu-yu",
+      "index": 10,
+      "sourceId": "cn-20260729-outfits",
+      "url": "https://nie.res.netease.com/r/pic/20260801/5ab96425-a576-4d13-a607-b55c2c436b38.jpg",
+      "community": false
+    },
+    {
+      "cid": "qing-lin-fu-yu",
+      "index": 11,
+      "sourceId": "cn-20260729-outfits",
+      "url": "https://nie.res.netease.com/r/pic/20260801/cc857a25-b0ab-43ef-ae8c-8a301bcbf3c8.jpg",
+      "community": false
+    },
+    {
+      "cid": "qing-lin-fu-yu",
+      "index": 12,
+      "sourceId": "cn-20260729-outfits",
+      "url": "https://nie.res.netease.com/r/pic/20260801/799f55f7-95fe-4a2e-bf39-be9f2c2bd99f.jpg",
+      "community": false
+    },
+    {
+      "cid": "qing-lin-fu-yu",
+      "index": 13,
+      "sourceId": "cn-20260729-outfits",
+      "url": "https://nie.res.netease.com/r/pic/20260801/38e19f98-a438-44d3-989d-4b814b0d44f6.jpg",
+      "community": false
+    },
+    {
+      "cid": "lian-du-you-luo",
+      "index": 2,
+      "sourceId": "cn-20260226-outfits",
+      "url": "https://nie.res.netease.com/r/pic/20260227/17935ad9-3161-41e5-988e-2e855ca2d654.png",
+      "community": false
+    },
+    {
+      "cid": "lian-du-you-luo",
+      "index": 3,
+      "sourceId": "cn-20260226-outfits",
+      "url": "https://nie.res.netease.com/r/pic/20260227/c4e43c43-2e6b-4e1d-861e-63d39f084114.jpeg",
+      "community": false
+    },
+    {
+      "cid": "lian-du-you-luo",
+      "index": 4,
+      "sourceId": "cn-20260226-outfits",
+      "url": "https://nie.res.netease.com/r/pic/20260227/57729a8a-600d-4bd0-903b-56a695d8dac2.png",
+      "community": false
+    },
+    {
+      "cid": "lian-du-you-luo",
+      "index": 5,
+      "sourceId": "cn-20260226-outfits",
+      "url": "https://nie.res.netease.com/r/pic/20260227/9c75c118-ea06-410c-ba90-f67daca8de84.jpeg",
+      "community": false
+    },
+    {
+      "cid": "lian-du-you-luo",
+      "index": 6,
+      "sourceId": "cn-20260226-outfits",
+      "url": "https://nie.res.netease.com/r/pic/20260227/8df9c9b4-70ee-42e1-9b92-935034796437.png",
+      "community": false
+    },
+    {
+      "cid": "lian-du-you-luo",
+      "index": 7,
+      "sourceId": "cn-20260226-outfits",
+      "url": "https://nie.res.netease.com/r/pic/20260227/04ee968e-8ffe-49d5-9c51-6580401504b3.png",
+      "community": false
+    },
+    {
+      "cid": "lian-du-you-luo",
+      "index": 8,
+      "sourceId": "cn-20260226-outfits",
+      "url": "https://nie.res.netease.com/r/pic/20260227/0792c2c1-15df-434e-8a7c-079bcf7b6312.png",
+      "community": false
+    },
+    {
+      "cid": "qing-xiao-lue-ying",
+      "index": 2,
+      "sourceId": "cn-20260331-outfits",
+      "url": "https://nie.res.netease.com/r/pic/20260401/d8286b2e-fd9b-4a67-983f-7d0138cbfef0.png",
+      "community": false
+    },
+    {
+      "cid": "qing-xiao-lue-ying",
+      "index": 3,
+      "sourceId": "cn-20260331-outfits",
+      "url": "https://nie.res.netease.com/r/pic/20260401/251f8023-4d03-422e-9b45-59558e9bb31d.png",
+      "community": false
+    },
+    {
+      "cid": "qing-xiao-lue-ying",
+      "index": 4,
+      "sourceId": "cn-20260331-outfits",
+      "url": "https://nie.res.netease.com/r/pic/20260401/29509039-11bb-4d64-88d7-14aa191780ff.png",
+      "community": false
+    },
+    {
+      "cid": "qing-xiao-lue-ying",
+      "index": 5,
+      "sourceId": "cn-20260331-outfits",
+      "url": "https://nie.res.netease.com/r/pic/20260401/c7b63c57-c504-433e-9603-88dbb8bad970.png",
+      "community": false
+    },
+    {
+      "cid": "xuan-gu-zai-yuan",
+      "index": 2,
+      "sourceId": "cn-20260422-outfits",
+      "url": "https://nie.res.netease.com/r/pic/20260424/7d3ced15-600b-49c7-ba04-0814d36499e0.png",
+      "community": false
+    },
+    {
+      "cid": "xuan-gu-zai-yuan",
+      "index": 3,
+      "sourceId": "cn-20260422-outfits",
+      "url": "https://nie.res.netease.com/r/pic/20260424/fd01a5d1-7a60-4b9b-ae9e-fb74de0c0701.png",
+      "community": false
+    },
+    {
+      "cid": "xuan-gu-zai-yuan",
+      "index": 4,
+      "sourceId": "cn-20260422-outfits",
+      "url": "https://nie.res.netease.com/r/pic/20260424/57e163fe-b447-43b4-8bbc-a285080d803b.png",
+      "community": false
+    },
+    {
+      "cid": "xuan-gu-zai-yuan",
+      "index": 5,
+      "sourceId": "cn-20260422-outfits",
+      "url": "https://nie.res.netease.com/r/pic/20260424/2fb73285-2b7d-4193-9e61-13d28428dc4a.png",
+      "community": false
+    },
+    {
+      "cid": "xuan-gu-zai-yuan",
+      "index": 6,
+      "sourceId": "cn-20260422-outfits",
+      "url": "https://nie.res.netease.com/r/pic/20260424/f3314a3c-749f-43f4-bf9d-7c84aa14e1ad.png",
+      "community": false
+    },
+    {
+      "cid": "xuan-gu-zai-yuan",
+      "index": 7,
+      "sourceId": "cn-20260422-outfits",
+      "url": "https://nie.res.netease.com/r/pic/20260424/4a142b40-25cd-4840-8b3d-bad0a23b8622.png",
+      "community": false
+    },
+    {
+      "cid": "xuan-gu-zai-yuan",
+      "index": 8,
+      "sourceId": "cn-20260422-outfits",
+      "url": "https://nie.res.netease.com/r/pic/20260424/547a6cbd-1d77-4b54-90f1-39ed6a0aad8d.png",
+      "community": false
+    },
+    {
+      "cid": "xuan-gu-zai-yuan",
+      "index": 9,
+      "sourceId": "cn-20260422-outfits",
+      "url": "https://nie.res.netease.com/r/pic/20260424/4b4b2a5c-6206-4a60-bf49-3c7608220cdd.png",
+      "community": false
+    },
+    {
+      "cid": "xuan-gu-zai-yuan",
+      "index": 10,
+      "sourceId": "cn-20260422-outfits",
+      "url": "https://nie.res.netease.com/r/pic/20260424/8c943cda-0b05-42bb-9bd8-9a8a1f0336ec.png",
+      "community": false
+    },
+    {
+      "cid": "nan-ming-you-meng",
+      "index": 2,
+      "sourceId": "cn-20260514-outfits",
+      "url": "https://nie.res.netease.com/r/pic/20260514/25a75b0b-fc74-48a8-9b23-94ff752c4cc4.png",
+      "community": false
+    },
+    {
+      "cid": "nan-ming-you-meng",
+      "index": 3,
+      "sourceId": "cn-20260514-outfits",
+      "url": "https://nie.res.netease.com/r/pic/20260514/21855ef6-786a-4aba-8f36-18bd0c6d3c9b.png",
+      "community": false
+    },
+    {
+      "cid": "nan-ming-you-meng",
+      "index": 4,
+      "sourceId": "cn-20260514-outfits",
+      "url": "https://nie.res.netease.com/r/pic/20260514/925982cf-fa35-432d-8566-5288060ff2dc.png",
+      "community": false
+    },
+    {
+      "cid": "nan-ming-you-meng",
+      "index": 5,
+      "sourceId": "cn-20260514-outfits",
+      "url": "https://nie.res.netease.com/r/pic/20260514/64545724-cd08-4087-8c73-0242337e2f91.png",
+      "community": false
+    },
+    {
+      "cid": "nan-ming-you-meng",
+      "index": 6,
+      "sourceId": "cn-20260514-outfits",
+      "url": "https://nie.res.netease.com/r/pic/20260514/df9c1dda-3b1b-4f67-8f8c-9cd0f8eeec81.png",
+      "community": false
+    },
+    {
+      "cid": "nan-ming-you-meng",
+      "index": 7,
+      "sourceId": "cn-20260514-outfits",
+      "url": "https://nie.res.netease.com/r/pic/20260514/3c8bab5e-2cd1-47e0-961a-926a95e8c32b.png",
+      "community": false
+    },
+    {
+      "cid": "nan-ming-you-meng",
+      "index": 8,
+      "sourceId": "cn-20260514-outfits",
+      "url": "https://nie.res.netease.com/r/pic/20260514/f85367d5-9996-4777-ab2c-bc95fc9609fa.png",
+      "community": false
+    },
+    {
+      "cid": "nan-ming-you-meng",
+      "index": 9,
+      "sourceId": "cn-20260514-outfits",
+      "url": "https://nie.res.netease.com/r/pic/20260514/da615a77-9203-4a50-89f5-b86f35a58003.png",
+      "community": false
+    },
+    {
+      "cid": "fu-chen-wu-ji",
+      "index": 2,
+      "sourceId": "cn-20260528-outfits",
+      "url": "https://nie.res.netease.com/r/pic/20260529/eb3f9053-15ad-4deb-a120-a96955576612.png",
+      "community": false
+    },
+    {
+      "cid": "fu-chen-wu-ji",
+      "index": 3,
+      "sourceId": "cn-20260528-outfits",
+      "url": "https://nie.res.netease.com/r/pic/20260529/1eeba94f-f135-41a2-af56-32632aaa7cb9.png",
+      "community": false
+    },
+    {
+      "cid": "fu-chen-wu-ji",
+      "index": 4,
+      "sourceId": "cn-20260528-outfits",
+      "url": "https://nie.res.netease.com/r/pic/20260529/ed608c39-aa8d-469a-a3b5-d1463faca337.png",
+      "community": false
+    },
+    {
+      "cid": "fu-chen-wu-ji",
+      "index": 5,
+      "sourceId": "cn-20260528-outfits",
+      "url": "https://nie.res.netease.com/r/pic/20260529/2f187b3c-86c7-4c0b-980b-240296f81189.png",
+      "community": false
+    },
+    {
+      "cid": "fu-chen-wu-ji",
+      "index": 6,
+      "sourceId": "cn-20260528-outfits",
+      "url": "https://nie.res.netease.com/r/pic/20260529/0b4be8a1-6e9a-4a3c-bcea-13e27a4eb61f.png",
+      "community": false
+    },
+    {
+      "cid": "fu-chen-wu-ji",
+      "index": 7,
+      "sourceId": "cn-20260528-outfits",
+      "url": "https://nie.res.netease.com/r/pic/20260529/19b7e011-dadc-4fe5-88ae-c3cfb09e0387.png",
+      "community": false
+    },
+    {
+      "cid": "lian-tai-he",
+      "index": 2,
+      "sourceId": "cn-20260630-outfits",
+      "url": "https://nie.res.netease.com/r/pic/20260703/6117f80e-03b3-4c30-a45a-6c58f6f98d27.jpg",
+      "community": false
+    },
+    {
+      "cid": "lian-tai-he",
+      "index": 3,
+      "sourceId": "cn-20260630-outfits",
+      "url": "https://nie.res.netease.com/r/pic/20260703/a6936466-0870-42e4-b667-efc40f2a77c7.jpg",
+      "community": false
+    },
+    {
+      "cid": "zhu-luan-gu-qing",
+      "index": 0,
+      "sourceId": "cn-20260930-appearances",
+      "url": "https://nie.res.netease.com/r/pic/20260930/96f53845-b05e-4ae4-8693-03870588a65c.png",
+      "community": false
+    },
+    {
+      "cid": "zhu-luan-gu-qing",
+      "index": 1,
+      "sourceId": "cn-20260930-appearances",
+      "url": "https://nie.res.netease.com/r/pic/20260930/b7daa64c-0f6d-4a26-aa9b-5337d4eadd8d.png",
+      "community": false
+    },
+    {
+      "cid": "zhu-luan-gu-qing",
+      "index": 2,
+      "sourceId": "cn-20260930-appearances",
+      "url": "https://nie.res.netease.com/r/pic/20260930/037081d7-e129-42b6-b2eb-3281d5e6b182.png",
+      "community": false
+    },
+    {
+      "cid": "zhu-luan-gu-qing",
+      "index": 3,
+      "sourceId": "cn-20260930-appearances",
+      "url": "https://nie.res.netease.com/r/pic/20260930/728aa46c-57ba-40c1-a3c8-2fef9c18dfc9.png",
+      "community": false
+    },
+    {
+      "cid": "zhu-luan-gu-qing",
+      "index": 4,
+      "sourceId": "cn-20260930-appearances",
+      "url": "https://nie.res.netease.com/r/pic/20260930/60960f58-4ebb-46ad-aec4-552551fdf0c0.jpg",
+      "community": false
+    },
+    {
+      "cid": "zhu-luan-gu-qing",
+      "index": 5,
+      "sourceId": "cn-20260930-appearances",
+      "url": "https://nie.res.netease.com/r/pic/20260930/17914285-257d-4a78-9495-e1a1146db974.png",
+      "community": false
+    },
+    {
+      "cid": "zhu-luan-gu-qing",
+      "index": 6,
+      "sourceId": "cn-20260930-appearances",
+      "url": "https://nie.res.netease.com/r/pic/20260930/9eb74dd5-5af5-4b48-8169-6ef4a83b1951.png",
+      "community": false
+    },
+    {
+      "cid": "zhu-luan-gu-qing",
+      "index": 7,
+      "sourceId": "cn-20260930-appearances",
+      "url": "https://nie.res.netease.com/r/pic/20260930/d7a6a099-7be0-4f38-ab51-3d74c26f5115.png",
+      "community": false
+    },
+    {
+      "cid": "cang-yin-tian-di-yi-xiao",
+      "index": 0,
+      "sourceId": "cn-20260930-appearances",
+      "url": "https://nie.res.netease.com/r/pic/20260930/cf0d213f-9273-4825-bad5-1cce4ea9dc1c.png",
+      "community": false
+    },
+    {
+      "cid": "cang-yin-tian-di-yi-xiao",
+      "index": 1,
+      "sourceId": "cn-20260930-appearances",
+      "url": "https://nie.res.netease.com/r/pic/20260930/436ca78a-e3e4-427c-9ca0-2e8e0cc032d4.png",
+      "community": false
+    },
+    {
+      "cid": "cang-yin-tian-di-yi-xiao",
+      "index": 2,
+      "sourceId": "cn-20260930-appearances",
+      "url": "https://nie.res.netease.com/r/pic/20260930/78edf389-9542-41a5-a5d1-0d499118b606.png",
+      "community": false
+    },
+    {
+      "cid": "cang-yin-tian-di-yi-xiao",
+      "index": 3,
+      "sourceId": "cn-20260930-appearances",
+      "url": "https://nie.res.netease.com/r/pic/20260930/6120e2e2-601d-4928-8472-fabea3cd8c8f.png",
+      "community": false
+    },
+    {
+      "cid": "wan-lai-zhu-yue-xian",
+      "index": 0,
+      "sourceId": "cn-20260930-appearances",
+      "url": "https://nie.res.netease.com/r/pic/20260930/aeb9de3f-56cb-4d9f-bdb7-4200beaf317b.png",
+      "community": false
+    },
+    {
+      "cid": "wan-lai-zhu-yue-xian",
+      "index": 1,
+      "sourceId": "cn-20260930-appearances",
+      "url": "https://nie.res.netease.com/r/pic/20260930/3a344c66-d8c4-4c98-8725-6bbf17f1a646.png",
+      "community": false
+    },
+    {
+      "cid": "wan-lai-zhu-yue-xian",
+      "index": 2,
+      "sourceId": "cn-20260930-appearances",
+      "url": "https://nie.res.netease.com/r/pic/20260930/2230471c-e734-406c-ac53-5681b15f6f28.png",
+      "community": false
+    },
+    {
+      "cid": "global-forest-sovereign",
+      "index": 1,
+      "sourceId": "acp-forest-sovereign-f-20260930",
+      "url": "https://img.acp.idv.tw/2026/05/20260528135213_1.jpg",
+      "community": true
+    },
+    {
+      "cid": "global-forest-sovereign",
+      "index": 2,
+      "sourceId": "acp-forest-sovereign-f-20260930",
+      "url": "https://img.acp.idv.tw/2026/05/20260528135218_1.jpg",
+      "community": true
+    },
+    {
+      "cid": "shu-tong-liu-xiang",
+      "index": 1,
+      "sourceId": "acp-cicada-requiem-f-20260930",
+      "url": "https://img.acp.idv.tw/2026/09/20260927213210_1.jpg",
+      "community": true
+    },
+    {
+      "cid": "shu-tong-liu-xiang",
+      "index": 2,
+      "sourceId": "acp-cicada-requiem-f-20260930",
+      "url": "https://img.acp.idv.tw/2026/09/20260927213216_1.jpg",
+      "community": true
+    },
+    {
+      "cid": "jin-yan-yu-tuan",
+      "index": 1,
+      "sourceId": "acp-jade-moonrise-f-20260930",
+      "url": "https://img.acp.idv.tw/2026/09/20260925211525_1.jpg",
+      "community": true
+    },
+    {
+      "cid": "jin-yan-yu-tuan",
+      "index": 2,
+      "sourceId": "acp-jade-moonrise-f-20260930",
+      "url": "https://img.acp.idv.tw/2026/09/20260925211532_1.jpg",
+      "community": true
+    },
+    {
+      "cid": "wan-he-qing-xiang",
+      "index": 3,
+      "sourceId": "acp-valleys-echo-f-20260930",
+      "url": "https://img.acp.idv.tw/2026/09/20260921221410_1.jpg",
+      "community": true
+    },
+    {
+      "cid": "wan-he-qing-xiang",
+      "index": 4,
+      "sourceId": "acp-valleys-echo-f-20260930",
+      "url": "https://img.acp.idv.tw/2026/09/20260921221420_1.jpg",
+      "community": true
+    },
+    {
+      "cid": "liu-sha-wen-gu",
+      "index": 2,
+      "sourceId": "acp-sandveil-venom-f-20260930",
+      "url": "https://img.acp.idv.tw/2026/09/20260918145115_1.jpg",
+      "community": true
+    },
+    {
+      "cid": "liu-sha-wen-gu",
+      "index": 3,
+      "sourceId": "acp-sandveil-venom-f-20260930",
+      "url": "https://img.acp.idv.tw/2026/09/20260918145120_1.jpg",
+      "community": true
+    },
+    {
+      "cid": "yan-yan-yu-fei",
+      "index": 2,
+      "sourceId": "acp-soaring-swallows-f-20260930",
+      "url": "https://img.acp.idv.tw/2026/08/20260830195716_1.jpg",
+      "community": true
+    },
+    {
+      "cid": "yan-yan-yu-fei",
+      "index": 3,
+      "sourceId": "acp-soaring-swallows-f-20260930",
+      "url": "https://img.acp.idv.tw/2026/08/20260830195722_1.jpg",
+      "community": true
+    },
+    {
+      "cid": "guaiwu-chang",
+      "index": 2,
+      "sourceId": "acp-phantom-shift-f-20260930",
+      "url": "https://img.acp.idv.tw/2026/08/20260827164019_1.jpg",
+      "community": true
+    },
+    {
+      "cid": "guaiwu-chang",
+      "index": 3,
+      "sourceId": "acp-phantom-shift-f-20260930",
+      "url": "https://img.acp.idv.tw/2026/08/20260827164026_1.jpg",
+      "community": true
+    },
+    {
+      "cid": "lie-baiyu",
+      "index": 2,
+      "sourceId": "acp-white-plume-hunter-f-20260930",
+      "url": "https://img.acp.idv.tw/2026/08/20260823004257_1.jpg",
+      "community": true
+    },
+    {
+      "cid": "lie-baiyu",
+      "index": 3,
+      "sourceId": "acp-white-plume-hunter-f-20260930",
+      "url": "https://img.acp.idv.tw/2026/08/20260823004302_1.jpg",
+      "community": true
+    },
+    {
+      "cid": "qing-yuan-ru-hua",
+      "index": 3,
+      "sourceId": "acp-kite-in-the-painting-f-20260930",
+      "url": "https://img.acp.idv.tw/2026/08/20260820170202_1.jpg",
+      "community": true
+    },
+    {
+      "cid": "qing-yuan-ru-hua",
+      "index": 4,
+      "sourceId": "acp-kite-in-the-painting-f-20260930",
+      "url": "https://img.acp.idv.tw/2026/08/20260820170218_1.jpg",
+      "community": true
+    },
+    {
+      "cid": "global-moonlit-howl",
+      "index": 1,
+      "sourceId": "acp-moonlit-howl-f-20260930",
+      "url": "https://img.acp.idv.tw/2026/05/20260528141805_1.jpg",
+      "community": true
+    },
+    {
+      "cid": "global-moonlit-howl",
+      "index": 2,
+      "sourceId": "acp-moonlit-howl-f-20260930",
+      "url": "https://img.acp.idv.tw/2026/05/20260528141814_1.jpg",
+      "community": true
+    },
+    {
+      "cid": "han-mo-dan-qing",
+      "index": 2,
+      "sourceId": "acp-strokes-of-grace-f-20260930",
+      "url": "https://img.acp.idv.tw/2026/08/20260820160206_1.jpg",
+      "community": true
+    },
+    {
+      "cid": "han-mo-dan-qing",
+      "index": 3,
+      "sourceId": "acp-strokes-of-grace-f-20260930",
+      "url": "https://img.acp.idv.tw/2026/08/20260820160210_1.jpg",
+      "community": true
+    },
+    {
+      "cid": "dianchun-ou",
+      "index": 2,
+      "sourceId": "acp-springtide-verse-f-20260930",
+      "url": "https://img.acp.idv.tw/2026/08/20260809141004_1.jpg",
+      "community": true
+    },
+    {
+      "cid": "dianchun-ou",
+      "index": 3,
+      "sourceId": "acp-springtide-verse-f-20260930",
+      "url": "https://img.acp.idv.tw/2026/08/20260809141011_1.jpg",
+      "community": true
+    },
+    {
+      "cid": "wiki-xiangsi-qu",
+      "index": 0,
+      "sourceId": "acp-song-of-longing-f-20260930",
+      "url": "https://img.acp.idv.tw/2026/08/20260802131615_1.jpg",
+      "community": true
+    },
+    {
+      "cid": "wiki-xiangsi-qu",
+      "index": 1,
+      "sourceId": "acp-song-of-longing-f-20260930",
+      "url": "https://img.acp.idv.tw/2026/08/20260802131620_1.jpg",
+      "community": true
+    },
+    {
+      "cid": "wiki-ran-qing-cang",
+      "index": 0,
+      "sourceId": "acp-dyed-azure-f-20260930",
+      "url": "https://img.acp.idv.tw/2026/07/20260731133039_1.jpg",
+      "community": true
+    },
+    {
+      "cid": "wiki-ran-qing-cang",
+      "index": 1,
+      "sourceId": "acp-dyed-azure-f-20260930",
+      "url": "https://img.acp.idv.tw/2026/07/20260731133051_1.jpg",
+      "community": true
+    },
+    {
+      "cid": "wiki-shan-zhong-ren",
+      "index": 0,
+      "sourceId": "acp-highland-heritage-f-20260930",
+      "url": "https://img.acp.idv.tw/2026/07/20260730131715_1.jpg",
+      "community": true
+    },
+    {
+      "cid": "wiki-shan-zhong-ren",
+      "index": 1,
+      "sourceId": "acp-highland-heritage-f-20260930",
+      "url": "https://img.acp.idv.tw/2026/07/20260730131722_1.jpg",
+      "community": true
+    },
+    {
+      "cid": "wiki-you-lan-lu",
+      "index": 0,
+      "sourceId": "acp-orchid-dew-f-20260930",
+      "url": "https://img.acp.idv.tw/2026/07/20260729151614_1.jpg",
+      "community": true
+    },
+    {
+      "cid": "wiki-you-lan-lu",
+      "index": 1,
+      "sourceId": "acp-orchid-dew-f-20260930",
+      "url": "https://img.acp.idv.tw/2026/07/20260729151624_1.jpg",
+      "community": true
+    },
+    {
+      "cid": "wiki-zang-hua-yin",
+      "index": 1,
+      "sourceId": "acp-elegy-of-petals-f-20260930",
+      "url": "https://img.acp.idv.tw/2026/07/20260718150447_1.jpg",
+      "community": true
+    },
+    {
+      "cid": "wiki-zang-hua-yin",
+      "index": 2,
+      "sourceId": "acp-elegy-of-petals-f-20260930",
+      "url": "https://img.acp.idv.tw/2026/07/20260718150457_1.jpg",
+      "community": true
+    },
+    {
+      "cid": "wiki-meng-zhu-jia-dao",
+      "index": 0,
+      "sourceId": "acp-enter-the-cutie-f-20260930",
+      "url": "https://img.acp.idv.tw/2026/06/20260627230111_1.jpg",
+      "community": true
+    },
+    {
+      "cid": "wiki-meng-zhu-jia-dao",
+      "index": 1,
+      "sourceId": "acp-enter-the-cutie-f-20260930",
+      "url": "https://img.acp.idv.tw/2026/06/20260627230119_1.jpg",
+      "community": true
+    },
+    {
+      "cid": "wiki-wu-feng-qing",
+      "index": 0,
+      "sourceId": "acp-midsummer-grace-f-20260930",
+      "url": "https://img.acp.idv.tw/2026/06/20260619144356_1.jpg",
+      "community": true
+    },
+    {
+      "cid": "wiki-wu-feng-qing",
+      "index": 1,
+      "sourceId": "acp-midsummer-grace-f-20260930",
+      "url": "https://img.acp.idv.tw/2026/06/20260619144402_1.jpg",
+      "community": true
+    }
+  ],
+  "limits": [
+    "Retained whole source frames and community watermarks; attribution is not a redistribution license.",
+    "Excluded cropped/dark community Penglai’s Peaks, Wind’s Far Shore and Forged in Fire screenshots and all avatars/unrelated asset sections.",
+    "Knowing Hearts community page challenge was not solved; no photos added from that failed collection.",
+    "New CN article URL is September 30 but displayed publication date is September 29.",
+    "EN October notice accidentally heads Vindicated Way as Penglai’s Peaks. Paragraph and KO source resolve the identity without creating a duplicate.",
+    "Launch 05:00 UTC+8 is explicit; discount-end sentence has no explicit timezone.",
+    "CN event page 37780_1315698 discusses an unnamed exchange hair accessory; no invented item record.",
+    "Existing forecasts, schedules, official names and regional facts on archive entries remain unchanged. Community photos do not establish official Global identity or release."
+  ]
+}
