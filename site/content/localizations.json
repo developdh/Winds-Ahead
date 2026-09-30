@@ -5010,5 +5010,26 @@
       "en": "Gold cloud earrings on lilac loops; a Mid-Autumn check-in accessory.",
       "ko": "연보라색 고리에 금빛 구름이 달린 중추절 출석 보상 귀걸이."
     }
+  },
+  "zhu-luan-gu-qing": {
+    "koName": "주란고청",
+    "description": {
+      "en": "Red and blue performance-inspired outfit with a lute motif.",
+      "ko": "붉은색·푸른색과 비파 장식이 돋보이는 중국 신규 의상입니다."
+    }
+  },
+  "cang-yin-tian-di-yi-xiao": {
+    "koName": "장음·천지일소",
+    "description": {
+      "en": "Official CN weapon appearance announced for October 2.",
+      "ko": "10월 2일 출시를 예고한 중국 공식 무기 외관입니다."
+    }
+  },
+  "wan-lai-zhu-yue-xian": {
+    "koName": "만뢰·축월산",
+    "description": {
+      "en": "Official CN weapon appearance announced for October 2.",
+      "ko": "10월 2일 출시를 예고한 중국 공식 무기 외관입니다."
+    }
   }
 }

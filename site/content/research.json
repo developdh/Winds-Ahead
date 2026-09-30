@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "verifiedAt": "2026-09-29",
+  "verifiedAt": "2026-09-30",
   "scope": "Cross-server archive from individually reviewed official announcements; not a certified complete game inventory.",
   "sources": [
     {
@@ -3680,6 +3680,324 @@
       "kind": "community",
       "verifiedAt": "2026-09-29",
       "verificationNote": "Named article explicitly states Cloudgrace Earrings, complete earrings and shared male/female styling. Female side photo and panel visually inspected. Female photo saved through browser download; panel download unavailable. Community reference is not CN identity, official release evidence or a reuse license."
+    },
+    {
+      "id": "cn-20260930-appearances",
+      "url": "https://www.yysls.cn/news/official/20260930/37780_1315695.html",
+      "titleOriginal": "横刀藏音外观上新，新套装【朱鸾顾晴】登场",
+      "publisher": "NetEase / Where Winds Meet official website",
+      "server": "CN",
+      "displayedPublicationDate": "2026-09-29",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-09-30",
+      "verificationNote": "Article displays September 29 although its URL contains September 30. Named text, prices and all selected original stills visually inspected September 30. Dates cross-checked against the September 30 update poster."
+    },
+    {
+      "id": "cn-20260930-update",
+      "url": "https://www.yysls.cn/news/update/20260930/40412_1315694.html",
+      "titleOriginal": "9月30日版本更新公告",
+      "publisher": "NetEase / Where Winds Meet official website",
+      "server": "CN",
+      "displayedPublicationDate": "2026-09-30",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-09-30",
+      "verificationNote": "Official tall update poster visually inspected in full-resolution sections. The three new appearances list October 2 at 00:00:00; timezone is unstated. Image: https://nie.res.netease.com/r/pic/20260930/d5e6c1e5-6359-442e-accc-47bcffce7680.jpg"
+    },
+    {
+      "id": "global-20260930-october-appearances-en",
+      "url": "https://www.wherewindsmeetgame.com/news/official/1004appearance.html",
+      "titleOriginal": "[Perilous Eminence] Version 2.2 New Appearances Overview - October 4",
+      "publisher": "NetEase / Where Winds Meet official website",
+      "server": "Global",
+      "displayedPublicationDate": "2026-09-30",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-09-30",
+      "verificationNote": "English explicitly gives October 4 at 05:00 (UTC+8); Korean gives 06:00 without an explicit timezone. EN mistakenly repeats Penglai’s Peaks in the rope-dart heading, but its paragraph names Vindicated Way; Korean agrees with Vindicated Way. Discount-end sentences do not explicitly specify a timezone. Do not create a duplicate cosmetic from the EN heading."
+    },
+    {
+      "id": "global-20260930-october-appearances-ko",
+      "url": "https://www.wherewindsmeetgame.com/kr/news/official/1004appearance.html",
+      "titleOriginal": "[구름 위 동행] 10월4일 2.2 버전 신규 외관 목록",
+      "publisher": "NetEase / Where Winds Meet official website",
+      "server": "Global",
+      "displayedPublicationDate": "2026-09-30",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-09-30",
+      "verificationNote": "English explicitly gives October 4 at 05:00 (UTC+8); Korean gives 06:00 without an explicit timezone. EN mistakenly repeats Penglai’s Peaks in the rope-dart heading, but its paragraph names Vindicated Way; Korean agrees with Vindicated Way. Discount-end sentences do not explicitly specify a timezone. Do not create a duplicate cosmetic from the EN heading."
+    },
+    {
+      "id": "acp-forest-sovereign-f-20260930",
+      "url": "https://acp.idv.tw/where_winds_meet/forest-sovereign-f/",
+      "titleOriginal": "Forest Sovereign — forest-sovereign-f",
+      "publisher": "貓植事x恩奇ANCHI / Global community appearance archive",
+      "server": "Global",
+      "displayedPublicationDate": null,
+      "publicationDatePrecision": "unknown",
+      "publicationTimezone": null,
+      "evidenceTier": "C",
+      "kind": "community",
+      "verifiedAt": "2026-09-30",
+      "verificationNote": "Named Chinese outfit and front/rear captions inspected on the rendered article; exact existing name and appearance matched. Community evidence is used only for gallery photos, not official Global naming, release dates or prices. Original watermark retained; reuse permission remains unknown."
+    },
+    {
+      "id": "acp-cicada-requiem-f-20260930",
+      "url": "https://acp.idv.tw/where_winds_meet/cicada-requiem-f/",
+      "titleOriginal": "疏桐流响 — cicada-requiem-f",
+      "publisher": "貓植事x恩奇ANCHI / Global community appearance archive",
+      "server": "Global",
+      "displayedPublicationDate": null,
+      "publicationDatePrecision": "unknown",
+      "publicationTimezone": null,
+      "evidenceTier": "C",
+      "kind": "community",
+      "verifiedAt": "2026-09-30",
+      "verificationNote": "Named Chinese outfit and front/rear captions inspected on the rendered article; exact existing name and appearance matched. Community evidence is used only for gallery photos, not official Global naming, release dates or prices. Original watermark retained; reuse permission remains unknown."
+    },
+    {
+      "id": "acp-jade-moonrise-f-20260930",
+      "url": "https://acp.idv.tw/where_winds_meet/jade-moonrise-f/",
+      "titleOriginal": "金滟玉团 — jade-moonrise-f",
+      "publisher": "貓植事x恩奇ANCHI / Global community appearance archive",
+      "server": "Global",
+      "displayedPublicationDate": null,
+      "publicationDatePrecision": "unknown",
+      "publicationTimezone": null,
+      "evidenceTier": "C",
+      "kind": "community",
+      "verifiedAt": "2026-09-30",
+      "verificationNote": "Named Chinese outfit and front/rear captions inspected on the rendered article; exact existing name and appearance matched. Community evidence is used only for gallery photos, not official Global naming, release dates or prices. Original watermark retained; reuse permission remains unknown."
+    },
+    {
+      "id": "acp-valleys-echo-f-20260930",
+      "url": "https://acp.idv.tw/where_winds_meet/valleys-echo-f/",
+      "titleOriginal": "万壑清响 — valleys-echo-f",
+      "publisher": "貓植事x恩奇ANCHI / Global community appearance archive",
+      "server": "Global",
+      "displayedPublicationDate": null,
+      "publicationDatePrecision": "unknown",
+      "publicationTimezone": null,
+      "evidenceTier": "C",
+      "kind": "community",
+      "verifiedAt": "2026-09-30",
+      "verificationNote": "Named Chinese outfit and front/rear captions inspected on the rendered article; exact existing name and appearance matched. Community evidence is used only for gallery photos, not official Global naming, release dates or prices. Original watermark retained; reuse permission remains unknown."
+    },
+    {
+      "id": "acp-sandveil-venom-f-20260930",
+      "url": "https://acp.idv.tw/where_winds_meet/sandveil-venom-f/",
+      "titleOriginal": "流沙问蛊 — sandveil-venom-f",
+      "publisher": "貓植事x恩奇ANCHI / Global community appearance archive",
+      "server": "Global",
+      "displayedPublicationDate": null,
+      "publicationDatePrecision": "unknown",
+      "publicationTimezone": null,
+      "evidenceTier": "C",
+      "kind": "community",
+      "verifiedAt": "2026-09-30",
+      "verificationNote": "Named Chinese outfit and front/rear captions inspected on the rendered article; exact existing name and appearance matched. Community evidence is used only for gallery photos, not official Global naming, release dates or prices. Original watermark retained; reuse permission remains unknown."
+    },
+    {
+      "id": "acp-soaring-swallows-f-20260930",
+      "url": "https://acp.idv.tw/where_winds_meet/soaring-swallows-f/",
+      "titleOriginal": "燕燕于飞 — soaring-swallows-f",
+      "publisher": "貓植事x恩奇ANCHI / Global community appearance archive",
+      "server": "Global",
+      "displayedPublicationDate": null,
+      "publicationDatePrecision": "unknown",
+      "publicationTimezone": null,
+      "evidenceTier": "C",
+      "kind": "community",
+      "verifiedAt": "2026-09-30",
+      "verificationNote": "Named Chinese outfit and front/rear captions inspected on the rendered article; exact existing name and appearance matched. Community evidence is used only for gallery photos, not official Global naming, release dates or prices. Original watermark retained; reuse permission remains unknown."
+    },
+    {
+      "id": "acp-phantom-shift-f-20260930",
+      "url": "https://acp.idv.tw/where_winds_meet/phantom-shift-f/",
+      "titleOriginal": "怪无常 — phantom-shift-f",
+      "publisher": "貓植事x恩奇ANCHI / Global community appearance archive",
+      "server": "Global",
+      "displayedPublicationDate": null,
+      "publicationDatePrecision": "unknown",
+      "publicationTimezone": null,
+      "evidenceTier": "C",
+      "kind": "community",
+      "verifiedAt": "2026-09-30",
+      "verificationNote": "Named Chinese outfit and front/rear captions inspected on the rendered article; exact existing name and appearance matched. Community evidence is used only for gallery photos, not official Global naming, release dates or prices. Original watermark retained; reuse permission remains unknown."
+    },
+    {
+      "id": "acp-white-plume-hunter-f-20260930",
+      "url": "https://acp.idv.tw/where_winds_meet/white-plume-hunter-f/",
+      "titleOriginal": "猎白羽 — white-plume-hunter-f",
+      "publisher": "貓植事x恩奇ANCHI / Global community appearance archive",
+      "server": "Global",
+      "displayedPublicationDate": null,
+      "publicationDatePrecision": "unknown",
+      "publicationTimezone": null,
+      "evidenceTier": "C",
+      "kind": "community",
+      "verifiedAt": "2026-09-30",
+      "verificationNote": "Named Chinese outfit and front/rear captions inspected on the rendered article; exact existing name and appearance matched. Community evidence is used only for gallery photos, not official Global naming, release dates or prices. Original watermark retained; reuse permission remains unknown."
+    },
+    {
+      "id": "acp-kite-in-the-painting-f-20260930",
+      "url": "https://acp.idv.tw/where_winds_meet/kite-in-the-painting-f/",
+      "titleOriginal": "轻鸢入画 — kite-in-the-painting-f",
+      "publisher": "貓植事x恩奇ANCHI / Global community appearance archive",
+      "server": "Global",
+      "displayedPublicationDate": null,
+      "publicationDatePrecision": "unknown",
+      "publicationTimezone": null,
+      "evidenceTier": "C",
+      "kind": "community",
+      "verifiedAt": "2026-09-30",
+      "verificationNote": "Named Chinese outfit and front/rear captions inspected on the rendered article; exact existing name and appearance matched. Community evidence is used only for gallery photos, not official Global naming, release dates or prices. Original watermark retained; reuse permission remains unknown."
+    },
+    {
+      "id": "acp-moonlit-howl-f-20260930",
+      "url": "https://acp.idv.tw/where_winds_meet/moonlit-howl-f/",
+      "titleOriginal": "Moonlit Howl — moonlit-howl-f",
+      "publisher": "貓植事x恩奇ANCHI / Global community appearance archive",
+      "server": "Global",
+      "displayedPublicationDate": null,
+      "publicationDatePrecision": "unknown",
+      "publicationTimezone": null,
+      "evidenceTier": "C",
+      "kind": "community",
+      "verifiedAt": "2026-09-30",
+      "verificationNote": "Named Chinese outfit and front/rear captions inspected on the rendered article; exact existing name and appearance matched. Community evidence is used only for gallery photos, not official Global naming, release dates or prices. Original watermark retained; reuse permission remains unknown."
+    },
+    {
+      "id": "acp-strokes-of-grace-f-20260930",
+      "url": "https://acp.idv.tw/where_winds_meet/strokes-of-grace-f/",
+      "titleOriginal": "翰墨丹青 — strokes-of-grace-f",
+      "publisher": "貓植事x恩奇ANCHI / Global community appearance archive",
+      "server": "Global",
+      "displayedPublicationDate": null,
+      "publicationDatePrecision": "unknown",
+      "publicationTimezone": null,
+      "evidenceTier": "C",
+      "kind": "community",
+      "verifiedAt": "2026-09-30",
+      "verificationNote": "Named Chinese outfit and front/rear captions inspected on the rendered article; exact existing name and appearance matched. Community evidence is used only for gallery photos, not official Global naming, release dates or prices. Original watermark retained; reuse permission remains unknown."
+    },
+    {
+      "id": "acp-springtide-verse-f-20260930",
+      "url": "https://acp.idv.tw/where_winds_meet/springtide-verse-f/",
+      "titleOriginal": "点春瓯 — springtide-verse-f",
+      "publisher": "貓植事x恩奇ANCHI / Global community appearance archive",
+      "server": "Global",
+      "displayedPublicationDate": null,
+      "publicationDatePrecision": "unknown",
+      "publicationTimezone": null,
+      "evidenceTier": "C",
+      "kind": "community",
+      "verifiedAt": "2026-09-30",
+      "verificationNote": "Named Chinese outfit and front/rear captions inspected on the rendered article; exact existing name and appearance matched. Community evidence is used only for gallery photos, not official Global naming, release dates or prices. Original watermark retained; reuse permission remains unknown."
+    },
+    {
+      "id": "acp-song-of-longing-f-20260930",
+      "url": "https://acp.idv.tw/where_winds_meet/song-of-longing-f/",
+      "titleOriginal": "相思曲 — song-of-longing-f",
+      "publisher": "貓植事x恩奇ANCHI / Global community appearance archive",
+      "server": "Global",
+      "displayedPublicationDate": null,
+      "publicationDatePrecision": "unknown",
+      "publicationTimezone": null,
+      "evidenceTier": "C",
+      "kind": "community",
+      "verifiedAt": "2026-09-30",
+      "verificationNote": "Named Chinese outfit and front/rear captions inspected on the rendered article; exact existing name and appearance matched. Community evidence is used only for gallery photos, not official Global naming, release dates or prices. Original watermark retained; reuse permission remains unknown."
+    },
+    {
+      "id": "acp-dyed-azure-f-20260930",
+      "url": "https://acp.idv.tw/where_winds_meet/dyed-azure-f/",
+      "titleOriginal": "染青苍 — dyed-azure-f",
+      "publisher": "貓植事x恩奇ANCHI / Global community appearance archive",
+      "server": "Global",
+      "displayedPublicationDate": null,
+      "publicationDatePrecision": "unknown",
+      "publicationTimezone": null,
+      "evidenceTier": "C",
+      "kind": "community",
+      "verifiedAt": "2026-09-30",
+      "verificationNote": "Named Chinese outfit and front/rear captions inspected on the rendered article; exact existing name and appearance matched. Community evidence is used only for gallery photos, not official Global naming, release dates or prices. Original watermark retained; reuse permission remains unknown."
+    },
+    {
+      "id": "acp-highland-heritage-f-20260930",
+      "url": "https://acp.idv.tw/where_winds_meet/highland-heritage-f/",
+      "titleOriginal": "山中人 — highland-heritage-f",
+      "publisher": "貓植事x恩奇ANCHI / Global community appearance archive",
+      "server": "Global",
+      "displayedPublicationDate": null,
+      "publicationDatePrecision": "unknown",
+      "publicationTimezone": null,
+      "evidenceTier": "C",
+      "kind": "community",
+      "verifiedAt": "2026-09-30",
+      "verificationNote": "Named Chinese outfit and front/rear captions inspected on the rendered article; exact existing name and appearance matched. Community evidence is used only for gallery photos, not official Global naming, release dates or prices. Original watermark retained; reuse permission remains unknown."
+    },
+    {
+      "id": "acp-orchid-dew-f-20260930",
+      "url": "https://acp.idv.tw/where_winds_meet/orchid-dew-f/",
+      "titleOriginal": "幽兰露 — orchid-dew-f",
+      "publisher": "貓植事x恩奇ANCHI / Global community appearance archive",
+      "server": "Global",
+      "displayedPublicationDate": null,
+      "publicationDatePrecision": "unknown",
+      "publicationTimezone": null,
+      "evidenceTier": "C",
+      "kind": "community",
+      "verifiedAt": "2026-09-30",
+      "verificationNote": "Named Chinese outfit and front/rear captions inspected on the rendered article; exact existing name and appearance matched. Community evidence is used only for gallery photos, not official Global naming, release dates or prices. Original watermark retained; reuse permission remains unknown."
+    },
+    {
+      "id": "acp-elegy-of-petals-f-20260930",
+      "url": "https://acp.idv.tw/where_winds_meet/elegy-of-petals-f/",
+      "titleOriginal": "葬花吟 — elegy-of-petals-f",
+      "publisher": "貓植事x恩奇ANCHI / Global community appearance archive",
+      "server": "Global",
+      "displayedPublicationDate": null,
+      "publicationDatePrecision": "unknown",
+      "publicationTimezone": null,
+      "evidenceTier": "C",
+      "kind": "community",
+      "verifiedAt": "2026-09-30",
+      "verificationNote": "Named Chinese outfit and front/rear captions inspected on the rendered article; exact existing name and appearance matched. Community evidence is used only for gallery photos, not official Global naming, release dates or prices. Original watermark retained; reuse permission remains unknown."
+    },
+    {
+      "id": "acp-enter-the-cutie-f-20260930",
+      "url": "https://acp.idv.tw/where_winds_meet/enter-the-cutie-f/",
+      "titleOriginal": "萌主驾到 — enter-the-cutie-f",
+      "publisher": "貓植事x恩奇ANCHI / Global community appearance archive",
+      "server": "Global",
+      "displayedPublicationDate": null,
+      "publicationDatePrecision": "unknown",
+      "publicationTimezone": null,
+      "evidenceTier": "C",
+      "kind": "community",
+      "verifiedAt": "2026-09-30",
+      "verificationNote": "Named Chinese outfit and front/rear captions inspected on the rendered article; exact existing name and appearance matched. Community evidence is used only for gallery photos, not official Global naming, release dates or prices. Original watermark retained; reuse permission remains unknown."
+    },
+    {
+      "id": "acp-midsummer-grace-f-20260930",
+      "url": "https://acp.idv.tw/where_winds_meet/midsummer-grace-f/",
+      "titleOriginal": "午风清 — midsummer-grace-f",
+      "publisher": "貓植事x恩奇ANCHI / Global community appearance archive",
+      "server": "Global",
+      "displayedPublicationDate": null,
+      "publicationDatePrecision": "unknown",
+      "publicationTimezone": null,
+      "evidenceTier": "C",
+      "kind": "community",
+      "verifiedAt": "2026-09-30",
+      "verificationNote": "Named Chinese outfit and front/rear captions inspected on the rendered article; exact existing name and appearance matched. Community evidence is used only for gallery photos, not official Global naming, release dates or prices. Original watermark retained; reuse permission remains unknown."
     }
   ],
   "mediaRights": {
@@ -3776,6 +4094,69 @@
           "reusePermission": "unknown",
           "localCopy": null,
           "server": "Global"
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20250926/3c34ab4c-6508-44de-9e02-097bc95b0102.png",
+          "width": 3500,
+          "height": 1969,
+          "bytes": 7743362,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20250925-new-appearance",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/zui-penglai-2-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Drunk in Penglai: Official CN concept artwork. The source identifies the hair colour as a dye example.",
+            "ko": "봉래의 풍류: 중국 공식 컨셉 이미지입니다. 원문은 머리색을 염색 예시로 안내합니다."
+          },
+          "caption": {
+            "en": "Official CN concept artwork. The source identifies the hair colour as a dye example.",
+            "ko": "중국 공식 컨셉 이미지입니다. 원문은 머리색을 염색 예시로 안내합니다."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20250926/c070d95f-c673-493c-b058-4f768fdbe83c.jpg",
+          "width": 2160,
+          "height": 3838,
+          "bytes": 4701901,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20250925-new-appearance",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/zui-penglai-3-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Drunk in Penglai: Official CN tailored variant (梦昙霄). Entire original frame retained.",
+            "ko": "봉래의 풍류: 중국 공식 재단 변형(梦昙霄)입니다. 원본의 전체 구도를 유지했습니다."
+          },
+          "caption": {
+            "en": "Official CN tailored variant (梦昙霄). Entire original frame retained.",
+            "ko": "중국 공식 재단 변형(梦昙霄)입니다. 원본의 전체 구도를 유지했습니다."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20250926/adcd557c-c0af-460c-b1c0-df37ca6f5bad.jpg",
+          "width": 2160,
+          "height": 3838,
+          "bytes": 4439490,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20250925-new-appearance",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/zui-penglai-4-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Drunk in Penglai: Official CN tailored variant (梦昙霄). Entire original frame retained.",
+            "ko": "봉래의 풍류: 중국 공식 재단 변형(梦昙霄)입니다. 원본의 전체 구도를 유지했습니다."
+          },
+          "caption": {
+            "en": "Official CN tailored variant (梦昙霄). Entire original frame retained.",
+            "ko": "중국 공식 재단 변형(梦昙霄)입니다. 원본의 전체 구도를 유지했습니다."
+          }
         }
       ],
       "officialVideos": [],
@@ -5383,6 +5764,279 @@
           "inspectionNote": "Image and representative upper poster panels visually reviewed; acquisition facts taken from article text.",
           "reusePermission": "unknown",
           "localCopy": null
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260801/356d9172-f220-456e-8fc4-b218e5f6d69f.jpg",
+          "width": 1920,
+          "height": 1080,
+          "bytes": 1143641,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20260729-outfits",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/qian-nian-you-dai-2-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Qian Nian You Dai: Official CN character reference. Entire original frame retained.",
+            "ko": "천년유대: 중국 공식 캐릭터 참고 사진입니다. 원본의 전체 구도를 유지했습니다."
+          },
+          "caption": {
+            "en": "Official CN character reference. Entire original frame retained.",
+            "ko": "중국 공식 캐릭터 참고 사진입니다. 원본의 전체 구도를 유지했습니다."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260801/205de5d3-28ff-4d12-97b5-f0796db63443.jpeg",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 1616329,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20260729-outfits",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/qian-nian-you-dai-3-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Qian Nian You Dai: Official CN character reference. Entire original frame retained.",
+            "ko": "천년유대: 중국 공식 캐릭터 참고 사진입니다. 원본의 전체 구도를 유지했습니다."
+          },
+          "caption": {
+            "en": "Official CN character reference. Entire original frame retained.",
+            "ko": "중국 공식 캐릭터 참고 사진입니다. 원본의 전체 구도를 유지했습니다."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260801/84f91a3a-8e25-41d6-815b-23b44b42c790.jpg",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 970292,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20260729-outfits",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/qian-nian-you-dai-4-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Qian Nian You Dai: Official CN character reference. Entire original frame retained.",
+            "ko": "천년유대: 중국 공식 캐릭터 참고 사진입니다. 원본의 전체 구도를 유지했습니다."
+          },
+          "caption": {
+            "en": "Official CN character reference. Entire original frame retained.",
+            "ko": "중국 공식 캐릭터 참고 사진입니다. 원본의 전체 구도를 유지했습니다."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260801/40b6c743-5419-49e8-aa62-ef71204a496e.jpg",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 1390231,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20260729-outfits",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/qian-nian-you-dai-5-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Qian Nian You Dai: Official CN character reference. Entire original frame retained.",
+            "ko": "천년유대: 중국 공식 캐릭터 참고 사진입니다. 원본의 전체 구도를 유지했습니다."
+          },
+          "caption": {
+            "en": "Official CN character reference. Entire original frame retained.",
+            "ko": "중국 공식 캐릭터 참고 사진입니다. 원본의 전체 구도를 유지했습니다."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260801/1410210f-0539-4a70-8b30-716a4393bf45.jpg",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 1299921,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20260729-outfits",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/qian-nian-you-dai-6-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Qian Nian You Dai: Official CN character reference. Entire original frame retained.",
+            "ko": "천년유대: 중국 공식 캐릭터 참고 사진입니다. 원본의 전체 구도를 유지했습니다."
+          },
+          "caption": {
+            "en": "Official CN character reference. Entire original frame retained.",
+            "ko": "중국 공식 캐릭터 참고 사진입니다. 원본의 전체 구도를 유지했습니다."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260801/15e7a95e-50a9-4f5d-bf03-c079216aabd4.jpg",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 1648079,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20260729-outfits",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/qian-nian-you-dai-7-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Qian Nian You Dai: Official CN garment detail. Entire original frame retained.",
+            "ko": "천년유대: 중국 공식 의상 세부입니다. 원본의 전체 구도를 유지했습니다."
+          },
+          "caption": {
+            "en": "Official CN garment detail. Entire original frame retained.",
+            "ko": "중국 공식 의상 세부입니다. 원본의 전체 구도를 유지했습니다."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260801/d7e889a9-c051-4643-90bb-10768d260e8c.jpg",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 1569473,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20260729-outfits",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/qian-nian-you-dai-8-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Qian Nian You Dai: Official CN garment detail. Entire original frame retained.",
+            "ko": "천년유대: 중국 공식 의상 세부입니다. 원본의 전체 구도를 유지했습니다."
+          },
+          "caption": {
+            "en": "Official CN garment detail. Entire original frame retained.",
+            "ko": "중국 공식 의상 세부입니다. 원본의 전체 구도를 유지했습니다."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260801/50f120a3-5a7b-486e-9680-8c74c88feed1.jpg",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 1494749,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20260729-outfits",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/qian-nian-you-dai-9-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Qian Nian You Dai: Official CN rear view. Entire original frame retained.",
+            "ko": "천년유대: 중국 공식 뒷모습입니다. 원본의 전체 구도를 유지했습니다."
+          },
+          "caption": {
+            "en": "Official CN rear view. Entire original frame retained.",
+            "ko": "중국 공식 뒷모습입니다. 원본의 전체 구도를 유지했습니다."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260801/4c2ca689-d332-4758-a3c6-0e925e813c49.jpg",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 1396419,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20260729-outfits",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/qian-nian-you-dai-10-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Qian Nian You Dai: Official CN rear view. Entire original frame retained.",
+            "ko": "천년유대: 중국 공식 뒷모습입니다. 원본의 전체 구도를 유지했습니다."
+          },
+          "caption": {
+            "en": "Official CN rear view. Entire original frame retained.",
+            "ko": "중국 공식 뒷모습입니다. 원본의 전체 구도를 유지했습니다."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260801/0f094a03-b597-4a3e-9ce8-c51e9471c214.jpg",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 1532040,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20260729-outfits",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/qian-nian-you-dai-11-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Qian Nian You Dai: Official CN tailored variant (渡流光). Entire original frame retained.",
+            "ko": "천년유대: 중국 공식 재단 변형(渡流光)입니다. 원본의 전체 구도를 유지했습니다."
+          },
+          "caption": {
+            "en": "Official CN tailored variant (渡流光). Entire original frame retained.",
+            "ko": "중국 공식 재단 변형(渡流光)입니다. 원본의 전체 구도를 유지했습니다."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260801/fd898f5e-2257-4c07-a555-c465e67d72f8.jpg",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 1495147,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20260729-outfits",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/qian-nian-you-dai-12-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Qian Nian You Dai: Official CN tailored variant (渡流光). Entire original frame retained.",
+            "ko": "천년유대: 중국 공식 재단 변형(渡流光)입니다. 원본의 전체 구도를 유지했습니다."
+          },
+          "caption": {
+            "en": "Official CN tailored variant (渡流光). Entire original frame retained.",
+            "ko": "중국 공식 재단 변형(渡流光)입니다. 원본의 전체 구도를 유지했습니다."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260801/00db1826-b4fa-463d-a415-7d27f10721e7.jpg",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 1272292,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20260729-outfits",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/qian-nian-you-dai-13-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Qian Nian You Dai: Official CN tailored variant (渡流光). Entire original frame retained.",
+            "ko": "천년유대: 중국 공식 재단 변형(渡流光)입니다. 원본의 전체 구도를 유지했습니다."
+          },
+          "caption": {
+            "en": "Official CN tailored variant (渡流光). Entire original frame retained.",
+            "ko": "중국 공식 재단 변형(渡流光)입니다. 원본의 전체 구도를 유지했습니다."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260801/fb9769b7-b7e5-4a3c-8a51-81885b9687b3.jpg",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 1222431,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20260729-outfits",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/qian-nian-you-dai-14-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Qian Nian You Dai: Official CN tailored variant (渡流光). Entire original frame retained.",
+            "ko": "천년유대: 중국 공식 재단 변형(渡流光)입니다. 원본의 전체 구도를 유지했습니다."
+          },
+          "caption": {
+            "en": "Official CN tailored variant (渡流光). Entire original frame retained.",
+            "ko": "중국 공식 재단 변형(渡流光)입니다. 원본의 전체 구도를 유지했습니다."
+          }
         }
       ],
       "officialVideos": [],
@@ -5391,7 +6045,8 @@
         "timezone": null,
         "precision": "minute"
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "mediaStatus": "verified"
     },
     {
       "id": "qing-lin-fu-yu",
@@ -5456,6 +6111,258 @@
           "inspectionNote": "Image and representative upper poster panels visually reviewed; acquisition facts taken from article text.",
           "reusePermission": "unknown",
           "localCopy": null
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260801/39cd7ba6-e7de-47a0-87de-d376165371fe.jpg",
+          "width": 1920,
+          "height": 1080,
+          "bytes": 1771043,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20260729-outfits",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/qing-lin-fu-yu-2-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Qing Lin Fu Yu: Official CN character reference. Entire original frame retained.",
+            "ko": "청린불우: 중국 공식 캐릭터 참고 사진입니다. 원본의 전체 구도를 유지했습니다."
+          },
+          "caption": {
+            "en": "Official CN character reference. Entire original frame retained.",
+            "ko": "중국 공식 캐릭터 참고 사진입니다. 원본의 전체 구도를 유지했습니다."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260801/be1116cb-8ad1-4263-9a7f-5275da7c5498.jpg",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 1592569,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20260729-outfits",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/qing-lin-fu-yu-3-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Qing Lin Fu Yu: Official CN character reference. Entire original frame retained.",
+            "ko": "청린불우: 중국 공식 캐릭터 참고 사진입니다. 원본의 전체 구도를 유지했습니다."
+          },
+          "caption": {
+            "en": "Official CN character reference. Entire original frame retained.",
+            "ko": "중국 공식 캐릭터 참고 사진입니다. 원본의 전체 구도를 유지했습니다."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260801/80821cad-95ce-4acd-a063-189fa56f502b.jpg",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 1697755,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20260729-outfits",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/qing-lin-fu-yu-4-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Qing Lin Fu Yu: Official CN character reference. Entire original frame retained.",
+            "ko": "청린불우: 중국 공식 캐릭터 참고 사진입니다. 원본의 전체 구도를 유지했습니다."
+          },
+          "caption": {
+            "en": "Official CN character reference. Entire original frame retained.",
+            "ko": "중국 공식 캐릭터 참고 사진입니다. 원본의 전체 구도를 유지했습니다."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260801/c7fc07cf-cf17-44a2-81e8-d722d3b583c8.jpg",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 1681494,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20260729-outfits",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/qing-lin-fu-yu-5-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Qing Lin Fu Yu: Official CN character reference. Entire original frame retained.",
+            "ko": "청린불우: 중국 공식 캐릭터 참고 사진입니다. 원본의 전체 구도를 유지했습니다."
+          },
+          "caption": {
+            "en": "Official CN character reference. Entire original frame retained.",
+            "ko": "중국 공식 캐릭터 참고 사진입니다. 원본의 전체 구도를 유지했습니다."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260801/569a73a4-fc5e-42d8-bed7-0565c123f9ad.jpg",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 1755169,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20260729-outfits",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/qing-lin-fu-yu-6-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Qing Lin Fu Yu: Official CN character reference. Entire original frame retained.",
+            "ko": "청린불우: 중국 공식 캐릭터 참고 사진입니다. 원본의 전체 구도를 유지했습니다."
+          },
+          "caption": {
+            "en": "Official CN character reference. Entire original frame retained.",
+            "ko": "중국 공식 캐릭터 참고 사진입니다. 원본의 전체 구도를 유지했습니다."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260801/4da90509-5046-42b2-8779-362e6db54a2d.jpg",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 1883503,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20260729-outfits",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/qing-lin-fu-yu-7-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Qing Lin Fu Yu: Official CN garment detail. Entire original frame retained.",
+            "ko": "청린불우: 중국 공식 의상 세부입니다. 원본의 전체 구도를 유지했습니다."
+          },
+          "caption": {
+            "en": "Official CN garment detail. Entire original frame retained.",
+            "ko": "중국 공식 의상 세부입니다. 원본의 전체 구도를 유지했습니다."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260801/6710e050-f3ca-4104-949c-72ab495ce66d.jpg",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 2197202,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20260729-outfits",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/qing-lin-fu-yu-8-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Qing Lin Fu Yu: Official CN garment detail. Entire original frame retained.",
+            "ko": "청린불우: 중국 공식 의상 세부입니다. 원본의 전체 구도를 유지했습니다."
+          },
+          "caption": {
+            "en": "Official CN garment detail. Entire original frame retained.",
+            "ko": "중국 공식 의상 세부입니다. 원본의 전체 구도를 유지했습니다."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260801/47671a33-684f-4702-9574-6b4cfc17f6f9.jpg",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 1499576,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20260729-outfits",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/qing-lin-fu-yu-9-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Qing Lin Fu Yu: Official CN rear view. Entire original frame retained.",
+            "ko": "청린불우: 중국 공식 뒷모습입니다. 원본의 전체 구도를 유지했습니다."
+          },
+          "caption": {
+            "en": "Official CN rear view. Entire original frame retained.",
+            "ko": "중국 공식 뒷모습입니다. 원본의 전체 구도를 유지했습니다."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260801/5ab96425-a576-4d13-a607-b55c2c436b38.jpg",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 1653484,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20260729-outfits",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/qing-lin-fu-yu-10-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Qing Lin Fu Yu: Official CN tailored variant (掠青波). Entire original frame retained.",
+            "ko": "청린불우: 중국 공식 재단 변형(掠青波)입니다. 원본의 전체 구도를 유지했습니다."
+          },
+          "caption": {
+            "en": "Official CN tailored variant (掠青波). Entire original frame retained.",
+            "ko": "중국 공식 재단 변형(掠青波)입니다. 원본의 전체 구도를 유지했습니다."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260801/cc857a25-b0ab-43ef-ae8c-8a301bcbf3c8.jpg",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 1587179,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20260729-outfits",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/qing-lin-fu-yu-11-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Qing Lin Fu Yu: Official CN tailored variant (掠青波). Entire original frame retained.",
+            "ko": "청린불우: 중국 공식 재단 변형(掠青波)입니다. 원본의 전체 구도를 유지했습니다."
+          },
+          "caption": {
+            "en": "Official CN tailored variant (掠青波). Entire original frame retained.",
+            "ko": "중국 공식 재단 변형(掠青波)입니다. 원본의 전체 구도를 유지했습니다."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260801/799f55f7-95fe-4a2e-bf39-be9f2c2bd99f.jpg",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 1693718,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20260729-outfits",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/qing-lin-fu-yu-12-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Qing Lin Fu Yu: Official CN tailored variant (掠青波). Entire original frame retained.",
+            "ko": "청린불우: 중국 공식 재단 변형(掠青波)입니다. 원본의 전체 구도를 유지했습니다."
+          },
+          "caption": {
+            "en": "Official CN tailored variant (掠青波). Entire original frame retained.",
+            "ko": "중국 공식 재단 변형(掠青波)입니다. 원본의 전체 구도를 유지했습니다."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260801/38e19f98-a438-44d3-989d-4b814b0d44f6.jpg",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 1447103,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20260729-outfits",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/qing-lin-fu-yu-13-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Qing Lin Fu Yu: Official CN tailored variant (掠青波). Entire original frame retained.",
+            "ko": "청린불우: 중국 공식 재단 변형(掠青波)입니다. 원본의 전체 구도를 유지했습니다."
+          },
+          "caption": {
+            "en": "Official CN tailored variant (掠青波). Entire original frame retained.",
+            "ko": "중국 공식 재단 변형(掠青波)입니다. 원본의 전체 구도를 유지했습니다."
+          }
         }
       ],
       "officialVideos": [],
@@ -5464,7 +6371,8 @@
         "timezone": null,
         "precision": "minute"
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "mediaStatus": "verified"
     },
     {
       "id": "long-teng-sui-yan",
@@ -5806,10 +6714,158 @@
           "inspectionNote": "Image and representative upper poster panels visually reviewed; acquisition facts taken from article text.",
           "reusePermission": "unknown",
           "localCopy": null
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260227/17935ad9-3161-41e5-988e-2e855ca2d654.png",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 3635111,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20260226-outfits",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/lian-du-you-luo-2-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Lian Du You Luo: Official CN character reference. Entire original frame retained.",
+            "ko": "연도유라: 중국 공식 캐릭터 참고 사진입니다. 원본의 전체 구도를 유지했습니다."
+          },
+          "caption": {
+            "en": "Official CN character reference. Entire original frame retained.",
+            "ko": "중국 공식 캐릭터 참고 사진입니다. 원본의 전체 구도를 유지했습니다."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260227/c4e43c43-2e6b-4e1d-861e-63d39f084114.jpeg",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 2229805,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20260226-outfits",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/lian-du-you-luo-3-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Lian Du You Luo: Official CN garment detail. Entire original frame retained.",
+            "ko": "연도유라: 중국 공식 의상 세부입니다. 원본의 전체 구도를 유지했습니다."
+          },
+          "caption": {
+            "en": "Official CN garment detail. Entire original frame retained.",
+            "ko": "중국 공식 의상 세부입니다. 원본의 전체 구도를 유지했습니다."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260227/57729a8a-600d-4bd0-903b-56a695d8dac2.png",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 3281435,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20260226-outfits",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/lian-du-you-luo-4-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Lian Du You Luo: Official CN tailored variant (裁衣款). Entire original frame retained.",
+            "ko": "연도유라: 중국 공식 재단 변형(裁衣款)입니다. 원본의 전체 구도를 유지했습니다."
+          },
+          "caption": {
+            "en": "Official CN tailored variant (裁衣款). Entire original frame retained.",
+            "ko": "중국 공식 재단 변형(裁衣款)입니다. 원본의 전체 구도를 유지했습니다."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260227/9c75c118-ea06-410c-ba90-f67daca8de84.jpeg",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 1537383,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20260226-outfits",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/lian-du-you-luo-5-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Lian Du You Luo: Official CN character reference. Entire original frame retained.",
+            "ko": "연도유라: 중국 공식 캐릭터 참고 사진입니다. 원본의 전체 구도를 유지했습니다."
+          },
+          "caption": {
+            "en": "Official CN character reference. Entire original frame retained.",
+            "ko": "중국 공식 캐릭터 참고 사진입니다. 원본의 전체 구도를 유지했습니다."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260227/8df9c9b4-70ee-42e1-9b92-935034796437.png",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 3298650,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20260226-outfits",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/lian-du-you-luo-6-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Lian Du You Luo: Official CN character reference. Entire original frame retained.",
+            "ko": "연도유라: 중국 공식 캐릭터 참고 사진입니다. 원본의 전체 구도를 유지했습니다."
+          },
+          "caption": {
+            "en": "Official CN character reference. Entire original frame retained.",
+            "ko": "중국 공식 캐릭터 참고 사진입니다. 원본의 전체 구도를 유지했습니다."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260227/04ee968e-8ffe-49d5-9c51-6580401504b3.png",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 3718582,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20260226-outfits",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/lian-du-you-luo-7-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Lian Du You Luo: Official CN rear view. Entire original frame retained.",
+            "ko": "연도유라: 중국 공식 뒷모습입니다. 원본의 전체 구도를 유지했습니다."
+          },
+          "caption": {
+            "en": "Official CN rear view. Entire original frame retained.",
+            "ko": "중국 공식 뒷모습입니다. 원본의 전체 구도를 유지했습니다."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260227/0792c2c1-15df-434e-8a7c-079bcf7b6312.png",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 2984024,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20260226-outfits",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/lian-du-you-luo-8-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Lian Du You Luo: Official CN tailored variant (裁衣款). Entire original frame retained.",
+            "ko": "연도유라: 중국 공식 재단 변형(裁衣款)입니다. 원본의 전체 구도를 유지했습니다."
+          },
+          "caption": {
+            "en": "Official CN tailored variant (裁衣款). Entire original frame retained.",
+            "ko": "중국 공식 재단 변형(裁衣款)입니다. 원본의 전체 구도를 유지했습니다."
+          }
         }
       ],
       "officialVideos": [],
-      "wikiDetails": true
+      "wikiDetails": true,
+      "mediaStatus": "verified"
     },
     {
       "id": "wan-he-qing-xiang",
@@ -5883,6 +6939,64 @@
           "sourceFrame": 0,
           "inspectionNote": "Official named section and representative frame visually reviewed on September 20; preview, not in-game verification.",
           "server": "Global"
+        },
+        {
+          "url": "https://img.acp.idv.tw/2026/09/20260921221410_1.jpg",
+          "width": 690,
+          "height": 1080,
+          "bytes": 110008,
+          "kind": "community_gameplay_screenshot",
+          "visuallyInspected": true,
+          "sourceId": "acp-valleys-echo-f-20260930",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wan-he-qing-xiang-3-full.webp",
+          "server": "Global",
+          "alt": {
+            "en": "Valley's Echo: Female front view from the community Global appearance archive.",
+            "ko": "만학의 메아리: 글로벌 커뮤니티 외관 도감의 여성 정면 사진입니다."
+          },
+          "caption": {
+            "en": "Female front view from the community Global appearance archive.",
+            "ko": "글로벌 커뮤니티 외관 도감의 여성 정면 사진입니다."
+          },
+          "contributor": "貓植事x恩奇ANCHI",
+          "sourceKind": "community",
+          "sourceLabel": {
+            "en": "Global appearance archive",
+            "ko": "글로벌 외관 도감"
+          },
+          "sourceUrl": "https://acp.idv.tw/where_winds_meet/valleys-echo-f/",
+          "attribution": "NetEase / Where Winds Meet; screenshot by 貓植事x恩奇ANCHI"
+        },
+        {
+          "url": "https://img.acp.idv.tw/2026/09/20260921221420_1.jpg",
+          "width": 690,
+          "height": 1080,
+          "bytes": 124044,
+          "kind": "community_gameplay_screenshot",
+          "visuallyInspected": true,
+          "sourceId": "acp-valleys-echo-f-20260930",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wan-he-qing-xiang-4-full.webp",
+          "server": "Global",
+          "alt": {
+            "en": "Valley's Echo: Female rear view from the community Global appearance archive.",
+            "ko": "만학의 메아리: 글로벌 커뮤니티 외관 도감의 여성 후면 사진입니다."
+          },
+          "caption": {
+            "en": "Female rear view from the community Global appearance archive.",
+            "ko": "글로벌 커뮤니티 외관 도감의 여성 후면 사진입니다."
+          },
+          "contributor": "貓植事x恩奇ANCHI",
+          "sourceKind": "community",
+          "sourceLabel": {
+            "en": "Global appearance archive",
+            "ko": "글로벌 외관 도감"
+          },
+          "sourceUrl": "https://acp.idv.tw/where_winds_meet/valleys-echo-f/",
+          "attribution": "NetEase / Where Winds Meet; screenshot by 貓植事x恩奇ANCHI"
         }
       ],
       "officialVideos": [],
@@ -6418,10 +7532,95 @@
           "inspectionNote": "Image and representative upper poster panels visually reviewed; acquisition facts taken from article text.",
           "reusePermission": "unknown",
           "localCopy": null
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260401/d8286b2e-fd9b-4a67-983f-7d0138cbfef0.png",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 2658908,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20260331-outfits",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/qing-xiao-lue-ying-2-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Qing Xiao Lue Ying: Official CN rear view. Entire original frame retained.",
+            "ko": "청소략영: 중국 공식 뒷모습입니다. 원본의 전체 구도를 유지했습니다."
+          },
+          "caption": {
+            "en": "Official CN rear view. Entire original frame retained.",
+            "ko": "중국 공식 뒷모습입니다. 원본의 전체 구도를 유지했습니다."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260401/251f8023-4d03-422e-9b45-59558e9bb31d.png",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 2520530,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20260331-outfits",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/qing-xiao-lue-ying-3-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Qing Xiao Lue Ying: Official CN rear view. Entire original frame retained.",
+            "ko": "청소략영: 중국 공식 뒷모습입니다. 원본의 전체 구도를 유지했습니다."
+          },
+          "caption": {
+            "en": "Official CN rear view. Entire original frame retained.",
+            "ko": "중국 공식 뒷모습입니다. 원본의 전체 구도를 유지했습니다."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260401/29509039-11bb-4d64-88d7-14aa191780ff.png",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 3109558,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20260331-outfits",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/qing-xiao-lue-ying-4-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Qing Xiao Lue Ying: Official CN character reference. Entire original frame retained.",
+            "ko": "청소략영: 중국 공식 캐릭터 참고 사진입니다. 원본의 전체 구도를 유지했습니다."
+          },
+          "caption": {
+            "en": "Official CN character reference. Entire original frame retained.",
+            "ko": "중국 공식 캐릭터 참고 사진입니다. 원본의 전체 구도를 유지했습니다."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260401/c7b63c57-c504-433e-9603-88dbb8bad970.png",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 3194097,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20260331-outfits",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/qing-xiao-lue-ying-5-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Qing Xiao Lue Ying: Official CN character reference. Entire original frame retained.",
+            "ko": "청소략영: 중국 공식 캐릭터 참고 사진입니다. 원본의 전체 구도를 유지했습니다."
+          },
+          "caption": {
+            "en": "Official CN character reference. Entire original frame retained.",
+            "ko": "중국 공식 캐릭터 참고 사진입니다. 원본의 전체 구도를 유지했습니다."
+          }
         }
       ],
       "officialVideos": [],
-      "wikiDetails": true
+      "wikiDetails": true,
+      "mediaStatus": "verified"
     },
     {
       "id": "xuan-gu-zai-yuan",
@@ -6485,10 +7684,200 @@
           "inspectionNote": "Image and representative upper poster panels visually reviewed; acquisition facts taken from article text.",
           "reusePermission": "unknown",
           "localCopy": null
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260424/7d3ced15-600b-49c7-ba04-0814d36499e0.png",
+          "width": 2304,
+          "height": 1296,
+          "bytes": 5283205,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20260422-outfits",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/xuan-gu-zai-yuan-2-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Xuan Gu Zai Yuan: Official CN character reference. Entire original frame retained.",
+            "ko": "현골재연: 중국 공식 캐릭터 참고 사진입니다. 원본의 전체 구도를 유지했습니다."
+          },
+          "caption": {
+            "en": "Official CN character reference. Entire original frame retained.",
+            "ko": "중국 공식 캐릭터 참고 사진입니다. 원본의 전체 구도를 유지했습니다."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260424/fd01a5d1-7a60-4b9b-ae9e-fb74de0c0701.png",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 3565838,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20260422-outfits",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/xuan-gu-zai-yuan-3-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Xuan Gu Zai Yuan: Official CN character reference. Entire original frame retained.",
+            "ko": "현골재연: 중국 공식 캐릭터 참고 사진입니다. 원본의 전체 구도를 유지했습니다."
+          },
+          "caption": {
+            "en": "Official CN character reference. Entire original frame retained.",
+            "ko": "중국 공식 캐릭터 참고 사진입니다. 원본의 전체 구도를 유지했습니다."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260424/57e163fe-b447-43b4-8bbc-a285080d803b.png",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 3621708,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20260422-outfits",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/xuan-gu-zai-yuan-4-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Xuan Gu Zai Yuan: Official CN character reference. Entire original frame retained.",
+            "ko": "현골재연: 중국 공식 캐릭터 참고 사진입니다. 원본의 전체 구도를 유지했습니다."
+          },
+          "caption": {
+            "en": "Official CN character reference. Entire original frame retained.",
+            "ko": "중국 공식 캐릭터 참고 사진입니다. 원본의 전체 구도를 유지했습니다."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260424/2fb73285-2b7d-4193-9e61-13d28428dc4a.png",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 3640340,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20260422-outfits",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/xuan-gu-zai-yuan-5-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Xuan Gu Zai Yuan: Official CN character reference. Entire original frame retained.",
+            "ko": "현골재연: 중국 공식 캐릭터 참고 사진입니다. 원본의 전체 구도를 유지했습니다."
+          },
+          "caption": {
+            "en": "Official CN character reference. Entire original frame retained.",
+            "ko": "중국 공식 캐릭터 참고 사진입니다. 원본의 전체 구도를 유지했습니다."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260424/f3314a3c-749f-43f4-bf9d-7c84aa14e1ad.png",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 3528633,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20260422-outfits",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/xuan-gu-zai-yuan-6-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Xuan Gu Zai Yuan: Official CN character reference. Entire original frame retained.",
+            "ko": "현골재연: 중국 공식 캐릭터 참고 사진입니다. 원본의 전체 구도를 유지했습니다."
+          },
+          "caption": {
+            "en": "Official CN character reference. Entire original frame retained.",
+            "ko": "중국 공식 캐릭터 참고 사진입니다. 원본의 전체 구도를 유지했습니다."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260424/4a142b40-25cd-4840-8b3d-bad0a23b8622.png",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 3636014,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20260422-outfits",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/xuan-gu-zai-yuan-7-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Xuan Gu Zai Yuan: Official CN garment detail. Entire original frame retained.",
+            "ko": "현골재연: 중국 공식 의상 세부입니다. 원본의 전체 구도를 유지했습니다."
+          },
+          "caption": {
+            "en": "Official CN garment detail. Entire original frame retained.",
+            "ko": "중국 공식 의상 세부입니다. 원본의 전체 구도를 유지했습니다."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260424/547a6cbd-1d77-4b54-90f1-39ed6a0aad8d.png",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 3899214,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20260422-outfits",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/xuan-gu-zai-yuan-8-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Xuan Gu Zai Yuan: Official CN garment detail. Entire original frame retained.",
+            "ko": "현골재연: 중국 공식 의상 세부입니다. 원본의 전체 구도를 유지했습니다."
+          },
+          "caption": {
+            "en": "Official CN garment detail. Entire original frame retained.",
+            "ko": "중국 공식 의상 세부입니다. 원본의 전체 구도를 유지했습니다."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260424/4b4b2a5c-6206-4a60-bf49-3c7608220cdd.png",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 3502332,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20260422-outfits",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/xuan-gu-zai-yuan-9-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Xuan Gu Zai Yuan: Official CN garment detail. Entire original frame retained.",
+            "ko": "현골재연: 중국 공식 의상 세부입니다. 원본의 전체 구도를 유지했습니다."
+          },
+          "caption": {
+            "en": "Official CN garment detail. Entire original frame retained.",
+            "ko": "중국 공식 의상 세부입니다. 원본의 전체 구도를 유지했습니다."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260424/8c943cda-0b05-42bb-9bd8-9a8a1f0336ec.png",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 3514154,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20260422-outfits",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/xuan-gu-zai-yuan-10-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Xuan Gu Zai Yuan: Official CN rear view. Entire original frame retained.",
+            "ko": "현골재연: 중국 공식 뒷모습입니다. 원본의 전체 구도를 유지했습니다."
+          },
+          "caption": {
+            "en": "Official CN rear view. Entire original frame retained.",
+            "ko": "중국 공식 뒷모습입니다. 원본의 전체 구도를 유지했습니다."
+          }
         }
       ],
       "officialVideos": [],
-      "wikiDetails": true
+      "wikiDetails": true,
+      "mediaStatus": "verified"
     },
     {
       "id": "qing-yuan-ru-hua",
@@ -6572,6 +7961,64 @@
           "reusePermission": "unknown",
           "localCopy": null,
           "server": "Global"
+        },
+        {
+          "url": "https://img.acp.idv.tw/2026/08/20260820170202_1.jpg",
+          "width": 690,
+          "height": 1080,
+          "bytes": 133428,
+          "kind": "community_gameplay_screenshot",
+          "visuallyInspected": true,
+          "sourceId": "acp-kite-in-the-painting-f-20260930",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/qing-yuan-ru-hua-3-full.webp",
+          "server": "Global",
+          "alt": {
+            "en": "Kite in the Painting: Female front view from the community Global appearance archive.",
+            "ko": "그림 같은 연: 글로벌 커뮤니티 외관 도감의 여성 정면 사진입니다."
+          },
+          "caption": {
+            "en": "Female front view from the community Global appearance archive.",
+            "ko": "글로벌 커뮤니티 외관 도감의 여성 정면 사진입니다."
+          },
+          "contributor": "貓植事x恩奇ANCHI",
+          "sourceKind": "community",
+          "sourceLabel": {
+            "en": "Global appearance archive",
+            "ko": "글로벌 외관 도감"
+          },
+          "sourceUrl": "https://acp.idv.tw/where_winds_meet/kite-in-the-painting-f/",
+          "attribution": "NetEase / Where Winds Meet; screenshot by 貓植事x恩奇ANCHI"
+        },
+        {
+          "url": "https://img.acp.idv.tw/2026/08/20260820170218_1.jpg",
+          "width": 690,
+          "height": 1080,
+          "bytes": 145903,
+          "kind": "community_gameplay_screenshot",
+          "visuallyInspected": true,
+          "sourceId": "acp-kite-in-the-painting-f-20260930",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/qing-yuan-ru-hua-4-full.webp",
+          "server": "Global",
+          "alt": {
+            "en": "Kite in the Painting: Female rear view from the community Global appearance archive.",
+            "ko": "그림 같은 연: 글로벌 커뮤니티 외관 도감의 여성 후면 사진입니다."
+          },
+          "caption": {
+            "en": "Female rear view from the community Global appearance archive.",
+            "ko": "글로벌 커뮤니티 외관 도감의 여성 후면 사진입니다."
+          },
+          "contributor": "貓植事x恩奇ANCHI",
+          "sourceKind": "community",
+          "sourceLabel": {
+            "en": "Global appearance archive",
+            "ko": "글로벌 외관 도감"
+          },
+          "sourceUrl": "https://acp.idv.tw/where_winds_meet/kite-in-the-painting-f/",
+          "attribution": "NetEase / Where Winds Meet; screenshot by 貓植事x恩奇ANCHI"
         }
       ],
       "officialVideos": [],
@@ -6640,10 +8087,179 @@
           "inspectionNote": "Image and representative upper poster panels visually reviewed; acquisition facts taken from article text.",
           "reusePermission": "unknown",
           "localCopy": null
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260514/25a75b0b-fc74-48a8-9b23-94ff752c4cc4.png",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 3309956,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20260514-outfits",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/nan-ming-you-meng-2-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Nan Ming You Meng: Official CN character reference. Entire original frame retained.",
+            "ko": "남명유몽: 중국 공식 캐릭터 참고 사진입니다. 원본의 전체 구도를 유지했습니다."
+          },
+          "caption": {
+            "en": "Official CN character reference. Entire original frame retained.",
+            "ko": "중국 공식 캐릭터 참고 사진입니다. 원본의 전체 구도를 유지했습니다."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260514/21855ef6-786a-4aba-8f36-18bd0c6d3c9b.png",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 3064877,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20260514-outfits",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/nan-ming-you-meng-3-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Nan Ming You Meng: Official CN character reference. Entire original frame retained.",
+            "ko": "남명유몽: 중국 공식 캐릭터 참고 사진입니다. 원본의 전체 구도를 유지했습니다."
+          },
+          "caption": {
+            "en": "Official CN character reference. Entire original frame retained.",
+            "ko": "중국 공식 캐릭터 참고 사진입니다. 원본의 전체 구도를 유지했습니다."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260514/925982cf-fa35-432d-8566-5288060ff2dc.png",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 3113381,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20260514-outfits",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/nan-ming-you-meng-4-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Nan Ming You Meng: Official CN character reference. Entire original frame retained.",
+            "ko": "남명유몽: 중국 공식 캐릭터 참고 사진입니다. 원본의 전체 구도를 유지했습니다."
+          },
+          "caption": {
+            "en": "Official CN character reference. Entire original frame retained.",
+            "ko": "중국 공식 캐릭터 참고 사진입니다. 원본의 전체 구도를 유지했습니다."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260514/64545724-cd08-4087-8c73-0242337e2f91.png",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 3602362,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20260514-outfits",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/nan-ming-you-meng-5-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Nan Ming You Meng: Official CN rear view. Entire original frame retained.",
+            "ko": "남명유몽: 중국 공식 뒷모습입니다. 원본의 전체 구도를 유지했습니다."
+          },
+          "caption": {
+            "en": "Official CN rear view. Entire original frame retained.",
+            "ko": "중국 공식 뒷모습입니다. 원본의 전체 구도를 유지했습니다."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260514/df9c1dda-3b1b-4f67-8f8c-9cd0f8eeec81.png",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 3215405,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20260514-outfits",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/nan-ming-you-meng-6-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Nan Ming You Meng: Official CN character reference. Entire original frame retained.",
+            "ko": "남명유몽: 중국 공식 캐릭터 참고 사진입니다. 원본의 전체 구도를 유지했습니다."
+          },
+          "caption": {
+            "en": "Official CN character reference. Entire original frame retained.",
+            "ko": "중국 공식 캐릭터 참고 사진입니다. 원본의 전체 구도를 유지했습니다."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260514/3c8bab5e-2cd1-47e0-961a-926a95e8c32b.png",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 3598463,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20260514-outfits",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/nan-ming-you-meng-7-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Nan Ming You Meng: Official CN rear view. Entire original frame retained.",
+            "ko": "남명유몽: 중국 공식 뒷모습입니다. 원본의 전체 구도를 유지했습니다."
+          },
+          "caption": {
+            "en": "Official CN rear view. Entire original frame retained.",
+            "ko": "중국 공식 뒷모습입니다. 원본의 전체 구도를 유지했습니다."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260514/f85367d5-9996-4777-ab2c-bc95fc9609fa.png",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 3767551,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20260514-outfits",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/nan-ming-you-meng-8-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Nan Ming You Meng: Official CN garment detail. Entire original frame retained.",
+            "ko": "남명유몽: 중국 공식 의상 세부입니다. 원본의 전체 구도를 유지했습니다."
+          },
+          "caption": {
+            "en": "Official CN garment detail. Entire original frame retained.",
+            "ko": "중국 공식 의상 세부입니다. 원본의 전체 구도를 유지했습니다."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260514/da615a77-9203-4a50-89f5-b86f35a58003.png",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 3801661,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20260514-outfits",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/nan-ming-you-meng-9-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Nan Ming You Meng: Official CN garment detail. Entire original frame retained.",
+            "ko": "남명유몽: 중국 공식 의상 세부입니다. 원본의 전체 구도를 유지했습니다."
+          },
+          "caption": {
+            "en": "Official CN garment detail. Entire original frame retained.",
+            "ko": "중국 공식 의상 세부입니다. 원본의 전체 구도를 유지했습니다."
+          }
         }
       ],
       "officialVideos": [],
-      "wikiDetails": true
+      "wikiDetails": true,
+      "mediaStatus": "verified"
     },
     {
       "id": "fu-chen-wu-ji",
@@ -6707,6 +8323,132 @@
           "inspectionNote": "Image and representative upper poster panels visually reviewed; acquisition facts taken from article text.",
           "reusePermission": "unknown",
           "localCopy": null
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260529/eb3f9053-15ad-4deb-a120-a96955576612.png",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 3593284,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20260528-outfits",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/fu-chen-wu-ji-2-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Fu Chen Wu Ji: Official CN character reference. Entire original frame retained.",
+            "ko": "복진무기: 중국 공식 캐릭터 참고 사진입니다. 원본의 전체 구도를 유지했습니다."
+          },
+          "caption": {
+            "en": "Official CN character reference. Entire original frame retained.",
+            "ko": "중국 공식 캐릭터 참고 사진입니다. 원본의 전체 구도를 유지했습니다."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260529/1eeba94f-f135-41a2-af56-32632aaa7cb9.png",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 3185811,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20260528-outfits",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/fu-chen-wu-ji-3-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Fu Chen Wu Ji: Official CN character reference. Entire original frame retained.",
+            "ko": "복진무기: 중국 공식 캐릭터 참고 사진입니다. 원본의 전체 구도를 유지했습니다."
+          },
+          "caption": {
+            "en": "Official CN character reference. Entire original frame retained.",
+            "ko": "중국 공식 캐릭터 참고 사진입니다. 원본의 전체 구도를 유지했습니다."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260529/ed608c39-aa8d-469a-a3b5-d1463faca337.png",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 3452264,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20260528-outfits",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/fu-chen-wu-ji-4-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Fu Chen Wu Ji: Official CN garment detail. Entire original frame retained.",
+            "ko": "복진무기: 중국 공식 의상 세부입니다. 원본의 전체 구도를 유지했습니다."
+          },
+          "caption": {
+            "en": "Official CN garment detail. Entire original frame retained.",
+            "ko": "중국 공식 의상 세부입니다. 원본의 전체 구도를 유지했습니다."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260529/2f187b3c-86c7-4c0b-980b-240296f81189.png",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 3871581,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20260528-outfits",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/fu-chen-wu-ji-5-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Fu Chen Wu Ji: Official CN garment detail. Entire original frame retained.",
+            "ko": "복진무기: 중국 공식 의상 세부입니다. 원본의 전체 구도를 유지했습니다."
+          },
+          "caption": {
+            "en": "Official CN garment detail. Entire original frame retained.",
+            "ko": "중국 공식 의상 세부입니다. 원본의 전체 구도를 유지했습니다."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260529/0b4be8a1-6e9a-4a3c-bcea-13e27a4eb61f.png",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 2986341,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20260528-outfits",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/fu-chen-wu-ji-6-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Fu Chen Wu Ji: Official CN rear view. Entire original frame retained.",
+            "ko": "복진무기: 중국 공식 뒷모습입니다. 원본의 전체 구도를 유지했습니다."
+          },
+          "caption": {
+            "en": "Official CN rear view. Entire original frame retained.",
+            "ko": "중국 공식 뒷모습입니다. 원본의 전체 구도를 유지했습니다."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260529/19b7e011-dadc-4fe5-88ae-c3cfb09e0387.png",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 3394154,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20260528-outfits",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/fu-chen-wu-ji-7-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Fu Chen Wu Ji: Official CN rear view. Entire original frame retained.",
+            "ko": "복진무기: 중국 공식 뒷모습입니다. 원본의 전체 구도를 유지했습니다."
+          },
+          "caption": {
+            "en": "Official CN rear view. Entire original frame retained.",
+            "ko": "중국 공식 뒷모습입니다. 원본의 전체 구도를 유지했습니다."
+          }
         }
       ],
       "officialVideos": [],
@@ -6715,7 +8457,8 @@
         "timezone": null,
         "precision": "minute"
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "mediaStatus": "verified"
     },
     {
       "id": "jin-lv-sheng-lan",
@@ -6934,10 +8677,53 @@
           "inspectionNote": "Image and representative upper poster panels visually reviewed; acquisition facts taken from article text.",
           "reusePermission": "unknown",
           "localCopy": null
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260703/6117f80e-03b3-4c30-a45a-6c58f6f98d27.jpg",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 1399337,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20260630-outfits",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/lian-tai-he-2-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Lian Tai He: Official CN character reference. Entire original frame retained.",
+            "ko": "연대학: 중국 공식 캐릭터 참고 사진입니다. 원본의 전체 구도를 유지했습니다."
+          },
+          "caption": {
+            "en": "Official CN character reference. Entire original frame retained.",
+            "ko": "중국 공식 캐릭터 참고 사진입니다. 원본의 전체 구도를 유지했습니다."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260703/a6936466-0870-42e4-b667-efc40f2a77c7.jpg",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 1426061,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20260630-outfits",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/lian-tai-he-3-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Lian Tai He: Official CN rear view. Entire original frame retained.",
+            "ko": "연대학: 중국 공식 뒷모습입니다. 원본의 전체 구도를 유지했습니다."
+          },
+          "caption": {
+            "en": "Official CN rear view. Entire original frame retained.",
+            "ko": "중국 공식 뒷모습입니다. 원본의 전체 구도를 유지했습니다."
+          }
         }
       ],
       "officialVideos": [],
-      "wikiDetails": true
+      "wikiDetails": true,
+      "mediaStatus": "verified"
     },
     {
       "id": "zi-yu-xiang-man",
@@ -11915,6 +13701,64 @@
           "reusePermission": "unknown",
           "localCopy": null,
           "server": "Global"
+        },
+        {
+          "url": "https://img.acp.idv.tw/2026/08/20260830195716_1.jpg",
+          "width": 690,
+          "height": 1080,
+          "bytes": 125107,
+          "kind": "community_gameplay_screenshot",
+          "visuallyInspected": true,
+          "sourceId": "acp-soaring-swallows-f-20260930",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/yan-yan-yu-fei-2-full.webp",
+          "server": "Global",
+          "alt": {
+            "en": "Soaring Swallows: Female front view from the community Global appearance archive.",
+            "ko": "제비의 비상: 글로벌 커뮤니티 외관 도감의 여성 정면 사진입니다."
+          },
+          "caption": {
+            "en": "Female front view from the community Global appearance archive.",
+            "ko": "글로벌 커뮤니티 외관 도감의 여성 정면 사진입니다."
+          },
+          "contributor": "貓植事x恩奇ANCHI",
+          "sourceKind": "community",
+          "sourceLabel": {
+            "en": "Global appearance archive",
+            "ko": "글로벌 외관 도감"
+          },
+          "sourceUrl": "https://acp.idv.tw/where_winds_meet/soaring-swallows-f/",
+          "attribution": "NetEase / Where Winds Meet; screenshot by 貓植事x恩奇ANCHI"
+        },
+        {
+          "url": "https://img.acp.idv.tw/2026/08/20260830195722_1.jpg",
+          "width": 690,
+          "height": 1080,
+          "bytes": 120710,
+          "kind": "community_gameplay_screenshot",
+          "visuallyInspected": true,
+          "sourceId": "acp-soaring-swallows-f-20260930",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/yan-yan-yu-fei-3-full.webp",
+          "server": "Global",
+          "alt": {
+            "en": "Soaring Swallows: Female rear view from the community Global appearance archive.",
+            "ko": "제비의 비상: 글로벌 커뮤니티 외관 도감의 여성 후면 사진입니다."
+          },
+          "caption": {
+            "en": "Female rear view from the community Global appearance archive.",
+            "ko": "글로벌 커뮤니티 외관 도감의 여성 후면 사진입니다."
+          },
+          "contributor": "貓植事x恩奇ANCHI",
+          "sourceKind": "community",
+          "sourceLabel": {
+            "en": "Global appearance archive",
+            "ko": "글로벌 외관 도감"
+          },
+          "sourceUrl": "https://acp.idv.tw/where_winds_meet/soaring-swallows-f/",
+          "attribution": "NetEase / Where Winds Meet; screenshot by 貓植事x恩奇ANCHI"
         }
       ],
       "officialVideos": [],
@@ -15052,6 +16896,64 @@
           "reusePermission": "unknown",
           "localCopy": null,
           "server": "Global"
+        },
+        {
+          "url": "https://img.acp.idv.tw/2026/08/20260823004257_1.jpg",
+          "width": 690,
+          "height": 1080,
+          "bytes": 134752,
+          "kind": "community_gameplay_screenshot",
+          "visuallyInspected": true,
+          "sourceId": "acp-white-plume-hunter-f-20260930",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/lie-baiyu-2-full.webp",
+          "server": "Global",
+          "alt": {
+            "en": "White Plume Hunter: Female front view from the community Global appearance archive.",
+            "ko": "백우 사냥: 글로벌 커뮤니티 외관 도감의 여성 정면 사진입니다."
+          },
+          "caption": {
+            "en": "Female front view from the community Global appearance archive.",
+            "ko": "글로벌 커뮤니티 외관 도감의 여성 정면 사진입니다."
+          },
+          "contributor": "貓植事x恩奇ANCHI",
+          "sourceKind": "community",
+          "sourceLabel": {
+            "en": "Global appearance archive",
+            "ko": "글로벌 외관 도감"
+          },
+          "sourceUrl": "https://acp.idv.tw/where_winds_meet/white-plume-hunter-f/",
+          "attribution": "NetEase / Where Winds Meet; screenshot by 貓植事x恩奇ANCHI"
+        },
+        {
+          "url": "https://img.acp.idv.tw/2026/08/20260823004302_1.jpg",
+          "width": 690,
+          "height": 1080,
+          "bytes": 134825,
+          "kind": "community_gameplay_screenshot",
+          "visuallyInspected": true,
+          "sourceId": "acp-white-plume-hunter-f-20260930",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/lie-baiyu-3-full.webp",
+          "server": "Global",
+          "alt": {
+            "en": "White Plume Hunter: Female rear view from the community Global appearance archive.",
+            "ko": "백우 사냥: 글로벌 커뮤니티 외관 도감의 여성 후면 사진입니다."
+          },
+          "caption": {
+            "en": "Female rear view from the community Global appearance archive.",
+            "ko": "글로벌 커뮤니티 외관 도감의 여성 후면 사진입니다."
+          },
+          "contributor": "貓植事x恩奇ANCHI",
+          "sourceKind": "community",
+          "sourceLabel": {
+            "en": "Global appearance archive",
+            "ko": "글로벌 외관 도감"
+          },
+          "sourceUrl": "https://acp.idv.tw/where_winds_meet/white-plume-hunter-f/",
+          "attribution": "NetEase / Where Winds Meet; screenshot by 貓植事x恩奇ANCHI"
         }
       ],
       "officialVideos": [],
@@ -16879,6 +18781,64 @@
           "reusePermission": "unknown",
           "localCopy": null,
           "server": "Global"
+        },
+        {
+          "url": "https://img.acp.idv.tw/2026/09/20260918145115_1.jpg",
+          "width": 690,
+          "height": 1080,
+          "bytes": 129245,
+          "kind": "community_gameplay_screenshot",
+          "visuallyInspected": true,
+          "sourceId": "acp-sandveil-venom-f-20260930",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/liu-sha-wen-gu-2-full.webp",
+          "server": "Global",
+          "alt": {
+            "en": "Sandveil Venom: Female front view from the community Global appearance archive.",
+            "ko": "사막의 독충술: 글로벌 커뮤니티 외관 도감의 여성 정면 사진입니다."
+          },
+          "caption": {
+            "en": "Female front view from the community Global appearance archive.",
+            "ko": "글로벌 커뮤니티 외관 도감의 여성 정면 사진입니다."
+          },
+          "contributor": "貓植事x恩奇ANCHI",
+          "sourceKind": "community",
+          "sourceLabel": {
+            "en": "Global appearance archive",
+            "ko": "글로벌 외관 도감"
+          },
+          "sourceUrl": "https://acp.idv.tw/where_winds_meet/sandveil-venom-f/",
+          "attribution": "NetEase / Where Winds Meet; screenshot by 貓植事x恩奇ANCHI"
+        },
+        {
+          "url": "https://img.acp.idv.tw/2026/09/20260918145120_1.jpg",
+          "width": 690,
+          "height": 1080,
+          "bytes": 125316,
+          "kind": "community_gameplay_screenshot",
+          "visuallyInspected": true,
+          "sourceId": "acp-sandveil-venom-f-20260930",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/liu-sha-wen-gu-3-full.webp",
+          "server": "Global",
+          "alt": {
+            "en": "Sandveil Venom: Female rear view from the community Global appearance archive.",
+            "ko": "사막의 독충술: 글로벌 커뮤니티 외관 도감의 여성 후면 사진입니다."
+          },
+          "caption": {
+            "en": "Female rear view from the community Global appearance archive.",
+            "ko": "글로벌 커뮤니티 외관 도감의 여성 후면 사진입니다."
+          },
+          "contributor": "貓植事x恩奇ANCHI",
+          "sourceKind": "community",
+          "sourceLabel": {
+            "en": "Global appearance archive",
+            "ko": "글로벌 외관 도감"
+          },
+          "sourceUrl": "https://acp.idv.tw/where_winds_meet/sandveil-venom-f/",
+          "attribution": "NetEase / Where Winds Meet; screenshot by 貓植事x恩奇ANCHI"
         }
       ],
       "officialVideos": [],
@@ -18803,6 +20763,64 @@
           "reusePermission": "unknown",
           "localCopy": null,
           "server": "Global"
+        },
+        {
+          "url": "https://img.acp.idv.tw/2026/08/20260809141004_1.jpg",
+          "width": 854,
+          "height": 1080,
+          "bytes": 166921,
+          "kind": "community_gameplay_screenshot",
+          "visuallyInspected": true,
+          "sourceId": "acp-springtide-verse-f-20260930",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/dianchun-ou-2-full.webp",
+          "server": "Global",
+          "alt": {
+            "en": "Springtide Verse: Female front view from the community Global appearance archive.",
+            "ko": "점춘구: 글로벌 커뮤니티 외관 도감의 여성 정면 사진입니다."
+          },
+          "caption": {
+            "en": "Female front view from the community Global appearance archive.",
+            "ko": "글로벌 커뮤니티 외관 도감의 여성 정면 사진입니다."
+          },
+          "contributor": "貓植事x恩奇ANCHI",
+          "sourceKind": "community",
+          "sourceLabel": {
+            "en": "Global appearance archive",
+            "ko": "글로벌 외관 도감"
+          },
+          "sourceUrl": "https://acp.idv.tw/where_winds_meet/springtide-verse-f/",
+          "attribution": "NetEase / Where Winds Meet; screenshot by 貓植事x恩奇ANCHI"
+        },
+        {
+          "url": "https://img.acp.idv.tw/2026/08/20260809141011_1.jpg",
+          "width": 963,
+          "height": 1080,
+          "bytes": 165477,
+          "kind": "community_gameplay_screenshot",
+          "visuallyInspected": true,
+          "sourceId": "acp-springtide-verse-f-20260930",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/dianchun-ou-3-full.webp",
+          "server": "Global",
+          "alt": {
+            "en": "Springtide Verse: Female rear view from the community Global appearance archive.",
+            "ko": "점춘구: 글로벌 커뮤니티 외관 도감의 여성 후면 사진입니다."
+          },
+          "caption": {
+            "en": "Female rear view from the community Global appearance archive.",
+            "ko": "글로벌 커뮤니티 외관 도감의 여성 후면 사진입니다."
+          },
+          "contributor": "貓植事x恩奇ANCHI",
+          "sourceKind": "community",
+          "sourceLabel": {
+            "en": "Global appearance archive",
+            "ko": "글로벌 외관 도감"
+          },
+          "sourceUrl": "https://acp.idv.tw/where_winds_meet/springtide-verse-f/",
+          "attribution": "NetEase / Where Winds Meet; screenshot by 貓植事x恩奇ANCHI"
         }
       ],
       "officialVideos": [],
@@ -20902,6 +22920,64 @@
           "reusePermission": "unknown",
           "localCopy": null,
           "server": "Global"
+        },
+        {
+          "url": "https://img.acp.idv.tw/2026/08/20260820160206_1.jpg",
+          "width": 501,
+          "height": 912,
+          "bytes": 99384,
+          "kind": "community_gameplay_screenshot",
+          "visuallyInspected": true,
+          "sourceId": "acp-strokes-of-grace-f-20260930",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/han-mo-dan-qing-2-full.webp",
+          "server": "Global",
+          "alt": {
+            "en": "Strokes of Grace: Female front view from the community Global appearance archive.",
+            "ko": "서화 단청: 글로벌 커뮤니티 외관 도감의 여성 정면 사진입니다."
+          },
+          "caption": {
+            "en": "Female front view from the community Global appearance archive.",
+            "ko": "글로벌 커뮤니티 외관 도감의 여성 정면 사진입니다."
+          },
+          "contributor": "貓植事x恩奇ANCHI",
+          "sourceKind": "community",
+          "sourceLabel": {
+            "en": "Global appearance archive",
+            "ko": "글로벌 외관 도감"
+          },
+          "sourceUrl": "https://acp.idv.tw/where_winds_meet/strokes-of-grace-f/",
+          "attribution": "NetEase / Where Winds Meet; screenshot by 貓植事x恩奇ANCHI"
+        },
+        {
+          "url": "https://img.acp.idv.tw/2026/08/20260820160210_1.jpg",
+          "width": 501,
+          "height": 912,
+          "bytes": 95050,
+          "kind": "community_gameplay_screenshot",
+          "visuallyInspected": true,
+          "sourceId": "acp-strokes-of-grace-f-20260930",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/han-mo-dan-qing-3-full.webp",
+          "server": "Global",
+          "alt": {
+            "en": "Strokes of Grace: Female rear view from the community Global appearance archive.",
+            "ko": "서화 단청: 글로벌 커뮤니티 외관 도감의 여성 후면 사진입니다."
+          },
+          "caption": {
+            "en": "Female rear view from the community Global appearance archive.",
+            "ko": "글로벌 커뮤니티 외관 도감의 여성 후면 사진입니다."
+          },
+          "contributor": "貓植事x恩奇ANCHI",
+          "sourceKind": "community",
+          "sourceLabel": {
+            "en": "Global appearance archive",
+            "ko": "글로벌 외관 도감"
+          },
+          "sourceUrl": "https://acp.idv.tw/where_winds_meet/strokes-of-grace-f/",
+          "attribution": "NetEase / Where Winds Meet; screenshot by 貓植事x恩奇ANCHI"
         }
       ],
       "officialVideos": [],
@@ -22529,6 +24605,64 @@
           "reusePermission": "unknown",
           "localCopy": null,
           "server": "CN"
+        },
+        {
+          "url": "https://img.acp.idv.tw/2026/09/20260927213210_1.jpg",
+          "width": 690,
+          "height": 1080,
+          "bytes": 135812,
+          "kind": "community_gameplay_screenshot",
+          "visuallyInspected": true,
+          "sourceId": "acp-cicada-requiem-f-20260930",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/shu-tong-liu-xiang-1-full.webp",
+          "server": "Global",
+          "alt": {
+            "en": "Cicada Requiem: Female front view from the community Global appearance archive.",
+            "ko": "흑선의 울림: 글로벌 커뮤니티 외관 도감의 여성 정면 사진입니다."
+          },
+          "caption": {
+            "en": "Female front view from the community Global appearance archive.",
+            "ko": "글로벌 커뮤니티 외관 도감의 여성 정면 사진입니다."
+          },
+          "contributor": "貓植事x恩奇ANCHI",
+          "sourceKind": "community",
+          "sourceLabel": {
+            "en": "Global appearance archive",
+            "ko": "글로벌 외관 도감"
+          },
+          "sourceUrl": "https://acp.idv.tw/where_winds_meet/cicada-requiem-f/",
+          "attribution": "NetEase / Where Winds Meet; screenshot by 貓植事x恩奇ANCHI"
+        },
+        {
+          "url": "https://img.acp.idv.tw/2026/09/20260927213216_1.jpg",
+          "width": 690,
+          "height": 1080,
+          "bytes": 130431,
+          "kind": "community_gameplay_screenshot",
+          "visuallyInspected": true,
+          "sourceId": "acp-cicada-requiem-f-20260930",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/shu-tong-liu-xiang-2-full.webp",
+          "server": "Global",
+          "alt": {
+            "en": "Cicada Requiem: Female rear view from the community Global appearance archive.",
+            "ko": "흑선의 울림: 글로벌 커뮤니티 외관 도감의 여성 후면 사진입니다."
+          },
+          "caption": {
+            "en": "Female rear view from the community Global appearance archive.",
+            "ko": "글로벌 커뮤니티 외관 도감의 여성 후면 사진입니다."
+          },
+          "contributor": "貓植事x恩奇ANCHI",
+          "sourceKind": "community",
+          "sourceLabel": {
+            "en": "Global appearance archive",
+            "ko": "글로벌 외관 도감"
+          },
+          "sourceUrl": "https://acp.idv.tw/where_winds_meet/cicada-requiem-f/",
+          "attribution": "NetEase / Where Winds Meet; screenshot by 貓植事x恩奇ANCHI"
         }
       ],
       "officialVideos": [],
@@ -23001,6 +25135,64 @@
           "reusePermission": "unknown",
           "localCopy": null,
           "server": "Global"
+        },
+        {
+          "url": "https://img.acp.idv.tw/2026/08/20260827164019_1.jpg",
+          "width": 690,
+          "height": 1080,
+          "bytes": 115818,
+          "kind": "community_gameplay_screenshot",
+          "visuallyInspected": true,
+          "sourceId": "acp-phantom-shift-f-20260930",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/guaiwu-chang-2-full.webp",
+          "server": "Global",
+          "alt": {
+            "en": "Phantom-shift: Female front view from the community Global appearance archive.",
+            "ko": "괴무상: 글로벌 커뮤니티 외관 도감의 여성 정면 사진입니다."
+          },
+          "caption": {
+            "en": "Female front view from the community Global appearance archive.",
+            "ko": "글로벌 커뮤니티 외관 도감의 여성 정면 사진입니다."
+          },
+          "contributor": "貓植事x恩奇ANCHI",
+          "sourceKind": "community",
+          "sourceLabel": {
+            "en": "Global appearance archive",
+            "ko": "글로벌 외관 도감"
+          },
+          "sourceUrl": "https://acp.idv.tw/where_winds_meet/phantom-shift-f/",
+          "attribution": "NetEase / Where Winds Meet; screenshot by 貓植事x恩奇ANCHI"
+        },
+        {
+          "url": "https://img.acp.idv.tw/2026/08/20260827164026_1.jpg",
+          "width": 690,
+          "height": 1080,
+          "bytes": 100043,
+          "kind": "community_gameplay_screenshot",
+          "visuallyInspected": true,
+          "sourceId": "acp-phantom-shift-f-20260930",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/guaiwu-chang-3-full.webp",
+          "server": "Global",
+          "alt": {
+            "en": "Phantom-shift: Female rear view from the community Global appearance archive.",
+            "ko": "괴무상: 글로벌 커뮤니티 외관 도감의 여성 후면 사진입니다."
+          },
+          "caption": {
+            "en": "Female rear view from the community Global appearance archive.",
+            "ko": "글로벌 커뮤니티 외관 도감의 여성 후면 사진입니다."
+          },
+          "contributor": "貓植事x恩奇ANCHI",
+          "sourceKind": "community",
+          "sourceLabel": {
+            "en": "Global appearance archive",
+            "ko": "글로벌 외관 도감"
+          },
+          "sourceUrl": "https://acp.idv.tw/where_winds_meet/phantom-shift-f/",
+          "attribution": "NetEase / Where Winds Meet; screenshot by 貓植事x恩奇ANCHI"
         }
       ],
       "officialVideos": [],
@@ -26331,6 +28523,64 @@
             "en": "Official appearance preview: Jade Moonrise",
             "ko": "황금빛 설렘 공식 외관 미리보기"
           }
+        },
+        {
+          "url": "https://img.acp.idv.tw/2026/09/20260925211525_1.jpg",
+          "width": 690,
+          "height": 1080,
+          "bytes": 164527,
+          "kind": "community_gameplay_screenshot",
+          "visuallyInspected": true,
+          "sourceId": "acp-jade-moonrise-f-20260930",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/jin-yan-yu-tuan-1-full.webp",
+          "server": "Global",
+          "alt": {
+            "en": "Jade Moonrise: Female front view from the community Global appearance archive.",
+            "ko": "황금빛 설렘: 글로벌 커뮤니티 외관 도감의 여성 정면 사진입니다."
+          },
+          "caption": {
+            "en": "Female front view from the community Global appearance archive.",
+            "ko": "글로벌 커뮤니티 외관 도감의 여성 정면 사진입니다."
+          },
+          "contributor": "貓植事x恩奇ANCHI",
+          "sourceKind": "community",
+          "sourceLabel": {
+            "en": "Global appearance archive",
+            "ko": "글로벌 외관 도감"
+          },
+          "sourceUrl": "https://acp.idv.tw/where_winds_meet/jade-moonrise-f/",
+          "attribution": "NetEase / Where Winds Meet; screenshot by 貓植事x恩奇ANCHI"
+        },
+        {
+          "url": "https://img.acp.idv.tw/2026/09/20260925211532_1.jpg",
+          "width": 690,
+          "height": 1080,
+          "bytes": 160722,
+          "kind": "community_gameplay_screenshot",
+          "visuallyInspected": true,
+          "sourceId": "acp-jade-moonrise-f-20260930",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/jin-yan-yu-tuan-2-full.webp",
+          "server": "Global",
+          "alt": {
+            "en": "Jade Moonrise: Female rear view from the community Global appearance archive.",
+            "ko": "황금빛 설렘: 글로벌 커뮤니티 외관 도감의 여성 후면 사진입니다."
+          },
+          "caption": {
+            "en": "Female rear view from the community Global appearance archive.",
+            "ko": "글로벌 커뮤니티 외관 도감의 여성 후면 사진입니다."
+          },
+          "contributor": "貓植事x恩奇ANCHI",
+          "sourceKind": "community",
+          "sourceLabel": {
+            "en": "Global appearance archive",
+            "ko": "글로벌 외관 도감"
+          },
+          "sourceUrl": "https://acp.idv.tw/where_winds_meet/jade-moonrise-f/",
+          "attribution": "NetEase / Where Winds Meet; screenshot by 貓植事x恩奇ANCHI"
         }
       ],
       "officialVideos": [],
@@ -36410,6 +38660,64 @@
           "reusePermission": "unknown",
           "localCopy": null,
           "server": "Global"
+        },
+        {
+          "url": "https://img.acp.idv.tw/2026/05/20260528135213_1.jpg",
+          "width": 538,
+          "height": 849,
+          "bytes": 97125,
+          "kind": "community_gameplay_screenshot",
+          "visuallyInspected": true,
+          "sourceId": "acp-forest-sovereign-f-20260930",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/global-forest-sovereign-1-full.webp",
+          "server": "Global",
+          "alt": {
+            "en": "Forest Sovereign: Female front view from the community Global appearance archive.",
+            "ko": "Forest Sovereign: 글로벌 커뮤니티 외관 도감의 여성 정면 사진입니다."
+          },
+          "caption": {
+            "en": "Female front view from the community Global appearance archive.",
+            "ko": "글로벌 커뮤니티 외관 도감의 여성 정면 사진입니다."
+          },
+          "contributor": "貓植事x恩奇ANCHI",
+          "sourceKind": "community",
+          "sourceLabel": {
+            "en": "Global appearance archive",
+            "ko": "글로벌 외관 도감"
+          },
+          "sourceUrl": "https://acp.idv.tw/where_winds_meet/forest-sovereign-f/",
+          "attribution": "NetEase / Where Winds Meet; screenshot by 貓植事x恩奇ANCHI"
+        },
+        {
+          "url": "https://img.acp.idv.tw/2026/05/20260528135218_1.jpg",
+          "width": 538,
+          "height": 849,
+          "bytes": 101920,
+          "kind": "community_gameplay_screenshot",
+          "visuallyInspected": true,
+          "sourceId": "acp-forest-sovereign-f-20260930",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/global-forest-sovereign-2-full.webp",
+          "server": "Global",
+          "alt": {
+            "en": "Forest Sovereign: Female rear view from the community Global appearance archive.",
+            "ko": "Forest Sovereign: 글로벌 커뮤니티 외관 도감의 여성 후면 사진입니다."
+          },
+          "caption": {
+            "en": "Female rear view from the community Global appearance archive.",
+            "ko": "글로벌 커뮤니티 외관 도감의 여성 후면 사진입니다."
+          },
+          "contributor": "貓植事x恩奇ANCHI",
+          "sourceKind": "community",
+          "sourceLabel": {
+            "en": "Global appearance archive",
+            "ko": "글로벌 외관 도감"
+          },
+          "sourceUrl": "https://acp.idv.tw/where_winds_meet/forest-sovereign-f/",
+          "attribution": "NetEase / Where Winds Meet; screenshot by 貓植事x恩奇ANCHI"
         }
       ],
       "officialVideos": [],
@@ -36605,6 +38913,64 @@
           "reusePermission": "unknown",
           "localCopy": null,
           "server": "Global"
+        },
+        {
+          "url": "https://img.acp.idv.tw/2026/05/20260528141805_1.jpg",
+          "width": 690,
+          "height": 1080,
+          "bytes": 160171,
+          "kind": "community_gameplay_screenshot",
+          "visuallyInspected": true,
+          "sourceId": "acp-moonlit-howl-f-20260930",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/global-moonlit-howl-1-full.webp",
+          "server": "Global",
+          "alt": {
+            "en": "Moonlit Howl: Female front view from the community Global appearance archive.",
+            "ko": "Moonlit Howl: 글로벌 커뮤니티 외관 도감의 여성 정면 사진입니다."
+          },
+          "caption": {
+            "en": "Female front view from the community Global appearance archive.",
+            "ko": "글로벌 커뮤니티 외관 도감의 여성 정면 사진입니다."
+          },
+          "contributor": "貓植事x恩奇ANCHI",
+          "sourceKind": "community",
+          "sourceLabel": {
+            "en": "Global appearance archive",
+            "ko": "글로벌 외관 도감"
+          },
+          "sourceUrl": "https://acp.idv.tw/where_winds_meet/moonlit-howl-f/",
+          "attribution": "NetEase / Where Winds Meet; screenshot by 貓植事x恩奇ANCHI"
+        },
+        {
+          "url": "https://img.acp.idv.tw/2026/05/20260528141814_1.jpg",
+          "width": 690,
+          "height": 1080,
+          "bytes": 156293,
+          "kind": "community_gameplay_screenshot",
+          "visuallyInspected": true,
+          "sourceId": "acp-moonlit-howl-f-20260930",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/global-moonlit-howl-2-full.webp",
+          "server": "Global",
+          "alt": {
+            "en": "Moonlit Howl: Female rear view from the community Global appearance archive.",
+            "ko": "Moonlit Howl: 글로벌 커뮤니티 외관 도감의 여성 후면 사진입니다."
+          },
+          "caption": {
+            "en": "Female rear view from the community Global appearance archive.",
+            "ko": "글로벌 커뮤니티 외관 도감의 여성 후면 사진입니다."
+          },
+          "contributor": "貓植事x恩奇ANCHI",
+          "sourceKind": "community",
+          "sourceLabel": {
+            "en": "Global appearance archive",
+            "ko": "글로벌 외관 도감"
+          },
+          "sourceUrl": "https://acp.idv.tw/where_winds_meet/moonlit-howl-f/",
+          "attribution": "NetEase / Where Winds Meet; screenshot by 貓植事x恩奇ANCHI"
         }
       ],
       "officialVideos": [],
@@ -38967,6 +41333,64 @@
             "en": "Huiji Wiki reference. Full original retained; image availability does not verify regional release.",
             "ko": "회기 위키 참고 이미지입니다. 전체 원본을 보존하며 사진 확보가 서버별 출시 확인을 뜻하지 않습니다."
           }
+        },
+        {
+          "url": "https://img.acp.idv.tw/2026/07/20260718150447_1.jpg",
+          "width": 463,
+          "height": 884,
+          "bytes": 74219,
+          "kind": "community_gameplay_screenshot",
+          "visuallyInspected": true,
+          "sourceId": "acp-elegy-of-petals-f-20260930",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wiki-zang-hua-yin-1-full.webp",
+          "server": "Global",
+          "alt": {
+            "en": "Zang Hua Yin: Female front view from the community Global appearance archive.",
+            "ko": "葬花吟: 글로벌 커뮤니티 외관 도감의 여성 정면 사진입니다."
+          },
+          "caption": {
+            "en": "Female front view from the community Global appearance archive.",
+            "ko": "글로벌 커뮤니티 외관 도감의 여성 정면 사진입니다."
+          },
+          "contributor": "貓植事x恩奇ANCHI",
+          "sourceKind": "community",
+          "sourceLabel": {
+            "en": "Global appearance archive",
+            "ko": "글로벌 외관 도감"
+          },
+          "sourceUrl": "https://acp.idv.tw/where_winds_meet/elegy-of-petals-f/",
+          "attribution": "NetEase / Where Winds Meet; screenshot by 貓植事x恩奇ANCHI"
+        },
+        {
+          "url": "https://img.acp.idv.tw/2026/07/20260718150457_1.jpg",
+          "width": 463,
+          "height": 884,
+          "bytes": 60981,
+          "kind": "community_gameplay_screenshot",
+          "visuallyInspected": true,
+          "sourceId": "acp-elegy-of-petals-f-20260930",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wiki-zang-hua-yin-2-full.webp",
+          "server": "Global",
+          "alt": {
+            "en": "Zang Hua Yin: Female rear view from the community Global appearance archive.",
+            "ko": "葬花吟: 글로벌 커뮤니티 외관 도감의 여성 후면 사진입니다."
+          },
+          "caption": {
+            "en": "Female rear view from the community Global appearance archive.",
+            "ko": "글로벌 커뮤니티 외관 도감의 여성 후면 사진입니다."
+          },
+          "contributor": "貓植事x恩奇ANCHI",
+          "sourceKind": "community",
+          "sourceLabel": {
+            "en": "Global appearance archive",
+            "ko": "글로벌 외관 도감"
+          },
+          "sourceUrl": "https://acp.idv.tw/where_winds_meet/elegy-of-petals-f/",
+          "attribution": "NetEase / Where Winds Meet; screenshot by 貓植事x恩奇ANCHI"
         }
       ],
       "officialVideos": [],
@@ -40437,9 +42861,68 @@
         "releaseDate": null,
         "officialName": null
       },
-      "images": [],
+      "images": [
+        {
+          "url": "https://img.acp.idv.tw/2026/06/20260619144356_1.jpg",
+          "width": 486,
+          "height": 861,
+          "bytes": 89401,
+          "kind": "community_gameplay_screenshot",
+          "visuallyInspected": true,
+          "sourceId": "acp-midsummer-grace-f-20260930",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wiki-wu-feng-qing-0-full.webp",
+          "server": "Global",
+          "alt": {
+            "en": "Wu Feng Qing: Female front view from the community Global appearance archive.",
+            "ko": "午风清: 글로벌 커뮤니티 외관 도감의 여성 정면 사진입니다."
+          },
+          "caption": {
+            "en": "Female front view from the community Global appearance archive.",
+            "ko": "글로벌 커뮤니티 외관 도감의 여성 정면 사진입니다."
+          },
+          "contributor": "貓植事x恩奇ANCHI",
+          "sourceKind": "community",
+          "sourceLabel": {
+            "en": "Global appearance archive",
+            "ko": "글로벌 외관 도감"
+          },
+          "sourceUrl": "https://acp.idv.tw/where_winds_meet/midsummer-grace-f/",
+          "attribution": "NetEase / Where Winds Meet; screenshot by 貓植事x恩奇ANCHI"
+        },
+        {
+          "url": "https://img.acp.idv.tw/2026/06/20260619144402_1.jpg",
+          "width": 486,
+          "height": 861,
+          "bytes": 83812,
+          "kind": "community_gameplay_screenshot",
+          "visuallyInspected": true,
+          "sourceId": "acp-midsummer-grace-f-20260930",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wiki-wu-feng-qing-1-full.webp",
+          "server": "Global",
+          "alt": {
+            "en": "Wu Feng Qing: Female rear view from the community Global appearance archive.",
+            "ko": "午风清: 글로벌 커뮤니티 외관 도감의 여성 후면 사진입니다."
+          },
+          "caption": {
+            "en": "Female rear view from the community Global appearance archive.",
+            "ko": "글로벌 커뮤니티 외관 도감의 여성 후면 사진입니다."
+          },
+          "contributor": "貓植事x恩奇ANCHI",
+          "sourceKind": "community",
+          "sourceLabel": {
+            "en": "Global appearance archive",
+            "ko": "글로벌 외관 도감"
+          },
+          "sourceUrl": "https://acp.idv.tw/where_winds_meet/midsummer-grace-f/",
+          "attribution": "NetEase / Where Winds Meet; screenshot by 貓植事x恩奇ANCHI"
+        }
+      ],
       "officialVideos": [],
-      "mediaStatus": "pending",
+      "mediaStatus": "verified",
       "namingNote": {
         "en": "Provisional reading of the Chinese identifier; an official global name has not been verified.",
         "ko": "공식 한국어 명칭 미확인으로 중국 원명을 표기합니다."
@@ -40485,9 +42968,68 @@
         "releaseDate": null,
         "officialName": null
       },
-      "images": [],
+      "images": [
+        {
+          "url": "https://img.acp.idv.tw/2026/08/20260802131615_1.jpg",
+          "width": 690,
+          "height": 1080,
+          "bytes": 108228,
+          "kind": "community_gameplay_screenshot",
+          "visuallyInspected": true,
+          "sourceId": "acp-song-of-longing-f-20260930",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wiki-xiangsi-qu-0-full.webp",
+          "server": "Global",
+          "alt": {
+            "en": "Xiangsi Qu: Female front view from the community Global appearance archive.",
+            "ko": "相思曲: 글로벌 커뮤니티 외관 도감의 여성 정면 사진입니다."
+          },
+          "caption": {
+            "en": "Female front view from the community Global appearance archive.",
+            "ko": "글로벌 커뮤니티 외관 도감의 여성 정면 사진입니다."
+          },
+          "contributor": "貓植事x恩奇ANCHI",
+          "sourceKind": "community",
+          "sourceLabel": {
+            "en": "Global appearance archive",
+            "ko": "글로벌 외관 도감"
+          },
+          "sourceUrl": "https://acp.idv.tw/where_winds_meet/song-of-longing-f/",
+          "attribution": "NetEase / Where Winds Meet; screenshot by 貓植事x恩奇ANCHI"
+        },
+        {
+          "url": "https://img.acp.idv.tw/2026/08/20260802131620_1.jpg",
+          "width": 690,
+          "height": 1080,
+          "bytes": 102886,
+          "kind": "community_gameplay_screenshot",
+          "visuallyInspected": true,
+          "sourceId": "acp-song-of-longing-f-20260930",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wiki-xiangsi-qu-1-full.webp",
+          "server": "Global",
+          "alt": {
+            "en": "Xiangsi Qu: Female rear view from the community Global appearance archive.",
+            "ko": "相思曲: 글로벌 커뮤니티 외관 도감의 여성 후면 사진입니다."
+          },
+          "caption": {
+            "en": "Female rear view from the community Global appearance archive.",
+            "ko": "글로벌 커뮤니티 외관 도감의 여성 후면 사진입니다."
+          },
+          "contributor": "貓植事x恩奇ANCHI",
+          "sourceKind": "community",
+          "sourceLabel": {
+            "en": "Global appearance archive",
+            "ko": "글로벌 외관 도감"
+          },
+          "sourceUrl": "https://acp.idv.tw/where_winds_meet/song-of-longing-f/",
+          "attribution": "NetEase / Where Winds Meet; screenshot by 貓植事x恩奇ANCHI"
+        }
+      ],
       "officialVideos": [],
-      "mediaStatus": "pending",
+      "mediaStatus": "verified",
       "namingNote": {
         "en": "Provisional reading of the Chinese identifier; an official global name has not been verified.",
         "ko": "공식 한국어 명칭 미확인으로 중국 원명을 표기합니다."
@@ -41013,9 +43555,68 @@
         "releaseDate": null,
         "officialName": null
       },
-      "images": [],
+      "images": [
+        {
+          "url": "https://img.acp.idv.tw/2026/07/20260731133039_1.jpg",
+          "width": 424,
+          "height": 849,
+          "bytes": 76343,
+          "kind": "community_gameplay_screenshot",
+          "visuallyInspected": true,
+          "sourceId": "acp-dyed-azure-f-20260930",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wiki-ran-qing-cang-0-full.webp",
+          "server": "Global",
+          "alt": {
+            "en": "Ran Qing Cang: Female front view from the community Global appearance archive.",
+            "ko": "染青苍: 글로벌 커뮤니티 외관 도감의 여성 정면 사진입니다."
+          },
+          "caption": {
+            "en": "Female front view from the community Global appearance archive.",
+            "ko": "글로벌 커뮤니티 외관 도감의 여성 정면 사진입니다."
+          },
+          "contributor": "貓植事x恩奇ANCHI",
+          "sourceKind": "community",
+          "sourceLabel": {
+            "en": "Global appearance archive",
+            "ko": "글로벌 외관 도감"
+          },
+          "sourceUrl": "https://acp.idv.tw/where_winds_meet/dyed-azure-f/",
+          "attribution": "NetEase / Where Winds Meet; screenshot by 貓植事x恩奇ANCHI"
+        },
+        {
+          "url": "https://img.acp.idv.tw/2026/07/20260731133051_1.jpg",
+          "width": 424,
+          "height": 849,
+          "bytes": 67442,
+          "kind": "community_gameplay_screenshot",
+          "visuallyInspected": true,
+          "sourceId": "acp-dyed-azure-f-20260930",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wiki-ran-qing-cang-1-full.webp",
+          "server": "Global",
+          "alt": {
+            "en": "Ran Qing Cang: Female rear view from the community Global appearance archive.",
+            "ko": "染青苍: 글로벌 커뮤니티 외관 도감의 여성 후면 사진입니다."
+          },
+          "caption": {
+            "en": "Female rear view from the community Global appearance archive.",
+            "ko": "글로벌 커뮤니티 외관 도감의 여성 후면 사진입니다."
+          },
+          "contributor": "貓植事x恩奇ANCHI",
+          "sourceKind": "community",
+          "sourceLabel": {
+            "en": "Global appearance archive",
+            "ko": "글로벌 외관 도감"
+          },
+          "sourceUrl": "https://acp.idv.tw/where_winds_meet/dyed-azure-f/",
+          "attribution": "NetEase / Where Winds Meet; screenshot by 貓植事x恩奇ANCHI"
+        }
+      ],
       "officialVideos": [],
-      "mediaStatus": "pending",
+      "mediaStatus": "verified",
       "namingNote": {
         "en": "Provisional reading of the Chinese identifier; an official global name has not been verified.",
         "ko": "공식 한국어 명칭 미확인으로 중국 원명을 표기합니다."
@@ -41109,9 +43710,68 @@
         "releaseDate": null,
         "officialName": null
       },
-      "images": [],
+      "images": [
+        {
+          "url": "https://img.acp.idv.tw/2026/06/20260627230111_1.jpg",
+          "width": 458,
+          "height": 877,
+          "bytes": 81249,
+          "kind": "community_gameplay_screenshot",
+          "visuallyInspected": true,
+          "sourceId": "acp-enter-the-cutie-f-20260930",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wiki-meng-zhu-jia-dao-0-full.webp",
+          "server": "Global",
+          "alt": {
+            "en": "Meng Zhu Jia Dao: Female front view from the community Global appearance archive.",
+            "ko": "萌主驾到: 글로벌 커뮤니티 외관 도감의 여성 정면 사진입니다."
+          },
+          "caption": {
+            "en": "Female front view from the community Global appearance archive.",
+            "ko": "글로벌 커뮤니티 외관 도감의 여성 정면 사진입니다."
+          },
+          "contributor": "貓植事x恩奇ANCHI",
+          "sourceKind": "community",
+          "sourceLabel": {
+            "en": "Global appearance archive",
+            "ko": "글로벌 외관 도감"
+          },
+          "sourceUrl": "https://acp.idv.tw/where_winds_meet/enter-the-cutie-f/",
+          "attribution": "NetEase / Where Winds Meet; screenshot by 貓植事x恩奇ANCHI"
+        },
+        {
+          "url": "https://img.acp.idv.tw/2026/06/20260627230119_1.jpg",
+          "width": 458,
+          "height": 877,
+          "bytes": 79552,
+          "kind": "community_gameplay_screenshot",
+          "visuallyInspected": true,
+          "sourceId": "acp-enter-the-cutie-f-20260930",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wiki-meng-zhu-jia-dao-1-full.webp",
+          "server": "Global",
+          "alt": {
+            "en": "Meng Zhu Jia Dao: Female rear view from the community Global appearance archive.",
+            "ko": "萌主驾到: 글로벌 커뮤니티 외관 도감의 여성 후면 사진입니다."
+          },
+          "caption": {
+            "en": "Female rear view from the community Global appearance archive.",
+            "ko": "글로벌 커뮤니티 외관 도감의 여성 후면 사진입니다."
+          },
+          "contributor": "貓植事x恩奇ANCHI",
+          "sourceKind": "community",
+          "sourceLabel": {
+            "en": "Global appearance archive",
+            "ko": "글로벌 외관 도감"
+          },
+          "sourceUrl": "https://acp.idv.tw/where_winds_meet/enter-the-cutie-f/",
+          "attribution": "NetEase / Where Winds Meet; screenshot by 貓植事x恩奇ANCHI"
+        }
+      ],
       "officialVideos": [],
-      "mediaStatus": "pending",
+      "mediaStatus": "verified",
       "namingNote": {
         "en": "Provisional reading of the Chinese identifier; an official global name has not been verified.",
         "ko": "공식 한국어 명칭 미확인으로 중국 원명을 표기합니다."
@@ -41349,9 +44009,68 @@
         "releaseDate": null,
         "officialName": null
       },
-      "images": [],
+      "images": [
+        {
+          "url": "https://img.acp.idv.tw/2026/07/20260729151614_1.jpg",
+          "width": 386,
+          "height": 893,
+          "bytes": 77162,
+          "kind": "community_gameplay_screenshot",
+          "visuallyInspected": true,
+          "sourceId": "acp-orchid-dew-f-20260930",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wiki-you-lan-lu-0-full.webp",
+          "server": "Global",
+          "alt": {
+            "en": "You Lan Lu: Female front view from the community Global appearance archive.",
+            "ko": "幽兰露: 글로벌 커뮤니티 외관 도감의 여성 정면 사진입니다."
+          },
+          "caption": {
+            "en": "Female front view from the community Global appearance archive.",
+            "ko": "글로벌 커뮤니티 외관 도감의 여성 정면 사진입니다."
+          },
+          "contributor": "貓植事x恩奇ANCHI",
+          "sourceKind": "community",
+          "sourceLabel": {
+            "en": "Global appearance archive",
+            "ko": "글로벌 외관 도감"
+          },
+          "sourceUrl": "https://acp.idv.tw/where_winds_meet/orchid-dew-f/",
+          "attribution": "NetEase / Where Winds Meet; screenshot by 貓植事x恩奇ANCHI"
+        },
+        {
+          "url": "https://img.acp.idv.tw/2026/07/20260729151624_1.jpg",
+          "width": 386,
+          "height": 893,
+          "bytes": 72156,
+          "kind": "community_gameplay_screenshot",
+          "visuallyInspected": true,
+          "sourceId": "acp-orchid-dew-f-20260930",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wiki-you-lan-lu-1-full.webp",
+          "server": "Global",
+          "alt": {
+            "en": "You Lan Lu: Female rear view from the community Global appearance archive.",
+            "ko": "幽兰露: 글로벌 커뮤니티 외관 도감의 여성 후면 사진입니다."
+          },
+          "caption": {
+            "en": "Female rear view from the community Global appearance archive.",
+            "ko": "글로벌 커뮤니티 외관 도감의 여성 후면 사진입니다."
+          },
+          "contributor": "貓植事x恩奇ANCHI",
+          "sourceKind": "community",
+          "sourceLabel": {
+            "en": "Global appearance archive",
+            "ko": "글로벌 외관 도감"
+          },
+          "sourceUrl": "https://acp.idv.tw/where_winds_meet/orchid-dew-f/",
+          "attribution": "NetEase / Where Winds Meet; screenshot by 貓植事x恩奇ANCHI"
+        }
+      ],
       "officialVideos": [],
-      "mediaStatus": "pending",
+      "mediaStatus": "verified",
       "namingNote": {
         "en": "Provisional reading of the Chinese identifier; an official global name has not been verified.",
         "ko": "공식 한국어 명칭 미확인으로 중국 원명을 표기합니다."
@@ -41589,9 +44308,68 @@
         "releaseDate": null,
         "officialName": null
       },
-      "images": [],
+      "images": [
+        {
+          "url": "https://img.acp.idv.tw/2026/07/20260730131715_1.jpg",
+          "width": 490,
+          "height": 880,
+          "bytes": 74182,
+          "kind": "community_gameplay_screenshot",
+          "visuallyInspected": true,
+          "sourceId": "acp-highland-heritage-f-20260930",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wiki-shan-zhong-ren-0-full.webp",
+          "server": "Global",
+          "alt": {
+            "en": "Shan Zhong Ren: Female front view from the community Global appearance archive.",
+            "ko": "山中人: 글로벌 커뮤니티 외관 도감의 여성 정면 사진입니다."
+          },
+          "caption": {
+            "en": "Female front view from the community Global appearance archive.",
+            "ko": "글로벌 커뮤니티 외관 도감의 여성 정면 사진입니다."
+          },
+          "contributor": "貓植事x恩奇ANCHI",
+          "sourceKind": "community",
+          "sourceLabel": {
+            "en": "Global appearance archive",
+            "ko": "글로벌 외관 도감"
+          },
+          "sourceUrl": "https://acp.idv.tw/where_winds_meet/highland-heritage-f/",
+          "attribution": "NetEase / Where Winds Meet; screenshot by 貓植事x恩奇ANCHI"
+        },
+        {
+          "url": "https://img.acp.idv.tw/2026/07/20260730131722_1.jpg",
+          "width": 490,
+          "height": 880,
+          "bytes": 70228,
+          "kind": "community_gameplay_screenshot",
+          "visuallyInspected": true,
+          "sourceId": "acp-highland-heritage-f-20260930",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wiki-shan-zhong-ren-1-full.webp",
+          "server": "Global",
+          "alt": {
+            "en": "Shan Zhong Ren: Female rear view from the community Global appearance archive.",
+            "ko": "山中人: 글로벌 커뮤니티 외관 도감의 여성 후면 사진입니다."
+          },
+          "caption": {
+            "en": "Female rear view from the community Global appearance archive.",
+            "ko": "글로벌 커뮤니티 외관 도감의 여성 후면 사진입니다."
+          },
+          "contributor": "貓植事x恩奇ANCHI",
+          "sourceKind": "community",
+          "sourceLabel": {
+            "en": "Global appearance archive",
+            "ko": "글로벌 외관 도감"
+          },
+          "sourceUrl": "https://acp.idv.tw/where_winds_meet/highland-heritage-f/",
+          "attribution": "NetEase / Where Winds Meet; screenshot by 貓植事x恩奇ANCHI"
+        }
+      ],
       "officialVideos": [],
-      "mediaStatus": "pending",
+      "mediaStatus": "verified",
       "namingNote": {
         "en": "Provisional reading of the Chinese identifier; an official global name has not been verified.",
         "ko": "공식 한국어 명칭 미확인으로 중국 원명을 표기합니다."
@@ -48513,6 +51291,470 @@
           }
         ]
       }
+    },
+    {
+      "id": "zhu-luan-gu-qing",
+      "nameOriginal": "朱鸾顾晴",
+      "romanization": "Zhu Luan Gu Qing",
+      "category": "outfit",
+      "sourceId": "cn-20260930-appearances",
+      "acquisitionServer": "CN",
+      "mediaServer": "CN",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": "2026-10-02",
+        "precision": "day",
+        "timezone": null,
+        "contextual": false,
+        "basis": "Named official article and September 30 patch poster; scheduled, not verified in game."
+      },
+      "acquisition": {
+        "kind": "shop",
+        "pricing": "fixed",
+        "amount": 300,
+        "regularAmount": 680,
+        "currencyOriginal": "长鸣珠",
+        "location": {
+          "en": "Shop",
+          "ko": "상점",
+          "original": "商店"
+        },
+        "conditions": {
+          "en": "CN: announced for October 2 at 00:00:00; timezone unstated. Discounted to 300 Echo Beads from 680. Discount end is not stated. Supports separate top/bottom pieces and dyeing.",
+          "ko": "중국: 10월 2일 00:00:00 출시 예고이며 시간대는 미표기입니다. 장명주 680개에서 300개로 할인하며 종료일은 미표기입니다. 상하의 분리·염색을 지원합니다."
+        },
+        "en": "See the regional official conditions.",
+        "ko": "해당 서버 공식 공지의 조건을 확인하세요."
+      },
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260930/96f53845-b05e-4ae4-8693-03870588a65c.png",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 3594396,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20260930-appearances",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/zhu-luan-gu-qing-0-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Zhu Luan Gu Qing: Official CN appearance preview; includes the complete source composition.",
+            "ko": "주란고청: 중국 공식 외관 예고 이미지이며 원본의 전체 구도를 제공합니다."
+          },
+          "caption": {
+            "en": "Official CN appearance preview; includes the complete source composition.",
+            "ko": "중국 공식 외관 예고 이미지이며 원본의 전체 구도를 제공합니다."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260930/b7daa64c-0f6d-4a26-aa9b-5337d4eadd8d.png",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 3938821,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20260930-appearances",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/zhu-luan-gu-qing-1-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Zhu Luan Gu Qing: Official CN appearance preview; includes the complete source composition.",
+            "ko": "주란고청: 중국 공식 외관 예고 이미지이며 원본의 전체 구도를 제공합니다."
+          },
+          "caption": {
+            "en": "Official CN appearance preview; includes the complete source composition.",
+            "ko": "중국 공식 외관 예고 이미지이며 원본의 전체 구도를 제공합니다."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260930/037081d7-e129-42b6-b2eb-3281d5e6b182.png",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 3775043,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20260930-appearances",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/zhu-luan-gu-qing-2-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Zhu Luan Gu Qing: Official CN appearance preview; includes the complete source composition.",
+            "ko": "주란고청: 중국 공식 외관 예고 이미지이며 원본의 전체 구도를 제공합니다."
+          },
+          "caption": {
+            "en": "Official CN appearance preview; includes the complete source composition.",
+            "ko": "중국 공식 외관 예고 이미지이며 원본의 전체 구도를 제공합니다."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260930/728aa46c-57ba-40c1-a3c8-2fef9c18dfc9.png",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 3837349,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20260930-appearances",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/zhu-luan-gu-qing-3-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Zhu Luan Gu Qing: Official CN appearance preview; includes the complete source composition.",
+            "ko": "주란고청: 중국 공식 외관 예고 이미지이며 원본의 전체 구도를 제공합니다."
+          },
+          "caption": {
+            "en": "Official CN appearance preview; includes the complete source composition.",
+            "ko": "중국 공식 외관 예고 이미지이며 원본의 전체 구도를 제공합니다."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260930/60960f58-4ebb-46ad-aec4-552551fdf0c0.jpg",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 3819030,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20260930-appearances",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/zhu-luan-gu-qing-4-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Zhu Luan Gu Qing: Official CN rear view.",
+            "ko": "주란고청: 중국 공식 뒷모습 사진입니다."
+          },
+          "caption": {
+            "en": "Official CN rear view.",
+            "ko": "중국 공식 뒷모습 사진입니다."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260930/17914285-257d-4a78-9495-e1a1146db974.png",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 3740308,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20260930-appearances",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/zhu-luan-gu-qing-5-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Zhu Luan Gu Qing: Official CN rear view.",
+            "ko": "주란고청: 중국 공식 뒷모습 사진입니다."
+          },
+          "caption": {
+            "en": "Official CN rear view.",
+            "ko": "중국 공식 뒷모습 사진입니다."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260930/9eb74dd5-5af5-4b48-8169-6ef4a83b1951.png",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 4293321,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20260930-appearances",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/zhu-luan-gu-qing-6-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Zhu Luan Gu Qing: Official CN hem and garment detail.",
+            "ko": "주란고청: 중국 공식 밑단·의상 세부 사진입니다."
+          },
+          "caption": {
+            "en": "Official CN hem and garment detail.",
+            "ko": "중국 공식 밑단·의상 세부 사진입니다."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260930/d7a6a099-7be0-4f38-ab51-3d74c26f5115.png",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 4393358,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20260930-appearances",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/zhu-luan-gu-qing-7-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Zhu Luan Gu Qing: Official CN hem and garment detail.",
+            "ko": "주란고청: 중국 공식 밑단·의상 세부 사진입니다."
+          },
+          "caption": {
+            "en": "Official CN hem and garment detail.",
+            "ko": "중국 공식 밑단·의상 세부 사진입니다."
+          }
+        }
+      ],
+      "officialVideos": [],
+      "mediaStatus": "verified",
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "namingNote": {
+        "en": "Provisional reading of the CN name; no official Global name verified.",
+        "ko": "중국 원명의 임시 독음이며 글로벌 공식명은 미확인입니다."
+      }
+    },
+    {
+      "id": "cang-yin-tian-di-yi-xiao",
+      "nameOriginal": "藏音·天地一啸",
+      "romanization": "Cang Yin · Tian Di Yi Xiao",
+      "category": "weapon_skin",
+      "sourceId": "cn-20260930-appearances",
+      "acquisitionServer": "CN",
+      "mediaServer": "CN",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": "2026-10-02",
+        "precision": "day",
+        "timezone": null,
+        "contextual": false,
+        "basis": "Named official article and September 30 patch poster; scheduled, not verified in game."
+      },
+      "acquisition": {
+        "kind": "exchange_shop",
+        "pricing": "fixed",
+        "amount": 1,
+        "regularAmount": null,
+        "currencyOriginal": "八音窍",
+        "location": {
+          "en": "Resonance Shop",
+          "ko": "공명 상점",
+          "original": "和鸣商店"
+        },
+        "conditions": {
+          "en": "CN: announced for October 2 at 00:00:00; timezone unstated. Default form exchanges for 1 Harmonic Core in the Resonance Shop, listed for 360 days. An exact end timestamp is not stated. Reforging consumes 太一玄石 and offers five named styles plus custom colours.",
+          "ko": "중국: 10월 2일 00:00:00 출시 예고이며 시간대는 미표기입니다. 기본 형태는 공명 상점에서 팔음규 1개로 교환하고 360일간 판매합니다. 정확한 종료 시각은 미표기입니다. 태일현석을 사용하는 재주조로 5개 스타일과 맞춤 색상을 제공합니다."
+        },
+        "en": "See the regional official conditions.",
+        "ko": "해당 서버 공식 공지의 조건을 확인하세요."
+      },
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260930/cf0d213f-9273-4825-bad5-1cce4ea9dc1c.png",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 3792145,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20260930-appearances",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/cang-yin-tian-di-yi-xiao-0-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Cang Yin · Tian Di Yi Xiao: Official CN appearance preview; includes the complete source composition.",
+            "ko": "장음·천지일소: 중국 공식 외관 예고 이미지이며 원본의 전체 구도를 제공합니다."
+          },
+          "caption": {
+            "en": "Official CN appearance preview; includes the complete source composition.",
+            "ko": "중국 공식 외관 예고 이미지이며 원본의 전체 구도를 제공합니다."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260930/436ca78a-e3e4-427c-9ca0-2e8e0cc032d4.png",
+          "width": 1920,
+          "height": 1080,
+          "bytes": 2632344,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20260930-appearances",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/cang-yin-tian-di-yi-xiao-1-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Cang Yin · Tian Di Yi Xiao: Official CN appearance preview; includes the complete source composition.",
+            "ko": "장음·천지일소: 중국 공식 외관 예고 이미지이며 원본의 전체 구도를 제공합니다."
+          },
+          "caption": {
+            "en": "Official CN appearance preview; includes the complete source composition.",
+            "ko": "중국 공식 외관 예고 이미지이며 원본의 전체 구도를 제공합니다."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260930/78edf389-9542-41a5-a5d1-0d499118b606.png",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 3307911,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20260930-appearances",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/cang-yin-tian-di-yi-xiao-2-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Cang Yin · Tian Di Yi Xiao: Official CN appearance preview; includes the complete source composition.",
+            "ko": "장음·천지일소: 중국 공식 외관 예고 이미지이며 원본의 전체 구도를 제공합니다."
+          },
+          "caption": {
+            "en": "Official CN appearance preview; includes the complete source composition.",
+            "ko": "중국 공식 외관 예고 이미지이며 원본의 전체 구도를 제공합니다."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260930/6120e2e2-601d-4928-8472-fabea3cd8c8f.png",
+          "width": 1920,
+          "height": 1080,
+          "bytes": 3070659,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20260930-appearances",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/cang-yin-tian-di-yi-xiao-3-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Cang Yin · Tian Di Yi Xiao: Official CN appearance preview; includes the complete source composition.",
+            "ko": "장음·천지일소: 중국 공식 외관 예고 이미지이며 원본의 전체 구도를 제공합니다."
+          },
+          "caption": {
+            "en": "Official CN appearance preview; includes the complete source composition.",
+            "ko": "중국 공식 외관 예고 이미지이며 원본의 전체 구도를 제공합니다."
+          }
+        }
+      ],
+      "officialVideos": [],
+      "mediaStatus": "verified",
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "namingNote": {
+        "en": "Provisional reading of the CN name; no official Global name verified.",
+        "ko": "중국 원명의 임시 독음이며 글로벌 공식명은 미확인입니다."
+      },
+      "weaponTypeOriginal": "横刀"
+    },
+    {
+      "id": "wan-lai-zhu-yue-xian",
+      "nameOriginal": "万籁·逐月霰",
+      "romanization": "Wan Lai · Zhu Yue Xian",
+      "category": "weapon_skin",
+      "sourceId": "cn-20260930-appearances",
+      "acquisitionServer": "CN",
+      "mediaServer": "CN",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": "2026-10-02",
+        "precision": "day",
+        "timezone": null,
+        "contextual": false,
+        "basis": "Named official article and September 30 patch poster; scheduled, not verified in game."
+      },
+      "acquisition": {
+        "kind": "shop",
+        "pricing": "fixed",
+        "amount": 1280,
+        "regularAmount": null,
+        "currencyOriginal": "长鸣珠",
+        "location": {
+          "en": "Shop",
+          "ko": "상점",
+          "original": "商店"
+        },
+        "conditions": {
+          "en": "CN: announced for October 2 at 00:00:00; timezone unstated. Rope-dart appearance costs 1,280 Echo Beads in the shop. No sale end is stated.",
+          "ko": "중국: 10월 2일 00:00:00 출시 예고이며 시간대는 미표기입니다. 승표 외관으로 상점에서 장명주 1,280개에 판매하며 종료일은 미표기입니다."
+        },
+        "en": "See the regional official conditions.",
+        "ko": "해당 서버 공식 공지의 조건을 확인하세요."
+      },
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260930/aeb9de3f-56cb-4d9f-bdb7-4200beaf317b.png",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 3811743,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20260930-appearances",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wan-lai-zhu-yue-xian-0-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Wan Lai · Zhu Yue Xian: Official CN appearance preview; includes the complete source composition.",
+            "ko": "만뢰·축월산: 중국 공식 외관 예고 이미지이며 원본의 전체 구도를 제공합니다."
+          },
+          "caption": {
+            "en": "Official CN appearance preview; includes the complete source composition.",
+            "ko": "중국 공식 외관 예고 이미지이며 원본의 전체 구도를 제공합니다."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260930/3a344c66-d8c4-4c98-8725-6bbf17f1a646.png",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 3641889,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20260930-appearances",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wan-lai-zhu-yue-xian-1-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Wan Lai · Zhu Yue Xian: Official CN appearance preview; includes the complete source composition.",
+            "ko": "만뢰·축월산: 중국 공식 외관 예고 이미지이며 원본의 전체 구도를 제공합니다."
+          },
+          "caption": {
+            "en": "Official CN appearance preview; includes the complete source composition.",
+            "ko": "중국 공식 외관 예고 이미지이며 원본의 전체 구도를 제공합니다."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260930/2230471c-e734-406c-ac53-5681b15f6f28.png",
+          "width": 1920,
+          "height": 1080,
+          "bytes": 1223526,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20260930-appearances",
+          "inspectionNote": "Named source section and original image visually inspected September 30, 2026. Entire source framing and watermarks retained; no in-game release verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wan-lai-zhu-yue-xian-2-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Wan Lai · Zhu Yue Xian: Official CN appearance preview; includes the complete source composition.",
+            "ko": "만뢰·축월산: 중국 공식 외관 예고 이미지이며 원본의 전체 구도를 제공합니다."
+          },
+          "caption": {
+            "en": "Official CN appearance preview; includes the complete source composition.",
+            "ko": "중국 공식 외관 예고 이미지이며 원본의 전체 구도를 제공합니다."
+          }
+        }
+      ],
+      "officialVideos": [],
+      "mediaStatus": "verified",
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "namingNote": {
+        "en": "Provisional reading of the CN name; no official Global name verified.",
+        "ko": "중국 원명의 임시 독음이며 글로벌 공식명은 미확인입니다."
+      },
+      "weaponTypeOriginal": "绳镖"
     }
   ],
   "contextualOfficialVideos": [
