@@ -5031,5 +5031,12 @@
       "en": "Official CN weapon appearance announced for October 2.",
       "ko": "10월 2일 출시를 예고한 중국 공식 무기 외관입니다."
     }
+  },
+  "fu-hong-bin": {
+    "koName": "무홍빈",
+    "description": {
+      "en": "Rainbow parasol hair accessory exchanged with event tokens in the CN 寻彩决英 event.",
+      "ko": "중국 심채결영(寻彩决英) 이벤트 토큰으로 교환하는 무지개 우산 발식입니다."
+    }
   }
 }
