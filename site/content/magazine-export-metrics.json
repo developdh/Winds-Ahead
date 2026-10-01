@@ -1,7 +1,7 @@
 {
   "generatedFrom": "content/magazine.json",
   "issueId": "issue-01",
-  "revision": 2,
+  "revision": 3,
   "gameArtworkIncluded": true,
   "photoReferences": [
     {
@@ -65,160 +65,120 @@
       "page": 1,
       "width": 1080,
       "height": 1740,
-      "image": "/magazine/issue-01/edition-2/ko/01.jpg",
-      "preview": "/magazine/issue-01/edition-2/ko/01-preview.webp",
-      "bytes": 424800,
-      "previewBytes": 35882
+      "image": "/magazine/issue-01/edition-3/ko/01.jpg",
+      "preview": "/magazine/issue-01/edition-3/ko/01-preview.webp",
+      "bytes": 403687,
+      "previewBytes": 33820
     },
     {
       "locale": "ko",
       "page": 2,
       "width": 1080,
-      "height": 2494,
-      "image": "/magazine/issue-01/edition-2/ko/02.jpg",
-      "preview": "/magazine/issue-01/edition-2/ko/02-preview.webp",
-      "bytes": 443983,
-      "previewBytes": 38796
+      "height": 3419,
+      "image": "/magazine/issue-01/edition-3/ko/02.jpg",
+      "preview": "/magazine/issue-01/edition-3/ko/02-preview.webp",
+      "bytes": 509346,
+      "previewBytes": 40618
     },
     {
       "locale": "ko",
       "page": 3,
       "width": 1080,
-      "height": 2365,
-      "image": "/magazine/issue-01/edition-2/ko/03.jpg",
-      "preview": "/magazine/issue-01/edition-2/ko/03-preview.webp",
-      "bytes": 429732,
-      "previewBytes": 35874
+      "height": 2692,
+      "image": "/magazine/issue-01/edition-3/ko/03.jpg",
+      "preview": "/magazine/issue-01/edition-3/ko/03-preview.webp",
+      "bytes": 315538,
+      "previewBytes": 24590
     },
     {
       "locale": "ko",
       "page": 4,
       "width": 1080,
-      "height": 2919,
-      "image": "/magazine/issue-01/edition-2/ko/04.jpg",
-      "preview": "/magazine/issue-01/edition-2/ko/04-preview.webp",
-      "bytes": 350474,
-      "previewBytes": 28772
+      "height": 2574,
+      "image": "/magazine/issue-01/edition-3/ko/04.jpg",
+      "preview": "/magazine/issue-01/edition-3/ko/04-preview.webp",
+      "bytes": 319706,
+      "previewBytes": 27032
     },
     {
       "locale": "ko",
       "page": 5,
       "width": 1080,
-      "height": 2873,
-      "image": "/magazine/issue-01/edition-2/ko/05.jpg",
-      "preview": "/magazine/issue-01/edition-2/ko/05-preview.webp",
-      "bytes": 367574,
-      "previewBytes": 32404
+      "height": 2528,
+      "image": "/magazine/issue-01/edition-3/ko/05.jpg",
+      "preview": "/magazine/issue-01/edition-3/ko/05-preview.webp",
+      "bytes": 341704,
+      "previewBytes": 27598
     },
     {
       "locale": "ko",
       "page": 6,
       "width": 1080,
-      "height": 2426,
-      "image": "/magazine/issue-01/edition-2/ko/06.jpg",
-      "preview": "/magazine/issue-01/edition-2/ko/06-preview.webp",
-      "bytes": 370901,
-      "previewBytes": 32968
-    },
-    {
-      "locale": "ko",
-      "page": 7,
-      "width": 1080,
-      "height": 2490,
-      "image": "/magazine/issue-01/edition-2/ko/07.jpg",
-      "preview": "/magazine/issue-01/edition-2/ko/07-preview.webp",
-      "bytes": 434807,
-      "previewBytes": 35540
-    },
-    {
-      "locale": "ko",
-      "page": 8,
-      "width": 1080,
-      "height": 2379,
-      "image": "/magazine/issue-01/edition-2/ko/08.jpg",
-      "preview": "/magazine/issue-01/edition-2/ko/08-preview.webp",
-      "bytes": 420382,
-      "previewBytes": 37788
+      "height": 2364,
+      "image": "/magazine/issue-01/edition-3/ko/06.jpg",
+      "preview": "/magazine/issue-01/edition-3/ko/06-preview.webp",
+      "bytes": 393456,
+      "previewBytes": 30902
     },
     {
       "locale": "en",
       "page": 1,
       "width": 1080,
       "height": 1740,
-      "image": "/magazine/issue-01/edition-2/en/01.jpg",
-      "preview": "/magazine/issue-01/edition-2/en/01-preview.webp",
-      "bytes": 435934,
-      "previewBytes": 36900
+      "image": "/magazine/issue-01/edition-3/en/01.jpg",
+      "preview": "/magazine/issue-01/edition-3/en/01-preview.webp",
+      "bytes": 412893,
+      "previewBytes": 34796
     },
     {
       "locale": "en",
       "page": 2,
       "width": 1080,
-      "height": 2640,
-      "image": "/magazine/issue-01/edition-2/en/02.jpg",
-      "preview": "/magazine/issue-01/edition-2/en/02-preview.webp",
-      "bytes": 478498,
-      "previewBytes": 41962
+      "height": 3384,
+      "image": "/magazine/issue-01/edition-3/en/02.jpg",
+      "preview": "/magazine/issue-01/edition-3/en/02-preview.webp",
+      "bytes": 529865,
+      "previewBytes": 43032
     },
     {
       "locale": "en",
       "page": 3,
       "width": 1080,
-      "height": 2400,
-      "image": "/magazine/issue-01/edition-2/en/03.jpg",
-      "preview": "/magazine/issue-01/edition-2/en/03-preview.webp",
-      "bytes": 458997,
-      "previewBytes": 38710
+      "height": 2664,
+      "image": "/magazine/issue-01/edition-3/en/03.jpg",
+      "preview": "/magazine/issue-01/edition-3/en/03-preview.webp",
+      "bytes": 332335,
+      "previewBytes": 26682
     },
     {
       "locale": "en",
       "page": 4,
       "width": 1080,
-      "height": 2869,
-      "image": "/magazine/issue-01/edition-2/en/04.jpg",
-      "preview": "/magazine/issue-01/edition-2/en/04-preview.webp",
-      "bytes": 373200,
-      "previewBytes": 31146
+      "height": 2545,
+      "image": "/magazine/issue-01/edition-3/en/04.jpg",
+      "preview": "/magazine/issue-01/edition-3/en/04-preview.webp",
+      "bytes": 330904,
+      "previewBytes": 28274
     },
     {
       "locale": "en",
       "page": 5,
       "width": 1080,
-      "height": 2843,
-      "image": "/magazine/issue-01/edition-2/en/05.jpg",
-      "preview": "/magazine/issue-01/edition-2/en/05-preview.webp",
-      "bytes": 380615,
-      "previewBytes": 34208
+      "height": 2484,
+      "image": "/magazine/issue-01/edition-3/en/05.jpg",
+      "preview": "/magazine/issue-01/edition-3/en/05-preview.webp",
+      "bytes": 351552,
+      "previewBytes": 28302
     },
     {
       "locale": "en",
       "page": 6,
       "width": 1080,
-      "height": 2401,
-      "image": "/magazine/issue-01/edition-2/en/06.jpg",
-      "preview": "/magazine/issue-01/edition-2/en/06-preview.webp",
-      "bytes": 394859,
-      "previewBytes": 36030
-    },
-    {
-      "locale": "en",
-      "page": 7,
-      "width": 1080,
-      "height": 2464,
-      "image": "/magazine/issue-01/edition-2/en/07.jpg",
-      "preview": "/magazine/issue-01/edition-2/en/07-preview.webp",
-      "bytes": 448605,
-      "previewBytes": 38668
-    },
-    {
-      "locale": "en",
-      "page": 8,
-      "width": 1080,
-      "height": 2338,
-      "image": "/magazine/issue-01/edition-2/en/08.jpg",
-      "preview": "/magazine/issue-01/edition-2/en/08-preview.webp",
-      "bytes": 444815,
-      "previewBytes": 39530
+      "height": 2396,
+      "image": "/magazine/issue-01/edition-3/en/06.jpg",
+      "preview": "/magazine/issue-01/edition-3/en/06-preview.webp",
+      "bytes": 411023,
+      "previewBytes": 33024
     }
   ]
 }

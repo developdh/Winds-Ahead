@@ -441,7 +441,7 @@ if (
         if (record?.image !== base + ".jpg" || record?.preview !== base + "-preview.webp") throw new Error("Magazine export path mismatch");
         const file = path.join(root, "public", record.image), preview = path.join(root, "public", record.preview);
         const meta = await sharp(file).metadata(), small = await sharp(preview).metadata();
-        if (meta.format !== "jpeg" || meta.width !== 1080 || meta.height !== record.height || record.height < 1350 || record.height > 3300 || fs.statSync(file).size !== record.bytes || record.bytes > 800000 || small.format !== "webp" || small.width !== 320 || Math.abs(small.height - record.height * 320 / 1080) > 1 || fs.statSync(preview).size !== record.previewBytes || record.previewBytes > 60000) throw new Error("Magazine share image dimensions or budget invalid");
+        if (meta.format !== "jpeg" || meta.width !== 1080 || meta.height !== record.height || record.height < 1350 || record.height > 3600 || fs.statSync(file).size !== record.bytes || record.bytes > 800000 || small.format !== "webp" || small.width !== 320 || Math.abs(small.height - record.height * 320 / 1080) > 1 || fs.statSync(preview).size !== record.previewBytes || record.previewBytes > 60000) throw new Error("Magazine share image dimensions or budget invalid");
       }
       if (!fs.existsSync(path.join(root, `public/magazine/${issue.id}/edition-${issue.revision}/${locale}/${issue.id}-${locale}.zip`))) throw new Error("Missing magazine download bundle");
     }

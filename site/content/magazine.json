@@ -7,7 +7,7 @@
       "publishedAt": "2026-10-01",
       "dateTimezone": "America/New_York",
       "informationAsOf": "2026-10-01",
-      "revision": 2,
+      "revision": 3,
       "forecastSnapshot": {
         "id": "forecast-global-lian-tai-he",
         "revision": 3,
@@ -15,12 +15,12 @@
         "end": "2026-11-30"
       },
       "title": {
-        "ko": "다음 옷장을 미리 펼치다",
-        "en": "A first look at your next wardrobe"
+        "ko": "10월 외관 업데이트",
+        "en": "October appearance update"
       },
       "subtitle": {
-        "ko": "10월의 불꽃, 그리고 기다리는 한 벌. 외관을 발견하고 로드맵을 읽는 연운경 창간호.",
-        "en": "October's flames, and an outfit worth watching. Discover the archive and learn to read the roadmap in our debut issue."
+        "ko": "글로벌 10월 4일 출시 예고 · 가격과 획득처 · 연대학 예상 기록",
+        "en": "October 4 Global schedule · costs and acquisition · Lian Tai He forecast record"
       },
       "coverCosmeticId": "yan-juan-can-ye",
       "featuredCosmeticIds": [
@@ -44,6 +44,13 @@
             "ko": "공유판을 사진 중심의 패션 매거진 구성 8면으로 다시 편집했습니다. 공식 정보와 기존 예상 기록은 유지합니다.",
             "en": "Re-edited the share edition as eight photo-led fashion magazine pages. Official facts and the existing forecast snapshot are unchanged."
           }
+        },
+        {
+          "date": "2026-10-01",
+          "body": {
+            "ko": "감상 문구·편집자의 편지·참여 유도 문장을 제거하고 사진과 일정·가격·획득처 중심의 6면으로 정리했습니다. 기존 사실과 예상 이력은 유지합니다.",
+            "en": "Removed subjective captions, the editor letter and reader prompts; condensed to six photo pages focused on schedules, costs and acquisition. Existing facts and forecast history are unchanged."
+          }
         }
       ],
       "shareArtPolicy": {
@@ -54,95 +61,95 @@
         {
           "id": "opening",
           "eyebrow": {
-            "ko": "창간의 말",
-            "en": "FROM THE EDITOR"
+            "ko": "이번 호 요약",
+            "en": "ISSUE SUMMARY"
           },
           "title": {
-            "ko": "기다리는 외관에는\n이야기가 있다",
-            "en": "Every outfit we wait for\nhas a story"
+            "ko": "10월 외관 업데이트",
+            "en": "October appearance update"
           },
           "body": {
-            "ko": "마음에 드는 외관을 발견하면 다음 질문이 따라옵니다. 어디서 얻을까? 글로벌에는 언제 올까? 뒷모습도 마음에 들까? 연운경 매거진은 그 질문을 한 호씩 함께 펼칩니다.\n\n도감에서는 모습을, 로드맵에서는 공식 일정과 예상을, 매거진에서는 눈여겨볼 이유를 찾아보세요. 첫 호는 10월 4일 글로벌 출시 예고와 로드맵을 읽는 법으로 시작합니다.",
-            "en": "Finding an outfit you love brings more questions. How do you obtain it? When might it reach Global? Does the back look just as good? This magazine opens those questions one issue at a time.\n\nFind appearances in the archive, official dates and estimates in the roadmap, and reasons to look closer here. Our debut starts with the October 4 Global announcement and a guide to reading the roadmap."
+            "ko": "정보 기준일: 2026년 10월 1일.\n글로벌 공식 출시 예고 네 가지와 기존 연대학 예상 기록을 정리했습니다. 외형 사진은 중국 공식 참고자료입니다.",
+            "en": "Information as of October 1, 2026.\nFour officially scheduled Global appearances and the existing Lian Tai He forecast. Appearance photos are official CN references."
           }
         },
         {
           "id": "feature",
           "eyebrow": {
-            "ko": "한 벌 깊이 보기",
-            "en": "A CLOSER LOOK"
+            "ko": "의상 / 홍염의 밤",
+            "en": "OUTFIT / BLAZING CONQUEST"
           },
           "title": {
-            "ko": "붉은 꽃,\n금빛 어깨, 홍염의 밤",
-            "en": "Red flowers.\nGolden armor. Blazing Conquest."
+            "ko": "홍염의 밤",
+            "en": "Blazing Conquest"
           },
           "body": {
-            "ko": "붉은 꽃과 금빛 짐승 어깨 장식, 호리병을 든 여성 외형. 홍염의 밤은 큰 실루엣과 작은 장식이 함께 눈에 들어오는 한 벌입니다. 사이트에서 중국 공식 참고사진의 전체 모습을 확인할 수 있습니다.\n\n글로벌 공식 공지는 상점 구매에 장명주 1,280개, 동일 주인공 프로필 지급, 상하의 분리와 염색 지원을 안내합니다. 10월 4일 출시 예고이며 판매 종료일은 명시되지 않았습니다. 중국 사진은 글로벌 실착 확인을 대신하지 않습니다.",
-            "en": "Red flowers, a gold beast-shaped shoulder plate, and a female character holding a gourd: Blazing Conquest rewards both a first glance and a closer look. The site links the complete official CN reference.\n\nThe Global announcement lists 1,280 Echo Beads, a matching player avatar, separate top and bottom pieces, and dyeing support. It is scheduled for October 4; no sale end is stated. CN artwork does not establish its live Global appearance."
+            "ko": "출시 예고: 2026년 10월 4일 05:00 UTC+8\n획득처: 글로벌 상점\n가격: 장명주 1,280개\n구성: 동일 주인공 프로필 포함\n기능: 상하의 분리 · 염색 지원\n판매 종료일: 미표기",
+            "en": "Scheduled: October 4, 2026 at 05:00 UTC+8\nAcquisition: Global shop\nCost: 1,280 Echo Beads\nIncluded: matching player avatar\nFeatures: separate top/bottom pieces; dyeing support\nSale end: not stated"
           }
         },
         {
           "id": "october",
           "eyebrow": {
-            "ko": "공식 글로벌 소식",
-            "en": "OFFICIAL GLOBAL ANNOUNCEMENT"
+            "ko": "글로벌 / 공식 출시 예고",
+            "en": "GLOBAL / OFFICIAL SCHEDULE"
           },
           "title": {
-            "ko": "10월 4일,\n네 가지 불꽃",
-            "en": "October 4.\nFour ways to shine."
+            "ko": "10월 4일 출시 예고",
+            "en": "Scheduled for October 4"
           },
           "body": {
-            "ko": "글로벌 공식 출시 예고: 2026년 10월 4일 05:00 UTC+8. 한국 시간으로 06:00 KST이며, 미국 동부는 10월 3일 17:00 EDT입니다.\n\n홍염의 밤 — 의상 · 장명주 1,280개\n광명의 길 — 승표 외관 · 장명주 680개\n어룡의 불꽃 — 무술 이펙트 · 공명 구슬 1개\n불꽃 축제의 밤 — 비결 이펙트 · 할인 장명주 60개\n\n10월 1일 기준 공식 예고를 정리한 내용이며 실제 판매 확인은 아닙니다. 구매 전 최신 도감과 게임 내 조건을 확인하세요.",
-            "en": "Official Global schedule: October 4, 2026 at 05:00 UTC+8. That is 06:00 KST, or October 3 at 17:00 EDT in New York.\n\nBlazing Conquest — outfit · 1,280 Echo Beads\nVindicated Way — rope dart appearance · 680 Echo Beads\nDragoncarp Blaze — martial art VFX · 1 Harmonic Core\nBloom Night — mystic skill VFX · 60 Echo Beads on discount\n\nThis is a snapshot of announced terms as of October 1, not a live availability check. Check the latest archive and in-game terms before buying."
+            "ko": "2026년 10월 4일 05:00 UTC+8 · 한국 06:00 KST · 미국 동부 10월 3일 17:00 EDT\n\n홍염의 밤 — 의상 · 상점 · 장명주 1,280개\n광명의 길 — 승표 외관 · 상점 · 장명주 680개\n어룡의 불꽃 — 무술 이펙트 · 공명 상점 · 공명 구슬 1개\n불꽃 축제의 밤 — 비결 이펙트 · 상점 · 할인 장명주 60개, 정상가 300개\n\n9월 30일 공식 공지 기준. 실제 판매 미확인.",
+            "en": "October 4, 2026 at 05:00 UTC+8 · 06:00 KST · October 3 at 17:00 EDT\n\nBlazing Conquest — outfit · shop · 1,280 Echo Beads\nVindicated Way — rope dart appearance · shop · 680 Echo Beads\nDragoncarp Blaze — martial art VFX · Draw Shop · 1 Harmonic Core\nBloom Night — mystic skill VFX · shop · 60 Echo Beads on discount, 300 regular\n\nSeptember 30 official announcement; live availability unverified."
           }
         },
         {
           "id": "roadmap",
           "eyebrow": {
-            "ko": "바람의 방향",
-            "en": "READING THE WINDS"
+            "ko": "글로벌 / 운영자 예상",
+            "en": "GLOBAL / EDITORIAL ESTIMATE"
           },
           "title": {
-            "ko": "날짜가 있다고\n모두 확정은 아닙니다",
-            "en": "A date on the roadmap\nis not always a promise"
+            "ko": "연대학 · 예상 기록",
+            "en": "Lian Tai He · forecast record"
           },
           "body": {
-            "ko": "공식 — 해당 서버 공식 공지로 확인한 일정입니다.\n예상 — 과거 사례와 공개 자료를 비교한 운영자 판단입니다.\n미정 — 날짜 범위를 제시할 근거가 부족합니다.\n\n예를 들어 중국 의상 연대학(莲台鹤·임시 번역)은 창간호 기준 10~11월 글로벌 예상 범위를 유지합니다. 근거는 제한적이며 공식 출시 발표가 아닙니다. 비교 사례의 서버 간 시차가 크게 달라 더 일찍, 더 늦게 출시되거나 출시되지 않을 수 있습니다.\n\n이 호는 기존 예상 3차 기록을 소개하며 새 예상을 추가하지 않습니다. 다음 재검토 예정일은 10월 5일입니다. 최신 판단과 이전 수정 이유는 로드맵에서 확인하세요.",
-            "en": "Official — a schedule supported by that server's official announcement.\nEstimated — an editorial judgment comparing public sources and past examples.\nUnscheduled — insufficient evidence for a date window.\n\nFor example, the CN outfit Lian Tai He (莲台鹤; provisional name) retains an October–November Global estimate in this issue. Evidence is limited; this is not an official release announcement. Historical server delays vary substantially. It may arrive earlier, later, or never.\n\nThis issue presents existing forecast revision 3, without adding a forecast. Its next review is due October 5. The roadmap preserves current judgments and reasons for earlier revisions."
+            "ko": "중국명: 莲台鹤 · 한국어명은 임시 번역\n글로벌 예상 범위: 2026년 10~11월\n근거 수준: 제한적 · 공식 발표 아님\n기록: 기존 예상 3차 · 9월 28일 UTC 검토\n다음 검토 예정: 10월 5일\n글로벌 가격: 미정\n\n과거 중국 상점 의상 사례를 비교한 범위이며 출시 순서·출시 여부는 보장되지 않습니다. 조기·지연·미출시가 모두 가능합니다.",
+            "en": "CN name: 莲台鹤 · provisional translated name\nGlobal estimate: October–November 2026\nEvidence: limited · not an official announcement\nRecord: existing revision 3, reviewed September 28 UTC\nNext review due: October 5\nGlobal cost: unknown\n\nBased on past CN shop-outfit comparisons. Release order and availability are not guaranteed; earlier, later or no release remains possible."
           }
         },
         {
           "id": "deadline",
           "eyebrow": {
-            "ko": "놓치기 전에",
-            "en": "BEFORE THE WINDOW CLOSES"
+            "ko": "불꽃 축제의 밤 / 할인",
+            "en": "BLOOM NIGHT / DISCOUNT"
           },
           "title": {
-            "ko": "할인 종료와\n판매 종료는 다릅니다",
-            "en": "A discount ending\nis not a sale ending"
+            "ko": "가격과 할인 종료",
+            "en": "Cost and discount end"
           },
           "body": {
-            "ko": "글로벌 불꽃 축제의 밤은 할인 기간 장명주 60개, 이후 300개로 안내됐습니다. 종료일은 2026년 11월 3일이며 영문 공지는 04:59:59, 한국어 공지는 05:59:59를 표기합니다.\n\n할인 종료 문장에는 시간대가 별도로 명시되지 않아 확정 시간대로 변환하지 않습니다. 할인이 끝난다는 안내를 외관 판매가 끝난다는 뜻으로 읽지 마세요.\n\n로드맵에서 출시·판매·교환·할인 종료의 종류와 원문 시간대를 함께 확인하는 습관이 도움이 됩니다.",
-            "en": "Global Bloom Night is listed at 60 Echo Beads during its discount, then 300 afterward. The end date is November 3, 2026: 04:59:59 in the English notice and 05:59:59 in the Korean notice.\n\nThe discount-end sentence does not explicitly state a timezone, so we do not convert it into a confirmed zoned timestamp. An ending discount does not establish an ending sale.\n\nUse the roadmap to distinguish release, sale, exchange, and discount deadlines, alongside the source's original timezone."
+            "ko": "할인가: 장명주 60개 · 이후 정상가: 300개\n할인 종료일: 2026년 11월 3일\n영문 공지: 04:59:59 · 한국어 공지: 05:59:59\n종료 문장 시간대: 미표기\n판매 종료일: 미표기\n\n시간대가 확인되지 않아 종료 시각을 변환하지 않습니다. 할인 종료와 판매 종료는 별도 항목입니다.",
+            "en": "Discount: 60 Echo Beads · regular afterward: 300\nDiscount end: November 3, 2026\nEnglish notice: 04:59:59 · Korean notice: 05:59:59\nTimezone in end sentence: not stated\nSale end: not stated\n\nNo conversion is made without a confirmed timezone. Discount end and sale end are separate fields."
           }
         },
         {
-          "id": "participate",
+          "id": "record",
           "eyebrow": {
-            "ko": "함께 보는 거울",
-            "en": "YOUR TURN"
+            "ko": "발행 정보",
+            "en": "PUBLICATION RECORD"
           },
           "title": {
-            "ko": "당신이 기다리는\n다음 한 벌은?",
-            "en": "What is the next outfit\nyou are waiting for?"
+            "ko": "기준일과 출처",
+            "en": "Information date and sources"
           },
           "body": {
-            "ko": "다음 호에서 자세히 보고 싶은 외관을 알려주세요. 외관 이름 하나와 궁금한 부분 하나면 충분합니다. 뒷모습, 염색, 구성품, 획득 조건 중 무엇을 보고 싶나요?\n\n이 매거진을 읽은 커뮤니티 게시글에 댓글로 남기거나 연운경의 공개 GitHub 제보 경로를 이용할 수 있습니다. GitHub 제보에는 계정이 필요합니다. 독자 제안을 참고해 다음 소재를 선정하며, 투표 결과나 게재를 약속하는 방식은 아닙니다.\n\n사진 제보는 본인이 촬영한 자료와 사용 가능한 범위를 함께 알려주세요. 이름과 사진의 게재 여부는 동의를 확인한 뒤 결정합니다.",
-            "en": "Tell us which appearance you would like to see in the next issue. One name and one question are enough: the back view, dyeing, included pieces, or acquisition conditions?\n\nLeave a comment on the community post where you read this magazine, or use the public GitHub reporting link. GitHub requires an account. Reader suggestions inform editorial selection; this is not a vote or a promise of publication.\n\nFor photo submissions, provide your own screenshots and explain the permitted uses. Publication of images and contributor names depends on consent."
+            "ko": "발행일·정보 기준일: 2026년 10월 1일\n발행일 시간대: America/New_York\n일정·가격: 글로벌 공식 9월 30일 공지\n외형 사진: NetEase 중국 공식 자료\n예상: 연운경 로드맵의 기존 3차 기록\n\n이 호는 발행 당시의 기록입니다. 출처와 편집 이력은 아래에 정리했습니다.",
+            "en": "Publication and information date: October 1, 2026\nPublication-date timezone: America/New_York\nSchedule and costs: official Global September 30 notice\nPhotos: official CN references from NetEase\nEstimate: existing roadmap revision 3\n\nThis issue preserves its publication snapshot. Sources and edition history follow below."
           }
         }
       ],
-      "sharePageCount": 8
+      "sharePageCount": 6
     }
   ]
 }

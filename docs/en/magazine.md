@@ -2,15 +2,15 @@
 
 [한국어](../ko/magazine.md) · [Magazine](https://windsahead.com/en/magazine)
 
-The user selected the magazine as a core companion to the archive and roadmap on October 1, 2026. It turns meaningful appearance updates and roadmap explanations into bilingual editorial issues, inviting readers to suggest the next appearance. Issues are published when material is ready; this feature adds no schedule, account system or automatic community posting.
+The user selected the magazine as a core companion to the archive and roadmap on October 1, 2026. It collects verified appearance announcements and existing roadmap estimates in bilingual photo issues with information-focused copy. Issues are published when material is ready; this feature adds no schedule, account system or automatic community posting.
 
 ## Reading and sharing
 
 The main navigation now contains Cosmetics, Roadmap and Magazine. `/en/magazine` and `/ko/magazine` list published issues. Stable issue URLs such as `/ko/magazine/issue-01` support language switching, paired metadata and sitemap entries. The web article uses selectable text, an in-page contents list, reference photos and direct archive/roadmap links. It does not require a page-turning viewer.
 
-Edition 2 contains eight numbered, photo-led JPGs per language, 1080 pixels wide, with content-dependent height. A full-bleed female cover, serif headlines, cream/navy/sage pages, restrained rules, detail crops and front/back photography establish a fashion-editorial rhythm. Each of the four officially scheduled appearances gets its own photo story; Lian Tai He is shown separately as an estimate. Individual downloads and a ZIP bundle are offered below the article. Readability must be checked at mobile display width. A destination platform's compression and upload rules have not been tested. Preserve issue numbers, source and estimate labels when sharing.
+Edition 3 contains six numbered photo JPGs per language, 1080px wide with content-dependent height. The cover, four official appearance pages and one forecast page retain fashion-magazine photography and typography while limiting copy to names, schedules, acquisition, costs, included pieces and evidence labels. Individual downloads and a ZIP bundle are offered below the article. Readability must be checked at mobile display width. A destination platform's compression and upload rules have not been tested. Preserve issue numbers, source and estimate labels when sharing.
 
-Issue 01, **A first look at your next wardrobe**, includes an editor's introduction, Blazing Conquest, the four official October 4 Global announcements, an existing limited-evidence forecast example, the distinction between discount and sale endings, and a reader invitation. Its information date is October 1, 2026; the publication-date timezone is America/New_York. Actual live game availability is not claimed.
+Issue 01, **October appearance update**, covers the four official October 4 Global appearances, their acquisition and costs, Bloom Night's discount end and existing Lian Tai He forecast revision 3. Information date: October 1, 2026. Publication-date timezone: America/New_York. Live availability is not claimed.
 
 ## Editorial record and media
 
@@ -18,15 +18,15 @@ Issue 01, **A first look at your next wardrobe**, includes an editor's introduct
 
 The web and community editions reuse existing attributed official CN reference images, prioritizing verified female views for Blazing Conquest and Lian Tai He. Complete originals remain accessible through the archive. These are not verified live Global screenshots. The user requested the photographic community edition; source paths, original URLs and unknown permission status are recorded in `site/content/magazine-export-metrics.json`. Photo rights stay with their owners; attribution is not redistribution permission. Artwork remains outside the code license. The first typography-only edition stays at its original file paths as a historical artifact.
 
-Reader suggestions can be made in the community post where the issue is shared, or through the existing public GitHub issues link (an account is required). Suggestions inform editorial selection, not a ranking or guaranteed publication. Check consent and permitted uses before publishing contributor images or names.
+The current issue omits editor letters, subjective appearance descriptions, promotional slogans and participation prompts. Keep the photo-led style, but make captions factual. Earlier editions remain preserved at their original download paths.
 
 ## Production
 
 1. Select verified material and its source references; keep CN facts, Global facts and estimates separate.
 2. Write and review both languages, preserving unknown values, date precision and timezones.
 3. Render exports with `site/scripts/render-magazine.mjs`. It requires Playwright and installed Chrome; optionally set `WINDS_BROWSER_MODULES` to an existing runtime module directory. No new application dependency is installed.
-4. Build each language's ZIP from its eight JPGs. Rebuild the licensed font subsets when new text requires glyphs; retain the OFL notices.
+4. Build each language's ZIP from its six JPGs. Rebuild the licensed font subsets when new text requires glyphs; retain the OFL notices.
 5. Run content validation (including source IDs, preserved forecast snapshots, JPG/WebP dimensions, size and photo references and ZIP existence), type checks, tests and production build. Verify mobile/desktop reading, navigation, language switching and downloads.
 6. Follow [releasing](releasing.md) and the established Sites publication flow. Community posting is a separate, explicitly authorized action.
 
-Edition 2 browser checks and limits are recorded with [v0.3.1](releases/0.3.1.md). The website loads small, lazy WebP previews rather than full export files; dimensions are reserved before loading. No physical-device, platform-upload or new analytics results are claimed.
+Edition 3 browser checks and limits are recorded with [v0.3.2](releases/0.3.2.md). The website loads small, lazy WebP previews rather than full export files; dimensions are reserved before loading. No physical-device, platform-upload or new analytics results are claimed.

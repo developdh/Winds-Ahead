@@ -48,3 +48,5 @@ Current update checks belong in [v0.2.12 notes](releases/0.2.12.md); earlier tes
 Added the bilingual magazine archive, Issue 01, six mobile PNGs per language and ZIP downloads. Primary navigation now includes Cosmetics, Roadmap and Magazine. Direct magazine links open in their explicit language without the first-visit language landing. See [magazine production](magazine.md) and [v0.3.0](releases/0.3.0.md) for validation and media limits.
 
 Edition 2 replaces the active downloads with eight photo-led fashion pages per language, including every featured upcoming appearance and the forecast candidate. Lightweight WebP previews keep the article economical. See [v0.3.1](releases/0.3.1.md).
+
+Edition 3 removes subjective/editorial and participation copy, condensing the mobile issue to six photo pages with structured facts. The web article follows the same neutral style. See [v0.3.2](releases/0.3.2.md).
