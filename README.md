@@ -23,7 +23,7 @@ Free to browse. No sign-in required. Available on desktop and mobile.
 - **See what is coming.** Official announcements and editorial forecasts have distinct labels. Explore a roadmap or monthly calendar; unknown dates stay unknown.
 - **Save and share.** Keep a browser-local watchlist and share individual cosmetics by link. Your language choice is remembered. Effect videos load when you press play.
 
-**686 appearance records · 557 photos across 371 appearances · 395 wiki references**
+**720 appearance records · 785 photos across 467 appearances · 395 wiki references**
 
 The archive is still growing. Some images, official translations and release dates are missing; these counts do not establish complete in-game coverage. Forecasts are unofficial and may change.
 

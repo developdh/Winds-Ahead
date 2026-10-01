@@ -1,6 +1,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import fs from 'node:fs/promises';
+import { fileURLToPath } from 'node:url';
 import sharp from 'sharp';
 import { preferredMedia } from '../lib/media-domain.mjs';
 const root=new URL('../',import.meta.url);
@@ -15,7 +16,7 @@ test('verified female previews take priority without losing source indices or ch
 test('catalog and gallery images cannot silently become animated assets',async()=>{
  for(const m of media) for(const key of ['thumbnail','full','preview',...(m.display?['display']:[])]) {
   const file=new URL('public'+m[key],root);
-  const meta=await sharp(file.pathname).metadata();
+  const meta=await sharp(fileURLToPath(file)).metadata();
   assert.equal(meta.pages??1,1,`Animated image: ${m[key]}`);
   assert.equal(meta.format,'webp');
   assert.ok((await fs.stat(file)).size <= (key==='preview'?20_000:key==='thumbnail'?160_000:2_500_000), `Image budget exceeded: ${m[key]}`);
@@ -23,8 +24,8 @@ test('catalog and gallery images cannot silently become animated assets',async()
 });
 test('selectors match the presentation crop while enlargement retains full artwork', async () => {
  for (const m of media) {
-  const full=await sharp(new URL('public'+(m.display??m.full),root).pathname).metadata();
-  const preview=await sharp(new URL('public'+m.preview,root).pathname).metadata();
+  const full=await sharp(fileURLToPath(new URL('public'+(m.display??m.full),root))).metadata();
+  const preview=await sharp(fileURLToPath(new URL('public'+m.preview,root))).metadata();
   assert.ok(Math.max(preview.width,preview.height)<=160);
   const scale=Math.min(160/full.width,160/full.height,1);
   assert.ok(Math.abs(preview.width-full.width*scale)<=1 && Math.abs(preview.height-full.height*scale)<=1, `Cropped selector preview: ${m.preview}`);
@@ -32,7 +33,7 @@ test('selectors match the presentation crop while enlargement retains full artwo
 });
 test('presentation crops stay inside the full image and agree with their recorded dimensions', async () => {
  for (const m of media.filter(image=>image.presentationCrop)) {
-  const full=await sharp(new URL('public'+m.full,root).pathname).metadata();
+  const full=await sharp(fileURLToPath(new URL('public'+m.full,root))).metadata();
   const [left,top,right,bottom]=m.presentationCrop;
   assert.ok(left>=0&&top>=0&&right>left&&bottom>top&&right<=full.width&&bottom<=full.height, m.full);
   assert.equal(m.displayWidth,right-left);
@@ -41,7 +42,7 @@ test('presentation crops stay inside the full image and agree with their recorde
  }
  const lunar=research.cosmetics.find(c=>c.id==='fu-guang').images[0];
  assert.equal(lunar.sourceCrop[3],4661, 'The bottom artwork border must remain in the full image');
- assert.equal((await sharp(new URL('public/media/fu-guang-0-full.webp',root).pathname).metadata()).height, lunar.height);
+ assert.equal((await sharp(fileURLToPath(new URL('public/media/fu-guang-0-full.webp',root))).metadata()).height, lunar.height);
 });
 test('local effect videos match byte records and put playback metadata before frames',async()=>{
  for(const c of research.cosmetics) for(const v of c.officialVideos) {

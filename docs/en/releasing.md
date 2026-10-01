@@ -30,6 +30,8 @@ This is part of completing each update, including updates from the existing cale
 
 ## Release notes
 
+- [0.2.14 — CN event hair accessory and portable media checks](releases/0.2.14.md)
+
 - [0.2.13 — Expanded older outfit galleries and October announcements](releases/0.2.13.md)
 - [0.2.12 — October listings, verified costs and reference photos](releases/0.2.12.md)
 - [0.2.11 — Dragoncarp Blaze schedule and official Korean names](releases/0.2.11.md)

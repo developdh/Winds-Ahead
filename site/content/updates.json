@@ -2,6 +2,25 @@
   "schemaVersion": 1,
   "entries": [
     {
+      "id": "october1-event-reward-20261001",
+      "date": "2026-10-01",
+      "kind": {
+        "en": "Official event reward",
+        "ko": "공식 이벤트 보상"
+      },
+      "title": {
+        "en": "Fu Hong Bin hair accessory and October 16 event deadline",
+        "ko": "무홍빈 발식과 10월 16일 이벤트 종료 일정"
+      },
+      "body": {
+        "en": "Added the named CN rainbow parasol hair accessory, its token exchange and participation prerequisites, a reward-banner preview, and the event end. Corrected the October 1 update source title. Timezone, token quantity and Global release remain unknown; previous forecasts are unchanged.",
+        "ko": "중국 무지개 우산 발식의 원명·이벤트 토큰 교환·참여 조건·보상 배너와 이벤트 종료 일정을 추가하고 10월 1일 업데이트 출처 제목을 정정했습니다. 시간대·토큰 수량·글로벌 일정은 미정이며 기존 예상 이력은 유지합니다."
+      },
+      "sourceIds": [
+        "cn-20260930-update"
+      ]
+    },
+    {
       "id": "archive-photos-and-october-20260930",
       "date": "2026-09-30",
       "kind": {

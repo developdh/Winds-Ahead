@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "verifiedAt": "2026-09-30",
+  "verifiedAt": "2026-10-01",
   "scope": "Cross-server archive from individually reviewed official announcements; not a certified complete game inventory.",
   "sources": [
     {
@@ -3697,15 +3697,15 @@
     {
       "id": "cn-20260930-update",
       "url": "https://www.yysls.cn/news/update/20260930/40412_1315694.html",
-      "titleOriginal": "9月30日版本更新公告",
+      "titleOriginal": "10月1日2.8.5版本「平澜起风波」更新公告",
       "publisher": "NetEase / Where Winds Meet official website",
       "server": "CN",
       "displayedPublicationDate": "2026-09-30",
       "publicationDatePrecision": "day",
       "publicationTimezone": null,
       "evidenceTier": "A",
-      "verifiedAt": "2026-09-30",
-      "verificationNote": "Official tall update poster visually inspected in full-resolution sections. The three new appearances list October 2 at 00:00:00; timezone is unstated. Image: https://nie.res.netease.com/r/pic/20260930/d5e6c1e5-6359-442e-accc-47bcffce7680.jpg"
+      "verifiedAt": "2026-10-01",
+      "verificationNote": "Official tall update poster visually inspected in full-resolution sections. The three new appearances list October 2 at 00:00:00; timezone is unstated. Image: https://nie.res.netease.com/r/pic/20260930/d5e6c1e5-6359-442e-accc-47bcffce7680.jpg Rechecked October 1: corrected the source title to the original page heading. The 寻彩决英 section explicitly names hair accessory 抚虹鬓, 缤彩花 exchange, level 10 and 又见新来燕 prerequisites; event runs October 1 05:00:00 to October 16 04:59:59, timezone unstated. Exchange quantity and any separate shop closing time are not stated."
     },
     {
       "id": "global-20260930-october-appearances-en",
@@ -51755,6 +51755,76 @@
         "ko": "중국 원명의 임시 독음이며 글로벌 공식명은 미확인입니다."
       },
       "weaponTypeOriginal": "绳镖"
+    },
+    {
+      "id": "fu-hong-bin",
+      "nameOriginal": "抚虹鬓",
+      "romanization": "Fu Hong Bin",
+      "category": "accessory",
+      "sourceId": "cn-20260930-update",
+      "acquisitionServer": "CN",
+      "mediaServer": "CN",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": "2026-10-01",
+        "precision": "day",
+        "timezone": null,
+        "contextual": true,
+        "basis": "Official event starts October 1 at 05:00:00; timezone unstated. Current in-game availability not checked."
+      },
+      "acquisition": {
+        "kind": "event",
+        "pricing": "free",
+        "amount": null,
+        "regularAmount": null,
+        "currencyOriginal": null,
+        "location": {
+          "en": "Colorful Flower event shop",
+          "ko": "빈채화 이벤트 상점",
+          "original": "缤彩商店"
+        },
+        "conditions": {
+          "en": "CN: earn 缤彩花 in 寻彩决英 and exchange for this hair accessory. Requires level 10 and completion of the Qinghe main chapter 又见新来燕. Event: October 1 05:00:00–October 16 04:59:59, timezone unstated. Token cost and a separate shop end are unknown.",
+          "ko": "중국: 심채결영(寻彩决英) 이벤트에서 빈채화(缤彩花)를 모아 발식을 교환합니다. 10레벨과 청하 메인 장 又见新来燕 완료가 필요합니다. 이벤트는 10월 1일 05:00:00부터 10월 16일 04:59:59까지이며 시간대는 미표기입니다. 필요 토큰 수량과 별도 상점 종료일은 미확인입니다."
+        },
+        "en": "Event token exchange reward",
+        "ko": "이벤트 토큰 교환 보상"
+      },
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260930/d5e6c1e5-6359-442e-accc-47bcffce7680.jpg",
+          "width": 2688,
+          "height": 22198,
+          "bytes": 11860797,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20260930-update",
+          "reusePermission": "unknown",
+          "localCopy": "/media/fu-hong-bin-0-full.webp",
+          "server": "CN",
+          "inspectionNote": "Named rainbow parasol hair-accessory reward banner inspected October 1. Banner crop used for browsing; complete update poster retained for enlargement.",
+          "alt": {
+            "en": "Fu Hong Bin: rainbow parasol hair accessory in the official CN event reward banner.",
+            "ko": "무홍빈: 중국 공식 이벤트 보상 배너의 무지개 우산 발식."
+          },
+          "caption": {
+            "en": "Official CN reward banner; enlargement retains the complete update poster.",
+            "ko": "중국 공식 보상 배너입니다. 확대하면 업데이트 공지 전체를 볼 수 있습니다."
+          }
+        }
+      ],
+      "officialVideos": [],
+      "mediaStatus": "verified",
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "namingNote": {
+        "en": "Provisional reading of the CN name; official Global names are unknown.",
+        "ko": "중국 원명의 임시 독음이며 글로벌 공식명은 미확인입니다."
+      }
     }
   ],
   "contextualOfficialVideos": [

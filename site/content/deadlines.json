@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "reviewedAt": "2026-09-30",
+  "reviewedAt": "2026-10-01",
   "records": [
     {
       "id": "global-global-wind-s-far-shore-exchange-2026-11-18",
@@ -453,6 +453,24 @@
       "note": {
         "en": "English: November 3 at 04:59:59; Korean: 05:59:59. September 30 text reconfirms these times but does not explicitly give a timezone in the discount-end sentence. 60 Echo Beads returns to 300; discount end, not sale end.",
         "ko": "영문: 11월 3일 04:59:59, 한국어: 05:59:59. 9월 30일 본문도 같은 시각을 확인하지만 할인 종료 문장에는 시간대를 명시하지 않았습니다. 장명주 60개에서 300개로 복귀하며 할인 종료이지 판매 종료가 아닙니다."
+      }
+    },
+    {
+      "id": "cn-fu-hong-bin-event-2026-10-16",
+      "cosmeticId": "fu-hong-bin",
+      "server": "CN",
+      "kind": "event",
+      "startDate": "2026-10-01",
+      "end": "2026-10-16T04:59:59",
+      "precision": "second",
+      "timezone": null,
+      "sourceIds": [
+        "cn-20260930-update"
+      ],
+      "verifiedAt": "2026-10-01",
+      "note": {
+        "en": "End of 寻彩决英 event. The poster does not establish a separate exchange-shop closure or timezone.",
+        "ko": "심채결영 이벤트 종료 일정입니다. 별도 교환 상점 종료일과 시간대는 공지에 명시되지 않았습니다."
       }
     }
   ]

@@ -12376,5 +12376,28 @@
     "thumbnailBytes": 12910,
     "fullBytes": 26150,
     "previewBytes": 1198
+  },
+  {
+    "cosmeticId": "fu-hong-bin",
+    "index": 0,
+    "originalUrl": "https://nie.res.netease.com/r/pic/20260930/d5e6c1e5-6359-442e-accc-47bcffce7680.jpg",
+    "permission": "unknown",
+    "audience": "reference artwork; excluded from the code license",
+    "presentationCrop": [
+      66,
+      898,
+      1138,
+      1278
+    ],
+    "displayWidth": 1072,
+    "displayHeight": 380,
+    "full": "/media/fu-hong-bin-0-full.webp",
+    "fullBytes": 1061404,
+    "display": "/media/fu-hong-bin-0-display.webp",
+    "displayBytes": 42560,
+    "thumbnail": "/media/fu-hong-bin-0-thumb.webp",
+    "thumbnailBytes": 13344,
+    "preview": "/media/fu-hong-bin-0-preview.webp",
+    "previewBytes": 1500
   }
 ]
