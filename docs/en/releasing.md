@@ -30,6 +30,8 @@ This is part of completing each update, including updates from the existing cale
 
 ## Release notes
 
+- [0.3.3 — Magazine ending page with site introduction](releases/0.3.3.md)
+
 - [0.3.2 — Factual magazine copy and six-page edition](releases/0.3.2.md)
 
 - [0.3.1 — Photo-led fashion magazine edition](releases/0.3.1.md)

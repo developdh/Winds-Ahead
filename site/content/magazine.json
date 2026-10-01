@@ -7,7 +7,7 @@
       "publishedAt": "2026-10-01",
       "dateTimezone": "America/New_York",
       "informationAsOf": "2026-10-01",
-      "revision": 3,
+      "revision": 4,
       "forecastSnapshot": {
         "id": "forecast-global-lian-tai-he",
         "revision": 3,
@@ -50,6 +50,13 @@
           "body": {
             "ko": "감상 문구·편집자의 편지·참여 유도 문장을 제거하고 사진과 일정·가격·획득처 중심의 6면으로 정리했습니다. 기존 사실과 예상 이력은 유지합니다.",
             "en": "Removed subjective captions, the editor letter and reader prompts; condensed to six photo pages focused on schedules, costs and acquisition. Existing facts and forecast history are unchanged."
+          }
+        },
+        {
+          "date": "2026-10-01",
+          "body": {
+            "ko": "기존 정보 지면에 연운경 소개·기능·사이트 주소를 담은 마지막 한 장을 추가했습니다.",
+            "en": "Added a final page with a short Winds Ahead introduction, features and website address; the factual pages remain intact."
           }
         }
       ],
@@ -149,7 +156,7 @@
           }
         }
       ],
-      "sharePageCount": 6
+      "sharePageCount": 7
     }
   ]
 }
