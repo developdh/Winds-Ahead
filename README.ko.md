@@ -72,6 +72,8 @@ React·TypeScript, vinext/Vite의 Next.js API, Tailwind CSS와 Cloudflare Worker
 
 비밀키·계정 정보·사적인 스크린샷이나 이용 근거 없는 저작물을 커밋하지 마세요.
 
+Sites 배포는 저장소 루트에서 시작합니다. 이 경로에서는 루트에서 `npm ci`와 `npm run build`를 실행하세요. 설치는 `site/`의 잠금 파일을 사용하고, 빌드는 검증된 Worker 결과를 루트 `dist/`로 복사합니다. 앱은 계속 `site/`에 유지됩니다. 루트와 앱의 배포 설정이 일치해야 하며 CI도 루트 빌드 진입점을 검사합니다.
+
 </details>
 
 <details>
