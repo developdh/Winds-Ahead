@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "verifiedAt": "2026-09-30",
+  "verifiedAt": "2026-10-01",
   "records": [
     {
       "cosmeticId": "shang-qing-yun",
@@ -14624,6 +14624,25 @@
       "identityBasis": {
         "en": "The official article and update poster explicitly name this appearance and category.",
         "ko": "공식 소개 기사와 업데이트 이미지에서 해당 외관명과 분류를 확인했습니다."
+      }
+    },
+    {
+      "cosmeticId": "fu-hong-bin",
+      "server": "CN",
+      "status": "announced",
+      "sourceIds": [
+        "cn-20260930-update"
+      ],
+      "verifiedAt": "2026-10-01",
+      "releaseDate": "2026-10-01",
+      "precision": "day",
+      "scope": {
+        "en": "Official event schedule; actual in-game availability has not been checked. Timezone unstated.",
+        "ko": "공식 이벤트 일정이며 게임 내 실제 획득 여부는 미확인입니다. 시간대는 미표기입니다."
+      },
+      "identityBasis": {
+        "en": "The official update poster names 抚虹鬓 as a hair accessory in the 寻彩决英 reward banner and exchange paragraph.",
+        "ko": "공식 업데이트 이미지의 심채결영 보상 배너와 교환 문단에서 발식 抚虹鬓을 명시합니다."
       }
     }
   ]

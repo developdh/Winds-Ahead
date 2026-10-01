@@ -1,0 +1,36 @@
+{
+  "checkedAt": "2026-10-01",
+  "scope": "Manual maintenance of official CN, English Global and Korean website notices; no in-game availability check.",
+  "sources": [
+    "https://www.yysls.cn/news/",
+    "https://www.yysls.cn/news/update/20260930/40412_1315694.html",
+    "https://www.yysls.cn/news/official/20260930/37780_1315698.html",
+    "https://www.wherewindsmeetgame.com/news/",
+    "https://www.wherewindsmeetgame.com/kr/news/",
+    "https://www.wherewindsmeetgame.com/news/official/1004appearance.html",
+    "https://www.wherewindsmeetgame.com/kr/news/official/1004appearance.html"
+  ],
+  "changes": [
+    "Added 抚虹鬓 from the named CN reward banner and exchange paragraph: accessory, event-token reward, level 10 and Qinghe main chapter prerequisites.",
+    "Recorded the October 1–16 event deadline with second precision and unknown timezone; no separate exchange-shop closing date inferred.",
+    "Corrected cn-20260930-update title to 10月1日2.8.5版本「平澜起风波」更新公告; retained September 30 publication date.",
+    "Preserved the complete poster in enlargement, used its named reward banner for display, and recorded the derivative crop.",
+    "Converted image test file URLs with fileURLToPath for Windows portability."
+  ],
+  "media": {
+    "originalUrl": "https://nie.res.netease.com/r/pic/20260930/d5e6c1e5-6359-442e-accc-47bcffce7680.jpg",
+    "originalDimensions": [2688, 22198],
+    "fullDimensions": [1200, 9910],
+    "presentationCrop": [66, 898, 1138, 1278],
+    "reusePermission": "unknown",
+    "inspection": "Read event reward banner, participation and exchange text, and October 2 appearance section in enlarged sections; inspected the final banner derivative."
+  },
+  "limits": [
+    "The September 30 EN/KO October 4 notice and three CN October 2 appearances were already reflected in v0.2.13; no duplicate records added.",
+    "Official Global names, token cost, source timezone and actual in-game availability remain unknown.",
+    "Korean Cafe GM notices were not independently rechecked in this run; no new official Korean name claim.",
+    "No forecast changes or new schedules; next existing forecast review is October 5.",
+    "Reference banner depicts the accessory alone; no verified female wearing view was available in the inspected notice.",
+    "Unrelated event currencies, poses, badges and scene props were excluded from the cosmetic archive."
+  ]
+}
