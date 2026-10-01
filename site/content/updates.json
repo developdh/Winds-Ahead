@@ -2,6 +2,26 @@
   "schemaVersion": 1,
   "entries": [
     {
+      "id": "magazine-debut-20261001",
+      "date": "2026-10-01",
+      "kind": {
+        "en": "Magazine launch",
+        "ko": "매거진 창간"
+      },
+      "title": {
+        "en": "A first look at your next wardrobe — Issue 01",
+        "ko": "다음 옷장을 미리 펼치다 — 창간호"
+      },
+      "body": {
+        "en": "Added the bilingual magazine with a readable web article, archive and roadmap links, and six mobile share images per language. The first issue explains October 4 official Global appearances, an existing limited-evidence forecast, and the difference between discount and sale endings. No new forecast or schedule was added.",
+        "ko": "양언어 매거진·웹 기사·도감 및 로드맵 연결·언어별 모바일 공유 이미지 여섯 장을 추가했습니다. 창간호에서 10월 4일 글로벌 공식 외관, 기존의 근거 제한적 예상, 할인 종료와 판매 종료의 차이를 읽을 수 있습니다. 새 예상이나 정기 예약은 추가하지 않았습니다."
+      },
+      "sourceIds": [
+        "global-20260930-october-appearances-en",
+        "global-20260930-october-appearances-ko"
+      ]
+    },
+    {
       "id": "october1-event-reward-20261001",
       "date": "2026-10-01",
       "kind": {

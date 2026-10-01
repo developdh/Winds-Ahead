@@ -133,3 +133,7 @@ Real game imagery carries the design; generated artwork must not substitute for 
 Initial usability checks ask whether visitors can find a name, inspect a video, distinguish confirmation from estimation, and save an item without explanation. Content-quality targets: sources and verification dates on 100% of published records; reasoning and revisions on 100% of forecasts; zero missing core screens across Korean and English.
 
 Next: verify representative cosmetic material and develop explore/detail/calendar wireframes. Implementation and deployment are outside this planning deliverable. See the [delivery plan](delivery-plan.md) for completion criteria and the [source register](../research-sources.md) for research evidence.
+
+## Magazine added · October 1, 2026
+
+The user selected Magazine as a core feature alongside the roadmap. The current primary navigation is Cosmetics, Roadmap and Magazine. Bilingual editorial issues explain verified appearances and existing forecasts, link to the archive, and invite reader suggestions. Mobile community editions use multiple long single-column images. See [magazine production](magazine.md); the earlier two-destination navigation proposal is superseded.

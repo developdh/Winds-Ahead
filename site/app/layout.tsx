@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import "./globals.css";
+import "./magazine.css";
 export const metadata: Metadata = {
   metadataBase: new URL("https://windsahead.com"),
   title: "Winds Ahead · 연운경",

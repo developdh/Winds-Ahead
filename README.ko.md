@@ -97,3 +97,5 @@ Sites 배포는 저장소 루트에서 시작합니다. 이 경로에서는 루�
 **[MIT 라이선스](LICENSE)**: 직접 작성한 앱 코드와 프로젝트 문서에 적용합니다. 게임 이미지·영상·상표·원문 발췌·위키 가공 자료·글꼴·외부 코드의 권리는 별도로 유지합니다. 위키 자료는 CC BY-NC-SA 3.0, 글꼴과 의존성은 각자의 고지를 따릅니다. 미디어 이용 권한이 확인되지 않았으면 그 상태를 그대로 기록합니다.
 
 자료 재사용 전 확인할 문서: **[외부 저작물 안내](THIRD_PARTY_NOTICES.md)**. 비영리 운영 원칙은 MIT 코드 라이선스에 별도 제한을 추가하지 않습니다. NetEase 및 Everstone Studio와 무관한 비공식 팬 프로젝트입니다.
+
+매거진: [회차 목록](https://windsahead.com/ko/magazine) · [창간호](https://windsahead.com/ko/magazine/issue-01) · [제작 정책](docs/ko/magazine.md).

@@ -1,0 +1,78 @@
+{
+  "generatedFrom": "content/magazine.json",
+  "gameArtworkIncluded": false,
+  "pages": [
+    {
+      "locale": "ko",
+      "page": 1,
+      "width": 1080,
+      "height": 1809
+    },
+    {
+      "locale": "ko",
+      "page": 2,
+      "width": 1080,
+      "height": 1650
+    },
+    {
+      "locale": "ko",
+      "page": 3,
+      "width": 1080,
+      "height": 1852
+    },
+    {
+      "locale": "ko",
+      "page": 4,
+      "width": 1080,
+      "height": 2047
+    },
+    {
+      "locale": "ko",
+      "page": 5,
+      "width": 1080,
+      "height": 1755
+    },
+    {
+      "locale": "ko",
+      "page": 6,
+      "width": 1080,
+      "height": 1974
+    },
+    {
+      "locale": "en",
+      "page": 1,
+      "width": 1080,
+      "height": 2114
+    },
+    {
+      "locale": "en",
+      "page": 2,
+      "width": 1080,
+      "height": 1909
+    },
+    {
+      "locale": "en",
+      "page": 3,
+      "width": 1080,
+      "height": 2144
+    },
+    {
+      "locale": "en",
+      "page": 4,
+      "width": 1080,
+      "height": 2193
+    },
+    {
+      "locale": "en",
+      "page": 5,
+      "width": 1080,
+      "height": 1901
+    },
+    {
+      "locale": "en",
+      "page": 6,
+      "width": 1080,
+      "height": 1974
+    }
+  ]
+}

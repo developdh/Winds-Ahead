@@ -406,6 +406,37 @@ if (
   const read = (name) =>
     JSON.parse(fs.readFileSync(path.join(root, "content", name), "utf8"));
   const media = read("media.json");
+  const magazine = z.object({ schemaVersion: z.literal(1), issues: z.array(z.object({
+    id: z.string().regex(/^issue-[0-9]+$/), number: z.string().regex(/^[0-9]+$/),
+    publishedAt: day, informationAsOf: day, dateTimezone: z.literal("America/New_York"), revision: z.number().int().positive(),
+    title: bilingual, subtitle: bilingual, shareArtPolicy: bilingual,
+    coverCosmeticId: z.string(), featuredCosmeticIds: z.array(z.string()).min(1), sourceIds: z.array(z.string()).min(1),
+    forecastSnapshot: z.object({id: z.string(), revision: z.number().int().positive(), start: day, end: day}),
+    corrections: z.array(z.object({date: day, body: bilingual})),
+    sections: z.array(z.object({id: z.string().regex(/^[a-z-]+$/), eyebrow: bilingual, title: bilingual, body: bilingual})).length(6),
+  }).strict()) }).strict().parse(read("magazine.json"));
+  unique(magazine.issues.map(i => i.id), "magazine issue ID");
+  const magazineCosmetics = new Set(read("research.json").cosmetics.map(c => c.id));
+  const magazineSources = new Set([...read("research.json").sources, ...read("global-events.json").sources].map(s => s.id));
+  for (const issue of magazine.issues) {
+    unique(issue.sections.map(s => s.id), "magazine section ID");
+    if (issue.informationAsOf > issue.publishedAt) throw new Error("Magazine snapshot cannot postdate publication");
+    for (const id of [issue.coverCosmeticId, ...issue.featuredCosmeticIds]) if (!magazineCosmetics.has(id)) throw new Error(`Unknown magazine appearance ${id}`);
+    for (const id of issue.sourceIds) if (!magazineSources.has(id)) throw new Error(`Unknown magazine source ${id}`);
+    const snapshot = issue.forecastSnapshot;
+    if (!read("forecasts.json").revisions.some(f => f.id === snapshot.id && f.revision === snapshot.revision && f.start === snapshot.start && f.end === snapshot.end)) throw new Error("Magazine forecast snapshot no longer matches preserved history");
+    const metrics = JSON.parse(fs.readFileSync(path.join(root, `public/magazine/${issue.id}/export-metrics.json`), "utf8"));
+    if (metrics.gameArtworkIncluded !== false) throw new Error("Unreviewed game artwork in magazine exports");
+    for (const locale of ["en", "ko"]) {
+      for (let n = 1; n <= 6; n++) {
+        const bytes = fs.readFileSync(path.join(root, `public/magazine/${issue.id}/${locale}/${String(n).padStart(2,"0")}.png`));
+        const record = metrics.pages.find(p => p.locale === locale && p.page === n);
+        if (bytes.subarray(0,8).toString("hex") !== "89504e470d0a1a0a" || bytes.readUInt32BE(16) !== 1080 || bytes.readUInt32BE(20) !== record?.height || record.height < 1350 || record.height > 3000 || bytes.length > 800000) throw new Error("Magazine share image dimensions or budget invalid");
+      }
+      if (!fs.existsSync(path.join(root, `public/magazine/${issue.id}/${locale}/${issue.id}-${locale}.zip`))) throw new Error("Missing magazine download bundle");
+    }
+  }
+  console.log(`${magazine.issues.length} magazine issue(s), bilingual exports and forecast snapshots validated.`);
   console.log(validateDeadlines(read("research.json"), read("global-events.json"), read("deadlines.json")));
   console.log(validateRegional(read("research.json"), read("global-events.json"), read("regional-records.json")));
   console.log(
