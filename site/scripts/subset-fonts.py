@@ -11,7 +11,7 @@ import hashlib,re
 import json
 root=Path(__file__).resolve().parent.parent
 text=''.join(chr(i) for i in range(32,127))+'燕雲鏡연운경'
-for folder in ['app','components','lib','content']:
+for folder in ['app','components','lib','content','scripts']:
  for p in (root/folder).rglob('*'):
   if p.suffix in {'.tsx','.ts','.mjs','.json'} and '/ui/' not in str(p):text+=p.read_text()
 for p in (root/'public/data/wiki').glob('*.json'):

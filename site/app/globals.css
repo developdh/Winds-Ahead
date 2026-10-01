@@ -3,14 +3,14 @@
 @import "../vendor/shadcn-tailwind-4.13.0.css";
 @font-face {
   font-family: WindsUI;
-  src: url("/fonts/winds-ui.woff2?v=180ccfbcdfa7") format("woff2");
+  src: url("/fonts/winds-ui.woff2?v=9e8b263202dd") format("woff2");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: WindsHeading;
-  src: url("/fonts/winds-heading.woff2?v=dece770c9c4f") format("woff2");
+  src: url("/fonts/winds-heading.woff2?v=2a777f7eb69c") format("woff2");
   font-weight: 500;
   font-style: normal;
   font-display: swap;
