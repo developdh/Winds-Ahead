@@ -50,3 +50,5 @@ Added the bilingual magazine archive, Issue 01, six mobile PNGs per language and
 Edition 2 replaces the active downloads with eight photo-led fashion pages per language, including every featured upcoming appearance and the forecast candidate. Lightweight WebP previews keep the article economical. See [v0.3.1](releases/0.3.1.md).
 
 Edition 3 removes subjective/editorial and participation copy, condensing the mobile issue to six photo pages with structured facts. The web article follows the same neutral style. See [v0.3.2](releases/0.3.2.md).
+
+Edition 4 adds a short Winds Ahead introduction as page 7, preserving the six factual pages and earlier editions. See [v0.3.3](releases/0.3.3.md).

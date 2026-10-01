@@ -68,6 +68,8 @@ Mobile uses a 24px content inset below the header, a 20px introduction-to-toolba
 
 ## Magazine · October 1, 2026
 
-Add Magazine as a third primary destination while retaining the compact top navigation. Editorial articles use selectable text, an in-page contents list and the established fonts; mobile pages use one column. The photo-led community edition uses six 1080px JPGs per language with large serif headlines, restrained prose, prominent photographs and content-dependent height. Preserve source/server/estimate labels in each relevant share image. Reserve image dimensions and load offscreen media lazily.
+Add Magazine as a third primary destination while retaining the compact top navigation. Editorial articles use selectable text, an in-page contents list and the established fonts; mobile pages use one column. The photo-led community edition uses seven 1080px JPGs per language with large serif headlines, restrained prose, prominent photographs and content-dependent height. Preserve source/server/estimate labels in each relevant share image. Reserve image dimensions and load offscreen media lazily.
 
 The user selected information-focused copy: remove editor letters, subjective descriptions and reader prompts. Pair the photographs with structured schedules, costs, acquisition and evidence labels.
+
+The user requested one final brand page: a concise factual description, the three destinations and a clearly readable website address. Preserve the information pages.
