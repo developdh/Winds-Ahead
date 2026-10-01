@@ -1,0 +1,11 @@
+{
+  "name": "winds-ahead-workspace",
+  "private": true,
+  "engines": {
+    "node": ">=22.13.0"
+  },
+  "scripts": {
+    "postinstall": "node scripts/install-deployment.mjs",
+    "build": "node scripts/build-deployment.mjs"
+  }
+}
