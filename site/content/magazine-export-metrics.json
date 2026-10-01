@@ -1,0 +1,224 @@
+{
+  "generatedFrom": "content/magazine.json",
+  "issueId": "issue-01",
+  "revision": 2,
+  "gameArtworkIncluded": true,
+  "photoReferences": [
+    {
+      "cosmeticId": "yan-juan-can-ye",
+      "index": 1,
+      "path": "/media/yan-juan-can-ye-1-full.webp",
+      "originalUrl": "https://nie.res.netease.com/r/pic/20251224/c62e909e-965d-4467-8de4-0ba7cc325599.jpg",
+      "server": "CN",
+      "permission": "unknown",
+      "sourceUrl": "https://www.yysls.cn/news/official/20251224/37780_1278303.html"
+    },
+    {
+      "cosmeticId": "da-dao-tong-ming",
+      "index": 0,
+      "path": "/media/da-dao-tong-ming-0-full.webp",
+      "originalUrl": "https://nie.res.netease.com/r/pic/20260206/25ae23d1-78be-44a2-b49b-931da14dbde8.jpg",
+      "server": "CN",
+      "permission": "unknown",
+      "sourceUrl": "https://www.yysls.cn/news/official/20260206/37780_1285878.html"
+    },
+    {
+      "cosmeticId": "yu-long-yan-wu",
+      "index": 0,
+      "path": "/media/yu-long-yan-wu-0-full.webp",
+      "originalUrl": "https://nie.res.netease.com/r/pic/20250911/0e666d14-9696-4f5f-ad5f-7b756d5e5fdb.jpg",
+      "server": "CN",
+      "permission": "unknown",
+      "sourceUrl": "https://www.yysls.cn/news/official/20250911/37780_1258911.html"
+    },
+    {
+      "cosmeticId": "ran-hua-qing-ye",
+      "index": 0,
+      "path": "/media/ran-hua-qing-ye-0-full.webp",
+      "originalUrl": "https://yysls.fp.ps.netease.com/file/6985cf5832f00a2389238cc65Sc1Tv9g07.mp4",
+      "server": "CN",
+      "permission": "unknown",
+      "sourceUrl": "https://www.yysls.cn/news/official/20260206/37780_1285878.html"
+    },
+    {
+      "cosmeticId": "lian-tai-he",
+      "index": 0,
+      "path": "/media/lian-tai-he-0-full.webp",
+      "originalUrl": "https://nie.res.netease.com/r/pic/20260703/dad6d47d-4ca0-41c9-bd3b-ba0492691537.jpg",
+      "server": "CN",
+      "permission": "unknown",
+      "sourceUrl": "https://www.yysls.cn/news/official/20260703/37780_1306509.html"
+    },
+    {
+      "cosmeticId": "lian-tai-he",
+      "index": 1,
+      "path": "/media/lian-tai-he-1-full.webp",
+      "originalUrl": "https://nie.res.netease.com/r/pic/20260703/4fb9fd3a-0744-4905-b840-61973dff0b02.jpg",
+      "server": "CN",
+      "permission": "unknown",
+      "sourceUrl": "https://www.yysls.cn/news/official/20260703/37780_1306509.html"
+    }
+  ],
+  "pages": [
+    {
+      "locale": "ko",
+      "page": 1,
+      "width": 1080,
+      "height": 1740,
+      "image": "/magazine/issue-01/edition-2/ko/01.jpg",
+      "preview": "/magazine/issue-01/edition-2/ko/01-preview.webp",
+      "bytes": 424800,
+      "previewBytes": 35882
+    },
+    {
+      "locale": "ko",
+      "page": 2,
+      "width": 1080,
+      "height": 2494,
+      "image": "/magazine/issue-01/edition-2/ko/02.jpg",
+      "preview": "/magazine/issue-01/edition-2/ko/02-preview.webp",
+      "bytes": 443983,
+      "previewBytes": 38796
+    },
+    {
+      "locale": "ko",
+      "page": 3,
+      "width": 1080,
+      "height": 2365,
+      "image": "/magazine/issue-01/edition-2/ko/03.jpg",
+      "preview": "/magazine/issue-01/edition-2/ko/03-preview.webp",
+      "bytes": 429732,
+      "previewBytes": 35874
+    },
+    {
+      "locale": "ko",
+      "page": 4,
+      "width": 1080,
+      "height": 2919,
+      "image": "/magazine/issue-01/edition-2/ko/04.jpg",
+      "preview": "/magazine/issue-01/edition-2/ko/04-preview.webp",
+      "bytes": 350474,
+      "previewBytes": 28772
+    },
+    {
+      "locale": "ko",
+      "page": 5,
+      "width": 1080,
+      "height": 2873,
+      "image": "/magazine/issue-01/edition-2/ko/05.jpg",
+      "preview": "/magazine/issue-01/edition-2/ko/05-preview.webp",
+      "bytes": 367574,
+      "previewBytes": 32404
+    },
+    {
+      "locale": "ko",
+      "page": 6,
+      "width": 1080,
+      "height": 2426,
+      "image": "/magazine/issue-01/edition-2/ko/06.jpg",
+      "preview": "/magazine/issue-01/edition-2/ko/06-preview.webp",
+      "bytes": 370901,
+      "previewBytes": 32968
+    },
+    {
+      "locale": "ko",
+      "page": 7,
+      "width": 1080,
+      "height": 2490,
+      "image": "/magazine/issue-01/edition-2/ko/07.jpg",
+      "preview": "/magazine/issue-01/edition-2/ko/07-preview.webp",
+      "bytes": 434807,
+      "previewBytes": 35540
+    },
+    {
+      "locale": "ko",
+      "page": 8,
+      "width": 1080,
+      "height": 2379,
+      "image": "/magazine/issue-01/edition-2/ko/08.jpg",
+      "preview": "/magazine/issue-01/edition-2/ko/08-preview.webp",
+      "bytes": 420382,
+      "previewBytes": 37788
+    },
+    {
+      "locale": "en",
+      "page": 1,
+      "width": 1080,
+      "height": 1740,
+      "image": "/magazine/issue-01/edition-2/en/01.jpg",
+      "preview": "/magazine/issue-01/edition-2/en/01-preview.webp",
+      "bytes": 435934,
+      "previewBytes": 36900
+    },
+    {
+      "locale": "en",
+      "page": 2,
+      "width": 1080,
+      "height": 2640,
+      "image": "/magazine/issue-01/edition-2/en/02.jpg",
+      "preview": "/magazine/issue-01/edition-2/en/02-preview.webp",
+      "bytes": 478498,
+      "previewBytes": 41962
+    },
+    {
+      "locale": "en",
+      "page": 3,
+      "width": 1080,
+      "height": 2400,
+      "image": "/magazine/issue-01/edition-2/en/03.jpg",
+      "preview": "/magazine/issue-01/edition-2/en/03-preview.webp",
+      "bytes": 458997,
+      "previewBytes": 38710
+    },
+    {
+      "locale": "en",
+      "page": 4,
+      "width": 1080,
+      "height": 2869,
+      "image": "/magazine/issue-01/edition-2/en/04.jpg",
+      "preview": "/magazine/issue-01/edition-2/en/04-preview.webp",
+      "bytes": 373200,
+      "previewBytes": 31146
+    },
+    {
+      "locale": "en",
+      "page": 5,
+      "width": 1080,
+      "height": 2843,
+      "image": "/magazine/issue-01/edition-2/en/05.jpg",
+      "preview": "/magazine/issue-01/edition-2/en/05-preview.webp",
+      "bytes": 380615,
+      "previewBytes": 34208
+    },
+    {
+      "locale": "en",
+      "page": 6,
+      "width": 1080,
+      "height": 2401,
+      "image": "/magazine/issue-01/edition-2/en/06.jpg",
+      "preview": "/magazine/issue-01/edition-2/en/06-preview.webp",
+      "bytes": 394859,
+      "previewBytes": 36030
+    },
+    {
+      "locale": "en",
+      "page": 7,
+      "width": 1080,
+      "height": 2464,
+      "image": "/magazine/issue-01/edition-2/en/07.jpg",
+      "preview": "/magazine/issue-01/edition-2/en/07-preview.webp",
+      "bytes": 448605,
+      "previewBytes": 38668
+    },
+    {
+      "locale": "en",
+      "page": 8,
+      "width": 1080,
+      "height": 2338,
+      "image": "/magazine/issue-01/edition-2/en/08.jpg",
+      "preview": "/magazine/issue-01/edition-2/en/08-preview.webp",
+      "bytes": 444815,
+      "previewBytes": 39530
+    }
+  ]
+}

@@ -2,6 +2,7 @@ import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { z } from "zod";
+import sharp from "sharp";
 import { isDay, isMonth } from "../lib/roadmap-domain.mjs";
 import { readWiki, validateWiki } from "./validate-wiki.mjs";
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
@@ -409,7 +410,7 @@ if (
   const magazine = z.object({ schemaVersion: z.literal(1), issues: z.array(z.object({
     id: z.string().regex(/^issue-[0-9]+$/), number: z.string().regex(/^[0-9]+$/),
     publishedAt: day, informationAsOf: day, dateTimezone: z.literal("America/New_York"), revision: z.number().int().positive(),
-    title: bilingual, subtitle: bilingual, shareArtPolicy: bilingual,
+    title: bilingual, subtitle: bilingual, shareArtPolicy: bilingual, sharePageCount: z.number().int().min(1).max(16),
     coverCosmeticId: z.string(), featuredCosmeticIds: z.array(z.string()).min(1), sourceIds: z.array(z.string()).min(1),
     forecastSnapshot: z.object({id: z.string(), revision: z.number().int().positive(), start: day, end: day}),
     corrections: z.array(z.object({date: day, body: bilingual})),
@@ -425,15 +426,24 @@ if (
     for (const id of issue.sourceIds) if (!magazineSources.has(id)) throw new Error(`Unknown magazine source ${id}`);
     const snapshot = issue.forecastSnapshot;
     if (!read("forecasts.json").revisions.some(f => f.id === snapshot.id && f.revision === snapshot.revision && f.start === snapshot.start && f.end === snapshot.end)) throw new Error("Magazine forecast snapshot no longer matches preserved history");
-    const metrics = JSON.parse(fs.readFileSync(path.join(root, `public/magazine/${issue.id}/export-metrics.json`), "utf8"));
-    if (metrics.gameArtworkIncluded !== false) throw new Error("Unreviewed game artwork in magazine exports");
+    const metrics = JSON.parse(fs.readFileSync(path.join(root, "content/magazine-export-metrics.json"), "utf8"));
+    if (metrics.issueId !== issue.id || metrics.revision !== issue.revision || metrics.gameArtworkIncluded !== true || metrics.pages.length !== issue.sharePageCount * 2) throw new Error("Magazine export revision or page count mismatch");
+    for (const photo of metrics.photoReferences) {
+      const original = media.find(m => m.cosmeticId === photo.cosmeticId && m.index === photo.index);
+      if (!original || original.full !== photo.path || original.originalUrl !== photo.originalUrl || original.permission !== photo.permission || photo.server !== "CN" || !fs.existsSync(path.join(root, "public", photo.path))) throw new Error("Magazine photo reference does not match preserved media evidence");
+    }
+    for (const id of [...issue.featuredCosmeticIds, read("forecasts.json").revisions.find(f => f.id === issue.forecastSnapshot.id && f.revision === issue.forecastSnapshot.revision).cosmeticId]) if (!metrics.photoReferences.some(p => p.cosmeticId === id)) throw new Error(`Missing featured magazine photograph ${id}`);
     for (const locale of ["en", "ko"]) {
-      for (let n = 1; n <= 6; n++) {
-        const bytes = fs.readFileSync(path.join(root, `public/magazine/${issue.id}/${locale}/${String(n).padStart(2,"0")}.png`));
+      unique(metrics.pages.filter(p => p.locale === locale).map(p => p.page), "magazine export page");
+      for (let n = 1; n <= issue.sharePageCount; n++) {
+        const base = `/magazine/${issue.id}/edition-${issue.revision}/${locale}/${String(n).padStart(2,"0")}`;
         const record = metrics.pages.find(p => p.locale === locale && p.page === n);
-        if (bytes.subarray(0,8).toString("hex") !== "89504e470d0a1a0a" || bytes.readUInt32BE(16) !== 1080 || bytes.readUInt32BE(20) !== record?.height || record.height < 1350 || record.height > 3000 || bytes.length > 800000) throw new Error("Magazine share image dimensions or budget invalid");
+        if (record?.image !== base + ".jpg" || record?.preview !== base + "-preview.webp") throw new Error("Magazine export path mismatch");
+        const file = path.join(root, "public", record.image), preview = path.join(root, "public", record.preview);
+        const meta = await sharp(file).metadata(), small = await sharp(preview).metadata();
+        if (meta.format !== "jpeg" || meta.width !== 1080 || meta.height !== record.height || record.height < 1350 || record.height > 3300 || fs.statSync(file).size !== record.bytes || record.bytes > 800000 || small.format !== "webp" || small.width !== 320 || Math.abs(small.height - record.height * 320 / 1080) > 1 || fs.statSync(preview).size !== record.previewBytes || record.previewBytes > 60000) throw new Error("Magazine share image dimensions or budget invalid");
       }
-      if (!fs.existsSync(path.join(root, `public/magazine/${issue.id}/${locale}/${issue.id}-${locale}.zip`))) throw new Error("Missing magazine download bundle");
+      if (!fs.existsSync(path.join(root, `public/magazine/${issue.id}/edition-${issue.revision}/${locale}/${issue.id}-${locale}.zip`))) throw new Error("Missing magazine download bundle");
     }
   }
   console.log(`${magazine.issues.length} magazine issue(s), bilingual exports and forecast snapshots validated.`);

@@ -1,0 +1,103 @@
+{
+  "browser": "Installed Chrome / Playwright",
+  "physicalDevice": false,
+  "results": [
+    {
+      "locale": "ko",
+      "width": 320,
+      "overflow": false,
+      "brokenLoadedImages": 0,
+      "downloadBytes": 3084964,
+      "nav": [
+        {
+          "text": "외관",
+          "x": 59,
+          "right": 90.71875
+        },
+        {
+          "text": "로드맵",
+          "x": 103.71875,
+          "right": 135.4375
+        },
+        {
+          "text": "매거진",
+          "x": 148.4375,
+          "right": 180.15625
+        }
+      ]
+    },
+    {
+      "locale": "ko",
+      "width": 390,
+      "overflow": false,
+      "brokenLoadedImages": 0,
+      "downloadBytes": 3084964,
+      "nav": [
+        {
+          "text": "외관",
+          "x": 68,
+          "right": 102.40625
+        },
+        {
+          "text": "로드맵",
+          "x": 119.40625,
+          "right": 153.8125
+        },
+        {
+          "text": "매거진",
+          "x": 170.8125,
+          "right": 205.21875
+        }
+      ]
+    },
+    {
+      "locale": "en",
+      "width": 360,
+      "overflow": false,
+      "brokenLoadedImages": 0,
+      "downloadBytes": 3246049,
+      "nav": [
+        {
+          "text": "Cosmetics",
+          "x": 59,
+          "right": 109.84375
+        },
+        {
+          "text": "Roadmap",
+          "x": 122.84375,
+          "right": 173.6875
+        },
+        {
+          "text": "Magazine",
+          "x": 186.6875,
+          "right": 237.53125
+        }
+      ]
+    },
+    {
+      "locale": "en",
+      "width": 1440,
+      "overflow": false,
+      "brokenLoadedImages": 0,
+      "downloadBytes": 3246049,
+      "nav": [
+        {
+          "text": "Cosmetics",
+          "x": 88,
+          "right": 147.59375
+        },
+        {
+          "text": "Roadmap",
+          "x": 175.59375,
+          "right": 229.28125
+        },
+        {
+          "text": "Magazine",
+          "x": 257.28125,
+          "right": 311.125
+        }
+      ]
+    }
+  ],
+  "errors": []
+}
