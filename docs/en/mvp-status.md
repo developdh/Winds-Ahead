@@ -42,3 +42,7 @@ Use a reviewable branch and English PR with paired English/Korean documentation.
 ## Verification limits
 
 Current update checks belong in [v0.2.12 notes](releases/0.2.12.md); earlier test counts are historical. Physical iOS/Android, Firefox/WebKit, 200% text enlargement, throttled-network performance and field Core Web Vitals still require separate coverage. The 200 KB initial JavaScript target remains unverified. The public issue tracker accepts corrections/removal requests; third-party artwork remains outside the code license with reuse permission unknown.
+
+## Magazine · October 1, 2026
+
+Added the bilingual magazine archive, Issue 01, six mobile PNGs per language and ZIP downloads. Primary navigation now includes Cosmetics, Roadmap and Magazine. Direct magazine links open in their explicit language without the first-visit language landing. See [magazine production](magazine.md) and [v0.3.0](releases/0.3.0.md) for validation and media limits.

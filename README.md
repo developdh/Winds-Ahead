@@ -97,3 +97,5 @@ Sites deployment opens the repository root. For that workflow, run `npm ci` and 
 Original application code and project-authored documentation use the **[MIT License](LICENSE)**. Game artwork, videos, trademarks, source excerpts, wiki adaptations, fonts and vendored code retain separate rights. Wiki-derived material retains CC BY-NC-SA 3.0; fonts and dependencies retain their notices. Unresolved media reuse permissions are recorded honestly.
 
 Read **[third-party notices](THIRD_PARTY_NOTICES.md)** before reusing content. The project's non-monetization policy adds no restrictions to the MIT code license. Winds Ahead is not affiliated with or endorsed by NetEase or Everstone Studio.
+
+Magazine: [all issues](https://windsahead.com/en/magazine) · [Issue 01](https://windsahead.com/en/magazine/issue-01) · [production policy](docs/en/magazine.md).

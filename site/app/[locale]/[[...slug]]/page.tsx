@@ -4,6 +4,7 @@ import { isLocale, LOCALE_COOKIE } from "@/lib/language-preference";
 import { notFound } from "next/navigation";
 import SiteApp from "@/components/site-app";
 import { findCosmetic, nameOf, pageNames, descriptions, type Locale, type View } from "@/lib/catalog";
+import { findIssue } from "@/lib/magazine";
 type Props = {
   params: Promise<{ locale: string; slug?: string[] }>;
   searchParams: Promise<Record<string, string | string[] | undefined>>;
@@ -18,9 +19,11 @@ function resolve(locale: string, slug: string[] = []) {
       view: "detail" as View,
       itemId: slug[1],
     };
+  if (slug.length === 2 && slug[0] === "magazine" && findIssue(slug[1]))
+    return { locale: locale as Locale, view: "magazine" as View, itemId: slug[1] };
   if (
     slug.length === 1 &&
-    ["calendar", "watchlist", "updates", "about"].includes(slug[0])
+    ["calendar", "watchlist", "updates", "about", "magazine"].includes(slug[0])
   )
     return { locale: locale as Locale, view: slug[0] as View };
   return null;
@@ -32,11 +35,12 @@ export async function generateMetadata({ params, searchParams }: Props) {
   const query = await searchParams;
   const selectedId = route.itemId ?? (["catalog", "calendar", "watchlist"].includes(route.view) && typeof query.item === "string" ? query.item : undefined);
   const item = selectedId ? findCosmetic(selectedId) : undefined;
-  const title = item
+  const issue = route.view === "magazine" ? findIssue(route.itemId) : undefined;
+  const title = issue ? `ISSUE ${issue.number} · ${issue.title[route.locale]}` : item
     ? nameOf(item, route.locale)
     : pageNames[route.view as keyof typeof pageNames]?.[route.locale];
   const canonical = item ? `/${locale}/cosmetics/${item.id}` : `/${locale}${slug?.length ? "/" + slug.join("/") : ""}`;
-  const description = item ? descriptions[item.id][route.locale] : locale === "ko"
+  const description = issue ? issue.subtitle[route.locale] : item ? descriptions[item.id][route.locale] : locale === "ko"
     ? "연운 중국·글로벌 외관, 획득 정보와 출시 일정. 공식 발표와 운영자 예상을 구분해 확인하세요."
     : "Where Winds Meet cosmetics, acquisition details and release schedules. Official announcements and editorial estimates stay separate.";
   return {
@@ -60,7 +64,7 @@ export default async function Page({ params, searchParams }: Props) {
   const jar = await cookies();
   const query = await searchParams;
   const hasPreference =
-    isLocale(jar.get(LOCALE_COOKIE)?.value) || query.entry === locale;
+    route.view === "magazine" || isLocale(jar.get(LOCALE_COOKIE)?.value) || query.entry === locale;
   return (
     <PreferenceGate
       hasPreference={hasPreference}

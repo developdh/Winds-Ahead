@@ -116,6 +116,7 @@ export const pageNames = {
   catalog: { en: "Cosmetic archive", ko: "외관 도감" },
   calendar: { en: "Release roadmap", ko: "출시 로드맵" },
   watchlist: { en: "Your watchlist", ko: "관심 외관" },
+  magazine: { en: "Magazine", ko: "매거진" },
   updates: { en: "Archive updates", ko: "업데이트" },
   about: { en: "About this archive", ko: "연운경 소개" },
 };

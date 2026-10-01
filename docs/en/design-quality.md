@@ -65,3 +65,7 @@ The header uses the single character 鏡 as its home mark at every width, with a
 Keep the mark and primary navigation in one compact group, without adding both a header gap and a navigation offset. The language control has centered text and a full 44×44 hover/focus surface. Category changes restart the card arrival for the complete resulting grid, including cosmetics shared with the previous category.
 
 Mobile uses a 24px content inset below the header, a 20px introduction-to-toolbar gap, and a 4px gap between search and category controls. Search and primary controls retain their touch areas. At a 390px viewport, this brings the first catalog image from approximately 408px to 333px below the top; desktop spacing is unchanged.
+
+## Magazine · October 1, 2026
+
+Add Magazine as a third primary destination while retaining the compact top navigation. Editorial articles use selectable text, an in-page contents list and the established fonts; mobile pages use one column. Community PNGs use 1080px width and content-dependent height with large text. Preserve source/server/estimate labels in each relevant share image. Reserve image dimensions and load offscreen media lazily.

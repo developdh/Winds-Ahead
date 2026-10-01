@@ -74,6 +74,7 @@ import {
   type View,
 } from "@/lib/catalog";
 const Roadmap = lazy(() => import("@/components/roadmap"));
+const Magazine = lazy(() => import("@/components/magazine"));
 const WikiDetails = lazy(() => import("@/components/wiki-details"));
 const STORE = "winds-ahead:watchlist:v1";
 const knownIds = new Set(cosmetics.map((c) => c.id));
@@ -288,6 +289,7 @@ export default function SiteApp({
             [
               ["catalog", "", Compass],
               ["calendar", "calendar", CalendarDays],
+              ["magazine", "magazine", Compass],
             ] as const
           ).map(([v, slug, Icon]) => (
             <Link
@@ -302,7 +304,7 @@ export default function SiteApp({
             >
               {v === "catalog"
                 ? t("Cosmetics", "외관")
-                : t("Roadmap", "로드맵")}
+                : v === "calendar" ? t("Roadmap", "로드맵") : t("Magazine", "매거진")}
             </Link>
           ))}
         </nav>
@@ -351,6 +353,7 @@ export default function SiteApp({
             <Roadmap now={now} l={l} onCosmeticClick={quickView.show} />
           </Suspense>
         )}
+        {view === "magazine" && <Suspense fallback={<div className="empty-state" role="status">{t("Loading magazine…", "매거진을 불러오고 있습니다…")}</div>}><Magazine l={l} issueId={itemId}/></Suspense>}
         {view === "updates" && <Updates l={l} />}
         {view === "about" && <About l={l} />}
       </main>
