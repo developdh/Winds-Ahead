@@ -20,16 +20,16 @@ Free to browse. No sign-in required. Available on desktop and mobile.
 
 - **Find an appearance.** Search English/Korean names, Chinese originals and aliases. Filter outfits, hair, weapons, effects, accessories and mounts; combine acquisition-source filters (Shop, Battle Pass, draws and more) with regional release sorting.
 - **Compare without leaving the list.** Open details in a popup, browse large photos, and check currencies, amounts, acquisition locations and outfit components.
-- **See what is coming.** Official announcements and editorial forecasts have distinct labels. Explore a roadmap or monthly calendar; unknown dates stay unknown.
+- **See what is coming.** Schedules use official announcements and verified release records. Explore a roadmap or monthly calendar; unknown dates stay unknown.
 - **Save and share.** Keep a browser-local watchlist and share individual cosmetics by link. Your language choice is remembered. Effect videos load when you press play.
 
 **720 appearance records · 785 photos across 467 appearances · 395 wiki references**
 
-The archive is still growing. Some images, official translations and release dates are missing; these counts do not establish complete in-game coverage. Forecasts are unofficial and may change.
+The archive is still growing. Some images, official translations and release dates are missing; these counts do not establish complete in-game coverage.
 
 ## What matters to us
 
-**Trustworthy information.** China and Global facts remain separate from each other and from editorial forecasts. Original sources and unresolved details stay visible.
+**Trustworthy information.** China and Global facts remain separate. Unannounced schedules stay unknown. Original sources and unresolved details stay visible.
 
 **Rich information, simple use.** Clear photos, readable details and fewer page changes help people compare appearances. Mobile usability and loading speed remain priorities.
 
@@ -39,7 +39,7 @@ The archive is still growing. Some images, official translations and release dat
 
 Source links, missing appearances, translations, name or price corrections, accessibility improvements and code contributions are all welcome.
 
-Start with the **[contribution guide](CONTRIBUTING.md)** or **[open an issue](https://github.com/developdh/Winds-Ahead/issues/new/choose)**. PR titles and descriptions use English; the app and documentation support English and Korean. Preserve forecast history and link original evidence.
+Start with the **[contribution guide](CONTRIBUTING.md)** or **[open an issue](https://github.com/developdh/Winds-Ahead/issues/new/choose)**. PR titles and descriptions use English; the app and documentation support English and Korean. Link original evidence; previous forecasts remain archived for audit only.
 
 [Security reporting](SECURITY.md) · [Code of conduct](CODE_OF_CONDUCT.md) · [Latest release review](docs/en/public-launch.md)
 
@@ -82,7 +82,7 @@ Sites deployment opens the repository root. For that workflow, run `npm ci` and 
 | Path | Purpose |
 | --- | --- |
 | `site/app/`, `site/components/` | Routes and interface |
-| `site/content/` | Regional records, sources, media index, bilingual copy and forecast history |
+| `site/content/` | Regional records, sources, media index, bilingual copy and archived forecast history |
 | `site/public/data/wiki/` | Attributed composition references, loaded on demand |
 | `site/scripts/`, `site/tests/` | Import, content checks and regression tests |
 | `docs/en/`, `docs/ko/` | Paired product, maintenance and release documentation |

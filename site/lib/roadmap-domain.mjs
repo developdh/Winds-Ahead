@@ -56,30 +56,10 @@ export function cleanWatchlist(value, ids) {
   ];
 }
 
-// Both schedule views use this complete, current list, independent of the
-// calendar's selected month. Never turn a broad window into an exact day.
-export function currentForecasts(events, revisions, today, releasedIds = []) {
-  const known = new Set([...releasedIds, ...events.filter(e => e.status !== 'cancelled' && e.kind === 'release').map(e => e.cosmeticId)]);
-  return latestRevisions(revisions)
-    .filter(f => f.state === 'active' && !known.has(f.cosmeticId) && !forecastEnded(f, today))
-    .sort((a, b) => forecastSortDate(a).localeCompare(forecastSortDate(b)) || a.id.localeCompare(b.id));
-}
-function forecastSortDate(f) {
-  return f.precision === 'window' ? f.start : f.precision === 'month' ? `${f.month}-01` : '9999-12-31';
-}
-
-// Review deadlines flag estimates for attention; only elapsed windows expire them.
-// Official releases override editorial forecasts, including announcements that have
-// left the upcoming view. Past records and forecast history remain unchanged.
+// Historical revisions remain stored for audit; public schedules use official events only.
 export function upcomingEntries(events, revisions, today, kind = 'all', releasedIds = []) {
-  const official = events.filter(e => e.status !== 'cancelled');
-  const entries = kind === 'forecast' ? [] : official
+  return events.filter(e => e.status !== 'cancelled')
     .filter(e => e.date > today || (e.date === today && e.status === 'announced'))
-    .map(event => ({ kind: 'official', date: event.date, event }));
-  if (kind !== 'official') for (const forecast of currentForecasts(events, revisions, today, releasedIds)) {
-    entries.push({ kind: 'forecast', date: forecastSortDate(forecast), forecast });
-  }
-  // A forecast window can start before a confirmed day without taking priority.
-  // Keep all official dates first, then order each group chronologically.
-  return entries.sort((a, b) => (a.kind === b.kind ? 0 : a.kind === 'official' ? -1 : 1) || a.date.localeCompare(b.date) || (a.event?.id ?? a.forecast.id).localeCompare(b.event?.id ?? b.forecast.id));
+    .map(event => ({ kind: 'official', date: event.date, event }))
+    .sort((a, b) => a.date.localeCompare(b.date) || a.event.id.localeCompare(b.event.id));
 }

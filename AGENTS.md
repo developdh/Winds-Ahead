@@ -12,8 +12,8 @@
 - Prefer female-character artwork for cosmetic previews when a verified, usable female view exists. Prefer a clean individual image or a deliberate character crop over a framed multi-panel poster. Use another view when no female version is available or it obscures the item's defining features; keep full artwork accessible.
 - Use GitHub at meaningful milestones as requested by the user; preserve reviewable branches, source references, and honest validation notes. Do not enable automatic merging unless requested.
 - Publish a GitHub release for every completed update, starting with `v0.1.0`, including code, content and documentation updates. Treat related commits as one update; do not release unfinished work or unchanged checks. Follow `docs/en/releasing.md`, keep package/lockfile versions aligned, and write English/Korean release notes.
-- Keep China-server facts, global-server facts, and editorial forecasts separate. Do not invent dates, official names, prices, media, or verification claims.
-- Preserve history when forecasts change. Unknown values stay unknown; timezones and date precision must remain explicit.
+- Keep China-server facts and global-server facts separate. Editorial release forecasting was discontinued at the user’s request on October 2, 2026; do not create, revise, reactivate or display estimates. Unannounced schedules remain unknown. Do not invent dates, official names, prices, media, or verification claims.
+- Preserve previous forecast and withdrawal history for audit only. Unknown values stay unknown; timezones and date precision must remain explicit.
 - Refer to `docs/en/product-plan.md`, `docs/en/content-model.md`, and `docs/en/delivery-plan.md` for the proposed scope. These are revisable proposals where not marked as user requirements.
 - Never commit credentials or treat media attribution as blanket permission to redistribute it.
 
@@ -29,7 +29,7 @@
 - 외관 미리보기는 확인된 여성 외형 사진이 있으면 여성 캐릭터를 우선합니다. 테두리가 있는 합성 포스터보다 개별 사진이나 인물 중심으로 자른 구도를 우선하며, 여성 이미지가 없거나 외관의 특징을 확인하기 어려울 때만 다른 구도를 사용합니다. 전체 이미지는 별도로 볼 수 있게 유지합니다.
 - 사용자 요청에 따라 의미 있는 완료 지점에 GitHub를 갱신하고, 리뷰 가능한 브랜치·출처·실제 검증 내용을 남깁니다. 요청 없이 자동 병합을 켜지 않습니다.
 - 최초 `v0.1.0`부터 코드·콘텐츠·문서의 업데이트를 완료할 때마다 GitHub 릴리스를 발행합니다. 관련 커밋은 한 업데이트로 묶고 미완료 작업이나 변경 없는 점검에는 릴리스를 만들지 않습니다. `docs/ko/releasing.md`에 따라 패키지·잠금 파일 버전을 맞추고 영어·한국어 릴리스 노트를 작성합니다.
-- 중국 사실·글로벌 사실·운영자 예상을 분리합니다. 날짜·공식명·가격·미디어·확인 결과를 지어내지 않습니다.
-- 예상 변경 이력을 보존하고 모르는 값은 미정으로 둡니다. 시간대와 날짜 정밀도를 명시합니다.
+- 중국 사실·글로벌 사실을 분리합니다. 2026년 10월 2일 사용자 요청으로 운영자 출시 예상을 중단했습니다. 예상 생성·수정·재활성화·표시를 하지 않으며 미발표 일정은 미정으로 유지합니다. 날짜·공식명·가격·미디어·확인 결과를 지어내지 않습니다.
+- 이전 예상과 철회 이력은 감사용으로 보존하고 모르는 값은 미정으로 둡니다. 시간대와 날짜 정밀도를 명시합니다.
 - 제안 범위는 `docs/ko/product-plan.md`, `docs/ko/content-model.md`, `docs/ko/delivery-plan.md`를 참고합니다. 사용자 요구로 표시되지 않은 제안은 조정할 수 있습니다.
 - 인증 정보를 커밋하거나 출처 표기만으로 미디어 재배포 권한을 가정하지 않습니다.

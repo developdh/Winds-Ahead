@@ -27,4 +27,4 @@ body:
     id: sources
     attributes:
       label: Source links and scope · 근거 링크와 범위
-      description: Prefer official sources; distinguish announcement, release and forecast. 공식 근거를 우선하고 예정·출시·예상을 구분해주세요.
+      description: Prefer official sources; distinguish announcement and verified release. 공식 근거를 우선하고 예고·확인된 출시를 구분해주세요.

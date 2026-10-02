@@ -7,13 +7,10 @@ import {
   CalendarDays,
   ChevronLeft,
   ChevronRight,
-  History,
   Info,
-  ShieldCheck,
-  Sparkles,
 } from "lucide-react";
 import { Tabs, TabsList, TabsTrigger } from "@/components/ui/tabs";
-import ReleaseTimeline, { ScheduleEvidence, forecastWindow } from "@/components/release-timeline";
+import ReleaseTimeline from "@/components/release-timeline";
 import type { CosmeticClickHandler } from "@/components/use-quick-view";
 import { regionalRecords } from "@/lib/regional-status";
 import {
@@ -26,16 +23,10 @@ import {
 } from "@/lib/catalog";
 import {
   cnEvents,
-  forecasts,
   globalEvents,
-  sources,
   scheduleReviewedAt,
-  type Forecast,
 } from "@/lib/roadmap";
 import {
-  forecastDue,
-  forecastEnded,
-  currentForecasts,
   isMonth,
   monthGrid,
   shiftMonth,
@@ -52,7 +43,6 @@ export default function Roadmap({ l, now, onCosmeticClick }: { l: Locale; now: n
   );
   const viewFromUrl = () => params.get("view") === "calendar" || (!params.get("view") && params.has("month")) ? "calendar" : "timeline";
   const [view, setView] = useState(viewFromUrl);
-  const [kind, setKind] = useState(params.get("kind") === "official" ? "official" : params.get("server") !== "cn" && params.get("kind") === "forecast" ? "forecast" : "all");
   const [server, setServer] = useState(
     params.get("server") === "cn" ? "cn" : "global",
   );
@@ -61,30 +51,26 @@ export default function Roadmap({ l, now, onCosmeticClick }: { l: Locale; now: n
       isMonth(params.get("month")) ? params.get("month")! : currentMonth,
     );
     setView(params.get("view") === "calendar" || (!params.get("view") && params.has("month")) ? "calendar" : "timeline");
-    setKind(params.get("kind") === "official" ? "official" : params.get("server") !== "cn" && params.get("kind") === "forecast" ? "forecast" : "all");
     setServer(params.get("server") === "cn" ? "cn" : "global");
   }, [params, currentMonth]);
   function update(values: Record<string, string>) {
     const p = new URLSearchParams(location.search);
+    p.delete("kind");
     Object.entries(values).forEach(([k, v]) => (v ? p.set(k, v) : p.delete(k)));
     history.replaceState(null, "", `${location.pathname}?${p}`);
     if ("view" in values) setView(values.view);
-    if ("kind" in values) setKind(values.kind || "all");
     if ("month" in values) setMonth(values.month);
     if ("server" in values) setServer(values.server);
   }
   const events = (server === "cn" ? cnEvents : globalEvents).filter((e) =>
-    e.date.startsWith(month) && kind !== "forecast",
+    e.date.startsWith(month),
   ).sort((a, b) => a.date.localeCompare(b.date));
   const releasedIds = regionalRecords.filter(r => r.server === (server === "cn" ? "CN" : "Global") && r.status === "released").map(r => r.cosmeticId);
-  const active = currentForecasts(globalEvents, forecasts, today, regionalRecords.filter(r => r.server === "Global" && r.status === "released").map(r => r.cosmeticId)) as Forecast[];
-  const estimates = server === "global" && kind !== "official" ? active : [];
   const unscheduled = cosmetics.filter((c) =>
     server === "global"
       ? !releasedIds.includes(c.id) && !globalEvents.some(
           (e) => e.cosmeticId === c.id && e.status !== "cancelled",
-        ) &&
-        !active.some((f) => f.cosmeticId === c.id && !forecastEnded(f, today))
+        )
       : !c.cnRelease.date,
   );
   const title = new Intl.DateTimeFormat(l === "ko" ? "ko-KR" : "en-US", {
@@ -97,52 +83,6 @@ export default function Roadmap({ l, now, onCosmeticClick }: { l: Locale; now: n
       ? ["일", "월", "화", "수", "목", "금", "토"]
       : ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
   const grid = useMemo(() => monthGrid(month), [month]);
-  function Estimate({ f }: { f: Forecast }) {
-    const c = findCosmetic(f.cosmeticId)!;
-    const stale = forecastDue(f, today) || forecastEnded(f, today);
-    return (
-      <article className="estimate">
-        <div>
-          <Sparkles size={17} />
-          <span className="badge forecast">
-            {t("Estimated", "예상")} ·{" "}
-            {f.evidenceLevel === "supported"
-              ? t("Supported", "근거 충분")
-              : t("Limited evidence", "근거 제한적")}
-          </span>
-          {stale && (
-            <span className="badge">{t("Review due", "재검토 필요")}</span>
-          )}
-        </div>
-        <h3>
-          <Link href={`/${l}/cosmetics/${c.id}`} onClick={event => onCosmeticClick(event, c.id)} prefetch={false} aria-haspopup="dialog">{nameOf(c, l)}</Link>
-        </h3>
-        <p className="estimate-window">
-          {forecastWindow(f, l)}
-        </p>
-        <p>{f.rationale[l]}</p>
-        <details>
-          <summary>{t("Assumptions & evidence", "가정과 근거")}</summary>
-          <p>{f.assumptions[l]}</p>
-          <ul>
-            {f.sourceIds.map((id) => {
-              const s = sources.find((s) => s.id === id)!;
-              return (
-                <li key={id}>
-                  <a href={s.url} target="_blank" rel="noreferrer">
-                    {s.titleOriginal}
-                  </a>
-                </li>
-              );
-            })}
-          </ul>
-          <small>
-            {t("Review due", "재검토일")} {formatDay(f.reviewDue, l)}
-          </small>
-        </details>
-      </article>
-    );
-  }
   return (
     <>
       <div className="page-heading">
@@ -151,13 +91,13 @@ export default function Roadmap({ l, now, onCosmeticClick }: { l: Locale; now: n
           <h1>{t("What’s next.", "다음에 만날 외관.")}</h1>
           <p className="intro">
             {t(
-              "Release dates. Estimates. All in one place.",
-              "중국 출시 기록부터 글로벌 예상 일정까지.",
+              "Official release schedules. All in one place.",
+              "중국 출시 기록부터 글로벌 공식 일정까지.",
             )}
           </p>
         </div>
         <Link className="text-link" href={`/${l}/about`}>
-          {t("How forecasts work", "예상 기준 보기")}
+          {t("How sources are checked", "정보 확인 기준")}
           <ArrowUpRight size={17} />
         </Link>
       </div>
@@ -168,7 +108,7 @@ export default function Roadmap({ l, now, onCosmeticClick }: { l: Locale; now: n
             <TabsTrigger value="calendar">{t("Calendar", "캘린더")}</TabsTrigger>
           </TabsList>
         </Tabs>
-        <Tabs value={server} onValueChange={(v) => update({ server: v, kind: "all" })}>
+        <Tabs value={server} onValueChange={(v) => update({ server: v })}>
           <TabsList className="server-tabs" aria-label={t("Server", "서버")}>
             <TabsTrigger value="global">{t("Global", "글로벌")}</TabsTrigger>
             <TabsTrigger value="cn">{t("China", "중국")}</TabsTrigger>
@@ -176,13 +116,6 @@ export default function Roadmap({ l, now, onCosmeticClick }: { l: Locale; now: n
         </Tabs>
       </div>
       <div className="schedule-filter-line">
-        <Tabs value={kind} onValueChange={v => update({ kind: v })}>
-          <TabsList className="schedule-kind-tabs" aria-label={t("Schedule type", "일정 종류")}>
-            <TabsTrigger value="all">{t("All", "전체")}</TabsTrigger>
-            <TabsTrigger value="official">{t("Official", "확정 일정")}</TabsTrigger>
-            {server === "global" && <TabsTrigger value="forecast">{t("Estimated", "예상 일정")}</TabsTrigger>}
-          </TabsList>
-        </Tabs>
         <span className="schedule-reviewed">{t("Source review", "출처 확인")} · {scheduleReviewedAt}</span>
       </div>
       <div className="calendar-note">
@@ -190,8 +123,8 @@ export default function Roadmap({ l, now, onCosmeticClick }: { l: Locale; now: n
         <p>
           {server === "global"
             ? t(
-                "Verified global dates and evidence-based estimates. Unknown dates stay open.",
-                "확인된 공식 날짜와 근거가 있는 예상만 표시합니다. 모르는 일정은 미정으로 남깁니다.",
+                "Official Global announcements and verified releases. Unknown dates stay open.",
+                "글로벌 공식 예고와 확인된 출시 기록을 표시합니다. 모르는 일정은 미정으로 남깁니다.",
               )
             : t(
                 "Historical CN release dates. A date here does not mean an item is currently on sale.",
@@ -199,8 +132,8 @@ export default function Roadmap({ l, now, onCosmeticClick }: { l: Locale; now: n
               )}
         </p>
       </div>
-      {kind !== "forecast" && <EndingSoon server={server === "cn" ? "CN" : "Global"} l={l} now={now} onCosmeticClick={onCosmeticClick}/>}
-      {view === "timeline" ? <ReleaseTimeline l={l} events={server === "cn" ? cnEvents : globalEvents} forecasts={server === "global" ? forecasts : []} today={today} kind={kind} releasedIds={releasedIds} onCosmeticClick={onCosmeticClick}/> : <>
+      <EndingSoon server={server === "cn" ? "CN" : "Global"} l={l} now={now} onCosmeticClick={onCosmeticClick}/>
+      {view === "timeline" ? <ReleaseTimeline l={l} events={server === "cn" ? cnEvents : globalEvents} today={today} onCosmeticClick={onCosmeticClick}/> : <>
       <section
         className="calendar-panel"
         aria-label={t("Release calendar", "출시 캘린더")}
@@ -249,7 +182,7 @@ export default function Roadmap({ l, now, onCosmeticClick }: { l: Locale; now: n
             </label>
           </div>
         </div>
-        {kind !== "forecast" && <div
+        <div
           className={`calendar-grid ${!events.length ? "empty-calendar" : ""}`}
         >
           <div className="weekdays">
@@ -294,7 +227,7 @@ export default function Roadmap({ l, now, onCosmeticClick }: { l: Locale; now: n
             ))}
           </div>
         </div>
-        }<div className="calendar-agenda">
+        <div className="calendar-agenda">
           {events.map((e) => {
             const c = findCosmetic(e.cosmeticId)!;
             return (
@@ -319,7 +252,7 @@ export default function Roadmap({ l, now, onCosmeticClick }: { l: Locale; now: n
             );
           })}
         </div>
-        {!events.length && kind !== "forecast" && (
+        {!events.length && (
           <div className="calendar-empty">
             <CalendarDays size={24} />
             <p>
@@ -332,7 +265,7 @@ export default function Roadmap({ l, now, onCosmeticClick }: { l: Locale; now: n
               <button
                 className="text-link"
                 onClick={() =>
-                  update({ month: latestCnMonth, kind: "all", saved: "" })
+                  update({ month: latestCnMonth, kind: "", saved: "" })
                 }
               >
                 {t(
@@ -349,7 +282,7 @@ export default function Roadmap({ l, now, onCosmeticClick }: { l: Locale; now: n
                   update({
                     server: "cn",
                     month: latestCnMonth,
-                    kind: "all",
+                    kind: "",
                     saved: "",
                   })
                 }
@@ -367,40 +300,11 @@ export default function Roadmap({ l, now, onCosmeticClick }: { l: Locale; now: n
               {t("Official date", "공식 날짜")}
             </span>
             <span>
-              <span className="legend-line" />
-              {t(
-                "Estimates are shown as windows below",
-                "예상은 아래에서 기간 단위로 표시",
-              )}
-            </span>
-            <span>
               {events.length} {t("dated entries", "날짜 기록")}
             </span>
           </div>
         )}
       </section>
-      {server === "global" &&
-        estimates.length > 0 && (
-          <section className="forecast-section" aria-label={t("Estimated windows", "예상 기간")}>
-            <div className="catalog-heading">
-              <h2>
-                <Sparkles size={20} />
-                {t("Estimated windows", "예상 기간")}
-                <span className="result-count">{estimates.length}</span>
-              </h2>
-              <span>
-                {t("Editorial · Not official", "운영자 예상 · 비공식")}
-              </span>
-            </div>
-            <p className="forecast-list-note">{t("All current estimates from the roadmap, including windows beyond the selected month.", "선택한 달 이후의 기간을 포함해 로드맵의 유효한 예상을 모두 표시합니다.")}</p>
-              <div className="estimate-grid">
-                {estimates.map((f) => (
-                  <Estimate key={f.id} f={f} />
-                ))}
-              </div>
-          </section>
-        )}
-      {kind === "forecast" && !estimates.length && <p className="timeline-empty">{t("No current estimates.", "현재 유효한 예상 일정이 없습니다.")}</p>}
       </>}
       <section className="unscheduled-section">
         <div className="catalog-heading">
@@ -437,8 +341,8 @@ export default function Roadmap({ l, now, onCosmeticClick }: { l: Locale; now: n
         ) : (
           <p className="small-muted">
             {t(
-              "Every recorded cosmetic has a date or an estimate.",
-              "등록된 모든 외관에 날짜 또는 예상 기간이 있습니다.",
+              "Every recorded cosmetic has a release record or official announcement.",
+              "등록된 모든 외관에 출시 기록 또는 공식 예고가 있습니다.",
             )}
           </p>
         )}
@@ -446,37 +350,6 @@ export default function Roadmap({ l, now, onCosmeticClick }: { l: Locale; now: n
           {t("Browse all appearances in the archive", "도감에서 모든 외관 보기")}<ArrowUpRight size={16}/>
         </Link>}
       </section>
-      {server === "global" && forecasts.length > 0 && (
-        <section className="forecast-history">
-          <h2>
-            <History size={19} />
-            {t("Forecast revision history", "예상 변경 이력")}
-          </h2>
-          {[...forecasts].reverse().map((f) => (
-            <details key={`${f.id}-${f.revision}`}>
-              <summary>
-                {nameOf(findCosmetic(f.cosmeticId)!, l)} · v{f.revision} ·{" "}
-                {f.createdAt.slice(0, 10)}
-              </summary>
-              <p>{forecastWindow(f, l)} · {t("Review by", "재검토일")} {formatDay(f.reviewDue, l)}</p>
-              <p>{f.reason[l]}</p>
-              <p>{f.rationale[l]}</p>
-              <p>{f.assumptions[l]}</p>
-              <ScheduleEvidence ids={f.sourceIds} l={l}/>
-              <small>
-                {f.state === "active"
-                  ? t("Active at this revision", "이 변경 시점에 유효")
-                  : f.state === "withdrawn"
-                    ? t("Withdrawn", "철회")
-                    : t(
-                        "Superseded by official information",
-                        "공식 정보로 대체",
-                      )}
-              </small>
-            </details>
-          ))}
-        </section>
-      )}
     </>
   );
 }

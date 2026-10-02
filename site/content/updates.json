@@ -2,6 +2,26 @@
   "schemaVersion": 1,
   "entries": [
     {
+      "id": "official-schedules-only-20261002",
+      "date": "2026-10-02",
+      "kind": {
+        "en": "Schedule policy",
+        "ko": "일정 운영 정책"
+      },
+      "title": {
+        "en": "Official schedules only",
+        "ko": "공식 일정만 안내합니다"
+      },
+      "body": {
+        "en": "Removed editorial release estimates from the archive, roadmap, calendar and magazine. Unannounced dates remain unknown. Official announcements, verified releases, acquisition, costs and reference photos remain available. Magazine issue 01 edition 5 contains six share pages per language. Earlier estimates are withdrawn and archived for audit. Older update entries below describe historical behavior.",
+        "ko": "도감·로드맵·캘린더·매거진에서 운영자 출시 예상을 제거했습니다. 미발표 일정은 미정으로 남기며 공식 예고·확인된 출시·획득처·가격·참고사진은 유지합니다. 매거진 창간호 수정판 5는 언어별 공유 이미지 6장입니다. 이전 예상은 철회해 감사용으로 보존합니다. 아래 이전 업데이트 내용은 당시 동작을 기록한 것입니다."
+      },
+      "sourceIds": [
+        "global-20260930-october-appearances-en",
+        "global-20260930-october-appearances-ko"
+      ]
+    },
+    {
       "id": "magazine-debut-20261001",
       "date": "2026-10-01",
       "kind": {

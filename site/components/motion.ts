@@ -24,7 +24,7 @@ export function useScrollReveals(path: string) {
     const register = () => {
       root
         .querySelectorAll(
-          ".source-panel,.facts,.roadmap-banner,.forecast-section,.unscheduled-section,.update-entry,.video-panel",
+          ".source-panel,.facts,.roadmap-banner,.unscheduled-section,.update-entry,.video-panel",
         )
         .forEach((el) => {
           if (watched.has(el)) return;

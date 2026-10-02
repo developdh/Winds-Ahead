@@ -12,7 +12,7 @@ Write PR titles and descriptions in English; comments and issue reports can be E
 
 ## Evidence comes first
 
-Provide a public source URL, source server, cosmetic identity, the relevant excerpt and the date checked. Official CN evidence cannot establish Global availability. Announced, released, awaiting verification and editorial forecast are distinct states. Unknown dates, quantities, time zones and official names stay unknown. Preserve forecast revisions instead of overwriting them.
+Provide a public source URL, source server, cosmetic identity, the relevant excerpt and the date checked. Official CN evidence cannot establish Global availability. Announced, released and awaiting verification are distinct states. Unknown dates, quantities, time zones and official names stay unknown. Do not create release forecasts. Preserve archived revisions for audit.
 
 For images, include an exact source-page match, original URL, server, dimensions, depiction type and reuse terms. Keep source originals outside the repository. Only bounded static WebP derivatives belong in `site/public/media/`; index them in `site/content/media.json`. Do not add autoplay, bulk videos, unverified assets or a license inferred from attribution. Rights holders can request a correction or removal through the content issue form without disclosing private identity documents.
 

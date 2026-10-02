@@ -7,20 +7,14 @@
       "publishedAt": "2026-10-01",
       "dateTimezone": "America/New_York",
       "informationAsOf": "2026-10-01",
-      "revision": 4,
-      "forecastSnapshot": {
-        "id": "forecast-global-lian-tai-he",
-        "revision": 3,
-        "start": "2026-10-01",
-        "end": "2026-11-30"
-      },
+      "revision": 5,
       "title": {
         "ko": "10월 외관 업데이트",
         "en": "October appearance update"
       },
       "subtitle": {
-        "ko": "글로벌 10월 4일 출시 예고 · 가격과 획득처 · 연대학 예상 기록",
-        "en": "October 4 Global schedule · costs and acquisition · Lian Tai He forecast record"
+        "en": "October 4 Global schedule · costs and acquisition",
+        "ko": "글로벌 10월 4일 출시 예고 · 가격과 획득처"
       },
       "coverCosmeticId": "yan-juan-can-ye",
       "featuredCosmeticIds": [
@@ -58,6 +52,13 @@
             "ko": "기존 정보 지면에 연운경 소개·기능·사이트 주소를 담은 마지막 한 장을 추가했습니다.",
             "en": "Added a final page with a short Winds Ahead introduction, features and website address; the factual pages remain intact."
           }
+        },
+        {
+          "date": "2026-10-02",
+          "body": {
+            "en": "Removed editorial release estimates from the article, cover and downloads. Edition 5 contains six pages with official schedules and the site introduction. Previous editions remain in repository history.",
+            "ko": "기사·표지·다운로드에서 운영자 출시 예상을 제거했습니다. 수정판 5는 공식 일정과 사이트 소개를 담은 6면입니다. 이전 수정판은 저장소 이력에 보존합니다."
+          }
         }
       ],
       "shareArtPolicy": {
@@ -76,8 +77,8 @@
             "en": "October appearance update"
           },
           "body": {
-            "ko": "정보 기준일: 2026년 10월 1일.\n글로벌 공식 출시 예고 네 가지와 기존 연대학 예상 기록을 정리했습니다. 외형 사진은 중국 공식 참고자료입니다.",
-            "en": "Information as of October 1, 2026.\nFour officially scheduled Global appearances and the existing Lian Tai He forecast. Appearance photos are official CN references."
+            "ko": "정보 기준일: 2026년 10월 1일.\n글로벌 공식 출시 예고 네 가지을 정리했습니다. 외형 사진은 중국 공식 참고자료입니다.",
+            "en": "Information as of October 1, 2026.\nFour officially scheduled Global appearances. Appearance photos are official CN references."
           }
         },
         {
@@ -111,21 +112,6 @@
           }
         },
         {
-          "id": "roadmap",
-          "eyebrow": {
-            "ko": "글로벌 / 운영자 예상",
-            "en": "GLOBAL / EDITORIAL ESTIMATE"
-          },
-          "title": {
-            "ko": "연대학 · 예상 기록",
-            "en": "Lian Tai He · forecast record"
-          },
-          "body": {
-            "ko": "중국명: 莲台鹤 · 한국어명은 임시 번역\n글로벌 예상 범위: 2026년 10~11월\n근거 수준: 제한적 · 공식 발표 아님\n기록: 기존 예상 3차 · 9월 28일 UTC 검토\n다음 검토 예정: 10월 5일\n글로벌 가격: 미정\n\n과거 중국 상점 의상 사례를 비교한 범위이며 출시 순서·출시 여부는 보장되지 않습니다. 조기·지연·미출시가 모두 가능합니다.",
-            "en": "CN name: 莲台鹤 · provisional translated name\nGlobal estimate: October–November 2026\nEvidence: limited · not an official announcement\nRecord: existing revision 3, reviewed September 28 UTC\nNext review due: October 5\nGlobal cost: unknown\n\nBased on past CN shop-outfit comparisons. Release order and availability are not guaranteed; earlier, later or no release remains possible."
-          }
-        },
-        {
           "id": "deadline",
           "eyebrow": {
             "ko": "불꽃 축제의 밤 / 할인",
@@ -151,12 +137,12 @@
             "en": "Information date and sources"
           },
           "body": {
-            "ko": "발행일·정보 기준일: 2026년 10월 1일\n발행일 시간대: America/New_York\n일정·가격: 글로벌 공식 9월 30일 공지\n외형 사진: NetEase 중국 공식 자료\n예상: 연운경 로드맵의 기존 3차 기록\n\n이 호는 발행 당시의 기록입니다. 출처와 편집 이력은 아래에 정리했습니다.",
-            "en": "Publication and information date: October 1, 2026\nPublication-date timezone: America/New_York\nSchedule and costs: official Global September 30 notice\nPhotos: official CN references from NetEase\nEstimate: existing roadmap revision 3\n\nThis issue preserves its publication snapshot. Sources and edition history follow below."
+            "ko": "발행일·정보 기준일: 2026년 10월 1일\n발행일 시간대: America/New_York\n일정·가격: 글로벌 공식 9월 30일 공지\n외형 사진: NetEase 중국 공식 자료\n\n이 호는 발행 당시의 기록입니다. 출처와 편집 이력은 아래에 정리했습니다.",
+            "en": "Publication and information date: October 1, 2026\nPublication-date timezone: America/New_York\nSchedule and costs: official Global September 30 notice\nPhotos: official CN references from NetEase\n\nThis issue preserves its publication snapshot. Sources and edition history follow below."
           }
         }
       ],
-      "sharePageCount": 7
+      "sharePageCount": 6
     }
   ]
 }

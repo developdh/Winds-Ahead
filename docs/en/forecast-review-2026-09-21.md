@@ -1,5 +1,7 @@
 # September 21 release forecast review
 
+**Current policy · October 2, 2026:** Editorial release estimates are discontinued. Forecast requirements and behavior below are historical and superseded by [official schedules](official-schedules.md). Do not restore estimates.
+
 [한국어](../ko/forecast-review-2026-09-21.md) · [Live roadmap](https://windsahead.com/en/calendar) · [Earlier reviews](release-roadmap.md)
 
 Re-reviewed the three published estimates and screened additional registered CN appearances by acquisition family, series, related Global announcements and explicit content dependencies. Two more candidates receive limited-evidence windows. These are editorial judgments, not official dates or numerical probabilities.

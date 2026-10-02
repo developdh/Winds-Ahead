@@ -494,19 +494,9 @@ test('official countdown uses calendar days and never implies an unverified past
   assert.equal(globalOutlook('test',null,[{...event,kind:'rerun'}],[],'2026-09-13'),null);
   assert.equal(globalOutlook('test',{status:'announced',releaseDate:null},[],[],'2026-09-13').days,null);
 });
-test('forecasts retain precision, latest revisions and review expiry; official evidence takes priority', () => {
-  const f={...fixture, cosmeticId:'test',createdAt:'2026-09-13T00:00:00Z',reviewDue:'2026-12-31',precision:'window',month:undefined,start:'2027-01-09',end:'2027-01-23'};
-  const outlook=globalOutlook('test',null,[],[f],'2026-09-13');
-  assert.equal(outlook.kind,'forecast');
-  assert.equal(outlook.days,118); assert.equal(outlook.endDays,132);
-  const month={...f,precision:'month',month:'2026-12',start:undefined,end:undefined};
-  assert.equal(globalOutlook('test',null,[],[month],'2026-09-13').days,null);
-  assert.equal(globalOutlook('test',null,[],[month],'2026-09-13').month,'2026-12');
-  const version={...month,precision:'version',month:undefined,version:'3.0'};
-  assert.equal(globalOutlook('test',null,[],[version],'2026-09-13').sortDate,null);
-  assert.equal(globalOutlook('test',null,[],[f,{...f,revision:2,state:'withdrawn'}],'2026-09-13'),null);
-  assert.equal(globalOutlook('test',null,[],[{...f,reviewDue:'2026-09-12'}],'2026-09-13'),null);
-  assert.equal(globalOutlook('test',null,[],[{...f,end:'2026-09-12',start:'2026-09-01'}],'2026-09-13'),null);
+test('archived forecasts never create countdowns; official announcements still do', () => {
+  const f={...fixture,cosmeticId:'test',reviewDue:'2026-12-31'};
+  assert.equal(globalOutlook('test',null,[],[f],'2026-09-13'),null);
   assert.equal(globalOutlook('test',{status:'announced',releaseDate:'2026-10-21'},[],[f],'2026-09-13').kind,'official');
 });
 
@@ -518,63 +508,21 @@ test('forecasts retain precision, latest revisions and review expiry; official e
   assert.equal(validServer('invalid'),'all');
 });
 
-import { currentForecasts, upcomingEntries } from '../lib/roadmap-domain.mjs';
-test('calendar estimates and roadmap share every active window, including later months and versions', () => {
-  const events=read('global-events.json').events;
-  const revisions=read('forecasts.json').revisions;
-  const released=read('regional-records.json').records.filter(r=>r.server==='Global'&&r.status==='released').map(r=>r.cosmeticId);
-  const calendar=currentForecasts(events,revisions,'2026-09-23',released);
-  const timeline=upcomingEntries(events,revisions,'2026-09-23','forecast',released).map(entry=>entry.forecast);
-  assert.deepEqual(calendar,timeline);
-  assert.equal(calendar.length,8);
-  assert.ok(calendar.some(f=>f.start>'2026-09-30'));
-  const version={...fixture,id:'future-version',precision:'version',version:'3.0',month:undefined};
-  assert.equal(currentForecasts([], [version], '2026-09-23')[0].version,'3.0');
+import { upcomingEntries } from '../lib/roadmap-domain.mjs';
+test('public schedules ignore historical forecasts and legacy forecast filters', () => {
+  const f={...fixture,cosmeticId:'test'};
+  const event={id:'official',cosmeticId:'other',kind:'release',status:'announced',date:'2026-10-04'};
+  for (const kind of ['all','official','forecast']) {
+    assert.deepEqual(upcomingEntries([event],[f],'2026-10-02',kind).map(r=>r.event.id),['official']);
+    assert.deepEqual(upcomingEntries([],[f],'2026-10-02',kind),[]);
+  }
+  assert.equal(upcomingEntries([{...event,status:'cancelled'}],[f],'2026-10-02').length,0);
+  assert.equal(upcomingEntries([event],[f],'2026-10-04').length,1);
+  assert.equal(upcomingEntries([event],[f],'2026-10-05').length,0);
+  assert.equal(event.status,'announced');
 });
-test('all official dates precede forecasts even when forecast windows begin earlier', () => {
-  const events = ['2026-09-27', '2026-09-25'].map((date, i) => ({id:`official-${i}`, cosmeticId:`official-${i}`, kind:'release', status:'announced', date}));
-  const revisions = [
-    {...fixture, id:'later', cosmeticId:'later', month:'2026-10'},
-    {...fixture, id:'earlier', cosmeticId:'earlier', month:'2026-09'},
-    {...fixture, id:'version', cosmeticId:'version', precision:'version', month:undefined, version:'3.0'},
-  ];
-  const rows = upcomingEntries(events, revisions, '2026-09-23');
-  assert.deepEqual(rows.map(row => row.event?.id ?? row.forecast.id), ['official-1', 'official-0', 'earlier', 'later', 'version']);
-  assert.deepEqual(upcomingEntries(events, revisions, '2026-09-23', 'forecast').map(row => row.forecast.id), ['earlier', 'later', 'version']);
-  assert.deepEqual(events.map(event => event.date), ['2026-09-27', '2026-09-25']);
-});
-test('roadmap prioritizes official announcements, hides elapsed announcements, and retains overdue estimates until their window ends', () => {
-  const f={...fixture,id:'f',cosmeticId:'fan',precision:'window',month:undefined,start:'2026-09-16',end:'2026-10-31',reviewDue:'2026-09-16'};
-  const official={id:'announcement',cosmeticId:'pass',kind:'release',status:'announced',date:'2026-09-16'};
-  const today='2026-09-13';
-  const rows=upcomingEntries([official],[f],today);
-  assert.deepEqual(rows.map(r=>r.kind),['official','forecast']);
-  assert.equal(rows[1].forecast.end,'2026-10-31');
-  assert.equal(upcomingEntries([official],[f],today,'official').length,1);
-  assert.equal(upcomingEntries([official],[f],today,'forecast').length,1);
-  assert.equal(upcomingEntries([],[f],today,'all',['fan']).length,0);
-  assert.equal(upcomingEntries([{...official,cosmeticId:'fan'}],[f],today).length,1);
-  assert.equal(upcomingEntries([{...official,status:'cancelled'}],[f],today).length,1);
-  assert.equal(upcomingEntries([{...official,status:'released',date:today}],[],today).length,0);
-  assert.equal(upcomingEntries([official],[],'2026-09-16').length,1);
-  assert.equal(upcomingEntries([official],[f],'2026-09-17').length,1);
-  assert.equal(upcomingEntries([],[f],'2026-10-31','forecast').length,1);
-  assert.equal(upcomingEntries([],[f],'2026-11-01','forecast').length,0);
-  assert.equal(upcomingEntries([],[{...f,state:'withdrawn'}],today).length,0);
-  assert.equal(upcomingEntries([official],[f],'2026-09-17','official').length,0);
-  assert.equal(official.status,'announced');
-  assert.equal(official.date,'2026-09-16');
-  const currentEstimate={...f,cosmeticId:official.cosmeticId,reviewDue:'2026-12-01'};
-  assert.equal(upcomingEntries([official],[currentEstimate],'2026-09-17').length,0);
-  assert.equal(upcomingEntries([official],[currentEstimate],'2026-09-17','forecast').length,0);
-  assert.equal(upcomingEntries([{...official,kind:'rerun'}],[],'2026-09-17').length,0);
-  assert.equal(upcomingEntries([],[f,{...f,revision:2,state:'superseded'}],today).length,0);
-});
-test('a rerun does not suppress an unreleased forecast and version estimates have no manufactured day', () => {
-  const f={...fixture,cosmeticId:'fan',precision:'version',month:undefined,version:'3.0',reviewDue:'2026-12-31'};
-  const event={id:'repeat',cosmeticId:'fan',kind:'rerun',status:'announced',date:'2026-09-16'};
-  const rows=upcomingEntries([event],[f],'2026-09-13');
-  assert.equal(rows.length,2);
-  assert.equal(rows[1].forecast.precision,'version');
-  assert.equal(rows[1].forecast.start,undefined);
+test('all forecast series end in withdrawal while their earlier revisions survive', () => {
+  const history=read('forecasts.json').revisions;
+  assert.ok(history.some(f=>f.state==='active'));
+  assert.ok(latestRevisions(history).every(f=>f.state==='withdrawn'));
 });
