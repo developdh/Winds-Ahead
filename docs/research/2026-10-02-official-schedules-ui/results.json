@@ -1,0 +1,553 @@
+{
+  "browser": "Chrome via Playwright, local production Worker",
+  "results": [
+    {
+      "locale": "ko",
+      "width": 320,
+      "route": "calendar?kind=forecast",
+      "forecastVisible": false,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": [],
+      "pageErrors": []
+    },
+    {
+      "locale": "ko",
+      "width": 320,
+      "route": "calendar?view=calendar&month=2026-10&kind=forecast",
+      "forecastVisible": false,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": [],
+      "pageErrors": []
+    },
+    {
+      "locale": "ko",
+      "width": 320,
+      "route": "cosmetics/lian-tai-he",
+      "forecastVisible": false,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": [],
+      "pageErrors": []
+    },
+    {
+      "locale": "ko",
+      "width": 320,
+      "route": "about",
+      "forecastVisible": false,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": [],
+      "pageErrors": []
+    },
+    {
+      "locale": "ko",
+      "width": 320,
+      "route": "magazine/issue-01",
+      "forecastVisible": false,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": [],
+      "pageErrors": []
+    },
+    {
+      "locale": "ko",
+      "width": 360,
+      "route": "calendar?kind=forecast",
+      "forecastVisible": false,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": [],
+      "pageErrors": []
+    },
+    {
+      "locale": "ko",
+      "width": 360,
+      "route": "calendar?view=calendar&month=2026-10&kind=forecast",
+      "forecastVisible": false,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": [],
+      "pageErrors": []
+    },
+    {
+      "locale": "ko",
+      "width": 360,
+      "route": "cosmetics/lian-tai-he",
+      "forecastVisible": false,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": [],
+      "pageErrors": []
+    },
+    {
+      "locale": "ko",
+      "width": 360,
+      "route": "about",
+      "forecastVisible": false,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": [],
+      "pageErrors": []
+    },
+    {
+      "locale": "ko",
+      "width": 360,
+      "route": "magazine/issue-01",
+      "forecastVisible": false,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": [],
+      "pageErrors": []
+    },
+    {
+      "locale": "ko",
+      "width": 390,
+      "route": "calendar?kind=forecast",
+      "forecastVisible": false,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": [],
+      "pageErrors": []
+    },
+    {
+      "locale": "ko",
+      "width": 390,
+      "route": "calendar?view=calendar&month=2026-10&kind=forecast",
+      "forecastVisible": false,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": [],
+      "pageErrors": []
+    },
+    {
+      "locale": "ko",
+      "width": 390,
+      "route": "cosmetics/lian-tai-he",
+      "forecastVisible": false,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": [],
+      "pageErrors": []
+    },
+    {
+      "locale": "ko",
+      "width": 390,
+      "route": "about",
+      "forecastVisible": false,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": [],
+      "pageErrors": []
+    },
+    {
+      "locale": "ko",
+      "width": 390,
+      "route": "magazine/issue-01",
+      "forecastVisible": false,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": [],
+      "pageErrors": []
+    },
+    {
+      "locale": "ko",
+      "width": 768,
+      "route": "calendar?kind=forecast",
+      "forecastVisible": false,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": [],
+      "pageErrors": []
+    },
+    {
+      "locale": "ko",
+      "width": 768,
+      "route": "calendar?view=calendar&month=2026-10&kind=forecast",
+      "forecastVisible": false,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": [],
+      "pageErrors": []
+    },
+    {
+      "locale": "ko",
+      "width": 768,
+      "route": "cosmetics/lian-tai-he",
+      "forecastVisible": false,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": [],
+      "pageErrors": []
+    },
+    {
+      "locale": "ko",
+      "width": 768,
+      "route": "about",
+      "forecastVisible": false,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": [],
+      "pageErrors": []
+    },
+    {
+      "locale": "ko",
+      "width": 768,
+      "route": "magazine/issue-01",
+      "forecastVisible": false,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": [],
+      "pageErrors": []
+    },
+    {
+      "locale": "ko",
+      "width": 1024,
+      "route": "calendar?kind=forecast",
+      "forecastVisible": false,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": [],
+      "pageErrors": []
+    },
+    {
+      "locale": "ko",
+      "width": 1024,
+      "route": "calendar?view=calendar&month=2026-10&kind=forecast",
+      "forecastVisible": false,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": [],
+      "pageErrors": []
+    },
+    {
+      "locale": "ko",
+      "width": 1024,
+      "route": "cosmetics/lian-tai-he",
+      "forecastVisible": false,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": [],
+      "pageErrors": []
+    },
+    {
+      "locale": "ko",
+      "width": 1024,
+      "route": "about",
+      "forecastVisible": false,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": [],
+      "pageErrors": []
+    },
+    {
+      "locale": "ko",
+      "width": 1024,
+      "route": "magazine/issue-01",
+      "forecastVisible": false,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": [],
+      "pageErrors": []
+    },
+    {
+      "locale": "ko",
+      "width": 1440,
+      "route": "calendar?kind=forecast",
+      "forecastVisible": false,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": [],
+      "pageErrors": []
+    },
+    {
+      "locale": "ko",
+      "width": 1440,
+      "route": "calendar?view=calendar&month=2026-10&kind=forecast",
+      "forecastVisible": false,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": [],
+      "pageErrors": []
+    },
+    {
+      "locale": "ko",
+      "width": 1440,
+      "route": "cosmetics/lian-tai-he",
+      "forecastVisible": false,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": [],
+      "pageErrors": []
+    },
+    {
+      "locale": "ko",
+      "width": 1440,
+      "route": "about",
+      "forecastVisible": false,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": [],
+      "pageErrors": []
+    },
+    {
+      "locale": "ko",
+      "width": 1440,
+      "route": "magazine/issue-01",
+      "forecastVisible": false,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": [],
+      "pageErrors": []
+    },
+    {
+      "locale": "en",
+      "width": 320,
+      "route": "calendar?kind=forecast",
+      "forecastVisible": false,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": [],
+      "pageErrors": []
+    },
+    {
+      "locale": "en",
+      "width": 320,
+      "route": "calendar?view=calendar&month=2026-10&kind=forecast",
+      "forecastVisible": false,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": [],
+      "pageErrors": []
+    },
+    {
+      "locale": "en",
+      "width": 320,
+      "route": "cosmetics/lian-tai-he",
+      "forecastVisible": false,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": [],
+      "pageErrors": []
+    },
+    {
+      "locale": "en",
+      "width": 320,
+      "route": "about",
+      "forecastVisible": false,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": [],
+      "pageErrors": []
+    },
+    {
+      "locale": "en",
+      "width": 320,
+      "route": "magazine/issue-01",
+      "forecastVisible": false,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": [],
+      "pageErrors": []
+    },
+    {
+      "locale": "en",
+      "width": 360,
+      "route": "calendar?kind=forecast",
+      "forecastVisible": false,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": [],
+      "pageErrors": []
+    },
+    {
+      "locale": "en",
+      "width": 360,
+      "route": "calendar?view=calendar&month=2026-10&kind=forecast",
+      "forecastVisible": false,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": [],
+      "pageErrors": []
+    },
+    {
+      "locale": "en",
+      "width": 360,
+      "route": "cosmetics/lian-tai-he",
+      "forecastVisible": false,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": [],
+      "pageErrors": []
+    },
+    {
+      "locale": "en",
+      "width": 360,
+      "route": "about",
+      "forecastVisible": false,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": [],
+      "pageErrors": []
+    },
+    {
+      "locale": "en",
+      "width": 360,
+      "route": "magazine/issue-01",
+      "forecastVisible": false,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": [],
+      "pageErrors": []
+    },
+    {
+      "locale": "en",
+      "width": 390,
+      "route": "calendar?kind=forecast",
+      "forecastVisible": false,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": [],
+      "pageErrors": []
+    },
+    {
+      "locale": "en",
+      "width": 390,
+      "route": "calendar?view=calendar&month=2026-10&kind=forecast",
+      "forecastVisible": false,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": [],
+      "pageErrors": []
+    },
+    {
+      "locale": "en",
+      "width": 390,
+      "route": "cosmetics/lian-tai-he",
+      "forecastVisible": false,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": [],
+      "pageErrors": []
+    },
+    {
+      "locale": "en",
+      "width": 390,
+      "route": "about",
+      "forecastVisible": false,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": [],
+      "pageErrors": []
+    },
+    {
+      "locale": "en",
+      "width": 390,
+      "route": "magazine/issue-01",
+      "forecastVisible": false,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": [],
+      "pageErrors": []
+    },
+    {
+      "locale": "en",
+      "width": 768,
+      "route": "calendar?kind=forecast",
+      "forecastVisible": false,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": [],
+      "pageErrors": []
+    },
+    {
+      "locale": "en",
+      "width": 768,
+      "route": "calendar?view=calendar&month=2026-10&kind=forecast",
+      "forecastVisible": false,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": [],
+      "pageErrors": []
+    },
+    {
+      "locale": "en",
+      "width": 768,
+      "route": "cosmetics/lian-tai-he",
+      "forecastVisible": false,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": [],
+      "pageErrors": []
+    },
+    {
+      "locale": "en",
+      "width": 768,
+      "route": "about",
+      "forecastVisible": false,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": [],
+      "pageErrors": []
+    },
+    {
+      "locale": "en",
+      "width": 768,
+      "route": "magazine/issue-01",
+      "forecastVisible": false,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": [],
+      "pageErrors": []
+    },
+    {
+      "locale": "en",
+      "width": 1024,
+      "route": "calendar?kind=forecast",
+      "forecastVisible": false,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": [],
+      "pageErrors": []
+    },
+    {
+      "locale": "en",
+      "width": 1024,
+      "route": "calendar?view=calendar&month=2026-10&kind=forecast",
+      "forecastVisible": false,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": [],
+      "pageErrors": []
+    },
+    {
+      "locale": "en",
+      "width": 1024,
+      "route": "cosmetics/lian-tai-he",
+      "forecastVisible": false,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": [],
+      "pageErrors": []
+    },
+    {
+      "locale": "en",
+      "width": 1024,
+      "route": "about",
+      "forecastVisible": false,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": [],
+      "pageErrors": []
+    },
+    {
+      "locale": "en",
+      "width": 1024,
+      "route": "magazine/issue-01",
+      "forecastVisible": false,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": [],
+      "pageErrors": []
+    },
+    {
+      "locale": "en",
+      "width": 1440,
+      "route": "calendar?kind=forecast",
+      "forecastVisible": false,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": [],
+      "pageErrors": []
+    },
+    {
+      "locale": "en",
+      "width": 1440,
+      "route": "calendar?view=calendar&month=2026-10&kind=forecast",
+      "forecastVisible": false,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": [],
+      "pageErrors": []
+    },
+    {
+      "locale": "en",
+      "width": 1440,
+      "route": "cosmetics/lian-tai-he",
+      "forecastVisible": false,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": [],
+      "pageErrors": []
+    },
+    {
+      "locale": "en",
+      "width": 1440,
+      "route": "about",
+      "forecastVisible": false,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": [],
+      "pageErrors": []
+    },
+    {
+      "locale": "en",
+      "width": 1440,
+      "route": "magazine/issue-01",
+      "forecastVisible": false,
+      "horizontalOverflow": false,
+      "brokenLoadedImages": [],
+      "pageErrors": []
+    }
+  ],
+  "interactions": [
+    "official cosmetic popup and Escape close",
+    "calendar view and next month",
+    "six decoded share previews and ZIP per locale"
+  ],
+  "limits": [
+    "Physical devices, Firefox/WebKit, slow-network performance and field metrics untested"
+  ]
+}

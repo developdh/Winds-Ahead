@@ -28,13 +28,13 @@ Where sources provide them, records show the required currency and amount, shops
 
 Search and filter by appearance category or release server, then sort by China or Global release date. Save favorites to a watchlist or share an individual cosmetic by link. Watchlists are stored in the browser you use.
 
-Upcoming appearances and release forecasts
+Upcoming officially announced appearances
 
-Officially announced releases and AI-based editorial forecasts have distinct labels. Forecast analysis currently uses GPT-6 Astra Extra High. Explore countdowns in the catalog, a release roadmap and a monthly calendar. Forecasts are not official dates and may change after later announcements. Older announcements whose actual release has not been verified are also labeled separately.
+Release schedules follow official announcements. Explore countdowns in the catalog, a release roadmap and a monthly calendar. Unannounced dates stay unknown. Older announcements whose actual release has not been verified are also labeled separately.
 
 The values behind Winds Ahead
 
-Trustworthy information comes first. China and Global records, official facts and editorial forecasts stay distinct. Unknowns are labeled honestly, and original sources remain available for readers to check.
+Trustworthy information comes first. China and Global records stay distinct. Unknowns are labeled honestly, and original sources remain available for readers to check.
 
 Rich information should be simple to use. The goal is to help people compare photos and essential details without repeatedly navigating between pages or working through unnecessary controls.
 

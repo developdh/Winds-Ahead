@@ -17,7 +17,7 @@ M1 includes designs and a clickable prototype of the three core screens using re
 - Apply the ink/jade direction consistently through color, type, spacing, borders, and states. Decoration must not obscure names, sources, or dates.
 - Give immediate visual feedback for search, saving, filters, and gallery actions. Longer operations need progress and retry paths.
 - Respect Korean input-method composition. Preserve filters, month, and list position where possible across back navigation and language switches.
-- Make body/dye conditions and official/estimated/unscheduled states understandable within the image-browsing flow.
+- Make body/dye conditions and official/unscheduled states understandable within the image-browsing flow.
 - Design loading, empty, error, blocked-media, and save-failure states to the same standard as the normal screen.
 
 ## 3. Responsive behavior and accessibility
@@ -68,7 +68,7 @@ Mobile uses a 24px content inset below the header, a 20px introduction-to-toolba
 
 ## Magazine · October 1, 2026
 
-Add Magazine as a third primary destination while retaining the compact top navigation. Editorial articles use selectable text, an in-page contents list and the established fonts; mobile pages use one column. The photo-led community edition uses seven 1080px JPGs per language with large serif headlines, restrained prose, prominent photographs and content-dependent height. Preserve source/server/estimate labels in each relevant share image. Reserve image dimensions and load offscreen media lazily.
+Add Magazine as a third primary destination while retaining the compact top navigation. Editorial articles use selectable text, an in-page contents list and the established fonts; mobile pages use one column. The current photo-led community edition uses six 1080px JPGs per language with large serif headlines, restrained prose, prominent photographs and content-dependent height. Preserve source/server labels in each relevant share image. Reserve image dimensions and load offscreen media lazily. Release estimates were discontinued on October 2, 2026; follow [official schedules](official-schedules.md).
 
 The user selected information-focused copy: remove editor letters, subjective descriptions and reader prompts. Pair the photographs with structured schedules, costs, acquisition and evidence labels.
 

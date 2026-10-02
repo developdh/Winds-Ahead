@@ -1,5 +1,7 @@
 # Browsing the archive
 
+**Current policy · October 2, 2026:** Editorial release estimates are discontinued. Forecast requirements and behavior below are historical and superseded by [official schedules](official-schedules.md). Do not restore estimates.
+
 [한국어](../ko/archive-browsing.md)
 
 ## In-page details

@@ -1,74 +1,14 @@
-# GitHub-based AI calendar updates
+# GitHub-based official calendar maintenance
 
-[한국어](../ko/calendar-automation.md) · [Content model](content-model.md) · [Performance criteria](design-quality.md)
+[한국어](../ko/calendar-automation.md) · [Current schedule policy](official-schedules.md)
 
-**User decision:** GitHub holds canonical content, with recurring execution of this task providing initial AI review and updates. A daily 9:00 AM America/New_York check has been scheduled. A separate GPT API and automatic merging remain inactive. The implemented MVP content is maintained through reviewable content PRs; see the canonical paths in [MVP status](mvp-status.md).
+GitHub remains canonical. The previously selected daily 9:00 AM America/New_York check keeps its timing and notification preferences. No new schedule, GPT API service or automatic merge is introduced. Editorial forecasting is discontinued as of October 2, 2026.
 
-## 1. Execution options
+1. Read AGENTS.md and the current policy. Inspect registered China, Global and Korean official sources, including the official Korean Cafe notice body when needed.
+2. Verify regional identity, English/Korean names, acquisition, prices, sale/exchange/discount/event ends and usable missing photographs together. Keep server facts, community observations, date precision and unknown timezones distinct. Do not turn elapsed announcements into confirmed releases without release evidence.
+3. Fill supported gaps proactively. When no new announcement exists, inspect a bounded batch of missing galleries, prioritizing current rewards and approaching deadlines. Visually inspect named item images, prefer usable female views, retain full originals and record attribution and unknown redistribution permission.
+4. Do not create, revise, reactivate or publish forecasts. Unannounced dates stay unknown; historical forecasts and withdrawal revisions remain audit records. Do not renew their review deadlines.
+5. For actual changes, update paired documentation and canonical content, run types/tests/content/history/build checks, create or update a reviewable English PR, and complete the release and existing Site publication process. Unchanged checks produce no release or PR.
+6. Stay quiet while nothing actionable changes; notify only for meaningful change, completion, failure or required user action. Local execution still depends on the computer/app, access and account limits.
 
-| Option | Behavior | Conditions |
-| --- | --- | --- |
-| Recurring checks in this task · selected | This task resumes with project context to inspect sources, reason, and update GitHub | Local project access requires the computer and app to run; subject to account usage limits and tool access |
-| GitHub Actions + GPT API · future migration option | GitHub execution checks announcements and saves API-assisted proposals in PRs | API credentials/billing, execution limits, and failure handling; independent of the personal PC |
-
-See [GitHub-hosted runners](https://docs.github.com/en/actions/concepts/runners/github-hosted-runners) for execution hosting and [OpenAI scheduled tasks](https://learn.chatgpt.com/docs/automations?surface=app) for local scheduling conditions. The schedule is attached to this task with app management ID `automation`. The API option remains unimplemented.
-
-## 2. Shared update procedure
-
-1. Inspect official CN, Global, and Korean announcements, selecting new material or substantive changes. Distinguish collection failure from no updates.
-2. Structure original dates, regions, cosmetics, acquisition methods, and names. Unread image notices remain unverified.
-3. Supply verified CN/Global matched records and current forecasts. Never generate schedules from conversation memory or model knowledge alone.
-4. Let AI propose keeping, adding, revising, or withdrawing a forecast, with its window, evidence, counterevidence, and EN/KO rationale. Insufficient information must allow an unknown result.
-5. Independently validate evidence references, date precision, regional scope, translations, duplicate IDs, and preservation of official records. Format validation does not replace factual verification.
-6. Create an English PR or update the existing refresh PR only when content changes. Preserve prior forecasts and reasons. No changes means no PR.
-7. Initially publish through reviewed merge and deployment. Automatic merging has not been selected and remains off unless separately requested. AI evidence ratings do not create official-confirmation badges.
-8. For each completed content update, publish a versioned GitHub release with English/Korean notes following [the release procedure](releasing.md). A check with no content changes creates neither a version bump nor a release; an open PR is not a completed release.
-
-[Responses API web search](https://developers.openai.com/api/docs/guides/tools-web-search) supports domain restrictions and source lists; inspect retrieved originals as part of the workflow. Use [Structured Outputs](https://developers.openai.com/api/docs/guides/structured-outputs) for the result format, not as a guarantee of factual correctness.
-
-## 3. Decision records
-
-Each proposal records the cosmetic ID, previous/proposed forecast, `precision`, region/server scope, evidence IDs and inspection times, comparisons, `evidence_strength`, EN/KO rationale, assumptions, next review date, actual model/prompt version, and supersession relationship.
-
-Repeated execution with identical evidence and inputs must not create duplicate PRs or schedule churn. Preserve existing judgments without material new evidence. Keep historical outcomes for comparison with eventual global releases.
-
-## 4. Proposed cadence and failure handling
-
-- Announcement checks are scheduled daily at 9:00 AM America/New_York, reconsidering affected cosmetics when something changes. Consult the app's next-run display for actual scheduling, including daylight-saving behavior.
-- Review due dates and outcomes across the forecast list weekly. Restrict model calls to changed or overdue items.
-- GitHub scheduled execution can be delayed, so do not promise real-time updates. Provide manual execution and the last successful-check timestamp. [GitHub workflow events](https://docs.github.com/en/actions/reference/workflows-and-actions/events-that-trigger-workflows)
-- Preserve the last good data on API or collection failure and record the reason/retry status. Notify only for failures, meaningful changes, or required user action.
-- A scheduled date passing does not verify an actual release. Flag expired estimates for review.
-
-## 5. Cost, access, and site speed
-
-Store API credentials in GitHub secrets, outside the browser and repository files. Bound notices processed, input/output length, retries, and concurrent execution, and record usage. Cost depends on the model, search, and image inputs; measure a small representative batch before setting the operating cadence. [API pricing](https://developers.openai.com/api/docs/pricing)
-
-Treat source material as evidence, not executable instructions. Constrain generated changes to content paths and separate them from executable code/configuration changes.
-
-Calendar visitors never wait for a GPT response. Generate/cache pages from verified data after the update process, with catalog, detail, and calendar reading the same records. AI latency or failure therefore does not block browsing.
-
-## 6. Current status and next completion criteria
-
-Before scheduling, manually rechecked access to the CN/Global/Korean official news lists and the existing source register. This checks source access, not the complete image-extraction, forecasting, or calendar-publication flow.
-
-The schedule targets the implemented JSON content and validation commands. The September 13 manual review added one future official Global announcement and three limited-evidence editorial windows; see [Release roadmap](release-roadmap.md) for source comparisons and collection limits. This manual run is not evidence of a successful scheduled end-to-end refresh. Preserve published forecast revisions and update `forecasts.reviewedAt` only after a new source review. The model follows this task's settings; a successful scheduled check does not validate prediction accuracy.
-
-September 20: the existing schedule is unchanged. Forecast review deadlines now trigger visible roadmap/calendar reminders instead of hiding estimates whose windows remain open. A source check does not automatically renew a forecast or erase its history. See [Release roadmap](release-roadmap.md).
-
-September 21: the owner requested a forecast re-review and additional candidate screening. Three revision-2 records and two new limited-evidence candidates now have a September 28 review date; original revisions remain. Thirteen screened items remain undated. This completed manual review does not establish a successful scheduled run or create another schedule. [Review details](forecast-review-2026-09-21.md).
-
-
-Added three broad editorial windows and six female gallery views. Re-reviewed the five existing estimates without moving their windows; all previous revisions remain, and the next review is October 5. [Review and limitations](forecast-gallery-2026-09-28.md).
-
-September 28 follow-up: the owner approved deadline notices and a larger Huiji photo batch. Keep `deadlines.json` source-backed and server-specific during future content checks; distinguish sale/exchange ends from discount deadlines, retain missing zones and date precision, and exclude unresolved conflicts. This uses the existing review process and adds no schedule. [Behavior and photo provenance](deadlines-wiki-2026-09-28.md).
-
-Korean name verification: check the [official Korean Cafe](https://cafe.naver.com/wherewindsmeet), linked from the official Korean website, as well as the news pages. Read the GM notice body before marking a Korean name official; an English transliteration is not confirmation. [September 28 correction](releases/0.2.9.md).
-
-## 7. Proactive completeness checks
-
-The owner explicitly authorized routine information and photo additions on September 28. During the existing check, inspect each new or changed cosmetic as a complete entry: official Korean/English names, acquisition method, event or shop end, and usable photos. Fill verified gaps without waiting for another item-by-item request. If there is no new announcement, prioritize a bounded batch of image-missing entries, especially current event rewards and approaching deadlines.
-
-Inspect the actual named item page and every selected image. Prefer a verified female view, keep the complete frame and watermarks, record the source/rights status, and serve appropriately sized local derivatives. Identify community observations separately from official regional facts; style points are not prices. A Traditional Chinese Global page does not by itself establish a China-server identity or date. Record inaccessible sources and remaining gaps instead of claiming that nothing is available.
-
-Use the existing validation, reviewed publication and release process. This expands the maintenance checklist, not its schedule; no additional job or unrelated product feature is authorized by it. [Moonhare Merriment example](releases/0.2.10.md).
+See [MVP status](mvp-status.md), [releasing](releasing.md), and historical [September 21](forecast-review-2026-09-21.md) / [September 28](forecast-gallery-2026-09-28.md) reviews. These reviews do not authorize new estimates.

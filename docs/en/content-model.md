@@ -1,5 +1,7 @@
 # Content, data, and forecasting policy v0.1
 
+**Current policy · October 2, 2026:** Editorial release estimates are discontinued. Forecast requirements and behavior below are historical and superseded by [official schedules](official-schedules.md). Do not restore estimates.
+
 [한국어](../ko/content-model.md) · [Product plan](product-plan.md)
 
 **Implementation update · September 13, 2026:** The owner-private MVP is implemented. The simplified interface and exact content paths are recorded in [MVP status](mvp-status.md), which supersedes unimplemented screen and data proposals below. Global forecasting accuracy is not validated.

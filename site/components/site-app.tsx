@@ -839,13 +839,13 @@ function Updates({ l }: { l: Locale }) {
         <History size={20} />
         <p>
           {t(
-            "Forecasts stay separate from official dates.",
-            "예상은 공식 일정과 구분합니다.",
+            "Release schedules follow official announcements.",
+            "출시 일정은 공식 공지를 기준으로 안내합니다.",
           )}
           <span>
             {t(
-              "See the roadmap for current windows and their evidence. Previous estimates and reasons remain in the revision history.",
-              "로드맵에서 현재 예상 기간과 근거를 확인하세요. 이전 예상과 변경 이유는 이력에 남깁니다.",
+              "See the roadmap for official schedules and sources. Unannounced dates stay unknown.",
+              "로드맵에서 공식 일정과 출처를 확인하세요. 발표되지 않은 날짜는 미정으로 남깁니다.",
             )}
           </span>
         </p>
@@ -918,10 +918,10 @@ function About({ l }: { l: Locale }) {
               )}
             </li>
             <li>
-              <strong>{t("Editorial forecast", "운영자 예상")}</strong> —{" "}
+              <strong>{t("Unannounced schedules", "미발표 일정")}</strong> —{" "}
               {t(
-                "An estimate with a rationale, confidence level and review date. Never a promise.",
-                "근거·신뢰 수준·재검토일을 기록한 추정이며 출시 약속이 아닙니다.",
+                "Dates remain unknown until an official announcement provides a schedule.",
+                "공식 발표로 일정이 확인되기 전까지 날짜를 미정으로 유지합니다.",
               )}
             </li>
           </ul>

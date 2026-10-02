@@ -1,4 +1,4 @@
-import { isDay, isMonth, latestRevisions, forecastDue, forecastEnded } from './roadmap-domain.mjs';
+import { isDay } from './roadmap-domain.mjs';
 import { releaseState } from './regional-domain.mjs';
 
 export const sortKeys = ['latest', 'cn-newest', 'cn-oldest', 'global-newest', 'global-oldest', 'upcoming', 'name-asc', 'name-desc'];
@@ -23,16 +23,7 @@ export function globalOutlook(id, record, events, revisions, today) {
       days: days !== null && days >= 0 ? days : null, endDays: null, month: null, version: null,
       pending: Boolean(record?.confirmationPending) || (days !== null && days < 0), sortDate: !record?.confirmationPending && days !== null && days >= 0 ? date : null };
   }
-  const forecast = latestRevisions(revisions).filter(f => f.cosmeticId === id && f.state === 'active' && !forecastDue(f, today) && !forecastEnded(f, today))
-    .sort((a, b) => b.createdAt.localeCompare(a.createdAt))[0];
-  if (!forecast) return null;
-  const start = forecast.precision === 'window' && isDay(forecast.start) ? forecast.start : null;
-  const end = forecast.precision === 'window' && isDay(forecast.end) ? forecast.end : null;
-  const month = forecast.precision === 'month' && isMonth(forecast.month) ? forecast.month : null;
-  const days = daysUntil(start, today), endDays = daysUntil(end, today);
-  return { kind: 'forecast', precision: forecast.precision, start, end, days, endDays, month,
-    version: forecast.version ?? null, pending: false,
-    sortDate: start ? (start < today ? today : start) : month ? `${month}-01` < today ? today : `${month}-01` : null };
+  return null;
 }
 
 /** @param {{id:string,name:string,cnDate:string|null,globalDate:string|null,upcomingDate:string|null}[]} rows */

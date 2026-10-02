@@ -1,26 +1,7 @@
-import forecastData from "@/content/forecasts.json";
 import globalData from "@/content/global-events.json";
 import { cosmetics } from "@/lib/catalog";
 import { regionalRecord } from "@/lib/regional-status";
 import research from "@/content/research.json";
-export interface Forecast {
-  id: string;
-  revision: number;
-  cosmeticId: string;
-  state: "active" | "withdrawn" | "superseded";
-  precision: "month" | "window" | "version";
-  month?: string;
-  start?: string;
-  end?: string;
-  version?: string;
-  evidenceLevel: "limited" | "supported";
-  rationale: { en: string; ko: string };
-  assumptions: { en: string; ko: string };
-  reason: { en: string; ko: string };
-  sourceIds: string[];
-  createdAt: string;
-  reviewDue: string;
-}
 export interface ReleaseEvent {
   id: string;
   cosmeticId: string;
@@ -32,8 +13,7 @@ export interface ReleaseEvent {
   status: "announced" | "released" | "cancelled";
   scope: { en: string; ko: string };
 }
-export const scheduleReviewedAt = forecastData.reviewedAt;
-export const forecasts = forecastData.revisions as Forecast[];
+export const scheduleReviewedAt = research.verifiedAt;
 export const globalEvents = globalData.events as ReleaseEvent[];
 export const sources = [...research.sources, ...globalData.sources] as {
   id: string;

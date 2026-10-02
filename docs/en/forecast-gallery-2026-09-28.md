@@ -1,5 +1,7 @@
 # September 28 forecast and gallery review
 
+**Current policy · October 2, 2026:** Editorial release estimates are discontinued. Forecast requirements and behavior below are historical and superseded by [official schedules](official-schedules.md). Do not restore estimates.
+
 [한국어](../ko/forecast-gallery-2026-09-28.md) · [Research audit](../research/2026-09-28-forecast-gallery-review.json) · [Image provenance](../research/2026-09-28-gallery-provenance.json)
 
 Reviewed September 28 UTC (September 27 in America/New_York). The CN news/hotfix and Global EN/KO indexes still show the same latest cosmetic notices as the September 26 refresh. The signed-in official Global X profile additionally shows gameplay, season-sprint and quest posts; these do not establish a new cosmetic release. This is a bounded source check, not an exhaustive negative claim.

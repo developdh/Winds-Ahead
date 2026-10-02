@@ -1,5 +1,7 @@
 # Release roadmap and forecast reviews
 
+**Current policy · October 2, 2026:** Editorial release estimates are discontinued. Forecast requirements and behavior below are historical and superseded by [official schedules](official-schedules.md). Do not restore estimates.
+
 [한국어](../ko/release-roadmap.md) · [Calendar maintenance](calendar-automation.md)
 
 The roadmap shows every upcoming official announcement first, followed by a separate Estimated windows section labeled Editorial · Not official. Each section is ordered chronologically; an estimate whose window starts earlier never precedes an official date. The calendar retains historical CN/Global dates. Choose All, Official, or Estimated; language, server, view, month and type are preserved in the URL. Existing links with a month still open the calendar. Blue labels identify official announcements, gold labels identify estimates, with distinct wording and icons.

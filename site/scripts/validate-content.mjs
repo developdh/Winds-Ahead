@@ -412,9 +412,8 @@ if (
     publishedAt: day, informationAsOf: day, dateTimezone: z.literal("America/New_York"), revision: z.number().int().positive(),
     title: bilingual, subtitle: bilingual, shareArtPolicy: bilingual, sharePageCount: z.number().int().min(1).max(16),
     coverCosmeticId: z.string(), featuredCosmeticIds: z.array(z.string()).min(1), sourceIds: z.array(z.string()).min(1),
-    forecastSnapshot: z.object({id: z.string(), revision: z.number().int().positive(), start: day, end: day}),
     corrections: z.array(z.object({date: day, body: bilingual})),
-    sections: z.array(z.object({id: z.string().regex(/^[a-z-]+$/), eyebrow: bilingual, title: bilingual, body: bilingual})).length(6),
+    sections: z.array(z.object({id: z.string().regex(/^[a-z-]+$/), eyebrow: bilingual, title: bilingual, body: bilingual})).min(1),
   }).strict()) }).strict().parse(read("magazine.json"));
   unique(magazine.issues.map(i => i.id), "magazine issue ID");
   const magazineCosmetics = new Set(read("research.json").cosmetics.map(c => c.id));
@@ -424,15 +423,13 @@ if (
     if (issue.informationAsOf > issue.publishedAt) throw new Error("Magazine snapshot cannot postdate publication");
     for (const id of [issue.coverCosmeticId, ...issue.featuredCosmeticIds]) if (!magazineCosmetics.has(id)) throw new Error(`Unknown magazine appearance ${id}`);
     for (const id of issue.sourceIds) if (!magazineSources.has(id)) throw new Error(`Unknown magazine source ${id}`);
-    const snapshot = issue.forecastSnapshot;
-    if (!read("forecasts.json").revisions.some(f => f.id === snapshot.id && f.revision === snapshot.revision && f.start === snapshot.start && f.end === snapshot.end)) throw new Error("Magazine forecast snapshot no longer matches preserved history");
     const metrics = JSON.parse(fs.readFileSync(path.join(root, "content/magazine-export-metrics.json"), "utf8"));
     if (metrics.issueId !== issue.id || metrics.revision !== issue.revision || metrics.gameArtworkIncluded !== true || metrics.pages.length !== issue.sharePageCount * 2) throw new Error("Magazine export revision or page count mismatch");
     for (const photo of metrics.photoReferences) {
       const original = media.find(m => m.cosmeticId === photo.cosmeticId && m.index === photo.index);
       if (!original || original.full !== photo.path || original.originalUrl !== photo.originalUrl || original.permission !== photo.permission || photo.server !== "CN" || !fs.existsSync(path.join(root, "public", photo.path))) throw new Error("Magazine photo reference does not match preserved media evidence");
     }
-    for (const id of [...issue.featuredCosmeticIds, read("forecasts.json").revisions.find(f => f.id === issue.forecastSnapshot.id && f.revision === issue.forecastSnapshot.revision).cosmeticId]) if (!metrics.photoReferences.some(p => p.cosmeticId === id)) throw new Error(`Missing featured magazine photograph ${id}`);
+    for (const id of issue.featuredCosmeticIds) if (!metrics.photoReferences.some(p => p.cosmeticId === id)) throw new Error(`Missing featured magazine photograph ${id}`);
     for (const locale of ["en", "ko"]) {
       unique(metrics.pages.filter(p => p.locale === locale).map(p => p.page), "magazine export page");
       for (let n = 1; n <= issue.sharePageCount; n++) {
@@ -446,7 +443,7 @@ if (
       if (!fs.existsSync(path.join(root, `public/magazine/${issue.id}/edition-${issue.revision}/${locale}/${issue.id}-${locale}.zip`))) throw new Error("Missing magazine download bundle");
     }
   }
-  console.log(`${magazine.issues.length} magazine issue(s), bilingual exports and forecast snapshots validated.`);
+  console.log(`${magazine.issues.length} magazine issue(s), bilingual exports validated.`);
   console.log(validateDeadlines(read("research.json"), read("global-events.json"), read("deadlines.json")));
   console.log(validateRegional(read("research.json"), read("global-events.json"), read("regional-records.json")));
   console.log(

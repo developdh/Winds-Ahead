@@ -41,8 +41,8 @@ export async function generateMetadata({ params, searchParams }: Props) {
     : pageNames[route.view as keyof typeof pageNames]?.[route.locale];
   const canonical = item ? `/${locale}/cosmetics/${item.id}` : `/${locale}${slug?.length ? "/" + slug.join("/") : ""}`;
   const description = issue ? issue.subtitle[route.locale] : item ? descriptions[item.id][route.locale] : locale === "ko"
-    ? "연운 중국·글로벌 외관, 획득 정보와 출시 일정. 공식 발표와 운영자 예상을 구분해 확인하세요."
-    : "Where Winds Meet cosmetics, acquisition details and release schedules. Official announcements and editorial estimates stay separate.";
+    ? "연운 중국·글로벌 외관, 획득 정보와 출시 일정. 공식 발표와 미발표 일정을 구분해 확인하세요."
+    : "Where Winds Meet cosmetics, acquisition details and release schedules. Explore official release schedules and their sources.";
   return {
     title: `${title} · Winds Ahead / 연운경`,
     description,
