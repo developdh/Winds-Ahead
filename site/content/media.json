@@ -12399,5 +12399,51 @@
     "thumbnailBytes": 13344,
     "preview": "/media/fu-hong-bin-0-preview.webp",
     "previewBytes": 1500
+  },
+  {
+    "cosmeticId": "global-bluebird-s-blade",
+    "index": 0,
+    "originalUrl": "https://r.res.easebar.com/pic/20260527/5473f2c3-12f6-4fc5-afd5-95f5b80e47da.png",
+    "thumbnail": "/media/global-bluebird-s-blade-0-thumb.webp",
+    "full": "/media/global-bluebird-s-blade-0-full.webp",
+    "preview": "/media/global-bluebird-s-blade-0-preview.webp",
+    "thumbnailBytes": 12386,
+    "fullBytes": 32762,
+    "previewBytes": 1216,
+    "permission": "unknown",
+    "audience": "reference artwork; excluded from the code license",
+    "presentationCrop": [
+      45,
+      25,
+      875,
+      306
+    ],
+    "display": "/media/global-bluebird-s-blade-0-display.webp",
+    "displayWidth": 830,
+    "displayHeight": 281,
+    "displayBytes": 23778
+  },
+  {
+    "cosmeticId": "global-crystal-surf",
+    "index": 0,
+    "originalUrl": "https://r.res.easebar.com/pic/20260527/5473f2c3-12f6-4fc5-afd5-95f5b80e47da.png",
+    "thumbnail": "/media/global-crystal-surf-0-thumb.webp",
+    "full": "/media/global-crystal-surf-0-full.webp",
+    "preview": "/media/global-crystal-surf-0-preview.webp",
+    "thumbnailBytes": 14324,
+    "fullBytes": 39566,
+    "previewBytes": 1306,
+    "permission": "unknown",
+    "audience": "reference artwork; excluded from the code license",
+    "presentationCrop": [
+      45,
+      25,
+      875,
+      300
+    ],
+    "display": "/media/global-crystal-surf-0-display.webp",
+    "displayWidth": 830,
+    "displayHeight": 275,
+    "displayBytes": 28160
   }
 ]
