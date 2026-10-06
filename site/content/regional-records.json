@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "verifiedAt": "2026-10-01",
+  "verifiedAt": "2026-10-06",
   "records": [
     {
       "cosmeticId": "shang-qing-yun",
@@ -12833,9 +12833,10 @@
       "server": "Global",
       "status": "released",
       "sourceIds": [
-        "global-c3b100f8827c"
+        "global-c3b100f8827c",
+        "global-20260527-imperial-ko"
       ],
-      "verifiedAt": "2026-09-13",
+      "verifiedAt": "2026-10-06",
       "releaseDate": "2026-05-28",
       "precision": "day",
       "scope": {
@@ -12852,9 +12853,10 @@
       "server": "Global",
       "status": "released",
       "sourceIds": [
-        "global-c3b100f8827c"
+        "global-c3b100f8827c",
+        "global-20260527-imperial-ko"
       ],
-      "verifiedAt": "2026-09-13",
+      "verifiedAt": "2026-10-06",
       "releaseDate": "2026-05-28",
       "precision": "day",
       "scope": {

@@ -1,0 +1,45 @@
+{
+  "browser": "Chrome headless, local development server",
+  "results": [
+    {
+      "locale": "en",
+      "width": 1440,
+      "id": "global-bluebird-s-blade",
+      "name": "Bluebird's Blade",
+      "overflow": false,
+      "broken": [],
+      "errors": [],
+      "popupClosed": true
+    },
+    {
+      "locale": "ko",
+      "width": 390,
+      "id": "global-bluebird-s-blade",
+      "name": "칼을 문 푸른 새",
+      "overflow": false,
+      "broken": [],
+      "errors": [],
+      "popupClosed": true
+    },
+    {
+      "locale": "en",
+      "width": 1440,
+      "id": "global-crystal-surf",
+      "name": "Crystal Surf",
+      "overflow": false,
+      "broken": [],
+      "errors": [],
+      "popupClosed": true
+    },
+    {
+      "locale": "ko",
+      "width": 390,
+      "id": "global-crystal-surf",
+      "name": "맑은 물결",
+      "overflow": false,
+      "broken": [],
+      "errors": [],
+      "popupClosed": true
+    }
+  ]
+}

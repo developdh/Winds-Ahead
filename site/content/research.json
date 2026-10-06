@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "verifiedAt": "2026-10-01",
+  "verifiedAt": "2026-10-06",
   "scope": "Cross-server archive from individually reviewed official announcements; not a certified complete game inventory.",
   "sources": [
     {
@@ -1743,13 +1743,16 @@
     {
       "id": "global-c3b100f8827c",
       "url": "https://www.wherewindsmeetgame.com/news/official/TheImperialPalace.html",
-      "titleOriginal": "TheImperialPalace · official update overview",
+      "titleOriginal": "[The Imperial Palace] Version 1.7 Update Overview",
       "publisher": "NetEase / Where Winds Meet official website",
       "server": "Global",
-      "displayedPublicationDate": null,
-      "publicationDatePrecision": "unknown",
+      "displayedPublicationDate": "2026-05-27",
+      "publicationDatePrecision": "day",
       "publicationTimezone": null,
-      "evidenceTier": "A"
+      "evidenceTier": "A",
+      "verifiedAt": "2026-10-06",
+      "imageUrl": "https://r.res.easebar.com/pic/20260527/5473f2c3-12f6-4fc5-afd5-95f5b80e47da.png",
+      "verificationNote": "Read named EN and KO Fu Shen collaboration sections and inspected both weapon panels. Explicit historical sale period and discounted price; timezone unstated. No current availability claim."
     },
     {
       "id": "global-4ab024462319",
@@ -3998,6 +4001,20 @@
       "kind": "community",
       "verifiedAt": "2026-09-30",
       "verificationNote": "Named Chinese outfit and front/rear captions inspected on the rendered article; exact existing name and appearance matched. Community evidence is used only for gallery photos, not official Global naming, release dates or prices. Original watermark retained; reuse permission remains unknown."
+    },
+    {
+      "id": "global-20260527-imperial-ko",
+      "url": "https://www.wherewindsmeetgame.com/kr/news/official/TheImperialPalace.html",
+      "publisher": "NetEase / Where Winds Meet official website",
+      "server": "Global",
+      "titleOriginal": "[궁궐의 새벽빛] 5월 28일 1.7 버전 업데이트 미리보기",
+      "displayedPublicationDate": "2026-05-27",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-10-06",
+      "imageUrl": "https://r.res.easebar.com/pic/20260527/d096568c-22df-4975-9bce-2797690ea8cf.png",
+      "verificationNote": "Visually read official names 칼을 문 푸른 새 (Mo Blade) and 맑은 물결 (Heng Blade), 음옥 2개, and May 28 06:00:00–July 26 05:59:59. EN prints 05:00:00–04:59:59; neither sale paragraph labels its timezone."
     }
   ],
   "mediaRights": {
@@ -40533,7 +40550,7 @@
       "acquisitionServer": "Global",
       "mediaServer": "Global",
       "officialNameEn": "Bluebird's Blade",
-      "officialNameKo": null,
+      "officialNameKo": "칼을 문 푸른 새",
       "cnRelease": {
         "date": null,
         "precision": "unknown",
@@ -40550,18 +40567,39 @@
         "regularAmount": null,
         "currencyOriginal": "Sound Jade",
         "location": {
-          "en": "Draw Shop",
-          "ko": "공명 상점",
-          "original": "exchange_shop"
+          "en": "Draw – Echo Shop",
+          "ko": "공명-화음 상점",
+          "original": "Draw - Echo Shop"
         },
         "conditions": {
-          "en": "The official listing establishes the acquisition route, but does not state a price for this item. Current availability is not implied.",
-          "ko": "공식 목록에서 획득 경로를 확인했으나 개별 가격은 미표기입니다. 현재 판매 여부는 별도입니다."
+          "en": "Historical Fu Shen collaboration Mo Blade appearance. Draw – Echo Shop: discounted price 2 Sound Jade. Official EN sale period: May 28, 2026 05:00:00–July 26, 2026 04:59:59; KO: 06:00:00–05:59:59 on the same dates. Timezone unstated in both sale paragraphs; regular price and current reavailability unknown.",
+          "ko": "부신 콜라보 맥도 외관의 과거 판매 기록입니다. 공명-화음 상점 한정 할인가는 음옥 2개입니다. 한국어 판매 기간은 2026년 5월 28일 06:00:00~7월 26일 05:59:59이며 영문은 같은 날짜 05:00:00~04:59:59입니다. 양쪽 판매 문장에 시간대는 미표기이며 정상가·현재 재판매 여부는 미확인입니다."
         }
       },
-      "images": [],
+      "images": [
+        {
+          "url": "https://r.res.easebar.com/pic/20260527/5473f2c3-12f6-4fc5-afd5-95f5b80e47da.png",
+          "width": 920,
+          "height": 331,
+          "bytes": 16464994,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "description": "Mo Blade appearance in the official Fu Shen collaboration section",
+          "inspectionNote": "2026-10-06: visually inspected named EN/KO weapon sections and corresponding individual action/back panels. Complete weapon panel retained in enlargement; border-free display crop checked. No usable female alternative verified in this section.",
+          "sourceFrame": 0,
+          "sourceCrop": [
+            40,
+            9930,
+            960,
+            10261
+          ],
+          "reusePermission": "unknown",
+          "localCopy": null,
+          "server": "Global"
+        }
+      ],
       "officialVideos": [],
-      "mediaStatus": "pending",
+      "mediaStatus": "verified",
       "global": {
         "status": "unknown",
         "releaseDate": null,
@@ -40577,7 +40615,7 @@
       "acquisitionServer": "Global",
       "mediaServer": "Global",
       "officialNameEn": "Crystal Surf",
-      "officialNameKo": null,
+      "officialNameKo": "맑은 물결",
       "cnRelease": {
         "date": null,
         "precision": "unknown",
@@ -40594,18 +40632,39 @@
         "regularAmount": null,
         "currencyOriginal": "Sound Jade",
         "location": {
-          "en": "Draw Shop",
-          "ko": "공명 상점",
-          "original": "exchange_shop"
+          "en": "Draw – Echo Shop",
+          "ko": "공명-화음 상점",
+          "original": "Draw - Echo Shop"
         },
         "conditions": {
-          "en": "The official listing establishes the acquisition route, but does not state a price for this item. Current availability is not implied.",
-          "ko": "공식 목록에서 획득 경로를 확인했으나 개별 가격은 미표기입니다. 현재 판매 여부는 별도입니다."
+          "en": "Historical Fu Shen collaboration Heng Blade appearance. Draw – Echo Shop: discounted price 2 Sound Jade. Official EN sale period: May 28, 2026 05:00:00–July 26, 2026 04:59:59; KO: 06:00:00–05:59:59 on the same dates. Timezone unstated in both sale paragraphs; regular price and current reavailability unknown.",
+          "ko": "부신 콜라보 횡도 외관의 과거 판매 기록입니다. 공명-화음 상점 한정 할인가는 음옥 2개입니다. 한국어 판매 기간은 2026년 5월 28일 06:00:00~7월 26일 05:59:59이며 영문은 같은 날짜 05:00:00~04:59:59입니다. 양쪽 판매 문장에 시간대는 미표기이며 정상가·현재 재판매 여부는 미확인입니다."
         }
       },
-      "images": [],
+      "images": [
+        {
+          "url": "https://r.res.easebar.com/pic/20260527/5473f2c3-12f6-4fc5-afd5-95f5b80e47da.png",
+          "width": 920,
+          "height": 325,
+          "bytes": 16464994,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "description": "Heng Blade appearance in the official Fu Shen collaboration section",
+          "inspectionNote": "2026-10-06: visually inspected named EN/KO weapon sections and corresponding individual action/back panels. Complete weapon panel retained in enlargement; border-free display crop checked. No usable female alternative verified in this section.",
+          "sourceFrame": 0,
+          "sourceCrop": [
+            40,
+            10265,
+            960,
+            10590
+          ],
+          "reusePermission": "unknown",
+          "localCopy": null,
+          "server": "Global"
+        }
+      ],
       "officialVideos": [],
-      "mediaStatus": "pending",
+      "mediaStatus": "verified",
       "global": {
         "status": "unknown",
         "releaseDate": null,

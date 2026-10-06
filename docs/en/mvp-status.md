@@ -15,7 +15,7 @@ Updated October 2, 2026. [Winds Ahead](https://windsahead.com/en) and its source
 
 ## Current content snapshot
 
-720 cosmetic records; 785 static image references across 467 records; 253 records still lack an inspected photo. There are 643 regional records, 211 Global calendar events, 25 structured deadlines, 24 audit-only forecast revisions including eight withdrawals and 395 wiki references (383 detailed articles). These are repository counts, not certified game-wide coverage. Unresolved regional matches may remain separate.
+720 cosmetic records; 787 static image references across 469 records; 251 records still lack an inspected photo. There are 643 regional records, 211 Global calendar events, 27 structured deadlines, 24 audit-only forecast revisions including eight withdrawals and 395 wiki references (383 detailed articles). These are repository counts, not certified game-wide coverage. Unresolved regional matches may remain separate.
 
 ## Canonical files
 
