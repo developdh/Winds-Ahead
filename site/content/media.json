@@ -2371,12 +2371,23 @@
     "originalUrl": "https://nie.res.netease.com/r/pic/20260213/7450fd74-4ea1-4fcf-864e-bd7e5649f77d.jpg",
     "thumbnail": "/media/kongshan-xun-mei-0-thumb.webp",
     "full": "/media/kongshan-xun-mei-0-full.webp",
-    "thumbnailBytes": 51322,
+    "thumbnailBytes": 38774,
     "fullBytes": 531188,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
     "preview": "/media/kongshan-xun-mei-0-preview.webp",
-    "previewBytes": 1936
+    "previewBytes": 2292,
+    "presentationSubject": "female",
+    "presentationCrop": [
+      30,
+      2460,
+      570,
+      3600
+    ],
+    "display": "/media/kongshan-xun-mei-0-display.webp",
+    "displayWidth": 540,
+    "displayHeight": 1140,
+    "displayBytes": 70722
   },
   {
     "cosmeticId": "ma-shang-you-qian",
@@ -2485,15 +2496,15 @@
   {
     "cosmeticId": "pi-xiu-ci-bao",
     "index": 0,
-    "originalUrl": "https://nie.res.netease.com/r/pic/20260213/647a3f7b-62a1-4c68-b90e-ef0ccd70999f.jpg",
+    "originalUrl": "https://r.res.easebar.com/pic/20260930/c5ec5337-74ff-424e-a118-8f02c46911ee.png",
     "thumbnail": "/media/pi-xiu-ci-bao-0-thumb.webp",
     "full": "/media/pi-xiu-ci-bao-0-full.webp",
-    "thumbnailBytes": 31088,
-    "fullBytes": 51080,
-    "permission": "unknown",
-    "audience": "reference artwork; excluded from the code license",
     "preview": "/media/pi-xiu-ci-bao-0-preview.webp",
-    "previewBytes": 1368
+    "thumbnailBytes": 41392,
+    "fullBytes": 70594,
+    "previewBytes": 2622,
+    "permission": "unknown",
+    "audience": "reference artwork; excluded from the code license"
   },
   {
     "cosmeticId": "qing-luan-yao-yin",
@@ -12445,5 +12456,57 @@
     "displayWidth": 830,
     "displayHeight": 275,
     "displayBytes": 28160
+  },
+  {
+    "cosmeticId": "cang-yinni-shang-tian-feng",
+    "index": 1,
+    "originalUrl": "https://nie.res.netease.com/r/pic/20260213/3c5c73be-8818-4c11-aebb-9362751be174.jpg",
+    "thumbnail": "/media/cang-yinni-shang-tian-feng-1-thumb.webp",
+    "full": "/media/cang-yinni-shang-tian-feng-1-full.webp",
+    "preview": "/media/cang-yinni-shang-tian-feng-1-preview.webp",
+    "thumbnailBytes": 38674,
+    "fullBytes": 108450,
+    "previewBytes": 2290,
+    "permission": "unknown",
+    "audience": "reference artwork; excluded from the code license",
+    "presentationSubject": "female"
+  },
+  {
+    "cosmeticId": "tan-mei-feng-chun",
+    "index": 1,
+    "originalUrl": "https://nie.res.netease.com/r/pic/20260213/7ec31e04-05cb-4d19-9e97-06226657fc73.png",
+    "thumbnail": "/media/tan-mei-feng-chun-1-thumb.webp",
+    "full": "/media/tan-mei-feng-chun-1-full.webp",
+    "preview": "/media/tan-mei-feng-chun-1-preview.webp",
+    "thumbnailBytes": 51380,
+    "fullBytes": 971290,
+    "previewBytes": 4764,
+    "permission": "unknown",
+    "audience": "reference artwork; excluded from the code license",
+    "presentationSubject": "female",
+    "presentationCrop": [
+      0,
+      0,
+      804,
+      1000
+    ],
+    "display": "/media/tan-mei-feng-chun-1-display.webp",
+    "displayWidth": 804,
+    "displayHeight": 1000,
+    "displayBytes": 122582
+  },
+  {
+    "cosmeticId": "youzi-yi",
+    "index": 1,
+    "originalUrl": "https://nie.res.netease.com/r/pic/20251224/3059eab8-56f7-453e-9746-ca8b605158df.jpg",
+    "thumbnail": "/media/youzi-yi-1-thumb.webp",
+    "full": "/media/youzi-yi-1-full.webp",
+    "preview": "/media/youzi-yi-1-preview.webp",
+    "thumbnailBytes": 39752,
+    "fullBytes": 306654,
+    "previewBytes": 2904,
+    "permission": "unknown",
+    "audience": "reference artwork; excluded from the code license",
+    "presentationSubject": "female"
   }
 ]

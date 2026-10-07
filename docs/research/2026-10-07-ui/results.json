@@ -1,0 +1,215 @@
+{
+  "checkedAt": "2026-10-07",
+  "browser": "Codex in-app Chromium",
+  "checks": [
+    {
+      "locale": "ko",
+      "width": 390,
+      "id": "tan-mei-feng-chun",
+      "announced": true,
+      "broken": [],
+      "date": true,
+      "hero": "/media/tan-mei-feng-chun-1-display.webp",
+      "overflow": false,
+      "title": "매화 끝의 봄",
+      "heroLoaded": true
+    },
+    {
+      "locale": "ko",
+      "width": 390,
+      "id": "kongshan-xun-mei",
+      "announced": true,
+      "broken": [],
+      "date": true,
+      "hero": "/media/kongshan-xun-mei-0-display.webp",
+      "overflow": false,
+      "title": "설산의 매화",
+      "heroLoaded": true
+    },
+    {
+      "locale": "ko",
+      "width": 390,
+      "id": "youzi-yi",
+      "announced": true,
+      "broken": [],
+      "date": true,
+      "hero": "/media/youzi-yi-1-full.webp",
+      "overflow": false,
+      "title": "나그네의 옷",
+      "heroLoaded": true
+    },
+    {
+      "locale": "ko",
+      "width": 390,
+      "id": "cang-yinni-shang-tian-feng",
+      "announced": true,
+      "broken": [],
+      "date": true,
+      "hero": "/media/cang-yinni-shang-tian-feng-1-full.webp",
+      "overflow": false,
+      "title": "숨겨진 선율-천상의 바람",
+      "heroLoaded": true
+    },
+    {
+      "locale": "ko",
+      "width": 390,
+      "id": "pi-xiu-ci-bao",
+      "announced": true,
+      "broken": [],
+      "date": true,
+      "hero": "/media/pi-xiu-ci-bao-0-full.webp",
+      "overflow": false,
+      "title": "비휴의 축복",
+      "heroLoaded": true
+    },
+    {
+      "locale": "en",
+      "width": 1440,
+      "id": "tan-mei-feng-chun",
+      "announced": true,
+      "broken": [],
+      "date": true,
+      "heroLoaded": true,
+      "overflow": false,
+      "title": "Plum's Promise"
+    },
+    {
+      "locale": "en",
+      "width": 1440,
+      "id": "kongshan-xun-mei",
+      "announced": true,
+      "broken": [],
+      "date": true,
+      "heroLoaded": true,
+      "overflow": false,
+      "title": "Silent Plum"
+    },
+    {
+      "locale": "en",
+      "width": 1440,
+      "id": "youzi-yi",
+      "announced": true,
+      "broken": [],
+      "date": true,
+      "heroLoaded": true,
+      "overflow": false,
+      "title": "Kin and Keep"
+    },
+    {
+      "locale": "en",
+      "width": 1440,
+      "id": "cang-yinni-shang-tian-feng",
+      "announced": true,
+      "broken": [],
+      "date": true,
+      "heroLoaded": true,
+      "overflow": false,
+      "title": "Silent Voice: Aerial Grace"
+    },
+    {
+      "locale": "en",
+      "width": 1440,
+      "id": "pi-xiu-ci-bao",
+      "announced": true,
+      "broken": [],
+      "date": true,
+      "heroLoaded": true,
+      "overflow": false,
+      "title": "Pixiu's Prize"
+    }
+  ],
+  "roadmapChecks": [
+    {
+      "headings": [
+        "숨겨진 선율-천상의 바람",
+        "설산의 매화",
+        "비휴의 축복",
+        "매화 끝의 봄",
+        "나그네의 옷"
+      ],
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "headings": [
+        "숨겨진 선율-천상의 바람",
+        "설산의 매화",
+        "비휴의 축복",
+        "매화 끝의 봄",
+        "나그네의 옷"
+      ],
+      "overflow": false,
+      "width": 360
+    },
+    {
+      "headings": [
+        "숨겨진 선율-천상의 바람",
+        "설산의 매화",
+        "비휴의 축복",
+        "매화 끝의 봄",
+        "나그네의 옷"
+      ],
+      "overflow": false,
+      "width": 390
+    },
+    {
+      "headings": [
+        "숨겨진 선율-천상의 바람",
+        "설산의 매화",
+        "비휴의 축복",
+        "매화 끝의 봄",
+        "나그네의 옷"
+      ],
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "headings": [
+        "숨겨진 선율-천상의 바람",
+        "설산의 매화",
+        "비휴의 축복",
+        "매화 끝의 봄",
+        "나그네의 옷"
+      ],
+      "overflow": false,
+      "width": 1024
+    },
+    {
+      "headings": [
+        "숨겨진 선율-천상의 바람",
+        "설산의 매화",
+        "비휴의 축복",
+        "매화 끝의 봄",
+        "나그네의 옷"
+      ],
+      "overflow": false,
+      "width": 1440
+    }
+  ],
+  "calendarMobile": {
+    "overflow": false,
+    "width": 320
+  },
+  "calendarEnglish": {
+    "overflow": false,
+    "width": 320
+  },
+  "calendarDesktop": {
+    "overflow": false,
+    "width": 1440
+  },
+  "gallery": {
+    "opened": true,
+    "fullImageLoaded": true,
+    "closed": true
+  },
+  "relatedCards": {
+    "ko": "글로벌 출시 예정 D-4",
+    "count": 2
+  },
+  "errors": [],
+  "limitations": [
+    "Viewport emulation, not physical devices.",
+    "Firefox/WebKit, 200% text zoom and field performance not tested."
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "verifiedAt": "2026-10-06",
+  "verifiedAt": "2026-10-07",
   "scope": "Cross-server archive from individually reviewed official announcements; not a certified complete game inventory.",
   "sources": [
     {
@@ -4015,6 +4015,32 @@
       "verifiedAt": "2026-10-06",
       "imageUrl": "https://r.res.easebar.com/pic/20260527/d096568c-22df-4975-9bce-2797690ea8cf.png",
       "verificationNote": "Visually read official names 칼을 문 푸른 새 (Mo Blade) and 맑은 물결 (Heng Blade), 음옥 2개, and May 28 06:00:00–July 26 05:59:59. EN prints 05:00:00–04:59:59; neither sale paragraph labels its timezone."
+    },
+    {
+      "id": "global-20261006-october11-en",
+      "url": "https://www.wherewindsmeetgame.com/news/official/1011update.html",
+      "publisher": "Where Winds Meet / NetEase",
+      "server": "Global",
+      "titleOriginal": "[Perilous Eminence] Version 2.2 Update Overview - October 11",
+      "displayedPublicationDate": "2026-10-06",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-10-07",
+      "verificationNote": "Visually read all five named appearance sections in the original EN/KO posters. Item dates explicitly say October 11; the KO masthead retains September 16. EN local listing time is 05:00:00 and KO is 06:00:00, with no timezone printed. Announcement only; no in-game verification."
+    },
+    {
+      "id": "global-20261006-october11-ko",
+      "url": "https://www.wherewindsmeetgame.com/kr/news/official/1011update.html",
+      "publisher": "Where Winds Meet / NetEase",
+      "server": "Global",
+      "titleOriginal": "[구름 위 동행] 10월11일 2.2 버전 업데이트 미리보기",
+      "displayedPublicationDate": "2026-10-06",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-10-07",
+      "verificationNote": "Visually read all five named appearance sections in the original EN/KO posters. Item dates explicitly say October 11; the KO masthead retains September 16. EN local listing time is 05:00:00 and KO is 06:00:00, with no timezone printed. Announcement only; no in-game verification."
     }
   ],
   "mediaRights": {
@@ -13970,8 +13996,8 @@
       "sourceId": "cn-d8dfdef52f57",
       "acquisitionServer": "CN",
       "mediaServer": "CN",
-      "officialNameEn": null,
-      "officialNameKo": null,
+      "officialNameEn": "Kin and Keep",
+      "officialNameKo": "나그네의 옷",
       "cnRelease": {
         "date": "2025-12-27",
         "precision": "day",
@@ -14013,6 +14039,27 @@
           "reusePermission": "unknown",
           "localCopy": null,
           "server": "CN"
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20251224/3059eab8-56f7-453e-9746-ca8b605158df.jpg",
+          "width": 2813,
+          "height": 5000,
+          "bytes": 4392550,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-d8dfdef52f57",
+          "inspectionNote": "Named original source and EN/KO October 11 appearance panels visually compared on October 7, 2026. No in-game availability claim.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/youzi-yi-1-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Female Kin and Keep outfit with a family-portrait jacket and goose hair ornament in official CN artwork.",
+            "ko": "가족 얼굴이 그려진 겉옷과 거위 머리 장식을 착용한 나그네의 옷 여성 외형의 중국 공식 사진."
+          },
+          "caption": {
+            "en": "Official CN reference. Full source artwork remains available in enlargement.",
+            "ko": "중국 공식 참고사진입니다. 확대하면 원본 전체 구도를 볼 수 있습니다."
+          }
         }
       ],
       "officialVideos": [],
@@ -14022,7 +14069,14 @@
         "officialName": null,
         "releaseDate": null
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "searchAliases": [
+        "游子衣"
+      ],
+      "namingNote": {
+        "en": "Official EN/KO names read in the October 6 Global notice. CN identity is matched separately; regional prices and dates remain separate.",
+        "ko": "10월 6일 글로벌 공식 공지에서 영어·한국어 명칭을 확인했습니다. 중국 항목의 동일성은 별도로 대조하며 서버별 가격과 일정은 구분합니다."
+      }
     },
     {
       "id": "sui-han-xiang",
@@ -17617,8 +17671,8 @@
       "sourceId": "cn-1971a4849e93",
       "acquisitionServer": "CN",
       "mediaServer": "CN",
-      "officialNameEn": null,
-      "officialNameKo": null,
+      "officialNameEn": "Silent Voice: Aerial Grace",
+      "officialNameKo": "숨겨진 선율-천상의 바람",
       "cnRelease": {
         "date": "2026-02-11",
         "precision": "day",
@@ -17660,6 +17714,27 @@
           "reusePermission": "unknown",
           "localCopy": null,
           "server": "CN"
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260213/3c5c73be-8818-4c11-aebb-9362751be174.jpg",
+          "width": 3000,
+          "height": 1681,
+          "bytes": 1835945,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-1971a4849e93",
+          "inspectionNote": "Named original source and EN/KO October 11 appearance panels visually compared on October 7, 2026. No in-game availability claim.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/cang-yinni-shang-tian-feng-1-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Female character holding the silver-blue Aerial Grace fan in official CN artwork.",
+            "ko": "은빛·푸른빛 천상의 바람 부채를 든 여성 캐릭터의 중국 공식 사진."
+          },
+          "caption": {
+            "en": "Official CN reference. Full source artwork remains available in enlargement.",
+            "ko": "중국 공식 참고사진입니다. 확대하면 원본 전체 구도를 볼 수 있습니다."
+          }
         }
       ],
       "officialVideos": [],
@@ -17669,7 +17744,15 @@
         "officialName": null,
         "releaseDate": null
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "searchAliases": [
+        "藏音·霓裳天风",
+        "Aerial Grace"
+      ],
+      "namingNote": {
+        "en": "Official EN/KO names read in the October 6 Global notice. CN identity is matched separately; regional prices and dates remain separate.",
+        "ko": "10월 6일 글로벌 공식 공지에서 영어·한국어 명칭을 확인했습니다. 중국 항목의 동일성은 별도로 대조하며 서버별 가격과 일정은 구분합니다."
+      }
     },
     {
       "id": "tan-mei-feng-chun",
@@ -17679,8 +17762,8 @@
       "sourceId": "cn-60c7d971d329",
       "acquisitionServer": "CN",
       "mediaServer": "CN",
-      "officialNameEn": null,
-      "officialNameKo": null,
+      "officialNameEn": "Plum's Promise",
+      "officialNameKo": "매화 끝의 봄",
       "cnRelease": {
         "date": "2026-02-13",
         "precision": "day",
@@ -17722,6 +17805,27 @@
           "reusePermission": "unknown",
           "localCopy": null,
           "server": "CN"
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260213/7ec31e04-05cb-4d19-9e97-06226657fc73.png",
+          "width": 1080,
+          "height": 10077,
+          "bytes": 16001867,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-60c7d971d329",
+          "inspectionNote": "Named original source and EN/KO October 11 appearance panels visually compared on October 7, 2026. No in-game availability claim.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/tan-mei-feng-chun-1-full.webp",
+          "server": "CN",
+          "alt": {
+            "en": "Female Plum’s Promise outfit: white layers and red plum ornaments in the official CN poster.",
+            "ko": "매화 끝의 봄 여성 의상: 흰 의상과 붉은 매화 장식을 보여주는 중국 공식 포스터."
+          },
+          "caption": {
+            "en": "Official CN reference. Full source artwork remains available in enlargement.",
+            "ko": "중국 공식 참고사진입니다. 확대하면 원본 전체 구도를 볼 수 있습니다."
+          }
         }
       ],
       "officialVideos": [],
@@ -17731,7 +17835,14 @@
         "officialName": null,
         "releaseDate": null
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "searchAliases": [
+        "探梅逢春"
+      ],
+      "namingNote": {
+        "en": "Official EN/KO names read in the October 6 Global notice. CN identity is matched separately; regional prices and dates remain separate.",
+        "ko": "10월 6일 글로벌 공식 공지에서 영어·한국어 명칭을 확인했습니다. 중국 항목의 동일성은 별도로 대조하며 서버별 가격과 일정은 구분합니다."
+      }
     },
     {
       "id": "kongshan-xun-mei",
@@ -17741,8 +17852,8 @@
       "sourceId": "cn-60c7d971d329",
       "acquisitionServer": "CN",
       "mediaServer": "CN",
-      "officialNameEn": null,
-      "officialNameKo": null,
+      "officialNameEn": "Silent Plum",
+      "officialNameKo": "설산의 매화",
       "cnRelease": {
         "date": "2026-02-13",
         "precision": "day",
@@ -17778,12 +17889,20 @@
           "kind": "official_appearance_reference",
           "visuallyInspected": true,
           "description": "Named appearance reference",
-          "inspectionNote": "Official named section and representative appearance viewed in contact sheet. No current in-game build verification.",
+          "inspectionNote": "Rechecked October 7, 2026 against named Global artwork; female back view selected to preserve the complete hair length. Entire original poster retained.",
           "sourceFrame": 0,
           "sourceCrop": null,
           "reusePermission": "unknown",
           "localCopy": null,
-          "server": "CN"
+          "server": "CN",
+          "alt": {
+            "en": "Silent Plum: long white female hair and red plum hairpin, from the official CN poster.",
+            "ko": "설산의 매화: 중국 공식 포스터의 긴 여성 백발과 붉은 매화 비녀."
+          },
+          "caption": {
+            "en": "Female back view from the official CN poster. Enlargement retains the entire poster, including both character views.",
+            "ko": "중국 공식 포스터의 여성 뒷모습입니다. 확대하면 남녀 외형을 포함한 전체 포스터를 볼 수 있습니다."
+          }
         }
       ],
       "officialVideos": [],
@@ -17792,6 +17911,13 @@
         "status": "unknown",
         "officialName": null,
         "releaseDate": null
+      },
+      "searchAliases": [
+        "空山寻梅"
+      ],
+      "namingNote": {
+        "en": "Official EN/KO names read in the October 6 Global notice. CN identity is matched separately; regional prices and dates remain separate.",
+        "ko": "10월 6일 글로벌 공식 공지에서 영어·한국어 명칭을 확인했습니다. 중국 항목의 동일성은 별도로 대조하며 서버별 가격과 일정은 구분합니다."
       }
     },
     {
@@ -18301,9 +18427,9 @@
       "category": "effect",
       "sourceId": "cn-60c7d971d329",
       "acquisitionServer": "CN",
-      "mediaServer": "CN",
-      "officialNameEn": null,
-      "officialNameKo": null,
+      "mediaServer": "Global",
+      "officialNameEn": "Pixiu's Prize",
+      "officialNameKo": "비휴의 축복",
       "cnRelease": {
         "date": "2026-02-13",
         "precision": "day",
@@ -18332,19 +18458,31 @@
       },
       "images": [
         {
-          "url": "https://nie.res.netease.com/r/pic/20260213/647a3f7b-62a1-4c68-b90e-ef0ccd70999f.jpg",
-          "width": 6000,
-          "height": 3375,
-          "bytes": 4696158,
+          "url": "https://r.res.easebar.com/pic/20260930/c5ec5337-74ff-424e-a118-8f02c46911ee.png",
+          "width": 984,
+          "height": 6858,
+          "bytes": 5960940,
           "kind": "official_appearance_reference",
           "visuallyInspected": true,
-          "description": "Named appearance reference",
-          "inspectionNote": "Official named section and representative appearance viewed in contact sheet. No current in-game build verification.",
-          "sourceFrame": 0,
-          "sourceCrop": null,
+          "sourceId": "global-20261006-october11-en",
+          "inspectionNote": "Named original source and EN/KO October 11 appearance panels visually compared on October 7, 2026. No in-game availability claim.",
           "reusePermission": "unknown",
-          "localCopy": null,
-          "server": "CN"
+          "localCopy": "/media/pi-xiu-ci-bao-0-full.webp",
+          "server": "Global",
+          "alt": {
+            "en": "Pixiu’s Prize Leaping Toad VFX: gold and turquoise creatures and swirling light in the official Global preview.",
+            "ko": "비휴의 축복 합마공 이펙트: 금빛·청록색 동물과 빛의 궤적을 보여주는 글로벌 공식 예고 사진."
+          },
+          "caption": {
+            "en": "Named VFX panel from the official Global notice. The source link retains the complete announcement poster.",
+            "ko": "글로벌 공식 공지의 해당 이펙트 부분입니다. 출처 링크에서 전체 공지 포스터를 볼 수 있습니다."
+          },
+          "sourceCrop": [
+            35,
+            5595,
+            972,
+            6025
+          ]
         }
       ],
       "officialVideos": [],
@@ -18353,6 +18491,13 @@
         "status": "unknown",
         "officialName": null,
         "releaseDate": null
+      },
+      "searchAliases": [
+        "貔貅赐宝"
+      ],
+      "namingNote": {
+        "en": "Official EN/KO names read in the October 6 Global notice. CN identity is matched separately; regional prices and dates remain separate.",
+        "ko": "10월 6일 글로벌 공식 공지에서 영어·한국어 명칭을 확인했습니다. 중국 항목의 동일성은 별도로 대조하며 서버별 가격과 일정은 구분합니다."
       }
     },
     {

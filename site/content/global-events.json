@@ -3531,6 +3531,91 @@
         "en": "Announced for October 4, 2026 at 05:00 (UTC+8), explicitly stated by the September 30 English notice (06:00 KST when converted). The Korean notice shows 06:00 without naming a timezone. Scheduled listing; live availability is not verified.",
         "ko": "9월 30일 영문 공지는 2026년 10월 4일 05:00(UTC+8)을 명시합니다. 한국 시간으로 06:00이며 한국어 공지도 06:00을 표기하지만 시간대는 별도로 적지 않았습니다. 출시 예고이며 실제 판매 확인은 아닙니다."
       }
+    },
+    {
+      "id": "release-global-cang-yinni-shang-tian-feng",
+      "cosmeticId": "cang-yinni-shang-tian-feng",
+      "date": "2026-10-11",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-20261006-october11-en",
+        "global-20261006-october11-ko"
+      ],
+      "status": "announced",
+      "scope": {
+        "en": "Announced for October 11, 2026. EN prints 05:00:00; KO prints 06:00:00. Neither poster states a timezone. Item-level dates take precedence over the stale September 16 KO masthead. In-game availability has not been verified.",
+        "ko": "2026년 10월 11일 출시 예고입니다. 영어는 05:00:00, 한국어는 06:00:00을 표기하며 시간대는 양쪽 모두 미표기입니다. 한국어 상단의 9월 16일 문구 대신 각 외관에 명시된 10월 11일을 기록합니다. 게임 내 실제 판매 여부는 미확인입니다."
+      }
+    },
+    {
+      "id": "release-global-tan-mei-feng-chun",
+      "cosmeticId": "tan-mei-feng-chun",
+      "date": "2026-10-11",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-20261006-october11-en",
+        "global-20261006-october11-ko"
+      ],
+      "status": "announced",
+      "scope": {
+        "en": "Announced for October 11, 2026. EN prints 05:00:00; KO prints 06:00:00. Neither poster states a timezone. Item-level dates take precedence over the stale September 16 KO masthead. In-game availability has not been verified.",
+        "ko": "2026년 10월 11일 출시 예고입니다. 영어는 05:00:00, 한국어는 06:00:00을 표기하며 시간대는 양쪽 모두 미표기입니다. 한국어 상단의 9월 16일 문구 대신 각 외관에 명시된 10월 11일을 기록합니다. 게임 내 실제 판매 여부는 미확인입니다."
+      }
+    },
+    {
+      "id": "release-global-kongshan-xun-mei",
+      "cosmeticId": "kongshan-xun-mei",
+      "date": "2026-10-11",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-20261006-october11-en",
+        "global-20261006-october11-ko"
+      ],
+      "status": "announced",
+      "scope": {
+        "en": "Announced for October 11, 2026. EN prints 05:00:00; KO prints 06:00:00. Neither poster states a timezone. Item-level dates take precedence over the stale September 16 KO masthead. In-game availability has not been verified.",
+        "ko": "2026년 10월 11일 출시 예고입니다. 영어는 05:00:00, 한국어는 06:00:00을 표기하며 시간대는 양쪽 모두 미표기입니다. 한국어 상단의 9월 16일 문구 대신 각 외관에 명시된 10월 11일을 기록합니다. 게임 내 실제 판매 여부는 미확인입니다."
+      }
+    },
+    {
+      "id": "release-global-youzi-yi",
+      "cosmeticId": "youzi-yi",
+      "date": "2026-10-11",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-20261006-october11-en",
+        "global-20261006-october11-ko"
+      ],
+      "status": "announced",
+      "scope": {
+        "en": "Announced for October 11, 2026. EN prints 05:00:00; KO prints 06:00:00. Neither poster states a timezone. Item-level dates take precedence over the stale September 16 KO masthead. In-game availability has not been verified.",
+        "ko": "2026년 10월 11일 출시 예고입니다. 영어는 05:00:00, 한국어는 06:00:00을 표기하며 시간대는 양쪽 모두 미표기입니다. 한국어 상단의 9월 16일 문구 대신 각 외관에 명시된 10월 11일을 기록합니다. 게임 내 실제 판매 여부는 미확인입니다."
+      }
+    },
+    {
+      "id": "release-global-pi-xiu-ci-bao",
+      "cosmeticId": "pi-xiu-ci-bao",
+      "date": "2026-10-11",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "sourceIds": [
+        "global-20261006-october11-en",
+        "global-20261006-october11-ko"
+      ],
+      "status": "announced",
+      "scope": {
+        "en": "Announced for October 11, 2026. EN prints 05:00:00; KO prints 06:00:00. Neither poster states a timezone. Item-level dates take precedence over the stale September 16 KO masthead. In-game availability has not been verified.",
+        "ko": "2026년 10월 11일 출시 예고입니다. 영어는 05:00:00, 한국어는 06:00:00을 표기하며 시간대는 양쪽 모두 미표기입니다. 한국어 상단의 9월 16일 문구 대신 각 외관에 명시된 10월 11일을 기록합니다. 게임 내 실제 판매 여부는 미확인입니다."
+      }
     }
   ]
 }

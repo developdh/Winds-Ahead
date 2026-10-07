@@ -446,7 +446,7 @@ test('regional release status distinguishes future, unknown, and overdue evidenc
   assert.equal(matchesReleaseFilter(future,released,'cn-upcoming','2026-09-17'),false);
   assert.equal(matchesReleaseFilter(future,released,'pending','2026-09-17'),true);
   for (const filter of ['cn-upcoming','global-upcoming','pending']) assert.equal(validServer(filter),filter);
-  const guarded = globalOutlook('test',{...future,status:'released'},[],[],today);
+  const guarded = globalOutlook('test',{...future,status:'released'},[],today);
   assert.equal(guarded.kind,'official'); assert.equal(guarded.days,3);
 });
 test('historical CN announcement corrections preserve evidence without inventing future dates', () => {
@@ -485,19 +485,18 @@ test('official countdown uses calendar days and never implies an unverified past
   assert.equal(daysUntil('2026-10-21','2026-09-13'),38);
   assert.equal(daysUntil('2026-11-02','2026-11-01'),1);
   assert.equal(daysUntil('2026-02-30','2026-09-13'),null);
-  assert.equal(globalOutlook('test',null,[event],[],'2026-09-13').days,38);
-  assert.equal(globalOutlook('test',null,[event],[],'2026-10-21').days,0);
-  assert.equal(globalOutlook('test',null,[event],[],'2026-10-22').pending,true);
-  assert.equal(globalOutlook('test',null,[event],[],'2026-10-22').sortDate,null);
-  assert.equal(globalOutlook('test',{status:'released'},[event],[],'2026-09-13'),null);
-  assert.equal(globalOutlook('test',null,[{...event,status:'cancelled'}],[],'2026-09-13'),null);
-  assert.equal(globalOutlook('test',null,[{...event,kind:'rerun'}],[],'2026-09-13'),null);
-  assert.equal(globalOutlook('test',{status:'announced',releaseDate:null},[],[],'2026-09-13').days,null);
+  assert.equal(globalOutlook('test',null,[event],'2026-09-13').days,38);
+  assert.equal(globalOutlook('test',null,[event],'2026-10-21').days,0);
+  assert.equal(globalOutlook('test',null,[event],'2026-10-22').pending,true);
+  assert.equal(globalOutlook('test',null,[event],'2026-10-22').sortDate,null);
+  assert.equal(globalOutlook('test',{status:'released'},[event],'2026-09-13'),null);
+  assert.equal(globalOutlook('test',null,[{...event,status:'cancelled'}],'2026-09-13'),null);
+  assert.equal(globalOutlook('test',null,[{...event,kind:'rerun'}],'2026-09-13'),null);
+  assert.equal(globalOutlook('test',{status:'announced',releaseDate:null},[],'2026-09-13').days,null);
 });
-test('archived forecasts never create countdowns; official announcements still do', () => {
-  const f={...fixture,cosmeticId:'test',reviewDue:'2026-12-31'};
-  assert.equal(globalOutlook('test',null,[],[f],'2026-09-13'),null);
-  assert.equal(globalOutlook('test',{status:'announced',releaseDate:'2026-10-21'},[],[f],'2026-09-13').kind,'official');
+test('unannounced records have no countdown; official announcements still do', () => {
+  assert.equal(globalOutlook('test',null,[],'2026-09-13'),null);
+  assert.equal(globalOutlook('test',{status:'announced',releaseDate:'2026-10-21'},[],'2026-09-13').kind,'official');
 });
 
  test('archive server choices merge legacy both-server links into all servers', () => {
