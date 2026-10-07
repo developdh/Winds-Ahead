@@ -2,6 +2,26 @@
   "schemaVersion": 1,
   "entries": [
     {
+      "id": "october11-appearances-20261007",
+      "date": "2026-10-07",
+      "kind": {
+        "en": "Official appearance announcements",
+        "ko": "공식 외관 예고"
+      },
+      "title": {
+        "en": "Five October 11 appearances, prices and deadlines",
+        "ko": "10월 11일 외관 5종·가격·종료 일정"
+      },
+      "body": {
+        "en": "Added official Global names, October 11 schedules and costs for Aerial Grace, Plum’s Promise, Silent Plum, Kin and Keep and Pixiu’s Prize. Recorded the January 9 hair exchange end and November 23 VFX discount end with unknown timezones. Added three female reference photos, improved the hair preview and replaced a misassigned lion-hat image with the named VFX panel. All five remain announcements.",
+        "ko": "천상의 바람·매화 끝의 봄·설산의 매화·나그네의 옷·비휴의 축복에 글로벌 공식명, 10월 11일 예고와 가격을 반영했습니다. 헤어 1월 9일 교환 종료와 이펙트 11월 23일 할인 종료를 시간대 미확인으로 기록했습니다. 여성 참고사진 3장을 추가하고 헤어 미리보기를 개선했으며 잘못 연결된 사자 모자 사진을 해당 이펙트 사진으로 교체했습니다. 다섯 항목 모두 출시 예고 상태입니다."
+      },
+      "sourceIds": [
+        "global-20261006-october11-en",
+        "global-20261006-october11-ko"
+      ]
+    },
+    {
       "id": "imperial-weapon-gaps-20261006",
       "date": "2026-10-06",
       "kind": {

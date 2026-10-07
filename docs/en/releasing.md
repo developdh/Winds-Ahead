@@ -30,6 +30,8 @@ This is part of completing each update, including updates from the existing cale
 
 ## Release notes
 
+- [0.3.6 — October 11 appearances and official countdown repair](releases/0.3.6.md)
+
 - [0.3.5 — Official Fu Shen weapon archive completion](releases/0.3.5.md)
 
 - [0.3.4 — Official schedules only](releases/0.3.4.md)

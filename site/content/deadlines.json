@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "reviewedAt": "2026-10-06",
+  "reviewedAt": "2026-10-07",
   "records": [
     {
       "id": "global-global-wind-s-far-shore-exchange-2026-11-18",
@@ -509,6 +509,44 @@
       "note": {
         "en": "Historical EN sale end; KO prints July 26 05:59:59. Neither sale paragraph states a timezone. Discounted price: 2 Sound Jade; no reavailability verified.",
         "ko": "과거 영문 판매 종료 시각입니다. 한국어 공지는 7월 26일 05:59:59로 표기하며 양쪽 판매 문장에 시간대는 미표기입니다. 할인가는 음옥 2개이며 재판매는 미확인입니다."
+      }
+    },
+    {
+      "id": "global-kongshan-xun-mei-exchange-2027-01-09",
+      "cosmeticId": "kongshan-xun-mei",
+      "server": "Global",
+      "kind": "exchange",
+      "startDate": "2026-10-11",
+      "end": "2027-01-09T04:59:59",
+      "precision": "second",
+      "timezone": null,
+      "sourceIds": [
+        "global-20261006-october11-en",
+        "global-20261006-october11-ko"
+      ],
+      "verifiedAt": "2026-10-07",
+      "note": {
+        "en": "EN exchange end. KO prints January 9, 2027 05:59:59; both timezones are unstated. Scheduled 90-day offer, not current availability verification.",
+        "ko": "영문 교환 종료 시각입니다. 한국어는 2027년 1월 9일 05:59:59를 표기하며 양쪽 모두 시간대 미표기입니다. 90일 한정 예고로 현재 판매 확인은 아닙니다."
+      }
+    },
+    {
+      "id": "global-pi-xiu-ci-bao-discount-2026-11-23",
+      "cosmeticId": "pi-xiu-ci-bao",
+      "server": "Global",
+      "kind": "discount",
+      "startDate": "2026-10-11",
+      "end": "2026-11-23T04:59:59",
+      "precision": "second",
+      "timezone": null,
+      "sourceIds": [
+        "global-20261006-october11-en",
+        "global-20261006-october11-ko"
+      ],
+      "verifiedAt": "2026-10-07",
+      "note": {
+        "en": "EN discount end. KO prints November 23, 2026 05:59:59; both timezones are unstated. Price changes from 2 to 3 Sound Jades; no sale end is announced.",
+        "ko": "영문 할인 종료 시각입니다. 한국어는 2026년 11월 23일 05:59:59를 표기하며 양쪽 모두 시간대 미표기입니다. 음옥 2개에서 3개로 변경되며 판매 종료 예고가 아닙니다."
       }
     }
   ]

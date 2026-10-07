@@ -1,0 +1,144 @@
+{
+  "checkedAt": "2026-10-07",
+  "scope": "Official CN, English Global and Korean website maintenance; no in-game verification.",
+  "sources": [
+    "https://www.yysls.cn/news/",
+    "https://www.wherewindsmeetgame.com/news/",
+    "https://www.wherewindsmeetgame.com/kr/news/",
+    "https://www.wherewindsmeetgame.com/news/official/1011update.html",
+    "https://www.wherewindsmeetgame.com/kr/news/official/1011update.html",
+    "https://www.yysls.cn/news/official/20260213/37780_1287219.html",
+    "https://www.yysls.cn/news/official/20260213/37780_1287232.html",
+    "https://www.yysls.cn/news/official/20251224/37780_1278303.html"
+  ],
+  "findings": [
+    "Five existing CN identities matched to the October 11 Global announcement; no duplicate catalog identities.",
+    "EN/KO official names and region-specific costs added. All five remain announced.",
+    "Hair exchange end and VFX discount end recorded separately, preserving seconds and unknown timezones.",
+    "The fan is offered for 360 days; no exact end inferred.",
+    "KO poster masthead still says September 16, but article title and all item dates say October 11. Hair title/exchange name used instead of the inconsistent avatar spelling.",
+    "Approaching existing deadlines for Cloudgrace Earrings and the September 27 discount (October 10), Ling Jiao Zhi Meng (October 14), and the CN Fu Hong Bin event (October 16) remain unchanged; no superseding notice identified."
+  ],
+  "media": [
+    {
+      "cosmeticId": "cang-yinni-shang-tian-feng",
+      "index": 1,
+      "originalUrl": "https://nie.res.netease.com/r/pic/20260213/3c5c73be-8818-4c11-aebb-9362751be174.jpg",
+      "sourceId": "cn-1971a4849e93",
+      "server": "CN",
+      "sourceDimensions": [
+        3000,
+        1681
+      ],
+      "fullDimensions": [
+        1400,
+        784
+      ],
+      "sourceCrop": null,
+      "presentationCrop": null,
+      "presentationSubject": "female"
+    },
+    {
+      "cosmeticId": "tan-mei-feng-chun",
+      "index": 1,
+      "originalUrl": "https://nie.res.netease.com/r/pic/20260213/7ec31e04-05cb-4d19-9e97-06226657fc73.png",
+      "sourceId": "cn-60c7d971d329",
+      "server": "CN",
+      "sourceDimensions": [
+        1080,
+        10077
+      ],
+      "fullDimensions": [
+        804,
+        7500
+      ],
+      "sourceCrop": null,
+      "presentationCrop": [
+        0,
+        0,
+        804,
+        1000
+      ],
+      "presentationSubject": "female"
+    },
+    {
+      "cosmeticId": "youzi-yi",
+      "index": 1,
+      "originalUrl": "https://nie.res.netease.com/r/pic/20251224/3059eab8-56f7-453e-9746-ca8b605158df.jpg",
+      "sourceId": "cn-d8dfdef52f57",
+      "server": "CN",
+      "sourceDimensions": [
+        2813,
+        5000
+      ],
+      "fullDimensions": [
+        1400,
+        2488
+      ],
+      "sourceCrop": null,
+      "presentationCrop": null,
+      "presentationSubject": "female"
+    },
+    {
+      "cosmeticId": "pi-xiu-ci-bao",
+      "removedImage": {
+        "url": "https://nie.res.netease.com/r/pic/20260213/647a3f7b-62a1-4c68-b90e-ef0ccd70999f.jpg",
+        "width": 6000,
+        "height": 3375,
+        "bytes": 4696158,
+        "kind": "official_appearance_reference",
+        "visuallyInspected": true,
+        "description": "Named appearance reference",
+        "inspectionNote": "Official named section and representative appearance viewed in contact sheet. No current in-game build verification.",
+        "sourceFrame": 0,
+        "sourceCrop": null,
+        "reusePermission": "unknown",
+        "localCopy": null,
+        "server": "CN"
+      },
+      "reason": "The existing image depicts the 五方狮舞 lion hat in the later reward section, not the named 貔貅赐宝 VFX. Replaced after visual source review."
+    },
+    {
+      "cosmeticId": "pi-xiu-ci-bao",
+      "index": 0,
+      "originalUrl": "https://r.res.easebar.com/pic/20260930/c5ec5337-74ff-424e-a118-8f02c46911ee.png",
+      "sourceId": "global-20261006-october11-en",
+      "server": "Global",
+      "sourceDimensions": [
+        984,
+        6858
+      ],
+      "fullDimensions": [
+        937,
+        430
+      ],
+      "sourceCrop": [
+        35,
+        5595,
+        972,
+        6025
+      ],
+      "presentationCrop": null,
+      "presentationSubject": null
+    },
+    {
+      "cosmeticId": "kongshan-xun-mei",
+      "index": 0,
+      "presentationCrop": [
+        30,
+        2460,
+        570,
+        3600
+      ],
+      "presentationSubject": "female",
+      "originalUrl": "https://nie.res.netease.com/r/pic/20260213/7450fd74-4ea1-4fcf-864e-bd7e5649f77d.jpg"
+    }
+  ],
+  "limits": [
+    "Korean Cafe could not be read: robots restriction; no claim of checking its latest posts.",
+    "Official social channels and current in-game availability were not independently verified.",
+    "CN newest indexed news remains the October 3 scenery wallpaper article.",
+    "No forecasts, prior forecast revisions, recurring schedules or magazine edition changed.",
+    "All artwork redistribution permissions remain unknown. Full original source URLs retained."
+  ]
+}

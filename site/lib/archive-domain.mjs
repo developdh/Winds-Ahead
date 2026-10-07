@@ -11,7 +11,7 @@ export function daysUntil(day, today) {
   return Math.round((Date.parse(`${day}T00:00:00Z`) - Date.parse(`${today}T00:00:00Z`)) / 86400000);
 }
 
-export function globalOutlook(id, record, events, revisions, today) {
+export function globalOutlook(id, record, events, today) {
   if (releaseState(record, today) === 'released') return null;
   const official = events.filter(e => e.cosmeticId === id && e.server === 'Global' && e.kind === 'release' && e.status === 'announced')
     .sort((a, b) => a.date.localeCompare(b.date));

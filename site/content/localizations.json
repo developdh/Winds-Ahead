@@ -756,10 +756,10 @@
     }
   },
   "youzi-yi": {
-    "koName": "游子衣",
+    "koName": "나그네의 옷",
     "description": {
-      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
-      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+      "en": "Global announcement: Costs 60 Echo Beads. Supports separate top/bottom pieces and dyeing. No sale end is stated.",
+      "ko": "글로벌 예고: 장명주 60개이며 상하의 분리와 염색을 지원합니다. 판매 종료일은 미표기입니다."
     }
   },
   "sui-han-xiang": {
@@ -1092,24 +1092,24 @@
     }
   },
   "cang-yinni-shang-tian-feng": {
-    "koName": "藏音·霓裳天风",
+    "koName": "숨겨진 선율-천상의 바람",
     "description": {
-      "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
-      "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+      "en": "Global announcement: Default fan form: 1 Harmonic Core, offered for 360 days. Reforging uses Taiyi Stones and provides five preset styles plus custom colors. Exact exchange end is not stated.",
+      "ko": "글로벌 예고: 부채 기본 형태는 공명 구슬 1개이며 360일간 한정 출시됩니다. 현광석으로 재련하여 다섯 가지 세트 스타일과 맞춤 색상을 사용할 수 있습니다. 정확한 교환 종료 시각은 미표기입니다."
     }
   },
   "tan-mei-feng-chun": {
-    "koName": "探梅逢春",
+    "koName": "매화 끝의 봄",
     "description": {
-      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
-      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+      "en": "Global announcement: Costs 2,580 Echo Beads and includes a matching player avatar. Supports separate top/bottom pieces and dyeing. No sale end is stated.",
+      "ko": "글로벌 예고: 장명주 2,580개이며 캐릭터 프로필이 함께 지급됩니다. 상하의 분리와 염색을 지원합니다. 판매 종료일은 미표기입니다."
     }
   },
   "kongshan-xun-mei": {
-    "koName": "空山寻梅",
+    "koName": "설산의 매화",
     "description": {
-      "en": "Hairstyle documented in the official CN archive. Regional availability and acquisition are recorded separately.",
-      "ko": "공식 중국 자료에서 확인한 헤어입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+      "en": "Global announcement: Costs 1 Harmonic Core, supports dyeing and includes a dynamic player avatar. Offered for 90 days: EN October 11 05:00:00–January 9, 2027 04:59:59; KO October 11 06:00:00–January 9 05:59:59. Both timezones are unstated.",
+      "ko": "글로벌 예고: 공명 구슬 1개이며 염색을 지원하고 움직이는 프로필이 함께 지급됩니다. 90일 한정으로 한국어 공지는 10월 11일 06:00:00~2027년 1월 9일 05:59:59, 영어는 10월 11일 05:00:00~1월 9일 04:59:59를 표기합니다. 양쪽 모두 시간대는 미표기입니다."
     }
   },
   "ma-shang-you-qian": {
@@ -1169,10 +1169,10 @@
     }
   },
   "pi-xiu-ci-bao": {
-    "koName": "貔貅赐宝",
+    "koName": "비휴의 축복",
     "description": {
-      "en": "Skill effect documented in the official CN archive. Regional availability and acquisition are recorded separately.",
-      "ko": "공식 중국 자료에서 확인한 이펙트입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+      "en": "Global announcement: Leaping Toad VFX costs a discounted 2 Sound Jades, then returns to 3. Discount ends November 23, 2026 at 04:59:59 in EN / 05:59:59 in KO; both timezones are unstated. This is a discount end, not a sale end.",
+      "ko": "글로벌 예고: 합마공 비결 이펙트이며 할인가는 음옥 2개, 정가는 3개입니다. 할인 종료는 한국어 기준 2026년 11월 23일 05:59:59, 영어 기준 04:59:59로 표기하며 시간대는 양쪽 모두 미표기입니다. 판매 종료일이 아닌 할인 종료일입니다."
     }
   },
   "qing-luan-yao-yin": {
