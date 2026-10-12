@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "reviewedAt": "2026-10-07",
+  "reviewedAt": "2026-10-12",
   "records": [
     {
       "id": "global-global-wind-s-far-shore-exchange-2026-11-18",
@@ -547,6 +547,82 @@
       "note": {
         "en": "EN discount end. KO prints November 23, 2026 05:59:59; both timezones are unstated. Price changes from 2 to 3 Sound Jades; no sale end is announced.",
         "ko": "영문 할인 종료 시각입니다. 한국어는 2026년 11월 23일 05:59:59를 표기하며 양쪽 모두 시간대 미표기입니다. 음옥 2개에서 3개로 변경되며 판매 종료 예고가 아닙니다."
+      }
+    },
+    {
+      "id": "cn-feng-feng-hu-hu-discount-2026-10-23",
+      "cosmeticId": "feng-feng-hu-hu",
+      "server": "CN",
+      "kind": "discount",
+      "startDate": "2026-10-09",
+      "end": "2026-10-23T04:59:59",
+      "precision": "second",
+      "timezone": null,
+      "sourceIds": [
+        "cn-20261005-october9-appearances",
+        "cn-20261009-update"
+      ],
+      "verifiedAt": "2026-10-12",
+      "note": {
+        "en": "Bundle discount ends: 300 → 680 Echo Beads. No sale end is stated. Source timezone unstated.",
+        "ko": "묶음 할인 종료: 장명주 300개 → 680개입니다. 판매 종료일은 미표기입니다. 원문 시간대는 미표기입니다."
+      }
+    },
+    {
+      "id": "cn-bi-hui-wan-xiang-discount-2026-11-23",
+      "cosmeticId": "bi-hui-wan-xiang",
+      "server": "CN",
+      "kind": "discount",
+      "startDate": "2026-10-09",
+      "end": "2026-11-23T04:59:59",
+      "precision": "second",
+      "timezone": null,
+      "sourceIds": [
+        "cn-20261005-october9-appearances",
+        "cn-20261009-update"
+      ],
+      "verifiedAt": "2026-10-12",
+      "note": {
+        "en": "VFX discount ends: 2 → 3 Sound Jades. No sale end is stated. Source timezone unstated.",
+        "ko": "이펙트 할인 종료: 음옥 2개 → 3개입니다. 판매 종료일은 미표기입니다. 원문 시간대는 미표기입니다."
+      }
+    },
+    {
+      "id": "cn-zui-lan-shan-yue-discount-2026-11-08",
+      "cosmeticId": "zui-lan-shan-yue",
+      "server": "CN",
+      "kind": "discount",
+      "startDate": "2026-10-09",
+      "end": "2026-11-08T04:59:59",
+      "precision": "second",
+      "timezone": null,
+      "sourceIds": [
+        "cn-20261005-october9-appearances",
+        "cn-20261009-update"
+      ],
+      "verifiedAt": "2026-10-12",
+      "note": {
+        "en": "VFX discount ends: 60 → 300 Echo Beads. No sale end is stated. Source timezone unstated.",
+        "ko": "이펙트 할인 종료: 장명주 60개 → 300개입니다. 판매 종료일은 미표기입니다. 원문 시간대는 미표기입니다."
+      }
+    },
+    {
+      "id": "cn-wiki-que-ta-zhi-sale-2026-12-25",
+      "cosmeticId": "wiki-que-ta-zhi",
+      "server": "CN",
+      "kind": "sale",
+      "startDate": "2026-10-09",
+      "end": "2026-12-25T04:59:59",
+      "precision": "second",
+      "timezone": null,
+      "sourceIds": [
+        "cn-20261005-october9-appearances",
+        "cn-20261009-update"
+      ],
+      "verifiedAt": "2026-10-12",
+      "note": {
+        "en": "Return offer ends. Patch poster prints 04:59:59; article rounds to 05:00. 68 CNY requires the current paid pass; 98 CNY applies to future returns, not this deadline. Source timezone unstated.",
+        "ko": "복각 판매 종료입니다. 업데이트 이미지는 04:59:59, 기사는 05:00으로 요약합니다. 68위안 구매에는 현재 유료 강호령이 필요하며 98위안은 이번 종료가 아닌 향후 재복각 가격입니다. 원문 시간대는 미표기입니다."
       }
     }
   ]

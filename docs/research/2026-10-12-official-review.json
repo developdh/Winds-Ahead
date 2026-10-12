@@ -1,0 +1,253 @@
+{
+  "checkedAt": "2026-10-12",
+  "scope": "Official CN/EN/KO website review and named CN appearance photo completion; no in-game verification.",
+  "sources": [
+    "https://www.yysls.cn/news/",
+    "https://www.wherewindsmeetgame.com/news/",
+    "https://www.wherewindsmeetgame.com/kr/news/",
+    "https://www.yysls.cn/news/official/20261009/37780_1316155.html",
+    "https://www.yysls.cn/news/update/20261009/40412_1316018.html",
+    "https://www.yysls.cn/news/official/20261009/37780_1316159.html",
+    "https://www.wherewindsmeetgame.com/news/official/1009devletter.html",
+    "https://www.wherewindsmeetgame.com/kr/news/official/1009devletter.html"
+  ],
+  "findings": [
+    "Three new CN catalog identities; one existing wiki identity completed without duplication.",
+    "All four CN regional schedules remain announcements; the Que Ta Zhi first release remains unknown and its regional date explicitly records the return.",
+    "Patch poster establishes all four October 9 00:00:00 starts, December 25 04:59:59 return end, and three discount ends. All source timezones unstated.",
+    "Bundle components are distinct from the pictured outfit. 68 CNY excludes the prerequisite paid pass; 98 CNY applies to a future return.",
+    "October 8 CN invitation and October 9 EN/KO Qingzhou dev letters contain no named purchasable appearance schedule added in this review. No region launch converted into a cosmetic release date.",
+    "October 11 Global appearance records remain announcements; the latest website posts do not independently confirm in-game availability.",
+    "Existing October 14 hair exchange and October 16 Fu Hong Bin event deadlines retained; no superseding notice identified. Expired October 10 terms retained as historical notices."
+  ],
+  "media": [
+    {
+      "cosmeticId": "feng-feng-hu-hu",
+      "index": 0,
+      "originalUrl": "https://nie.res.netease.com/r/pic/20261009/1107900a-d9ca-4174-a671-3acaaae5ecbc.png",
+      "sourceId": "cn-20261005-october9-appearances",
+      "server": "CN",
+      "sourceDimensions": [
+        1080,
+        1920
+      ],
+      "sourceBytes": 3093800,
+      "fullDimensions": [
+        1080,
+        1920
+      ],
+      "fullBytes": 289358,
+      "thumbnailBytes": 66012,
+      "previewBytes": 4496,
+      "presentationCrop": null,
+      "thumbnailCrop": [
+        0,
+        0,
+        1080,
+        1300
+      ],
+      "presentationSubject": "female"
+    },
+    {
+      "cosmeticId": "feng-feng-hu-hu",
+      "index": 1,
+      "originalUrl": "https://nie.res.netease.com/r/pic/20261009/4a9561a4-f50b-405d-b5d0-cd3a41e06f36.png",
+      "sourceId": "cn-20261005-october9-appearances",
+      "server": "CN",
+      "sourceDimensions": [
+        1080,
+        1920
+      ],
+      "sourceBytes": 3250741,
+      "fullDimensions": [
+        1080,
+        1920
+      ],
+      "fullBytes": 313174,
+      "thumbnailBytes": 63336,
+      "previewBytes": 3308,
+      "presentationCrop": null,
+      "thumbnailCrop": null,
+      "presentationSubject": null
+    },
+    {
+      "cosmeticId": "feng-feng-hu-hu",
+      "index": 2,
+      "originalUrl": "https://nie.res.netease.com/r/pic/20261009/48a916da-55ae-4d8e-8178-82d2c2c1c162.png",
+      "sourceId": "cn-20261005-october9-appearances",
+      "server": "CN",
+      "sourceDimensions": [
+        1080,
+        1920
+      ],
+      "sourceBytes": 3535433,
+      "fullDimensions": [
+        1080,
+        1920
+      ],
+      "fullBytes": 361518,
+      "thumbnailBytes": 53846,
+      "previewBytes": 3784,
+      "presentationCrop": null,
+      "thumbnailCrop": [
+        0,
+        180,
+        1080,
+        1460
+      ],
+      "presentationSubject": null
+    },
+    {
+      "cosmeticId": "wiki-que-ta-zhi",
+      "index": 0,
+      "originalUrl": "https://nie.res.netease.com/r/pic/20261009/c7ae56b0-4f0b-4005-bf6f-da9778c4c5e6.png",
+      "sourceId": "cn-20261005-october9-appearances",
+      "server": "CN",
+      "sourceDimensions": [
+        1080,
+        1920
+      ],
+      "sourceBytes": 3379114,
+      "fullDimensions": [
+        1080,
+        1920
+      ],
+      "fullBytes": 348392,
+      "thumbnailBytes": 91882,
+      "previewBytes": 4736,
+      "presentationCrop": null,
+      "thumbnailCrop": null,
+      "presentationSubject": "female"
+    },
+    {
+      "cosmeticId": "wiki-que-ta-zhi",
+      "index": 1,
+      "originalUrl": "https://nie.res.netease.com/r/pic/20261009/846c0394-f7cc-4bf8-81b8-99578eff828b.png",
+      "sourceId": "cn-20261005-october9-appearances",
+      "server": "CN",
+      "sourceDimensions": [
+        1080,
+        1920
+      ],
+      "sourceBytes": 3401545,
+      "fullDimensions": [
+        1080,
+        1920
+      ],
+      "fullBytes": 341808,
+      "thumbnailBytes": 76466,
+      "previewBytes": 4434,
+      "presentationCrop": null,
+      "thumbnailCrop": null,
+      "presentationSubject": null
+    },
+    {
+      "cosmeticId": "bi-hui-wan-xiang",
+      "index": 0,
+      "originalUrl": "https://nie.res.netease.com/r/pic/20261009/cd7997c7-045b-47fa-b629-f2b42718f553.png",
+      "sourceId": "cn-20261005-october9-appearances",
+      "server": "CN",
+      "sourceDimensions": [
+        2400,
+        1080
+      ],
+      "sourceBytes": 7789737,
+      "fullDimensions": [
+        1400,
+        630
+      ],
+      "fullBytes": 62034,
+      "thumbnailBytes": 33840,
+      "previewBytes": 1852,
+      "presentationCrop": null,
+      "thumbnailCrop": null,
+      "presentationSubject": null
+    },
+    {
+      "cosmeticId": "bi-hui-wan-xiang",
+      "index": 1,
+      "originalUrl": "https://nie.res.netease.com/r/pic/20261009/4585164f-7891-44de-9151-af7815a59ad4.png",
+      "sourceId": "cn-20261005-october9-appearances",
+      "server": "CN",
+      "sourceDimensions": [
+        2400,
+        1080
+      ],
+      "sourceBytes": 7789737,
+      "fullDimensions": [
+        1400,
+        630
+      ],
+      "fullBytes": 66226,
+      "thumbnailBytes": 33742,
+      "previewBytes": 2078,
+      "presentationCrop": null,
+      "thumbnailCrop": null,
+      "presentationSubject": null
+    },
+    {
+      "cosmeticId": "bi-hui-wan-xiang",
+      "index": 2,
+      "originalUrl": "https://nie.res.netease.com/r/pic/20261009/af55fc20-3e9e-407b-b594-92b03b0a2920.png",
+      "sourceId": "cn-20261005-october9-appearances",
+      "server": "CN",
+      "sourceDimensions": [
+        2400,
+        1080
+      ],
+      "sourceBytes": 7789737,
+      "fullDimensions": [
+        1400,
+        630
+      ],
+      "fullBytes": 72890,
+      "thumbnailBytes": 43766,
+      "previewBytes": 1788,
+      "presentationCrop": null,
+      "thumbnailCrop": null,
+      "presentationSubject": null
+    },
+    {
+      "cosmeticId": "zui-lan-shan-yue",
+      "index": 0,
+      "originalUrl": "https://nie.res.netease.com/r/pic/20261009/3841c63c-da83-4c3d-9546-1c25de168ea5.png",
+      "sourceId": "cn-20261005-october9-appearances",
+      "server": "CN",
+      "sourceDimensions": [
+        2448,
+        854
+      ],
+      "sourceBytes": 2687404,
+      "fullDimensions": [
+        1400,
+        488
+      ],
+      "fullBytes": 95376,
+      "thumbnailBytes": 58818,
+      "previewBytes": 2856,
+      "presentationCrop": [
+        660,
+        0,
+        1400,
+        488
+      ],
+      "thumbnailCrop": null,
+      "presentationSubject": null
+    }
+  ],
+  "totals": {
+    "cosmetics": 723,
+    "images": 799,
+    "photographedCosmetics": 473,
+    "missingGalleries": 250,
+    "regionalRecords": 652,
+    "globalEvents": 216,
+    "deadlines": 33
+  },
+  "limits": [
+    "Korean Cafe listing and registered notice could not be read; no latest Cafe verification claimed.",
+    "Official social channels and current in-game availability were not independently verified.",
+    "All artwork redistribution permissions remain unknown; attribution is not a license. Original URLs retained; raw source downloads excluded from Git.",
+    "No forecasts, prior forecast revisions, recurring schedules or magazine edition changed."
+  ]
+}
