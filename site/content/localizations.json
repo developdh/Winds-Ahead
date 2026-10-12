@@ -3978,8 +3978,8 @@
   "wiki-que-ta-zhi": {
     "koName": "鹊踏枝",
     "description": {
-      "en": "A community-documented appearance. Explore its wiki details and keep regional release evidence separate.",
-      "ko": "커뮤니티 위키에 기록된 외관입니다. 구성과 참고 정보를 살펴보고 서버별 출시 근거를 함께 확인하세요."
+      "en": "A CN Battle Pass outfit with an officially announced limited return. The original release and Global availability remain unknown.",
+      "ko": "기간 한정 복각이 공식 예고된 중국 강호령 의상입니다. 최초 출시일과 글로벌 출시는 미확인입니다."
     }
   },
   "wiki-nan-jiang-mi-yu": {
@@ -5037,6 +5037,27 @@
     "description": {
       "en": "Rainbow parasol hair accessory exchanged with event tokens in the CN 寻彩决英 event.",
       "ko": "중국 심채결영(寻彩决英) 이벤트 토큰으로 교환하는 무지개 우산 발식입니다."
+    }
+  },
+  "feng-feng-hu-hu": {
+    "koName": "풍풍호호",
+    "description": {
+      "en": "A CN tiger accessory bundle with ear ornaments, paw wrist accessories and a pose. The pictured outfit is separate.",
+      "ko": "호랑이 귀 발식·앞발 손목 장식·자세로 구성된 중국 외관 묶음입니다. 사진 속 의상은 별도입니다."
+    }
+  },
+  "bi-hui-wan-xiang": {
+    "koName": "필회만상",
+    "description": {
+      "en": "A CN 墨洗翰华 Mystic Skill effect with calligraphy and painted landscapes.",
+      "ko": "붓글씨와 산수화를 표현한 중국 墨洗翰华 비결 이펙트입니다."
+    }
+  },
+  "zui-lan-shan-yue": {
+    "koName": "취람산월",
+    "description": {
+      "en": "A CN 缩骨功 Mystic Skill effect in a moonlit scene.",
+      "ko": "달빛 풍경을 표현한 중국 缩骨功 비결 이펙트입니다."
     }
   }
 }

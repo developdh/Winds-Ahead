@@ -71,6 +71,10 @@
     "玉烟斗": {
       "en": "Yu Yan Dou (CN event token)",
       "ko": "옥연두(중국 이벤트 재화)"
+    },
+    "CNY": {
+      "en": "Chinese yuan (CNY)",
+      "ko": "중국 위안(CNY)"
     }
   },
   "sources": [
@@ -118,6 +122,11 @@
       "url": "https://www.yysls.cn/news/official/20260925/37780_1315084.html",
       "title": "桂影流金，华服相迎丨多套全新外观盛装登场",
       "use": "CN event token 玉烟斗; provisional EN/KO reading, not an official Global currency name."
+    },
+    {
+      "url": "https://www.yysls.cn/news/official/20261009/37780_1316155.html",
+      "title": "新礼包【风风虎虎】上架，战令外观【鹊踏枝】返场",
+      "use": "CN return purchase is priced in yuan; this is not a Global price or a currency conversion."
     }
   ],
   "note": {

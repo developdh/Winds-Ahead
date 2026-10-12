@@ -2,6 +2,26 @@
   "schemaVersion": 1,
   "entries": [
     {
+      "id": "october9-cn-appearances-20261012",
+      "date": "2026-10-12",
+      "kind": {
+        "en": "Official CN appearance announcements",
+        "ko": "중국 공식 외관 예고"
+      },
+      "title": {
+        "en": "Tiger accessories, two Mystic Skill effects and a Battle Pass return",
+        "ko": "호랑이 장식·비결 이펙트 2종·강호령 복각"
+      },
+      "body": {
+        "en": "Added Feng Feng Hu Hu, Bi Hui Wan Xiang and Zui Lan Shan Yue with October 9 CN announcements, costs and discount ends. Completed the existing Que Ta Zhi record with its paid-pass prerequisite, 68 CNY return offer and December 25 end. Added nine inspected CN photos. Global names and schedules remain unknown; current in-game availability was not verified.",
+        "ko": "풍풍호호·필회만상·취람산월의 중국 10월 9일 예고, 가격과 할인 종료일을 등록했습니다. 기존 鹊踏枝 기록에 유료 강호령 선행 조건, 68위안 복각 가격과 12월 25일 판매 종료를 보완하고 중국 공식 사진 9장을 추가했습니다. 글로벌 공식명·일정과 현재 게임 내 판매 여부는 미확인입니다."
+      },
+      "sourceIds": [
+        "cn-20261005-october9-appearances",
+        "cn-20261009-update"
+      ]
+    },
+    {
       "id": "october11-appearances-20261007",
       "date": "2026-10-07",
       "kind": {
