@@ -1171,8 +1171,8 @@
   "pi-xiu-ci-bao": {
     "koName": "비휴의 축복",
     "description": {
-      "en": "Global announcement: Leaping Toad VFX costs a discounted 2 Sound Jades, then returns to 3. Discount ends November 23, 2026 at 04:59:59 in EN / 05:59:59 in KO; both timezones are unstated. This is a discount end, not a sale end.",
-      "ko": "글로벌 예고: 합마공 비결 이펙트이며 할인가는 음옥 2개, 정가는 3개입니다. 할인 종료는 한국어 기준 2026년 11월 23일 05:59:59, 영어 기준 04:59:59로 표기하며 시간대는 양쪽 모두 미표기입니다. 판매 종료일이 아닌 할인 종료일입니다."
+      "en": "Global announcement: Leaping Toad VFX costs 2 Sound Jades during the discount, then 3. Discount ends November 23, 2026 at 04:59:59 UTC+8 in the October 9 EN article. KO prints 05:59:59 without timezone. No sale end is announced.",
+      "ko": "글로벌 예고: 합마공 비결 이펙트의 할인가는 음옥 2개, 정가는 3개입니다. 10월 9일 영어 본문은 2026년 11월 23일 04:59:59 UTC+8 할인 종료를 명시하며 한국어 05:59:59의 시간대는 미표기입니다. 판매 종료일은 미표기입니다."
     }
   },
   "qing-luan-yao-yin": {

@@ -14840,8 +14840,8 @@
           "original": "공명 · 화음 상점"
         },
         "conditions": {
-          "en": "Official October 9 article: October 11, 2026 at 05:00 UTC+8. KO prints 06:00 with no timezone. The earlier posters omit timezone. Still an announcement; elapsed dates do not verify release/current availability. Leaping Toad VFX costs a discounted 2 Sound Jades, then returns to 3. Discount ends November 23, 2026 at 04:59:59 in EN / 05:59:59 in KO; both timezones are unstated. This is a discount end, not a sale end.",
-          "ko": "10월 9일 공식 본문은 2026년 10월 11일 05:00 UTC+8을 명시합니다. 한국어는 06:00을 표기하며 시간대는 미표기입니다. 앞선 포스터는 시간대를 생략했습니다. 예고 상태이며 날짜 경과만으로 실제 출시·현재 획득 가능 여부를 확인하지 않습니다. 합마공 비결 이펙트이며 할인가는 음옥 2개, 정가는 3개입니다. 할인 종료는 한국어 기준 2026년 11월 23일 05:59:59, 영어 기준 04:59:59로 표기하며 시간대는 양쪽 모두 미표기입니다. 판매 종료일이 아닌 할인 종료일입니다."
+          "en": "Official October 9 article: October 11, 2026 at 05:00 UTC+8. KO prints 06:00 with no timezone. The earlier posters omit timezone. Still an announcement; elapsed dates do not verify release/current availability. Leaping Toad VFX costs a discounted 2 Sound Jades, then returns to 3. Discount ends November 23, 2026 at 04:59:59 in EN / 05:59:59 in KO; the EN end is UTC+8 in the October 9 article, and the KO timezone stays unstated. This is a discount end, not a sale end.",
+          "ko": "10월 9일 공식 본문은 2026년 10월 11일 05:00 UTC+8을 명시합니다. 한국어는 06:00을 표기하며 시간대는 미표기입니다. 앞선 포스터는 시간대를 생략했습니다. 예고 상태이며 날짜 경과만으로 실제 출시·현재 획득 가능 여부를 확인하지 않습니다. 합마공 비결 이펙트이며 할인가는 음옥 2개, 정가는 3개입니다. 할인 종료는 한국어 기준 2026년 11월 23일 05:59:59, 영어 기준 04:59:59로 표기하며 10월 9일 영어 본문에서 UTC+8을 확인했으며 한국어 시간대는 미표기입니다. 판매 종료일이 아닌 할인 종료일입니다."
         },
         "en": "Official Global announcement terms",
         "ko": "글로벌 공식 예고의 획득 조건"
