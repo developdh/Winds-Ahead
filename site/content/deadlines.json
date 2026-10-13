@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "reviewedAt": "2026-10-12",
+  "reviewedAt": "2026-10-13",
   "records": [
     {
       "id": "global-global-wind-s-far-shore-exchange-2026-11-18",
@@ -519,15 +519,17 @@
       "startDate": "2026-10-11",
       "end": "2027-01-09T04:59:59",
       "precision": "second",
-      "timezone": null,
+      "timezone": "UTC+8",
       "sourceIds": [
         "global-20261006-october11-en",
-        "global-20261006-october11-ko"
+        "global-20261006-october11-ko",
+        "global-20261009-october11-en",
+        "global-20261009-october11-ko"
       ],
-      "verifiedAt": "2026-10-07",
+      "verifiedAt": "2026-10-13",
       "note": {
-        "en": "EN exchange end. KO prints January 9, 2027 05:59:59; both timezones are unstated. Scheduled 90-day offer, not current availability verification.",
-        "ko": "영문 교환 종료 시각입니다. 한국어는 2027년 1월 9일 05:59:59를 표기하며 양쪽 모두 시간대 미표기입니다. 90일 한정 예고로 현재 판매 확인은 아닙니다."
+        "en": "October 9 EN article confirms the 04:59:59 UTC+8 end. KO prints 05:59:59 with no timezone. The earlier posters omit timezone. Announcement terms; no current availability verification. January 9, 2027 exchange end.",
+        "ko": "10월 9일 영어 본문은 04:59:59 UTC+8 종료를 확인합니다. 한국어는 05:59:59를 표기하며 시간대는 미표기입니다. 앞선 포스터는 시간대를 생략했습니다. 예고 조건이며 현재 획득 가능 여부 확인은 아닙니다. 2027년 1월 9일 교환 종료입니다."
       }
     },
     {
@@ -538,15 +540,17 @@
       "startDate": "2026-10-11",
       "end": "2026-11-23T04:59:59",
       "precision": "second",
-      "timezone": null,
+      "timezone": "UTC+8",
       "sourceIds": [
         "global-20261006-october11-en",
-        "global-20261006-october11-ko"
+        "global-20261006-october11-ko",
+        "global-20261009-october11-en",
+        "global-20261009-october11-ko"
       ],
-      "verifiedAt": "2026-10-07",
+      "verifiedAt": "2026-10-13",
       "note": {
-        "en": "EN discount end. KO prints November 23, 2026 05:59:59; both timezones are unstated. Price changes from 2 to 3 Sound Jades; no sale end is announced.",
-        "ko": "영문 할인 종료 시각입니다. 한국어는 2026년 11월 23일 05:59:59를 표기하며 양쪽 모두 시간대 미표기입니다. 음옥 2개에서 3개로 변경되며 판매 종료 예고가 아닙니다."
+        "en": "October 9 EN article confirms the 04:59:59 UTC+8 end. KO prints 05:59:59 with no timezone. The earlier posters omit timezone. Announcement terms; no current availability verification. Discount end changes the stated price from 2 to 3 Sound Jades; not a sale end.",
+        "ko": "10월 9일 영어 본문은 04:59:59 UTC+8 종료를 확인합니다. 한국어는 05:59:59를 표기하며 시간대는 미표기입니다. 앞선 포스터는 시간대를 생략했습니다. 예고 조건이며 현재 획득 가능 여부 확인은 아닙니다. 음옥 2개에서 3개로 바뀌는 할인 종료이며 판매 종료는 아닙니다."
       }
     },
     {
@@ -623,6 +627,42 @@
       "note": {
         "en": "Return offer ends. Patch poster prints 04:59:59; article rounds to 05:00. 68 CNY requires the current paid pass; 98 CNY applies to future returns, not this deadline. Source timezone unstated.",
         "ko": "복각 판매 종료입니다. 업데이트 이미지는 04:59:59, 기사는 05:00으로 요약합니다. 68위안 구매에는 현재 유료 강호령이 필요하며 98위안은 이번 종료가 아닌 향후 재복각 가격입니다. 원문 시간대는 미표기입니다."
+      }
+    },
+    {
+      "id": "global-hong-ye-xiao-xiao-pass-2026-11-14",
+      "cosmeticId": "hong-ye-xiao-xiao",
+      "server": "Global",
+      "kind": "pass",
+      "startDate": "2026-10-15",
+      "end": "2026-11-14T04:59:59",
+      "precision": "second",
+      "timezone": "UTC+8",
+      "sourceIds": [
+        "global-20261010-scarlet-whispers"
+      ],
+      "verifiedAt": "2026-10-13",
+      "note": {
+        "en": "End explicitly stated by the official Global X announcement. Scheduled terms; not current availability or a Global price verification.",
+        "ko": "공식 글로벌 X 예고에서 명시한 종료일입니다. 예고 조건이며 현재 획득 가능 여부나 글로벌 가격 확인을 뜻하지 않습니다."
+      }
+    },
+    {
+      "id": "global-lian-du-you-luo-draw-2026-12-28",
+      "cosmeticId": "lian-du-you-luo",
+      "server": "Global",
+      "kind": "draw",
+      "startDate": "2026-10-15",
+      "end": "2026-12-28T04:59:59",
+      "precision": "second",
+      "timezone": "UTC+8",
+      "sourceIds": [
+        "global-20261009-veil-of-lotus"
+      ],
+      "verifiedAt": "2026-10-13",
+      "note": {
+        "en": "End explicitly stated by the official Global X announcement. Scheduled terms; not current availability or a Global price verification.",
+        "ko": "공식 글로벌 X 예고에서 명시한 종료일입니다. 예고 조건이며 현재 획득 가능 여부나 글로벌 가격 확인을 뜻하지 않습니다."
       }
     }
   ]

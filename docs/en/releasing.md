@@ -30,6 +30,8 @@ This is part of completing each update, including updates from the existing cale
 
 ## Release notes
 
+- [0.3.8 — October 15 Global appearances and official timezone details](releases/0.3.8.md)
+
 - [0.3.7 — October 9 CN appearances and return terms](releases/0.3.7.md)
 
 - [0.3.6 — October 11 appearances and official countdown repair](releases/0.3.6.md)

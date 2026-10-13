@@ -184,8 +184,8 @@
   "lian-du-you-luo": {
     "koName": "연도유라",
     "description": {
-      "en": "Violet lotus light and white fur.",
-      "ko": "보랏빛 연꽃과 흰 털 장식."
+      "en": "Announced for after the October 15, 2026 update; opening hour and timezone unstated. Draw Set listing ends December 28, 2026 at 04:59:59 UTC+8. Current in-game availability has not been verified.",
+      "ko": "2026년 10월 15일 업데이트 후 공명 세트 출시 예고입니다. 시작 시각·시간대는 미표기이며 기간은 2026년 12월 28일 04:59:59 UTC+8까지입니다. 현재 게임 내 획득 가능 여부는 미확인입니다."
     }
   },
   "wan-he-qing-xiang": {
@@ -1108,8 +1108,8 @@
   "kongshan-xun-mei": {
     "koName": "설산의 매화",
     "description": {
-      "en": "Global announcement: Costs 1 Harmonic Core, supports dyeing and includes a dynamic player avatar. Offered for 90 days: EN October 11 05:00:00–January 9, 2027 04:59:59; KO October 11 06:00:00–January 9 05:59:59. Both timezones are unstated.",
-      "ko": "글로벌 예고: 공명 구슬 1개이며 염색을 지원하고 움직이는 프로필이 함께 지급됩니다. 90일 한정으로 한국어 공지는 10월 11일 06:00:00~2027년 1월 9일 05:59:59, 영어는 10월 11일 05:00:00~1월 9일 04:59:59를 표기합니다. 양쪽 모두 시간대는 미표기입니다."
+      "en": "Global announcement: 1 Harmonic Core, dye support and dynamic player avatar. October 11 05:00–January 9, 2027 04:59:59 UTC+8 in the October 9 EN article. KO states 06:00/05:59:59 with no timezone.",
+      "ko": "글로벌 예고: 공명 구슬 1개, 염색 지원 및 움직이는 프로필입니다. 10월 9일 영어 본문은 10월 11일 05:00~2027년 1월 9일 04:59:59 UTC+8을 명시합니다. 한국어의 06:00/05:59:59는 시간대 미표기입니다."
     }
   },
   "ma-shang-you-qian": {
@@ -1171,8 +1171,8 @@
   "pi-xiu-ci-bao": {
     "koName": "비휴의 축복",
     "description": {
-      "en": "Global announcement: Leaping Toad VFX costs a discounted 2 Sound Jades, then returns to 3. Discount ends November 23, 2026 at 04:59:59 in EN / 05:59:59 in KO; both timezones are unstated. This is a discount end, not a sale end.",
-      "ko": "글로벌 예고: 합마공 비결 이펙트이며 할인가는 음옥 2개, 정가는 3개입니다. 할인 종료는 한국어 기준 2026년 11월 23일 05:59:59, 영어 기준 04:59:59로 표기하며 시간대는 양쪽 모두 미표기입니다. 판매 종료일이 아닌 할인 종료일입니다."
+      "en": "Global announcement: Leaping Toad VFX costs 2 Sound Jades during the discount, then 3. Discount ends November 23, 2026 at 04:59:59 UTC+8 in the October 9 EN article. KO prints 05:59:59 without timezone. No sale end is announced.",
+      "ko": "글로벌 예고: 합마공 비결 이펙트의 할인가는 음옥 2개, 정가는 3개입니다. 10월 9일 영어 본문은 2026년 11월 23일 04:59:59 UTC+8 할인 종료를 명시하며 한국어 05:59:59의 시간대는 미표기입니다. 판매 종료일은 미표기입니다."
     }
   },
   "qing-luan-yao-yin": {
@@ -1729,10 +1729,10 @@
     }
   },
   "ming-he-fu-yunsi-xian": {
-    "koName": "鸣鹤赴云·思弦",
+    "koName": "명학부운·사현",
     "description": {
-      "en": "Skill effect documented in the official CN archive. Regional availability and acquisition are recorded separately.",
-      "ko": "공식 중국 자료에서 확인한 이펙트입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+      "en": "Museflow Waist Drum Martial Art VFX announced for the Draw Shop after the October 15, 2026 update. Opening hour/timezone and end date are unstated; no in-game availability verification.",
+      "ko": "요고 무술 이펙트의 2026년 10월 15일 업데이트 후 공명 상점 출시 예고입니다. 시작 시각·시간대·종료일은 미표기이며 게임 내 실제 판매 여부는 미확인입니다."
     }
   },
   "teng-she-cheng-wu": {
@@ -4930,8 +4930,8 @@
   "hong-ye-xiao-xiao": {
     "koName": "홍엽소소",
     "description": {
-      "en": "White autumn outfit with red maple leaves, a broad hat and layered featherlike trim.",
-      "ko": "흰 옷에 붉은 단풍·넓은 갓·겹겹의 깃 모양 장식을 더한 가을 의상입니다."
+      "en": "After the October 15, 2026 update (UTC, printed on artwork); opening hour unstated. Battle Pass listing ends November 14, 2026 at 04:59:59 UTC+8. Announcement, not current in-game availability verification.",
+      "ko": "공식 이미지에 표기된 UTC 기준 2026년 10월 15일 업데이트 후 예고이며 시작 시각은 미표기입니다. 강호령 기간은 2026년 11월 14일 04:59:59 UTC+8까지입니다. 예고이며 현재 게임 내 획득 가능 여부를 확인한 기록은 아닙니다."
     }
   },
   "wan-lai-chen-zhong-jian-yue": {

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "verifiedAt": "2026-10-12",
+  "verifiedAt": "2026-10-13",
   "records": [
     {
       "cosmeticId": "shang-qing-yun",
@@ -14653,14 +14653,16 @@
       "status": "announced",
       "releaseDate": "2026-10-11",
       "precision": "day",
-      "verifiedAt": "2026-10-07",
+      "verifiedAt": "2026-10-13",
       "sourceIds": [
         "global-20261006-october11-en",
-        "global-20261006-october11-ko"
+        "global-20261006-october11-ko",
+        "global-20261009-october11-en",
+        "global-20261009-october11-ko"
       ],
       "scope": {
-        "en": "Announced for October 11, 2026. EN prints 05:00:00; KO prints 06:00:00. Neither poster states a timezone. Item-level dates take precedence over the stale September 16 KO masthead. In-game availability has not been verified.",
-        "ko": "2026년 10월 11일 출시 예고입니다. 영어는 05:00:00, 한국어는 06:00:00을 표기하며 시간대는 양쪽 모두 미표기입니다. 한국어 상단의 9월 16일 문구 대신 각 외관에 명시된 10월 11일을 기록합니다. 게임 내 실제 판매 여부는 미확인입니다."
+        "en": "Official October 9 article: October 11, 2026 at 05:00 UTC+8. KO prints 06:00 with no timezone. The earlier posters omit timezone. Still an announcement; elapsed dates do not verify release/current availability.",
+        "ko": "10월 9일 공식 본문은 2026년 10월 11일 05:00 UTC+8을 명시합니다. 한국어는 06:00을 표기하며 시간대는 미표기입니다. 앞선 포스터는 시간대를 생략했습니다. 예고 상태이며 날짜 경과만으로 실제 출시·현재 획득 가능 여부를 확인하지 않습니다."
       },
       "identityBasis": {
         "en": "The same male and female fan artwork appears in both regions. The five named reforge styles and fan category also match the CN named section.",
@@ -14678,8 +14680,8 @@
           "original": "공명 상점"
         },
         "conditions": {
-          "en": "Announced for October 11, 2026. EN prints 05:00:00; KO prints 06:00:00. Neither poster states a timezone. Item-level dates take precedence over the stale September 16 KO masthead. In-game availability has not been verified. Default fan form: 1 Harmonic Core, offered for 360 days. Reforging uses Taiyi Stones and provides five preset styles plus custom colors. Exact exchange end is not stated.",
-          "ko": "2026년 10월 11일 출시 예고입니다. 영어는 05:00:00, 한국어는 06:00:00을 표기하며 시간대는 양쪽 모두 미표기입니다. 한국어 상단의 9월 16일 문구 대신 각 외관에 명시된 10월 11일을 기록합니다. 게임 내 실제 판매 여부는 미확인입니다. 부채 기본 형태는 공명 구슬 1개이며 360일간 한정 출시됩니다. 현광석으로 재련하여 다섯 가지 세트 스타일과 맞춤 색상을 사용할 수 있습니다. 정확한 교환 종료 시각은 미표기입니다."
+          "en": "Official October 9 article: October 11, 2026 at 05:00 UTC+8. KO prints 06:00 with no timezone. The earlier posters omit timezone. Still an announcement; elapsed dates do not verify release/current availability. Default fan form: 1 Harmonic Core, offered for 360 days. Reforging uses Taiyi Stones and provides five preset styles plus custom colors. Exact exchange end is not stated.",
+          "ko": "10월 9일 공식 본문은 2026년 10월 11일 05:00 UTC+8을 명시합니다. 한국어는 06:00을 표기하며 시간대는 미표기입니다. 앞선 포스터는 시간대를 생략했습니다. 예고 상태이며 날짜 경과만으로 실제 출시·현재 획득 가능 여부를 확인하지 않습니다. 부채 기본 형태는 공명 구슬 1개이며 360일간 한정 출시됩니다. 현광석으로 재련하여 다섯 가지 세트 스타일과 맞춤 색상을 사용할 수 있습니다. 정확한 교환 종료 시각은 미표기입니다."
         },
         "en": "Official Global announcement terms",
         "ko": "글로벌 공식 예고의 획득 조건"
@@ -14691,14 +14693,16 @@
       "status": "announced",
       "releaseDate": "2026-10-11",
       "precision": "day",
-      "verifiedAt": "2026-10-07",
+      "verifiedAt": "2026-10-13",
       "sourceIds": [
         "global-20261006-october11-en",
-        "global-20261006-october11-ko"
+        "global-20261006-october11-ko",
+        "global-20261009-october11-en",
+        "global-20261009-october11-ko"
       ],
       "scope": {
-        "en": "Announced for October 11, 2026. EN prints 05:00:00; KO prints 06:00:00. Neither poster states a timezone. Item-level dates take precedence over the stale September 16 KO masthead. In-game availability has not been verified.",
-        "ko": "2026년 10월 11일 출시 예고입니다. 영어는 05:00:00, 한국어는 06:00:00을 표기하며 시간대는 양쪽 모두 미표기입니다. 한국어 상단의 9월 16일 문구 대신 각 외관에 명시된 10월 11일을 기록합니다. 게임 내 실제 판매 여부는 미확인입니다."
+        "en": "Official October 9 article: October 11, 2026 at 05:00 UTC+8. KO prints 06:00 with no timezone. The earlier posters omit timezone. Still an announcement; elapsed dates do not verify release/current availability.",
+        "ko": "10월 9일 공식 본문은 2026년 10월 11일 05:00 UTC+8을 명시합니다. 한국어는 06:00을 표기하며 시간대는 미표기입니다. 앞선 포스터는 시간대를 생략했습니다. 예고 상태이며 날짜 경과만으로 실제 출시·현재 획득 가능 여부를 확인하지 않습니다."
       },
       "identityBasis": {
         "en": "Matched the white fur-trimmed outfits, red plum shoulder branches, silver eye ornaments and jade pendants in the named CN and Global artwork.",
@@ -14716,8 +14720,8 @@
           "original": "상점"
         },
         "conditions": {
-          "en": "Announced for October 11, 2026. EN prints 05:00:00; KO prints 06:00:00. Neither poster states a timezone. Item-level dates take precedence over the stale September 16 KO masthead. In-game availability has not been verified. Costs 2,580 Echo Beads and includes a matching player avatar. Supports separate top/bottom pieces and dyeing. No sale end is stated.",
-          "ko": "2026년 10월 11일 출시 예고입니다. 영어는 05:00:00, 한국어는 06:00:00을 표기하며 시간대는 양쪽 모두 미표기입니다. 한국어 상단의 9월 16일 문구 대신 각 외관에 명시된 10월 11일을 기록합니다. 게임 내 실제 판매 여부는 미확인입니다. 장명주 2,580개이며 캐릭터 프로필이 함께 지급됩니다. 상하의 분리와 염색을 지원합니다. 판매 종료일은 미표기입니다."
+          "en": "Official October 9 article: October 11, 2026 at 05:00 UTC+8. KO prints 06:00 with no timezone. The earlier posters omit timezone. Still an announcement; elapsed dates do not verify release/current availability. Costs 2,580 Echo Beads and includes a matching player avatar. Supports separate top/bottom pieces and dyeing. No sale end is stated.",
+          "ko": "10월 9일 공식 본문은 2026년 10월 11일 05:00 UTC+8을 명시합니다. 한국어는 06:00을 표기하며 시간대는 미표기입니다. 앞선 포스터는 시간대를 생략했습니다. 예고 상태이며 날짜 경과만으로 실제 출시·현재 획득 가능 여부를 확인하지 않습니다. 장명주 2,580개이며 캐릭터 프로필이 함께 지급됩니다. 상하의 분리와 염색을 지원합니다. 판매 종료일은 미표기입니다."
         },
         "en": "Official Global announcement terms",
         "ko": "글로벌 공식 예고의 획득 조건"
@@ -14729,14 +14733,16 @@
       "status": "announced",
       "releaseDate": "2026-10-11",
       "precision": "day",
-      "verifiedAt": "2026-10-07",
+      "verifiedAt": "2026-10-13",
       "sourceIds": [
         "global-20261006-october11-en",
-        "global-20261006-october11-ko"
+        "global-20261006-october11-ko",
+        "global-20261009-october11-en",
+        "global-20261009-october11-ko"
       ],
       "scope": {
-        "en": "Announced for October 11, 2026. EN prints 05:00:00; KO prints 06:00:00. Neither poster states a timezone. Item-level dates take precedence over the stale September 16 KO masthead. In-game availability has not been verified.",
-        "ko": "2026년 10월 11일 출시 예고입니다. 영어는 05:00:00, 한국어는 06:00:00을 표기하며 시간대는 양쪽 모두 미표기입니다. 한국어 상단의 9월 16일 문구 대신 각 외관에 명시된 10월 11일을 기록합니다. 게임 내 실제 판매 여부는 미확인입니다."
+        "en": "Official October 9 article: October 11, 2026 at 05:00 UTC+8. KO prints 06:00 with no timezone. The earlier posters omit timezone. Still an announcement; elapsed dates do not verify release/current availability.",
+        "ko": "10월 9일 공식 본문은 2026년 10월 11일 05:00 UTC+8을 명시합니다. 한국어는 06:00을 표기하며 시간대는 미표기입니다. 앞선 포스터는 시간대를 생략했습니다. 예고 상태이며 날짜 경과만으로 실제 출시·현재 획득 가능 여부를 확인하지 않습니다."
       },
       "identityBasis": {
         "en": "Matched the long white hair, plum hairpin and front/back views of both characters in the named CN and Global posters. The KO heading and exchange sentence say 설산의 매화; the avatar sentence contains a spelling inconsistency.",
@@ -14754,8 +14760,8 @@
           "original": "공명 상점"
         },
         "conditions": {
-          "en": "Announced for October 11, 2026. EN prints 05:00:00; KO prints 06:00:00. Neither poster states a timezone. Item-level dates take precedence over the stale September 16 KO masthead. In-game availability has not been verified. Costs 1 Harmonic Core, supports dyeing and includes a dynamic player avatar. Offered for 90 days: EN October 11 05:00:00–January 9, 2027 04:59:59; KO October 11 06:00:00–January 9 05:59:59. Both timezones are unstated.",
-          "ko": "2026년 10월 11일 출시 예고입니다. 영어는 05:00:00, 한국어는 06:00:00을 표기하며 시간대는 양쪽 모두 미표기입니다. 한국어 상단의 9월 16일 문구 대신 각 외관에 명시된 10월 11일을 기록합니다. 게임 내 실제 판매 여부는 미확인입니다. 공명 구슬 1개이며 염색을 지원하고 움직이는 프로필이 함께 지급됩니다. 90일 한정으로 한국어 공지는 10월 11일 06:00:00~2027년 1월 9일 05:59:59, 영어는 10월 11일 05:00:00~1월 9일 04:59:59를 표기합니다. 양쪽 모두 시간대는 미표기입니다."
+          "en": "Official October 9 article: October 11, 2026 at 05:00 UTC+8. KO prints 06:00 with no timezone. The earlier posters omit timezone. Still an announcement; elapsed dates do not verify release/current availability. Costs 1 Harmonic Core, supports dyeing and includes a dynamic player avatar. Offered for 90 days: EN October 11 05:00:00–January 9, 2027 04:59:59; KO October 11 06:00:00–January 9 05:59:59. The October 9 EN article establishes UTC+8; the KO timezone stays unstated.",
+          "ko": "10월 9일 공식 본문은 2026년 10월 11일 05:00 UTC+8을 명시합니다. 한국어는 06:00을 표기하며 시간대는 미표기입니다. 앞선 포스터는 시간대를 생략했습니다. 예고 상태이며 날짜 경과만으로 실제 출시·현재 획득 가능 여부를 확인하지 않습니다. 공명 구슬 1개이며 염색을 지원하고 움직이는 프로필이 함께 지급됩니다. 90일 한정으로 한국어 공지는 10월 11일 06:00:00~2027년 1월 9일 05:59:59, 영어는 10월 11일 05:00:00~1월 9일 04:59:59를 표기합니다. 10월 9일 영어 본문에서 UTC+8을 확인했으며 한국어 시간대는 미표기입니다."
         },
         "en": "Official Global announcement terms",
         "ko": "글로벌 공식 예고의 획득 조건"
@@ -14767,14 +14773,16 @@
       "status": "announced",
       "releaseDate": "2026-10-11",
       "precision": "day",
-      "verifiedAt": "2026-10-07",
+      "verifiedAt": "2026-10-13",
       "sourceIds": [
         "global-20261006-october11-en",
-        "global-20261006-october11-ko"
+        "global-20261006-october11-ko",
+        "global-20261009-october11-en",
+        "global-20261009-october11-ko"
       ],
       "scope": {
-        "en": "Announced for October 11, 2026. EN prints 05:00:00; KO prints 06:00:00. Neither poster states a timezone. Item-level dates take precedence over the stale September 16 KO masthead. In-game availability has not been verified.",
-        "ko": "2026년 10월 11일 출시 예고입니다. 영어는 05:00:00, 한국어는 06:00:00을 표기하며 시간대는 양쪽 모두 미표기입니다. 한국어 상단의 9월 16일 문구 대신 각 외관에 명시된 10월 11일을 기록합니다. 게임 내 실제 판매 여부는 미확인입니다."
+        "en": "Official October 9 article: October 11, 2026 at 05:00 UTC+8. KO prints 06:00 with no timezone. The earlier posters omit timezone. Still an announcement; elapsed dates do not verify release/current availability.",
+        "ko": "10월 9일 공식 본문은 2026년 10월 11일 05:00 UTC+8을 명시합니다. 한국어는 06:00을 표기하며 시간대는 미표기입니다. 앞선 포스터는 시간대를 생략했습니다. 예고 상태이며 날짜 경과만으로 실제 출시·현재 획득 가능 여부를 확인하지 않습니다."
       },
       "identityBasis": {
         "en": "Matched the goose hair ornament, family-portrait jacket and yellow/red/green layers in the named CN and Global male/female artwork.",
@@ -14792,8 +14800,8 @@
           "original": "상점"
         },
         "conditions": {
-          "en": "Announced for October 11, 2026. EN prints 05:00:00; KO prints 06:00:00. Neither poster states a timezone. Item-level dates take precedence over the stale September 16 KO masthead. In-game availability has not been verified. Costs 60 Echo Beads. Supports separate top/bottom pieces and dyeing. No sale end is stated.",
-          "ko": "2026년 10월 11일 출시 예고입니다. 영어는 05:00:00, 한국어는 06:00:00을 표기하며 시간대는 양쪽 모두 미표기입니다. 한국어 상단의 9월 16일 문구 대신 각 외관에 명시된 10월 11일을 기록합니다. 게임 내 실제 판매 여부는 미확인입니다. 장명주 60개이며 상하의 분리와 염색을 지원합니다. 판매 종료일은 미표기입니다."
+          "en": "Official October 9 article: October 11, 2026 at 05:00 UTC+8. KO prints 06:00 with no timezone. The earlier posters omit timezone. Still an announcement; elapsed dates do not verify release/current availability. Costs 60 Echo Beads. Supports separate top/bottom pieces and dyeing. No sale end is stated.",
+          "ko": "10월 9일 공식 본문은 2026년 10월 11일 05:00 UTC+8을 명시합니다. 한국어는 06:00을 표기하며 시간대는 미표기입니다. 앞선 포스터는 시간대를 생략했습니다. 예고 상태이며 날짜 경과만으로 실제 출시·현재 획득 가능 여부를 확인하지 않습니다. 장명주 60개이며 상하의 분리와 염색을 지원합니다. 판매 종료일은 미표기입니다."
         },
         "en": "Official Global announcement terms",
         "ko": "글로벌 공식 예고의 획득 조건"
@@ -14805,14 +14813,16 @@
       "status": "announced",
       "releaseDate": "2026-10-11",
       "precision": "day",
-      "verifiedAt": "2026-10-07",
+      "verifiedAt": "2026-10-13",
       "sourceIds": [
         "global-20261006-october11-en",
-        "global-20261006-october11-ko"
+        "global-20261006-october11-ko",
+        "global-20261009-october11-en",
+        "global-20261009-october11-ko"
       ],
       "scope": {
-        "en": "Announced for October 11, 2026. EN prints 05:00:00; KO prints 06:00:00. Neither poster states a timezone. Item-level dates take precedence over the stale September 16 KO masthead. In-game availability has not been verified.",
-        "ko": "2026년 10월 11일 출시 예고입니다. 영어는 05:00:00, 한국어는 06:00:00을 표기하며 시간대는 양쪽 모두 미표기입니다. 한국어 상단의 9월 16일 문구 대신 각 외관에 명시된 10월 11일을 기록합니다. 게임 내 실제 판매 여부는 미확인입니다."
+        "en": "Official October 9 article: October 11, 2026 at 05:00 UTC+8. KO prints 06:00 with no timezone. The earlier posters omit timezone. Still an announcement; elapsed dates do not verify release/current availability.",
+        "ko": "10월 9일 공식 본문은 2026년 10월 11일 05:00 UTC+8을 명시합니다. 한국어는 06:00을 표기하며 시간대는 미표기입니다. 앞선 포스터는 시간대를 생략했습니다. 예고 상태이며 날짜 경과만으로 실제 출시·현재 획득 가능 여부를 확인하지 않습니다."
       },
       "identityBasis": {
         "en": "The named CN 貔貅赐宝 section identifies the 金蟾腾跃 effect and a 2-to-3 Sound Jade offer, matching the Global Pixiu/Leaping Toad category and terms. The previous lion-hat picture belonged to a different reward section and was not identity evidence.",
@@ -14830,8 +14840,8 @@
           "original": "공명 · 화음 상점"
         },
         "conditions": {
-          "en": "Announced for October 11, 2026. EN prints 05:00:00; KO prints 06:00:00. Neither poster states a timezone. Item-level dates take precedence over the stale September 16 KO masthead. In-game availability has not been verified. Leaping Toad VFX costs a discounted 2 Sound Jades, then returns to 3. Discount ends November 23, 2026 at 04:59:59 in EN / 05:59:59 in KO; both timezones are unstated. This is a discount end, not a sale end.",
-          "ko": "2026년 10월 11일 출시 예고입니다. 영어는 05:00:00, 한국어는 06:00:00을 표기하며 시간대는 양쪽 모두 미표기입니다. 한국어 상단의 9월 16일 문구 대신 각 외관에 명시된 10월 11일을 기록합니다. 게임 내 실제 판매 여부는 미확인입니다. 합마공 비결 이펙트이며 할인가는 음옥 2개, 정가는 3개입니다. 할인 종료는 한국어 기준 2026년 11월 23일 05:59:59, 영어 기준 04:59:59로 표기하며 시간대는 양쪽 모두 미표기입니다. 판매 종료일이 아닌 할인 종료일입니다."
+          "en": "Official October 9 article: October 11, 2026 at 05:00 UTC+8. KO prints 06:00 with no timezone. The earlier posters omit timezone. Still an announcement; elapsed dates do not verify release/current availability. Leaping Toad VFX costs a discounted 2 Sound Jades, then returns to 3. Discount ends November 23, 2026 at 04:59:59 in EN / 05:59:59 in KO; the EN end is UTC+8 in the October 9 article, and the KO timezone stays unstated. This is a discount end, not a sale end.",
+          "ko": "10월 9일 공식 본문은 2026년 10월 11일 05:00 UTC+8을 명시합니다. 한국어는 06:00을 표기하며 시간대는 미표기입니다. 앞선 포스터는 시간대를 생략했습니다. 예고 상태이며 날짜 경과만으로 실제 출시·현재 획득 가능 여부를 확인하지 않습니다. 합마공 비결 이펙트이며 할인가는 음옥 2개, 정가는 3개입니다. 할인 종료는 한국어 기준 2026년 11월 23일 05:59:59, 영어 기준 04:59:59로 표기하며 10월 9일 영어 본문에서 UTC+8을 확인했으며 한국어 시간대는 미표기입니다. 판매 종료일이 아닌 할인 종료일입니다."
         },
         "en": "Official Global announcement terms",
         "ko": "글로벌 공식 예고의 획득 조건"
@@ -14987,6 +14997,117 @@
         },
         "en": "Official CN announcement terms",
         "ko": "중국 공식 예고의 획득 조건"
+      }
+    },
+    {
+      "cosmeticId": "hong-ye-xiao-xiao",
+      "server": "Global",
+      "status": "announced",
+      "releaseDate": "2026-10-15",
+      "precision": "day",
+      "verifiedAt": "2026-10-13",
+      "sourceIds": [
+        "global-20261010-scarlet-whispers"
+      ],
+      "scope": {
+        "en": "After the October 15, 2026 update (UTC, printed on artwork); opening hour unstated. Battle Pass listing ends November 14, 2026 at 04:59:59 UTC+8. Announcement, not current in-game availability verification.",
+        "ko": "공식 이미지에 표기된 UTC 기준 2026년 10월 15일 업데이트 후 예고이며 시작 시각은 미표기입니다. 강호령 기간은 2026년 11월 14일 04:59:59 UTC+8까지입니다. 예고이며 현재 게임 내 획득 가능 여부를 확인한 기록은 아닙니다."
+      },
+      "identityBasis": {
+        "en": "Matched the broad leaf-shaped hat, white layered cape, red maple shoulder ornaments, patterned bodice and red rear hair ribbons in the named Global photos and CN 红叶萧萧 reference.",
+        "ko": "이름이 명시된 글로벌 사진과 중국 红叶萧萧 사진의 넓은 잎 모양 삿갓, 흰 겹장식 망토, 붉은 단풍 어깨 장식, 몸통 무늬와 뒤쪽 붉은 머리끈이 일치합니다."
+      },
+      "acquisition": {
+        "kind": "battle_pass",
+        "pricing": "pass",
+        "amount": null,
+        "regularAmount": null,
+        "currencyOriginal": null,
+        "location": {
+          "en": "Battle Pass",
+          "ko": "강호령",
+          "original": "Battle Pass"
+        },
+        "conditions": {
+          "en": "Global pass price, currency, tier and required outfit reward level are not stated. CN pass conditions are not applied to Global.",
+          "ko": "글로벌 강호령 가격·통화·등급·의상 보상 레벨은 미표기입니다. 중국 강호령 조건을 글로벌에 적용하지 않습니다."
+        },
+        "en": "Official Global announcement terms",
+        "ko": "글로벌 공식 예고의 획득 조건"
+      }
+    },
+    {
+      "cosmeticId": "lian-du-you-luo",
+      "server": "Global",
+      "status": "announced",
+      "releaseDate": "2026-10-15",
+      "precision": "day",
+      "verifiedAt": "2026-10-13",
+      "sourceIds": [
+        "global-20261009-veil-of-lotus"
+      ],
+      "scope": {
+        "en": "Announced for after the October 15, 2026 update; opening hour and timezone unstated. Draw Set listing ends December 28, 2026 at 04:59:59 UTC+8. Current in-game availability has not been verified.",
+        "ko": "2026년 10월 15일 업데이트 후 공명 세트 출시 예고입니다. 시작 시각·시간대는 미표기이며 기간은 2026년 12월 28일 04:59:59 UTC+8까지입니다. 현재 게임 내 획득 가능 여부는 미확인입니다."
+      },
+      "identityBasis": {
+        "en": "Matched the violet/blue robes, white fur shoulder silhouette, gold chest/waist ornaments and violet lotus/skeletal visual motifs in the official Global video and named CN 莲渡幽罗 artwork.",
+        "ko": "공식 글로벌 영상과 이름이 명시된 중국 莲渡幽罗 사진의 보라·푸른 의복, 흰 털 어깨 실루엣, 금빛 가슴·허리 장식 및 보라색 연꽃·해골 표현이 일치합니다."
+      },
+      "acquisition": {
+        "kind": "limited_draw",
+        "pricing": "draw",
+        "amount": null,
+        "regularAmount": null,
+        "currencyOriginal": null,
+        "location": {
+          "en": "Draw Shop",
+          "ko": "공명 상점",
+          "original": "Draw Shop"
+        },
+        "conditions": {
+          "en": "The official post identifies a Draw Set; Global draw currency, probabilities, guaranteed cost and exchange price are unstated. CN 2-core exchange terms are not Global price evidence.",
+          "ko": "공식 게시물의 공명 세트입니다. 글로벌 추첨 재화·확률·확정 비용·교환 가격은 미표기입니다. 중국의 구슬 2개 교환 조건을 글로벌 가격으로 사용하지 않습니다."
+        },
+        "en": "Official Global announcement terms",
+        "ko": "글로벌 공식 예고의 획득 조건"
+      }
+    },
+    {
+      "cosmeticId": "ming-he-fu-yunsi-xian",
+      "server": "Global",
+      "status": "announced",
+      "releaseDate": "2026-10-15",
+      "precision": "day",
+      "verifiedAt": "2026-10-13",
+      "sourceIds": [
+        "global-20261013-crane-chordsong"
+      ],
+      "scope": {
+        "en": "Museflow Waist Drum Martial Art VFX announced for the Draw Shop after the October 15, 2026 update. Opening hour/timezone and end date are unstated; no in-game availability verification.",
+        "ko": "요고 무술 이펙트의 2026년 10월 15일 업데이트 후 공명 상점 출시 예고입니다. 시작 시각·시간대·종료일은 미표기이며 게임 내 실제 판매 여부는 미확인입니다."
+      },
+      "identityBasis": {
+        "en": "Matched the waist-drum performance, white reflective stage, surrounding dark opponents and ribbon/crane combat sequence in the Global video and the named CN 鸣鹤赴云·思弦 reference. The translated introductory verse agrees with 江南相思引，多叹不成音.",
+        "ko": "글로벌 영상과 이름이 명시된 중국 鸣鹤赴云·思弦 참고 영상의 요고 연주, 흰 반사 무대, 주변의 검은 적과 리본·학 전투 동작이 일치합니다. 도입 시구도 江南相思引，多叹不成音과 대응합니다."
+      },
+      "acquisition": {
+        "kind": "unknown",
+        "pricing": "unknown",
+        "amount": null,
+        "regularAmount": null,
+        "currencyOriginal": null,
+        "location": {
+          "en": "Draw Shop",
+          "ko": "공명 상점",
+          "original": "Draw Shop"
+        },
+        "conditions": {
+          "en": "The post names the Draw Shop, but does not establish Global acquisition mechanism, currency, quantity or a bonus pose. CN 1-core price and pose are not carried over.",
+          "ko": "게시물은 공명 상점을 명시하지만 글로벌 획득 방식·재화·수량·추가 자세는 확인하지 못했습니다. 중국의 구슬 1개 가격과 자세를 글로벌 조건으로 적용하지 않습니다."
+        },
+        "en": "Official Global announcement terms",
+        "ko": "글로벌 공식 예고의 획득 조건"
       }
     }
   ]

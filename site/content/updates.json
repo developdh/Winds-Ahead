@@ -2,6 +2,29 @@
   "schemaVersion": 1,
   "entries": [
     {
+      "id": "october15-social-and-october11-details-20261013",
+      "date": "2026-10-13",
+      "kind": {
+        "en": "Official Global announcements",
+        "ko": "공식 글로벌 예고"
+      },
+      "title": {
+        "en": "October 15 appearances and October 11 timezone details",
+        "ko": "10월 15일 외관 예고·10월 11일 시간대 보완"
+      },
+      "body": {
+        "en": "Linked Scarlet Whispers, Veil of Lotus and Crane Ascending: Chordsong to existing CN identities using inspected official X artwork/video. Added November 14 pass and December 28 draw ends with UTC+8, 14 Global reference photos and female previews. October 9 EN/KO appearance articles confirm October 11 05:00 UTC+8 and the Silent Plum/Pixiu end timezones. Announcements remain announcements; Global prices and Korean names are unknown when unstated.",
+        "ko": "공식 X 사진·영상을 대조해 Scarlet Whispers, Veil of Lotus, Crane Ascending: Chordsong을 기존 중국 항목에 연결했습니다. 11월 14일 강호령·12월 28일 공명 종료 시각 UTC+8, 글로벌 참고 사진 14장과 여성 미리보기를 추가했습니다. 10월 9일 영문·한국어 외관 본문으로 10월 11일 05:00 UTC+8 및 설산의 매화·비휴의 축복 종료 시간대를 보완했습니다. 예고 상태를 유지하며 미표기 글로벌 가격·한국어 공식명은 미확인입니다."
+      },
+      "sourceIds": [
+        "global-20261010-scarlet-whispers",
+        "global-20261009-veil-of-lotus",
+        "global-20261013-crane-chordsong",
+        "global-20261009-october11-en",
+        "global-20261009-october11-ko"
+      ]
+    },
+    {
       "id": "october9-cn-appearances-20261012",
       "date": "2026-10-12",
       "kind": {
