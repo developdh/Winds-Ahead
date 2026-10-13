@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "verifiedAt": "2026-10-12",
+  "verifiedAt": "2026-10-13",
   "scope": "Cross-server archive from individually reviewed official announcements; not a certified complete game inventory.",
   "sources": [
     {
@@ -4068,6 +4068,71 @@
       "verifiedAt": "2026-10-12",
       "imageUrl": "https://nie.res.netease.com/r/pic/20261009/51a4f45d-5412-4e86-a76c-cac2102865d0.jpg",
       "verificationNote": "Visually read the full original update poster in five sections. All four appearance sections print October 9 00:00:00; the return end is December 25 04:59:59. Discount ends retain seconds. Timezone unstated; announcement does not independently establish current availability."
+    },
+    {
+      "id": "global-20261010-scarlet-whispers",
+      "url": "https://x.com/WhereWindsMeet_/status/2108890286474547507",
+      "publisher": "Where Winds Meet / NetEase (official X)",
+      "server": "Global",
+      "titleOriginal": "Scarlet Whispers — October 15 Battle Pass announcement",
+      "displayedPublicationDate": "2026-10-10",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-10-13",
+      "verificationNote": "Official post read directly in the in-app browser. Four original photos inspected. Artwork explicitly says after the October 15 version update (UTC); post gives November 14 04:59:59 UTC+8. No opening hour, price, reward level or official Korean name stated."
+    },
+    {
+      "id": "global-20261009-veil-of-lotus",
+      "url": "https://x.com/WhereWindsMeet_/status/2108558105998999830",
+      "publisher": "Where Winds Meet / NetEase (official X)",
+      "server": "Global",
+      "titleOriginal": "Veil of Lotus — October 15 Draw Set announcement",
+      "displayedPublicationDate": "2026-10-09",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-10-13",
+      "verificationNote": "Official post and outfit video scenes inspected directly in browser, including white fur, gold ornaments and violet lotus visuals. After October 15 update; opening timezone/hour unstated. End December 28 04:59:59 UTC+8. No Global price or Korean name stated; video remains accessible through the source link."
+    },
+    {
+      "id": "global-20261013-crane-chordsong",
+      "url": "https://x.com/WhereWindsMeet_/status/2110007656958332962",
+      "publisher": "Where Winds Meet / NetEase (official X)",
+      "server": "Global",
+      "titleOriginal": "Crane Ascending: Chordsong — Museflow Waist Drum Martial Art VFX",
+      "displayedPublicationDate": "2026-10-13",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-10-13",
+      "verificationNote": "Official post and video inspected directly in browser. Same white stage, surrounding dark opponents and waist-drum ribbon/crane sequence as the named CN reference; translated verse also agrees. After October 15 update in Draw Shop. Opening timezone/hour, end, price and Korean name unstated."
+    },
+    {
+      "id": "global-20261009-october11-en",
+      "url": "https://www.wherewindsmeetgame.com/news/official/1011appearance.html",
+      "publisher": "NetEase / Where Winds Meet official website",
+      "server": "Global",
+      "titleOriginal": "[Perilous Eminence] Version 2.2 New Appearances Overview - October 11",
+      "displayedPublicationDate": "2026-10-09",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-10-13",
+      "verificationNote": "Full named article and ten EN images inspected. EN states October 11 05:00 UTC+8 for the group and January 9 / November 23 04:59:59 ends; KO states 06:00 and 05:59:59 with no timezone. Announcement remains distinct from in-game availability. Costs retained from October 6 paired posters; no price inferred from artwork."
+    },
+    {
+      "id": "global-20261009-october11-ko",
+      "url": "https://www.wherewindsmeetgame.com/kr/news/official/1011appearance.html",
+      "publisher": "NetEase / Where Winds Meet official website",
+      "server": "Global",
+      "titleOriginal": "[구름 위 동행] 10월11일 2.2 버전 신규 외관 목록",
+      "displayedPublicationDate": "2026-10-09",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-10-13",
+      "verificationNote": "Full named article and ten EN images inspected. EN states October 11 05:00 UTC+8 for the group and January 9 / November 23 04:59:59 ends; KO states 06:00 and 05:59:59 with no timezone. Announcement remains distinct from in-game availability. Costs retained from October 6 paired posters; no price inferred from artwork."
     }
   ],
   "mediaRights": {
@@ -6728,7 +6793,7 @@
       "romanization": "Lian Du You Luo",
       "category": "outfit",
       "sourceId": "cn-20260226-outfits",
-      "officialNameEn": null,
+      "officialNameEn": "Veil of Lotus",
       "officialNameKo": null,
       "cnRelease": {
         "date": "2026-02-27",
@@ -6935,7 +7000,17 @@
       ],
       "officialVideos": [],
       "wikiDetails": true,
-      "mediaStatus": "verified"
+      "mediaStatus": "verified",
+      "searchAliases": [
+        "Lian Du You Luo",
+        "연도유라",
+        "莲渡幽罗",
+        "Veil of Lotus"
+      ],
+      "namingNote": {
+        "en": "Official English name verified from the Global X announcement. Korean name remains a provisional CN reading; no official Korean name verified. CN and Global acquisition/schedules remain separate.",
+        "ko": "글로벌 공식 X 예고에서 영문 이름을 확인했습니다. 한국어 이름은 중국명의 임시 독음이며 한국어 공식명은 미확인입니다. 중국·글로벌 획득 조건과 일정을 구분합니다."
+      }
     },
     {
       "id": "wan-he-qing-xiang",
@@ -14022,7 +14097,7 @@
       "category": "outfit",
       "sourceId": "cn-d8dfdef52f57",
       "acquisitionServer": "CN",
-      "mediaServer": "CN",
+      "mediaServer": "Global",
       "officialNameEn": "Kin and Keep",
       "officialNameKo": "나그네의 옷",
       "cnRelease": {
@@ -14087,6 +14162,28 @@
             "en": "Official CN reference. Full source artwork remains available in enlargement.",
             "ko": "중국 공식 참고사진입니다. 확대하면 원본 전체 구도를 볼 수 있습니다."
           }
+        },
+        {
+          "url": "https://r.res.easebar.com/pic/20261001/52736dab-dacb-4363-838f-1a12279de946.png",
+          "width": 1215,
+          "height": 1080,
+          "bytes": 1853257,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "global-20261009-october11-en",
+          "server": "Global",
+          "inspectionNote": "2026-10-13: original official artwork visually inspected, matched to the named announcement and checked against CN identity. Full composition retained; crops affect preview only. No in-game verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/youzi-yi-2-full.webp",
+          "alt": {
+            "en": "Official Global character reference from the October 11 named section. Full source artwork retained.",
+            "ko": "10월 11일 명칭별 공지의 글로벌 공식 캐릭터 참고 사진입니다. 전체 원본 구도를 유지합니다."
+          },
+          "caption": {
+            "en": "Official Global character reference from the October 11 named section. Full source artwork retained.",
+            "ko": "10월 11일 명칭별 공지의 글로벌 공식 캐릭터 참고 사진입니다. 전체 원본 구도를 유지합니다."
+          },
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio"
         }
       ],
       "officialVideos": [],
@@ -17697,7 +17794,7 @@
       "category": "weapon_skin",
       "sourceId": "cn-1971a4849e93",
       "acquisitionServer": "CN",
-      "mediaServer": "CN",
+      "mediaServer": "Global",
       "officialNameEn": "Silent Voice: Aerial Grace",
       "officialNameKo": "숨겨진 선율-천상의 바람",
       "cnRelease": {
@@ -17762,6 +17859,50 @@
             "en": "Official CN reference. Full source artwork remains available in enlargement.",
             "ko": "중국 공식 참고사진입니다. 확대하면 원본 전체 구도를 볼 수 있습니다."
           }
+        },
+        {
+          "url": "https://r.res.easebar.com/pic/20261001/35898891-651f-4360-819f-5ab9415ebbad.png",
+          "width": 1080,
+          "height": 1350,
+          "bytes": 1893693,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "global-20261009-october11-en",
+          "server": "Global",
+          "inspectionNote": "2026-10-13: original official artwork visually inspected, matched to the named announcement and checked against CN identity. Full composition retained; crops affect preview only. No in-game verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/cang-yinni-shang-tian-feng-2-full.webp",
+          "alt": {
+            "en": "Official Global fan character reference from the October 11 named section. Full source artwork retained.",
+            "ko": "10월 11일 명칭별 공지의 글로벌 공식 부채 캐릭터 참고 사진입니다. 전체 원본 구도를 유지합니다."
+          },
+          "caption": {
+            "en": "Official Global fan character reference from the October 11 named section. Full source artwork retained.",
+            "ko": "10월 11일 명칭별 공지의 글로벌 공식 부채 캐릭터 참고 사진입니다. 전체 원본 구도를 유지합니다."
+          },
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio"
+        },
+        {
+          "url": "https://r.res.easebar.com/pic/20261001/4bd42a27-4a7d-458e-8cdb-3e4a1d2e401e.png",
+          "width": 1080,
+          "height": 1350,
+          "bytes": 1232655,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "global-20261009-october11-en",
+          "server": "Global",
+          "inspectionNote": "2026-10-13: original official artwork visually inspected, matched to the named announcement and checked against CN identity. Full composition retained; crops affect preview only. No in-game verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/cang-yinni-shang-tian-feng-3-full.webp",
+          "alt": {
+            "en": "Official Global appearance reference from the October 11 named section. Full source artwork retained.",
+            "ko": "10월 11일 명칭별 공지의 글로벌 공식 외관 참고 사진입니다. 전체 원본 구도를 유지합니다."
+          },
+          "caption": {
+            "en": "Official Global appearance reference from the October 11 named section. Full source artwork retained.",
+            "ko": "10월 11일 명칭별 공지의 글로벌 공식 외관 참고 사진입니다. 전체 원본 구도를 유지합니다."
+          },
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio"
         }
       ],
       "officialVideos": [],
@@ -17853,6 +17994,94 @@
             "en": "Official CN reference. Full source artwork remains available in enlargement.",
             "ko": "중국 공식 참고사진입니다. 확대하면 원본 전체 구도를 볼 수 있습니다."
           }
+        },
+        {
+          "url": "https://r.res.easebar.com/pic/20261001/948447a1-6687-45df-abda-c055ae2d5b19.png",
+          "width": 1728,
+          "height": 1080,
+          "bytes": 2876654,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "global-20261009-october11-en",
+          "server": "Global",
+          "inspectionNote": "2026-10-13: original official artwork visually inspected, matched to the named announcement and checked against CN identity. Full composition retained; crops affect preview only. No in-game verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/tan-mei-feng-chun-2-full.webp",
+          "alt": {
+            "en": "Official Global appearance reference from the October 11 named section. Full source artwork retained.",
+            "ko": "10월 11일 명칭별 공지의 글로벌 공식 외관 참고 사진입니다. 전체 원본 구도를 유지합니다."
+          },
+          "caption": {
+            "en": "Official Global appearance reference from the October 11 named section. Full source artwork retained.",
+            "ko": "10월 11일 명칭별 공지의 글로벌 공식 외관 참고 사진입니다. 전체 원본 구도를 유지합니다."
+          },
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio"
+        },
+        {
+          "url": "https://r.res.easebar.com/pic/20261001/c1c44970-3b77-4a17-bb99-bd4a3f271cb3.png",
+          "width": 1920,
+          "height": 1080,
+          "bytes": 3600159,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "global-20261009-october11-en",
+          "server": "Global",
+          "inspectionNote": "2026-10-13: original official artwork visually inspected, matched to the named announcement and checked against CN identity. Full composition retained; crops affect preview only. No in-game verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/tan-mei-feng-chun-3-full.webp",
+          "alt": {
+            "en": "Official Global appearance reference from the October 11 named section. Full source artwork retained.",
+            "ko": "10월 11일 명칭별 공지의 글로벌 공식 외관 참고 사진입니다. 전체 원본 구도를 유지합니다."
+          },
+          "caption": {
+            "en": "Official Global appearance reference from the October 11 named section. Full source artwork retained.",
+            "ko": "10월 11일 명칭별 공지의 글로벌 공식 외관 참고 사진입니다. 전체 원본 구도를 유지합니다."
+          },
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio"
+        },
+        {
+          "url": "https://r.res.easebar.com/pic/20261001/9a125d37-3b61-4a66-a6ad-4f38d867af03.png",
+          "width": 1920,
+          "height": 1080,
+          "bytes": 3179593,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "global-20261009-october11-en",
+          "server": "Global",
+          "inspectionNote": "2026-10-13: original official artwork visually inspected, matched to the named announcement and checked against CN identity. Full composition retained; crops affect preview only. No in-game verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/tan-mei-feng-chun-4-full.webp",
+          "alt": {
+            "en": "Official Global female character and detail reference from the October 11 named section. Full source artwork retained.",
+            "ko": "10월 11일 명칭별 공지의 글로벌 공식 여성 캐릭터와 디테일 참고 사진입니다. 전체 원본 구도를 유지합니다."
+          },
+          "caption": {
+            "en": "Official Global female character and detail reference from the October 11 named section. Full source artwork retained.",
+            "ko": "10월 11일 명칭별 공지의 글로벌 공식 여성 캐릭터와 디테일 참고 사진입니다. 전체 원본 구도를 유지합니다."
+          },
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio"
+        },
+        {
+          "url": "https://r.res.easebar.com/pic/20261001/b7acc83a-1b45-40a6-8e4c-a712c77de8ac.png",
+          "width": 1920,
+          "height": 1080,
+          "bytes": 3405778,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "global-20261009-october11-en",
+          "server": "Global",
+          "inspectionNote": "2026-10-13: original official artwork visually inspected, matched to the named announcement and checked against CN identity. Full composition retained; crops affect preview only. No in-game verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/tan-mei-feng-chun-5-full.webp",
+          "alt": {
+            "en": "Official Global appearance reference from the October 11 named section. Full source artwork retained.",
+            "ko": "10월 11일 명칭별 공지의 글로벌 공식 외관 참고 사진입니다. 전체 원본 구도를 유지합니다."
+          },
+          "caption": {
+            "en": "Official Global appearance reference from the October 11 named section. Full source artwork retained.",
+            "ko": "10월 11일 명칭별 공지의 글로벌 공식 외관 참고 사진입니다. 전체 원본 구도를 유지합니다."
+          },
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio"
         }
       ],
       "officialVideos": [],
@@ -17930,6 +18159,50 @@
             "en": "Female back view from the official CN poster. Enlargement retains the entire poster, including both character views.",
             "ko": "중국 공식 포스터의 여성 뒷모습입니다. 확대하면 남녀 외형을 포함한 전체 포스터를 볼 수 있습니다."
           }
+        },
+        {
+          "url": "https://r.res.easebar.com/pic/20261001/c04c639b-4154-41d9-8ba8-8a2b289be043.png",
+          "width": 1920,
+          "height": 1080,
+          "bytes": 2654643,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "global-20261009-october11-en",
+          "server": "Global",
+          "inspectionNote": "2026-10-13: original official artwork visually inspected, matched to the named announcement and checked against CN identity. Full composition retained; crops affect preview only. No in-game verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/kongshan-xun-mei-1-full.webp",
+          "alt": {
+            "en": "Official Global hair reference from the October 11 named section. Full source artwork retained.",
+            "ko": "10월 11일 명칭별 공지의 글로벌 공식 헤어 참고 사진입니다. 전체 원본 구도를 유지합니다."
+          },
+          "caption": {
+            "en": "Official Global hair reference from the October 11 named section. Full source artwork retained.",
+            "ko": "10월 11일 명칭별 공지의 글로벌 공식 헤어 참고 사진입니다. 전체 원본 구도를 유지합니다."
+          },
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio"
+        },
+        {
+          "url": "https://r.res.easebar.com/pic/20261001/c3e7cfbc-8c01-4db0-bb80-585434c9318f.png",
+          "width": 1440,
+          "height": 1080,
+          "bytes": 2135528,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "global-20261009-october11-en",
+          "server": "Global",
+          "inspectionNote": "2026-10-13: original official artwork visually inspected, matched to the named announcement and checked against CN identity. Full composition retained; crops affect preview only. No in-game verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/kongshan-xun-mei-2-full.webp",
+          "alt": {
+            "en": "Official Global appearance reference from the October 11 named section. Full source artwork retained.",
+            "ko": "10월 11일 명칭별 공지의 글로벌 공식 외관 참고 사진입니다. 전체 원본 구도를 유지합니다."
+          },
+          "caption": {
+            "en": "Official Global appearance reference from the October 11 named section. Full source artwork retained.",
+            "ko": "10월 11일 명칭별 공지의 글로벌 공식 외관 참고 사진입니다. 전체 원본 구도를 유지합니다."
+          },
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio"
         }
       ],
       "officialVideos": [],
@@ -18510,6 +18783,28 @@
             972,
             6025
           ]
+        },
+        {
+          "url": "https://r.res.easebar.com/pic/20261001/77eb639d-20a0-46ba-9ed2-cacb0a4cae84.png",
+          "width": 1080,
+          "height": 1350,
+          "bytes": 2543503,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "global-20261009-october11-en",
+          "server": "Global",
+          "inspectionNote": "2026-10-13: original official artwork visually inspected, matched to the named announcement and checked against CN identity. Full composition retained; crops affect preview only. No in-game verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/pi-xiu-ci-bao-1-full.webp",
+          "alt": {
+            "en": "Official Global appearance reference from the October 11 named section. Full source artwork retained.",
+            "ko": "10월 11일 명칭별 공지의 글로벌 공식 외관 참고 사진입니다. 전체 원본 구도를 유지합니다."
+          },
+          "caption": {
+            "en": "Official Global appearance reference from the October 11 named section. Full source artwork retained.",
+            "ko": "10월 11일 명칭별 공지의 글로벌 공식 외관 참고 사진입니다. 전체 원본 구도를 유지합니다."
+          },
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio"
         }
       ],
       "officialVideos": [],
@@ -24009,7 +24304,7 @@
       "sourceId": "cn-716b7631670a",
       "acquisitionServer": "CN",
       "mediaServer": "CN",
-      "officialNameEn": null,
+      "officialNameEn": "Crane Ascending: Chordsong",
       "officialNameKo": null,
       "cnRelease": {
         "date": "2026-07-17",
@@ -24061,7 +24356,17 @@
         "officialName": null,
         "releaseDate": null
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "searchAliases": [
+        "ming he fu yun·si xian",
+        "鸣鹤赴云·思弦",
+        "Crane Ascending: Chordsong",
+        "명학부운·사현"
+      ],
+      "namingNote": {
+        "en": "Official English name verified from the Global X announcement. Korean name remains a provisional CN reading; no official Korean name verified. CN and Global acquisition/schedules remain separate.",
+        "ko": "글로벌 공식 X 예고에서 영문 이름을 확인했습니다. 한국어 이름은 중국명의 임시 독음이며 한국어 공식명은 미확인입니다. 중국·글로벌 획득 조건과 일정을 구분합니다."
+      }
     },
     {
       "id": "teng-she-cheng-wu",
@@ -50587,8 +50892,8 @@
       "category": "outfit",
       "sourceId": "cn-20260922-appearance",
       "acquisitionServer": "CN",
-      "mediaServer": "CN",
-      "officialNameEn": null,
+      "mediaServer": "Global",
+      "officialNameEn": "Scarlet Whispers",
       "officialNameKo": null,
       "cnRelease": {
         "date": "2026-09-24",
@@ -50655,6 +50960,94 @@
           "reusePermission": "unknown",
           "localCopy": "/media/hong-ye-xiao-xiao-2-full.webp",
           "server": "CN"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUQxybta8AAKMlT?format=webp&name=large",
+          "width": 960,
+          "height": 1200,
+          "bytes": 293064,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "global-20261010-scarlet-whispers",
+          "server": "Global",
+          "inspectionNote": "2026-10-13: original official artwork visually inspected, matched to the named announcement and checked against CN identity. Full composition retained; crops affect preview only. No in-game verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/hong-ye-xiao-xiao-3-full.webp",
+          "alt": {
+            "en": "Female front portrait in official Global Scarlet Whispers artwork.",
+            "ko": "글로벌 Scarlet Whispers 공식 여성 앞모습입니다."
+          },
+          "caption": {
+            "en": "Female front portrait in official Global Scarlet Whispers artwork.",
+            "ko": "글로벌 Scarlet Whispers 공식 여성 앞모습입니다."
+          },
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUQxybwacAAvyv3?format=webp&name=large",
+          "width": 960,
+          "height": 1200,
+          "bytes": 272930,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "global-20261010-scarlet-whispers",
+          "server": "Global",
+          "inspectionNote": "2026-10-13: original official artwork visually inspected, matched to the named announcement and checked against CN identity. Full composition retained; crops affect preview only. No in-game verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/hong-ye-xiao-xiao-4-full.webp",
+          "alt": {
+            "en": "Male front portrait in official Global Scarlet Whispers artwork.",
+            "ko": "글로벌 Scarlet Whispers 공식 남성 앞모습입니다."
+          },
+          "caption": {
+            "en": "Male front portrait in official Global Scarlet Whispers artwork.",
+            "ko": "글로벌 Scarlet Whispers 공식 남성 앞모습입니다."
+          },
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUQxybwbgAAJszM?format=webp&name=large",
+          "width": 960,
+          "height": 1200,
+          "bytes": 228164,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "global-20261010-scarlet-whispers",
+          "server": "Global",
+          "inspectionNote": "2026-10-13: original official artwork visually inspected, matched to the named announcement and checked against CN identity. Full composition retained; crops affect preview only. No in-game verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/hong-ye-xiao-xiao-5-full.webp",
+          "alt": {
+            "en": "Female rear portrait in official Global Scarlet Whispers artwork.",
+            "ko": "글로벌 Scarlet Whispers 공식 여성 뒷모습입니다."
+          },
+          "caption": {
+            "en": "Female rear portrait in official Global Scarlet Whispers artwork.",
+            "ko": "글로벌 Scarlet Whispers 공식 여성 뒷모습입니다."
+          },
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUQxybwboAAftv-?format=webp&name=large",
+          "width": 960,
+          "height": 1200,
+          "bytes": 196436,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "global-20261010-scarlet-whispers",
+          "server": "Global",
+          "inspectionNote": "2026-10-13: original official artwork visually inspected, matched to the named announcement and checked against CN identity. Full composition retained; crops affect preview only. No in-game verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/hong-ye-xiao-xiao-6-full.webp",
+          "alt": {
+            "en": "Male rear portrait in official Global Scarlet Whispers artwork.",
+            "ko": "글로벌 Scarlet Whispers 공식 남성 뒷모습입니다."
+          },
+          "caption": {
+            "en": "Male rear portrait in official Global Scarlet Whispers artwork.",
+            "ko": "글로벌 Scarlet Whispers 공식 남성 뒷모습입니다."
+          },
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio"
         }
       ],
       "officialVideos": [],
@@ -50665,9 +51058,15 @@
         "releaseDate": null
       },
       "namingNote": {
-        "en": "Provisional reading of the CN name; no official Global name verified.",
-        "ko": "중국 원명의 임시 독음이며 글로벌 공식명은 미확인입니다."
-      }
+        "en": "Official English name verified from the Global X announcement. Korean name remains a provisional CN reading; no official Korean name verified. CN and Global acquisition/schedules remain separate.",
+        "ko": "글로벌 공식 X 예고에서 영문 이름을 확인했습니다. 한국어 이름은 중국명의 임시 독음이며 한국어 공식명은 미확인입니다. 중국·글로벌 획득 조건과 일정을 구분합니다."
+      },
+      "searchAliases": [
+        "Hong Ye Xiao Xiao",
+        "홍엽소소",
+        "红叶萧萧",
+        "Scarlet Whispers"
+      ]
     },
     {
       "id": "wan-lai-chen-zhong-jian-yue",
