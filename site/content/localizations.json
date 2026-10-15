@@ -63,10 +63,10 @@
     }
   },
   "bu-qiu-ting": {
-    "koName": "보추정",
+    "koName": "가을빛 정원",
     "description": {
-      "en": "Gold and cream robes amid autumn foliage.",
-      "ko": "가을빛 속 금색과 크림색의 우아한 옷차림."
+      "en": "Four Verses of Art outfit set with separate top/bottom, dyeing, a scenario pose and avatar. A bundle discount pairs it with the matching cat companion set.",
+      "ko": "감상과 향유 시리즈 의상 세트입니다. 상하의 분리·염색·배경 자세·프로필을 지원하며 같은 테마의 고양이 동료 외관과 조합 할인됩니다."
     }
   },
   "xue-lingdang": {
@@ -182,10 +182,10 @@
     }
   },
   "lian-du-you-luo": {
-    "koName": "연도유라",
+    "koName": "그윽한 연꽃",
     "description": {
-      "en": "Announced for after the October 15, 2026 update; opening hour and timezone unstated. Draw Set listing ends December 28, 2026 at 04:59:59 UTC+8. Current in-game availability has not been verified.",
-      "ko": "2026년 10월 15일 업데이트 후 공명 세트 출시 예고입니다. 시작 시각·시간대는 미표기이며 기간은 2026년 12월 28일 04:59:59 UTC+8까지입니다. 현재 게임 내 획득 가능 여부는 미확인입니다."
+      "en": "Global Draw outfit set with separate top/bottom and dyeing. Animated avatar included.",
+      "ko": "글로벌 공명 의상 세트입니다. 상하의 분리·염색을 지원하고 움직이는 프로필을 지급합니다."
     }
   },
   "wan-he-qing-xiang": {
@@ -1134,17 +1134,17 @@
     }
   },
   "wan-laizhe-tao-wen-xue": {
-    "koName": "万籁·折桃问雪",
+    "koName": "만물의 소리-은빛 복사꽃",
     "description": {
-      "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
-      "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+      "en": "Myriad Sounds sword appearance with branching pale metal and pink blossoms. Sold separately from the spear.",
+      "ko": "흰 가지 형태와 분홍 꽃이 어우러진 만물의 소리 시리즈 검 외관입니다. 창과 별도 판매됩니다."
     }
   },
   "wan-laiyi-xue-ting-chun": {
-    "koName": "万籁·倚雪听春",
+    "koName": "만물의 소리-봄꽃의 기척",
     "description": {
-      "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
-      "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+      "en": "Myriad Sounds spear appearance with pale branching details and pink blossoms. Sold separately from the sword.",
+      "ko": "흰 가지 형태와 분홍 꽃이 어우러진 만물의 소리 시리즈 창 외관입니다. 검과 별도 판매됩니다."
     }
   },
   "qing-niao-xian-dao": {
@@ -1274,17 +1274,17 @@
     }
   },
   "yu-yu-xuan-ji": {
-    "koName": "玉宇璇玑",
+    "koName": "천상의 별빛",
     "description": {
-      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
-      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+      "en": "Dyeable outfit reward in the Global Rhythmic Echo seasonal pool.",
+      "ko": "글로벌 옥진의 메아리 시즌 보상풀의 염색 가능한 의상 보상입니다."
     }
   },
   "zhang-meng-tian-xing": {
-    "koName": "长梦天星",
+    "koName": "긴 꿈속의 별",
     "description": {
-      "en": "Hairstyle documented in the official CN archive. Regional availability and acquisition are recorded separately.",
-      "ko": "공식 중국 자료에서 확인한 헤어입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+      "en": "Exquisite hairstyle reward in the Global Rhythmic Echo seasonal pool. Its guaranteed reward terms differ from the seasonal limited appearances.",
+      "ko": "글로벌 옥진의 메아리 시즌 보상풀의 진기 헤어 보상입니다. 시즌 한정 외관과 확정 획득 조건을 구분합니다."
     }
   },
   "yi-chun-shan": {
@@ -1379,10 +1379,10 @@
     }
   },
   "shao-nian-xing": {
-    "koName": "少年行",
+    "koName": "소년행",
     "description": {
-      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
-      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+      "en": "Dyeable outfit with separate top/bottom, announced for October 18. The introductory discount ends November 1; sales continue at the regular price.",
+      "ko": "상하의 분리·염색을 지원하는 10월 18일 출시 예고 의상입니다. 11월 1일 할인 종료 후 정가로 판매됩니다."
     }
   },
   "wu-sheng-gu": {
@@ -1435,10 +1435,10 @@
     }
   },
   "jin-youmeng": {
-    "koName": "今游梦",
+    "koName": "꿈결의 유영",
     "description": {
-      "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
-      "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+      "en": "Waist Drum weapon appearance announced for the Global Shop.",
+      "ko": "글로벌 상점 출시가 예고된 비단 북 무기 외관입니다."
     }
   },
   "zhi-lan-zi-fang": {
@@ -1505,10 +1505,10 @@
     }
   },
   "landong-feng": {
-    "koName": "揽东风",
+    "koName": "동풍의 품",
     "description": {
-      "en": "Mount documented in the official CN archive. Regional availability and acquisition are recorded separately.",
-      "ko": "공식 중국 자료에서 확인한 탈것입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+      "en": "Qingzhou kite mount with wind-assisted flight and an upgrade for additional riders. Mount and upgrade script share the announced sale end.",
+      "ko": "바람을 타고 비행하는 청주 한정 연 탈것입니다. 별도 승급첩으로 동승 인원을 늘릴 수 있으며 탈것·승급첩은 같은 날 판매가 종료됩니다."
     }
   },
   "yu-long-kongyou": {
@@ -1729,10 +1729,10 @@
     }
   },
   "ming-he-fu-yunsi-xian": {
-    "koName": "명학부운·사현",
+    "koName": "구름의 학-사현",
     "description": {
-      "en": "Museflow Waist Drum Martial Art VFX announced for the Draw Shop after the October 15, 2026 update. Opening hour/timezone and end date are unstated; no in-game availability verification.",
-      "ko": "요고 무술 이펙트의 2026년 10월 15일 업데이트 후 공명 상점 출시 예고입니다. 시작 시각·시간대·종료일은 미표기이며 게임 내 실제 판매 여부는 미확인입니다."
+      "en": "Museflow Waist Drum Martial Art VFX with the bonus scenario pose Museflow: Cloudbound.",
+      "ko": "선녀의 춤 무술 이펙트입니다. 배경 자세 선녀의 춤-구름을 향해를 추가 지급합니다."
     }
   },
   "teng-she-cheng-wu": {
@@ -1897,10 +1897,10 @@
     }
   },
   "luo-shui-maofu": {
-    "koName": "洛水猫赋",
+    "koName": "낙수의 고양이",
     "description": {
-      "en": "Companion cosmetic for a pet, not an outfit worn by the player character. See the CN shop conditions.",
-      "ko": "주인공 의상이 아닌 반려 동물용 외관입니다. 중국 상점의 획득 조건을 확인하세요."
+      "en": "Cat companion appearance set including outfit, headpiece and accessory. Bundle discount available with Duskfall Verse.",
+      "ko": "고양이 동료 의상·머리 장식·장신구 세트입니다. 가을빛 정원과 조합 할인이 적용됩니다."
     }
   },
   "yu-shan-song": {
@@ -2485,10 +2485,10 @@
     }
   },
   "xing-chui-ping-ye": {
-    "koName": "星垂平野",
+    "koName": "별 쏟아지는 들녘",
     "description": {
-      "en": "Hairstyle documented in the official CN archive. Regional availability and acquisition are recorded separately.",
-      "ko": "공식 중국 자료에서 확인한 헤어입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+      "en": "Hairstyle reward in the Global Rhythmic Echo seasonal pool. A separate Global hair portrait remains unverified.",
+      "ko": "글로벌 옥진의 메아리 시즌 보상풀의 헤어 보상입니다. 개별 글로벌 헤어 사진은 미확인입니다."
     }
   },
   "pan-xin-suo": {
@@ -4928,10 +4928,10 @@
     }
   },
   "hong-ye-xiao-xiao": {
-    "koName": "홍엽소소",
+    "koName": "쓸쓸한 단풍",
     "description": {
-      "en": "After the October 15, 2026 update (UTC, printed on artwork); opening hour unstated. Battle Pass listing ends November 14, 2026 at 04:59:59 UTC+8. Announcement, not current in-game availability verification.",
-      "ko": "공식 이미지에 표기된 UTC 기준 2026년 10월 15일 업데이트 후 예고이며 시작 시각은 미표기입니다. 강호령 기간은 2026년 11월 14일 04:59:59 UTC+8까지입니다. 예고이며 현재 게임 내 획득 가능 여부를 확인한 기록은 아닙니다."
+      "en": "Outfit reward unlocked through the Global Elite Battle Pass. Price and required outfit reward level are unstated.",
+      "ko": "글로벌 정예 강호령 구매로 해제하는 의상 보상입니다. 가격·의상 보상 레벨은 미표기입니다."
     }
   },
   "wan-lai-chen-zhong-jian-yue": {
@@ -5058,6 +5058,20 @@
     "description": {
       "en": "A CN 缩骨功 Mystic Skill effect in a moonlit scene.",
       "ko": "달빛 풍경을 표현한 중국 缩骨功 비결 이펙트입니다."
+    }
+  },
+  "global-aureate-dominion": {
+    "koName": "금사의 잔영",
+    "description": {
+      "en": "Outfit reward in Echoes from Afar: Fading Glory. Three sequential prize pools use Sun-Raven Eyes.",
+      "ko": "이역의 울림-신궁의 잔광의 의상 보상입니다. 금오의 눈을 사용하는 3개 보상풀을 순서대로 진행합니다."
+    }
+  },
+  "global-blazing-sands": {
+    "koName": "작열의 금사",
+    "description": {
+      "en": "Dyeable hairstyle available for 90 days in the Global Draw Shop. Animated avatar included.",
+      "ko": "글로벌 공명 상점의 90일 한정 헤어입니다. 염색을 지원하고 움직이는 프로필을 지급합니다."
     }
   }
 }

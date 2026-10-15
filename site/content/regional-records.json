@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "verifiedAt": "2026-10-13",
+  "verifiedAt": "2026-10-14",
   "records": [
     {
       "cosmeticId": "shang-qing-yun",
@@ -15005,9 +15005,11 @@
       "status": "announced",
       "releaseDate": "2026-10-15",
       "precision": "day",
-      "verifiedAt": "2026-10-13",
+      "verifiedAt": "2026-10-14",
       "sourceIds": [
-        "global-20261010-scarlet-whispers"
+        "global-20261010-scarlet-whispers",
+        "global-20261015-version23-en",
+        "global-20261015-version23-ko"
       ],
       "scope": {
         "en": "After the October 15, 2026 update (UTC, printed on artwork); opening hour unstated. Battle Pass listing ends November 14, 2026 at 04:59:59 UTC+8. Announcement, not current in-game availability verification.",
@@ -15029,8 +15031,8 @@
           "original": "Battle Pass"
         },
         "conditions": {
-          "en": "Global pass price, currency, tier and required outfit reward level are not stated. CN pass conditions are not applied to Global.",
-          "ko": "글로벌 강호령 가격·통화·등급·의상 보상 레벨은 미표기입니다. 중국 강호령 조건을 글로벌에 적용하지 않습니다."
+          "en": "Purchase the Elite Battle Pass to unlock the outfit and the listed additional rewards. Premium includes Elite rewards, 10 levels and additional rewards. Pass price, currency and required outfit reward level are unstated. The prior official X source gives the November 14 04:59:59 UTC+8 end.",
+          "ko": "정예 강호령 구매 시 의상과 추가 보상을 해제합니다. 전설 강호령에는 정예 보상, 10레벨 상승과 추가 보상이 포함됩니다. 가격·통화·의상 보상 레벨은 미표기입니다. 기존 공식 X 출처는 11월 14일 04:59:59 UTC+8 종료를 명시합니다."
         },
         "en": "Official Global announcement terms",
         "ko": "글로벌 공식 예고의 획득 조건"
@@ -15042,9 +15044,11 @@
       "status": "announced",
       "releaseDate": "2026-10-15",
       "precision": "day",
-      "verifiedAt": "2026-10-13",
+      "verifiedAt": "2026-10-14",
       "sourceIds": [
-        "global-20261009-veil-of-lotus"
+        "global-20261009-veil-of-lotus",
+        "global-20261015-version23-en",
+        "global-20261015-version23-ko"
       ],
       "scope": {
         "en": "Announced for after the October 15, 2026 update; opening hour and timezone unstated. Draw Set listing ends December 28, 2026 at 04:59:59 UTC+8. Current in-game availability has not been verified.",
@@ -15055,19 +15059,19 @@
         "ko": "공식 글로벌 영상과 이름이 명시된 중국 莲渡幽罗 사진의 보라·푸른 의복, 흰 털 어깨 실루엣, 금빛 가슴·허리 장식 및 보라색 연꽃·해골 표현이 일치합니다."
       },
       "acquisition": {
-        "kind": "limited_draw",
-        "pricing": "draw",
-        "amount": null,
+        "kind": "exchange_shop",
+        "pricing": "fixed",
+        "amount": 2,
         "regularAmount": null,
-        "currencyOriginal": null,
+        "currencyOriginal": "Harmonic Core",
         "location": {
           "en": "Draw Shop",
           "ko": "공명 상점",
           "original": "Draw Shop"
         },
         "conditions": {
-          "en": "The official post identifies a Draw Set; Global draw currency, probabilities, guaranteed cost and exchange price are unstated. CN 2-core exchange terms are not Global price evidence.",
-          "ko": "공식 게시물의 공명 세트입니다. 글로벌 추첨 재화·확률·확정 비용·교환 가격은 미표기입니다. 중국의 구슬 2개 교환 조건을 글로벌 가격으로 사용하지 않습니다."
+          "en": "Draw outfit set also redeemable for 2 Harmonic Cores. Separate top/bottom and dyeing supported; animated avatar included. Draw odds and total draw cost remain unstated. The previously inspected official X post establishes the December 28 04:59:59 UTC+8 end.",
+          "ko": "공명 세트이며 공명 구슬 2개로도 교환할 수 있습니다. 상하의 분리·염색을 지원하고 움직이는 프로필을 지급합니다. 추첨 확률·총 추첨 비용은 미표기입니다. 기존에 확인한 공식 X 게시물은 12월 28일 04:59:59 UTC+8 종료를 명시합니다."
         },
         "en": "Official Global announcement terms",
         "ko": "글로벌 공식 예고의 획득 조건"
@@ -15079,9 +15083,11 @@
       "status": "announced",
       "releaseDate": "2026-10-15",
       "precision": "day",
-      "verifiedAt": "2026-10-13",
+      "verifiedAt": "2026-10-14",
       "sourceIds": [
-        "global-20261013-crane-chordsong"
+        "global-20261013-crane-chordsong",
+        "global-20261015-version23-en",
+        "global-20261015-version23-ko"
       ],
       "scope": {
         "en": "Museflow Waist Drum Martial Art VFX announced for the Draw Shop after the October 15, 2026 update. Opening hour/timezone and end date are unstated; no in-game availability verification.",
@@ -15092,19 +15098,475 @@
         "ko": "글로벌 영상과 이름이 명시된 중국 鸣鹤赴云·思弦 참고 영상의 요고 연주, 흰 반사 무대, 주변의 검은 적과 리본·학 전투 동작이 일치합니다. 도입 시구도 江南相思引，多叹不成音과 대응합니다."
       },
       "acquisition": {
-        "kind": "unknown",
-        "pricing": "unknown",
-        "amount": null,
+        "kind": "exchange_shop",
+        "pricing": "fixed",
+        "amount": 1,
         "regularAmount": null,
-        "currencyOriginal": null,
+        "currencyOriginal": "Harmonic Core",
         "location": {
           "en": "Draw Shop",
           "ko": "공명 상점",
           "original": "Draw Shop"
         },
         "conditions": {
-          "en": "The post names the Draw Shop, but does not establish Global acquisition mechanism, currency, quantity or a bonus pose. CN 1-core price and pose are not carried over.",
-          "ko": "게시물은 공명 상점을 명시하지만 글로벌 획득 방식·재화·수량·추가 자세는 확인하지 못했습니다. 중국의 구슬 1개 가격과 자세를 글로벌 조건으로 적용하지 않습니다."
+          "en": "Museflow Waist Drum Martial Art VFX; bonus scenario pose Museflow: Cloudbound. The themed Dodge VFX requires both Museflow Waist Drum and Willowbend Fan Chordsong VFX; this notice does not announce a release date or price for the fan effect.",
+          "ko": "선녀의 춤 무술 이펙트이며 배경 자세 선녀의 춤-구름을 향해를 지급합니다. 사현 테마 회피 이펙트는 선녀의 춤·초아유영 양쪽의 사현 이펙트를 모두 보유해야 합니다. 이 공지는 부채 이펙트의 출시일·가격을 발표하지 않습니다."
+        },
+        "en": "Official Global announcement terms",
+        "ko": "글로벌 공식 예고의 획득 조건"
+      }
+    },
+    {
+      "cosmeticId": "global-aureate-dominion",
+      "server": "Global",
+      "status": "announced",
+      "releaseDate": "2026-10-15",
+      "precision": "day",
+      "verifiedAt": "2026-10-14",
+      "sourceIds": [
+        "global-20261015-version23-en",
+        "global-20261015-version23-ko"
+      ],
+      "scope": {
+        "en": "After the October 15, 2026 update; exact opening time and timezone unstated. Official announcement; no in-game availability check.",
+        "ko": "2026년 10월 15일 업데이트 후이며 정확한 시작 시각·시간대는 미표기입니다. 공식 예고이며 현재 게임 내 획득 가능 여부는 미확인입니다."
+      },
+      "identityBasis": {
+        "en": "Official paired EN/KO named artwork identifies the same gold/black outfit, blue scarab ornaments and tall horned crown. CN identity remains unverified.",
+        "ko": "공식 영문·한국어의 명칭별 사진에서 금·검정 의상, 푸른 풍뎅이 장식과 긴 뿔 모양 관이 일치합니다. 중국 서버 대응은 미확인입니다."
+      },
+      "acquisition": {
+        "kind": "limited_draw",
+        "pricing": "draw",
+        "amount": null,
+        "regularAmount": null,
+        "currencyOriginal": "Sun-Raven Eye",
+        "location": {
+          "en": "Echoes from Afar: Fading Glory",
+          "ko": "이역의 울림: 신궁의 잔광",
+          "original": "Echoes from Afar: Fading Glory"
+        },
+        "conditions": {
+          "en": "Three sequential Sand, Gold and Radiance pools use differing Sun-Raven Eye quantities. Unlock all core rewards in each pool to open the next. First draw is free; limited Sun-Raven Eye exchange uses Echo Jade. Collecting the full outfit grants its victory cutscene and avatar. Draw quantities, odds and total guaranteed cost are unstated; unused event tokens are reclaimed at event end.",
+          "ko": "사·금·요의 3개 보상풀을 순서대로 진행하며 금오의 눈 소모량은 보상풀마다 다릅니다. 각 보상풀의 핵심 보상을 모두 모으면 다음 보상풀이 열립니다. 최초 소환은 무료이며 장명옥으로 금오의 눈을 한정 교환할 수 있습니다. 세트 완성 시 결선 연출·프로필을 지급합니다. 소모 수량·확률·총 확정 비용은 미표기이며 종료 후 미사용 금오의 눈은 회수됩니다."
+        },
+        "en": "Official Global announcement terms",
+        "ko": "글로벌 공식 예고의 획득 조건"
+      }
+    },
+    {
+      "cosmeticId": "global-blazing-sands",
+      "server": "Global",
+      "status": "announced",
+      "releaseDate": "2026-10-15",
+      "precision": "day",
+      "verifiedAt": "2026-10-14",
+      "sourceIds": [
+        "global-20261015-version23-en",
+        "global-20261015-version23-ko"
+      ],
+      "scope": {
+        "en": "After the October 15, 2026 update; exact opening time and timezone unstated. Official announcement; no in-game availability check.",
+        "ko": "2026년 10월 15일 업데이트 후이며 정확한 시작 시각·시간대는 미표기입니다. 공식 예고이며 현재 게임 내 획득 가능 여부는 미확인입니다."
+      },
+      "identityBasis": {
+        "en": "Paired named EN/KO artwork shows matching pale hair and gold head ornaments; no CN identity asserted.",
+        "ko": "영문·한국어 명칭별 사진의 밝은 머리와 금빛 머리 장식이 일치하며 중국 항목과의 대응은 단정하지 않습니다."
+      },
+      "acquisition": {
+        "kind": "exchange_shop",
+        "pricing": "fixed",
+        "amount": 1,
+        "regularAmount": null,
+        "currencyOriginal": "Harmonic Core",
+        "location": {
+          "en": "Draw Shop",
+          "ko": "공명 상점",
+          "original": "Draw Shop"
+        },
+        "conditions": {
+          "en": "Limited 90-day hairstyle; dyeable, with bonus animated player avatar. This is the separate hair exchange, not the Aureate Dominion outfit price.",
+          "ko": "90일 한정 헤어이며 염색을 지원하고 움직이는 프로필을 지급합니다. 금사의 잔영 의상 가격과 구분되는 별도 헤어 교환입니다."
+        },
+        "en": "Official Global announcement terms",
+        "ko": "글로벌 공식 예고의 획득 조건"
+      }
+    },
+    {
+      "cosmeticId": "bu-qiu-ting",
+      "server": "Global",
+      "status": "announced",
+      "releaseDate": "2026-10-15",
+      "precision": "day",
+      "verifiedAt": "2026-10-14",
+      "sourceIds": [
+        "global-20261015-version23-en",
+        "global-20261015-version23-ko"
+      ],
+      "scope": {
+        "en": "After the October 15, 2026 update; exact opening time and timezone unstated. Official announcement; no in-game availability check.",
+        "ko": "2026년 10월 15일 업데이트 후이며 정확한 시작 시각·시간대는 미표기입니다. 공식 예고이며 현재 게임 내 획득 가능 여부는 미확인입니다."
+      },
+      "identityBasis": {
+        "en": "Matched named CN 步秋庭 artwork: cream robe, blue patterned lapel, gold shoulder ornament and brush-shaped waist decoration, plus the identical paired cat set.",
+        "ko": "이름이 명시된 중국 步秋庭 사진의 크림색 겉옷, 파란 깃 무늬, 금빛 어깨 장식·붓 모양 허리 장식과 함께 나온 고양이 세트가 일치합니다."
+      },
+      "acquisition": {
+        "kind": "shop",
+        "pricing": "fixed",
+        "amount": 1280,
+        "regularAmount": null,
+        "currencyOriginal": "Echo Beads",
+        "location": {
+          "en": "Shop",
+          "ko": "상점",
+          "original": "Shop"
+        },
+        "conditions": {
+          "en": "Four Verses of Art set; separate top/bottom and dyeing. Includes Brush of Creation scenario pose and outfit avatar. Purchasing with Ode to the Feline Muse saves 460 Echo Beads; bundle discount cannot be combined with coupons.",
+          "ko": "감상과 향유 시리즈로 상하의 분리·염색을 지원하며 붓끝의 그림 배경 자세와 프로필을 지급합니다. 낙수의 고양이와 조합 구매 시 장명주 460개를 절약하며 다른 할인권과 중복 적용할 수 없습니다."
+        },
+        "en": "Official Global announcement terms",
+        "ko": "글로벌 공식 예고의 획득 조건"
+      }
+    },
+    {
+      "cosmeticId": "luo-shui-maofu",
+      "server": "Global",
+      "status": "announced",
+      "releaseDate": "2026-10-15",
+      "precision": "day",
+      "verifiedAt": "2026-10-14",
+      "sourceIds": [
+        "global-20261015-version23-en",
+        "global-20261015-version23-ko"
+      ],
+      "scope": {
+        "en": "After the October 15, 2026 update; exact opening time and timezone unstated. Official announcement; no in-game availability check.",
+        "ko": "2026년 10월 15일 업데이트 후이며 정확한 시작 시각·시간대는 미표기입니다. 공식 예고이며 현재 게임 내 획득 가능 여부는 미확인입니다."
+      },
+      "identityBasis": {
+        "en": "Named CN 洛水猫赋 cat wears the identical cream/gold robe, blue chest jewels, gold crown and brush bundle, paired with 步秋庭.",
+        "ko": "중국 洛水猫赋 사진의 크림·금빛 의상, 푸른 가슴 보석, 금관·붓 묶음 및 步秋庭와의 조합이 일치합니다."
+      },
+      "acquisition": {
+        "kind": "shop",
+        "pricing": "fixed",
+        "amount": 980,
+        "regularAmount": null,
+        "currencyOriginal": "Echo Beads",
+        "location": {
+          "en": "Shop",
+          "ko": "상점",
+          "original": "Shop"
+        },
+        "conditions": {
+          "en": "Cat companion set: outfit, headpiece and accessory. Costs 520 Echo Beads if Duskfall Verse is owned. Buying the cat first instead gives 460 Echo Beads off Duskfall Verse. Bundle discount does not stack with coupons. This is a companion appearance, not a player outfit.",
+          "ko": "고양이 동료 세트로 동료 의상·머리 장식·장신구가 포함됩니다. 가을빛 정원을 보유하면 장명주 520개이며, 고양이를 먼저 구매한 경우 가을빛 정원에서 460개를 할인받습니다. 다른 할인권과 중복 불가합니다. 플레이어 의상이 아닌 동료 외관입니다."
+        },
+        "en": "Official Global announcement terms",
+        "ko": "글로벌 공식 예고의 획득 조건"
+      }
+    },
+    {
+      "cosmeticId": "landong-feng",
+      "server": "Global",
+      "status": "announced",
+      "releaseDate": "2026-10-15",
+      "precision": "day",
+      "verifiedAt": "2026-10-14",
+      "sourceIds": [
+        "global-20261015-version23-en",
+        "global-20261015-version23-ko"
+      ],
+      "scope": {
+        "en": "After the October 15, 2026 update; exact opening time and timezone unstated. Official announcement; no in-game availability check.",
+        "ko": "2026년 10월 15일 업데이트 후이며 정확한 시작 시각·시간대는 미표기입니다. 공식 예고이며 현재 게임 내 획득 가능 여부는 미확인입니다."
+      },
+      "identityBasis": {
+        "en": "Matched the named CN 揽东风 swallow-shaped kite with identical peony artwork and ground/flight views.",
+        "ko": "중국 揽东风의 제비 모양 연, 같은 모란 무늬와 지상·비행 모습이 일치합니다."
+      },
+      "acquisition": {
+        "kind": "shop",
+        "pricing": "fixed",
+        "amount": 680,
+        "regularAmount": null,
+        "currencyOriginal": "Echo Beads",
+        "location": {
+          "en": "Shop",
+          "ko": "상점",
+          "original": "Shop"
+        },
+        "conditions": {
+          "en": "Qingzhou-exclusive kite mount with Borrowed Wind and Free Flight: Ride Together. A separate Level-up Script permits additional riders; its price is unstated. Both mount and upgrade script leave the shop at the listed end.",
+          "ko": "청주 한정 연 탈것으로 순풍을 타고·자유로운 비상-동승을 지원합니다. 별도 승급첩으로 동승 인원을 늘릴 수 있으며 승급첩 가격은 미표기입니다. 탈것·승급첩은 표기된 종료일에 함께 판매가 끝납니다."
+        },
+        "en": "Official Global announcement terms",
+        "ko": "글로벌 공식 예고의 획득 조건"
+      }
+    },
+    {
+      "cosmeticId": "jin-youmeng",
+      "server": "Global",
+      "status": "announced",
+      "releaseDate": "2026-10-15",
+      "precision": "day",
+      "verifiedAt": "2026-10-14",
+      "sourceIds": [
+        "global-20261015-version23-en",
+        "global-20261015-version23-ko"
+      ],
+      "scope": {
+        "en": "After the October 15, 2026 update; exact opening time and timezone unstated. Official announcement; no in-game availability check.",
+        "ko": "2026년 10월 15일 업데이트 후이며 정확한 시작 시각·시간대는 미표기입니다. 공식 예고이며 현재 게임 내 획득 가능 여부는 미확인입니다."
+      },
+      "identityBasis": {
+        "en": "The CN 今游梦 artwork is the same pale ribbon drum, silver wrist fittings, flowing white/silver costume and paired combat poses as the Global notice.",
+        "ko": "중국 今游梦 사진과 글로벌 공지의 옅은 리본 북, 은빛 손목 장식, 흰·은빛 의상과 앞뒤 전투 자세가 일치합니다."
+      },
+      "acquisition": {
+        "kind": "shop",
+        "pricing": "fixed",
+        "amount": 680,
+        "regularAmount": null,
+        "currencyOriginal": "Echo Beads",
+        "location": {
+          "en": "Shop",
+          "ko": "상점",
+          "original": "Shop"
+        },
+        "conditions": {
+          "en": "Waist Drum weapon appearance. No sale end or bonus item is stated.",
+          "ko": "비단 북 무기 외관이며 판매 종료일·추가 보상은 미표기입니다."
+        },
+        "en": "Official Global announcement terms",
+        "ko": "글로벌 공식 예고의 획득 조건"
+      }
+    },
+    {
+      "cosmeticId": "wan-laizhe-tao-wen-xue",
+      "server": "Global",
+      "status": "announced",
+      "releaseDate": "2026-10-15",
+      "precision": "day",
+      "verifiedAt": "2026-10-14",
+      "sourceIds": [
+        "global-20261015-version23-en",
+        "global-20261015-version23-ko"
+      ],
+      "scope": {
+        "en": "After the October 15, 2026 update; exact opening time and timezone unstated. Official announcement; no in-game availability check.",
+        "ko": "2026년 10월 15일 업데이트 후이며 정확한 시작 시각·시간대는 미표기입니다. 공식 예고이며 현재 게임 내 획득 가능 여부는 미확인입니다."
+      },
+      "identityBasis": {
+        "en": "Matched the CN 万籁·折桃问雪 sword: pale gnarled branch guard, pink blossoms and straight silver blade, in the same tree-lined backdrop.",
+        "ko": "중국 万籁·折桃问雪의 흰 가지 모양 검격, 분홍 꽃·곧은 은빛 검신과 같은 나무 배경이 일치합니다."
+      },
+      "acquisition": {
+        "kind": "shop",
+        "pricing": "fixed",
+        "amount": 1280,
+        "regularAmount": null,
+        "currencyOriginal": "Echo Beads",
+        "location": {
+          "en": "Shop",
+          "ko": "상점",
+          "original": "Shop"
+        },
+        "conditions": {
+          "en": "Sword appearance from the Myriad Sounds series. Price is per weapon, not a two-weapon bundle.",
+          "ko": "만물의 소리 시리즈 검 외관이며 무기별 가격입니다. 검·창 합본 가격이 아닙니다."
+        },
+        "en": "Official Global announcement terms",
+        "ko": "글로벌 공식 예고의 획득 조건"
+      }
+    },
+    {
+      "cosmeticId": "wan-laiyi-xue-ting-chun",
+      "server": "Global",
+      "status": "announced",
+      "releaseDate": "2026-10-15",
+      "precision": "day",
+      "verifiedAt": "2026-10-14",
+      "sourceIds": [
+        "global-20261015-version23-en",
+        "global-20261015-version23-ko"
+      ],
+      "scope": {
+        "en": "After the October 15, 2026 update; exact opening time and timezone unstated. Official announcement; no in-game availability check.",
+        "ko": "2026년 10월 15일 업데이트 후이며 정확한 시작 시각·시간대는 미표기입니다. 공식 예고이며 현재 게임 내 획득 가능 여부는 미확인입니다."
+      },
+      "identityBasis": {
+        "en": "Matched the CN 万籁·倚雪听春 spear: branching white shaft, pink blossoms and pale pointed head in the identical character pose.",
+        "ko": "중국 万籁·倚雪听春의 흰 가지 모양 창대, 분홍 꽃과 밝은 창날 및 같은 캐릭터 자세가 일치합니다."
+      },
+      "acquisition": {
+        "kind": "shop",
+        "pricing": "fixed",
+        "amount": 1280,
+        "regularAmount": null,
+        "currencyOriginal": "Echo Beads",
+        "location": {
+          "en": "Shop",
+          "ko": "상점",
+          "original": "Shop"
+        },
+        "conditions": {
+          "en": "Spear appearance from the Myriad Sounds series. Each weapon costs 1,280 Echo Beads; no sale end stated.",
+          "ko": "만물의 소리 시리즈 창 외관입니다. 각 무기 장명주 1,280개이며 판매 종료일은 미표기입니다."
+        },
+        "en": "Official Global announcement terms",
+        "ko": "글로벌 공식 예고의 획득 조건"
+      }
+    },
+    {
+      "cosmeticId": "shao-nian-xing",
+      "server": "Global",
+      "status": "announced",
+      "releaseDate": "2026-10-18",
+      "precision": "day",
+      "verifiedAt": "2026-10-14",
+      "sourceIds": [
+        "global-20261015-version23-en",
+        "global-20261015-version23-ko"
+      ],
+      "scope": {
+        "en": "October 18, 2026: EN 00:00:00 / KO 01:00:00, timezones unstated. Official announcement; no in-game availability check.",
+        "ko": "2026년 10월 18일 영문 00:00:00·한국어 01:00:00이며 시간대는 미표기입니다. 공식 예고이며 실제 판매 여부는 미확인입니다."
+      },
+      "identityBasis": {
+        "en": "Matched named CN 少年行 artwork: red scarf and inner robe, cream floral coat, brown patterned borders and circular hanging ornaments.",
+        "ko": "중국 少年行 사진의 붉은 목도리·속옷, 크림색 꽃무늬 겉옷, 갈색 테두리와 둥근 장식이 일치합니다."
+      },
+      "acquisition": {
+        "kind": "shop",
+        "pricing": "fixed",
+        "amount": 300,
+        "regularAmount": 680,
+        "currencyOriginal": "Echo Beads",
+        "location": {
+          "en": "Shop",
+          "ko": "상점",
+          "original": "Shop"
+        },
+        "conditions": {
+          "en": "EN opens October 18 00:00:00; KO says 01:00:00. Both timezones unstated. Discount ends November 1 (EN 04:59:59; KO 05:59:59), then returns to 680 Echo Beads. This is a discount end, not sale end. Separate top/bottom and dyeing supported.",
+          "ko": "출시는 영문 10월 18일 00:00:00, 한국어 01:00:00이며 양쪽 모두 시간대 미표기입니다. 할인은 11월 1일 영문 04:59:59·한국어 05:59:59에 끝나며 이후 장명주 680개입니다. 판매 종료가 아닌 할인 종료이며 상하의 분리·염색을 지원합니다."
+        },
+        "en": "Official Global announcement terms",
+        "ko": "글로벌 공식 예고의 획득 조건"
+      }
+    },
+    {
+      "cosmeticId": "yu-yu-xuan-ji",
+      "server": "Global",
+      "status": "announced",
+      "releaseDate": "2026-10-15",
+      "precision": "day",
+      "verifiedAt": "2026-10-14",
+      "sourceIds": [
+        "global-20261015-version23-en",
+        "global-20261015-version23-ko"
+      ],
+      "scope": {
+        "en": "After the October 15, 2026 update; exact opening time and timezone unstated. Official announcement; no in-game availability check.",
+        "ko": "2026년 10월 15일 업데이트 후이며 정확한 시작 시각·시간대는 미표기입니다. 공식 예고이며 현재 게임 내 획득 가능 여부는 미확인입니다."
+      },
+      "identityBasis": {
+        "en": "CN source co-lists 玉宇璇玑, 星垂平野 and 长梦天星 as the outfit, hairstyle and exquisite hairstyle in one pool. The Global source co-lists the equivalent three rewards, and the named blue/gold outfit artwork matches. Hair correspondence uses that paired reward listing; no separate Global hair portrait was established.",
+        "ko": "중국 원문은 玉宇璇玑·星垂平野·长梦天星을 한 보상풀의 의상·헤어·진기 헤어로 함께 명시합니다. 글로벌 원문도 대응하는 3종을 함께 열거하며 푸른색·금빛 의상 사진이 일치합니다. 헤어 대응은 함께 명시된 보상 목록을 근거로 하며 개별 글로벌 헤어 사진은 확인하지 못했습니다."
+      },
+      "acquisition": {
+        "kind": "limited_draw",
+        "pricing": "draw",
+        "amount": null,
+        "regularAmount": null,
+        "currencyOriginal": "Resonating Melodies",
+        "location": {
+          "en": "Rhythmic Echo",
+          "ko": "옥진의 메아리",
+          "original": "Rhythmic Echo"
+        },
+        "conditions": {
+          "en": "Requires 200 cumulative Solemn Echo draws; count persists between seasons. Use Resonating Melodies exchanged with Echo Jade. All seasonal limited appearances within 150 draws; pool capped at 300, when all stocked exquisite rewards are obtained. The 150 guarantee must not be applied to Starlit Slumber, the exquisite hair reward. Starwoven Heavens supports dyeing. Exact per-draw currency quantity and odds are unstated.",
+          "ko": "금성장명 누적 공명 200회로 개방되며 시즌이 바뀌어도 누적 횟수는 유지됩니다. 장명옥으로 교환한 빛의 선율을 사용합니다. 시즌 한정 외관은 150회 이내, 보상풀은 최대 300회이며 300회 완료 시 재고 내 진기 보상을 모두 획득합니다. 진기 헤어 긴 꿈속의 별에 150회 확정을 적용하지 않습니다. 천상의 별빛은 염색을 지원하며 회당 재화 수량·확률은 미표기입니다."
+        },
+        "en": "Official Global announcement terms",
+        "ko": "글로벌 공식 예고의 획득 조건"
+      }
+    },
+    {
+      "cosmeticId": "xing-chui-ping-ye",
+      "server": "Global",
+      "status": "announced",
+      "releaseDate": "2026-10-15",
+      "precision": "day",
+      "verifiedAt": "2026-10-14",
+      "sourceIds": [
+        "global-20261015-version23-en",
+        "global-20261015-version23-ko"
+      ],
+      "scope": {
+        "en": "After the October 15, 2026 update; exact opening time and timezone unstated. Official announcement; no in-game availability check.",
+        "ko": "2026년 10월 15일 업데이트 후이며 정확한 시작 시각·시간대는 미표기입니다. 공식 예고이며 현재 게임 내 획득 가능 여부는 미확인입니다."
+      },
+      "identityBasis": {
+        "en": "CN source co-lists 玉宇璇玑, 星垂平野 and 长梦天星 as the outfit, hairstyle and exquisite hairstyle in one pool. The Global source co-lists the equivalent three rewards, and the named blue/gold outfit artwork matches. Hair correspondence uses that paired reward listing; no separate Global hair portrait was established.",
+        "ko": "중국 원문은 玉宇璇玑·星垂平野·长梦天星을 한 보상풀의 의상·헤어·진기 헤어로 함께 명시합니다. 글로벌 원문도 대응하는 3종을 함께 열거하며 푸른색·금빛 의상 사진이 일치합니다. 헤어 대응은 함께 명시된 보상 목록을 근거로 하며 개별 글로벌 헤어 사진은 확인하지 못했습니다."
+      },
+      "acquisition": {
+        "kind": "limited_draw",
+        "pricing": "draw",
+        "amount": null,
+        "regularAmount": null,
+        "currencyOriginal": "Resonating Melodies",
+        "location": {
+          "en": "Rhythmic Echo",
+          "ko": "옥진의 메아리",
+          "original": "Rhythmic Echo"
+        },
+        "conditions": {
+          "en": "Requires 200 cumulative Solemn Echo draws; count persists between seasons. Use Resonating Melodies exchanged with Echo Jade. All seasonal limited appearances within 150 draws; pool capped at 300, when all stocked exquisite rewards are obtained. The 150 guarantee must not be applied to Starlit Slumber, the exquisite hair reward. Starwoven Heavens supports dyeing. Exact per-draw currency quantity and odds are unstated.",
+          "ko": "금성장명 누적 공명 200회로 개방되며 시즌이 바뀌어도 누적 횟수는 유지됩니다. 장명옥으로 교환한 빛의 선율을 사용합니다. 시즌 한정 외관은 150회 이내, 보상풀은 최대 300회이며 300회 완료 시 재고 내 진기 보상을 모두 획득합니다. 진기 헤어 긴 꿈속의 별에 150회 확정을 적용하지 않습니다. 천상의 별빛은 염색을 지원하며 회당 재화 수량·확률은 미표기입니다."
+        },
+        "en": "Official Global announcement terms",
+        "ko": "글로벌 공식 예고의 획득 조건"
+      }
+    },
+    {
+      "cosmeticId": "zhang-meng-tian-xing",
+      "server": "Global",
+      "status": "announced",
+      "releaseDate": "2026-10-15",
+      "precision": "day",
+      "verifiedAt": "2026-10-14",
+      "sourceIds": [
+        "global-20261015-version23-en",
+        "global-20261015-version23-ko"
+      ],
+      "scope": {
+        "en": "After the October 15, 2026 update; exact opening time and timezone unstated. Official announcement; no in-game availability check.",
+        "ko": "2026년 10월 15일 업데이트 후이며 정확한 시작 시각·시간대는 미표기입니다. 공식 예고이며 현재 게임 내 획득 가능 여부는 미확인입니다."
+      },
+      "identityBasis": {
+        "en": "CN source co-lists 玉宇璇玑, 星垂平野 and 长梦天星 as the outfit, hairstyle and exquisite hairstyle in one pool. The Global source co-lists the equivalent three rewards, and the named blue/gold outfit artwork matches. Hair correspondence uses that paired reward listing; no separate Global hair portrait was established.",
+        "ko": "중국 원문은 玉宇璇玑·星垂平野·长梦天星을 한 보상풀의 의상·헤어·진기 헤어로 함께 명시합니다. 글로벌 원문도 대응하는 3종을 함께 열거하며 푸른색·금빛 의상 사진이 일치합니다. 헤어 대응은 함께 명시된 보상 목록을 근거로 하며 개별 글로벌 헤어 사진은 확인하지 못했습니다."
+      },
+      "acquisition": {
+        "kind": "limited_draw",
+        "pricing": "draw",
+        "amount": null,
+        "regularAmount": null,
+        "currencyOriginal": "Resonating Melodies",
+        "location": {
+          "en": "Rhythmic Echo",
+          "ko": "옥진의 메아리",
+          "original": "Rhythmic Echo"
+        },
+        "conditions": {
+          "en": "Requires 200 cumulative Solemn Echo draws; count persists between seasons. Use Resonating Melodies exchanged with Echo Jade. All seasonal limited appearances within 150 draws; pool capped at 300, when all stocked exquisite rewards are obtained. The 150 guarantee must not be applied to Starlit Slumber, the exquisite hair reward. Starwoven Heavens supports dyeing. Exact per-draw currency quantity and odds are unstated.",
+          "ko": "금성장명 누적 공명 200회로 개방되며 시즌이 바뀌어도 누적 횟수는 유지됩니다. 장명옥으로 교환한 빛의 선율을 사용합니다. 시즌 한정 외관은 150회 이내, 보상풀은 최대 300회이며 300회 완료 시 재고 내 진기 보상을 모두 획득합니다. 진기 헤어 긴 꿈속의 별에 150회 확정을 적용하지 않습니다. 천상의 별빛은 염색을 지원하며 회당 재화 수량·확률은 미표기입니다."
         },
         "en": "Official Global announcement terms",
         "ko": "글로벌 공식 예고의 획득 조건"

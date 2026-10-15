@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "reviewedAt": "2026-10-13",
+  "reviewedAt": "2026-10-14",
   "records": [
     {
       "id": "global-global-wind-s-far-shore-exchange-2026-11-18",
@@ -639,12 +639,14 @@
       "precision": "second",
       "timezone": "UTC+8",
       "sourceIds": [
-        "global-20261010-scarlet-whispers"
+        "global-20261010-scarlet-whispers",
+        "global-20261015-version23-en",
+        "global-20261015-version23-ko"
       ],
-      "verifiedAt": "2026-10-13",
+      "verifiedAt": "2026-10-14",
       "note": {
-        "en": "End explicitly stated by the official Global X announcement. Scheduled terms; not current availability or a Global price verification.",
-        "ko": "공식 글로벌 X 예고에서 명시한 종료일입니다. 예고 조건이며 현재 획득 가능 여부나 글로벌 가격 확인을 뜻하지 않습니다."
+        "en": "End explicitly stated with UTC+8 in the official Global X source; the version 2.3 EN/KO notice supplements acquisition terms. Announcement schedule; current in-game availability has not been checked.",
+        "ko": "공식 글로벌 X 원문에 UTC+8 종료가 명시되어 있으며 2.3 버전 영문·한국어 공지에서 획득 조건을 보완했습니다. 공식 예고 일정이며 현재 게임 내 획득 가능 여부는 미확인입니다."
       }
     },
     {
@@ -657,12 +659,147 @@
       "precision": "second",
       "timezone": "UTC+8",
       "sourceIds": [
-        "global-20261009-veil-of-lotus"
+        "global-20261009-veil-of-lotus",
+        "global-20261015-version23-en",
+        "global-20261015-version23-ko"
       ],
-      "verifiedAt": "2026-10-13",
+      "verifiedAt": "2026-10-14",
       "note": {
-        "en": "End explicitly stated by the official Global X announcement. Scheduled terms; not current availability or a Global price verification.",
-        "ko": "공식 글로벌 X 예고에서 명시한 종료일입니다. 예고 조건이며 현재 획득 가능 여부나 글로벌 가격 확인을 뜻하지 않습니다."
+        "en": "End explicitly stated with UTC+8 in the official Global X source; the version 2.3 EN/KO notice supplements acquisition terms. Announcement schedule; current in-game availability has not been checked.",
+        "ko": "공식 글로벌 X 원문에 UTC+8 종료가 명시되어 있으며 2.3 버전 영문·한국어 공지에서 획득 조건을 보완했습니다. 공식 예고 일정이며 현재 게임 내 획득 가능 여부는 미확인입니다."
+      }
+    },
+    {
+      "id": "global-global-aureate-dominion-draw-2026-11-09",
+      "cosmeticId": "global-aureate-dominion",
+      "server": "Global",
+      "kind": "draw",
+      "startDate": "2026-10-15",
+      "end": "2026-11-09T04:59:59",
+      "precision": "second",
+      "timezone": null,
+      "sourceIds": [
+        "global-20261015-version23-en",
+        "global-20261015-version23-ko"
+      ],
+      "verifiedAt": "2026-10-14",
+      "note": {
+        "en": "EN poster: 2026-11-09 04:59:59; KO: same date 05:59:59. Neither poster labels a timezone; do not infer it from maintenance or other item notices. Official announced terms; current in-game availability not verified.",
+        "ko": "영문 이미지 2026-11-09 04:59:59·한국어 같은 날 05:59:59입니다. 양쪽 모두 시간대가 없어 점검 시간대·다른 외관 공지에서 추정하지 않습니다. 공식 예고 조건이며 현재 게임 내 획득 가능 여부는 미확인입니다."
+      }
+    },
+    {
+      "id": "global-global-blazing-sands-exchange-2027-01-13",
+      "cosmeticId": "global-blazing-sands",
+      "server": "Global",
+      "kind": "exchange",
+      "startDate": "2026-10-15",
+      "end": "2027-01-13T04:59:59",
+      "precision": "second",
+      "timezone": null,
+      "sourceIds": [
+        "global-20261015-version23-en",
+        "global-20261015-version23-ko"
+      ],
+      "verifiedAt": "2026-10-14",
+      "note": {
+        "en": "EN poster: 2027-01-13 04:59:59; KO: same date 05:59:59. Neither poster labels a timezone; do not infer it from maintenance or other item notices. Official announced terms; current in-game availability not verified.",
+        "ko": "영문 이미지 2027-01-13 04:59:59·한국어 같은 날 05:59:59입니다. 양쪽 모두 시간대가 없어 점검 시간대·다른 외관 공지에서 추정하지 않습니다. 공식 예고 조건이며 현재 게임 내 획득 가능 여부는 미확인입니다."
+      }
+    },
+    {
+      "id": "global-landong-feng-sale-2026-12-13",
+      "cosmeticId": "landong-feng",
+      "server": "Global",
+      "kind": "sale",
+      "startDate": "2026-10-15",
+      "end": "2026-12-13T04:59:59",
+      "precision": "second",
+      "timezone": null,
+      "sourceIds": [
+        "global-20261015-version23-en",
+        "global-20261015-version23-ko"
+      ],
+      "verifiedAt": "2026-10-14",
+      "note": {
+        "en": "EN poster: 2026-12-13 04:59:59; KO: same date 05:59:59. Neither poster labels a timezone; do not infer it from maintenance or other item notices. Official announced terms; current in-game availability not verified.",
+        "ko": "영문 이미지 2026-12-13 04:59:59·한국어 같은 날 05:59:59입니다. 양쪽 모두 시간대가 없어 점검 시간대·다른 외관 공지에서 추정하지 않습니다. 공식 예고 조건이며 현재 게임 내 획득 가능 여부는 미확인입니다."
+      }
+    },
+    {
+      "id": "global-shao-nian-xing-discount-2026-11-01",
+      "cosmeticId": "shao-nian-xing",
+      "server": "Global",
+      "kind": "discount",
+      "startDate": "2026-10-18",
+      "end": "2026-11-01T04:59:59",
+      "precision": "second",
+      "timezone": null,
+      "sourceIds": [
+        "global-20261015-version23-en",
+        "global-20261015-version23-ko"
+      ],
+      "verifiedAt": "2026-10-14",
+      "note": {
+        "en": "EN poster: 2026-11-01 04:59:59; KO: same date 05:59:59. Neither poster labels a timezone; do not infer it from maintenance or other item notices. Discount ends; sale continues at the regular price.",
+        "ko": "영문 이미지 2026-11-01 04:59:59·한국어 같은 날 05:59:59입니다. 양쪽 모두 시간대가 없어 점검 시간대·다른 외관 공지에서 추정하지 않습니다. 할인 종료이며 이후 정가로 판매됩니다."
+      }
+    },
+    {
+      "id": "global-yu-yu-xuan-ji-draw-2027-01-07",
+      "cosmeticId": "yu-yu-xuan-ji",
+      "server": "Global",
+      "kind": "draw",
+      "startDate": "2026-10-15",
+      "end": "2027-01-07T04:59:59",
+      "precision": "second",
+      "timezone": null,
+      "sourceIds": [
+        "global-20261015-version23-en",
+        "global-20261015-version23-ko"
+      ],
+      "verifiedAt": "2026-10-14",
+      "note": {
+        "en": "EN poster: 2027-01-07 04:59:59; KO: same date 05:59:59. Neither poster labels a timezone; do not infer it from maintenance or other item notices. Official announced terms; current in-game availability not verified.",
+        "ko": "영문 이미지 2027-01-07 04:59:59·한국어 같은 날 05:59:59입니다. 양쪽 모두 시간대가 없어 점검 시간대·다른 외관 공지에서 추정하지 않습니다. 공식 예고 조건이며 현재 게임 내 획득 가능 여부는 미확인입니다."
+      }
+    },
+    {
+      "id": "global-xing-chui-ping-ye-draw-2027-01-07",
+      "cosmeticId": "xing-chui-ping-ye",
+      "server": "Global",
+      "kind": "draw",
+      "startDate": "2026-10-15",
+      "end": "2027-01-07T04:59:59",
+      "precision": "second",
+      "timezone": null,
+      "sourceIds": [
+        "global-20261015-version23-en",
+        "global-20261015-version23-ko"
+      ],
+      "verifiedAt": "2026-10-14",
+      "note": {
+        "en": "EN poster: 2027-01-07 04:59:59; KO: same date 05:59:59. Neither poster labels a timezone; do not infer it from maintenance or other item notices. Official announced terms; current in-game availability not verified.",
+        "ko": "영문 이미지 2027-01-07 04:59:59·한국어 같은 날 05:59:59입니다. 양쪽 모두 시간대가 없어 점검 시간대·다른 외관 공지에서 추정하지 않습니다. 공식 예고 조건이며 현재 게임 내 획득 가능 여부는 미확인입니다."
+      }
+    },
+    {
+      "id": "global-zhang-meng-tian-xing-draw-2027-01-07",
+      "cosmeticId": "zhang-meng-tian-xing",
+      "server": "Global",
+      "kind": "draw",
+      "startDate": "2026-10-15",
+      "end": "2027-01-07T04:59:59",
+      "precision": "second",
+      "timezone": null,
+      "sourceIds": [
+        "global-20261015-version23-en",
+        "global-20261015-version23-ko"
+      ],
+      "verifiedAt": "2026-10-14",
+      "note": {
+        "en": "EN poster: 2027-01-07 04:59:59; KO: same date 05:59:59. Neither poster labels a timezone; do not infer it from maintenance or other item notices. Official announced terms; current in-game availability not verified.",
+        "ko": "영문 이미지 2027-01-07 04:59:59·한국어 같은 날 05:59:59입니다. 양쪽 모두 시간대가 없어 점검 시간대·다른 외관 공지에서 추정하지 않습니다. 공식 예고 조건이며 현재 게임 내 획득 가능 여부는 미확인입니다."
       }
     }
   ]

@@ -2,6 +2,26 @@
   "schemaVersion": 1,
   "entries": [
     {
+      "id": "version23-official-appearances-20261014",
+      "date": "2026-10-14",
+      "kind": {
+        "en": "Official Global appearance announcements",
+        "ko": "글로벌 공식 외관 예고"
+      },
+      "title": {
+        "en": "Version 2.3 appearances, Korean names and acquisition terms",
+        "ko": "2.3 버전 외관·한국어 공식명·획득 조건"
+      },
+      "body": {
+        "en": "Reviewed paired official version 2.3 notices: added Aureate Dominion and Blazing Sands, linked 10 more October 15/18 listings and the three Rhythmic Echo rewards, and completed costs, bundle rules and seven new deadlines. Added 14 inspected reference extracts with female previews and full paired artwork. Unstated timezones remain unknown; announcements do not establish current availability.",
+        "ko": "공식 2.3 버전 영문·한국어 공지를 대조해 금사의 잔영·작열의 금사를 추가하고 나머지 10월 15·18일 외관 10종과 옥진의 메아리 보상 3종을 연결했습니다. 가격·조합 조건·신규 종료 일정 7건 및 확인한 참고 사진 14장을 보완했습니다. 여성 미리보기와 전체 남녀 사진을 제공하며 미표기 시간대·현재 게임 내 획득 여부는 미확인으로 유지합니다."
+      },
+      "sourceIds": [
+        "global-20261015-version23-en",
+        "global-20261015-version23-ko"
+      ]
+    },
+    {
       "id": "october15-social-and-october11-details-20261013",
       "date": "2026-10-13",
       "kind": {
