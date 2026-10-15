@@ -1,0 +1,455 @@
+{
+  "browser": "Codex in-app Chromium, emulated viewports; no physical-device check",
+  "detailChecks": [
+    {
+      "id": "global-aureate-dominion",
+      "locale": "en",
+      "heading": "Aureate Dominion",
+      "primaryImages": [
+        {
+          "loaded": true,
+          "src": "/media/global-aureate-dominion-0-display.webp"
+        }
+      ],
+      "scrollWidth": 1425,
+      "viewport": 1440
+    },
+    {
+      "id": "global-blazing-sands",
+      "locale": "en",
+      "heading": "Blazing Sands",
+      "primaryImages": [
+        {
+          "loaded": true,
+          "src": "/media/global-blazing-sands-0-display.webp"
+        }
+      ],
+      "scrollWidth": 1425,
+      "viewport": 1440
+    },
+    {
+      "id": "lian-du-you-luo",
+      "locale": "en",
+      "heading": "Veil of Lotus",
+      "primaryImages": [
+        {
+          "loaded": true,
+          "src": "/media/lian-du-you-luo-9-display.webp"
+        }
+      ],
+      "scrollWidth": 1425,
+      "viewport": 1440
+    },
+    {
+      "id": "hong-ye-xiao-xiao",
+      "locale": "en",
+      "heading": "Scarlet Whispers",
+      "primaryImages": [
+        {
+          "loaded": true,
+          "src": "/media/hong-ye-xiao-xiao-3-display.webp"
+        }
+      ],
+      "scrollWidth": 1425,
+      "viewport": 1440
+    },
+    {
+      "id": "ming-he-fu-yunsi-xian",
+      "locale": "en",
+      "heading": "Crane Ascending: Chordsong",
+      "primaryImages": [
+        {
+          "loaded": true,
+          "src": "/media/ming-he-fu-yunsi-xian-1-full.webp"
+        }
+      ],
+      "scrollWidth": 1425,
+      "viewport": 1440
+    },
+    {
+      "id": "bu-qiu-ting",
+      "locale": "en",
+      "heading": "Duskfall Verse",
+      "primaryImages": [
+        {
+          "loaded": true,
+          "src": "/media/bu-qiu-ting-6-display.webp"
+        }
+      ],
+      "scrollWidth": 1425,
+      "viewport": 1440
+    },
+    {
+      "id": "luo-shui-maofu",
+      "locale": "en",
+      "heading": "Ode to the Feline Muse",
+      "primaryImages": [
+        {
+          "loaded": true,
+          "src": "/media/luo-shui-maofu-1-full.webp"
+        }
+      ],
+      "scrollWidth": 1425,
+      "viewport": 1440
+    },
+    {
+      "id": "landong-feng",
+      "locale": "en",
+      "heading": "Eastwind Soarer",
+      "primaryImages": [
+        {
+          "loaded": true,
+          "src": "/media/landong-feng-1-full.webp"
+        }
+      ],
+      "scrollWidth": 1425,
+      "viewport": 1440
+    },
+    {
+      "id": "jin-youmeng",
+      "locale": "en",
+      "heading": "Tonight's Reverie",
+      "primaryImages": [
+        {
+          "loaded": true,
+          "src": "/media/jin-youmeng-1-full.webp"
+        }
+      ],
+      "scrollWidth": 1425,
+      "viewport": 1440
+    },
+    {
+      "id": "wan-laizhe-tao-wen-xue",
+      "locale": "en",
+      "heading": "Myriad Sounds: Vernal Inquiry",
+      "primaryImages": [
+        {
+          "loaded": true,
+          "src": "/media/wan-laizhe-tao-wen-xue-1-full.webp"
+        }
+      ],
+      "scrollWidth": 1425,
+      "viewport": 1440
+    },
+    {
+      "id": "wan-laiyi-xue-ting-chun",
+      "locale": "en",
+      "heading": "Myriad Sounds: Spring's Prelude",
+      "primaryImages": [
+        {
+          "loaded": true,
+          "src": "/media/wan-laiyi-xue-ting-chun-1-full.webp"
+        }
+      ],
+      "scrollWidth": 1425,
+      "viewport": 1440
+    },
+    {
+      "id": "shao-nian-xing",
+      "locale": "en",
+      "heading": "Path of Youth",
+      "primaryImages": [
+        {
+          "loaded": true,
+          "src": "/media/shao-nian-xing-1-display.webp"
+        }
+      ],
+      "scrollWidth": 1425,
+      "viewport": 1440
+    },
+    {
+      "id": "yu-yu-xuan-ji",
+      "locale": "en",
+      "heading": "Starwoven Heavens",
+      "primaryImages": [
+        {
+          "loaded": true,
+          "src": "/media/yu-yu-xuan-ji-1-display.webp"
+        }
+      ],
+      "scrollWidth": 1425,
+      "viewport": 1440
+    },
+    {
+      "id": "xing-chui-ping-ye",
+      "locale": "en",
+      "heading": "Starfall Plains",
+      "primaryImages": [],
+      "scrollWidth": 1425,
+      "viewport": 1440
+    },
+    {
+      "id": "zhang-meng-tian-xing",
+      "locale": "en",
+      "heading": "Starlit Slumber",
+      "primaryImages": [
+        {
+          "loaded": true,
+          "src": "/media/zhang-meng-tian-xing-0-full.webp"
+        }
+      ],
+      "scrollWidth": 1425,
+      "viewport": 1440
+    },
+    {
+      "id": "global-aureate-dominion",
+      "locale": "ko",
+      "heading": "금사의 잔영",
+      "primaryImages": [
+        {
+          "loaded": true,
+          "src": "/media/global-aureate-dominion-0-display.webp"
+        }
+      ],
+      "scrollWidth": 375,
+      "viewport": 390
+    },
+    {
+      "id": "global-blazing-sands",
+      "locale": "ko",
+      "heading": "작열의 금사",
+      "primaryImages": [
+        {
+          "loaded": true,
+          "src": "/media/global-blazing-sands-0-display.webp"
+        }
+      ],
+      "scrollWidth": 375,
+      "viewport": 390
+    },
+    {
+      "id": "lian-du-you-luo",
+      "locale": "ko",
+      "heading": "그윽한 연꽃",
+      "primaryImages": [
+        {
+          "loaded": true,
+          "src": "/media/lian-du-you-luo-9-display.webp"
+        }
+      ],
+      "scrollWidth": 375,
+      "viewport": 390
+    },
+    {
+      "id": "hong-ye-xiao-xiao",
+      "locale": "ko",
+      "heading": "쓸쓸한 단풍",
+      "primaryImages": [
+        {
+          "loaded": true,
+          "src": "/media/hong-ye-xiao-xiao-3-display.webp"
+        }
+      ],
+      "scrollWidth": 375,
+      "viewport": 390
+    },
+    {
+      "id": "ming-he-fu-yunsi-xian",
+      "locale": "ko",
+      "heading": "구름의 학-사현",
+      "primaryImages": [
+        {
+          "loaded": true,
+          "src": "/media/ming-he-fu-yunsi-xian-1-full.webp"
+        }
+      ],
+      "scrollWidth": 375,
+      "viewport": 390
+    },
+    {
+      "id": "bu-qiu-ting",
+      "locale": "ko",
+      "heading": "가을빛 정원",
+      "primaryImages": [
+        {
+          "loaded": true,
+          "src": "/media/bu-qiu-ting-6-display.webp"
+        }
+      ],
+      "scrollWidth": 375,
+      "viewport": 390
+    },
+    {
+      "id": "luo-shui-maofu",
+      "locale": "ko",
+      "heading": "낙수의 고양이",
+      "primaryImages": [
+        {
+          "loaded": true,
+          "src": "/media/luo-shui-maofu-1-full.webp"
+        }
+      ],
+      "scrollWidth": 375,
+      "viewport": 390
+    },
+    {
+      "id": "landong-feng",
+      "locale": "ko",
+      "heading": "동풍의 품",
+      "primaryImages": [
+        {
+          "loaded": true,
+          "src": "/media/landong-feng-1-full.webp"
+        }
+      ],
+      "scrollWidth": 375,
+      "viewport": 390
+    },
+    {
+      "id": "jin-youmeng",
+      "locale": "ko",
+      "heading": "꿈결의 유영",
+      "primaryImages": [
+        {
+          "loaded": true,
+          "src": "/media/jin-youmeng-1-full.webp"
+        }
+      ],
+      "scrollWidth": 375,
+      "viewport": 390
+    },
+    {
+      "id": "wan-laizhe-tao-wen-xue",
+      "locale": "ko",
+      "heading": "만물의 소리-은빛 복사꽃",
+      "primaryImages": [
+        {
+          "loaded": true,
+          "src": "/media/wan-laizhe-tao-wen-xue-1-full.webp"
+        }
+      ],
+      "scrollWidth": 375,
+      "viewport": 390
+    },
+    {
+      "id": "wan-laiyi-xue-ting-chun",
+      "locale": "ko",
+      "heading": "만물의 소리-봄꽃의 기척",
+      "primaryImages": [
+        {
+          "loaded": true,
+          "src": "/media/wan-laiyi-xue-ting-chun-1-full.webp"
+        }
+      ],
+      "scrollWidth": 375,
+      "viewport": 390
+    },
+    {
+      "id": "shao-nian-xing",
+      "locale": "ko",
+      "heading": "소년행",
+      "primaryImages": [
+        {
+          "loaded": true,
+          "src": "/media/shao-nian-xing-1-display.webp"
+        }
+      ],
+      "scrollWidth": 375,
+      "viewport": 390
+    },
+    {
+      "id": "yu-yu-xuan-ji",
+      "locale": "ko",
+      "heading": "천상의 별빛",
+      "primaryImages": [
+        {
+          "loaded": true,
+          "src": "/media/yu-yu-xuan-ji-1-display.webp"
+        }
+      ],
+      "scrollWidth": 375,
+      "viewport": 390
+    },
+    {
+      "id": "xing-chui-ping-ye",
+      "locale": "ko",
+      "heading": "별 쏟아지는 들녘",
+      "primaryImages": [],
+      "scrollWidth": 375,
+      "viewport": 390
+    },
+    {
+      "id": "zhang-meng-tian-xing",
+      "locale": "ko",
+      "heading": "긴 꿈속의 별",
+      "primaryImages": [
+        {
+          "loaded": true,
+          "src": "/media/zhang-meng-tian-xing-0-full.webp"
+        }
+      ],
+      "scrollWidth": 375,
+      "viewport": 390
+    }
+  ],
+  "keyConditions": [
+    {
+      "id": "global-aureate-dominion",
+      "text": "How to obtain\nGlobal\n\nPrice in the announcement\n\nDraw reward\n\nWhere\nEchoes from Afar: Fading Glory\nEchoes from Afar: Fading Glory\nMethod\nChance reward\nCurrency\nSun-Raven Eye\nSun-Raven Eye\nRequired amount\nTotal not established\n\nDraw ends\n\nNov 9, 2026 04:59:59 · time zone unstated\n\nEN poster: 2026-11-09 04:59:59; KO: same date 05:59:59. Neither poster labels a timezone; do not infer it from maintenance or other item notices. Official announced terms; current in-game availability not verified.\n\nDeadline source\n\nThree sequential Sand, Gold and Radiance pools use differing Sun-Raven Eye quantities. Unlock all core rewards in each pool to open the next. First draw is free; limited Sun-Raven Eye exchange uses Echo Jade. Collecting the full outfit grants its victory cutscene and avatar. Draw quantities, odds and total guaranteed cost are unstated; unused event tokens are reclaimed at event end.\n\nTerms for the server shown above. Current availability may differ.\n\n"
+    },
+    {
+      "id": "global-blazing-sands",
+      "text": "How to obtain\nGlobal\n\nPrice in the announcement\n\nHarmonic Core\n× 1\n\nWhere\nDraw Shop\nDraw Shop\nMethod\nCurrency exchange\nCurrency\nHarmonic Core\nHarmonic Core\n\nExchange ends\n\nJan 13, 2027 04:59:59 · time zone unstated\n\nEN poster: 2027-01-13 04:59:59; KO: same date 05:59:59. Neither poster labels a timezone; do not infer it from maintenance or other item notices. Official announced terms; current in-game availability not verified.\n\nDeadline source\n\nLimited 90-day hairstyle; dyeable, with bonus animated player avatar. This is the separate hair exchange, not the Aureate Dominion outfit price.\n\nTerms for the server shown above. Current availability may differ.\n\n"
+    },
+    {
+      "id": "lian-du-you-luo",
+      "text": "How to obtain\nChina\n\nPrice in the announcement\n\nHarmonic Core\n× 2\n\nWhere\nDraw Shop\n和鸣商店\nMethod\nCurrency exchange\nCurrency\nHarmonic Core\n八音窍\n\nListed for 87 days; also a chance draw reward.\n\nTerms for the server shown above. Current availability may differ.\n\nHow to obtain\nGlobal\n\nPrice in the announcement\n\nHarmonic Core\n× 2\n\nWhere\nDraw Shop\nDraw Shop\nMethod\nCurrency exchange\nCurrency\nHarmonic Core\nHarmonic Core\n\nDraw ends\n\nDec 28, 2026 04:59:59 · UTC+8\n\nEnd explicitly stated by the official Global X announcement. Scheduled terms; not current availability or a Global price verification.\n\nDeadline source\n\nDraw outfit set also redeemable for 2 Harmonic Cores. Separate top/bottom and dyeing supported; animated avatar included. Draw odds and total draw cost remain unstated. The previously inspected official X post establishes the December 28 04:59:59 UTC+8 end.\n\nTerms for the server shown above. Current availability may differ.\n\nChina server facts\nRelease date\nFeb 27, 2026 Date only\nSource published\nFeb 26, 2026\n\nHistorical announcement. Current shop availability is not implied. Time zone was not stated in the source.\n\nLoading wiki details…\n"
+    },
+    {
+      "id": "ming-he-fu-yunsi-xian",
+      "text": "How to obtain\nChina\n\nPrice in the announcement\n\nHarmonic Core\n× 1\n\nWhere\nResonance Shop\n和鸣商店\nMethod\nCurrency exchange\nCurrency\nHarmonic Core\n八音窍\n\nCN announcement terms; quantities are shown only when stated for this appearance. Sales, discounts and reward conditions may have ended.\n\nOriginal acquisition wording\n\nTerms for the server shown above. Current availability may differ.\n\nHow to obtain\nGlobal\n\nPrice in the announcement\n\nHarmonic Core\n× 1\n\nWhere\nDraw Shop\nDraw Shop\nMethod\nCurrency exchange\nCurrency\nHarmonic Core\nHarmonic Core\n\nMuseflow Waist Drum Martial Art VFX; bonus scenario pose Museflow: Cloudbound. The themed Dodge VFX requires both Museflow Waist Drum and Willowbend Fan Chordsong VFX; this notice does not announce a release date or price for the fan effect.\n\nTerms for the server shown above. Current availability may differ.\n\nChina server facts\nRelease date\nJul 17, 2026 Date only\nSource published\nJul 15, 2026\n\nHistorical announcement. Current shop availability is not implied. Time zone was not stated in the source.\n\nComposition & collection\n\nLoading wiki details…\n\n"
+    },
+    {
+      "id": "luo-shui-maofu",
+      "text": "How to obtain\nChina\n\nPrice in the announcement\n\nEcho Beads\n× 980\n\nWhere\nShop\n商店\nMethod\nDirect purchase\nCurrency\nEcho Beads\n长鸣珠\n\nCN announcement terms; quantities are shown only when stated for this appearance. Sales, discounts and reward conditions may have ended.\n\nOriginal acquisition wording\n\nTerms for the server shown above. Current availability may differ.\n\nHow to obtain\nGlobal\n\nPrice in the announcement\n\nEcho Beads\n× 980\n\nWhere\nShop\nShop\nMethod\nDirect purchase\nCurrency\nEcho Beads\nEcho Beads\n\nCat companion set: outfit, headpiece and accessory. Costs 520 Echo Beads if Duskfall Verse is owned. Buying the cat first instead gives 460 Echo Beads off Duskfall Verse. Bundle discount does not stack with coupons. This is a companion appearance, not a player outfit.\n\nTerms for the server shown above. Current availability may differ.\n\nChina server facts\nRelease date\nDate unknown\nSource published\nSep 9, 2026\n\nHistorical announcement. Current shop availability is not implied. Time zone was not stated in the source.\n\n"
+    },
+    {
+      "id": "shao-nian-xing",
+      "text": "How to obtain\nChina\n\nPrice in the announcement\n\nEcho Beads\n× 300\n\nLimited discount · Regular price Echo Beads × 680\n\nWhere\nShop\n商店\nMethod\nDirect purchase\nCurrency\nEcho Beads\n长鸣珠\n\nCN announcement terms; quantities are shown only when stated for this appearance. Sales, discounts and reward conditions may have ended.\n\nOriginal acquisition wording\n\nTerms for the server shown above. Current availability may differ.\n\nHow to obtain\nGlobal\n\nPrice in the announcement\n\nEcho Beads\n× 300\n\nLimited discount · Regular price Echo Beads × 680\n\nWhere\nShop\nShop\nMethod\nDirect purchase\nCurrency\nEcho Beads\nEcho Beads\n\nDiscount ends\n\nNov 1, 2026 04:59:59 · time zone unstated\n\nEN poster: 2026-11-01 04:59:59; KO: same date 05:59:59. Neither poster labels a timezone; do not infer it from maintenance or other item notices. Discount ends; sale continues at the regular price.\n\nDeadline source\n\nEN opens October 18 00:00:00; KO says 01:00:00. Both timezones unstated. Discount ends November 1 (EN 04:59:59; KO 05:59:59), then returns to 680 Echo Beads. This is a discount end, not sale end. Separate top/bottom and dyeing supported.\n\nTerms for the server shown above. Current availability may differ.\n\nChina server facts\nRelease date\nDate unknown\nSource published\nApr 22, 2026\n\nHistorical announcement. Current shop availability is not implied. Time zone was not stated in the source.\n\nComposition & collection\n\nLoading wiki details…\n\n"
+    },
+    {
+      "id": "yu-yu-xuan-ji",
+      "text": "How to obtain\nChina\n\nPrice in the announcement\n\nAmount unknown\n\nWhere\nUnder review\n未核实\nMethod\nUnder review\nCurrency\nNot stated\nRequired amount\nNot stated in the source\n\nCN announcement terms; quantities are shown only when stated for this appearance. Sales, discounts and reward conditions may have ended.\n\nTerms for the server shown above. Current availability may differ.\n\nHow to obtain\nGlobal\n\nPrice in the announcement\n\nDraw reward\n\nWhere\nRhythmic Echo\nRhythmic Echo\nMethod\nChance reward\nCurrency\nResonating Melodies\nResonating Melodies\nRequired amount\nTotal not established\n\nDraw ends\n\nJan 7, 2027 04:59:59 · time zone unstated\n\nEN poster: 2027-01-07 04:59:59; KO: same date 05:59:59. Neither poster labels a timezone; do not infer it from maintenance or other item notices. Official announced terms; current in-game availability not verified.\n\nDeadline source\n\nRequires 200 cumulative Solemn Echo draws; count persists between seasons. Use Resonating Melodies exchanged with Echo Jade. All seasonal limited appearances within 150 draws; pool capped at 300, when all stocked exquisite rewards are obtained. The 150 guarantee must not be applied to Starlit Slumber, the exquisite hair reward. Starwoven Heavens supports dyeing. Exact per-draw currency quantity and odds are unstated.\n\nTerms for the server shown above. Current availability may differ.\n\nChina server facts\nRelease date\nDate unknown\nSource published\nMar 27, 2026\n\nHistorical announcement. Current shop availability is not implied. Time zone was not stated in the source.\n\nComposition & collection\n\nLoading wiki details…\n\n"
+    }
+  ],
+  "timelineCheck": {
+    "headings": [
+      "가을빛 정원",
+      "금사의 잔영",
+      "작열의 금사",
+      "꿈결의 유영",
+      "동풍의 품",
+      "낙수의 고양이",
+      "만물의 소리-봄꽃의 기척",
+      "만물의 소리-은빛 복사꽃",
+      "별 쏟아지는 들녘",
+      "천상의 별빛",
+      "긴 꿈속의 별",
+      "쓸쓸한 단풍",
+      "그윽한 연꽃",
+      "구름의 학-사현",
+      "소년행"
+    ],
+    "scrollWidth": 305,
+    "viewport": 320
+  },
+  "calendarCheck": {
+    "scrollWidth": 305,
+    "text": "다음에 만날 외관.\n\n중국 출시 기록부터 글로벌 공식 일정까지.\n\n로드맵\n캘린더\n글로벌\n중국\n출처 확인 · 2026-10-14\n\n글로벌 공식 예고와 확인된 출시 기록을 표시합니다. 모르는 일정은 미정으로 남깁니다.\n\n종료 임박\n글로벌 · 7일 이내\n\n공식 공지의 판매·교환·이벤트 마감입니다. 시각이나 시간대가 없으면 게임 안에서 확인하세요.\n\n천지명귀\n교환 종료 · 2026년 10월 21일 04:59:59 · 시간대 미표기\n2026년 10월\n이번 달\n월 선택\n2026년 10월 4일\n어룡의 불꽃\n9월 30일 영문 공지는 2026년 10월 4일 05:00(UTC+8)을 명시합니다. 한국 시간으로 06:00이며 한국어 공지도 06:00을 표기하지만 시간대는 별도로 적지 않았습니다. 출시 예고이며 실제 판매 확인은 아닙니다.\n공식\n2026년 10월 4일\n홍염의 밤\n9월 30일 영문 공지는 2026년 10월 4일 05:00(UTC+8)을 명시합니다. 한국 시간으로 06:00이며 한국어 공지도 06:00을 표기하지만 시간대는 별도로 적지 않았습니다. 출시 예고이며 실제 판매 확인은 아닙니다.\n공식\n2026년 10월 4일\n광명의 길\n9월 30일 영문 공지는 2026년 10월 4일 05:00(UTC+8)을 명시합니다. 한국 시간으로 06:00이며 한국어 공지도 06:00을 표기하지만 시간대는 별도로 적지 않았습니다. 출시 예고이며 실제 판매 확인은 아닙니다.\n공식\n2026년 10월 4일\n불꽃 축제의 밤\n9월 30일 영문 공지는 2026년 10월 4일 05:00(UTC+8)을 명시합니다. 한국 시간으로 06:00이며 한국어 공지도 06:00을 표기하지만 시간대는 별도로 적지 않았습니다. 출시 예고이며 실제 판매 확인은 아닙니다.\n공식\n2026년 10월 11일\n숨겨진 선율-천상의 바람\n10월 9일 공식 본문은 2026년 10월 11일 05:00 UTC+8을 명시합니다. 한국어는 06:00을 표기하며 시간대는 미표기입니다. 앞선 포스터는 시간대를 생략했습니다. 예고 상태이며 날짜 경과만으로 실제 출시·현재 획득 가능 여부를 확인하지 않습니다.\n공식\n2026년 10월 11일\n매화 끝의 봄\n10월 9일 공식 본문은 2026년 10월 11일 05:00 UTC+8을 명시합니다. 한국어는 06:00을 표기하며 시간대는 미표기입니다. 앞선 포스터는 시간대를 생략했습니다. 예고 상태이며 날짜 경과만으로 실제 출시·현재 획득 가능 여부를 확인하지 않습니다.\n공식\n2026년 10월 11일\n설산의 매화\n10월 9일 공식 본문은 2026년 10월 11일 05:00 UTC+8을 명시합니다. 한국어는 06:00을 표기하며 시간대는 미표기입니다. 앞선 포스터는 시간대를 생략했습니다. 예고 상태이며 날짜 경과만으로 실제 출시·현재 획득 가능 여부를 확인하지 않습니다.\n공식\n2026년 10월 11일\n나그네의 옷\n10월 9일 공식 본문은 2026년 10월 11일 05:00 UTC+8을 명시합니다. 한국어는 06:00을 표기하며 시간대는 미표기입니다. 앞선 포스터는 시간대를 생략했습니다. 예고 상태이며 날짜 경과만으로 실제 출시·현재 획득 가능 여부를 확인하지 않습니다.\n공식\n2026년 10월 11일\n비휴의 축복\n10월 9일 공식 본문은 2026년 10월 11일 05:00 UTC+8을 명시합니다. 한국어는 06:00을 표기하며 시간대는 미표기입니다. 앞선 포스터는 시간대를 생략했습니다. 예고 상태이며 날짜 경과만으로 실제 출시·현재 획득 가능 여부를 확인하지 않습니다.\n공식\n2026년 10월 15일\n쓸쓸한 단풍\n공식 이미지에 표기된 UTC 기준 2026년 10월 15일 업데이트 후 예고이며 시작 시각은 미표기입니다. 강호령 기간은 2026년 11월 14일 04:59:59 UTC+8까지입니다. 예고이며 현재 게임 내 획득 가능 여부를 확인한 기록은 아닙니다.\n공식\n2026년 10월 15일\n그윽한 연꽃\n2026년 10월 15일 업데이트 후 공명 세트 출시 예고입니다. 시작 시각·시간대는 미표기이며 기간은 2026년 12월 28일 04:59:59 UTC+8까지입니다. 현재 게임 내 획득 가능 여부는 미확인입니다.\n공식\n2026년 10월 15일\n구름의 학-사현\n요고 무술 이펙트의 2026년 10월 15일 업데이트 후 공명 상점 출시 예고입니다. 시작 시각·시간대·종료일은 미표기이며 게임 내 실제 판매 여부는 미확인입니다.\n공식\n2026년 10월 15일\n금사의 잔영\n2026년 10월 15일 업데이트 후이며 정확한 시작 시각·시간대는 미표기입니다. 공식 예고이며 현재 게임 내 획득 가능 여부는 미확인입니다.\n공식\n2026년 10월 15일\n작열의 금사\n2026년 10월 15일 업데이트 후이며 정확한 시작 시각·시간대는 미표기입니다. 공식 예고이며 현재 게임 내 획득 가능 여부는 미확인입니다.\n공식\n2026년 10월 15일\n가을빛 정원\n2026년 10월 15일 업데이트 후이며 정확한 시작 시각·시간대는 미표기입니다. 공식 예고이며 현재 게임 내 획득 가능 여부는 미확인입니다.\n공식\n2026년 10월 15일\n낙수의 고양이\n2026년 10월 15일 업데이트 후이며 정확한 시작 시각·시간대는 미표기입니다. 공식 예고이며 현재 게임 내 획득 가능 여부는 미확인입니다.\n공식\n2026년 10월 15일\n동풍의 품\n2026년 10월 15일 업데이트 후이며 정확한 시작 시각·시간대는 미표기입니다. 공식 예고이며 현재 게임 내 획득 가능 여부는 미확인입니다.\n공식\n2026년 10월 15일\n꿈결의 유영\n2026년 10월 15일 업데이트 후이며 정확한 시작 시각·시간대는 미표기입니다. 공식 예고이며 현재 게임 내 획득 가능 여부는 미확인입니다.\n공식\n2026년 10월 15일\n만물의 소리-은빛 복사꽃\n2026년 10월 15일 업데이트 후이며 정확한 시작 시각·시간대는 미표기입니다. 공식 예고이며 현재 게임 내 획득 가능 여부는 미확인입니다.\n공식\n2026년 10월 15일\n만물의 소리-봄꽃의 기척\n2026년 10월 15일 업데이트 후이며 정확한 시작 시각·시간대는 미표기입니다. 공식 예고이며 현재 게임 내 획득 가능 여부는 미확인입니다.\n공식\n2026년 10월 15일\n천상의 별빛\n2026년 10월 15일 업데이트 후이며 정확한 시작 시각·시간대는 미표기입니다. 공식 예고이며 현재 게임 내 획득 가능 여부는 미확인입니다.\n공식\n2026년 10월 15일\n별 쏟아지는 들녘\n2026년 10월 15일 업데이트 후이며 정확한 시작 시각·시간대는 미표기입니다. 공식 예고이며 현재 게임 내 획득 가능 여부는 미확인입니다.\n공식\n2026년 10월 15일\n긴 꿈속의 별\n2026년 10월 15일 업데이트 후이며 정확한 시작 시각·시간대는 미표기입니다. 공식 예고이며 현재 게임 내 획득 가능 여부는 미확인입니다.\n공식\n2026년 10월 18일\n소년행\n2026년 10월 18일 영문 00:00:00·한국어 01:00:00이며 시간대는 미표기입니다. 공식 예고이며 실제 판매 여부는 미확인입니다.\n공식\n공식 날짜\n24 날짜 기록\n일정을 기다리는 외관 465\n종횡\n纵横\n일정 미정\n중명\n重明\n일정 미정\n운중금서\n云中锦书\n일정 미정\n장음 · 희화교일\n藏音·羲和敲日\n일정 미정\n취혼탁옥\n醉魂濯玉\n일정 미정\n혈령당\n血铃铛\n일정 미정\n도감에서 모든 외관 보기",
+    "viewport": 320
+  },
+  "galleryCheck": {
+    "images": [
+      {
+        "height": 858,
+        "loaded": true,
+        "src": "/media/global-aureate-dominion-0-full.webp",
+        "width": 924
+      }
+    ],
+    "scrollWidth": 390,
+    "viewport": 390
+  },
+  "qaLogs": [],
+  "galleryNote": "The first immediate click after navigation had no visible effect. After inspecting the DOM, a second click opened the dialog, and the image loaded. The cause of the first click was not established."
+}

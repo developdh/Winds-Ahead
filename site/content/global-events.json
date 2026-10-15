@@ -3635,7 +3635,9 @@
       "server": "Global",
       "kind": "release",
       "sourceIds": [
-        "global-20261010-scarlet-whispers"
+        "global-20261010-scarlet-whispers",
+        "global-20261015-version23-en",
+        "global-20261015-version23-ko"
       ],
       "status": "announced",
       "scope": {
@@ -3651,7 +3653,9 @@
       "server": "Global",
       "kind": "release",
       "sourceIds": [
-        "global-20261009-veil-of-lotus"
+        "global-20261009-veil-of-lotus",
+        "global-20261015-version23-en",
+        "global-20261015-version23-ko"
       ],
       "status": "announced",
       "scope": {
@@ -3667,12 +3671,218 @@
       "server": "Global",
       "kind": "release",
       "sourceIds": [
-        "global-20261013-crane-chordsong"
+        "global-20261013-crane-chordsong",
+        "global-20261015-version23-en",
+        "global-20261015-version23-ko"
       ],
       "status": "announced",
       "scope": {
         "en": "Museflow Waist Drum Martial Art VFX announced for the Draw Shop after the October 15, 2026 update. Opening hour/timezone and end date are unstated; no in-game availability verification.",
         "ko": "요고 무술 이펙트의 2026년 10월 15일 업데이트 후 공명 상점 출시 예고입니다. 시작 시각·시간대·종료일은 미표기이며 게임 내 실제 판매 여부는 미확인입니다."
+      }
+    },
+    {
+      "id": "announced-global-global-aureate-dominion-2026-10-15",
+      "cosmeticId": "global-aureate-dominion",
+      "date": "2026-10-15",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "status": "announced",
+      "sourceIds": [
+        "global-20261015-version23-en",
+        "global-20261015-version23-ko"
+      ],
+      "scope": {
+        "en": "After the October 15, 2026 update; exact opening time and timezone unstated. Official announcement; no in-game availability check.",
+        "ko": "2026년 10월 15일 업데이트 후이며 정확한 시작 시각·시간대는 미표기입니다. 공식 예고이며 현재 게임 내 획득 가능 여부는 미확인입니다."
+      }
+    },
+    {
+      "id": "announced-global-global-blazing-sands-2026-10-15",
+      "cosmeticId": "global-blazing-sands",
+      "date": "2026-10-15",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "status": "announced",
+      "sourceIds": [
+        "global-20261015-version23-en",
+        "global-20261015-version23-ko"
+      ],
+      "scope": {
+        "en": "After the October 15, 2026 update; exact opening time and timezone unstated. Official announcement; no in-game availability check.",
+        "ko": "2026년 10월 15일 업데이트 후이며 정확한 시작 시각·시간대는 미표기입니다. 공식 예고이며 현재 게임 내 획득 가능 여부는 미확인입니다."
+      }
+    },
+    {
+      "id": "announced-global-bu-qiu-ting-2026-10-15",
+      "cosmeticId": "bu-qiu-ting",
+      "date": "2026-10-15",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "status": "announced",
+      "sourceIds": [
+        "global-20261015-version23-en",
+        "global-20261015-version23-ko"
+      ],
+      "scope": {
+        "en": "After the October 15, 2026 update; exact opening time and timezone unstated. Official announcement; no in-game availability check.",
+        "ko": "2026년 10월 15일 업데이트 후이며 정확한 시작 시각·시간대는 미표기입니다. 공식 예고이며 현재 게임 내 획득 가능 여부는 미확인입니다."
+      }
+    },
+    {
+      "id": "announced-global-luo-shui-maofu-2026-10-15",
+      "cosmeticId": "luo-shui-maofu",
+      "date": "2026-10-15",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "status": "announced",
+      "sourceIds": [
+        "global-20261015-version23-en",
+        "global-20261015-version23-ko"
+      ],
+      "scope": {
+        "en": "After the October 15, 2026 update; exact opening time and timezone unstated. Official announcement; no in-game availability check.",
+        "ko": "2026년 10월 15일 업데이트 후이며 정확한 시작 시각·시간대는 미표기입니다. 공식 예고이며 현재 게임 내 획득 가능 여부는 미확인입니다."
+      }
+    },
+    {
+      "id": "announced-global-landong-feng-2026-10-15",
+      "cosmeticId": "landong-feng",
+      "date": "2026-10-15",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "status": "announced",
+      "sourceIds": [
+        "global-20261015-version23-en",
+        "global-20261015-version23-ko"
+      ],
+      "scope": {
+        "en": "After the October 15, 2026 update; exact opening time and timezone unstated. Official announcement; no in-game availability check.",
+        "ko": "2026년 10월 15일 업데이트 후이며 정확한 시작 시각·시간대는 미표기입니다. 공식 예고이며 현재 게임 내 획득 가능 여부는 미확인입니다."
+      }
+    },
+    {
+      "id": "announced-global-jin-youmeng-2026-10-15",
+      "cosmeticId": "jin-youmeng",
+      "date": "2026-10-15",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "status": "announced",
+      "sourceIds": [
+        "global-20261015-version23-en",
+        "global-20261015-version23-ko"
+      ],
+      "scope": {
+        "en": "After the October 15, 2026 update; exact opening time and timezone unstated. Official announcement; no in-game availability check.",
+        "ko": "2026년 10월 15일 업데이트 후이며 정확한 시작 시각·시간대는 미표기입니다. 공식 예고이며 현재 게임 내 획득 가능 여부는 미확인입니다."
+      }
+    },
+    {
+      "id": "announced-global-wan-laizhe-tao-wen-xue-2026-10-15",
+      "cosmeticId": "wan-laizhe-tao-wen-xue",
+      "date": "2026-10-15",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "status": "announced",
+      "sourceIds": [
+        "global-20261015-version23-en",
+        "global-20261015-version23-ko"
+      ],
+      "scope": {
+        "en": "After the October 15, 2026 update; exact opening time and timezone unstated. Official announcement; no in-game availability check.",
+        "ko": "2026년 10월 15일 업데이트 후이며 정확한 시작 시각·시간대는 미표기입니다. 공식 예고이며 현재 게임 내 획득 가능 여부는 미확인입니다."
+      }
+    },
+    {
+      "id": "announced-global-wan-laiyi-xue-ting-chun-2026-10-15",
+      "cosmeticId": "wan-laiyi-xue-ting-chun",
+      "date": "2026-10-15",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "status": "announced",
+      "sourceIds": [
+        "global-20261015-version23-en",
+        "global-20261015-version23-ko"
+      ],
+      "scope": {
+        "en": "After the October 15, 2026 update; exact opening time and timezone unstated. Official announcement; no in-game availability check.",
+        "ko": "2026년 10월 15일 업데이트 후이며 정확한 시작 시각·시간대는 미표기입니다. 공식 예고이며 현재 게임 내 획득 가능 여부는 미확인입니다."
+      }
+    },
+    {
+      "id": "announced-global-shao-nian-xing-2026-10-18",
+      "cosmeticId": "shao-nian-xing",
+      "date": "2026-10-18",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "status": "announced",
+      "sourceIds": [
+        "global-20261015-version23-en",
+        "global-20261015-version23-ko"
+      ],
+      "scope": {
+        "en": "October 18, 2026: EN 00:00:00 / KO 01:00:00, timezones unstated. Official announcement; no in-game availability check.",
+        "ko": "2026년 10월 18일 영문 00:00:00·한국어 01:00:00이며 시간대는 미표기입니다. 공식 예고이며 실제 판매 여부는 미확인입니다."
+      }
+    },
+    {
+      "id": "announced-global-yu-yu-xuan-ji-2026-10-15",
+      "cosmeticId": "yu-yu-xuan-ji",
+      "date": "2026-10-15",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "status": "announced",
+      "sourceIds": [
+        "global-20261015-version23-en",
+        "global-20261015-version23-ko"
+      ],
+      "scope": {
+        "en": "After the October 15, 2026 update; exact opening time and timezone unstated. Official announcement; no in-game availability check.",
+        "ko": "2026년 10월 15일 업데이트 후이며 정확한 시작 시각·시간대는 미표기입니다. 공식 예고이며 현재 게임 내 획득 가능 여부는 미확인입니다."
+      }
+    },
+    {
+      "id": "announced-global-xing-chui-ping-ye-2026-10-15",
+      "cosmeticId": "xing-chui-ping-ye",
+      "date": "2026-10-15",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "status": "announced",
+      "sourceIds": [
+        "global-20261015-version23-en",
+        "global-20261015-version23-ko"
+      ],
+      "scope": {
+        "en": "After the October 15, 2026 update; exact opening time and timezone unstated. Official announcement; no in-game availability check.",
+        "ko": "2026년 10월 15일 업데이트 후이며 정확한 시작 시각·시간대는 미표기입니다. 공식 예고이며 현재 게임 내 획득 가능 여부는 미확인입니다."
+      }
+    },
+    {
+      "id": "announced-global-zhang-meng-tian-xing-2026-10-15",
+      "cosmeticId": "zhang-meng-tian-xing",
+      "date": "2026-10-15",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "status": "announced",
+      "sourceIds": [
+        "global-20261015-version23-en",
+        "global-20261015-version23-ko"
+      ],
+      "scope": {
+        "en": "After the October 15, 2026 update; exact opening time and timezone unstated. Official announcement; no in-game availability check.",
+        "ko": "2026년 10월 15일 업데이트 후이며 정확한 시작 시각·시간대는 미표기입니다. 공식 예고이며 현재 게임 내 획득 가능 여부는 미확인입니다."
       }
     }
   ]

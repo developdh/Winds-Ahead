@@ -1,0 +1,554 @@
+{
+  "checkedAt": "2026-10-14",
+  "timezone": "America/New_York",
+  "displayedPublicationDate": "2026-10-15",
+  "sources": [
+    {
+      "id": "global-20261015-version23-en",
+      "url": "https://www.wherewindsmeetgame.com/news/official/FriendsFromAfar.html",
+      "publisher": "NetEase / Where Winds Meet official website",
+      "server": "Global",
+      "titleOriginal": "[Friends From Afar] Version 2.3 Update Overview",
+      "displayedPublicationDate": "2026-10-15",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-10-14",
+      "imageUrls": [
+        "https://r.res.easebar.com/pic/20261015/1b886521-46f9-4fa1-8b59-68441ba4e3b4.png",
+        "https://r.res.easebar.com/pic/20261015/bb7e3cab-4c39-4a47-80a2-40d3183e9a8f.png"
+      ],
+      "verificationNote": "Page already accessible on October 14 America/New_York; displayed publication date is October 15. Both language versions of the appearance poster and Rhythmic Echo section were visually inspected in original-resolution segments. EN poster times are 04:59:59; KO poster times 05:59:59. Neither poster explicitly labels a timezone. The separate HTML maintenance timezone does not establish every item time. All listings remain announcements; no in-game check."
+    },
+    {
+      "id": "global-20261015-version23-ko",
+      "url": "https://www.wherewindsmeetgame.com/kr/news/official/FriendsFromAfar.html",
+      "publisher": "NetEase / Where Winds Meet official website",
+      "server": "Global",
+      "titleOriginal": "[청주에 찾아온 벗] 10월15일 2.3 버전 업데이트 미리보기",
+      "displayedPublicationDate": "2026-10-15",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-10-14",
+      "imageUrls": [
+        "https://r.res.easebar.com/pic/20261015/cd23399b-55d5-4e68-87ce-9477ec0f0820.png",
+        "https://r.res.easebar.com/pic/20261015/92040cf9-d3c5-414f-84a2-e12f3972b90c.png"
+      ],
+      "verificationNote": "Page already accessible on October 14 America/New_York; displayed publication date is October 15. Both language versions of the appearance poster and Rhythmic Echo section were visually inspected in original-resolution segments. EN poster times are 04:59:59; KO poster times 05:59:59. Neither poster explicitly labels a timezone. The separate HTML maintenance timezone does not establish every item time. All listings remain announcements; no in-game check."
+    }
+  ],
+  "sourceImages": [
+    {
+      "key": "en-1",
+      "url": "https://r.res.easebar.com/pic/20261015/1b886521-46f9-4fa1-8b59-68441ba4e3b4.png",
+      "sha256": "9ca7a909beabbb635025309d480ba2eb6d3c23af591b166c1ea85df5a47475f5"
+    },
+    {
+      "key": "en-2",
+      "url": "https://r.res.easebar.com/pic/20261015/bb7e3cab-4c39-4a47-80a2-40d3183e9a8f.png",
+      "sha256": "8f81062a3ad43232f80d71d866913c3e4c317e9a0de87ad05928d5a04ae31dda"
+    },
+    {
+      "key": "ko-1",
+      "url": "https://r.res.easebar.com/pic/20261015/cd23399b-55d5-4e68-87ce-9477ec0f0820.png",
+      "sha256": "720cf379d60b29b7c2c42477342d56a2e7efdbd9a1108cf637025490f5a1f2a0"
+    },
+    {
+      "key": "ko-2",
+      "url": "https://r.res.easebar.com/pic/20261015/92040cf9-d3c5-414f-84a2-e12f3972b90c.png",
+      "sha256": "34c02f9dea882971c20e89df6607a630fb559a258bbbbed1dd6df79a37b4e837"
+    }
+  ],
+  "newCosmeticIds": [
+    "global-aureate-dominion",
+    "global-blazing-sands"
+  ],
+  "affectedCosmeticIds": [
+    "global-aureate-dominion",
+    "global-blazing-sands",
+    "lian-du-you-luo",
+    "hong-ye-xiao-xiao",
+    "ming-he-fu-yunsi-xian",
+    "bu-qiu-ting",
+    "luo-shui-maofu",
+    "landong-feng",
+    "jin-youmeng",
+    "wan-laizhe-tao-wen-xue",
+    "wan-laiyi-xue-ting-chun",
+    "shao-nian-xing",
+    "yu-yu-xuan-ji",
+    "xing-chui-ping-ye",
+    "zhang-meng-tian-xing"
+  ],
+  "identityDecisions": [
+    {
+      "cosmeticId": "global-aureate-dominion",
+      "basis": {
+        "en": "Official paired EN/KO named artwork identifies the same gold/black outfit, blue scarab ornaments and tall horned crown. CN identity remains unverified.",
+        "ko": "공식 영문·한국어의 명칭별 사진에서 금·검정 의상, 푸른 풍뎅이 장식과 긴 뿔 모양 관이 일치합니다. 중국 서버 대응은 미확인입니다."
+      }
+    },
+    {
+      "cosmeticId": "global-blazing-sands",
+      "basis": {
+        "en": "Paired named EN/KO artwork shows matching pale hair and gold head ornaments; no CN identity asserted.",
+        "ko": "영문·한국어 명칭별 사진의 밝은 머리와 금빛 머리 장식이 일치하며 중국 항목과의 대응은 단정하지 않습니다."
+      }
+    },
+    {
+      "cosmeticId": "bu-qiu-ting",
+      "basis": {
+        "en": "Matched named CN 步秋庭 artwork: cream robe, blue patterned lapel, gold shoulder ornament and brush-shaped waist decoration, plus the identical paired cat set.",
+        "ko": "이름이 명시된 중국 步秋庭 사진의 크림색 겉옷, 파란 깃 무늬, 금빛 어깨 장식·붓 모양 허리 장식과 함께 나온 고양이 세트가 일치합니다."
+      }
+    },
+    {
+      "cosmeticId": "luo-shui-maofu",
+      "basis": {
+        "en": "Named CN 洛水猫赋 cat wears the identical cream/gold robe, blue chest jewels, gold crown and brush bundle, paired with 步秋庭.",
+        "ko": "중국 洛水猫赋 사진의 크림·금빛 의상, 푸른 가슴 보석, 금관·붓 묶음 및 步秋庭와의 조합이 일치합니다."
+      }
+    },
+    {
+      "cosmeticId": "landong-feng",
+      "basis": {
+        "en": "Matched the named CN 揽东风 swallow-shaped kite with identical peony artwork and ground/flight views.",
+        "ko": "중국 揽东风의 제비 모양 연, 같은 모란 무늬와 지상·비행 모습이 일치합니다."
+      }
+    },
+    {
+      "cosmeticId": "jin-youmeng",
+      "basis": {
+        "en": "The CN 今游梦 artwork is the same pale ribbon drum, silver wrist fittings, flowing white/silver costume and paired combat poses as the Global notice.",
+        "ko": "중국 今游梦 사진과 글로벌 공지의 옅은 리본 북, 은빛 손목 장식, 흰·은빛 의상과 앞뒤 전투 자세가 일치합니다."
+      }
+    },
+    {
+      "cosmeticId": "wan-laizhe-tao-wen-xue",
+      "basis": {
+        "en": "Matched the CN 万籁·折桃问雪 sword: pale gnarled branch guard, pink blossoms and straight silver blade, in the same tree-lined backdrop.",
+        "ko": "중국 万籁·折桃问雪의 흰 가지 모양 검격, 분홍 꽃·곧은 은빛 검신과 같은 나무 배경이 일치합니다."
+      }
+    },
+    {
+      "cosmeticId": "wan-laiyi-xue-ting-chun",
+      "basis": {
+        "en": "Matched the CN 万籁·倚雪听春 spear: branching white shaft, pink blossoms and pale pointed head in the identical character pose.",
+        "ko": "중국 万籁·倚雪听春의 흰 가지 모양 창대, 분홍 꽃과 밝은 창날 및 같은 캐릭터 자세가 일치합니다."
+      }
+    },
+    {
+      "cosmeticId": "shao-nian-xing",
+      "basis": {
+        "en": "Matched named CN 少年行 artwork: red scarf and inner robe, cream floral coat, brown patterned borders and circular hanging ornaments.",
+        "ko": "중국 少年行 사진의 붉은 목도리·속옷, 크림색 꽃무늬 겉옷, 갈색 테두리와 둥근 장식이 일치합니다."
+      }
+    },
+    {
+      "cosmeticId": "yu-yu-xuan-ji",
+      "basis": {
+        "en": "CN source co-lists 玉宇璇玑, 星垂平野 and 长梦天星 as the outfit, hairstyle and exquisite hairstyle in one pool. The Global source co-lists the equivalent three rewards, and the named blue/gold outfit artwork matches. Hair correspondence uses that paired reward listing; no separate Global hair portrait was established.",
+        "ko": "중국 원문은 玉宇璇玑·星垂平野·长梦天星을 한 보상풀의 의상·헤어·진기 헤어로 함께 명시합니다. 글로벌 원문도 대응하는 3종을 함께 열거하며 푸른색·금빛 의상 사진이 일치합니다. 헤어 대응은 함께 명시된 보상 목록을 근거로 하며 개별 글로벌 헤어 사진은 확인하지 못했습니다."
+      }
+    },
+    {
+      "cosmeticId": "xing-chui-ping-ye",
+      "basis": {
+        "en": "CN source co-lists 玉宇璇玑, 星垂平野 and 长梦天星 as the outfit, hairstyle and exquisite hairstyle in one pool. The Global source co-lists the equivalent three rewards, and the named blue/gold outfit artwork matches. Hair correspondence uses that paired reward listing; no separate Global hair portrait was established.",
+        "ko": "중국 원문은 玉宇璇玑·星垂平野·长梦天星을 한 보상풀의 의상·헤어·진기 헤어로 함께 명시합니다. 글로벌 원문도 대응하는 3종을 함께 열거하며 푸른색·금빛 의상 사진이 일치합니다. 헤어 대응은 함께 명시된 보상 목록을 근거로 하며 개별 글로벌 헤어 사진은 확인하지 못했습니다."
+      }
+    },
+    {
+      "cosmeticId": "zhang-meng-tian-xing",
+      "basis": {
+        "en": "CN source co-lists 玉宇璇玑, 星垂平野 and 长梦天星 as the outfit, hairstyle and exquisite hairstyle in one pool. The Global source co-lists the equivalent three rewards, and the named blue/gold outfit artwork matches. Hair correspondence uses that paired reward listing; no separate Global hair portrait was established.",
+        "ko": "중국 원문은 玉宇璇玑·星垂平野·长梦天星을 한 보상풀의 의상·헤어·진기 헤어로 함께 명시합니다. 글로벌 원문도 대응하는 3종을 함께 열거하며 푸른색·금빛 의상 사진이 일치합니다. 헤어 대응은 함께 명시된 보상 목록을 근거로 하며 개별 글로벌 헤어 사진은 확인하지 못했습니다."
+      }
+    }
+  ],
+  "media": [
+    {
+      "cosmeticId": "global-aureate-dominion",
+      "index": 0,
+      "originalUrl": "https://r.res.easebar.com/pic/20261015/bb7e3cab-4c39-4a47-80a2-40d3183e9a8f.png",
+      "sourceId": "global-20261015-version23-en",
+      "server": "Global",
+      "sourceCrop": [
+        44,
+        790,
+        968,
+        1648
+      ],
+      "thumbnail": "/media/global-aureate-dominion-0-thumb.webp",
+      "full": "/media/global-aureate-dominion-0-full.webp",
+      "preview": "/media/global-aureate-dominion-0-preview.webp",
+      "permission": "unknown",
+      "audience": "reference artwork; excluded from the code license",
+      "fullBytes": 187146,
+      "display": "/media/global-aureate-dominion-0-display.webp",
+      "displayWidth": 422,
+      "displayHeight": 798,
+      "displayBytes": 78476,
+      "presentationSubject": "female",
+      "presentationCrop": [
+        482,
+        30,
+        904,
+        828
+      ],
+      "thumbnailBytes": 64558,
+      "previewBytes": 3296
+    },
+    {
+      "cosmeticId": "global-blazing-sands",
+      "index": 0,
+      "originalUrl": "https://r.res.easebar.com/pic/20261015/bb7e3cab-4c39-4a47-80a2-40d3183e9a8f.png",
+      "sourceId": "global-20261015-version23-en",
+      "server": "Global",
+      "sourceCrop": [
+        44,
+        3165,
+        968,
+        4025
+      ],
+      "thumbnail": "/media/global-blazing-sands-0-thumb.webp",
+      "full": "/media/global-blazing-sands-0-full.webp",
+      "preview": "/media/global-blazing-sands-0-preview.webp",
+      "permission": "unknown",
+      "audience": "reference artwork; excluded from the code license",
+      "fullBytes": 196960,
+      "display": "/media/global-blazing-sands-0-display.webp",
+      "displayWidth": 422,
+      "displayHeight": 410,
+      "displayBytes": 34612,
+      "presentationSubject": "female",
+      "presentationCrop": [
+        20,
+        30,
+        442,
+        440
+      ],
+      "thumbnailBytes": 51622,
+      "previewBytes": 4132
+    },
+    {
+      "cosmeticId": "lian-du-you-luo",
+      "index": 9,
+      "originalUrl": "https://r.res.easebar.com/pic/20261015/bb7e3cab-4c39-4a47-80a2-40d3183e9a8f.png",
+      "sourceId": "global-20261015-version23-en",
+      "server": "Global",
+      "sourceCrop": [
+        44,
+        4842,
+        968,
+        5695
+      ],
+      "thumbnail": "/media/lian-du-you-luo-9-thumb.webp",
+      "full": "/media/lian-du-you-luo-9-full.webp",
+      "preview": "/media/lian-du-you-luo-9-preview.webp",
+      "permission": "unknown",
+      "audience": "reference artwork; excluded from the code license",
+      "fullBytes": 222224,
+      "display": "/media/lian-du-you-luo-9-display.webp",
+      "displayWidth": 422,
+      "displayHeight": 793,
+      "displayBytes": 90484,
+      "presentationSubject": "female",
+      "presentationCrop": [
+        482,
+        30,
+        904,
+        823
+      ],
+      "thumbnailBytes": 72908,
+      "previewBytes": 3930
+    },
+    {
+      "cosmeticId": "ming-he-fu-yunsi-xian",
+      "index": 1,
+      "originalUrl": "https://r.res.easebar.com/pic/20261015/bb7e3cab-4c39-4a47-80a2-40d3183e9a8f.png",
+      "sourceId": "global-20261015-version23-en",
+      "server": "Global",
+      "sourceCrop": [
+        44,
+        8330,
+        968,
+        8620
+      ],
+      "thumbnail": "/media/ming-he-fu-yunsi-xian-1-thumb.webp",
+      "full": "/media/ming-he-fu-yunsi-xian-1-full.webp",
+      "preview": "/media/ming-he-fu-yunsi-xian-1-preview.webp",
+      "permission": "unknown",
+      "audience": "reference artwork; excluded from the code license",
+      "fullBytes": 36208,
+      "thumbnailBytes": 29664,
+      "previewBytes": 1324
+    },
+    {
+      "cosmeticId": "bu-qiu-ting",
+      "index": 6,
+      "originalUrl": "https://r.res.easebar.com/pic/20261015/bb7e3cab-4c39-4a47-80a2-40d3183e9a8f.png",
+      "sourceId": "global-20261015-version23-en",
+      "server": "Global",
+      "sourceCrop": [
+        44,
+        9607,
+        968,
+        10465
+      ],
+      "thumbnail": "/media/bu-qiu-ting-6-thumb.webp",
+      "full": "/media/bu-qiu-ting-6-full.webp",
+      "preview": "/media/bu-qiu-ting-6-preview.webp",
+      "permission": "unknown",
+      "audience": "reference artwork; excluded from the code license",
+      "fullBytes": 176690,
+      "display": "/media/bu-qiu-ting-6-display.webp",
+      "displayWidth": 422,
+      "displayHeight": 798,
+      "displayBytes": 66592,
+      "presentationSubject": "female",
+      "presentationCrop": [
+        20,
+        30,
+        442,
+        828
+      ],
+      "thumbnailBytes": 55686,
+      "previewBytes": 3870
+    },
+    {
+      "cosmeticId": "luo-shui-maofu",
+      "index": 1,
+      "originalUrl": "https://r.res.easebar.com/pic/20261015/bb7e3cab-4c39-4a47-80a2-40d3183e9a8f.png",
+      "sourceId": "global-20261015-version23-en",
+      "server": "Global",
+      "sourceCrop": [
+        44,
+        10985,
+        968,
+        11510
+      ],
+      "thumbnail": "/media/luo-shui-maofu-1-thumb.webp",
+      "full": "/media/luo-shui-maofu-1-full.webp",
+      "preview": "/media/luo-shui-maofu-1-preview.webp",
+      "permission": "unknown",
+      "audience": "reference artwork; excluded from the code license",
+      "fullBytes": 76602,
+      "thumbnailBytes": 56612,
+      "previewBytes": 1980
+    },
+    {
+      "cosmeticId": "landong-feng",
+      "index": 1,
+      "originalUrl": "https://r.res.easebar.com/pic/20261015/bb7e3cab-4c39-4a47-80a2-40d3183e9a8f.png",
+      "sourceId": "global-20261015-version23-en",
+      "server": "Global",
+      "sourceCrop": [
+        44,
+        12268,
+        968,
+        12590
+      ],
+      "thumbnail": "/media/landong-feng-1-thumb.webp",
+      "full": "/media/landong-feng-1-full.webp",
+      "preview": "/media/landong-feng-1-preview.webp",
+      "permission": "unknown",
+      "audience": "reference artwork; excluded from the code license",
+      "fullBytes": 28028,
+      "thumbnailBytes": 34796,
+      "previewBytes": 1300
+    },
+    {
+      "cosmeticId": "landong-feng",
+      "index": 2,
+      "originalUrl": "https://r.res.easebar.com/pic/20261015/bb7e3cab-4c39-4a47-80a2-40d3183e9a8f.png",
+      "sourceId": "global-20261015-version23-en",
+      "server": "Global",
+      "sourceCrop": [
+        44,
+        12600,
+        968,
+        12965
+      ],
+      "thumbnail": "/media/landong-feng-2-thumb.webp",
+      "full": "/media/landong-feng-2-full.webp",
+      "preview": "/media/landong-feng-2-preview.webp",
+      "permission": "unknown",
+      "audience": "reference artwork; excluded from the code license",
+      "fullBytes": 51512,
+      "thumbnailBytes": 39826,
+      "previewBytes": 1570
+    },
+    {
+      "cosmeticId": "jin-youmeng",
+      "index": 1,
+      "originalUrl": "https://r.res.easebar.com/pic/20261015/bb7e3cab-4c39-4a47-80a2-40d3183e9a8f.png",
+      "sourceId": "global-20261015-version23-en",
+      "server": "Global",
+      "sourceCrop": [
+        44,
+        13800,
+        968,
+        14125
+      ],
+      "thumbnail": "/media/jin-youmeng-1-thumb.webp",
+      "full": "/media/jin-youmeng-1-full.webp",
+      "preview": "/media/jin-youmeng-1-preview.webp",
+      "permission": "unknown",
+      "audience": "reference artwork; excluded from the code license",
+      "fullBytes": 32166,
+      "thumbnailBytes": 37358,
+      "previewBytes": 1576
+    },
+    {
+      "cosmeticId": "jin-youmeng",
+      "index": 2,
+      "originalUrl": "https://r.res.easebar.com/pic/20261015/bb7e3cab-4c39-4a47-80a2-40d3183e9a8f.png",
+      "sourceId": "global-20261015-version23-en",
+      "server": "Global",
+      "sourceCrop": [
+        44,
+        14130,
+        968,
+        14460
+      ],
+      "thumbnail": "/media/jin-youmeng-2-thumb.webp",
+      "full": "/media/jin-youmeng-2-full.webp",
+      "preview": "/media/jin-youmeng-2-preview.webp",
+      "permission": "unknown",
+      "audience": "reference artwork; excluded from the code license",
+      "fullBytes": 37716,
+      "thumbnailBytes": 32512,
+      "previewBytes": 1884
+    },
+    {
+      "cosmeticId": "wan-laizhe-tao-wen-xue",
+      "index": 1,
+      "originalUrl": "https://r.res.easebar.com/pic/20261015/bb7e3cab-4c39-4a47-80a2-40d3183e9a8f.png",
+      "sourceId": "global-20261015-version23-en",
+      "server": "Global",
+      "sourceCrop": [
+        44,
+        14900,
+        968,
+        15210
+      ],
+      "thumbnail": "/media/wan-laizhe-tao-wen-xue-1-thumb.webp",
+      "full": "/media/wan-laizhe-tao-wen-xue-1-full.webp",
+      "preview": "/media/wan-laizhe-tao-wen-xue-1-preview.webp",
+      "permission": "unknown",
+      "audience": "reference artwork; excluded from the code license",
+      "fullBytes": 33286,
+      "thumbnailBytes": 41974,
+      "previewBytes": 1136
+    },
+    {
+      "cosmeticId": "wan-laiyi-xue-ting-chun",
+      "index": 1,
+      "originalUrl": "https://r.res.easebar.com/pic/20261015/bb7e3cab-4c39-4a47-80a2-40d3183e9a8f.png",
+      "sourceId": "global-20261015-version23-en",
+      "server": "Global",
+      "sourceCrop": [
+        44,
+        15230,
+        968,
+        15570
+      ],
+      "thumbnail": "/media/wan-laiyi-xue-ting-chun-1-thumb.webp",
+      "full": "/media/wan-laiyi-xue-ting-chun-1-full.webp",
+      "preview": "/media/wan-laiyi-xue-ting-chun-1-preview.webp",
+      "permission": "unknown",
+      "audience": "reference artwork; excluded from the code license",
+      "fullBytes": 30030,
+      "thumbnailBytes": 36992,
+      "previewBytes": 1018
+    },
+    {
+      "cosmeticId": "shao-nian-xing",
+      "index": 1,
+      "originalUrl": "https://r.res.easebar.com/pic/20261015/bb7e3cab-4c39-4a47-80a2-40d3183e9a8f.png",
+      "sourceId": "global-20261015-version23-en",
+      "server": "Global",
+      "sourceCrop": [
+        44,
+        16130,
+        968,
+        16960
+      ],
+      "thumbnail": "/media/shao-nian-xing-1-thumb.webp",
+      "full": "/media/shao-nian-xing-1-full.webp",
+      "preview": "/media/shao-nian-xing-1-preview.webp",
+      "permission": "unknown",
+      "audience": "reference artwork; excluded from the code license",
+      "fullBytes": 184964,
+      "display": "/media/shao-nian-xing-1-display.webp",
+      "displayWidth": 422,
+      "displayHeight": 770,
+      "displayBytes": 75834,
+      "presentationSubject": "female",
+      "presentationCrop": [
+        482,
+        30,
+        904,
+        800
+      ],
+      "thumbnailBytes": 61324,
+      "previewBytes": 3528
+    },
+    {
+      "cosmeticId": "yu-yu-xuan-ji",
+      "index": 1,
+      "originalUrl": "https://r.res.easebar.com/pic/20261015/1b886521-46f9-4fa1-8b59-68441ba4e3b4.png",
+      "sourceId": "global-20261015-version23-en",
+      "server": "Global",
+      "sourceCrop": [
+        44,
+        2390,
+        968,
+        3277
+      ],
+      "thumbnail": "/media/yu-yu-xuan-ji-1-thumb.webp",
+      "full": "/media/yu-yu-xuan-ji-1-full.webp",
+      "preview": "/media/yu-yu-xuan-ji-1-preview.webp",
+      "permission": "unknown",
+      "audience": "reference artwork; excluded from the code license",
+      "fullBytes": 196686,
+      "display": "/media/yu-yu-xuan-ji-1-display.webp",
+      "displayWidth": 422,
+      "displayHeight": 827,
+      "displayBytes": 92630,
+      "presentationSubject": "female",
+      "presentationCrop": [
+        482,
+        30,
+        904,
+        857
+      ],
+      "thumbnailBytes": 68532,
+      "previewBytes": 3774
+    }
+  ],
+  "limits": [
+    "No in-game availability verification. All affected Global records remain announced.",
+    "EN and KO posters do not print a timezone. Prior explicit UTC+8 ends for Scarlet Whispers and Veil of Lotus are retained.",
+    "Aureate Dominion and Blazing Sands have no verified CN identity.",
+    "Seasonal hair matching uses co-listed reward sets, not a separately inspected Global hair portrait.",
+    "First gameplay poster was not exhaustively reviewed; minor event/guild accessory rewards and latest Korean Cafe/X history are outside this bounded intake.",
+    "No forecasts, automation schedules or magazine exports changed."
+  ],
+  "totals": {
+    "cosmetics": 725,
+    "images": 827,
+    "photographedCosmetics": 475,
+    "regionalRecords": 667,
+    "globalEvents": 231,
+    "deadlines": 42
+  },
+  "mediaBytes": {
+    "thumbnailBytes": 684364,
+    "fullBytes": 1490218,
+    "previewBytes": 34318,
+    "displayBytes": 438628
+  }
+}

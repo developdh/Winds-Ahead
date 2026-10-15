@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "verifiedAt": "2026-10-13",
+  "verifiedAt": "2026-10-14",
   "scope": "Cross-server archive from individually reviewed official announcements; not a certified complete game inventory.",
   "sources": [
     {
@@ -4133,6 +4133,40 @@
       "evidenceTier": "A",
       "verifiedAt": "2026-10-13",
       "verificationNote": "Full named article and ten EN images inspected. EN states October 11 05:00 UTC+8 for the group and January 9 / November 23 04:59:59 ends; KO states 06:00 and 05:59:59 with no timezone. Announcement remains distinct from in-game availability. Costs retained from October 6 paired posters; no price inferred from artwork."
+    },
+    {
+      "id": "global-20261015-version23-en",
+      "url": "https://www.wherewindsmeetgame.com/news/official/FriendsFromAfar.html",
+      "publisher": "NetEase / Where Winds Meet official website",
+      "server": "Global",
+      "titleOriginal": "[Friends From Afar] Version 2.3 Update Overview",
+      "displayedPublicationDate": "2026-10-15",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-10-14",
+      "imageUrls": [
+        "https://r.res.easebar.com/pic/20261015/1b886521-46f9-4fa1-8b59-68441ba4e3b4.png",
+        "https://r.res.easebar.com/pic/20261015/bb7e3cab-4c39-4a47-80a2-40d3183e9a8f.png"
+      ],
+      "verificationNote": "Page already accessible on October 14 America/New_York; displayed publication date is October 15. Both language versions of the appearance poster and Rhythmic Echo section were visually inspected in original-resolution segments. EN poster times are 04:59:59; KO poster times 05:59:59. Neither poster explicitly labels a timezone. The separate HTML maintenance timezone does not establish every item time. All listings remain announcements; no in-game check."
+    },
+    {
+      "id": "global-20261015-version23-ko",
+      "url": "https://www.wherewindsmeetgame.com/kr/news/official/FriendsFromAfar.html",
+      "publisher": "NetEase / Where Winds Meet official website",
+      "server": "Global",
+      "titleOriginal": "[청주에 찾아온 벗] 10월15일 2.3 버전 업데이트 미리보기",
+      "displayedPublicationDate": "2026-10-15",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-10-14",
+      "imageUrls": [
+        "https://r.res.easebar.com/pic/20261015/cd23399b-55d5-4e68-87ce-9477ec0f0820.png",
+        "https://r.res.easebar.com/pic/20261015/92040cf9-d3c5-414f-84a2-e12f3972b90c.png"
+      ],
+      "verificationNote": "Page already accessible on October 14 America/New_York; displayed publication date is October 15. Both language versions of the appearance poster and Rhythmic Echo section were visually inspected in original-resolution segments. EN poster times are 04:59:59; KO poster times 05:59:59. Neither poster explicitly labels a timezone. The separate HTML maintenance timezone does not establish every item time. All listings remain announcements; no in-game check."
     }
   ],
   "mediaRights": {
@@ -4891,8 +4925,8 @@
       "romanization": "Bu Qiu Ting",
       "category": "outfit",
       "sourceId": "cn-20260909-new-appearance",
-      "officialNameEn": null,
-      "officialNameKo": null,
+      "officialNameEn": "Duskfall Verse",
+      "officialNameKo": "가을빛 정원",
       "cnRelease": {
         "date": "2026-09-10",
         "precision": "day",
@@ -4985,12 +5019,51 @@
             "en": "Bu Qiu Ting — Male rear view showing long hair, crown and embroidered robe panels.",
             "ko": "보추정 — 긴 머리, 관과 자수 옷자락이 보이는 남성형 뒷모습."
           }
+        },
+        {
+          "url": "https://r.res.easebar.com/pic/20261015/bb7e3cab-4c39-4a47-80a2-40d3183e9a8f.png",
+          "width": 924,
+          "height": 858,
+          "bytes": 16621455,
+          "kind": "official_appearance_reference",
+          "sourceId": "global-20261015-version23-en",
+          "server": "Global",
+          "sourceCrop": [
+            44,
+            9607,
+            968,
+            10465
+          ],
+          "visuallyInspected": true,
+          "inspectionNote": "2026-10-14 America/New_York: named EN/KO image sections visually inspected. This image is an explicitly recorded artwork extract from the long source notice; no artwork synthesized. Full notice retained at original URL.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/bu-qiu-ting-6-full.webp",
+          "alt": {
+            "en": "Duskfall Verse official Global appearance reference.",
+            "ko": "가을빛 정원 글로벌 공식 참고 사진."
+          },
+          "caption": {
+            "en": "Official Global named artwork extracted from the version 2.3 notice. Full paired artwork is retained in enlargement; the complete original notice is linked in sources.",
+            "ko": "글로벌 2.3 버전 공지의 명칭별 공식 사진 영역입니다. 확대에서 전체 남녀 사진 구도를 유지하며 출처 링크에서 공지 전체를 볼 수 있습니다."
+          },
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio"
         }
       ],
       "officialVideos": [],
       "mediaStatus": "verified",
-      "mediaServer": "CN",
-      "mediaKind": "official"
+      "mediaServer": "Global",
+      "mediaKind": "official",
+      "namingNote": {
+        "en": "Official English/Korean names verified from the paired Global version 2.3 notices. Regional acquisition and schedules remain separate.",
+        "ko": "글로벌 2.3 버전 영문·한국어 공식 공지에서 이름을 확인했습니다. 서버별 획득 조건과 일정을 구분합니다."
+      },
+      "searchAliases": [
+        "보추정",
+        "步秋庭",
+        "Bu Qiu Ting",
+        "Duskfall Verse",
+        "가을빛 정원"
+      ]
     },
     {
       "id": "xue-lingdang",
@@ -6794,7 +6867,7 @@
       "category": "outfit",
       "sourceId": "cn-20260226-outfits",
       "officialNameEn": "Veil of Lotus",
-      "officialNameKo": null,
+      "officialNameKo": "그윽한 연꽃",
       "cnRelease": {
         "date": "2026-02-27",
         "precision": "day",
@@ -6996,6 +7069,34 @@
             "en": "Official CN tailored variant (裁衣款). Entire original frame retained.",
             "ko": "중국 공식 재단 변형(裁衣款)입니다. 원본의 전체 구도를 유지했습니다."
           }
+        },
+        {
+          "url": "https://r.res.easebar.com/pic/20261015/bb7e3cab-4c39-4a47-80a2-40d3183e9a8f.png",
+          "width": 924,
+          "height": 853,
+          "bytes": 16621455,
+          "kind": "official_appearance_reference",
+          "sourceId": "global-20261015-version23-en",
+          "server": "Global",
+          "sourceCrop": [
+            44,
+            4842,
+            968,
+            5695
+          ],
+          "visuallyInspected": true,
+          "inspectionNote": "2026-10-14 America/New_York: named EN/KO image sections visually inspected. This image is an explicitly recorded artwork extract from the long source notice; no artwork synthesized. Full notice retained at original URL.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/lian-du-you-luo-9-full.webp",
+          "alt": {
+            "en": "Veil of Lotus official Global appearance reference.",
+            "ko": "그윽한 연꽃 글로벌 공식 참고 사진."
+          },
+          "caption": {
+            "en": "Official Global named artwork extracted from the version 2.3 notice. Full paired artwork is retained in enlargement; the complete original notice is linked in sources.",
+            "ko": "글로벌 2.3 버전 공지의 명칭별 공식 사진 영역입니다. 확대에서 전체 남녀 사진 구도를 유지하며 출처 링크에서 공지 전체를 볼 수 있습니다."
+          },
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio"
         }
       ],
       "officialVideos": [],
@@ -7005,12 +7106,14 @@
         "Lian Du You Luo",
         "연도유라",
         "莲渡幽罗",
-        "Veil of Lotus"
+        "Veil of Lotus",
+        "그윽한 연꽃"
       ],
       "namingNote": {
-        "en": "Official English name verified from the Global X announcement. Korean name remains a provisional CN reading; no official Korean name verified. CN and Global acquisition/schedules remain separate.",
-        "ko": "글로벌 공식 X 예고에서 영문 이름을 확인했습니다. 한국어 이름은 중국명의 임시 독음이며 한국어 공식명은 미확인입니다. 중국·글로벌 획득 조건과 일정을 구분합니다."
-      }
+        "en": "Official English/Korean names verified from the paired Global version 2.3 notices. Regional acquisition and schedules remain separate.",
+        "ko": "글로벌 2.3 버전 영문·한국어 공식 공지에서 이름을 확인했습니다. 서버별 획득 조건과 일정을 구분합니다."
+      },
+      "mediaServer": "Global"
     },
     {
       "id": "wan-he-qing-xiang",
@@ -18412,9 +18515,9 @@
       "category": "weapon_skin",
       "sourceId": "cn-60c7d971d329",
       "acquisitionServer": "CN",
-      "mediaServer": "CN",
-      "officialNameEn": null,
-      "officialNameKo": null,
+      "mediaServer": "Global",
+      "officialNameEn": "Myriad Sounds: Vernal Inquiry",
+      "officialNameKo": "만물의 소리-은빛 복사꽃",
       "cnRelease": {
         "date": null,
         "precision": "unknown",
@@ -18456,6 +18559,34 @@
           "reusePermission": "unknown",
           "localCopy": null,
           "server": "CN"
+        },
+        {
+          "url": "https://r.res.easebar.com/pic/20261015/bb7e3cab-4c39-4a47-80a2-40d3183e9a8f.png",
+          "width": 924,
+          "height": 310,
+          "bytes": 16621455,
+          "kind": "official_appearance_reference",
+          "sourceId": "global-20261015-version23-en",
+          "server": "Global",
+          "sourceCrop": [
+            44,
+            14900,
+            968,
+            15210
+          ],
+          "visuallyInspected": true,
+          "inspectionNote": "2026-10-14 America/New_York: named EN/KO image sections visually inspected. This image is an explicitly recorded artwork extract from the long source notice; no artwork synthesized. Full notice retained at original URL.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wan-laizhe-tao-wen-xue-1-full.webp",
+          "alt": {
+            "en": "Myriad Sounds: Vernal Inquiry official Global appearance reference.",
+            "ko": "만물의 소리-은빛 복사꽃 글로벌 공식 참고 사진."
+          },
+          "caption": {
+            "en": "Official Global reference artwork extracted from its named section. Complete original notice is accessible through the source link.",
+            "ko": "글로벌 공지의 명칭별 공식 참고 사진 영역입니다. 출처 링크에서 원본 공지 전체를 볼 수 있습니다."
+          },
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio"
         }
       ],
       "officialVideos": [],
@@ -18465,7 +18596,17 @@
         "officialName": null,
         "releaseDate": null
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "namingNote": {
+        "en": "Official English/Korean names verified from the paired Global version 2.3 notices. Regional acquisition and schedules remain separate.",
+        "ko": "글로벌 2.3 버전 영문·한국어 공식 공지에서 이름을 확인했습니다. 서버별 획득 조건과 일정을 구분합니다."
+      },
+      "searchAliases": [
+        "万籁·折桃问雪",
+        "wan lai·zhe tao wen xue",
+        "Myriad Sounds: Vernal Inquiry",
+        "만물의 소리-은빛 복사꽃"
+      ]
     },
     {
       "id": "wan-laiyi-xue-ting-chun",
@@ -18474,9 +18615,9 @@
       "category": "weapon_skin",
       "sourceId": "cn-60c7d971d329",
       "acquisitionServer": "CN",
-      "mediaServer": "CN",
-      "officialNameEn": null,
-      "officialNameKo": null,
+      "mediaServer": "Global",
+      "officialNameEn": "Myriad Sounds: Spring's Prelude",
+      "officialNameKo": "만물의 소리-봄꽃의 기척",
       "cnRelease": {
         "date": null,
         "precision": "unknown",
@@ -18518,6 +18659,34 @@
           "reusePermission": "unknown",
           "localCopy": null,
           "server": "CN"
+        },
+        {
+          "url": "https://r.res.easebar.com/pic/20261015/bb7e3cab-4c39-4a47-80a2-40d3183e9a8f.png",
+          "width": 924,
+          "height": 340,
+          "bytes": 16621455,
+          "kind": "official_appearance_reference",
+          "sourceId": "global-20261015-version23-en",
+          "server": "Global",
+          "sourceCrop": [
+            44,
+            15230,
+            968,
+            15570
+          ],
+          "visuallyInspected": true,
+          "inspectionNote": "2026-10-14 America/New_York: named EN/KO image sections visually inspected. This image is an explicitly recorded artwork extract from the long source notice; no artwork synthesized. Full notice retained at original URL.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wan-laiyi-xue-ting-chun-1-full.webp",
+          "alt": {
+            "en": "Myriad Sounds: Spring's Prelude official Global appearance reference.",
+            "ko": "만물의 소리-봄꽃의 기척 글로벌 공식 참고 사진."
+          },
+          "caption": {
+            "en": "Official Global reference artwork extracted from its named section. Complete original notice is accessible through the source link.",
+            "ko": "글로벌 공지의 명칭별 공식 참고 사진 영역입니다. 출처 링크에서 원본 공지 전체를 볼 수 있습니다."
+          },
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio"
         }
       ],
       "officialVideos": [],
@@ -18527,7 +18696,17 @@
         "officialName": null,
         "releaseDate": null
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "namingNote": {
+        "en": "Official English/Korean names verified from the paired Global version 2.3 notices. Regional acquisition and schedules remain separate.",
+        "ko": "글로벌 2.3 버전 영문·한국어 공식 공지에서 이름을 확인했습니다. 서버별 획득 조건과 일정을 구분합니다."
+      },
+      "searchAliases": [
+        "万籁·倚雪听春",
+        "wan lai·yi xue ting chun",
+        "Myriad Sounds: Spring's Prelude",
+        "만물의 소리-봄꽃의 기척"
+      ]
     },
     {
       "id": "qing-niao-xian-dao",
@@ -19819,9 +19998,9 @@
       "category": "outfit",
       "sourceId": "cn-819f0aca2216",
       "acquisitionServer": "CN",
-      "mediaServer": "CN",
-      "officialNameEn": null,
-      "officialNameKo": null,
+      "mediaServer": "Global",
+      "officialNameEn": "Starwoven Heavens",
+      "officialNameKo": "천상의 별빛",
       "cnRelease": {
         "date": null,
         "precision": "unknown",
@@ -19863,6 +20042,34 @@
           "reusePermission": "unknown",
           "localCopy": null,
           "server": "CN"
+        },
+        {
+          "url": "https://r.res.easebar.com/pic/20261015/1b886521-46f9-4fa1-8b59-68441ba4e3b4.png",
+          "width": 924,
+          "height": 887,
+          "bytes": 6842579,
+          "kind": "official_appearance_reference",
+          "sourceId": "global-20261015-version23-en",
+          "server": "Global",
+          "sourceCrop": [
+            44,
+            2390,
+            968,
+            3277
+          ],
+          "visuallyInspected": true,
+          "inspectionNote": "2026-10-14 America/New_York: named EN/KO image sections visually inspected. This image is an explicitly recorded artwork extract from the long source notice; no artwork synthesized. Full notice retained at original URL.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/yu-yu-xuan-ji-1-full.webp",
+          "alt": {
+            "en": "Starwoven Heavens official Global appearance reference.",
+            "ko": "천상의 별빛 글로벌 공식 참고 사진."
+          },
+          "caption": {
+            "en": "Official Global named artwork extracted from the version 2.3 notice. Full paired artwork is retained in enlargement; the complete original notice is linked in sources.",
+            "ko": "글로벌 2.3 버전 공지의 명칭별 공식 사진 영역입니다. 확대에서 전체 남녀 사진 구도를 유지하며 출처 링크에서 공지 전체를 볼 수 있습니다."
+          },
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio"
         }
       ],
       "officialVideos": [],
@@ -19872,7 +20079,17 @@
         "officialName": null,
         "releaseDate": null
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "namingNote": {
+        "en": "Official English/Korean names verified from the paired Global version 2.3 notices. Regional acquisition and schedules remain separate.",
+        "ko": "글로벌 2.3 버전 영문·한국어 공식 공지에서 이름을 확인했습니다. 서버별 획득 조건과 일정을 구분합니다."
+      },
+      "searchAliases": [
+        "玉宇璇玑",
+        "yu yu xuan ji",
+        "Starwoven Heavens",
+        "천상의 별빛"
+      ]
     },
     {
       "id": "zhang-meng-tian-xing",
@@ -19882,8 +20099,8 @@
       "sourceId": "cn-819f0aca2216",
       "acquisitionServer": "CN",
       "mediaServer": "CN",
-      "officialNameEn": null,
-      "officialNameKo": null,
+      "officialNameEn": "Starlit Slumber",
+      "officialNameKo": "긴 꿈속의 별",
       "cnRelease": {
         "date": "2026-03-27",
         "precision": "day",
@@ -19933,7 +20150,17 @@
         "status": "unknown",
         "officialName": null,
         "releaseDate": null
-      }
+      },
+      "namingNote": {
+        "en": "Official English/Korean names verified from the paired Global version 2.3 notices. Regional acquisition and schedules remain separate.",
+        "ko": "글로벌 2.3 버전 영문·한국어 공식 공지에서 이름을 확인했습니다. 서버별 획득 조건과 일정을 구분합니다."
+      },
+      "searchAliases": [
+        "长梦天星",
+        "zhang meng tian xing",
+        "Starlit Slumber",
+        "긴 꿈속의 별"
+      ]
     },
     {
       "id": "yi-chun-shan",
@@ -20865,9 +21092,9 @@
       "category": "outfit",
       "sourceId": "cn-20260422-outfits",
       "acquisitionServer": "CN",
-      "mediaServer": "CN",
-      "officialNameEn": null,
-      "officialNameKo": null,
+      "mediaServer": "Global",
+      "officialNameEn": "Path of Youth",
+      "officialNameKo": "소년행",
       "cnRelease": {
         "date": null,
         "precision": "unknown",
@@ -20909,6 +21136,34 @@
           "reusePermission": "unknown",
           "localCopy": null,
           "server": "CN"
+        },
+        {
+          "url": "https://r.res.easebar.com/pic/20261015/bb7e3cab-4c39-4a47-80a2-40d3183e9a8f.png",
+          "width": 924,
+          "height": 830,
+          "bytes": 16621455,
+          "kind": "official_appearance_reference",
+          "sourceId": "global-20261015-version23-en",
+          "server": "Global",
+          "sourceCrop": [
+            44,
+            16130,
+            968,
+            16960
+          ],
+          "visuallyInspected": true,
+          "inspectionNote": "2026-10-14 America/New_York: named EN/KO image sections visually inspected. This image is an explicitly recorded artwork extract from the long source notice; no artwork synthesized. Full notice retained at original URL.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/shao-nian-xing-1-full.webp",
+          "alt": {
+            "en": "Path of Youth official Global appearance reference.",
+            "ko": "소년행 글로벌 공식 참고 사진."
+          },
+          "caption": {
+            "en": "Official Global named artwork extracted from the version 2.3 notice. Full paired artwork is retained in enlargement; the complete original notice is linked in sources.",
+            "ko": "글로벌 2.3 버전 공지의 명칭별 공식 사진 영역입니다. 확대에서 전체 남녀 사진 구도를 유지하며 출처 링크에서 공지 전체를 볼 수 있습니다."
+          },
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio"
         }
       ],
       "officialVideos": [],
@@ -20918,7 +21173,17 @@
         "officialName": null,
         "releaseDate": null
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "namingNote": {
+        "en": "Official English/Korean names verified from the paired Global version 2.3 notices. Regional acquisition and schedules remain separate.",
+        "ko": "글로벌 2.3 버전 영문·한국어 공식 공지에서 이름을 확인했습니다. 서버별 획득 조건과 일정을 구분합니다."
+      },
+      "searchAliases": [
+        "少年行",
+        "shao nian xing",
+        "Path of Youth",
+        "소년행"
+      ]
     },
     {
       "id": "wu-sheng-gu",
@@ -21531,9 +21796,9 @@
       "category": "weapon_skin",
       "sourceId": "cn-0976cf8180c3",
       "acquisitionServer": "CN",
-      "mediaServer": "CN",
-      "officialNameEn": null,
-      "officialNameKo": null,
+      "mediaServer": "Global",
+      "officialNameEn": "Tonight's Reverie",
+      "officialNameKo": "꿈결의 유영",
       "cnRelease": {
         "date": "2026-04-30",
         "precision": "day",
@@ -21575,6 +21840,62 @@
           "reusePermission": "unknown",
           "localCopy": null,
           "server": "CN"
+        },
+        {
+          "url": "https://r.res.easebar.com/pic/20261015/bb7e3cab-4c39-4a47-80a2-40d3183e9a8f.png",
+          "width": 924,
+          "height": 325,
+          "bytes": 16621455,
+          "kind": "official_appearance_reference",
+          "sourceId": "global-20261015-version23-en",
+          "server": "Global",
+          "sourceCrop": [
+            44,
+            13800,
+            968,
+            14125
+          ],
+          "visuallyInspected": true,
+          "inspectionNote": "2026-10-14 America/New_York: named EN/KO image sections visually inspected. This image is an explicitly recorded artwork extract from the long source notice; no artwork synthesized. Full notice retained at original URL.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/jin-youmeng-1-full.webp",
+          "alt": {
+            "en": "Tonight's Reverie official Global appearance reference.",
+            "ko": "꿈결의 유영 글로벌 공식 참고 사진."
+          },
+          "caption": {
+            "en": "Official Global reference artwork extracted from its named section. Complete original notice is accessible through the source link.",
+            "ko": "글로벌 공지의 명칭별 공식 참고 사진 영역입니다. 출처 링크에서 원본 공지 전체를 볼 수 있습니다."
+          },
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio"
+        },
+        {
+          "url": "https://r.res.easebar.com/pic/20261015/bb7e3cab-4c39-4a47-80a2-40d3183e9a8f.png",
+          "width": 924,
+          "height": 330,
+          "bytes": 16621455,
+          "kind": "official_appearance_reference",
+          "sourceId": "global-20261015-version23-en",
+          "server": "Global",
+          "sourceCrop": [
+            44,
+            14130,
+            968,
+            14460
+          ],
+          "visuallyInspected": true,
+          "inspectionNote": "2026-10-14 America/New_York: named EN/KO image sections visually inspected. This image is an explicitly recorded artwork extract from the long source notice; no artwork synthesized. Full notice retained at original URL.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/jin-youmeng-2-full.webp",
+          "alt": {
+            "en": "Tonight's Reverie official Global appearance reference.",
+            "ko": "꿈결의 유영 글로벌 공식 참고 사진."
+          },
+          "caption": {
+            "en": "Official Global reference artwork extracted from its named section. Complete original notice is accessible through the source link.",
+            "ko": "글로벌 공지의 명칭별 공식 참고 사진 영역입니다. 출처 링크에서 원본 공지 전체를 볼 수 있습니다."
+          },
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio"
         }
       ],
       "officialVideos": [],
@@ -21584,7 +21905,17 @@
         "officialName": null,
         "releaseDate": null
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "namingNote": {
+        "en": "Official English/Korean names verified from the paired Global version 2.3 notices. Regional acquisition and schedules remain separate.",
+        "ko": "글로벌 2.3 버전 영문·한국어 공식 공지에서 이름을 확인했습니다. 서버별 획득 조건과 일정을 구분합니다."
+      },
+      "searchAliases": [
+        "今游梦",
+        "jin youmeng",
+        "Tonight's Reverie",
+        "꿈결의 유영"
+      ]
     },
     {
       "id": "zhi-lan-zi-fang",
@@ -22172,9 +22503,9 @@
       "category": "mount",
       "sourceId": "cn-20260528-outfits",
       "acquisitionServer": "CN",
-      "mediaServer": "CN",
-      "officialNameEn": null,
-      "officialNameKo": null,
+      "mediaServer": "Global",
+      "officialNameEn": "Eastwind Soarer",
+      "officialNameKo": "동풍의 품",
       "cnRelease": {
         "date": null,
         "precision": "unknown",
@@ -22216,6 +22547,62 @@
           "reusePermission": "unknown",
           "localCopy": null,
           "server": "CN"
+        },
+        {
+          "url": "https://r.res.easebar.com/pic/20261015/bb7e3cab-4c39-4a47-80a2-40d3183e9a8f.png",
+          "width": 924,
+          "height": 322,
+          "bytes": 16621455,
+          "kind": "official_appearance_reference",
+          "sourceId": "global-20261015-version23-en",
+          "server": "Global",
+          "sourceCrop": [
+            44,
+            12268,
+            968,
+            12590
+          ],
+          "visuallyInspected": true,
+          "inspectionNote": "2026-10-14 America/New_York: named EN/KO image sections visually inspected. This image is an explicitly recorded artwork extract from the long source notice; no artwork synthesized. Full notice retained at original URL.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/landong-feng-1-full.webp",
+          "alt": {
+            "en": "Eastwind Soarer official Global appearance reference.",
+            "ko": "동풍의 품 글로벌 공식 참고 사진."
+          },
+          "caption": {
+            "en": "Official Global reference artwork extracted from its named section. Complete original notice is accessible through the source link.",
+            "ko": "글로벌 공지의 명칭별 공식 참고 사진 영역입니다. 출처 링크에서 원본 공지 전체를 볼 수 있습니다."
+          },
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio"
+        },
+        {
+          "url": "https://r.res.easebar.com/pic/20261015/bb7e3cab-4c39-4a47-80a2-40d3183e9a8f.png",
+          "width": 924,
+          "height": 365,
+          "bytes": 16621455,
+          "kind": "official_appearance_reference",
+          "sourceId": "global-20261015-version23-en",
+          "server": "Global",
+          "sourceCrop": [
+            44,
+            12600,
+            968,
+            12965
+          ],
+          "visuallyInspected": true,
+          "inspectionNote": "2026-10-14 America/New_York: named EN/KO image sections visually inspected. This image is an explicitly recorded artwork extract from the long source notice; no artwork synthesized. Full notice retained at original URL.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/landong-feng-2-full.webp",
+          "alt": {
+            "en": "Eastwind Soarer official Global appearance reference.",
+            "ko": "동풍의 품 글로벌 공식 참고 사진."
+          },
+          "caption": {
+            "en": "Official Global reference artwork extracted from its named section. Complete original notice is accessible through the source link.",
+            "ko": "글로벌 공지의 명칭별 공식 참고 사진 영역입니다. 출처 링크에서 원본 공지 전체를 볼 수 있습니다."
+          },
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio"
         }
       ],
       "officialVideos": [],
@@ -22225,7 +22612,17 @@
         "officialName": null,
         "releaseDate": null
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "namingNote": {
+        "en": "Official English/Korean names verified from the paired Global version 2.3 notices. Regional acquisition and schedules remain separate.",
+        "ko": "글로벌 2.3 버전 영문·한국어 공식 공지에서 이름을 확인했습니다. 서버별 획득 조건과 일정을 구분합니다."
+      },
+      "searchAliases": [
+        "揽东风",
+        "landong feng",
+        "Eastwind Soarer",
+        "동풍의 품"
+      ]
     },
     {
       "id": "yu-long-kongyou",
@@ -24303,9 +24700,9 @@
       "category": "effect",
       "sourceId": "cn-716b7631670a",
       "acquisitionServer": "CN",
-      "mediaServer": "CN",
+      "mediaServer": "Global",
       "officialNameEn": "Crane Ascending: Chordsong",
-      "officialNameKo": null,
+      "officialNameKo": "구름의 학-사현",
       "cnRelease": {
         "date": "2026-07-17",
         "precision": "day",
@@ -24347,6 +24744,34 @@
           "reusePermission": "unknown",
           "localCopy": null,
           "server": "CN"
+        },
+        {
+          "url": "https://r.res.easebar.com/pic/20261015/bb7e3cab-4c39-4a47-80a2-40d3183e9a8f.png",
+          "width": 924,
+          "height": 290,
+          "bytes": 16621455,
+          "kind": "official_appearance_reference",
+          "sourceId": "global-20261015-version23-en",
+          "server": "Global",
+          "sourceCrop": [
+            44,
+            8330,
+            968,
+            8620
+          ],
+          "visuallyInspected": true,
+          "inspectionNote": "2026-10-14 America/New_York: named EN/KO image sections visually inspected. This image is an explicitly recorded artwork extract from the long source notice; no artwork synthesized. Full notice retained at original URL.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/ming-he-fu-yunsi-xian-1-full.webp",
+          "alt": {
+            "en": "Crane Ascending: Chordsong official Global appearance reference.",
+            "ko": "구름의 학-사현 글로벌 공식 참고 사진."
+          },
+          "caption": {
+            "en": "Official Global reference artwork extracted from its named section. Complete original notice is accessible through the source link.",
+            "ko": "글로벌 공지의 명칭별 공식 참고 사진 영역입니다. 출처 링크에서 원본 공지 전체를 볼 수 있습니다."
+          },
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio"
         }
       ],
       "officialVideos": [],
@@ -24361,11 +24786,12 @@
         "ming he fu yun·si xian",
         "鸣鹤赴云·思弦",
         "Crane Ascending: Chordsong",
-        "명학부운·사현"
+        "명학부운·사현",
+        "구름의 학-사현"
       ],
       "namingNote": {
-        "en": "Official English name verified from the Global X announcement. Korean name remains a provisional CN reading; no official Korean name verified. CN and Global acquisition/schedules remain separate.",
-        "ko": "글로벌 공식 X 예고에서 영문 이름을 확인했습니다. 한국어 이름은 중국명의 임시 독음이며 한국어 공식명은 미확인입니다. 중국·글로벌 획득 조건과 일정을 구분합니다."
+        "en": "Official English/Korean names verified from the paired Global version 2.3 notices. Regional acquisition and schedules remain separate.",
+        "ko": "글로벌 2.3 버전 영문·한국어 공식 공지에서 이름을 확인했습니다. 서버별 획득 조건과 일정을 구분합니다."
       }
     },
     {
@@ -25971,9 +26397,9 @@
       "category": "accessory",
       "sourceId": "cn-20260909-new-appearance",
       "acquisitionServer": "CN",
-      "mediaServer": "CN",
-      "officialNameEn": null,
-      "officialNameKo": null,
+      "mediaServer": "Global",
+      "officialNameEn": "Ode to the Feline Muse",
+      "officialNameKo": "낙수의 고양이",
       "cnRelease": {
         "date": null,
         "precision": "unknown",
@@ -26015,6 +26441,34 @@
           "reusePermission": "unknown",
           "localCopy": null,
           "server": "CN"
+        },
+        {
+          "url": "https://r.res.easebar.com/pic/20261015/bb7e3cab-4c39-4a47-80a2-40d3183e9a8f.png",
+          "width": 924,
+          "height": 525,
+          "bytes": 16621455,
+          "kind": "official_appearance_reference",
+          "sourceId": "global-20261015-version23-en",
+          "server": "Global",
+          "sourceCrop": [
+            44,
+            10985,
+            968,
+            11510
+          ],
+          "visuallyInspected": true,
+          "inspectionNote": "2026-10-14 America/New_York: named EN/KO image sections visually inspected. This image is an explicitly recorded artwork extract from the long source notice; no artwork synthesized. Full notice retained at original URL.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/luo-shui-maofu-1-full.webp",
+          "alt": {
+            "en": "Ode to the Feline Muse official Global appearance reference.",
+            "ko": "낙수의 고양이 글로벌 공식 참고 사진."
+          },
+          "caption": {
+            "en": "Official Global reference artwork extracted from its named section. Complete original notice is accessible through the source link.",
+            "ko": "글로벌 공지의 명칭별 공식 참고 사진 영역입니다. 출처 링크에서 원본 공지 전체를 볼 수 있습니다."
+          },
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio"
         }
       ],
       "officialVideos": [],
@@ -26023,7 +26477,17 @@
         "status": "unknown",
         "officialName": null,
         "releaseDate": null
-      }
+      },
+      "namingNote": {
+        "en": "Official English/Korean names verified from the paired Global version 2.3 notices. Regional acquisition and schedules remain separate.",
+        "ko": "글로벌 2.3 버전 영문·한국어 공식 공지에서 이름을 확인했습니다. 서버별 획득 조건과 일정을 구분합니다."
+      },
+      "searchAliases": [
+        "洛水猫赋",
+        "luo shui maofu",
+        "Ode to the Feline Muse",
+        "낙수의 고양이"
+      ]
     },
     {
       "id": "yu-shan-song",
@@ -30546,8 +31010,8 @@
       "sourceId": "cn-819f0aca2216",
       "acquisitionServer": "CN",
       "mediaServer": "CN",
-      "officialNameEn": null,
-      "officialNameKo": null,
+      "officialNameEn": "Starfall Plains",
+      "officialNameKo": "별 쏟아지는 들녘",
       "cnRelease": {
         "date": null,
         "precision": "unknown",
@@ -30582,7 +31046,17 @@
         "officialName": null,
         "releaseDate": null
       },
-      "sourceEvidence": "「和鸣·玉振扬音」将开启「夹钟奏雅」赛季，3月27日版本更新后~6月26日04:59:59，使用长鸣玉兑换的【绕梁之音】进行和鸣，有概率获得外观套装【玉宇璇玑】、发型【星垂平野】和绝世奖励发型【长梦天星】，还有限定库存的【羽衣残缕图】、【梦染匣】和【袅袅之音·绑】。套装【玉宇璇玑】将同步开启「染色」、「裁造」功能。"
+      "sourceEvidence": "「和鸣·玉振扬音」将开启「夹钟奏雅」赛季，3月27日版本更新后~6月26日04:59:59，使用长鸣玉兑换的【绕梁之音】进行和鸣，有概率获得外观套装【玉宇璇玑】、发型【星垂平野】和绝世奖励发型【长梦天星】，还有限定库存的【羽衣残缕图】、【梦染匣】和【袅袅之音·绑】。套装【玉宇璇玑】将同步开启「染色」、「裁造」功能。",
+      "namingNote": {
+        "en": "Official English/Korean names verified from the paired Global version 2.3 notices. Regional acquisition and schedules remain separate.",
+        "ko": "글로벌 2.3 버전 영문·한국어 공식 공지에서 이름을 확인했습니다. 서버별 획득 조건과 일정을 구분합니다."
+      },
+      "searchAliases": [
+        "星垂平野",
+        "xing chui ping ye",
+        "Starfall Plains",
+        "별 쏟아지는 들녘"
+      ]
     },
     {
       "id": "pan-xin-suo",
@@ -50894,7 +51368,7 @@
       "acquisitionServer": "CN",
       "mediaServer": "Global",
       "officialNameEn": "Scarlet Whispers",
-      "officialNameKo": null,
+      "officialNameKo": "쓸쓸한 단풍",
       "cnRelease": {
         "date": "2026-09-24",
         "precision": "day",
@@ -51058,14 +51532,15 @@
         "releaseDate": null
       },
       "namingNote": {
-        "en": "Official English name verified from the Global X announcement. Korean name remains a provisional CN reading; no official Korean name verified. CN and Global acquisition/schedules remain separate.",
-        "ko": "글로벌 공식 X 예고에서 영문 이름을 확인했습니다. 한국어 이름은 중국명의 임시 독음이며 한국어 공식명은 미확인입니다. 중국·글로벌 획득 조건과 일정을 구분합니다."
+        "en": "Official English/Korean names verified from the paired Global version 2.3 notices. Regional acquisition and schedules remain separate.",
+        "ko": "글로벌 2.3 버전 영문·한국어 공식 공지에서 이름을 확인했습니다. 서버별 획득 조건과 일정을 구분합니다."
       },
       "searchAliases": [
         "Hong Ye Xiao Xiao",
         "홍엽소소",
         "红叶萧萧",
-        "Scarlet Whispers"
+        "Scarlet Whispers",
+        "쓸쓸한 단풍"
       ]
     },
     {
@@ -52802,6 +53277,168 @@
         "en": "Provisional reading of the CN identifier; official Global names and schedule are unknown.",
         "ko": "중국 원명의 임시 독음이며 글로벌 공식명과 일정은 미확인입니다."
       }
+    },
+    {
+      "id": "global-aureate-dominion",
+      "nameOriginal": "Aureate Dominion",
+      "romanization": "Aureate Dominion",
+      "category": "outfit",
+      "sourceId": "global-20261015-version23-en",
+      "acquisitionServer": "Global",
+      "mediaServer": "Global",
+      "cnRelease": {
+        "date": null,
+        "precision": "unknown",
+        "timezone": null,
+        "contextual": false,
+        "basis": "CN identity and schedule unverified."
+      },
+      "acquisition": {
+        "kind": "limited_draw",
+        "pricing": "draw",
+        "amount": null,
+        "regularAmount": null,
+        "currencyOriginal": "Sun-Raven Eye",
+        "location": {
+          "en": "Echoes from Afar: Fading Glory",
+          "ko": "이역의 울림: 신궁의 잔광",
+          "original": "Echoes from Afar: Fading Glory"
+        },
+        "conditions": {
+          "en": "Three sequential Sand, Gold and Radiance pools use differing Sun-Raven Eye quantities. Unlock all core rewards in each pool to open the next. First draw is free; limited Sun-Raven Eye exchange uses Echo Jade. Collecting the full outfit grants its victory cutscene and avatar. Draw quantities, odds and total guaranteed cost are unstated; unused event tokens are reclaimed at event end.",
+          "ko": "사·금·요의 3개 보상풀을 순서대로 진행하며 금오의 눈 소모량은 보상풀마다 다릅니다. 각 보상풀의 핵심 보상을 모두 모으면 다음 보상풀이 열립니다. 최초 소환은 무료이며 장명옥으로 금오의 눈을 한정 교환할 수 있습니다. 세트 완성 시 결선 연출·프로필을 지급합니다. 소모 수량·확률·총 확정 비용은 미표기이며 종료 후 미사용 금오의 눈은 회수됩니다."
+        },
+        "en": "Official Global announcement terms",
+        "ko": "글로벌 공식 예고의 획득 조건"
+      },
+      "global": {
+        "status": "unknown",
+        "releaseDate": null,
+        "officialName": null
+      },
+      "images": [
+        {
+          "url": "https://r.res.easebar.com/pic/20261015/bb7e3cab-4c39-4a47-80a2-40d3183e9a8f.png",
+          "width": 924,
+          "height": 858,
+          "bytes": 16621455,
+          "kind": "official_appearance_reference",
+          "sourceId": "global-20261015-version23-en",
+          "server": "Global",
+          "sourceCrop": [
+            44,
+            790,
+            968,
+            1648
+          ],
+          "visuallyInspected": true,
+          "inspectionNote": "2026-10-14 America/New_York: named EN/KO image sections visually inspected. This image is an explicitly recorded artwork extract from the long source notice; no artwork synthesized. Full notice retained at original URL.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/global-aureate-dominion-0-full.webp",
+          "alt": {
+            "en": "Aureate Dominion official Global appearance reference.",
+            "ko": "금사의 잔영 글로벌 공식 참고 사진."
+          },
+          "caption": {
+            "en": "Official Global named artwork extracted from the version 2.3 notice. Full paired artwork is retained in enlargement; the complete original notice is linked in sources.",
+            "ko": "글로벌 2.3 버전 공지의 명칭별 공식 사진 영역입니다. 확대에서 전체 남녀 사진 구도를 유지하며 출처 링크에서 공지 전체를 볼 수 있습니다."
+          },
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio"
+        }
+      ],
+      "officialVideos": [],
+      "mediaStatus": "verified",
+      "officialNameEn": "Aureate Dominion",
+      "officialNameKo": "금사의 잔영",
+      "namingNote": {
+        "en": "Official English/Korean names verified from the paired Global version 2.3 notices. Regional acquisition and schedules remain separate.",
+        "ko": "글로벌 2.3 버전 영문·한국어 공식 공지에서 이름을 확인했습니다. 서버별 획득 조건과 일정을 구분합니다."
+      },
+      "searchAliases": [
+        "Aureate Dominion",
+        "금사의 잔영"
+      ]
+    },
+    {
+      "id": "global-blazing-sands",
+      "nameOriginal": "Blazing Sands",
+      "romanization": "Blazing Sands",
+      "category": "hair",
+      "sourceId": "global-20261015-version23-en",
+      "acquisitionServer": "Global",
+      "mediaServer": "Global",
+      "cnRelease": {
+        "date": null,
+        "precision": "unknown",
+        "timezone": null,
+        "contextual": false,
+        "basis": "CN identity and schedule unverified."
+      },
+      "acquisition": {
+        "kind": "exchange_shop",
+        "pricing": "fixed",
+        "amount": 1,
+        "regularAmount": null,
+        "currencyOriginal": "Harmonic Core",
+        "location": {
+          "en": "Draw Shop",
+          "ko": "공명 상점",
+          "original": "Draw Shop"
+        },
+        "conditions": {
+          "en": "Limited 90-day hairstyle; dyeable, with bonus animated player avatar. This is the separate hair exchange, not the Aureate Dominion outfit price.",
+          "ko": "90일 한정 헤어이며 염색을 지원하고 움직이는 프로필을 지급합니다. 금사의 잔영 의상 가격과 구분되는 별도 헤어 교환입니다."
+        },
+        "en": "Official Global announcement terms",
+        "ko": "글로벌 공식 예고의 획득 조건"
+      },
+      "global": {
+        "status": "unknown",
+        "releaseDate": null,
+        "officialName": null
+      },
+      "images": [
+        {
+          "url": "https://r.res.easebar.com/pic/20261015/bb7e3cab-4c39-4a47-80a2-40d3183e9a8f.png",
+          "width": 924,
+          "height": 860,
+          "bytes": 16621455,
+          "kind": "official_appearance_reference",
+          "sourceId": "global-20261015-version23-en",
+          "server": "Global",
+          "sourceCrop": [
+            44,
+            3165,
+            968,
+            4025
+          ],
+          "visuallyInspected": true,
+          "inspectionNote": "2026-10-14 America/New_York: named EN/KO image sections visually inspected. This image is an explicitly recorded artwork extract from the long source notice; no artwork synthesized. Full notice retained at original URL.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/global-blazing-sands-0-full.webp",
+          "alt": {
+            "en": "Blazing Sands official Global appearance reference.",
+            "ko": "작열의 금사 글로벌 공식 참고 사진."
+          },
+          "caption": {
+            "en": "Official Global named artwork extracted from the version 2.3 notice. Full paired artwork is retained in enlargement; the complete original notice is linked in sources.",
+            "ko": "글로벌 2.3 버전 공지의 명칭별 공식 사진 영역입니다. 확대에서 전체 남녀 사진 구도를 유지하며 출처 링크에서 공지 전체를 볼 수 있습니다."
+          },
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio"
+        }
+      ],
+      "officialVideos": [],
+      "mediaStatus": "verified",
+      "officialNameEn": "Blazing Sands",
+      "officialNameKo": "작열의 금사",
+      "namingNote": {
+        "en": "Official English/Korean names verified from the paired Global version 2.3 notices. Regional acquisition and schedules remain separate.",
+        "ko": "글로벌 2.3 버전 영문·한국어 공식 공지에서 이름을 확인했습니다. 서버별 획득 조건과 일정을 구분합니다."
+      },
+      "searchAliases": [
+        "Blazing Sands",
+        "작열의 금사"
+      ]
     }
   ],
   "contextualOfficialVideos": [
