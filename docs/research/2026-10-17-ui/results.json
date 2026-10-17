@@ -407,5 +407,22 @@
       "url": "http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=c68c5847"
     }
   ],
-  "note": "Initial immediate time-element probes returned no zone while pages were settling. Final heading/region probes confirm five Global UTC+8 ends. One shared region label resolved to both CN and Global; the final probe reads both regions without merging server data."
+  "note": "Initial immediate time-element probes returned no zone while pages were settling. Final heading/region probes confirm five Global UTC+8 ends. One shared region label resolved to both CN and Global; the final probe reads both regions without merging server data.",
+  "finalMediaVerification": {
+    "heading": "현영·창해습월",
+    "overflow": false,
+    "photo": [
+      {
+        "height": 2225,
+        "loaded": true,
+        "src": "/media/xuan-ying-cang-hai-shi-yue-0-full.webp",
+        "width": 1130
+      }
+    ]
+  },
+  "freshPreviewRecheck": {
+    "heading": "그윽한 연꽃",
+    "utc8": true,
+    "logs": []
+  }
 }
