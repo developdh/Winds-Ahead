@@ -2,6 +2,29 @@
   "schemaVersion": 1,
   "entries": [
     {
+      "id": "october16-cn-appearances-20261017",
+      "date": "2026-10-17",
+      "kind": {
+        "en": "Official appearance maintenance",
+        "ko": "공식 외관 정보 보완"
+      },
+      "title": {
+        "en": "October 16 CN appearances and explicit Global deadline zones",
+        "ko": "중국 10월 16일 외관·글로벌 종료 시간대 보완"
+      },
+      "body": {
+        "en": "Added nine named CN appearances with costs, five exact deadlines and 19 inspected official references. Cat/goose companion accessories are priced separately. Five Global ends now carry the explicit UTC+8 evidence from the named appearance notice; unannounced dates and other unstated zones remain unknown.",
+        "ko": "중국 명칭별 외관 9종의 가격·정확한 종료 일정 5건·확인한 공식 사진 19장을 추가했습니다. 고양이·거위 동료 장식 가격은 구분합니다. 글로벌 종료 일정 5건은 개별 외관 공지의 UTC+8 근거를 연결했으며 미발표 일정·나머지 미표기 시간대는 미정으로 유지합니다."
+      },
+      "sourceIds": [
+        "cn-20261015-october16-appearances",
+        "cn-20261015-october16-followup",
+        "cn-20261016-update",
+        "global-20261015-appearance-detail-en",
+        "global-20261015-appearance-detail-ko"
+      ]
+    },
+    {
       "id": "version23-official-appearances-20261014",
       "date": "2026-10-14",
       "kind": {
