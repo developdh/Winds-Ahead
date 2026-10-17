@@ -30,6 +30,8 @@ This is part of completing each update, including updates from the existing cale
 
 ## Release notes
 
+- [0.3.10 — October 16 CN appearances and Global deadline zones](releases/0.3.10.md)
+
 - [0.3.9 — Version 2.3 Global appearances and Korean names](releases/0.3.9.md)
 
 - [0.3.8 — October 15 Global appearances and official timezone details](releases/0.3.8.md)

@@ -4,7 +4,7 @@
 
 [한국어](../ko/mvp-status.md) · [README](../../README.md) · [Latest release](releasing.md)
 
-Updated October 14, 2026. [Winds Ahead](https://windsahead.com/en) and its source repository are public. The initial owner-private MVP was superseded by the [September 13 public release](public-launch.md); historical milestone counts and checks remain in their dated reports.
+Updated October 17, 2026. [Winds Ahead](https://windsahead.com/en) and its source repository are public. The initial owner-private MVP was superseded by the [September 13 public release](public-launch.md); historical milestone counts and checks remain in their dated reports.
 
 ## Implemented experience
 
@@ -15,7 +15,7 @@ Updated October 14, 2026. [Winds Ahead](https://windsahead.com/en) and its sourc
 
 ## Current content snapshot
 
-725 cosmetic records; 827 static image references across 475 records; 250 records still lack an inspected photo. There are 667 regional records, 231 Global calendar events, 42 structured deadlines, 24 audit-only forecast revisions including eight withdrawals and 395 wiki references (383 detailed articles). These are repository counts, not certified game-wide coverage. Unresolved regional matches may remain separate.
+734 cosmetic records; 846 static image references across 484 records; 250 records still lack an inspected photo. There are 676 regional records, 231 Global calendar events, 47 structured deadlines, 24 audit-only forecast revisions including eight withdrawals and 395 wiki references (383 detailed articles). These are repository counts, not certified game-wide coverage. Unresolved regional matches may remain separate.
 
 ## Canonical files
 
@@ -43,7 +43,7 @@ Use a reviewable branch and English PR with paired English/Korean documentation.
 
 ## Verification limits
 
-Current update checks belong in [v0.3.9 notes](releases/0.3.9.md); earlier test counts are historical. Physical iOS/Android, Firefox/WebKit, 200% text enlargement, throttled-network performance and field Core Web Vitals still require separate coverage. The 200 KB initial JavaScript target remains unverified. The public issue tracker accepts corrections/removal requests; third-party artwork remains outside the code license with reuse permission unknown.
+Current update checks belong in [v0.3.10 notes](releases/0.3.10.md); earlier test counts are historical. Physical iOS/Android, Firefox/WebKit, 200% text enlargement, throttled-network performance and field Core Web Vitals still require separate coverage. The 200 KB initial JavaScript target remains unverified. The public issue tracker accepts corrections/removal requests; third-party artwork remains outside the code license with reuse permission unknown.
 
 ## Magazine · October 1, 2026
 

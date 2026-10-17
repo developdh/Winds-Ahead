@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "verifiedAt": "2026-10-14",
+  "verifiedAt": "2026-10-17",
   "scope": "Cross-server archive from individually reviewed official announcements; not a certified complete game inventory.",
   "sources": [
     {
@@ -4167,6 +4167,124 @@
         "https://r.res.easebar.com/pic/20261015/92040cf9-d3c5-414f-84a2-e12f3972b90c.png"
       ],
       "verificationNote": "Page already accessible on October 14 America/New_York; displayed publication date is October 15. Both language versions of the appearance poster and Rhythmic Echo section were visually inspected in original-resolution segments. EN poster times are 04:59:59; KO poster times 05:59:59. Neither poster explicitly labels a timezone. The separate HTML maintenance timezone does not establish every item time. All listings remain announcements; no in-game check."
+    },
+    {
+      "id": "cn-20261015-october16-appearances",
+      "url": "https://www.yysls.cn/news/official/20261016/37780_1316801.html",
+      "titleOriginal": "蟾光凝羽，飞渡晶宫丨和鸣发型配饰套组上新！",
+      "displayedPublicationDate": "2026-10-15",
+      "server": "CN",
+      "imageUrls": [
+        "https://nie.res.netease.com/r/pic/20261016/777e5617-1e54-4655-8638-af4bf10709b6.png",
+        "https://nie.res.netease.com/r/pic/20261016/fd386014-6e42-4380-9e37-5d0a601ae972.jpg",
+        "https://nie.res.netease.com/r/pic/20261016/ea52d5c8-6a51-446d-81f8-0875bf5f5ecf.jpg",
+        "https://nie.res.netease.com/r/pic/20261016/5cc13e0d-4b87-4049-a899-3904c53a11ae.jpg",
+        "https://nie.res.netease.com/r/pic/20261016/a75928fc-5239-4a85-aebf-a914c9de1ea1.jpg",
+        "https://nie.res.netease.com/r/pic/20261016/fde21d29-9a2f-42ea-ad1d-eb18b21e4d4e.jpg",
+        "https://nie.res.netease.com/r/pic/20261016/9af04431-6bdc-42ff-bafe-79786cb241f9.jpg",
+        "https://nie.res.netease.com/r/pic/20261016/983ffc91-5467-4db2-bc2e-0d0c861d730c.png",
+        "https://nie.res.netease.com/r/pic/20261016/632c2a6b-5d8d-4350-8b34-7a2743d99214.png",
+        "https://nie.res.netease.com/r/pic/20261016/7cffd891-2f7e-4896-8bb7-5d02a28bd60e.png",
+        "https://nie.res.netease.com/r/pic/20261016/f1908e8e-7583-4fb2-ade7-034f15bc673f.png",
+        "https://nie.res.netease.com/r/pic/20261016/8e2bf472-955e-4ba1-a3eb-fffa560acd0d.png",
+        "https://nie.res.netease.com/r/pic/20261016/2788b0ea-063b-4323-a88a-8761f6cf890b.png",
+        "https://nie.res.netease.com/r/pic/20261016/21dc4561-7d1b-4c1a-8410-f5cdff6aa068.jpg",
+        "https://nie.res.netease.com/r/pic/20261016/45665069-7e58-441f-a1fd-da8ed7a94e18.png",
+        "https://nie.res.netease.com/r/pic/20261016/5e1e1def-d290-4cbf-9a50-654146e3154e.png",
+        "https://nie.res.netease.com/r/pic/20261016/352f6883-e6b9-47c5-86e2-912642803137.png",
+        "https://nie.res.netease.com/r/pic/20261016/f69152b3-e10f-4074-80d8-118afd8f1d02.png",
+        "https://nie.res.netease.com/r/pic/20261016/afaf3d47-714f-4138-81c5-2e1d34b5f52b.png",
+        "https://nie.res.netease.com/r/pic/20261016/05dabf48-07b7-4be3-bae7-b1a7b9fa6e1f.png",
+        "https://nie.res.netease.com/r/pic/20261016/0593c3cb-7218-4439-b096-71c4dd930fe6.png",
+        "https://nie.res.netease.com/r/pic/20261016/1432b873-614b-42d2-abd6-e72650d5d9a5.png",
+        "https://nie.res.netease.com/r/pic/20261016/20bb882b-5947-4364-b974-9c0c46d46889.png",
+        "https://nie.res.netease.com/r/pic/20261016/54d16dd9-a4ee-4d39-84a7-236fae2dda99.png",
+        "https://nie.res.netease.com/r/pic/20261016/e7dac135-fdd5-43fd-8f70-69f159ef0ef6.png",
+        "https://nie.res.netease.com/r/pic/20261016/cc64545f-98a7-4ff7-9cfe-9bb6e3a16f24.gif",
+        "https://nie.res.netease.com/r/pic/20261016/2ec79898-3189-468c-8ce2-e65351c9acbb.gif",
+        "https://nie.res.netease.com/r/pic/20261016/b9839fd8-0110-4ec1-bd0b-f0c7be162244.jpg",
+        "https://nie.res.netease.com/r/pic/20261016/22023b62-fdff-4670-ac93-dd43f05bb98e.png",
+        "https://nie.res.netease.com/r/pic/20261016/9345e5b3-1470-483b-a304-ea1ed2f72259.png",
+        "https://nie.res.netease.com/r/pic/20261016/644996bf-42ee-413d-a770-7c43bc01286f.png"
+      ],
+      "verificationNote": "Displayed publication date is October 15 although URL directory says October 16. Named article sections and selected individual artwork inspected; development previews do not establish current in-game availability.",
+      "publisher": "NetEase / Where Winds Meet official website",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-10-17"
+    },
+    {
+      "id": "cn-20261015-october16-followup",
+      "url": "https://www.yysls.cn/news/official/20261016/37780_1316876.html",
+      "titleOriginal": "10月23日丨入城必读，未央城“发财”指北",
+      "displayedPublicationDate": "2026-10-15",
+      "server": "CN",
+      "imageUrls": [
+        "https://nie.res.netease.com/r/pic/20261016/dfb6b307-f781-4983-9766-1ecfe973b16a.jpg",
+        "https://nie.res.netease.com/r/pic/20261016/fe28e41f-9780-492a-bf87-9c702a11effc.png",
+        "https://nie.res.netease.com/r/pic/20261016/f17600fd-7337-4ec7-8c4c-2a5e9a32828c.gif",
+        "https://nie.res.netease.com/r/pic/20261016/7a357f84-8196-4dac-994e-843995634fdc.gif",
+        "https://nie.res.netease.com/r/pic/20261016/2c5f5523-39a7-4510-9c9c-bd839e8b8b0e.gif",
+        "https://nie.res.netease.com/r/pic/20261016/d5f148a9-06ad-4d16-9010-1ac3b1babe43.jpg",
+        "https://nie.res.netease.com/r/pic/20261016/b0d25abc-c6e7-4141-92e7-2b2b1f8c9179.jpg",
+        "https://nie.res.netease.com/r/pic/20261016/09bd9992-20f2-4de0-b362-a1915dbd89f9.jpg",
+        "https://nie.res.netease.com/r/pic/20261016/be86627b-d307-42fe-97fb-fdc31f7a4ccc.gif",
+        "https://nie.res.netease.com/r/pic/20261016/89ab087d-e9b1-4597-b2c4-5ad06f7144da.jpg",
+        "https://nie.res.netease.com/r/pic/20261016/242bbd33-fb89-447b-8da4-d0d861d48a7d.jpg",
+        "https://nie.res.netease.com/r/pic/20261016/0350cfdc-3b19-4407-8c92-6dd29ab91f85.jpg",
+        "https://nie.res.netease.com/r/pic/20261016/0410b700-c4ea-4da5-a8db-71c469c55c69.jpg",
+        "https://nie.res.netease.com/r/pic/20261016/22decf2b-a8b0-4e0f-80d7-f15e9dc06e59.jpg",
+        "https://nie.res.netease.com/r/pic/20261016/4519098d-e3b9-4e09-86d4-9b6f8355b92d.png"
+      ],
+      "verificationNote": "Read the October 16 appearance addendum. Cat/goose Dong Li Ke are separately priced. Region opening date is not used as a cosmetic date.",
+      "publisher": "NetEase / Where Winds Meet official website",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-10-17"
+    },
+    {
+      "id": "cn-20261016-update",
+      "url": "https://www.yysls.cn/news/update/20261016/40412_1316848.html",
+      "titleOriginal": "10月16日2.8.5版本「平澜起风波」更新公告",
+      "displayedPublicationDate": "2026-10-16",
+      "server": "CN",
+      "imageUrls": [
+        "https://nie.res.netease.com/r/pic/20261016/e31071d3-aae2-4ed3-8f25-747d29bf95e6.jpg"
+      ],
+      "verificationNote": "Read original-resolution event/appearance sections through the companion accessories. Exact second-precision listing/event ends retained. No timezone printed; no in-game check. Gameplay repair remainder not exhaustively audited.",
+      "publisher": "NetEase / Where Winds Meet official website",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-10-17"
+    },
+    {
+      "id": "global-20261015-appearance-detail-en",
+      "url": "https://www.wherewindsmeetgame.com/news/official/1015appearance.html",
+      "titleOriginal": "[Friends from afar] Version 2.3 New Appearances Overview - October 15&18",
+      "displayedPublicationDate": "2026-10-15",
+      "server": "Global",
+      "verificationNote": "Named HTML explicitly states UTC+8 for Aureate Dominion, Blazing Sands, Veil of Lotus, Scarlet Whispers and Path of Youth discount ends. Eastwind Soarer timezone remains unstated. This does not establish all poster timezones or current availability.",
+      "publisher": "NetEase / Where Winds Meet official website",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-10-17"
+    },
+    {
+      "id": "global-20261015-appearance-detail-ko",
+      "url": "https://www.wherewindsmeetgame.com/kr/news/official/1015appearance.html",
+      "titleOriginal": "[청주에 찾아온 벗] 10월15-18일 2.3 버전 신규 외관 목록",
+      "displayedPublicationDate": "2026-10-15",
+      "server": "Global",
+      "verificationNote": "Paired names agree with previous intake; local clock values are one hour later than EN. No timezone printed in KO HTML; retain as a separate observation.",
+      "publisher": "NetEase / Where Winds Meet official website",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-10-17"
     }
   ],
   "mediaRights": {
@@ -53438,6 +53556,913 @@
       "searchAliases": [
         "Blazing Sands",
         "작열의 금사"
+      ]
+    },
+    {
+      "id": "jiang-han-qiu-ying",
+      "nameOriginal": "江涵秋影",
+      "romanization": "Jiang Han Qiu Ying",
+      "category": "outfit",
+      "sourceId": "cn-20261015-october16-appearances",
+      "acquisitionServer": "CN",
+      "mediaServer": "CN",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": "2026-10-16",
+        "precision": "day",
+        "timezone": null,
+        "contextual": false,
+        "basis": "Official CN named appearance announcement and October 16 event/appearance poster; no in-game verification."
+      },
+      "acquisition": {
+        "kind": "shop",
+        "pricing": "fixed",
+        "amount": 1280,
+        "regularAmount": null,
+        "currencyOriginal": "长鸣珠",
+        "location": {
+          "en": "Shop",
+          "ko": "상점",
+          "original": "商店"
+        },
+        "conditions": {
+          "en": "CN: announced for October 16, 2026 at 00:00:00; timezone unstated. Current in-game availability not checked. Limited Double Ninth commemorative outfit; separate top/bottom and dyeing. Includes earrings, shoulder and neck accessories and a player avatar. Sale ends November 15, 2026 at 04:59:59, timezone unstated.",
+          "ko": "중국: 2026년 10월 16일 00:00:00 출시 예고이며 시간대는 미표기입니다. 현재 게임 내 판매 여부는 미확인입니다. 중양절 기념 의상이며 상하의 분리·염색을 지원합니다. 귀걸이·어깨·목 장식과 주인공 프로필을 포함합니다. 판매는 2026년 11월 15일 04:59:59 종료이며 시간대는 미표기입니다."
+        },
+        "en": "Official CN announcement terms",
+        "ko": "중국 공식 예고의 획득 조건"
+      },
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20261016/777e5617-1e54-4655-8638-af4bf10709b6.png",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 4639446,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20261015-october16-appearances",
+          "reusePermission": "unknown",
+          "localCopy": "/media/jiang-han-qiu-ying-0-full.webp",
+          "server": "CN",
+          "inspectionNote": "Named official CN article section and artwork visually inspected on October 17, 2026 America/New_York. Development preview, not current in-game verification. Full artwork retained; VFX is an explicitly recorded patch-poster extract.",
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio",
+          "alt": {
+            "en": "Jiang Han Qiu Ying official CN outfit reference, view 1.",
+            "ko": "강함추영 중국 공식 참고 사진 1."
+          },
+          "caption": {
+            "en": "Official CN development preview; final game appearance may differ. Original source is linked; reuse permission unknown.",
+            "ko": "중국 공식 개발 중 미리보기이며 최종 게임 외형과 다를 수 있습니다. 원본 출처를 연결하며 재사용 허가는 미확인입니다."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20261016/fd386014-6e42-4380-9e37-5d0a601ae972.jpg",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 4261956,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20261015-october16-appearances",
+          "reusePermission": "unknown",
+          "localCopy": "/media/jiang-han-qiu-ying-1-full.webp",
+          "server": "CN",
+          "inspectionNote": "Named official CN article section and artwork visually inspected on October 17, 2026 America/New_York. Development preview, not current in-game verification. Full artwork retained; VFX is an explicitly recorded patch-poster extract.",
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio",
+          "alt": {
+            "en": "Jiang Han Qiu Ying official CN outfit reference, view 2.",
+            "ko": "강함추영 중국 공식 참고 사진 2."
+          },
+          "caption": {
+            "en": "Official CN development preview; final game appearance may differ. Original source is linked; reuse permission unknown.",
+            "ko": "중국 공식 개발 중 미리보기이며 최종 게임 외형과 다를 수 있습니다. 원본 출처를 연결하며 재사용 허가는 미확인입니다."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20261016/ea52d5c8-6a51-446d-81f8-0875bf5f5ecf.jpg",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 4075392,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20261015-october16-appearances",
+          "reusePermission": "unknown",
+          "localCopy": "/media/jiang-han-qiu-ying-2-full.webp",
+          "server": "CN",
+          "inspectionNote": "Named official CN article section and artwork visually inspected on October 17, 2026 America/New_York. Development preview, not current in-game verification. Full artwork retained; VFX is an explicitly recorded patch-poster extract.",
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio",
+          "alt": {
+            "en": "Jiang Han Qiu Ying official CN outfit reference, view 3.",
+            "ko": "강함추영 중국 공식 참고 사진 3."
+          },
+          "caption": {
+            "en": "Official CN development preview; final game appearance may differ. Original source is linked; reuse permission unknown.",
+            "ko": "중국 공식 개발 중 미리보기이며 최종 게임 외형과 다를 수 있습니다. 원본 출처를 연결하며 재사용 허가는 미확인입니다."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20261016/a75928fc-5239-4a85-aebf-a914c9de1ea1.jpg",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 4007883,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20261015-october16-appearances",
+          "reusePermission": "unknown",
+          "localCopy": "/media/jiang-han-qiu-ying-3-full.webp",
+          "server": "CN",
+          "inspectionNote": "Named official CN article section and artwork visually inspected on October 17, 2026 America/New_York. Development preview, not current in-game verification. Full artwork retained; VFX is an explicitly recorded patch-poster extract.",
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio",
+          "alt": {
+            "en": "Jiang Han Qiu Ying official CN outfit reference, view 4.",
+            "ko": "강함추영 중국 공식 참고 사진 4."
+          },
+          "caption": {
+            "en": "Official CN development preview; final game appearance may differ. Original source is linked; reuse permission unknown.",
+            "ko": "중국 공식 개발 중 미리보기이며 최종 게임 외형과 다를 수 있습니다. 원본 출처를 연결하며 재사용 허가는 미확인입니다."
+          }
+        }
+      ],
+      "officialVideos": [],
+      "mediaStatus": "verified",
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "namingNote": {
+        "en": "Provisional reading of the CN identifier; official Global names and schedule are unknown.",
+        "ko": "중국 원명의 임시 독음이며 글로벌 공식명·일정은 미확인입니다."
+      },
+      "searchAliases": [
+        "江涵秋影",
+        "Jiang Han Qiu Ying"
+      ]
+    },
+    {
+      "id": "yao-kong-pian-ying",
+      "nameOriginal": "瑶空翩影",
+      "romanization": "Yao Kong Pian Ying",
+      "category": "hair",
+      "sourceId": "cn-20261015-october16-appearances",
+      "acquisitionServer": "CN",
+      "mediaServer": "CN",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": "2026-10-16",
+        "precision": "day",
+        "timezone": null,
+        "contextual": false,
+        "basis": "Official CN named appearance announcement and October 16 event/appearance poster; no in-game verification."
+      },
+      "acquisition": {
+        "kind": "exchange_shop",
+        "pricing": "fixed",
+        "amount": 2,
+        "regularAmount": null,
+        "currencyOriginal": "八音窍",
+        "location": {
+          "en": "Resonance Shop",
+          "ko": "공명 상점",
+          "original": "和鸣商店"
+        },
+        "conditions": {
+          "en": "CN: announced for October 16, 2026 at 00:00:00; timezone unstated. Current in-game availability not checked. 129-day hair/accessory bundle; multi-region hair dyeing. Includes effect accessory, hat, hair ornament and animated player avatar. Exact exchange end in the patch poster: February 22, 2027 at 04:59:59; timezone unstated. Pictured outfit is not listed as included.",
+          "ko": "중국: 2026년 10월 16일 00:00:00 출시 예고이며 시간대는 미표기입니다. 현재 게임 내 판매 여부는 미확인입니다. 129일 한정 헤어·장신구 묶음이며 구역별 헤어 염색을 지원합니다. 이펙트 장신구·모자·발식·움직이는 프로필을 포함합니다. 업데이트 이미지의 정확한 교환 종료는 2027년 2월 22일 04:59:59이며 시간대는 미표기입니다. 사진 속 의상은 구성으로 명시되지 않았습니다."
+        },
+        "en": "Official CN announcement terms",
+        "ko": "중국 공식 예고의 획득 조건"
+      },
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20261016/7cffd891-2f7e-4896-8bb7-5d02a28bd60e.png",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 4364241,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20261015-october16-appearances",
+          "reusePermission": "unknown",
+          "localCopy": "/media/yao-kong-pian-ying-0-full.webp",
+          "server": "CN",
+          "inspectionNote": "Named official CN article section and artwork visually inspected on October 17, 2026 America/New_York. Development preview, not current in-game verification. Full artwork retained; VFX is an explicitly recorded patch-poster extract.",
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio",
+          "alt": {
+            "en": "Yao Kong Pian Ying official CN hair/accessory bundle reference, view 1.",
+            "ko": "요공편영 중국 공식 참고 사진 1."
+          },
+          "caption": {
+            "en": "Official CN development preview; final game appearance may differ. Original source is linked; reuse permission unknown.",
+            "ko": "중국 공식 개발 중 미리보기이며 최종 게임 외형과 다를 수 있습니다. 원본 출처를 연결하며 재사용 허가는 미확인입니다."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20261016/f1908e8e-7583-4fb2-ade7-034f15bc673f.png",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 3506560,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20261015-october16-appearances",
+          "reusePermission": "unknown",
+          "localCopy": "/media/yao-kong-pian-ying-1-full.webp",
+          "server": "CN",
+          "inspectionNote": "Named official CN article section and artwork visually inspected on October 17, 2026 America/New_York. Development preview, not current in-game verification. Full artwork retained; VFX is an explicitly recorded patch-poster extract.",
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio",
+          "alt": {
+            "en": "Yao Kong Pian Ying official CN hair/accessory bundle reference, view 2.",
+            "ko": "요공편영 중국 공식 참고 사진 2."
+          },
+          "caption": {
+            "en": "Official CN development preview; final game appearance may differ. Original source is linked; reuse permission unknown.",
+            "ko": "중국 공식 개발 중 미리보기이며 최종 게임 외형과 다를 수 있습니다. 원본 출처를 연결하며 재사용 허가는 미확인입니다."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20261016/8e2bf472-955e-4ba1-a3eb-fffa560acd0d.png",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 3775842,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20261015-october16-appearances",
+          "reusePermission": "unknown",
+          "localCopy": "/media/yao-kong-pian-ying-2-full.webp",
+          "server": "CN",
+          "inspectionNote": "Named official CN article section and artwork visually inspected on October 17, 2026 America/New_York. Development preview, not current in-game verification. Full artwork retained; VFX is an explicitly recorded patch-poster extract.",
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio",
+          "alt": {
+            "en": "Yao Kong Pian Ying official CN hair/accessory bundle reference, view 3.",
+            "ko": "요공편영 중국 공식 참고 사진 3."
+          },
+          "caption": {
+            "en": "Official CN development preview; final game appearance may differ. Original source is linked; reuse permission unknown.",
+            "ko": "중국 공식 개발 중 미리보기이며 최종 게임 외형과 다를 수 있습니다. 원본 출처를 연결하며 재사용 허가는 미확인입니다."
+          }
+        }
+      ],
+      "officialVideos": [],
+      "mediaStatus": "verified",
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "namingNote": {
+        "en": "Provisional reading of the CN identifier; official Global names and schedule are unknown.",
+        "ko": "중국 원명의 임시 독음이며 글로벌 공식명·일정은 미확인입니다."
+      },
+      "searchAliases": [
+        "瑶空翩影",
+        "Yao Kong Pian Ying"
+      ]
+    },
+    {
+      "id": "zhu-feng-ta-ge",
+      "nameOriginal": "竹风踏歌",
+      "romanization": "Zhu Feng Ta Ge",
+      "category": "accessory",
+      "sourceId": "cn-20261015-october16-appearances",
+      "acquisitionServer": "CN",
+      "mediaServer": "CN",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": "2026-10-16",
+        "precision": "day",
+        "timezone": null,
+        "contextual": false,
+        "basis": "Official CN named appearance announcement and October 16 event/appearance poster; no in-game verification."
+      },
+      "acquisition": {
+        "kind": "limited_draw",
+        "pricing": "draw",
+        "amount": null,
+        "regularAmount": null,
+        "currencyOriginal": "清麾节",
+        "location": {
+          "en": "Lü Lü Qiang Ming → Wan Xiang He Qin",
+          "ko": "율려장명 → 만향화금",
+          "original": "律吕锵鸣-万响和琴"
+        },
+        "conditions": {
+          "en": "Qian Ji back accessory in the CN event: October 16 05:00:00 to November 9, 2026 04:59:59, timezone unstated. Eight instrument layers, six rewards each. Each draw gives one random current-layer reward and one random-layer reward without duplicates. Token requirement increases by layer; exact costs/odds and total cost are unstated. Supports 千机万和 attachment of compatible owned accessories; pictured attached ornaments are not all guaranteed bundle contents.",
+          "ko": "중국 이벤트의 천기 등 장신구입니다. 2026년 10월 16일 05:00:00~11월 9일 04:59:59이며 시간대는 미표기입니다. 악기 8개 층마다 보상 6종이 있고 매회 현재 층·무작위 층에서 각각 보상 1개를 중복 없이 받습니다. 층이 높아질수록 토큰 소모가 늘지만 정확한 비용·확률·총액은 미표기입니다. 千机万和 기능으로 보유한 호환 장식을 추가할 수 있으며 사진에 부착된 모든 장식이 묶음 구성이라는 뜻은 아닙니다."
+        },
+        "en": "Official CN event draw terms",
+        "ko": "중국 공식 이벤트 추첨 조건"
+      },
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20261016/45665069-7e58-441f-a1fd-da8ed7a94e18.png",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 3337608,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20261015-october16-appearances",
+          "reusePermission": "unknown",
+          "localCopy": "/media/zhu-feng-ta-ge-0-full.webp",
+          "server": "CN",
+          "inspectionNote": "Named official CN article section and artwork visually inspected on October 17, 2026 America/New_York. Development preview, not current in-game verification. Full artwork retained; VFX is an explicitly recorded patch-poster extract.",
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio",
+          "alt": {
+            "en": "Zhu Feng Ta Ge official CN accessory reference, view 1.",
+            "ko": "죽풍답가 중국 공식 참고 사진 1."
+          },
+          "caption": {
+            "en": "Official CN development preview; final game appearance may differ. Original source is linked; reuse permission unknown.",
+            "ko": "중국 공식 개발 중 미리보기이며 최종 게임 외형과 다를 수 있습니다. 원본 출처를 연결하며 재사용 허가는 미확인입니다."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20261016/5e1e1def-d290-4cbf-9a50-654146e3154e.png",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 3194972,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20261015-october16-appearances",
+          "reusePermission": "unknown",
+          "localCopy": "/media/zhu-feng-ta-ge-1-full.webp",
+          "server": "CN",
+          "inspectionNote": "Named official CN article section and artwork visually inspected on October 17, 2026 America/New_York. Development preview, not current in-game verification. Full artwork retained; VFX is an explicitly recorded patch-poster extract.",
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio",
+          "alt": {
+            "en": "Zhu Feng Ta Ge official CN accessory reference, view 2.",
+            "ko": "죽풍답가 중국 공식 참고 사진 2."
+          },
+          "caption": {
+            "en": "Official CN development preview; final game appearance may differ. Original source is linked; reuse permission unknown.",
+            "ko": "중국 공식 개발 중 미리보기이며 최종 게임 외형과 다를 수 있습니다. 원본 출처를 연결하며 재사용 허가는 미확인입니다."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20261016/352f6883-e6b9-47c5-86e2-912642803137.png",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 3041910,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20261015-october16-appearances",
+          "reusePermission": "unknown",
+          "localCopy": "/media/zhu-feng-ta-ge-2-full.webp",
+          "server": "CN",
+          "inspectionNote": "Named official CN article section and artwork visually inspected on October 17, 2026 America/New_York. Development preview, not current in-game verification. Full artwork retained; VFX is an explicitly recorded patch-poster extract.",
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio",
+          "alt": {
+            "en": "Zhu Feng Ta Ge official CN accessory reference, view 3.",
+            "ko": "죽풍답가 중국 공식 참고 사진 3."
+          },
+          "caption": {
+            "en": "Official CN development preview; final game appearance may differ. Original source is linked; reuse permission unknown.",
+            "ko": "중국 공식 개발 중 미리보기이며 최종 게임 외형과 다를 수 있습니다. 원본 출처를 연결하며 재사용 허가는 미확인입니다."
+          }
+        }
+      ],
+      "officialVideos": [],
+      "mediaStatus": "verified",
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "namingNote": {
+        "en": "Provisional reading of the CN identifier; official Global names and schedule are unknown.",
+        "ko": "중국 원명의 임시 독음이며 글로벌 공식명·일정은 미확인입니다."
+      },
+      "searchAliases": [
+        "竹风踏歌",
+        "Zhu Feng Ta Ge"
+      ]
+    },
+    {
+      "id": "xuan-ying-cang-hai-shi-yue",
+      "nameOriginal": "玄瑛·沧海拾月",
+      "romanization": "Xuan Ying · Cang Hai Shi Yue",
+      "category": "weapon_skin",
+      "sourceId": "cn-20261015-october16-appearances",
+      "acquisitionServer": "CN",
+      "mediaServer": "CN",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": "2026-10-16",
+        "precision": "day",
+        "timezone": null,
+        "contextual": false,
+        "basis": "Official CN named appearance announcement and October 16 event/appearance poster; no in-game verification."
+      },
+      "acquisition": {
+        "kind": "exchange_shop",
+        "pricing": "fixed",
+        "amount": 2,
+        "regularAmount": 3,
+        "currencyOriginal": "音玉",
+        "location": {
+          "en": "Resonance → Sound Shop",
+          "ko": "공명 → 문음 상점",
+          "original": "和鸣-闻音商店"
+        },
+        "conditions": {
+          "en": "CN: announced for October 16, 2026 at 00:00:00; timezone unstated. Current in-game availability not checked. Mo Dao weapon skin, sold separately from the umbrella. Reference regular price: 3 Sound Jades; limited listing/discount ends December 14, 2026 at 04:59:59, timezone unstated. No availability after that end is established.",
+          "ko": "중국: 2026년 10월 16일 00:00:00 출시 예고이며 시간대는 미표기입니다. 현재 게임 내 판매 여부는 미확인입니다. 맥도 무기 외관이며 우산과 별도 판매합니다. 기준 정가는 음옥 3개이고 한정 판매·할인은 2026년 12월 14일 04:59:59 종료이며 시간대는 미표기입니다. 종료 이후 판매 여부는 미확인입니다."
+        },
+        "en": "Official CN announcement terms",
+        "ko": "중국 공식 예고의 획득 조건"
+      },
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20261016/1432b873-614b-42d2-abd6-e72650d5d9a5.png",
+          "width": 1920,
+          "height": 1080,
+          "bytes": 2987404,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20261015-october16-appearances",
+          "reusePermission": "unknown",
+          "localCopy": "/media/xuan-ying-cang-hai-shi-yue-0-full.webp",
+          "server": "CN",
+          "inspectionNote": "Named official CN article section and artwork visually inspected on October 17, 2026 America/New_York. Development preview, not current in-game verification. Full artwork retained; VFX is an explicitly recorded patch-poster extract.",
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio",
+          "alt": {
+            "en": "Xuan Ying · Cang Hai Shi Yue official CN weapon skin reference, view 1.",
+            "ko": "현영·창해습월 중국 공식 참고 사진 1."
+          },
+          "caption": {
+            "en": "Official CN development preview; final game appearance may differ. Original source is linked; reuse permission unknown.",
+            "ko": "중국 공식 개발 중 미리보기이며 최종 게임 외형과 다를 수 있습니다. 원본 출처를 연결하며 재사용 허가는 미확인입니다."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20261016/20bb882b-5947-4364-b974-9c0c46d46889.png",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 3489658,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20261015-october16-appearances",
+          "reusePermission": "unknown",
+          "localCopy": "/media/xuan-ying-cang-hai-shi-yue-1-full.webp",
+          "server": "CN",
+          "inspectionNote": "Named official CN article section and artwork visually inspected on October 17, 2026 America/New_York. Development preview, not current in-game verification. Full artwork retained; VFX is an explicitly recorded patch-poster extract.",
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio",
+          "alt": {
+            "en": "Xuan Ying · Cang Hai Shi Yue official CN weapon skin reference, view 2.",
+            "ko": "현영·창해습월 중국 공식 참고 사진 2."
+          },
+          "caption": {
+            "en": "Official CN development preview; final game appearance may differ. Original source is linked; reuse permission unknown.",
+            "ko": "중국 공식 개발 중 미리보기이며 최종 게임 외형과 다를 수 있습니다. 원본 출처를 연결하며 재사용 허가는 미확인입니다."
+          }
+        }
+      ],
+      "officialVideos": [],
+      "mediaStatus": "verified",
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "namingNote": {
+        "en": "Provisional reading of the CN identifier; official Global names and schedule are unknown.",
+        "ko": "중국 원명의 임시 독음이며 글로벌 공식명·일정은 미확인입니다."
+      },
+      "searchAliases": [
+        "玄瑛·沧海拾月",
+        "Xuan Ying · Cang Hai Shi Yue"
+      ]
+    },
+    {
+      "id": "xuan-ying-luo-fu-chun-hua",
+      "nameOriginal": "玄瑛·罗浮春华",
+      "romanization": "Xuan Ying · Luo Fu Chun Hua",
+      "category": "weapon_skin",
+      "sourceId": "cn-20261015-october16-appearances",
+      "acquisitionServer": "CN",
+      "mediaServer": "CN",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": "2026-10-16",
+        "precision": "day",
+        "timezone": null,
+        "contextual": false,
+        "basis": "Official CN named appearance announcement and October 16 event/appearance poster; no in-game verification."
+      },
+      "acquisition": {
+        "kind": "exchange_shop",
+        "pricing": "fixed",
+        "amount": 2,
+        "regularAmount": 3,
+        "currencyOriginal": "音玉",
+        "location": {
+          "en": "Resonance → Sound Shop",
+          "ko": "공명 → 문음 상점",
+          "original": "和鸣-闻音商店"
+        },
+        "conditions": {
+          "en": "CN: announced for October 16, 2026 at 00:00:00; timezone unstated. Current in-game availability not checked. Umbrella weapon skin, sold separately from the Mo Dao. Reference regular price: 3 Sound Jades; limited listing/discount ends December 14, 2026 at 04:59:59, timezone unstated. No availability after that end is established.",
+          "ko": "중국: 2026년 10월 16일 00:00:00 출시 예고이며 시간대는 미표기입니다. 현재 게임 내 판매 여부는 미확인입니다. 우산 무기 외관이며 맥도와 별도 판매합니다. 기준 정가는 음옥 3개이고 한정 판매·할인은 2026년 12월 14일 04:59:59 종료이며 시간대는 미표기입니다. 종료 이후 판매 여부는 미확인입니다."
+        },
+        "en": "Official CN announcement terms",
+        "ko": "중국 공식 예고의 획득 조건"
+      },
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20261016/54d16dd9-a4ee-4d39-84a7-236fae2dda99.png",
+          "width": 1920,
+          "height": 1080,
+          "bytes": 3999312,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20261015-october16-appearances",
+          "reusePermission": "unknown",
+          "localCopy": "/media/xuan-ying-luo-fu-chun-hua-0-full.webp",
+          "server": "CN",
+          "inspectionNote": "Named official CN article section and artwork visually inspected on October 17, 2026 America/New_York. Development preview, not current in-game verification. Full artwork retained; VFX is an explicitly recorded patch-poster extract.",
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio",
+          "alt": {
+            "en": "Xuan Ying · Luo Fu Chun Hua official CN weapon skin reference, view 1.",
+            "ko": "현영·나부춘화 중국 공식 참고 사진 1."
+          },
+          "caption": {
+            "en": "Official CN development preview; final game appearance may differ. Original source is linked; reuse permission unknown.",
+            "ko": "중국 공식 개발 중 미리보기이며 최종 게임 외형과 다를 수 있습니다. 원본 출처를 연결하며 재사용 허가는 미확인입니다."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20261016/e7dac135-fdd5-43fd-8f70-69f159ef0ef6.png",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 4428615,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20261015-october16-appearances",
+          "reusePermission": "unknown",
+          "localCopy": "/media/xuan-ying-luo-fu-chun-hua-1-full.webp",
+          "server": "CN",
+          "inspectionNote": "Named official CN article section and artwork visually inspected on October 17, 2026 America/New_York. Development preview, not current in-game verification. Full artwork retained; VFX is an explicitly recorded patch-poster extract.",
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio",
+          "alt": {
+            "en": "Xuan Ying · Luo Fu Chun Hua official CN weapon skin reference, view 2.",
+            "ko": "현영·나부춘화 중국 공식 참고 사진 2."
+          },
+          "caption": {
+            "en": "Official CN development preview; final game appearance may differ. Original source is linked; reuse permission unknown.",
+            "ko": "중국 공식 개발 중 미리보기이며 최종 게임 외형과 다를 수 있습니다. 원본 출처를 연결하며 재사용 허가는 미확인입니다."
+          }
+        }
+      ],
+      "officialVideos": [],
+      "mediaStatus": "verified",
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "namingNote": {
+        "en": "Provisional reading of the CN identifier; official Global names and schedule are unknown.",
+        "ko": "중국 원명의 임시 독음이며 글로벌 공식명·일정은 미확인입니다."
+      },
+      "searchAliases": [
+        "玄瑛·罗浮春华",
+        "Xuan Ying · Luo Fu Chun Hua"
+      ]
+    },
+    {
+      "id": "luo-yue-jing-hong",
+      "nameOriginal": "落月惊鸿",
+      "romanization": "Luo Yue Jing Hong",
+      "category": "weapon_skin",
+      "sourceId": "cn-20261015-october16-appearances",
+      "acquisitionServer": "CN",
+      "mediaServer": "CN",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": "2026-10-16",
+        "precision": "day",
+        "timezone": null,
+        "contextual": false,
+        "basis": "Official CN named appearance announcement and October 16 event/appearance poster; no in-game verification."
+      },
+      "acquisition": {
+        "kind": "shop",
+        "pricing": "fixed",
+        "amount": 60,
+        "regularAmount": null,
+        "currencyOriginal": "长鸣珠",
+        "location": {
+          "en": "Shop",
+          "ko": "상점",
+          "original": "商店"
+        },
+        "conditions": {
+          "en": "CN: announced for October 16, 2026 at 00:00:00; timezone unstated. Current in-game availability not checked. Bow weapon appearance; no sale end stated. Pictured character outfit is separate.",
+          "ko": "중국: 2026년 10월 16일 00:00:00 출시 예고이며 시간대는 미표기입니다. 현재 게임 내 판매 여부는 미확인입니다. 활 무기 외관이며 판매 종료일은 미표기입니다. 사진 속 캐릭터 의상은 별도입니다."
+        },
+        "en": "Official CN announcement terms",
+        "ko": "중국 공식 예고의 획득 조건"
+      },
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20261016/b9839fd8-0110-4ec1-bd0b-f0c7be162244.jpg",
+          "width": 1440,
+          "height": 2560,
+          "bytes": 4903885,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20261015-october16-appearances",
+          "reusePermission": "unknown",
+          "localCopy": "/media/luo-yue-jing-hong-0-full.webp",
+          "server": "CN",
+          "inspectionNote": "Named official CN article section and artwork visually inspected on October 17, 2026 America/New_York. Development preview, not current in-game verification. Full artwork retained; VFX is an explicitly recorded patch-poster extract.",
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio",
+          "alt": {
+            "en": "Luo Yue Jing Hong official CN weapon skin reference, view 1.",
+            "ko": "낙월경홍 중국 공식 참고 사진 1."
+          },
+          "caption": {
+            "en": "Official CN development preview; final game appearance may differ. Original source is linked; reuse permission unknown.",
+            "ko": "중국 공식 개발 중 미리보기이며 최종 게임 외형과 다를 수 있습니다. 원본 출처를 연결하며 재사용 허가는 미확인입니다."
+          }
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20261016/22023b62-fdff-4670-ac93-dd43f05bb98e.png",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 2844645,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20261015-october16-appearances",
+          "reusePermission": "unknown",
+          "localCopy": "/media/luo-yue-jing-hong-1-full.webp",
+          "server": "CN",
+          "inspectionNote": "Named official CN article section and artwork visually inspected on October 17, 2026 America/New_York. Development preview, not current in-game verification. Full artwork retained; VFX is an explicitly recorded patch-poster extract.",
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio",
+          "alt": {
+            "en": "Luo Yue Jing Hong official CN weapon skin reference, view 2.",
+            "ko": "낙월경홍 중국 공식 참고 사진 2."
+          },
+          "caption": {
+            "en": "Official CN development preview; final game appearance may differ. Original source is linked; reuse permission unknown.",
+            "ko": "중국 공식 개발 중 미리보기이며 최종 게임 외형과 다를 수 있습니다. 원본 출처를 연결하며 재사용 허가는 미확인입니다."
+          }
+        }
+      ],
+      "officialVideos": [],
+      "mediaStatus": "verified",
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "namingNote": {
+        "en": "Provisional reading of the CN identifier; official Global names and schedule are unknown.",
+        "ko": "중국 원명의 임시 독음이며 글로벌 공식명·일정은 미확인입니다."
+      },
+      "searchAliases": [
+        "落月惊鸿",
+        "Luo Yue Jing Hong"
+      ]
+    },
+    {
+      "id": "sha-mian-shan-jun-fen-que",
+      "nameOriginal": "煞面山君·焚阙",
+      "romanization": "Sha Mian Shan Jun · Fen Que",
+      "category": "effect",
+      "sourceId": "cn-20261015-october16-followup",
+      "acquisitionServer": "CN",
+      "mediaServer": "CN",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": "2026-10-16",
+        "precision": "day",
+        "timezone": null,
+        "contextual": false,
+        "basis": "Official CN named appearance announcement and October 16 event/appearance poster; no in-game verification."
+      },
+      "acquisition": {
+        "kind": "exchange_shop",
+        "pricing": "fixed",
+        "amount": 1,
+        "regularAmount": null,
+        "currencyOriginal": "八音窍",
+        "location": {
+          "en": "Resonance Shop",
+          "ko": "공명 상점",
+          "original": "和鸣商店"
+        },
+        "conditions": {
+          "en": "CN: announced for October 16, 2026 at 00:00:00; timezone unstated. Current in-game availability not checked. 悬身拳法 martial-art VFX; includes scenario pose 悬身·醉煞. No exchange end stated. The gallery is a static official patch-poster extract, not a verified playback video.",
+          "ko": "중국: 2026년 10월 16일 00:00:00 출시 예고이며 시간대는 미표기입니다. 현재 게임 내 판매 여부는 미확인입니다. 悬身拳法 무술 이펙트이며 배경 자세 悬身·醉煞를 포함합니다. 교환 종료일은 미표기입니다. 갤러리는 공식 업데이트 이미지의 정지 화면이며 재생을 확인한 영상이 아닙니다."
+        },
+        "en": "Official CN announcement terms",
+        "ko": "중국 공식 예고의 획득 조건"
+      },
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20261016/e31071d3-aae2-4ed3-8f25-747d29bf95e6.jpg",
+          "width": 2380,
+          "height": 840,
+          "bytes": 23408903,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20261016-update",
+          "reusePermission": "unknown",
+          "localCopy": "/media/sha-mian-shan-jun-fen-que-0-full.webp",
+          "server": "CN",
+          "sourceCrop": [
+            150,
+            31310,
+            2530,
+            32150
+          ],
+          "inspectionNote": "Named official CN article section and artwork visually inspected on October 17, 2026 America/New_York. Development preview, not current in-game verification. Full artwork retained; VFX is an explicitly recorded patch-poster extract.",
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio",
+          "alt": {
+            "en": "Sha Mian Shan Jun · Fen Que official CN effect reference, view 1.",
+            "ko": "살면산군·분궐 중국 공식 참고 사진 1."
+          },
+          "caption": {
+            "en": "Official CN development preview; final game appearance may differ. Original source is linked; reuse permission unknown.",
+            "ko": "중국 공식 개발 중 미리보기이며 최종 게임 외형과 다를 수 있습니다. 원본 출처를 연결하며 재사용 허가는 미확인입니다."
+          }
+        }
+      ],
+      "officialVideos": [],
+      "mediaStatus": "verified",
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "namingNote": {
+        "en": "Provisional reading of the CN identifier; official Global names and schedule are unknown.",
+        "ko": "중국 원명의 임시 독음이며 글로벌 공식명·일정은 미확인입니다."
+      },
+      "searchAliases": [
+        "煞面山君·焚阙",
+        "Sha Mian Shan Jun · Fen Que",
+        "悬身拳法",
+        "悬身·醉煞"
+      ]
+    },
+    {
+      "id": "dong-li-ke-cat",
+      "nameOriginal": "东篱客",
+      "romanization": "Dong Li Ke · Cat",
+      "category": "accessory",
+      "sourceId": "cn-20261015-october16-followup",
+      "acquisitionServer": "CN",
+      "mediaServer": "CN",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": "2026-10-16",
+        "precision": "day",
+        "timezone": null,
+        "contextual": false,
+        "basis": "Official CN named appearance announcement and October 16 event/appearance poster; no in-game verification."
+      },
+      "acquisition": {
+        "kind": "shop",
+        "pricing": "fixed",
+        "amount": 60,
+        "regularAmount": null,
+        "currencyOriginal": "长鸣珠",
+        "location": {
+          "en": "Shop",
+          "ko": "상점",
+          "original": "商店"
+        },
+        "conditions": {
+          "en": "CN: announced for October 16, 2026 at 00:00:00; timezone unstated. Current in-game availability not checked. Dong Li Ke companion accessory for the cat; 60 Echo Beads each. The cat and goose versions are separate purchases, not a two-item bundle. No sale end stated.",
+          "ko": "중국: 2026년 10월 16일 00:00:00 출시 예고이며 시간대는 미표기입니다. 현재 게임 내 판매 여부는 미확인입니다. 동리고 고양이용 동료 장식이며 각각 장명주 60개입니다. 고양이용·거위용은 별도 구매이며 2종 묶음 가격이 아닙니다. 판매 종료일은 미표기입니다."
+        },
+        "en": "Official CN announcement terms",
+        "ko": "중국 공식 예고의 획득 조건"
+      },
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20261016/b0d25abc-c6e7-4141-92e7-2b2b1f8c9179.jpg",
+          "width": 2560,
+          "height": 1440,
+          "bytes": 1537609,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20261015-october16-followup",
+          "reusePermission": "unknown",
+          "localCopy": "/media/dong-li-ke-cat-0-full.webp",
+          "server": "CN",
+          "inspectionNote": "Named official CN article section and artwork visually inspected on October 17, 2026 America/New_York. Development preview, not current in-game verification. Full artwork retained; VFX is an explicitly recorded patch-poster extract.",
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio",
+          "alt": {
+            "en": "Dong Li Ke · Cat official CN accessory reference, view 1.",
+            "ko": "동리고·고양이 중국 공식 참고 사진 1."
+          },
+          "caption": {
+            "en": "Official CN development preview; final game appearance may differ. Original source is linked; reuse permission unknown.",
+            "ko": "중국 공식 개발 중 미리보기이며 최종 게임 외형과 다를 수 있습니다. 원본 출처를 연결하며 재사용 허가는 미확인입니다."
+          }
+        }
+      ],
+      "officialVideos": [],
+      "mediaStatus": "verified",
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "namingNote": {
+        "en": "Provisional reading of the CN identifier; official Global names and schedule are unknown.",
+        "ko": "중국 원명의 임시 독음이며 글로벌 공식명·일정은 미확인입니다."
+      },
+      "searchAliases": [
+        "东篱客·猫",
+        "Dong Li Ke · Cat",
+        "东篱客",
+        "伙伴配饰·猫"
+      ]
+    },
+    {
+      "id": "dong-li-ke-goose",
+      "nameOriginal": "东篱客",
+      "romanization": "Dong Li Ke · Goose",
+      "category": "accessory",
+      "sourceId": "cn-20261015-october16-followup",
+      "acquisitionServer": "CN",
+      "mediaServer": "CN",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": "2026-10-16",
+        "precision": "day",
+        "timezone": null,
+        "contextual": false,
+        "basis": "Official CN named appearance announcement and October 16 event/appearance poster; no in-game verification."
+      },
+      "acquisition": {
+        "kind": "shop",
+        "pricing": "fixed",
+        "amount": 60,
+        "regularAmount": null,
+        "currencyOriginal": "长鸣珠",
+        "location": {
+          "en": "Shop",
+          "ko": "상점",
+          "original": "商店"
+        },
+        "conditions": {
+          "en": "CN: announced for October 16, 2026 at 00:00:00; timezone unstated. Current in-game availability not checked. Dong Li Ke companion accessory for the goose; 60 Echo Beads each. The cat and goose versions are separate purchases, not a two-item bundle. No sale end stated.",
+          "ko": "중국: 2026년 10월 16일 00:00:00 출시 예고이며 시간대는 미표기입니다. 현재 게임 내 판매 여부는 미확인입니다. 동리고 거위용 동료 장식이며 각각 장명주 60개입니다. 고양이용·거위용은 별도 구매이며 2종 묶음 가격이 아닙니다. 판매 종료일은 미표기입니다."
+        },
+        "en": "Official CN announcement terms",
+        "ko": "중국 공식 예고의 획득 조건"
+      },
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20261016/09bd9992-20f2-4de0-b362-a1915dbd89f9.jpg",
+          "width": 2560,
+          "height": 1440,
+          "bytes": 1941678,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20261015-october16-followup",
+          "reusePermission": "unknown",
+          "localCopy": "/media/dong-li-ke-goose-0-full.webp",
+          "server": "CN",
+          "inspectionNote": "Named official CN article section and artwork visually inspected on October 17, 2026 America/New_York. Development preview, not current in-game verification. Full artwork retained; VFX is an explicitly recorded patch-poster extract.",
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio",
+          "alt": {
+            "en": "Dong Li Ke · Goose official CN accessory reference, view 1.",
+            "ko": "동리고·거위 중국 공식 참고 사진 1."
+          },
+          "caption": {
+            "en": "Official CN development preview; final game appearance may differ. Original source is linked; reuse permission unknown.",
+            "ko": "중국 공식 개발 중 미리보기이며 최종 게임 외형과 다를 수 있습니다. 원본 출처를 연결하며 재사용 허가는 미확인입니다."
+          }
+        }
+      ],
+      "officialVideos": [],
+      "mediaStatus": "verified",
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "namingNote": {
+        "en": "Provisional reading of the CN identifier; official Global names and schedule are unknown.",
+        "ko": "중국 원명의 임시 독음이며 글로벌 공식명·일정은 미확인입니다."
+      },
+      "searchAliases": [
+        "东篱客·鹅",
+        "Dong Li Ke · Goose",
+        "东篱客",
+        "伙伴配饰·鹅"
       ]
     }
   ],

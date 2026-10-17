@@ -5073,5 +5073,68 @@
       "en": "Dyeable hairstyle available for 90 days in the Global Draw Shop. Animated avatar included.",
       "ko": "글로벌 공명 상점의 90일 한정 헤어입니다. 염색을 지원하고 움직이는 프로필을 지급합니다."
     }
+  },
+  "jiang-han-qiu-ying": {
+    "koName": "강함추영",
+    "description": {
+      "en": "CN Double Ninth commemorative outfit with separate top/bottom and dyeing.",
+      "ko": "상하의 분리·염색을 지원하는 중국 중양절 기념 의상입니다."
+    }
+  },
+  "yao-kong-pian-ying": {
+    "koName": "요공편영",
+    "description": {
+      "en": "CN white-hair bundle with crystal bird and crescent effect accessories. The pictured outfit is separate.",
+      "ko": "수정 새·초승달 이펙트 장식이 포함된 중국 백색 헤어 묶음입니다. 사진 속 의상은 별도입니다."
+    }
+  },
+  "zhu-feng-ta-ge": {
+    "koName": "죽풍답가",
+    "description": {
+      "en": "CN event back accessory with attachment slots for compatible owned ornaments.",
+      "ko": "보유한 호환 장식을 추가로 부착할 수 있는 중국 이벤트 등 장신구입니다."
+    }
+  },
+  "xuan-ying-cang-hai-shi-yue": {
+    "koName": "현영·창해습월",
+    "description": {
+      "en": "CN Mo Dao skin with blue and gold moon details.",
+      "ko": "푸른색·금빛 달 장식이 있는 중국 맥도 외관입니다."
+    }
+  },
+  "xuan-ying-luo-fu-chun-hua": {
+    "koName": "현영·나부춘화",
+    "description": {
+      "en": "CN umbrella skin with a starry blue canopy and golden flowers.",
+      "ko": "푸른 별빛 우산 면과 금빛 꽃 장식이 있는 중국 우산 외관입니다."
+    }
+  },
+  "luo-yue-jing-hong": {
+    "koName": "낙월경홍",
+    "description": {
+      "en": "CN red-and-white bow weapon appearance.",
+      "ko": "붉은색·흰색의 중국 활 무기 외관입니다."
+    }
+  },
+  "sha-mian-shan-jun-fen-que": {
+    "koName": "살면산군·분궐",
+    "description": {
+      "en": "CN 悬身拳法 effect with a fiery tiger and a bonus scenario pose.",
+      "ko": "불꽃 호랑이와 추가 배경 자세가 있는 중국 悬身拳法 무술 이펙트입니다."
+    }
+  },
+  "dong-li-ke-cat": {
+    "koName": "동리고·고양이",
+    "description": {
+      "en": "CN Dong Li Ke head accessory for a cat companion.",
+      "ko": "중국 동리고 고양이 동료용 머리 장식입니다."
+    }
+  },
+  "dong-li-ke-goose": {
+    "koName": "동리고·거위",
+    "description": {
+      "en": "CN Dong Li Ke head accessory for a goose companion.",
+      "ko": "중국 동리고 거위 동료용 머리 장식입니다."
+    }
   }
 }

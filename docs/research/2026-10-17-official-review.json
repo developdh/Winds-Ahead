@@ -1,0 +1,576 @@
+{
+  "checkedAt": "2026-10-17",
+  "reviewTimezone": "America/New_York",
+  "scope": "Bounded official CN event/appearance intake and EN/KO named-appearance cross-check; no in-game availability verification.",
+  "sources": [
+    {
+      "id": "cn-20261015-october16-appearances",
+      "url": "https://www.yysls.cn/news/official/20261016/37780_1316801.html",
+      "displayedPublicationDate": "2026-10-15"
+    },
+    {
+      "id": "cn-20261015-october16-followup",
+      "url": "https://www.yysls.cn/news/official/20261016/37780_1316876.html",
+      "displayedPublicationDate": "2026-10-15"
+    },
+    {
+      "id": "cn-20261016-update",
+      "url": "https://www.yysls.cn/news/update/20261016/40412_1316848.html",
+      "displayedPublicationDate": "2026-10-16"
+    },
+    {
+      "id": "global-20261015-appearance-detail-en",
+      "url": "https://www.wherewindsmeetgame.com/news/official/1015appearance.html",
+      "displayedPublicationDate": "2026-10-15"
+    },
+    {
+      "id": "global-20261015-appearance-detail-ko",
+      "url": "https://www.wherewindsmeetgame.com/kr/news/official/1015appearance.html",
+      "displayedPublicationDate": "2026-10-15"
+    }
+  ],
+  "newCosmeticIds": [
+    "jiang-han-qiu-ying",
+    "yao-kong-pian-ying",
+    "zhu-feng-ta-ge",
+    "xuan-ying-cang-hai-shi-yue",
+    "xuan-ying-luo-fu-chun-hua",
+    "luo-yue-jing-hong",
+    "sha-mian-shan-jun-fen-que",
+    "dong-li-ke-cat",
+    "dong-li-ke-goose"
+  ],
+  "globalDeadlineZoneEvidence": [
+    "global-aureate-dominion",
+    "global-blazing-sands",
+    "lian-du-you-luo",
+    "hong-ye-xiao-xiao",
+    "shao-nian-xing"
+  ],
+  "media": [
+    {
+      "cosmeticId": "jiang-han-qiu-ying",
+      "index": 0,
+      "originalUrl": "https://nie.res.netease.com/r/pic/20261016/777e5617-1e54-4655-8638-af4bf10709b6.png",
+      "sourceId": "cn-20261015-october16-appearances",
+      "server": "CN",
+      "thumbnail": "/media/jiang-han-qiu-ying-0-thumb.webp",
+      "full": "/media/jiang-han-qiu-ying-0-full.webp",
+      "preview": "/media/jiang-han-qiu-ying-0-preview.webp",
+      "permission": "unknown",
+      "audience": "reference artwork; excluded from the code license",
+      "fullBytes": 477472,
+      "thumbnailBytes": 95190,
+      "previewBytes": 4240,
+      "thumbnailCrop": [
+        0,
+        0,
+        1080,
+        1458
+      ],
+      "presentationSubject": "female",
+      "sourceDimensions": [
+        1080,
+        1920
+      ],
+      "sourceBytes": 4639446,
+      "sourceSha256": "df465f548b59acf09512d2f51d0ac158cc8b0c7eb02407aba1ae0e8ed6202850",
+      "fullDimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "cosmeticId": "jiang-han-qiu-ying",
+      "index": 1,
+      "originalUrl": "https://nie.res.netease.com/r/pic/20261016/fd386014-6e42-4380-9e37-5d0a601ae972.jpg",
+      "sourceId": "cn-20261015-october16-appearances",
+      "server": "CN",
+      "thumbnail": "/media/jiang-han-qiu-ying-1-thumb.webp",
+      "full": "/media/jiang-han-qiu-ying-1-full.webp",
+      "preview": "/media/jiang-han-qiu-ying-1-preview.webp",
+      "permission": "unknown",
+      "audience": "reference artwork; excluded from the code license",
+      "fullBytes": 501930,
+      "thumbnailBytes": 83034,
+      "previewBytes": 4110,
+      "sourceDimensions": [
+        1080,
+        1920
+      ],
+      "sourceBytes": 4261956,
+      "sourceSha256": "665b5eb553cbb63f018411049250f7703a18b5cd1d0d6a091482ca07ca77aaa5",
+      "fullDimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "cosmeticId": "jiang-han-qiu-ying",
+      "index": 2,
+      "originalUrl": "https://nie.res.netease.com/r/pic/20261016/ea52d5c8-6a51-446d-81f8-0875bf5f5ecf.jpg",
+      "sourceId": "cn-20261015-october16-appearances",
+      "server": "CN",
+      "thumbnail": "/media/jiang-han-qiu-ying-2-thumb.webp",
+      "full": "/media/jiang-han-qiu-ying-2-full.webp",
+      "preview": "/media/jiang-han-qiu-ying-2-preview.webp",
+      "permission": "unknown",
+      "audience": "reference artwork; excluded from the code license",
+      "fullBytes": 443454,
+      "thumbnailBytes": 67794,
+      "previewBytes": 3312,
+      "presentationSubject": "female",
+      "sourceDimensions": [
+        1080,
+        1920
+      ],
+      "sourceBytes": 4075392,
+      "sourceSha256": "a88f2d9a2b15ff140b7ef792ef8058ef2888b69a8e52484cb056c4a2eb57a70a",
+      "fullDimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "cosmeticId": "jiang-han-qiu-ying",
+      "index": 3,
+      "originalUrl": "https://nie.res.netease.com/r/pic/20261016/a75928fc-5239-4a85-aebf-a914c9de1ea1.jpg",
+      "sourceId": "cn-20261015-october16-appearances",
+      "server": "CN",
+      "thumbnail": "/media/jiang-han-qiu-ying-3-thumb.webp",
+      "full": "/media/jiang-han-qiu-ying-3-full.webp",
+      "preview": "/media/jiang-han-qiu-ying-3-preview.webp",
+      "permission": "unknown",
+      "audience": "reference artwork; excluded from the code license",
+      "fullBytes": 490858,
+      "thumbnailBytes": 87414,
+      "previewBytes": 3488,
+      "presentationSubject": "female",
+      "sourceDimensions": [
+        1080,
+        1920
+      ],
+      "sourceBytes": 4007883,
+      "sourceSha256": "49a9802055688cb65f54c931a4d98f6c7b9e66032f3e48a714b458e63d686138",
+      "fullDimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "cosmeticId": "yao-kong-pian-ying",
+      "index": 0,
+      "originalUrl": "https://nie.res.netease.com/r/pic/20261016/7cffd891-2f7e-4896-8bb7-5d02a28bd60e.png",
+      "sourceId": "cn-20261015-october16-appearances",
+      "server": "CN",
+      "thumbnail": "/media/yao-kong-pian-ying-0-thumb.webp",
+      "full": "/media/yao-kong-pian-ying-0-full.webp",
+      "preview": "/media/yao-kong-pian-ying-0-preview.webp",
+      "permission": "unknown",
+      "audience": "reference artwork; excluded from the code license",
+      "fullBytes": 453256,
+      "thumbnailBytes": 85644,
+      "previewBytes": 4562,
+      "thumbnailCrop": [
+        0,
+        0,
+        1080,
+        1458
+      ],
+      "presentationSubject": "female",
+      "sourceDimensions": [
+        1080,
+        1920
+      ],
+      "sourceBytes": 4364241,
+      "sourceSha256": "38d58709bd0eabf381a432408c5ef1da597e3655c3a1ae50b1e0b4d45c443415",
+      "fullDimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "cosmeticId": "yao-kong-pian-ying",
+      "index": 1,
+      "originalUrl": "https://nie.res.netease.com/r/pic/20261016/f1908e8e-7583-4fb2-ade7-034f15bc673f.png",
+      "sourceId": "cn-20261015-october16-appearances",
+      "server": "CN",
+      "thumbnail": "/media/yao-kong-pian-ying-1-thumb.webp",
+      "full": "/media/yao-kong-pian-ying-1-full.webp",
+      "preview": "/media/yao-kong-pian-ying-1-preview.webp",
+      "permission": "unknown",
+      "audience": "reference artwork; excluded from the code license",
+      "fullBytes": 341380,
+      "thumbnailBytes": 80796,
+      "previewBytes": 3594,
+      "presentationSubject": "female",
+      "sourceDimensions": [
+        1080,
+        1920
+      ],
+      "sourceBytes": 3506560,
+      "sourceSha256": "103c68c5c09aeb51e353eadfe776ca51ef7c495724d98535fddbdd4010fa8288",
+      "fullDimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "cosmeticId": "yao-kong-pian-ying",
+      "index": 2,
+      "originalUrl": "https://nie.res.netease.com/r/pic/20261016/8e2bf472-955e-4ba1-a3eb-fffa560acd0d.png",
+      "sourceId": "cn-20261015-october16-appearances",
+      "server": "CN",
+      "thumbnail": "/media/yao-kong-pian-ying-2-thumb.webp",
+      "full": "/media/yao-kong-pian-ying-2-full.webp",
+      "preview": "/media/yao-kong-pian-ying-2-preview.webp",
+      "permission": "unknown",
+      "audience": "reference artwork; excluded from the code license",
+      "fullBytes": 342154,
+      "thumbnailBytes": 76424,
+      "previewBytes": 4118,
+      "sourceDimensions": [
+        1080,
+        1920
+      ],
+      "sourceBytes": 3775842,
+      "sourceSha256": "df65b99125b8a61556a3768118b52cb96f1edf66eda485695c9578ef2f9745f0",
+      "fullDimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "cosmeticId": "zhu-feng-ta-ge",
+      "index": 0,
+      "originalUrl": "https://nie.res.netease.com/r/pic/20261016/45665069-7e58-441f-a1fd-da8ed7a94e18.png",
+      "sourceId": "cn-20261015-october16-appearances",
+      "server": "CN",
+      "thumbnail": "/media/zhu-feng-ta-ge-0-thumb.webp",
+      "full": "/media/zhu-feng-ta-ge-0-full.webp",
+      "preview": "/media/zhu-feng-ta-ge-0-preview.webp",
+      "permission": "unknown",
+      "audience": "reference artwork; excluded from the code license",
+      "fullBytes": 276018,
+      "thumbnailBytes": 67640,
+      "previewBytes": 4586,
+      "thumbnailCrop": [
+        0,
+        0,
+        1080,
+        1458
+      ],
+      "sourceDimensions": [
+        1080,
+        1920
+      ],
+      "sourceBytes": 3337608,
+      "sourceSha256": "e52f39007efb465877851213595aa5a9ec1b07dc62f766246325cf80c619063d",
+      "fullDimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "cosmeticId": "zhu-feng-ta-ge",
+      "index": 1,
+      "originalUrl": "https://nie.res.netease.com/r/pic/20261016/5e1e1def-d290-4cbf-9a50-654146e3154e.png",
+      "sourceId": "cn-20261015-october16-appearances",
+      "server": "CN",
+      "thumbnail": "/media/zhu-feng-ta-ge-1-thumb.webp",
+      "full": "/media/zhu-feng-ta-ge-1-full.webp",
+      "preview": "/media/zhu-feng-ta-ge-1-preview.webp",
+      "permission": "unknown",
+      "audience": "reference artwork; excluded from the code license",
+      "fullBytes": 276166,
+      "thumbnailBytes": 60468,
+      "previewBytes": 4106,
+      "sourceDimensions": [
+        1080,
+        1920
+      ],
+      "sourceBytes": 3194972,
+      "sourceSha256": "bc4ff31baeee4b3838255ec741111f7009d415cbf90f2c780c5c500f2726ba6b",
+      "fullDimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "cosmeticId": "zhu-feng-ta-ge",
+      "index": 2,
+      "originalUrl": "https://nie.res.netease.com/r/pic/20261016/352f6883-e6b9-47c5-86e2-912642803137.png",
+      "sourceId": "cn-20261015-october16-appearances",
+      "server": "CN",
+      "thumbnail": "/media/zhu-feng-ta-ge-2-thumb.webp",
+      "full": "/media/zhu-feng-ta-ge-2-full.webp",
+      "preview": "/media/zhu-feng-ta-ge-2-preview.webp",
+      "permission": "unknown",
+      "audience": "reference artwork; excluded from the code license",
+      "fullBytes": 221648,
+      "thumbnailBytes": 49056,
+      "previewBytes": 3946,
+      "sourceDimensions": [
+        1080,
+        1920
+      ],
+      "sourceBytes": 3041910,
+      "sourceSha256": "eb1739e5e91bf3f439ac29c8615f9d201fb00d8a37dad4d547286e7373f7a02a",
+      "fullDimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "cosmeticId": "xuan-ying-cang-hai-shi-yue",
+      "index": 0,
+      "originalUrl": "https://nie.res.netease.com/r/pic/20261016/1432b873-614b-42d2-abd6-e72650d5d9a5.png",
+      "sourceId": "cn-20261015-october16-appearances",
+      "server": "CN",
+      "thumbnail": "/media/xuan-ying-cang-hai-shi-yue-0-thumb.webp",
+      "full": "/media/xuan-ying-cang-hai-shi-yue-0-full.webp",
+      "preview": "/media/xuan-ying-cang-hai-shi-yue-0-preview.webp",
+      "permission": "unknown",
+      "audience": "reference artwork; excluded from the code license",
+      "fullBytes": 187900,
+      "thumbnailBytes": 69838,
+      "previewBytes": 3486,
+      "presentationSubject": "female",
+      "sourceDimensions": [
+        1920,
+        1080
+      ],
+      "sourceBytes": 2987404,
+      "sourceSha256": "d7e9ee76dcc9ba2192201df2296e80dcab2e1c4bcbbf6216205ac8c06007c310",
+      "fullDimensions": [
+        1400,
+        788
+      ]
+    },
+    {
+      "cosmeticId": "xuan-ying-cang-hai-shi-yue",
+      "index": 1,
+      "originalUrl": "https://nie.res.netease.com/r/pic/20261016/20bb882b-5947-4364-b974-9c0c46d46889.png",
+      "sourceId": "cn-20261015-october16-appearances",
+      "server": "CN",
+      "thumbnail": "/media/xuan-ying-cang-hai-shi-yue-1-thumb.webp",
+      "full": "/media/xuan-ying-cang-hai-shi-yue-1-full.webp",
+      "preview": "/media/xuan-ying-cang-hai-shi-yue-1-preview.webp",
+      "permission": "unknown",
+      "audience": "reference artwork; excluded from the code license",
+      "fullBytes": 348364,
+      "thumbnailBytes": 77512,
+      "previewBytes": 3034,
+      "sourceDimensions": [
+        1080,
+        1920
+      ],
+      "sourceBytes": 3489658,
+      "sourceSha256": "f6442b2ba1e396a24edf2fd6236f1952065d8e9451d793046631048411bda37d",
+      "fullDimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "cosmeticId": "xuan-ying-luo-fu-chun-hua",
+      "index": 0,
+      "originalUrl": "https://nie.res.netease.com/r/pic/20261016/54d16dd9-a4ee-4d39-84a7-236fae2dda99.png",
+      "sourceId": "cn-20261015-october16-appearances",
+      "server": "CN",
+      "thumbnail": "/media/xuan-ying-luo-fu-chun-hua-0-thumb.webp",
+      "full": "/media/xuan-ying-luo-fu-chun-hua-0-full.webp",
+      "preview": "/media/xuan-ying-luo-fu-chun-hua-0-preview.webp",
+      "permission": "unknown",
+      "audience": "reference artwork; excluded from the code license",
+      "fullBytes": 308226,
+      "thumbnailBytes": 110450,
+      "previewBytes": 3866,
+      "sourceDimensions": [
+        1920,
+        1080
+      ],
+      "sourceBytes": 3999312,
+      "sourceSha256": "48f0bebe09711a4c74b7001e8a86aabe9c6e15dd557860ccd6a3008b79937b9f",
+      "fullDimensions": [
+        1400,
+        788
+      ]
+    },
+    {
+      "cosmeticId": "xuan-ying-luo-fu-chun-hua",
+      "index": 1,
+      "originalUrl": "https://nie.res.netease.com/r/pic/20261016/e7dac135-fdd5-43fd-8f70-69f159ef0ef6.png",
+      "sourceId": "cn-20261015-october16-appearances",
+      "server": "CN",
+      "thumbnail": "/media/xuan-ying-luo-fu-chun-hua-1-thumb.webp",
+      "full": "/media/xuan-ying-luo-fu-chun-hua-1-full.webp",
+      "preview": "/media/xuan-ying-luo-fu-chun-hua-1-preview.webp",
+      "permission": "unknown",
+      "audience": "reference artwork; excluded from the code license",
+      "fullBytes": 602110,
+      "thumbnailBytes": 101788,
+      "previewBytes": 3980,
+      "sourceDimensions": [
+        1080,
+        1920
+      ],
+      "sourceBytes": 4428615,
+      "sourceSha256": "b8b78ed7873690a0f56c593ac1a7ea9626a44ad63b831272fdad1eb34e1d7acd",
+      "fullDimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "cosmeticId": "luo-yue-jing-hong",
+      "index": 0,
+      "originalUrl": "https://nie.res.netease.com/r/pic/20261016/b9839fd8-0110-4ec1-bd0b-f0c7be162244.jpg",
+      "sourceId": "cn-20261015-october16-appearances",
+      "server": "CN",
+      "thumbnail": "/media/luo-yue-jing-hong-0-thumb.webp",
+      "full": "/media/luo-yue-jing-hong-0-full.webp",
+      "preview": "/media/luo-yue-jing-hong-0-preview.webp",
+      "permission": "unknown",
+      "audience": "reference artwork; excluded from the code license",
+      "fullBytes": 295632,
+      "thumbnailBytes": 43996,
+      "previewBytes": 4300,
+      "thumbnailCrop": [
+        0,
+        0,
+        1400,
+        1890
+      ],
+      "presentationSubject": "female",
+      "sourceDimensions": [
+        1440,
+        2560
+      ],
+      "sourceBytes": 4903885,
+      "sourceSha256": "fda08931240cc8424200702830cd446971ffe51e5cdccb47932a4b61f938878a",
+      "fullDimensions": [
+        1400,
+        2489
+      ]
+    },
+    {
+      "cosmeticId": "luo-yue-jing-hong",
+      "index": 1,
+      "originalUrl": "https://nie.res.netease.com/r/pic/20261016/22023b62-fdff-4670-ac93-dd43f05bb98e.png",
+      "sourceId": "cn-20261015-october16-appearances",
+      "server": "CN",
+      "thumbnail": "/media/luo-yue-jing-hong-1-thumb.webp",
+      "full": "/media/luo-yue-jing-hong-1-full.webp",
+      "preview": "/media/luo-yue-jing-hong-1-preview.webp",
+      "permission": "unknown",
+      "audience": "reference artwork; excluded from the code license",
+      "fullBytes": 271276,
+      "thumbnailBytes": 59886,
+      "previewBytes": 4018,
+      "sourceDimensions": [
+        1080,
+        1920
+      ],
+      "sourceBytes": 2844645,
+      "sourceSha256": "26241e0092837fd5d2fbbb339071b427cd3e2a47670b98a21d04e7bdb0bc009a",
+      "fullDimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "cosmeticId": "sha-mian-shan-jun-fen-que",
+      "index": 0,
+      "originalUrl": "https://nie.res.netease.com/r/pic/20261016/e31071d3-aae2-4ed3-8f25-747d29bf95e6.jpg",
+      "sourceId": "cn-20261016-update",
+      "server": "CN",
+      "thumbnail": "/media/sha-mian-shan-jun-fen-que-0-thumb.webp",
+      "full": "/media/sha-mian-shan-jun-fen-que-0-full.webp",
+      "preview": "/media/sha-mian-shan-jun-fen-que-0-preview.webp",
+      "permission": "unknown",
+      "audience": "reference artwork; excluded from the code license",
+      "fullBytes": 88902,
+      "thumbnailBytes": 36518,
+      "previewBytes": 2350,
+      "sourceCrop": [
+        150,
+        31310,
+        2530,
+        32150
+      ],
+      "thumbnailCrop": [
+        0,
+        0,
+        1400,
+        494
+      ],
+      "sourceDimensions": [
+        2688,
+        42328
+      ],
+      "sourceBytes": 23408903,
+      "sourceSha256": "900efa4badbc2f3ae6f9c8cdd05dcbbd6f8654487a8be8d45e05520bceea6467",
+      "fullDimensions": [
+        1400,
+        494
+      ]
+    },
+    {
+      "cosmeticId": "dong-li-ke-cat",
+      "index": 0,
+      "originalUrl": "https://nie.res.netease.com/r/pic/20261016/b0d25abc-c6e7-4141-92e7-2b2b1f8c9179.jpg",
+      "sourceId": "cn-20261015-october16-followup",
+      "server": "CN",
+      "thumbnail": "/media/dong-li-ke-cat-0-thumb.webp",
+      "full": "/media/dong-li-ke-cat-0-full.webp",
+      "preview": "/media/dong-li-ke-cat-0-preview.webp",
+      "permission": "unknown",
+      "audience": "reference artwork; excluded from the code license",
+      "fullBytes": 86644,
+      "thumbnailBytes": 25720,
+      "previewBytes": 2836,
+      "sourceDimensions": [
+        2560,
+        1440
+      ],
+      "sourceBytes": 1537609,
+      "sourceSha256": "06cbb73c55a2ca07af35fcc0f0d98d2d1dbfe898f2a29c4605172cf668ddd2c3",
+      "fullDimensions": [
+        1400,
+        788
+      ]
+    },
+    {
+      "cosmeticId": "dong-li-ke-goose",
+      "index": 0,
+      "originalUrl": "https://nie.res.netease.com/r/pic/20261016/09bd9992-20f2-4de0-b362-a1915dbd89f9.jpg",
+      "sourceId": "cn-20261015-october16-followup",
+      "server": "CN",
+      "thumbnail": "/media/dong-li-ke-goose-0-thumb.webp",
+      "full": "/media/dong-li-ke-goose-0-full.webp",
+      "preview": "/media/dong-li-ke-goose-0-preview.webp",
+      "permission": "unknown",
+      "audience": "reference artwork; excluded from the code license",
+      "fullBytes": 138806,
+      "thumbnailBytes": 50148,
+      "previewBytes": 3786,
+      "sourceDimensions": [
+        2560,
+        1440
+      ],
+      "sourceBytes": 1941678,
+      "sourceSha256": "ed6612cd01a0079a9fe18e29fe3a40d62eea90c21191708197d7db4d4e2a2ba6",
+      "fullDimensions": [
+        1400,
+        788
+      ]
+    }
+  ],
+  "limits": [
+    "Minor CN draw rewards, poses, scenario decorations and complete gameplay-poster remainder not exhaustively cataloged.",
+    "Pose 飞星 is not merged with the existing same-name wiki weapon.",
+    "Korean Cafe index fetch failed; official social history and in-game status not independently audited.",
+    "CN image reuse permission remains unknown. No new schedules or forecasts."
+  ]
+}

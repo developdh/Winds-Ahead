@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "reviewedAt": "2026-10-14",
+  "reviewedAt": "2026-10-17",
   "records": [
     {
       "id": "global-global-wind-s-far-shore-exchange-2026-11-18",
@@ -639,14 +639,16 @@
       "precision": "second",
       "timezone": "UTC+8",
       "sourceIds": [
+        "global-20261015-appearance-detail-en",
+        "global-20261015-appearance-detail-ko",
         "global-20261010-scarlet-whispers",
         "global-20261015-version23-en",
         "global-20261015-version23-ko"
       ],
-      "verifiedAt": "2026-10-14",
+      "verifiedAt": "2026-10-17",
       "note": {
-        "en": "End explicitly stated with UTC+8 in the official Global X source; the version 2.3 EN/KO notice supplements acquisition terms. Announcement schedule; current in-game availability has not been checked.",
-        "ko": "공식 글로벌 X 원문에 UTC+8 종료가 명시되어 있으며 2.3 버전 영문·한국어 공지에서 획득 조건을 보완했습니다. 공식 예고 일정이며 현재 게임 내 획득 가능 여부는 미확인입니다."
+        "en": "The named English October 15 appearance HTML explicitly labels this end UTC+8. Korean HTML shows 2026-11-14 05:59:59 with no timezone. Previous poster clock observations are preserved in the October 14 evidence. No current in-game check.",
+        "ko": "10월 15일 영문 개별 외관 공지가 이 종료 시각의 UTC+8을 명시합니다. 한국어 본문은 같은 날짜 05:59:59이며 시간대는 미표기입니다. 이전 이미지의 시각 관측은 10월 14일 근거에 보존했습니다. 현재 게임 내 확인은 하지 않았습니다."
       }
     },
     {
@@ -659,14 +661,16 @@
       "precision": "second",
       "timezone": "UTC+8",
       "sourceIds": [
+        "global-20261015-appearance-detail-en",
+        "global-20261015-appearance-detail-ko",
         "global-20261009-veil-of-lotus",
         "global-20261015-version23-en",
         "global-20261015-version23-ko"
       ],
-      "verifiedAt": "2026-10-14",
+      "verifiedAt": "2026-10-17",
       "note": {
-        "en": "End explicitly stated with UTC+8 in the official Global X source; the version 2.3 EN/KO notice supplements acquisition terms. Announcement schedule; current in-game availability has not been checked.",
-        "ko": "공식 글로벌 X 원문에 UTC+8 종료가 명시되어 있으며 2.3 버전 영문·한국어 공지에서 획득 조건을 보완했습니다. 공식 예고 일정이며 현재 게임 내 획득 가능 여부는 미확인입니다."
+        "en": "The named English October 15 appearance HTML explicitly labels this end UTC+8. Korean HTML shows 2026-12-28 05:59:59 with no timezone. Previous poster clock observations are preserved in the October 14 evidence. No current in-game check.",
+        "ko": "10월 15일 영문 개별 외관 공지가 이 종료 시각의 UTC+8을 명시합니다. 한국어 본문은 같은 날짜 05:59:59이며 시간대는 미표기입니다. 이전 이미지의 시각 관측은 10월 14일 근거에 보존했습니다. 현재 게임 내 확인은 하지 않았습니다."
       }
     },
     {
@@ -677,15 +681,17 @@
       "startDate": "2026-10-15",
       "end": "2026-11-09T04:59:59",
       "precision": "second",
-      "timezone": null,
+      "timezone": "UTC+8",
       "sourceIds": [
+        "global-20261015-appearance-detail-en",
+        "global-20261015-appearance-detail-ko",
         "global-20261015-version23-en",
         "global-20261015-version23-ko"
       ],
-      "verifiedAt": "2026-10-14",
+      "verifiedAt": "2026-10-17",
       "note": {
-        "en": "EN poster: 2026-11-09 04:59:59; KO: same date 05:59:59. Neither poster labels a timezone; do not infer it from maintenance or other item notices. Official announced terms; current in-game availability not verified.",
-        "ko": "영문 이미지 2026-11-09 04:59:59·한국어 같은 날 05:59:59입니다. 양쪽 모두 시간대가 없어 점검 시간대·다른 외관 공지에서 추정하지 않습니다. 공식 예고 조건이며 현재 게임 내 획득 가능 여부는 미확인입니다."
+        "en": "The named English October 15 appearance HTML explicitly labels this end UTC+8. Korean HTML shows 2026-11-09 05:59:59 with no timezone. Previous poster clock observations are preserved in the October 14 evidence. No current in-game check.",
+        "ko": "10월 15일 영문 개별 외관 공지가 이 종료 시각의 UTC+8을 명시합니다. 한국어 본문은 같은 날짜 05:59:59이며 시간대는 미표기입니다. 이전 이미지의 시각 관측은 10월 14일 근거에 보존했습니다. 현재 게임 내 확인은 하지 않았습니다."
       }
     },
     {
@@ -696,15 +702,17 @@
       "startDate": "2026-10-15",
       "end": "2027-01-13T04:59:59",
       "precision": "second",
-      "timezone": null,
+      "timezone": "UTC+8",
       "sourceIds": [
+        "global-20261015-appearance-detail-en",
+        "global-20261015-appearance-detail-ko",
         "global-20261015-version23-en",
         "global-20261015-version23-ko"
       ],
-      "verifiedAt": "2026-10-14",
+      "verifiedAt": "2026-10-17",
       "note": {
-        "en": "EN poster: 2027-01-13 04:59:59; KO: same date 05:59:59. Neither poster labels a timezone; do not infer it from maintenance or other item notices. Official announced terms; current in-game availability not verified.",
-        "ko": "영문 이미지 2027-01-13 04:59:59·한국어 같은 날 05:59:59입니다. 양쪽 모두 시간대가 없어 점검 시간대·다른 외관 공지에서 추정하지 않습니다. 공식 예고 조건이며 현재 게임 내 획득 가능 여부는 미확인입니다."
+        "en": "The named English October 15 appearance HTML explicitly labels this end UTC+8. Korean HTML shows 2027-01-13 05:59:59 with no timezone. Previous poster clock observations are preserved in the October 14 evidence. No current in-game check.",
+        "ko": "10월 15일 영문 개별 외관 공지가 이 종료 시각의 UTC+8을 명시합니다. 한국어 본문은 같은 날짜 05:59:59이며 시간대는 미표기입니다. 이전 이미지의 시각 관측은 10월 14일 근거에 보존했습니다. 현재 게임 내 확인은 하지 않았습니다."
       }
     },
     {
@@ -734,15 +742,17 @@
       "startDate": "2026-10-18",
       "end": "2026-11-01T04:59:59",
       "precision": "second",
-      "timezone": null,
+      "timezone": "UTC+8",
       "sourceIds": [
+        "global-20261015-appearance-detail-en",
+        "global-20261015-appearance-detail-ko",
         "global-20261015-version23-en",
         "global-20261015-version23-ko"
       ],
-      "verifiedAt": "2026-10-14",
+      "verifiedAt": "2026-10-17",
       "note": {
-        "en": "EN poster: 2026-11-01 04:59:59; KO: same date 05:59:59. Neither poster labels a timezone; do not infer it from maintenance or other item notices. Discount ends; sale continues at the regular price.",
-        "ko": "영문 이미지 2026-11-01 04:59:59·한국어 같은 날 05:59:59입니다. 양쪽 모두 시간대가 없어 점검 시간대·다른 외관 공지에서 추정하지 않습니다. 할인 종료이며 이후 정가로 판매됩니다."
+        "en": "The named English October 15 appearance HTML explicitly labels this end UTC+8. Korean HTML shows 2026-11-01 05:59:59 with no timezone. Previous poster clock observations are preserved in the October 14 evidence. Discount end, not sale end. No current in-game check.",
+        "ko": "10월 15일 영문 개별 외관 공지가 이 종료 시각의 UTC+8을 명시합니다. 한국어 본문은 같은 날짜 05:59:59이며 시간대는 미표기입니다. 이전 이미지의 시각 관측은 10월 14일 근거에 보존했습니다. 할인 종료이며 판매 종료가 아닙니다. 현재 게임 내 확인은 하지 않았습니다."
       }
     },
     {
@@ -800,6 +810,101 @@
       "note": {
         "en": "EN poster: 2027-01-07 04:59:59; KO: same date 05:59:59. Neither poster labels a timezone; do not infer it from maintenance or other item notices. Official announced terms; current in-game availability not verified.",
         "ko": "영문 이미지 2027-01-07 04:59:59·한국어 같은 날 05:59:59입니다. 양쪽 모두 시간대가 없어 점검 시간대·다른 외관 공지에서 추정하지 않습니다. 공식 예고 조건이며 현재 게임 내 획득 가능 여부는 미확인입니다."
+      }
+    },
+    {
+      "id": "cn-jiang-han-qiu-ying-sale-2026-11-15",
+      "cosmeticId": "jiang-han-qiu-ying",
+      "server": "CN",
+      "kind": "sale",
+      "startDate": "2026-10-16",
+      "end": "2026-11-15T04:59:59",
+      "precision": "second",
+      "timezone": null,
+      "sourceIds": [
+        "cn-20261016-update",
+        "cn-20261015-october16-appearances"
+      ],
+      "verifiedAt": "2026-10-17",
+      "note": {
+        "en": "Exact announced end from the October 16 official CN patch poster. Timezone unstated; current in-game availability not checked.",
+        "ko": "중국 10월 16일 공식 업데이트 이미지의 정확한 종료 시각입니다. 시간대·현재 게임 내 획득 여부는 미확인입니다."
+      }
+    },
+    {
+      "id": "cn-yao-kong-pian-ying-exchange-2027-02-22",
+      "cosmeticId": "yao-kong-pian-ying",
+      "server": "CN",
+      "kind": "exchange",
+      "startDate": "2026-10-16",
+      "end": "2027-02-22T04:59:59",
+      "precision": "second",
+      "timezone": null,
+      "sourceIds": [
+        "cn-20261016-update",
+        "cn-20261015-october16-appearances"
+      ],
+      "verifiedAt": "2026-10-17",
+      "note": {
+        "en": "Exact announced end from the October 16 official CN patch poster. Timezone unstated; current in-game availability not checked.",
+        "ko": "중국 10월 16일 공식 업데이트 이미지의 정확한 종료 시각입니다. 시간대·현재 게임 내 획득 여부는 미확인입니다."
+      }
+    },
+    {
+      "id": "cn-zhu-feng-ta-ge-event-2026-11-09",
+      "cosmeticId": "zhu-feng-ta-ge",
+      "server": "CN",
+      "kind": "event",
+      "startDate": "2026-10-16",
+      "end": "2026-11-09T04:59:59",
+      "precision": "second",
+      "timezone": null,
+      "sourceIds": [
+        "cn-20261016-update",
+        "cn-20261015-october16-appearances"
+      ],
+      "verifiedAt": "2026-10-17",
+      "note": {
+        "en": "Exact announced end from the October 16 official CN patch poster. Timezone unstated; current in-game availability not checked.",
+        "ko": "중국 10월 16일 공식 업데이트 이미지의 정확한 종료 시각입니다. 시간대·현재 게임 내 획득 여부는 미확인입니다."
+      }
+    },
+    {
+      "id": "cn-xuan-ying-cang-hai-shi-yue-sale-2026-12-14",
+      "cosmeticId": "xuan-ying-cang-hai-shi-yue",
+      "server": "CN",
+      "kind": "sale",
+      "startDate": "2026-10-16",
+      "end": "2026-12-14T04:59:59",
+      "precision": "second",
+      "timezone": null,
+      "sourceIds": [
+        "cn-20261016-update",
+        "cn-20261015-october16-appearances"
+      ],
+      "verifiedAt": "2026-10-17",
+      "note": {
+        "en": "Exact announced end from the October 16 official CN patch poster. Timezone unstated; current in-game availability not checked. This is also the end of the announced limited discount; later availability is not established.",
+        "ko": "중국 10월 16일 공식 업데이트 이미지의 정확한 종료 시각입니다. 시간대·현재 게임 내 획득 여부는 미확인입니다. 공지된 한정 할인도 이때 종료되며 이후 판매 여부는 미확인입니다."
+      }
+    },
+    {
+      "id": "cn-xuan-ying-luo-fu-chun-hua-sale-2026-12-14",
+      "cosmeticId": "xuan-ying-luo-fu-chun-hua",
+      "server": "CN",
+      "kind": "sale",
+      "startDate": "2026-10-16",
+      "end": "2026-12-14T04:59:59",
+      "precision": "second",
+      "timezone": null,
+      "sourceIds": [
+        "cn-20261016-update",
+        "cn-20261015-october16-appearances"
+      ],
+      "verifiedAt": "2026-10-17",
+      "note": {
+        "en": "Exact announced end from the October 16 official CN patch poster. Timezone unstated; current in-game availability not checked. This is also the end of the announced limited discount; later availability is not established.",
+        "ko": "중국 10월 16일 공식 업데이트 이미지의 정확한 종료 시각입니다. 시간대·현재 게임 내 획득 여부는 미확인입니다. 공지된 한정 할인도 이때 종료되며 이후 판매 여부는 미확인입니다."
       }
     }
   ]
