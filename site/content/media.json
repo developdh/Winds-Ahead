@@ -13420,18 +13420,24 @@
   {
     "cosmeticId": "xuan-ying-cang-hai-shi-yue",
     "index": 0,
-    "originalUrl": "https://nie.res.netease.com/r/pic/20261016/1432b873-614b-42d2-abd6-e72650d5d9a5.png",
-    "sourceId": "cn-20261015-october16-appearances",
+    "originalUrl": "https://nie.res.netease.com/r/pic/20261016/e31071d3-aae2-4ed3-8f25-747d29bf95e6.jpg",
+    "sourceId": "cn-20261016-update",
     "server": "CN",
     "thumbnail": "/media/xuan-ying-cang-hai-shi-yue-0-thumb.webp",
     "full": "/media/xuan-ying-cang-hai-shi-yue-0-full.webp",
     "preview": "/media/xuan-ying-cang-hai-shi-yue-0-preview.webp",
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license",
-    "fullBytes": 187900,
-    "thumbnailBytes": 69838,
-    "previewBytes": 3486,
-    "presentationSubject": "female"
+    "fullBytes": 250366,
+    "thumbnailBytes": 38100,
+    "previewBytes": 2828,
+    "presentationSubject": "female",
+    "sourceCrop": [
+      1400,
+      21725,
+      2530,
+      23950
+    ]
   },
   {
     "cosmeticId": "xuan-ying-cang-hai-shi-yue",

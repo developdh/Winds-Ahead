@@ -53974,26 +53974,32 @@
       },
       "images": [
         {
-          "url": "https://nie.res.netease.com/r/pic/20261016/1432b873-614b-42d2-abd6-e72650d5d9a5.png",
-          "width": 1920,
-          "height": 1080,
-          "bytes": 2987404,
+          "url": "https://nie.res.netease.com/r/pic/20261016/e31071d3-aae2-4ed3-8f25-747d29bf95e6.jpg",
+          "width": 1130,
+          "height": 2225,
+          "bytes": 23408903,
           "kind": "official_appearance_reference",
           "visuallyInspected": true,
-          "sourceId": "cn-20261015-october16-appearances",
+          "sourceId": "cn-20261016-update",
           "reusePermission": "unknown",
           "localCopy": "/media/xuan-ying-cang-hai-shi-yue-0-full.webp",
           "server": "CN",
-          "inspectionNote": "Named official CN article section and artwork visually inspected on October 17, 2026 America/New_York. Development preview, not current in-game verification. Full artwork retained; VFX is an explicitly recorded patch-poster extract.",
+          "inspectionNote": "2026-10-17: the female Mo Dao portrait in the named official patch section was visually inspected. Exact individual-artwork extract; enlargement retains the complete selected panel and the full notice is linked. The separate landscape source was not used to infer gender.",
           "attribution": "Where Winds Meet / NetEase / Everstone Studio",
           "alt": {
             "en": "Xuan Ying · Cang Hai Shi Yue official CN weapon skin reference, view 1.",
             "ko": "현영·창해습월 중국 공식 참고 사진 1."
           },
           "caption": {
-            "en": "Official CN development preview; final game appearance may differ. Original source is linked; reuse permission unknown.",
-            "ko": "중국 공식 개발 중 미리보기이며 최종 게임 외형과 다를 수 있습니다. 원본 출처를 연결하며 재사용 허가는 미확인입니다."
-          }
+            "en": "Female CN Mo Dao reference extracted from the official patch poster. Complete selected panel retained; the original link opens the entire notice. Development appearance and reuse permission remain unverified.",
+            "ko": "공식 업데이트 이미지에서 발췌한 중국 여성 맥도 사진입니다. 선택한 개별 구도를 전체 보존하며 원본 링크에서 공지 전체를 볼 수 있습니다. 개발 중 외형·재사용 허가는 미확인입니다."
+          },
+          "sourceCrop": [
+            1400,
+            21725,
+            2530,
+            23950
+          ]
         },
         {
           "url": "https://nie.res.netease.com/r/pic/20261016/20bb882b-5947-4364-b974-9c0c46d46889.png",
