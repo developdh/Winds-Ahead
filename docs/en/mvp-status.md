@@ -15,7 +15,7 @@ Updated October 17, 2026. [Winds Ahead](https://windsahead.com/en) and its sourc
 
 ## Current content snapshot
 
-734 cosmetic records; 846 static image references across 484 records; 250 records still lack an inspected photo. There are 676 regional records, 231 Global calendar events, 47 structured deadlines, 24 audit-only forecast revisions including eight withdrawals and 395 wiki references (383 detailed articles). These are repository counts, not certified game-wide coverage. Unresolved regional matches may remain separate.
+734 cosmetic records; 851 static image references across 489 records; 245 records still lack an inspected photo. There are 676 regional records, 231 Global calendar events, 52 structured deadlines, 24 audit-only forecast revisions including eight withdrawals and 395 wiki references (383 detailed articles). These are repository counts, not certified game-wide coverage. Unresolved regional matches may remain separate.
 
 ## Canonical files
 
@@ -43,7 +43,7 @@ Use a reviewable branch and English PR with paired English/Korean documentation.
 
 ## Verification limits
 
-Current update checks belong in [v0.3.10 notes](releases/0.3.10.md); earlier test counts are historical. Physical iOS/Android, Firefox/WebKit, 200% text enlargement, throttled-network performance and field Core Web Vitals still require separate coverage. The 200 KB initial JavaScript target remains unverified. The public issue tracker accepts corrections/removal requests; third-party artwork remains outside the code license with reuse permission unknown.
+Current update checks belong in [v0.3.11 notes](releases/0.3.11.md); earlier test counts are historical. Physical iOS/Android, Firefox/WebKit, 200% text enlargement, throttled-network performance and field Core Web Vitals still require separate coverage. The 200 KB initial JavaScript target remains unverified. The public issue tracker accepts corrections/removal requests; third-party artwork remains outside the code license with reuse permission unknown.
 
 ## Magazine · October 1, 2026
 

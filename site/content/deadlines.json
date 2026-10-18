@@ -906,6 +906,96 @@
         "en": "Exact announced end from the October 16 official CN patch poster. Timezone unstated; current in-game availability not checked. This is also the end of the announced limited discount; later availability is not established.",
         "ko": "중국 10월 16일 공식 업데이트 이미지의 정확한 종료 시각입니다. 시간대·현재 게임 내 획득 여부는 미확인입니다. 공지된 한정 할인도 이때 종료되며 이후 판매 여부는 미확인입니다."
       }
+    },
+    {
+      "id": "cn-sui-lan-lu-event-2026-10-12",
+      "cosmeticId": "sui-lan-lu",
+      "server": "CN",
+      "kind": "event",
+      "startDate": "2026-09-04",
+      "end": "2026-10-12T05:00",
+      "precision": "minute",
+      "timezone": null,
+      "sourceIds": [
+        "cn-20260903-new-appearance"
+      ],
+      "verifiedAt": "2026-10-17",
+      "note": {
+        "en": "Historical event-shop operating end, at minute precision with no stated timezone. The start is the event window, not a verified individual item listing. This does not prove all stock appeared, a current price or later ordinary-shop availability.",
+        "ko": "분 단위로 공지한 과거 이벤트 상점 운영 종료이며 시간대는 미표기입니다. 시작일은 이벤트 운영 기간으로 개별 품목 출시일이 아닙니다. 모든 상품의 실제 진열·현재 가격·이후 일반 상점 판매를 확정하지 않습니다."
+      }
+    },
+    {
+      "id": "cn-jia-mao-xie-event-2026-10-12",
+      "cosmeticId": "jia-mao-xie",
+      "server": "CN",
+      "kind": "event",
+      "startDate": "2026-09-04",
+      "end": "2026-10-12T05:00",
+      "precision": "minute",
+      "timezone": null,
+      "sourceIds": [
+        "cn-20260903-new-appearance"
+      ],
+      "verifiedAt": "2026-10-17",
+      "note": {
+        "en": "Historical event-shop operating end, at minute precision with no stated timezone. The start is the event window, not a verified individual item listing. This does not prove all stock appeared, a current price or later ordinary-shop availability.",
+        "ko": "분 단위로 공지한 과거 이벤트 상점 운영 종료이며 시간대는 미표기입니다. 시작일은 이벤트 운영 기간으로 개별 품목 출시일이 아닙니다. 모든 상품의 실제 진열·현재 가격·이후 일반 상점 판매를 확정하지 않습니다."
+      }
+    },
+    {
+      "id": "cn-xia-gan-yi-dan-event-2026-10-12",
+      "cosmeticId": "xia-gan-yi-dan",
+      "server": "CN",
+      "kind": "event",
+      "startDate": "2026-09-04",
+      "end": "2026-10-12T05:00",
+      "precision": "minute",
+      "timezone": null,
+      "sourceIds": [
+        "cn-20260903-new-appearance"
+      ],
+      "verifiedAt": "2026-10-17",
+      "note": {
+        "en": "Historical event-shop operating end, at minute precision with no stated timezone. The start is the event window, not a verified individual item listing. This does not prove all stock appeared, a current price or later ordinary-shop availability.",
+        "ko": "분 단위로 공지한 과거 이벤트 상점 운영 종료이며 시간대는 미표기입니다. 시작일은 이벤트 운영 기간으로 개별 품목 출시일이 아닙니다. 모든 상품의 실제 진열·현재 가격·이후 일반 상점 판매를 확정하지 않습니다."
+      }
+    },
+    {
+      "id": "cn-mao-chong-e-event-2026-10-12",
+      "cosmeticId": "mao-chong-e",
+      "server": "CN",
+      "kind": "event",
+      "startDate": "2026-09-04",
+      "end": "2026-10-12T05:00",
+      "precision": "minute",
+      "timezone": null,
+      "sourceIds": [
+        "cn-20260903-new-appearance"
+      ],
+      "verifiedAt": "2026-10-17",
+      "note": {
+        "en": "Historical event-shop operating end, at minute precision with no stated timezone. The start is the event window, not a verified individual item listing. This does not prove all stock appeared, a current price or later ordinary-shop availability.",
+        "ko": "분 단위로 공지한 과거 이벤트 상점 운영 종료이며 시간대는 미표기입니다. 시작일은 이벤트 운영 기간으로 개별 품목 출시일이 아닙니다. 모든 상품의 실제 진열·현재 가격·이후 일반 상점 판매를 확정하지 않습니다."
+      }
+    },
+    {
+      "id": "cn-ta-fei-yan-event-2026-10-12",
+      "cosmeticId": "ta-fei-yan",
+      "server": "CN",
+      "kind": "event",
+      "startDate": "2026-09-04",
+      "end": "2026-10-12T05:00",
+      "precision": "minute",
+      "timezone": null,
+      "sourceIds": [
+        "cn-20260903-new-appearance"
+      ],
+      "verifiedAt": "2026-10-17",
+      "note": {
+        "en": "Historical event-shop operating end, at minute precision with no stated timezone. The start is the event window, not a verified individual item listing. This does not prove all stock appeared, a current price or later ordinary-shop availability.",
+        "ko": "분 단위로 공지한 과거 이벤트 상점 운영 종료이며 시간대는 미표기입니다. 시작일은 이벤트 운영 기간으로 개별 품목 출시일이 아닙니다. 모든 상품의 실제 진열·현재 가격·이후 일반 상점 판매를 확정하지 않습니다."
+      }
     }
   ]
 }

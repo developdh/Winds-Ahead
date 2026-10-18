@@ -1,0 +1,239 @@
+{
+  "date": "2026-10-17",
+  "environment": "Local Codex in-app Chromium browser; viewport overrides are not physical-device tests",
+  "detailChecks": [
+    {
+      "heading": "쇄란로",
+      "historicalEnd": true,
+      "id": "sui-lan-lu",
+      "locale": "ko",
+      "overflow": false,
+      "pending": true,
+      "photo": "/media/sui-lan-lu-0-display.webp",
+      "photoLoaded": true,
+      "referencePrice": true,
+      "unknownCharge": true,
+      "width": 390
+    },
+    {
+      "heading": "가모해",
+      "historicalEnd": true,
+      "id": "jia-mao-xie",
+      "locale": "ko",
+      "overflow": false,
+      "pending": true,
+      "photo": "/media/jia-mao-xie-0-display.webp",
+      "photoLoaded": true,
+      "referencePrice": true,
+      "unknownCharge": true,
+      "width": 390
+    },
+    {
+      "heading": "하간의담",
+      "historicalEnd": true,
+      "id": "xia-gan-yi-dan",
+      "locale": "ko",
+      "overflow": false,
+      "pending": true,
+      "photo": "/media/xia-gan-yi-dan-0-display.webp",
+      "photoLoaded": true,
+      "referencePrice": true,
+      "unknownCharge": true,
+      "width": 390
+    },
+    {
+      "heading": "모충아",
+      "historicalEnd": true,
+      "id": "mao-chong-e",
+      "locale": "ko",
+      "overflow": false,
+      "pending": true,
+      "photo": "/media/mao-chong-e-0-display.webp",
+      "photoLoaded": true,
+      "referencePrice": true,
+      "unknownCharge": true,
+      "width": 390
+    },
+    {
+      "heading": "답비연",
+      "historicalEnd": true,
+      "id": "ta-fei-yan",
+      "locale": "ko",
+      "overflow": false,
+      "pending": true,
+      "photo": "/media/ta-fei-yan-0-display.webp",
+      "photoLoaded": true,
+      "referencePrice": true,
+      "unknownCharge": true,
+      "width": 390
+    },
+    {
+      "heading": "Sui Lan Lu",
+      "historicalEnd": true,
+      "id": "sui-lan-lu",
+      "locale": "en",
+      "overflow": false,
+      "pending": true,
+      "photo": "/media/sui-lan-lu-0-display.webp",
+      "photoLoaded": true,
+      "referencePrice": true,
+      "unknownCharge": true,
+      "width": 1440
+    },
+    {
+      "heading": "Jia Mao Xie",
+      "historicalEnd": true,
+      "id": "jia-mao-xie",
+      "locale": "en",
+      "overflow": false,
+      "pending": true,
+      "photo": "/media/jia-mao-xie-0-display.webp",
+      "photoLoaded": true,
+      "referencePrice": true,
+      "unknownCharge": true,
+      "width": 1440
+    },
+    {
+      "heading": "Xia Gan Yi Dan",
+      "historicalEnd": true,
+      "id": "xia-gan-yi-dan",
+      "locale": "en",
+      "overflow": false,
+      "pending": true,
+      "photo": "/media/xia-gan-yi-dan-0-display.webp",
+      "photoLoaded": true,
+      "referencePrice": true,
+      "unknownCharge": true,
+      "width": 1440
+    },
+    {
+      "heading": "Mao Chong E",
+      "historicalEnd": true,
+      "id": "mao-chong-e",
+      "locale": "en",
+      "overflow": false,
+      "pending": true,
+      "photo": "/media/mao-chong-e-0-display.webp",
+      "photoLoaded": true,
+      "referencePrice": true,
+      "unknownCharge": true,
+      "width": 1440
+    },
+    {
+      "heading": "Ta Fei Yan",
+      "historicalEnd": true,
+      "id": "ta-fei-yan",
+      "locale": "en",
+      "overflow": false,
+      "pending": true,
+      "photo": "/media/ta-fei-yan-0-display.webp",
+      "photoLoaded": true,
+      "referencePrice": true,
+      "unknownCharge": true,
+      "width": 1440
+    }
+  ],
+  "responsiveChecks": [
+    {
+      "overflow": false,
+      "scrollWidth": 320,
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "scrollWidth": 360,
+      "width": 360
+    },
+    {
+      "overflow": false,
+      "scrollWidth": 390,
+      "width": 390
+    },
+    {
+      "overflow": false,
+      "scrollWidth": 768,
+      "width": 768
+    },
+    {
+      "overflow": false,
+      "scrollWidth": 1024,
+      "width": 1024
+    },
+    {
+      "overflow": false,
+      "scrollWidth": 1440,
+      "width": 1440
+    }
+  ],
+  "fullGalleryChecks": [
+    {
+      "id": "sui-lan-lu",
+      "images": [
+        {
+          "height": 787,
+          "loaded": true,
+          "src": "/media/sui-lan-lu-0-full.webp",
+          "width": 1400
+        }
+      ]
+    },
+    {
+      "id": "jia-mao-xie",
+      "original": "https://nie.res.netease.com/r/pic/20260904/2f4540b2-2cea-4fdc-be23-c6359e911924.png",
+      "images": [
+        {
+          "height": 788,
+          "loaded": true,
+          "src": "/media/jia-mao-xie-0-full.webp",
+          "width": 1400
+        }
+      ]
+    },
+    {
+      "id": "xia-gan-yi-dan",
+      "original": "https://nie.res.netease.com/r/pic/20260904/08ea79cb-4865-41d8-a062-ea90cb22e953.jpg",
+      "images": [
+        {
+          "height": 787,
+          "loaded": true,
+          "src": "/media/xia-gan-yi-dan-0-full.webp",
+          "width": 1400
+        }
+      ]
+    },
+    {
+      "id": "mao-chong-e",
+      "original": "https://nie.res.netease.com/r/pic/20260904/51ff215f-5ee0-41f7-8f0a-be9a4e7c6973.jpg",
+      "images": [
+        {
+          "height": 788,
+          "loaded": true,
+          "src": "/media/mao-chong-e-0-full.webp",
+          "width": 1400
+        }
+      ]
+    },
+    {
+      "id": "ta-fei-yan",
+      "original": "https://nie.res.netease.com/r/pic/20260904/8ff95d59-045c-45cc-be86-d65003e8777b.png",
+      "images": [
+        {
+          "height": 788,
+          "loaded": true,
+          "src": "/media/ta-fei-yan-0-full.webp",
+          "width": 1400
+        }
+      ]
+    }
+  ],
+  "errorLogs": [],
+  "screenshots": [
+    "sui-lan-lu-ko-mobile.jpg",
+    "ta-fei-yan-en-desktop.jpg",
+    "sui-lan-lu-ko-full-gallery.jpg"
+  ],
+  "limits": [
+    "No physical-device, Firefox, WebKit, 200% zoom, or performance lab measurements",
+    "Current in-game stock, actual charges, Global identities and dates remain unverified"
+  ]
+}
