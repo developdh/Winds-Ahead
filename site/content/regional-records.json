@@ -5143,97 +5143,102 @@
     {
       "cosmeticId": "sui-lan-lu",
       "server": "CN",
-      "status": "released",
+      "status": "announced",
       "sourceIds": [
         "cn-20260903-new-appearance"
       ],
-      "verifiedAt": "2026-09-13",
+      "verifiedAt": "2026-10-17",
       "releaseDate": null,
       "precision": "unknown",
       "scope": {
-        "en": "Historical official listing or in-game appearance maintenance notice. This does not establish current availability or an original release date.",
-        "ko": "과거 공식 출시·외관 수정 공지 기록입니다. 현재 판매 여부와 최초 출시일을 뜻하지 않습니다."
+        "en": "September 3 pre-event article names this item as an example of the September 4–October 12 rotating shop stock. Original release day, individual offer date, actual release confirmation and present availability remain unverified.",
+        "ko": "9월 3일 사전 공지는 9월 4일~10월 12일 순환 상점의 예시 품목으로 이 장신구를 명시합니다. 최초 출시일·개별 진열일·실제 출시 확인·현재 판매 여부는 미확인입니다."
       },
       "identityBasis": {
         "en": "The official regional source explicitly names this appearance and category.",
         "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
-      }
+      },
+      "confirmationPending": true
     },
     {
       "cosmeticId": "jia-mao-xie",
       "server": "CN",
-      "status": "released",
+      "status": "announced",
       "sourceIds": [
         "cn-20260903-new-appearance"
       ],
-      "verifiedAt": "2026-09-13",
+      "verifiedAt": "2026-10-17",
       "releaseDate": null,
       "precision": "unknown",
       "scope": {
-        "en": "Historical official listing or in-game appearance maintenance notice. This does not establish current availability or an original release date.",
-        "ko": "과거 공식 출시·외관 수정 공지 기록입니다. 현재 판매 여부와 최초 출시일을 뜻하지 않습니다."
+        "en": "September 3 pre-event article names this item as an example of the September 4–October 12 rotating shop stock. Original release day, individual offer date, actual release confirmation and present availability remain unverified.",
+        "ko": "9월 3일 사전 공지는 9월 4일~10월 12일 순환 상점의 예시 품목으로 이 장신구를 명시합니다. 최초 출시일·개별 진열일·실제 출시 확인·현재 판매 여부는 미확인입니다."
       },
       "identityBasis": {
         "en": "The official regional source explicitly names this appearance and category.",
         "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
-      }
+      },
+      "confirmationPending": true
     },
     {
       "cosmeticId": "xia-gan-yi-dan",
       "server": "CN",
-      "status": "released",
+      "status": "announced",
       "sourceIds": [
         "cn-20260903-new-appearance"
       ],
-      "verifiedAt": "2026-09-13",
+      "verifiedAt": "2026-10-17",
       "releaseDate": null,
       "precision": "unknown",
       "scope": {
-        "en": "Historical official listing or in-game appearance maintenance notice. This does not establish current availability or an original release date.",
-        "ko": "과거 공식 출시·외관 수정 공지 기록입니다. 현재 판매 여부와 최초 출시일을 뜻하지 않습니다."
+        "en": "September 3 pre-event article names this item as an example of the September 4–October 12 rotating shop stock. Original release day, individual offer date, actual release confirmation and present availability remain unverified.",
+        "ko": "9월 3일 사전 공지는 9월 4일~10월 12일 순환 상점의 예시 품목으로 이 장신구를 명시합니다. 최초 출시일·개별 진열일·실제 출시 확인·현재 판매 여부는 미확인입니다."
       },
       "identityBasis": {
         "en": "The official regional source explicitly names this appearance and category.",
         "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
-      }
+      },
+      "confirmationPending": true
     },
     {
       "cosmeticId": "mao-chong-e",
       "server": "CN",
-      "status": "released",
+      "status": "announced",
       "sourceIds": [
         "cn-20260903-new-appearance"
       ],
-      "verifiedAt": "2026-09-13",
+      "verifiedAt": "2026-10-17",
       "releaseDate": null,
       "precision": "unknown",
       "scope": {
-        "en": "Historical official listing or in-game appearance maintenance notice. This does not establish current availability or an original release date.",
-        "ko": "과거 공식 출시·외관 수정 공지 기록입니다. 현재 판매 여부와 최초 출시일을 뜻하지 않습니다."
+        "en": "September 3 pre-event article names this item as an example of the September 4–October 12 rotating shop stock. Original release day, individual offer date, actual release confirmation and present availability remain unverified.",
+        "ko": "9월 3일 사전 공지는 9월 4일~10월 12일 순환 상점의 예시 품목으로 이 장신구를 명시합니다. 최초 출시일·개별 진열일·실제 출시 확인·현재 판매 여부는 미확인입니다."
       },
       "identityBasis": {
         "en": "The official regional source explicitly names this appearance and category.",
         "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
-      }
+      },
+      "confirmationPending": true
     },
     {
       "cosmeticId": "ta-fei-yan",
       "server": "CN",
-      "status": "released",
+      "status": "announced",
       "sourceIds": [
         "cn-20260903-new-appearance"
       ],
-      "verifiedAt": "2026-09-13",
+      "verifiedAt": "2026-10-17",
       "releaseDate": null,
       "precision": "unknown",
       "scope": {
-        "en": "Historical official listing or in-game appearance maintenance notice. This does not establish current availability or an original release date.",
-        "ko": "과거 공식 출시·외관 수정 공지 기록입니다. 현재 판매 여부와 최초 출시일을 뜻하지 않습니다."
+        "en": "September 3 pre-event article names this item as an example of the September 4–October 12 rotating shop stock. Original release day, individual offer date, actual release confirmation and present availability remain unverified.",
+        "ko": "9월 3일 사전 공지는 9월 4일~10월 12일 순환 상점의 예시 품목으로 이 장신구를 명시합니다. 최초 출시일·개별 진열일·실제 출시 확인·현재 판매 여부는 미확인입니다."
       },
       "identityBasis": {
         "en": "The official regional source explicitly names this appearance and category.",
         "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
-      }
+      },
+      "confirmationPending": true
     },
     {
       "cosmeticId": "wu-xian-pi-pa",

@@ -22,7 +22,7 @@ export default function AcquisitionInfo({ c, l, now }: { c: Cosmetic; l: Locale;
       <div><dt>{t('Where', '획득처')}</dt><dd>{a.location[l]}<small lang="zh-Hans">{a.location.original}</small></dd></div>
       <div><dt>{t('Method', '획득 방식')}</dt><dd>{a.pricing === 'free' ? t('Gameplay or event reward', '플레이·이벤트 보상') : a.kind === 'unknown' ? t('Under review', '확인 중') : a.pricing === 'draw' ? t('Chance reward', '확률형 추첨') : a.pricing === 'pass' ? t('Purchase + level reward', '구매 후 레벨 보상') : a.kind === 'milestone' ? t('Reach a progression tier', '누적 단계 달성') : a.kind === 'shop' ? t('Direct purchase', '직접 구매') : t('Currency exchange', '재화 교환')}</dd></div>
       <div><dt>{t('Currency', '필요 재화')}</dt><dd>{currency ?? t('Not stated', '공지 미표기')}{a.currencyOriginal && <small lang="zh-Hans">{a.currencyOriginal}</small>}</dd></div>
-      {!fixed && a.pricing !== 'free' && <div><dt>{t('Required amount', '필요 수량')}</dt><dd>{a.pricing === 'draw' ? t('Total not established', '총 필요 수량 미정') : a.pricing === 'unknown' ? t('Not stated in the source', '공지에 수량 미표기') : t('Price not stated', '구매 가격 미정')}</dd></div>}
+      {!fixed && a.pricing !== 'free' && <div><dt>{t('Required amount', '필요 수량')}</dt><dd>{a.pricing === 'draw' ? t('Total not established', '총 필요 수량 미정') : a.pricing === 'unknown' ? t('Exact required amount not established', '확정 필요 수량 미확인') : t('Price not stated', '구매 가격 미정')}</dd></div>}
     </dl>
     <DeadlineDetails id={c.id} server={c.acquisitionServer ?? "CN"} l={l} now={now}/>
     {a.conditions && <p className="acquisition-conditions">{a.conditions[l]}</p>}

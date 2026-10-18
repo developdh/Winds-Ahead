@@ -51,7 +51,9 @@
       "sourceImageCaveat": {
         "en": "Official preview; final in-game appearance may differ.",
         "ko": "공식 미리보기이며 실제 게임 내 모습과 다를 수 있습니다."
-      }
+      },
+      "verifiedAt": "2026-10-17",
+      "verificationNote": "October 17 bounded follow-up: inspected five named accessory/companion images with exact preceding-image/caption matches and reread the rotating shop terms. The regular prices are references, not final charges; shop dates are not individual listing dates. No in-game availability check."
     },
     {
       "id": "cn-20260826-outfits",
@@ -28519,7 +28521,7 @@
     {
       "id": "sui-lan-lu",
       "nameOriginal": "碎兰露",
-      "romanization": "sui lan lu",
+      "romanization": "Sui Lan Lu",
       "category": "accessory",
       "sourceId": "cn-20260903-new-appearance",
       "acquisitionServer": "CN",
@@ -28531,41 +28533,73 @@
         "precision": "unknown",
         "timezone": null,
         "contextual": false,
-        "basis": "Exact item release day not established"
+        "basis": "Named example stock in the September 3 pre-event announcement. September 4 is the shop opening, not an established individual listing or original release day."
       },
       "acquisition": {
-        "kind": "unknown",
+        "kind": "shop",
         "pricing": "unknown",
         "amount": null,
         "regularAmount": null,
-        "currencyOriginal": null,
+        "currencyOriginal": "长鸣珠",
         "location": {
-          "en": "Under review",
-          "ko": "확인 중",
-          "original": "未核实"
+          "en": "Jin E Yan Xuan Pu (historical rotating event shop)",
+          "ko": "금아엄선포(과거 순환 이벤트 상점)",
+          "original": "金鹅严选铺"
         },
         "conditions": {
-          "en": "The source does not establish the required amount. Current availability has not been checked.",
-          "ko": "공지에서 필요한 수량을 확인하지 못했습니다. 현재 획득 가능 여부는 별도 확인이 필요합니다."
+          "en": "CN advertised regular/reference price: 680 Echo Beads, not a verified final charge. The event shop was announced for September 4 to October 12, 2026 at 05:00; timezone unstated. Four random daily offers reset at 05:00; a listed stock example is not guaranteed to appear on a particular day. Three random reduction attempts per day can discount a random current offer by up to 10%, rounded to the nearest integer. The exact paid amount, individual offer date and availability after the event are unverified. The article explicitly promises post-event ordinary-shop sales for a different transformation item; that promise is not applied to this accessory.",
+          "ko": "중국 공시 정가는 장명주 680개이며 확인된 최종 결제액이 아닙니다. 이벤트 상점 운영 예고는 2026년 9월 4일~10월 12일 05:00이고 시간대는 미표기입니다. 매일 05:00 무작위 상품 4종으로 갱신되며 예시 품목이 특정 날짜에 반드시 나온다는 뜻은 아닙니다. 매일 무작위 인하 기회 3회로 현재 상품 중 무작위 1종에 최대 10% 할인이 적용될 수 있고 결제액은 정수로 반올림됩니다. 실제 결제액·개별 진열일·이벤트 이후 판매 여부는 미확인입니다. 다른 화영 상품의 이벤트 후 일반 상점 판매 약속을 이 장신구에 적용하지 않습니다."
         },
-        "en": "See the acquisition method and source conditions.",
-        "ko": "획득 방법과 출처의 조건을 확인하세요.",
+        "en": "Historical CN rotating-shop terms; final charge unknown",
+        "ko": "중국 과거 순환 상점 조건·실제 결제액 미확인",
         "sourceExcerpt": "配饰【碎兰露】（原价680长鸣珠）"
       },
-      "images": [],
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260904/48908e0f-6f59-4fd2-a068-18495142383d.jpg",
+          "width": 5000,
+          "height": 2813,
+          "bytes": 4593575,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20260903-new-appearance",
+          "server": "CN",
+          "localCopy": "/media/sui-lan-lu-0-full.webp",
+          "reusePermission": "unknown",
+          "inspectionNote": "October 17, 2026 America/New_York: matched the source image immediately before the exact named HTML caption and visually inspected the individual artwork. Presentation crop highlights the accessory; enlargement retains complete source composition. Official development preview, not current in-game verification.",
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio",
+          "alt": {
+            "en": "Sui Lan Lu: named official CN accessory reference.",
+            "ko": "쇄란로: 명칭을 확인한 중국 공식 장신구 사진."
+          },
+          "caption": {
+            "en": "Official CN event stock example. Character/companion shown for reference; the pictured outfit or companion is not included. Full composition retained in enlargement. Reuse permission unknown.",
+            "ko": "중국 공식 이벤트 상품 예시 사진입니다. 사진 속 의상·동료 자체가 구성에 포함된다는 뜻은 아닙니다. 확대에서 전체 구도를 유지하며 재사용 허가는 미확인입니다."
+          }
+        }
+      ],
       "officialVideos": [],
-      "mediaStatus": "pending",
+      "mediaStatus": "verified",
       "global": {
         "status": "unknown",
         "officialName": null,
         "releaseDate": null
       },
-      "sourceEvidence": "配饰【碎兰露】（原价680长鸣珠）"
+      "sourceEvidence": "配饰【碎兰露】（原价680长鸣珠）",
+      "namingNote": {
+        "en": "Provisional reading of the Chinese identifier; official Global English/Korean names and schedule remain unknown.",
+        "ko": "중국 원명의 임시 독음이며 글로벌 영문·한국어 공식명과 일정은 미확인입니다."
+      },
+      "searchAliases": [
+        "碎兰露",
+        "Sui Lan Lu",
+        "쇄란로"
+      ]
     },
     {
       "id": "jia-mao-xie",
       "nameOriginal": "假帽蟹",
-      "romanization": "jia mao xie",
+      "romanization": "Jia Mao Xie",
       "category": "accessory",
       "sourceId": "cn-20260903-new-appearance",
       "acquisitionServer": "CN",
@@ -28577,41 +28611,73 @@
         "precision": "unknown",
         "timezone": null,
         "contextual": false,
-        "basis": "Exact item release day not established"
+        "basis": "Named example stock in the September 3 pre-event announcement. September 4 is the shop opening, not an established individual listing or original release day."
       },
       "acquisition": {
-        "kind": "unknown",
+        "kind": "shop",
         "pricing": "unknown",
         "amount": null,
         "regularAmount": null,
-        "currencyOriginal": null,
+        "currencyOriginal": "长鸣珠",
         "location": {
-          "en": "Under review",
-          "ko": "확인 중",
-          "original": "未核实"
+          "en": "Jin E Yan Xuan Pu (historical rotating event shop)",
+          "ko": "금아엄선포(과거 순환 이벤트 상점)",
+          "original": "金鹅严选铺"
         },
         "conditions": {
-          "en": "The source does not establish the required amount. Current availability has not been checked.",
-          "ko": "공지에서 필요한 수량을 확인하지 못했습니다. 현재 획득 가능 여부는 별도 확인이 필요합니다."
+          "en": "CN advertised regular/reference price: 60 Echo Beads, not a verified final charge. The event shop was announced for September 4 to October 12, 2026 at 05:00; timezone unstated. Four random daily offers reset at 05:00; a listed stock example is not guaranteed to appear on a particular day. Three random reduction attempts per day can discount a random current offer by up to 10%, rounded to the nearest integer. The exact paid amount, individual offer date and availability after the event are unverified. The article explicitly promises post-event ordinary-shop sales for a different transformation item; that promise is not applied to this accessory.",
+          "ko": "중국 공시 정가는 장명주 60개이며 확인된 최종 결제액이 아닙니다. 이벤트 상점 운영 예고는 2026년 9월 4일~10월 12일 05:00이고 시간대는 미표기입니다. 매일 05:00 무작위 상품 4종으로 갱신되며 예시 품목이 특정 날짜에 반드시 나온다는 뜻은 아닙니다. 매일 무작위 인하 기회 3회로 현재 상품 중 무작위 1종에 최대 10% 할인이 적용될 수 있고 결제액은 정수로 반올림됩니다. 실제 결제액·개별 진열일·이벤트 이후 판매 여부는 미확인입니다. 다른 화영 상품의 이벤트 후 일반 상점 판매 약속을 이 장신구에 적용하지 않습니다."
         },
-        "en": "See the acquisition method and source conditions.",
-        "ko": "획득 방법과 출처의 조건을 확인하세요.",
+        "en": "Historical CN rotating-shop terms; final charge unknown",
+        "ko": "중국 과거 순환 상점 조건·실제 결제액 미확인",
         "sourceExcerpt": "配饰【假帽蟹】（原价60长鸣珠）"
       },
-      "images": [],
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260904/2f4540b2-2cea-4fdc-be23-c6359e911924.png",
+          "width": 8192,
+          "height": 4608,
+          "bytes": 30874339,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20260903-new-appearance",
+          "server": "CN",
+          "localCopy": "/media/jia-mao-xie-0-full.webp",
+          "reusePermission": "unknown",
+          "inspectionNote": "October 17, 2026 America/New_York: matched the source image immediately before the exact named HTML caption and visually inspected the individual artwork. Presentation crop highlights the accessory; enlargement retains complete source composition. Official development preview, not current in-game verification.",
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio",
+          "alt": {
+            "en": "Jia Mao Xie: named official CN accessory reference.",
+            "ko": "가모해: 명칭을 확인한 중국 공식 장신구 사진."
+          },
+          "caption": {
+            "en": "Official CN event stock example. Character/companion shown for reference; the pictured outfit or companion is not included. Full composition retained in enlargement. Reuse permission unknown.",
+            "ko": "중국 공식 이벤트 상품 예시 사진입니다. 사진 속 의상·동료 자체가 구성에 포함된다는 뜻은 아닙니다. 확대에서 전체 구도를 유지하며 재사용 허가는 미확인입니다."
+          }
+        }
+      ],
       "officialVideos": [],
-      "mediaStatus": "pending",
+      "mediaStatus": "verified",
       "global": {
         "status": "unknown",
         "officialName": null,
         "releaseDate": null
       },
-      "sourceEvidence": "配饰【假帽蟹】（原价60长鸣珠）"
+      "sourceEvidence": "配饰【假帽蟹】（原价60长鸣珠）",
+      "namingNote": {
+        "en": "Provisional reading of the Chinese identifier; official Global English/Korean names and schedule remain unknown.",
+        "ko": "중국 원명의 임시 독음이며 글로벌 영문·한국어 공식명과 일정은 미확인입니다."
+      },
+      "searchAliases": [
+        "假帽蟹",
+        "Jia Mao Xie",
+        "가모해"
+      ]
     },
     {
       "id": "xia-gan-yi-dan",
       "nameOriginal": "虾肝义胆",
-      "romanization": "xia gan yi dan",
+      "romanization": "Xia Gan Yi Dan",
       "category": "accessory",
       "sourceId": "cn-20260903-new-appearance",
       "acquisitionServer": "CN",
@@ -28623,41 +28689,73 @@
         "precision": "unknown",
         "timezone": null,
         "contextual": false,
-        "basis": "Exact item release day not established"
+        "basis": "Named example stock in the September 3 pre-event announcement. September 4 is the shop opening, not an established individual listing or original release day."
       },
       "acquisition": {
-        "kind": "unknown",
+        "kind": "shop",
         "pricing": "unknown",
         "amount": null,
         "regularAmount": null,
-        "currencyOriginal": null,
+        "currencyOriginal": "长鸣珠",
         "location": {
-          "en": "Under review",
-          "ko": "확인 중",
-          "original": "未核实"
+          "en": "Jin E Yan Xuan Pu (historical rotating event shop)",
+          "ko": "금아엄선포(과거 순환 이벤트 상점)",
+          "original": "金鹅严选铺"
         },
         "conditions": {
-          "en": "The source does not establish the required amount. Current availability has not been checked.",
-          "ko": "공지에서 필요한 수량을 확인하지 못했습니다. 현재 획득 가능 여부는 별도 확인이 필요합니다."
+          "en": "CN advertised regular/reference price: 60 Echo Beads, not a verified final charge. The event shop was announced for September 4 to October 12, 2026 at 05:00; timezone unstated. Four random daily offers reset at 05:00; a listed stock example is not guaranteed to appear on a particular day. Three random reduction attempts per day can discount a random current offer by up to 10%, rounded to the nearest integer. The exact paid amount, individual offer date and availability after the event are unverified. The article explicitly promises post-event ordinary-shop sales for a different transformation item; that promise is not applied to this accessory.",
+          "ko": "중국 공시 정가는 장명주 60개이며 확인된 최종 결제액이 아닙니다. 이벤트 상점 운영 예고는 2026년 9월 4일~10월 12일 05:00이고 시간대는 미표기입니다. 매일 05:00 무작위 상품 4종으로 갱신되며 예시 품목이 특정 날짜에 반드시 나온다는 뜻은 아닙니다. 매일 무작위 인하 기회 3회로 현재 상품 중 무작위 1종에 최대 10% 할인이 적용될 수 있고 결제액은 정수로 반올림됩니다. 실제 결제액·개별 진열일·이벤트 이후 판매 여부는 미확인입니다. 다른 화영 상품의 이벤트 후 일반 상점 판매 약속을 이 장신구에 적용하지 않습니다."
         },
-        "en": "See the acquisition method and source conditions.",
-        "ko": "획득 방법과 출처의 조건을 확인하세요.",
+        "en": "Historical CN rotating-shop terms; final charge unknown",
+        "ko": "중국 과거 순환 상점 조건·실제 결제액 미확인",
         "sourceExcerpt": "配饰【虾肝义胆】（原价60长鸣珠）"
       },
-      "images": [],
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260904/08ea79cb-4865-41d8-a062-ea90cb22e953.jpg",
+          "width": 5000,
+          "height": 2813,
+          "bytes": 8835397,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20260903-new-appearance",
+          "server": "CN",
+          "localCopy": "/media/xia-gan-yi-dan-0-full.webp",
+          "reusePermission": "unknown",
+          "inspectionNote": "October 17, 2026 America/New_York: matched the source image immediately before the exact named HTML caption and visually inspected the individual artwork. Presentation crop highlights the accessory; enlargement retains complete source composition. Official development preview, not current in-game verification.",
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio",
+          "alt": {
+            "en": "Xia Gan Yi Dan: named official CN accessory reference.",
+            "ko": "하간의담: 명칭을 확인한 중국 공식 장신구 사진."
+          },
+          "caption": {
+            "en": "Official CN event stock example. Character/companion shown for reference; the pictured outfit or companion is not included. Full composition retained in enlargement. Reuse permission unknown.",
+            "ko": "중국 공식 이벤트 상품 예시 사진입니다. 사진 속 의상·동료 자체가 구성에 포함된다는 뜻은 아닙니다. 확대에서 전체 구도를 유지하며 재사용 허가는 미확인입니다."
+          }
+        }
+      ],
       "officialVideos": [],
-      "mediaStatus": "pending",
+      "mediaStatus": "verified",
       "global": {
         "status": "unknown",
         "officialName": null,
         "releaseDate": null
       },
-      "sourceEvidence": "配饰【虾肝义胆】（原价60长鸣珠）"
+      "sourceEvidence": "配饰【虾肝义胆】（原价60长鸣珠）",
+      "namingNote": {
+        "en": "Provisional reading of the Chinese identifier; official Global English/Korean names and schedule remain unknown.",
+        "ko": "중국 원명의 임시 독음이며 글로벌 영문·한국어 공식명과 일정은 미확인입니다."
+      },
+      "searchAliases": [
+        "虾肝义胆",
+        "Xia Gan Yi Dan",
+        "하간의담"
+      ]
     },
     {
       "id": "mao-chong-e",
       "nameOriginal": "帽充鹅",
-      "romanization": "mao chong e",
+      "romanization": "Mao Chong E",
       "category": "accessory",
       "sourceId": "cn-20260903-new-appearance",
       "acquisitionServer": "CN",
@@ -28669,41 +28767,73 @@
         "precision": "unknown",
         "timezone": null,
         "contextual": false,
-        "basis": "Exact item release day not established"
+        "basis": "Named example stock in the September 3 pre-event announcement. September 4 is the shop opening, not an established individual listing or original release day."
       },
       "acquisition": {
-        "kind": "unknown",
+        "kind": "shop",
         "pricing": "unknown",
         "amount": null,
         "regularAmount": null,
-        "currencyOriginal": null,
+        "currencyOriginal": "长鸣珠",
         "location": {
-          "en": "Under review",
-          "ko": "확인 중",
-          "original": "未核实"
+          "en": "Jin E Yan Xuan Pu (historical rotating event shop)",
+          "ko": "금아엄선포(과거 순환 이벤트 상점)",
+          "original": "金鹅严选铺"
         },
         "conditions": {
-          "en": "The source does not establish the required amount. Current availability has not been checked.",
-          "ko": "공지에서 필요한 수량을 확인하지 못했습니다. 현재 획득 가능 여부는 별도 확인이 필요합니다."
+          "en": "CN advertised regular/reference price: 60 Echo Beads, not a verified final charge. The event shop was announced for September 4 to October 12, 2026 at 05:00; timezone unstated. Four random daily offers reset at 05:00; a listed stock example is not guaranteed to appear on a particular day. Three random reduction attempts per day can discount a random current offer by up to 10%, rounded to the nearest integer. The exact paid amount, individual offer date and availability after the event are unverified. The article explicitly promises post-event ordinary-shop sales for a different transformation item; that promise is not applied to this accessory.",
+          "ko": "중국 공시 정가는 장명주 60개이며 확인된 최종 결제액이 아닙니다. 이벤트 상점 운영 예고는 2026년 9월 4일~10월 12일 05:00이고 시간대는 미표기입니다. 매일 05:00 무작위 상품 4종으로 갱신되며 예시 품목이 특정 날짜에 반드시 나온다는 뜻은 아닙니다. 매일 무작위 인하 기회 3회로 현재 상품 중 무작위 1종에 최대 10% 할인이 적용될 수 있고 결제액은 정수로 반올림됩니다. 실제 결제액·개별 진열일·이벤트 이후 판매 여부는 미확인입니다. 다른 화영 상품의 이벤트 후 일반 상점 판매 약속을 이 장신구에 적용하지 않습니다."
         },
-        "en": "See the acquisition method and source conditions.",
-        "ko": "획득 방법과 출처의 조건을 확인하세요.",
+        "en": "Historical CN rotating-shop terms; final charge unknown",
+        "ko": "중국 과거 순환 상점 조건·실제 결제액 미확인",
         "sourceExcerpt": "伙伴配饰【帽充鹅】（原价60长鸣珠）"
       },
-      "images": [],
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260904/51ff215f-5ee0-41f7-8f0a-be9a4e7c6973.jpg",
+          "width": 5240,
+          "height": 2948,
+          "bytes": 5191148,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20260903-new-appearance",
+          "server": "CN",
+          "localCopy": "/media/mao-chong-e-0-full.webp",
+          "reusePermission": "unknown",
+          "inspectionNote": "October 17, 2026 America/New_York: matched the source image immediately before the exact named HTML caption and visually inspected the individual artwork. Presentation crop highlights the accessory; enlargement retains complete source composition. Official development preview, not current in-game verification.",
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio",
+          "alt": {
+            "en": "Mao Chong E: named official CN accessory reference.",
+            "ko": "모충아: 명칭을 확인한 중국 공식 장신구 사진."
+          },
+          "caption": {
+            "en": "Official CN event stock example. Character/companion shown for reference; the pictured outfit or companion is not included. Full composition retained in enlargement. Reuse permission unknown.",
+            "ko": "중국 공식 이벤트 상품 예시 사진입니다. 사진 속 의상·동료 자체가 구성에 포함된다는 뜻은 아닙니다. 확대에서 전체 구도를 유지하며 재사용 허가는 미확인입니다."
+          }
+        }
+      ],
       "officialVideos": [],
-      "mediaStatus": "pending",
+      "mediaStatus": "verified",
       "global": {
         "status": "unknown",
         "officialName": null,
         "releaseDate": null
       },
-      "sourceEvidence": "伙伴配饰【帽充鹅】（原价60长鸣珠）"
+      "sourceEvidence": "伙伴配饰【帽充鹅】（原价60长鸣珠）",
+      "namingNote": {
+        "en": "Provisional reading of the Chinese identifier; official Global English/Korean names and schedule remain unknown.",
+        "ko": "중국 원명의 임시 독음이며 글로벌 영문·한국어 공식명과 일정은 미확인입니다."
+      },
+      "searchAliases": [
+        "帽充鹅",
+        "Mao Chong E",
+        "모충아"
+      ]
     },
     {
       "id": "ta-fei-yan",
       "nameOriginal": "踏肥燕",
-      "romanization": "ta fei yan",
+      "romanization": "Ta Fei Yan",
       "category": "accessory",
       "sourceId": "cn-20260903-new-appearance",
       "acquisitionServer": "CN",
@@ -28715,36 +28845,68 @@
         "precision": "unknown",
         "timezone": null,
         "contextual": false,
-        "basis": "Exact item release day not established"
+        "basis": "Named example stock in the September 3 pre-event announcement. September 4 is the shop opening, not an established individual listing or original release day."
       },
       "acquisition": {
-        "kind": "unknown",
+        "kind": "shop",
         "pricing": "unknown",
         "amount": null,
         "regularAmount": null,
-        "currencyOriginal": null,
+        "currencyOriginal": "长鸣珠",
         "location": {
-          "en": "Under review",
-          "ko": "확인 중",
-          "original": "未核实"
+          "en": "Jin E Yan Xuan Pu (historical rotating event shop)",
+          "ko": "금아엄선포(과거 순환 이벤트 상점)",
+          "original": "金鹅严选铺"
         },
         "conditions": {
-          "en": "The source does not establish the required amount. Current availability has not been checked.",
-          "ko": "공지에서 필요한 수량을 확인하지 못했습니다. 현재 획득 가능 여부는 별도 확인이 필요합니다."
+          "en": "CN advertised regular/reference price: 60 Echo Beads, not a verified final charge. The event shop was announced for September 4 to October 12, 2026 at 05:00; timezone unstated. Four random daily offers reset at 05:00; a listed stock example is not guaranteed to appear on a particular day. Three random reduction attempts per day can discount a random current offer by up to 10%, rounded to the nearest integer. The exact paid amount, individual offer date and availability after the event are unverified. The article explicitly promises post-event ordinary-shop sales for a different transformation item; that promise is not applied to this accessory.",
+          "ko": "중국 공시 정가는 장명주 60개이며 확인된 최종 결제액이 아닙니다. 이벤트 상점 운영 예고는 2026년 9월 4일~10월 12일 05:00이고 시간대는 미표기입니다. 매일 05:00 무작위 상품 4종으로 갱신되며 예시 품목이 특정 날짜에 반드시 나온다는 뜻은 아닙니다. 매일 무작위 인하 기회 3회로 현재 상품 중 무작위 1종에 최대 10% 할인이 적용될 수 있고 결제액은 정수로 반올림됩니다. 실제 결제액·개별 진열일·이벤트 이후 판매 여부는 미확인입니다. 다른 화영 상품의 이벤트 후 일반 상점 판매 약속을 이 장신구에 적용하지 않습니다."
         },
-        "en": "See the acquisition method and source conditions.",
-        "ko": "획득 방법과 출처의 조건을 확인하세요.",
+        "en": "Historical CN rotating-shop terms; final charge unknown",
+        "ko": "중국 과거 순환 상점 조건·실제 결제액 미확인",
         "sourceExcerpt": "伙伴配饰【踏肥燕】（原价60长鸣珠）"
       },
-      "images": [],
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260904/8ff95d59-045c-45cc-be86-d65003e8777b.png",
+          "width": 7680,
+          "height": 4320,
+          "bytes": 31048239,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20260903-new-appearance",
+          "server": "CN",
+          "localCopy": "/media/ta-fei-yan-0-full.webp",
+          "reusePermission": "unknown",
+          "inspectionNote": "October 17, 2026 America/New_York: matched the source image immediately before the exact named HTML caption and visually inspected the individual artwork. Presentation crop highlights the accessory; enlargement retains complete source composition. Official development preview, not current in-game verification.",
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio",
+          "alt": {
+            "en": "Ta Fei Yan: named official CN accessory reference.",
+            "ko": "답비연: 명칭을 확인한 중국 공식 장신구 사진."
+          },
+          "caption": {
+            "en": "Official CN event stock example. Character/companion shown for reference; the pictured outfit or companion is not included. Full composition retained in enlargement. Reuse permission unknown.",
+            "ko": "중국 공식 이벤트 상품 예시 사진입니다. 사진 속 의상·동료 자체가 구성에 포함된다는 뜻은 아닙니다. 확대에서 전체 구도를 유지하며 재사용 허가는 미확인입니다."
+          }
+        }
+      ],
       "officialVideos": [],
-      "mediaStatus": "pending",
+      "mediaStatus": "verified",
       "global": {
         "status": "unknown",
         "officialName": null,
         "releaseDate": null
       },
-      "sourceEvidence": "伙伴配饰【踏肥燕】（原价60长鸣珠）"
+      "sourceEvidence": "伙伴配饰【踏肥燕】（原价60长鸣珠）",
+      "namingNote": {
+        "en": "Provisional reading of the Chinese identifier; official Global English/Korean names and schedule remain unknown.",
+        "ko": "중국 원명의 임시 독음이며 글로벌 영문·한국어 공식명과 일정은 미확인입니다."
+      },
+      "searchAliases": [
+        "踏肥燕",
+        "Ta Fei Yan",
+        "답비연"
+      ]
     },
     {
       "id": "wu-xian-pi-pa",
