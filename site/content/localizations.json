@@ -2723,17 +2723,17 @@
     }
   },
   "feng-hua-xian-ying": {
-    "koName": "风花衔影",
+    "koName": "풍화함영",
     "description": {
-      "en": "Accessory documented in the official CN archive. Regional availability and acquisition are recorded separately.",
-      "ko": "공식 중국 자료에서 확인한 장신구입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+      "en": "Pink CN Qixi lantern accessory with a bird-topped pagoda cage, flowers and a glowing flame. Individual purchase or optional gift box; the pictured outfit is separate.",
+      "ko": "분홍색 중국 칠석 등불 장신구로 새 모양 장식·누각형 등·꽃과 불꽃이 특징입니다. 개별 구매·선택 선물 상자가 있으며 사진의 의상은 별도입니다."
     }
   },
   "xue-yue-ning-guang": {
-    "koName": "雪月凝光",
+    "koName": "설월응광",
     "description": {
-      "en": "Accessory documented in the official CN archive. Regional availability and acquisition are recorded separately.",
-      "ko": "공식 중국 자료에서 확인한 장신구입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+      "en": "Blue CN Qixi lantern accessory with a bird-topped pagoda cage, flowers and a glowing flame. Individual purchase or optional gift box; the pictured outfit is separate.",
+      "ko": "파란색 중국 칠석 등불 장신구로 새 모양 장식·누각형 등·꽃과 불꽃이 특징입니다. 개별 구매·선택 선물 상자가 있으며 사진의 의상은 별도입니다."
     }
   },
   "hua-niao-xi": {
@@ -5135,6 +5135,41 @@
     "description": {
       "en": "CN Dong Li Ke head accessory for a goose companion.",
       "ko": "중국 동리고 거위 동료용 머리 장식입니다."
+    }
+  },
+  "global-bright-bulb": {
+    "koName": "총명한 파",
+    "description": {
+      "en": "Headwear named among Qingzhou Opening Month event rewards; its exact individual unlock requirement is unstated.",
+      "ko": "청주의 서막 이벤트 보상으로 명시된 모자이며 정확한 개별 해제 조건은 미표기입니다."
+    }
+  },
+  "global-apothecary-s-care": {
+    "koName": "약초 향기",
+    "description": {
+      "en": "Accessory named among Qingzhou Opening Month event rewards; its exact individual unlock requirement is unstated.",
+      "ko": "청주의 서막 이벤트 보상으로 명시된 장신구이며 정확한 개별 해제 조건은 미표기입니다."
+    }
+  },
+  "global-whispering-inspiration": {
+    "koName": "귓가의 신령",
+    "description": {
+      "en": "Exam Showdown earring reward for Integrity Points. EN and KO event opening dates disagree; exact cost and individual unlock date remain unknown.",
+      "ko": "시험장의 암투의 정도 수치 귀걸이 보상입니다. 영문·한국어 이벤트 시작일이 다르며 정확한 비용·개별 해제일은 미정입니다."
+    }
+  },
+  "global-written-in-stars": {
+    "koName": "하늘의 뜻",
+    "description": {
+      "en": "Outfit named in the Global Perception Forest Sin Leaf Exchange Shop update. Its exchange cost is unstated.",
+      "ko": "글로벌 각장림 죄업 교환 상점 업데이트에서 명시한 세트이며 교환 비용은 미표기입니다."
+    }
+  },
+  "global-smile-proof": {
+    "koName": "손댈 수 없는 미소",
+    "description": {
+      "en": "Face accessory in the Global Guild Reputation Shop. Reputation quantity and exchange end are unstated.",
+      "ko": "글로벌 동맹 명성 상점의 얼굴 장식이며 필요 명성 수량·교환 종료일은 미표기입니다."
     }
   }
 }

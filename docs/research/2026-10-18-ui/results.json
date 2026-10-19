@@ -1,0 +1,321 @@
+{
+  "date": "2026-10-18",
+  "environment": "Local production Worker in Codex in-app Chromium; viewport emulation, not physical devices",
+  "detailChecks": [
+    {
+      "id": "global-bright-bulb",
+      "locale": "ko",
+      "width": 390,
+      "heading": "총명한 파",
+      "overflow": false,
+      "photos": [],
+      "releaseUnverified": true,
+      "datesConflict": false
+    },
+    {
+      "id": "global-apothecary-s-care",
+      "locale": "ko",
+      "width": 390,
+      "heading": "약초 향기",
+      "overflow": false,
+      "photos": [],
+      "releaseUnverified": true,
+      "datesConflict": false
+    },
+    {
+      "id": "global-whispering-inspiration",
+      "locale": "ko",
+      "width": 390,
+      "heading": "귓가의 신령",
+      "overflow": false,
+      "photos": [],
+      "releaseUnverified": true,
+      "datesConflict": true
+    },
+    {
+      "id": "global-written-in-stars",
+      "locale": "ko",
+      "width": 390,
+      "heading": "하늘의 뜻",
+      "overflow": false,
+      "photos": [],
+      "releaseUnverified": true,
+      "datesConflict": false
+    },
+    {
+      "id": "global-smile-proof",
+      "locale": "ko",
+      "width": 390,
+      "heading": "손댈 수 없는 미소",
+      "overflow": false,
+      "photos": [],
+      "releaseUnverified": true,
+      "datesConflict": false
+    },
+    {
+      "id": "feng-hua-xian-ying",
+      "locale": "ko",
+      "width": 390,
+      "heading": "풍화함영",
+      "overflow": false,
+      "photos": [
+        {
+          "loaded": true,
+          "src": "/media/feng-hua-xian-ying-0-display.webp"
+        }
+      ],
+      "releaseUnverified": true,
+      "datesConflict": false,
+      "price300": true,
+      "box360": true
+    },
+    {
+      "id": "xue-yue-ning-guang",
+      "locale": "ko",
+      "width": 390,
+      "heading": "설월응광",
+      "overflow": false,
+      "photos": [
+        {
+          "loaded": true,
+          "src": "/media/xue-yue-ning-guang-0-display.webp"
+        }
+      ],
+      "releaseUnverified": true,
+      "datesConflict": false,
+      "price300": true,
+      "box360": true
+    },
+    {
+      "id": "zhang-meng-tian-xing",
+      "locale": "ko",
+      "width": 390,
+      "heading": "긴 꿈속의 별",
+      "overflow": false,
+      "photos": [
+        {
+          "loaded": true,
+          "src": "/media/zhang-meng-tian-xing-1-display.webp"
+        }
+      ],
+      "releaseUnverified": true,
+      "datesConflict": false
+    },
+    {
+      "id": "global-bright-bulb",
+      "locale": "en",
+      "width": 1440,
+      "heading": "Bright Bulb",
+      "overflow": false,
+      "photos": [],
+      "releaseUnverified": true,
+      "datesConflict": false
+    },
+    {
+      "id": "global-apothecary-s-care",
+      "locale": "en",
+      "width": 1440,
+      "heading": "Apothecary's Care",
+      "overflow": false,
+      "photos": [],
+      "releaseUnverified": true,
+      "datesConflict": false
+    },
+    {
+      "id": "global-whispering-inspiration",
+      "locale": "en",
+      "width": 1440,
+      "heading": "Whispering Inspiration",
+      "overflow": false,
+      "photos": [],
+      "releaseUnverified": true,
+      "datesConflict": true
+    },
+    {
+      "id": "global-written-in-stars",
+      "locale": "en",
+      "width": 1440,
+      "heading": "Written in Stars",
+      "overflow": false,
+      "photos": [],
+      "releaseUnverified": true,
+      "datesConflict": false
+    },
+    {
+      "id": "global-smile-proof",
+      "locale": "en",
+      "width": 1440,
+      "heading": "Smile-Proof",
+      "overflow": false,
+      "photos": [],
+      "releaseUnverified": true,
+      "datesConflict": false
+    },
+    {
+      "id": "feng-hua-xian-ying",
+      "locale": "en",
+      "width": 1440,
+      "heading": "feng hua xian ying",
+      "overflow": false,
+      "photos": [
+        {
+          "loaded": true,
+          "src": "/media/feng-hua-xian-ying-0-display.webp"
+        }
+      ],
+      "releaseUnverified": true,
+      "datesConflict": false,
+      "price300": true,
+      "box360": true
+    },
+    {
+      "id": "xue-yue-ning-guang",
+      "locale": "en",
+      "width": 1440,
+      "heading": "xue yue ning guang",
+      "overflow": false,
+      "photos": [
+        {
+          "loaded": true,
+          "src": "/media/xue-yue-ning-guang-0-display.webp"
+        }
+      ],
+      "releaseUnverified": true,
+      "datesConflict": false,
+      "price300": true,
+      "box360": true
+    },
+    {
+      "id": "zhang-meng-tian-xing",
+      "locale": "en",
+      "width": 1440,
+      "heading": "Starlit Slumber",
+      "overflow": false,
+      "photos": [
+        {
+          "loaded": true,
+          "src": "/media/zhang-meng-tian-xing-1-display.webp"
+        }
+      ],
+      "releaseUnverified": true,
+      "datesConflict": false
+    }
+  ],
+  "responsiveChecks": [
+    {
+      "heading": "귓가의 신령",
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "heading": "귓가의 신령",
+      "overflow": false,
+      "width": 360
+    },
+    {
+      "heading": "귓가의 신령",
+      "overflow": false,
+      "width": 390
+    },
+    {
+      "heading": "귓가의 신령",
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "heading": "귓가의 신령",
+      "overflow": false,
+      "width": 1024
+    },
+    {
+      "heading": "귓가의 신령",
+      "overflow": false,
+      "width": 1440
+    }
+  ],
+  "galleryChecks": [
+    {
+      "fullImages": [
+        {
+          "height": 1600,
+          "loaded": true,
+          "src": "/media/zhang-meng-tian-xing-1-full.webp",
+          "width": 900
+        },
+        {
+          "height": 1600,
+          "loaded": true,
+          "src": "/media/zhang-meng-tian-xing-2-full.webp",
+          "width": 900
+        },
+        {
+          "height": 1920,
+          "loaded": true,
+          "src": "/media/zhang-meng-tian-xing-0-full.webp",
+          "width": 1080
+        }
+      ],
+      "original": "https://nie.res.netease.com/r/pic/20260327/c0dd3d47-7f3e-4bb4-ac6a-596b203547b4.png",
+      "closed": true,
+      "id": "zhang-meng-tian-xing",
+      "focus": "이미지 크게 보기",
+      "firstDomCarouselGroup": "1 / 4",
+      "visibleGroupAwaited": "2 / 4"
+    },
+    {
+      "fullImages": [
+        {
+          "height": 2400,
+          "loaded": true,
+          "src": "/media/feng-hua-xian-ying-0-full.webp",
+          "width": 1330
+        },
+        {
+          "height": 854,
+          "loaded": true,
+          "src": "/media/feng-hua-xian-ying-1-full.webp",
+          "width": 1224
+        }
+      ],
+      "original": "https://nie.res.netease.com/r/pic/20260822/2aeac7c5-79a6-4ecd-a8e0-788d6ae51148.png",
+      "closed": true,
+      "id": "feng-hua-xian-ying",
+      "focus": "이미지 크게 보기",
+      "firstDomCarouselGroup": "1 / 2",
+      "visibleGroupAwaited": "2 / 2"
+    },
+    {
+      "fullImages": [
+        {
+          "height": 2400,
+          "loaded": true,
+          "src": "/media/xue-yue-ning-guang-0-full.webp",
+          "width": 1330
+        },
+        {
+          "height": 854,
+          "loaded": true,
+          "src": "/media/xue-yue-ning-guang-1-full.webp",
+          "width": 1224
+        }
+      ],
+      "original": "https://nie.res.netease.com/r/pic/20260822/2aeac7c5-79a6-4ecd-a8e0-788d6ae51148.png",
+      "closed": true,
+      "id": "xue-yue-ning-guang",
+      "focus": "이미지 크게 보기",
+      "firstDomCarouselGroup": "1 / 2",
+      "visibleGroupAwaited": "2 / 2"
+    }
+  ],
+  "logs": [],
+  "limits": [
+    "Physical devices, Firefox/WebKit, 200% text enlargement, throttled-network performance and field Core Web Vitals not tested",
+    "Immediate reads during gallery transition were followed by awaited group/closed-state assertions"
+  ],
+  "missingPhotoState": {
+    "id": "global-whispering-inspiration",
+    "locale": "ko",
+    "text": "사진 확인 중",
+    "verified": true
+  }
+}

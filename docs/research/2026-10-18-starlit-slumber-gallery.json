@@ -1,0 +1,213 @@
+{
+  "checkedAt": "2026-10-18",
+  "reviewTimezone": "America/New_York",
+  "scope": "Bounded current-reward gallery review; three additional official CN Starlit Slumber portraits. No new Global live-availability claim, release date, pricing or forecast.",
+  "sources": [
+    {
+      "id": "cn-819f0aca2216",
+      "url": "https://www.yysls.cn/news/official/20260327/37780_1293405.html",
+      "server": "CN",
+      "publisher": "NetEase / Where Winds Meet official website",
+      "displayedPublicationDate": "2026-03-27",
+      "inspectionScope": "Named 长梦天星 hairstyle heading, four individual portraits and in-development / face-data credit captions."
+    }
+  ],
+  "galleryOrdering": "Existing male front image index 0 is preserved. New female front and rear images use indices 1 and 2 and presentationSubject female; preferredMedia places them first without renumbering existing media.",
+  "addedMedia": [
+    {
+      "cosmeticId": "zhang-meng-tian-xing",
+      "index": 1,
+      "originalUrl": "https://nie.res.netease.com/r/pic/20260327/c9e0e324-d4b6-42ad-a82f-62fee3889cf6.png",
+      "sourceId": "cn-819f0aca2216",
+      "sourcePage": "https://www.yysls.cn/news/official/20260327/37780_1293405.html",
+      "originalSha256": "822689605252e8d6ac06ff2b20a206ee54d119f125dafca9232e681d7bd4087c",
+      "originalBytes": 3361783,
+      "width": 1080,
+      "height": 1920,
+      "view": "front",
+      "subject": "female",
+      "visuallyInspected": true,
+      "sourceCrop": null,
+      "presentationCrop": [
+        200,
+        217,
+        630,
+        983
+      ],
+      "presentationCropBasis": "Coordinates in the optimized 900 × 1600 full artwork; the full image is uncropped.",
+      "media": {
+        "cosmeticId": "zhang-meng-tian-xing",
+        "index": 1,
+        "originalUrl": "https://nie.res.netease.com/r/pic/20260327/c9e0e324-d4b6-42ad-a82f-62fee3889cf6.png",
+        "sourceId": "cn-819f0aca2216",
+        "server": "CN",
+        "thumbnail": "/media/zhang-meng-tian-xing-1-thumb.webp",
+        "full": "/media/zhang-meng-tian-xing-1-full.webp",
+        "preview": "/media/zhang-meng-tian-xing-1-preview.webp",
+        "display": "/media/zhang-meng-tian-xing-1-display.webp",
+        "presentationCrop": [
+          200,
+          217,
+          630,
+          983
+        ],
+        "displayWidth": 430,
+        "displayHeight": 766,
+        "presentationSubject": "female",
+        "permission": "unknown",
+        "audience": "reference artwork; excluded from the code license",
+        "fullBytes": 243934,
+        "displayBytes": 51758,
+        "thumbnailBytes": 26608,
+        "previewBytes": 2952
+      },
+      "identityBasis": {
+        "en": "The official CN article names the section 长梦天星 and each portrait prints the same name. The existing version 2.3 EN/KO identity mapping is retained.",
+        "ko": "중국 공식 기사 구획 제목과 각 인물 사진에 长梦天星가 명시되어 있습니다. 기존 2.3 버전 영문·한국어 이름 대응을 유지합니다."
+      },
+      "sourceQualification": {
+        "en": "Official CN in-development artwork; no live Global build or current availability verification.",
+        "ko": "중국 공식 개발 중 참고사진이며 현재 글로벌 빌드·획득 가능 여부는 미확인입니다."
+      },
+      "reusePermission": "unknown",
+      "attribution": "© NetEase / Everstone Studio; source credits female face data to 春*."
+    },
+    {
+      "cosmeticId": "zhang-meng-tian-xing",
+      "index": 2,
+      "originalUrl": "https://nie.res.netease.com/r/pic/20260327/c0dd3d47-7f3e-4bb4-ac6a-596b203547b4.png",
+      "sourceId": "cn-819f0aca2216",
+      "sourcePage": "https://www.yysls.cn/news/official/20260327/37780_1293405.html",
+      "originalSha256": "97473fa4a6b268beafa8971fb37e034a21bcb8ab85302ebd9cf16dac504e7194",
+      "originalBytes": 3424160,
+      "width": 1080,
+      "height": 1920,
+      "view": "back",
+      "subject": "female",
+      "visuallyInspected": true,
+      "sourceCrop": null,
+      "presentationCrop": [
+        180,
+        125,
+        630,
+        1450
+      ],
+      "presentationCropBasis": "Coordinates in the optimized 900 × 1600 full artwork; the full image is uncropped.",
+      "media": {
+        "cosmeticId": "zhang-meng-tian-xing",
+        "index": 2,
+        "originalUrl": "https://nie.res.netease.com/r/pic/20260327/c0dd3d47-7f3e-4bb4-ac6a-596b203547b4.png",
+        "sourceId": "cn-819f0aca2216",
+        "server": "CN",
+        "thumbnail": "/media/zhang-meng-tian-xing-2-thumb.webp",
+        "full": "/media/zhang-meng-tian-xing-2-full.webp",
+        "preview": "/media/zhang-meng-tian-xing-2-preview.webp",
+        "display": "/media/zhang-meng-tian-xing-2-display.webp",
+        "presentationCrop": [
+          180,
+          125,
+          630,
+          1450
+        ],
+        "displayWidth": 450,
+        "displayHeight": 1325,
+        "presentationSubject": "female",
+        "permission": "unknown",
+        "audience": "reference artwork; excluded from the code license",
+        "fullBytes": 259680,
+        "displayBytes": 122988,
+        "thumbnailBytes": 39642,
+        "previewBytes": 2080
+      },
+      "identityBasis": {
+        "en": "The official CN article names the section 长梦天星 and each portrait prints the same name. The existing version 2.3 EN/KO identity mapping is retained.",
+        "ko": "중국 공식 기사 구획 제목과 각 인물 사진에 长梦天星가 명시되어 있습니다. 기존 2.3 버전 영문·한국어 이름 대응을 유지합니다."
+      },
+      "sourceQualification": {
+        "en": "Official CN in-development artwork; no live Global build or current availability verification.",
+        "ko": "중국 공식 개발 중 참고사진이며 현재 글로벌 빌드·획득 가능 여부는 미확인입니다."
+      },
+      "reusePermission": "unknown",
+      "attribution": "© NetEase / Everstone Studio; source credits female face data to 春*."
+    },
+    {
+      "cosmeticId": "zhang-meng-tian-xing",
+      "index": 3,
+      "originalUrl": "https://nie.res.netease.com/r/pic/20260327/9b6bb664-8e9b-42ef-acf0-a5882301614f.png",
+      "sourceId": "cn-819f0aca2216",
+      "sourcePage": "https://www.yysls.cn/news/official/20260327/37780_1293405.html",
+      "originalSha256": "4290f85602c87501d4269c035c3a342cc6c703c8cf459462e6346ca259747a2e",
+      "originalBytes": 3398761,
+      "width": 1080,
+      "height": 1920,
+      "view": "back",
+      "subject": "male",
+      "visuallyInspected": true,
+      "sourceCrop": null,
+      "presentationCrop": [
+        180,
+        125,
+        630,
+        1450
+      ],
+      "presentationCropBasis": "Coordinates in the optimized 900 × 1600 full artwork; the full image is uncropped.",
+      "media": {
+        "cosmeticId": "zhang-meng-tian-xing",
+        "index": 3,
+        "originalUrl": "https://nie.res.netease.com/r/pic/20260327/9b6bb664-8e9b-42ef-acf0-a5882301614f.png",
+        "sourceId": "cn-819f0aca2216",
+        "server": "CN",
+        "thumbnail": "/media/zhang-meng-tian-xing-3-thumb.webp",
+        "full": "/media/zhang-meng-tian-xing-3-full.webp",
+        "preview": "/media/zhang-meng-tian-xing-3-preview.webp",
+        "display": "/media/zhang-meng-tian-xing-3-display.webp",
+        "presentationCrop": [
+          180,
+          125,
+          630,
+          1450
+        ],
+        "displayWidth": 450,
+        "displayHeight": 1325,
+        "presentationSubject": "male",
+        "permission": "unknown",
+        "audience": "reference artwork; excluded from the code license",
+        "fullBytes": 233948,
+        "displayBytes": 110074,
+        "thumbnailBytes": 35424,
+        "previewBytes": 2394
+      },
+      "identityBasis": {
+        "en": "The official CN article names the section 长梦天星 and each portrait prints the same name. The existing version 2.3 EN/KO identity mapping is retained.",
+        "ko": "중국 공식 기사 구획 제목과 각 인물 사진에 长梦天星가 명시되어 있습니다. 기존 2.3 버전 영문·한국어 이름 대응을 유지합니다."
+      },
+      "sourceQualification": {
+        "en": "Official CN in-development artwork; no live Global build or current availability verification.",
+        "ko": "중국 공식 개발 중 참고사진이며 현재 글로벌 빌드·획득 가능 여부는 미확인입니다."
+      },
+      "reusePermission": "unknown",
+      "attribution": "© NetEase / Everstone Studio; source credits male face data to 江*寄."
+    }
+  ],
+  "rejectedCandidates": [
+    {
+      "cosmeticId": "xing-chui-ping-ye",
+      "nameEn": "Starfall Plains",
+      "nameKo": "별 쏟아지는 들녘",
+      "decision": "Leave pending: the inspected CN article explicitly names the reward but does not provide a separately named portrait. Do not infer a hairstyle identity from the outfit model.",
+      "sourceId": "cn-819f0aca2216"
+    },
+    {
+      "originalUrl": "https://nie.res.netease.com/r/pic/20260327/6c80708f-b230-427a-ad8f-942628a80bdb.png",
+      "decision": "Inspected and excluded from hairstyle gallery: explicitly labelled 头像 (avatar); it is a framed avatar reward poster rather than an individual hair reference."
+    }
+  ],
+  "rights": {
+    "permission": "unknown",
+    "owner": "NetEase / Everstone Studio and applicable rights holders",
+    "note": {
+      "en": "Official provenance and attribution do not establish redistribution permission. Artwork remains excluded from the code license.",
+      "ko": "공식 출처·출처 표기만으로 재배포 허가를 뜻하지 않으며 이미지는 코드 라이선스 적용 대상에서 제외합니다."
+    }
+  }
+}

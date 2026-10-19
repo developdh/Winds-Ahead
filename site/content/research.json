@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "verifiedAt": "2026-10-17",
+  "verifiedAt": "2026-10-18",
   "scope": "Cross-server archive from individually reviewed official announcements; not a certified complete game inventory.",
   "sources": [
     {
@@ -1091,7 +1091,15 @@
       "displayedPublicationDate": "2026-08-18",
       "publicationDatePrecision": "day",
       "publicationTimezone": null,
-      "evidenceTier": "A"
+      "evidenceTier": "A",
+      "verifiedAt": "2026-10-18",
+      "urlPathDate": "2026-08-22",
+      "dateDiscrepancyNote": "Displayed publication date is August 18; URL directory is August 22. Use article body for listing dates.",
+      "verificationNote": "Re-read the complete individual purchase and two alternative gift-box terms. Inspected both full lantern photographs and the final paired accessory panel. The panel explicitly prints the individual names, resolving pink/blue identity mapping.",
+      "sourceImageCaveat": {
+        "en": "Official CN in-development reference; the final in-game appearance may differ.",
+        "ko": "중국 공식 개발 중 참고 사진이며 최종 게임 내 모습과 다를 수 있습니다."
+      }
     },
     {
       "id": "cn-e276ae7970d3",
@@ -4287,6 +4295,32 @@
       "publicationTimezone": null,
       "evidenceTier": "A",
       "verifiedAt": "2026-10-17"
+    },
+    {
+      "id": "global-20261016-repair-en",
+      "url": "https://www.wherewindsmeetgame.com/news/official/1016patchnotes.html",
+      "publisher": "NetEase / Where Winds Meet official website",
+      "server": "Global",
+      "titleOriginal": "Version 2.3 Patch Notes: Optimizations and Bug Fixes (October 16)",
+      "displayedPublicationDate": "2026-10-16",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-10-18",
+      "verificationNote": "Full body read. Written in Stars / 하늘의 뜻 names corroborated by the acquired-outfit Wardrobe visibility fix; no current store stock or new acquisition date inferred."
+    },
+    {
+      "id": "global-20261016-repair-ko",
+      "url": "https://www.wherewindsmeetgame.com/kr/news/official/1016patchnotes.html",
+      "publisher": "NetEase / Where Winds Meet official website",
+      "server": "Global",
+      "titleOriginal": "2.3 버전 최적화 및 수정 공지 (10월 16일)",
+      "displayedPublicationDate": "2026-10-16",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-10-18",
+      "verificationNote": "Full body read. Written in Stars / 하늘의 뜻 names corroborated by the acquired-outfit Wardrobe visibility fix; no current store stock or new acquisition date inferred."
     }
   ],
   "mediaRights": {
@@ -20262,6 +20296,84 @@
           "reusePermission": "unknown",
           "localCopy": null,
           "server": "CN"
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260327/c9e0e324-d4b6-42ad-a82f-62fee3889cf6.png",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 3361783,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "description": "Named Starlit Slumber female front reference",
+          "inspectionNote": "Viewed individually at readable resolution on October 18, 2026. The source heading and artwork both print 长梦天星. Female front view; original CN article labels the material as in development. No current in-game or Global-build verification.",
+          "sourceId": "cn-819f0aca2216",
+          "sourceUrl": "https://www.yysls.cn/news/official/20260327/37780_1293405.html",
+          "sourceFrame": 0,
+          "sourceCrop": null,
+          "reusePermission": "unknown",
+          "localCopy": null,
+          "server": "CN",
+          "alt": {
+            "en": "Starlit Slumber female CN reference: long dark-blue hair with turquoise streaks and golden star ornaments, front view",
+            "ko": "긴 꿈속의 별 여성 중국 참고사진: 청록색 줄과 금빛 별 장식을 더한 긴 남색 머리 정면"
+          },
+          "caption": {
+            "en": "Official CN development preview, female front view. Character crop is shown first; enlargement retains the complete artwork. This is not verified live Global footage.",
+            "ko": "중국 공식 개발 중 여성 정면 참고사진입니다. 인물 중심 구도를 먼저 보여주며 확대하면 전체 원화를 볼 수 있습니다. 현재 글로벌 실착 확인 사진은 아닙니다."
+          },
+          "attribution": "© NetEase / Everstone Studio; source credits female face data to 春*."
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260327/c0dd3d47-7f3e-4bb4-ac6a-596b203547b4.png",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 3424160,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "description": "Named Starlit Slumber female back reference",
+          "inspectionNote": "Viewed individually at readable resolution on October 18, 2026. The source heading and artwork both print 长梦天星. Female back view; original CN article labels the material as in development. No current in-game or Global-build verification.",
+          "sourceId": "cn-819f0aca2216",
+          "sourceUrl": "https://www.yysls.cn/news/official/20260327/37780_1293405.html",
+          "sourceFrame": 0,
+          "sourceCrop": null,
+          "reusePermission": "unknown",
+          "localCopy": null,
+          "server": "CN",
+          "alt": {
+            "en": "Starlit Slumber female CN reference, rear view: long blue hair, turquoise ribbons, gold chains and crescent ornament",
+            "ko": "긴 꿈속의 별 여성 중국 후면 참고사진: 긴 푸른 머리·청록 띠·금 사슬과 초승달 장식"
+          },
+          "caption": {
+            "en": "Official CN development preview, female rear view. Enlargement retains the complete artwork and long-hair silhouette; current in-game appearance has not been checked.",
+            "ko": "중국 공식 개발 중 여성 후면 참고사진입니다. 확대에서 전체 원화와 긴 머리 실루엣을 볼 수 있으며 현재 게임 내 모습은 미확인입니다."
+          },
+          "attribution": "© NetEase / Everstone Studio; source credits female face data to 春*."
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260327/9b6bb664-8e9b-42ef-acf0-a5882301614f.png",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 3398761,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "description": "Named Starlit Slumber male back reference",
+          "inspectionNote": "Viewed individually at readable resolution on October 18, 2026. The source heading and artwork both print 长梦天星. Male back view; original CN article labels the material as in development. No current in-game or Global-build verification.",
+          "sourceId": "cn-819f0aca2216",
+          "sourceUrl": "https://www.yysls.cn/news/official/20260327/37780_1293405.html",
+          "sourceFrame": 0,
+          "sourceCrop": null,
+          "reusePermission": "unknown",
+          "localCopy": null,
+          "server": "CN",
+          "alt": {
+            "en": "Starlit Slumber male CN reference, rear view: layered blue hair, turquoise ribbons and gold crescent ornament",
+            "ko": "긴 꿈속의 별 남성 중국 후면 참고사진: 겹친 푸른 머리·청록 띠와 금빛 초승달 장식"
+          },
+          "caption": {
+            "en": "Official CN development preview, male rear view. The complete original composition remains accessible in enlargement; current in-game appearance has not been checked.",
+            "ko": "중국 공식 개발 중 남성 후면 참고사진입니다. 확대에서 원본 전체 구도를 볼 수 있으며 현재 게임 내 모습은 미확인입니다."
+          },
+          "attribution": "© NetEase / Everstone Studio; source credits male face data to 江*寄."
         }
       ],
       "officialVideos": [],
@@ -32956,40 +33068,99 @@
       "officialNameEn": null,
       "officialNameKo": null,
       "cnRelease": {
-        "date": null,
-        "precision": "unknown",
+        "date": "2026-08-19",
+        "precision": "day",
         "timezone": null,
         "contextual": false,
-        "basis": "Exact item release day not established"
+        "basis": "Explicit announced listing date; actual release unverified."
       },
       "acquisition": {
-        "kind": "unknown",
-        "pricing": "unknown",
-        "amount": null,
+        "kind": "shop",
+        "pricing": "fixed",
+        "amount": 300,
         "regularAmount": null,
         "currencyOriginal": "长鸣珠",
         "location": {
-          "en": "Under review",
-          "ko": "확인 중",
-          "original": "未核实"
+          "en": "Limited appearance listing",
+          "ko": "한정 외관 판매",
+          "original": "限时上架"
         },
         "conditions": {
-          "en": "CN announcement terms; quantities are shown only when stated for this appearance. Sales, discounts and reward conditions may have ended.",
-          "ko": "중국 공지의 획득 조건입니다. 해당 외관에 명시된 수량만 기재했으며 판매·할인·보상 기간은 종료되었을 수 있습니다."
+          "en": "CN announcement: 300 Echo Beads for either accessory individually, August 19, 2026 00:00 to September 14 05:00; timezone unstated. Alternative: the Fei Yun Gong Ying (绯云共影) box costs 360 Echo Beads and grants this accessory plus one 雪月凝光 usable only as a gift. Either box also grants the listed duo action and scenario poses. Bundle cost is not the individual price. Current availability and actual release are unverified.",
+          "ko": "중국 공식 예고: 각 장신구는 장명주 300개이며 2026년 8월 19일 00:00부터 9월 14일 05:00까지 한정 판매, 시간대는 미표기입니다. 별도 비운공영(绯云共影) 상자는 장명주 360개로 이 장신구와 선물 전용 雪月凝光 1개를 지급합니다. 어느 상자든 공지의 2인 동작·배경 자세를 추가로 지급합니다. 상자 가격과 개별 가격을 구분하며 실제 출시·현재 판매 여부는 미확인입니다."
         },
-        "en": "See the acquisition method and source conditions.",
-        "ko": "획득 방법과 출처의 조건을 확인하세요.",
-        "sourceExcerpt": "此外，节日限定配饰「风花衔影」与「雪月凝光」，将于8月19日0点至9月14日5点限时上架。游侠可以300长鸣珠购得「风花衔影」与「雪月凝光」任一配饰。"
+        "en": "CN individual accessory; alternative gift box sold separately",
+        "ko": "중국 개별 장신구이며 선물 상자는 별도 판매"
       },
-      "images": [],
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260822/74d28769-7d9f-4314-9b30-a49cedadb88b.jpg",
+          "width": 2554,
+          "height": 4608,
+          "bytes": 6657453,
+          "kind": "official_appearance_reference",
+          "sourceId": "cn-e39411c8a3b1",
+          "server": "CN",
+          "visuallyInspected": true,
+          "inspectionNote": "2026-10-18 America/New_York: the original paired label panel explicitly names the pink lantern 风花衔影 and blue lantern 雪月凝光. Matched the bird, pagoda cage, floral decoration and flame to these individual character references. Full character composition retained in enlargement; no current in-game check. Source explicitly qualifies the character reference as an in-development effect demonstration; final appearance may differ.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/feng-hua-xian-ying-0-full.webp",
+          "alt": {
+            "en": "Feng Hua Xian Ying official CN lantern reference.",
+            "ko": "풍화함영 중국 공식 등불 참고 사진."
+          },
+          "caption": {
+            "en": "Official CN in-development lantern accessory reference; final appearance may differ. The pictured outfit is separate; English/Korean names are provisional readings. Enlargement retains the complete character composition, and the source link opens the original artwork.",
+            "ko": "중국 공식 개발 중 등불 장신구 참고 사진으로 최종 모습은 다를 수 있습니다. 사진의 의상은 별도이며 영문·한국어는 편의 독음입니다. 확대에서 전체 인물 구도를 유지하며 출처 링크에서 원본을 볼 수 있습니다."
+          },
+          "attribution": "燕云十六声 / NetEase / Everstone Studio"
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260822/2aeac7c5-79a6-4ecd-a8e0-788d6ae51148.png",
+          "width": 1224,
+          "height": 854,
+          "bytes": 2607034,
+          "kind": "official_appearance_reference",
+          "sourceId": "cn-e39411c8a3b1",
+          "server": "CN",
+          "visuallyInspected": true,
+          "inspectionNote": "2026-10-18 America/New_York: the original paired label panel explicitly names the pink lantern 风花衔影 and blue lantern 雪月凝光. Matched the bird, pagoda cage, floral decoration and flame to these individual character references. Full character composition retained in enlargement; no current in-game check.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/feng-hua-xian-ying-1-full.webp",
+          "alt": {
+            "en": "Feng Hua Xian Ying official CN lantern reference.",
+            "ko": "풍화함영 중국 공식 등불 참고 사진."
+          },
+          "caption": {
+            "en": "Single named panel extracted from the official paired accessory artwork; the complete original poster remains available at the source URL.",
+            "ko": "공식 장신구 2종 사진에서 이름이 있는 개별 패널을 추출했습니다. 출처 링크에서 전체 원본 포스터를 볼 수 있습니다."
+          },
+          "attribution": "燕云十六声 / NetEase / Everstone Studio",
+          "sourceCrop": [
+            0,
+            0,
+            1224,
+            854
+          ]
+        }
+      ],
       "officialVideos": [],
-      "mediaStatus": "pending",
+      "mediaStatus": "verified",
       "global": {
         "status": "unknown",
         "officialName": null,
         "releaseDate": null
       },
-      "sourceEvidence": "此外，节日限定配饰「风花衔影」与「雪月凝光」，将于8月19日0点至9月14日5点限时上架。游侠可以300长鸣珠购得「风花衔影」与「雪月凝光」任一配饰。"
+      "sourceEvidence": "此外，节日限定配饰「风花衔影」与「雪月凝光」，将于8月19日0点至9月14日5点限时上架。游侠可以300长鸣珠购得「风花衔影」与「雪月凝光」任一配饰。",
+      "namingNote": {
+        "en": "Provisional English/Korean readings of the CN original; official Global names and identity correspondence remain unknown.",
+        "ko": "중국 원명의 편의 영문·한국어 독음이며 글로벌 공식명·대응 외관은 미확인입니다."
+      },
+      "searchAliases": [
+        "风花衔影",
+        "Feng Hua Xian Ying",
+        "풍화함영"
+      ]
     },
     {
       "id": "xue-yue-ning-guang",
@@ -33002,40 +33173,99 @@
       "officialNameEn": null,
       "officialNameKo": null,
       "cnRelease": {
-        "date": null,
-        "precision": "unknown",
+        "date": "2026-08-19",
+        "precision": "day",
         "timezone": null,
         "contextual": false,
-        "basis": "Exact item release day not established"
+        "basis": "Explicit announced listing date; actual release unverified."
       },
       "acquisition": {
-        "kind": "unknown",
-        "pricing": "unknown",
-        "amount": null,
+        "kind": "shop",
+        "pricing": "fixed",
+        "amount": 300,
         "regularAmount": null,
-        "currencyOriginal": null,
+        "currencyOriginal": "长鸣珠",
         "location": {
-          "en": "Under review",
-          "ko": "확인 중",
-          "original": "未核实"
+          "en": "Limited appearance listing",
+          "ko": "한정 외관 판매",
+          "original": "限时上架"
         },
         "conditions": {
-          "en": "The source does not establish the required amount. Current availability has not been checked.",
-          "ko": "공지에서 필요한 수량을 확인하지 못했습니다. 현재 획득 가능 여부는 별도 확인이 필요합니다."
+          "en": "CN announcement: 300 Echo Beads for either accessory individually, August 19, 2026 00:00 to September 14 05:00; timezone unstated. Alternative: the Jiao Yue Tong Hui (皎月同辉) box costs 360 Echo Beads and grants this accessory plus one 风花衔影 usable only as a gift. Either box also grants the listed duo action and scenario poses. Bundle cost is not the individual price. Current availability and actual release are unverified.",
+          "ko": "중국 공식 예고: 각 장신구는 장명주 300개이며 2026년 8월 19일 00:00부터 9월 14일 05:00까지 한정 판매, 시간대는 미표기입니다. 별도 교월동휘(皎月同辉) 상자는 장명주 360개로 이 장신구와 선물 전용 风花衔影 1개를 지급합니다. 어느 상자든 공지의 2인 동작·배경 자세를 추가로 지급합니다. 상자 가격과 개별 가격을 구분하며 실제 출시·현재 판매 여부는 미확인입니다."
         },
-        "en": "See the acquisition method and source conditions.",
-        "ko": "획득 방법과 출처의 조건을 확인하세요.",
-        "sourceExcerpt": "购入【绯云共影】可获得配饰「风花衔影」，与一个仅用于赠送的配饰「雪月凝光」。"
+        "en": "CN individual accessory; alternative gift box sold separately",
+        "ko": "중국 개별 장신구이며 선물 상자는 별도 판매"
       },
-      "images": [],
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260822/bd28c974-9750-468f-a5e2-ac75f53c8d24.jpg",
+          "width": 2554,
+          "height": 4608,
+          "bytes": 7194835,
+          "kind": "official_appearance_reference",
+          "sourceId": "cn-e39411c8a3b1",
+          "server": "CN",
+          "visuallyInspected": true,
+          "inspectionNote": "2026-10-18 America/New_York: the original paired label panel explicitly names the pink lantern 风花衔影 and blue lantern 雪月凝光. Matched the bird, pagoda cage, floral decoration and flame to these individual character references. Full character composition retained in enlargement; no current in-game check. Source explicitly qualifies the character reference as an in-development effect demonstration; final appearance may differ.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/xue-yue-ning-guang-0-full.webp",
+          "alt": {
+            "en": "Xue Yue Ning Guang official CN lantern reference.",
+            "ko": "설월응광 중국 공식 등불 참고 사진."
+          },
+          "caption": {
+            "en": "Official CN in-development lantern accessory reference; final appearance may differ. The pictured outfit is separate; English/Korean names are provisional readings. Enlargement retains the complete character composition, and the source link opens the original artwork.",
+            "ko": "중국 공식 개발 중 등불 장신구 참고 사진으로 최종 모습은 다를 수 있습니다. 사진의 의상은 별도이며 영문·한국어는 편의 독음입니다. 확대에서 전체 인물 구도를 유지하며 출처 링크에서 원본을 볼 수 있습니다."
+          },
+          "attribution": "燕云十六声 / NetEase / Everstone Studio"
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260822/2aeac7c5-79a6-4ecd-a8e0-788d6ae51148.png",
+          "width": 1224,
+          "height": 854,
+          "bytes": 2607034,
+          "kind": "official_appearance_reference",
+          "sourceId": "cn-e39411c8a3b1",
+          "server": "CN",
+          "visuallyInspected": true,
+          "inspectionNote": "2026-10-18 America/New_York: the original paired label panel explicitly names the pink lantern 风花衔影 and blue lantern 雪月凝光. Matched the bird, pagoda cage, floral decoration and flame to these individual character references. Full character composition retained in enlargement; no current in-game check.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/xue-yue-ning-guang-1-full.webp",
+          "alt": {
+            "en": "Xue Yue Ning Guang official CN lantern reference.",
+            "ko": "설월응광 중국 공식 등불 참고 사진."
+          },
+          "caption": {
+            "en": "Single named panel extracted from the official paired accessory artwork; the complete original poster remains available at the source URL.",
+            "ko": "공식 장신구 2종 사진에서 이름이 있는 개별 패널을 추출했습니다. 출처 링크에서 전체 원본 포스터를 볼 수 있습니다."
+          },
+          "attribution": "燕云十六声 / NetEase / Everstone Studio",
+          "sourceCrop": [
+            1224,
+            0,
+            2448,
+            854
+          ]
+        }
+      ],
       "officialVideos": [],
-      "mediaStatus": "pending",
+      "mediaStatus": "verified",
       "global": {
         "status": "unknown",
         "officialName": null,
         "releaseDate": null
       },
-      "sourceEvidence": "购入【绯云共影】可获得配饰「风花衔影」，与一个仅用于赠送的配饰「雪月凝光」。"
+      "sourceEvidence": "购入【绯云共影】可获得配饰「风花衔影」，与一个仅用于赠送的配饰「雪月凝光」。",
+      "namingNote": {
+        "en": "Provisional English/Korean readings of the CN original; official Global names and identity correspondence remain unknown.",
+        "ko": "중국 원명의 편의 영문·한국어 독음이며 글로벌 공식명·대응 외관은 미확인입니다."
+      },
+      "searchAliases": [
+        "雪月凝光",
+        "Xue Yue Ning Guang",
+        "설월응광"
+      ]
     },
     {
       "id": "hua-niao-xi",
@@ -54631,6 +54861,266 @@
         "Dong Li Ke · Goose",
         "东篱客",
         "伙伴配饰·鹅"
+      ]
+    },
+    {
+      "id": "global-bright-bulb",
+      "nameOriginal": "Bright Bulb",
+      "romanization": "Bright Bulb",
+      "category": "accessory",
+      "sourceId": "global-20261015-version23-en",
+      "acquisitionServer": "Global",
+      "mediaServer": "Global",
+      "officialNameEn": "Bright Bulb",
+      "officialNameKo": "총명한 파",
+      "cnRelease": {
+        "date": null,
+        "precision": "unknown",
+        "timezone": null,
+        "contextual": false,
+        "basis": "CN identity and original individual release schedule unverified."
+      },
+      "acquisition": {
+        "kind": "event",
+        "pricing": "unknown",
+        "amount": null,
+        "regularAmount": null,
+        "currencyOriginal": null,
+        "location": {
+          "en": "Qingzhou Opening Month",
+          "ko": "청주의 서막",
+          "original": "Qingzhou Opening Month"
+        },
+        "conditions": {
+          "en": "Earn rewards through Oratory Debut, Inquiries of Ink-sight and Exploration Manual during Qingzhou Opening Month. Requires level 10 and completion of Qinghe Main Chapter Another New Wing. The event opens after the October 15, 2026 update and ends November 14, 2026: EN 04:59:59 / KO 05:59:59. Both poster timezones are unstated. The notice does not assign this individual reward to a specific activity, payout day or requirement; price, token quantity and exact individual unlock day remain unknown.",
+          "ko": "청주의 서막 기간에 화술 겨루기·길잡이 문답·탐색 수첩에 참여해 보상을 획득합니다. 협객 레벨 10 및 청하 본편 새로운 날갯짓 완료가 필요합니다. 이벤트는 2026년 10월 15일 업데이트 후 시작하며 11월 14일 영문 04:59:59·한국어 05:59:59에 종료됩니다. 양쪽 이미지 모두 시간대는 미표기입니다. 이 보상의 개별 세부 콘텐츠·지급일·요구 조건은 구분해 명시하지 않았으며 가격·재화 수량·정확한 개별 해제일은 미정입니다."
+        },
+        "en": "Official Global announcement; exact acquisition quantity unstated.",
+        "ko": "글로벌 공식 예고이며 정확한 획득 수량은 미표기입니다."
+      },
+      "global": {
+        "status": "unknown",
+        "releaseDate": null,
+        "officialName": null
+      },
+      "images": [],
+      "officialVideos": [],
+      "mediaStatus": "pending",
+      "namingNote": {
+        "en": "Official English/Korean names verified in paired Global version 2.3 gameplay-reward sections; CN counterpart unverified.",
+        "ko": "글로벌 2.3 버전 영문·한국어 콘텐츠 보상 항목에서 공식 명칭을 확인했으며 중국 대응은 미확인입니다."
+      },
+      "searchAliases": [
+        "Bright Bulb",
+        "총명한 파"
+      ]
+    },
+    {
+      "id": "global-apothecary-s-care",
+      "nameOriginal": "Apothecary's Care",
+      "romanization": "Apothecary's Care",
+      "category": "accessory",
+      "sourceId": "global-20261015-version23-en",
+      "acquisitionServer": "Global",
+      "mediaServer": "Global",
+      "officialNameEn": "Apothecary's Care",
+      "officialNameKo": "약초 향기",
+      "cnRelease": {
+        "date": null,
+        "precision": "unknown",
+        "timezone": null,
+        "contextual": false,
+        "basis": "CN identity and original individual release schedule unverified."
+      },
+      "acquisition": {
+        "kind": "event",
+        "pricing": "unknown",
+        "amount": null,
+        "regularAmount": null,
+        "currencyOriginal": null,
+        "location": {
+          "en": "Qingzhou Opening Month",
+          "ko": "청주의 서막",
+          "original": "Qingzhou Opening Month"
+        },
+        "conditions": {
+          "en": "Earn rewards through Oratory Debut, Inquiries of Ink-sight and Exploration Manual during Qingzhou Opening Month. Requires level 10 and completion of Qinghe Main Chapter Another New Wing. The event opens after the October 15, 2026 update and ends November 14, 2026: EN 04:59:59 / KO 05:59:59. Both poster timezones are unstated. The notice does not assign this individual reward to a specific activity, payout day or requirement; price, token quantity and exact individual unlock day remain unknown.",
+          "ko": "청주의 서막 기간에 화술 겨루기·길잡이 문답·탐색 수첩에 참여해 보상을 획득합니다. 협객 레벨 10 및 청하 본편 새로운 날갯짓 완료가 필요합니다. 이벤트는 2026년 10월 15일 업데이트 후 시작하며 11월 14일 영문 04:59:59·한국어 05:59:59에 종료됩니다. 양쪽 이미지 모두 시간대는 미표기입니다. 이 보상의 개별 세부 콘텐츠·지급일·요구 조건은 구분해 명시하지 않았으며 가격·재화 수량·정확한 개별 해제일은 미정입니다."
+        },
+        "en": "Official Global announcement; exact acquisition quantity unstated.",
+        "ko": "글로벌 공식 예고이며 정확한 획득 수량은 미표기입니다."
+      },
+      "global": {
+        "status": "unknown",
+        "releaseDate": null,
+        "officialName": null
+      },
+      "images": [],
+      "officialVideos": [],
+      "mediaStatus": "pending",
+      "namingNote": {
+        "en": "Official English/Korean names verified in paired Global version 2.3 gameplay-reward sections; CN counterpart unverified.",
+        "ko": "글로벌 2.3 버전 영문·한국어 콘텐츠 보상 항목에서 공식 명칭을 확인했으며 중국 대응은 미확인입니다."
+      },
+      "searchAliases": [
+        "Apothecary's Care",
+        "약초 향기"
+      ]
+    },
+    {
+      "id": "global-whispering-inspiration",
+      "nameOriginal": "Whispering Inspiration",
+      "romanization": "Whispering Inspiration",
+      "category": "accessory",
+      "sourceId": "global-20261015-version23-en",
+      "acquisitionServer": "Global",
+      "mediaServer": "Global",
+      "officialNameEn": "Whispering Inspiration",
+      "officialNameKo": "귓가의 신령",
+      "cnRelease": {
+        "date": null,
+        "precision": "unknown",
+        "timezone": null,
+        "contextual": false,
+        "basis": "CN identity and original individual release schedule unverified."
+      },
+      "acquisition": {
+        "kind": "event",
+        "pricing": "unknown",
+        "amount": null,
+        "regularAmount": null,
+        "currencyOriginal": "Integrity Point",
+        "location": {
+          "en": "Exam Showdown",
+          "ko": "시험장의 암투",
+          "original": "Exam Showdown"
+        },
+        "conditions": {
+          "en": "Accumulate Integrity Points in Exam Showdown to obtain this earring. The exact point requirement is unstated. The EN poster starts the event after the October 15, 2026 update, while the KO poster starts it on October 22, 2026 at 06:00:00. The event opening disagreement is unresolved and the individual unlock date remains unknown. Both end on November 14, 2026: EN 04:59:59 / KO 05:59:59, with timezones unstated.",
+          "ko": "시험장의 암투에서 정도 수치를 누적해 이 귀걸이를 획득합니다. 정확한 요구 수치는 미표기입니다. 영문 이미지는 2026년 10월 15일 업데이트 후 시작, 한국어 이미지는 10월 22일 06:00:00 시작으로 서로 다릅니다. 이벤트 시작일 불일치는 미해결이며 개별 해제일은 미정입니다. 양쪽 모두 11월 14일 종료이며 영문 04:59:59·한국어 05:59:59이고 시간대는 미표기입니다."
+        },
+        "en": "Official Global announcement; exact acquisition quantity unstated.",
+        "ko": "글로벌 공식 예고이며 정확한 획득 수량은 미표기입니다."
+      },
+      "global": {
+        "status": "unknown",
+        "releaseDate": null,
+        "officialName": null
+      },
+      "images": [],
+      "officialVideos": [],
+      "mediaStatus": "pending",
+      "namingNote": {
+        "en": "Official English/Korean names verified in paired Global version 2.3 gameplay-reward sections; CN counterpart unverified.",
+        "ko": "글로벌 2.3 버전 영문·한국어 콘텐츠 보상 항목에서 공식 명칭을 확인했으며 중국 대응은 미확인입니다."
+      },
+      "searchAliases": [
+        "Whispering Inspiration",
+        "귓가의 신령"
+      ]
+    },
+    {
+      "id": "global-written-in-stars",
+      "nameOriginal": "Written in Stars",
+      "romanization": "Written in Stars",
+      "category": "outfit",
+      "sourceId": "global-20261015-version23-en",
+      "acquisitionServer": "Global",
+      "mediaServer": "Global",
+      "officialNameEn": "Written in Stars",
+      "officialNameKo": "하늘의 뜻",
+      "cnRelease": {
+        "date": null,
+        "precision": "unknown",
+        "timezone": null,
+        "contextual": false,
+        "basis": "CN identity and original individual release schedule unverified."
+      },
+      "acquisition": {
+        "kind": "exchange_shop",
+        "pricing": "unknown",
+        "amount": null,
+        "regularAmount": null,
+        "currencyOriginal": null,
+        "location": {
+          "en": "Sin Leaf Exchange Shop · Perception Forest",
+          "ko": "죄업 교환 상점 · 각장림",
+          "original": "Sin Leaf Exchange Shop · Perception Forest"
+        },
+        "conditions": {
+          "en": "Added to the Sin Leaf Exchange Shop in Perception Forest in the version 2.3 overview. The notice does not state the exchange currency, quantity, sale end or original individual release date. The October 16 patch notes corroborate the paired official outfit names with a Wardrobe visibility fix after acquisition; they do not establish current store stock.",
+          "ko": "2.3 버전 공지에서 각장림의 죄업 교환 상점에 추가된 세트입니다. 공지는 교환 재화·수량·종료일·정확한 개별 최초 출시일을 밝히지 않습니다. 10월 16일 수정 공지는 획득 후 옷장 표시 문제 수정에서 양쪽 공식 외관명을 재확인하며 현재 상점 재고를 확정하지 않습니다."
+        },
+        "en": "Official Global announcement; exact acquisition quantity unstated.",
+        "ko": "글로벌 공식 예고이며 정확한 획득 수량은 미표기입니다."
+      },
+      "global": {
+        "status": "unknown",
+        "releaseDate": null,
+        "officialName": null
+      },
+      "images": [],
+      "officialVideos": [],
+      "mediaStatus": "pending",
+      "namingNote": {
+        "en": "Official English/Korean names verified in paired Global version 2.3 gameplay-reward sections; CN counterpart unverified.",
+        "ko": "글로벌 2.3 버전 영문·한국어 콘텐츠 보상 항목에서 공식 명칭을 확인했으며 중국 대응은 미확인입니다."
+      },
+      "searchAliases": [
+        "Written in Stars",
+        "하늘의 뜻"
+      ]
+    },
+    {
+      "id": "global-smile-proof",
+      "nameOriginal": "Smile-Proof",
+      "romanization": "Smile-Proof",
+      "category": "accessory",
+      "sourceId": "global-20261015-version23-en",
+      "acquisitionServer": "Global",
+      "mediaServer": "Global",
+      "officialNameEn": "Smile-Proof",
+      "officialNameKo": "손댈 수 없는 미소",
+      "cnRelease": {
+        "date": null,
+        "precision": "unknown",
+        "timezone": null,
+        "contextual": false,
+        "basis": "CN identity and original individual release schedule unverified."
+      },
+      "acquisition": {
+        "kind": "exchange_shop",
+        "pricing": "unknown",
+        "amount": null,
+        "regularAmount": null,
+        "currencyOriginal": "Guild Reputation",
+        "location": {
+          "en": "Guild Reputation Shop",
+          "ko": "동맹 명성 상점",
+          "original": "Guild Reputation Shop"
+        },
+        "conditions": {
+          "en": "Added to the Guild Reputation Shop in the S5: Ever Aflame guild-season section, for Guild Reputation. The required quantity and exchange end are unstated. The season begins after the October 15, 2026 update; that season boundary is not assigned as a verified original individual release date.",
+          "ko": "S5-계승의 불꽃 동맹 시즌 항목에서 동맹 명성 상점에 추가된 얼굴 장식이며 동맹 명성으로 교환합니다. 필요 수량·교환 종료일은 미표기입니다. 시즌은 2026년 10월 15일 업데이트 후 시작하지만 시즌 시작을 검증된 개별 최초 출시일로 적용하지 않습니다."
+        },
+        "en": "Official Global announcement; exact acquisition quantity unstated.",
+        "ko": "글로벌 공식 예고이며 정확한 획득 수량은 미표기입니다."
+      },
+      "global": {
+        "status": "unknown",
+        "releaseDate": null,
+        "officialName": null
+      },
+      "images": [],
+      "officialVideos": [],
+      "mediaStatus": "pending",
+      "namingNote": {
+        "en": "Official English/Korean names verified in paired Global version 2.3 gameplay-reward sections; CN counterpart unverified.",
+        "ko": "글로벌 2.3 버전 영문·한국어 콘텐츠 보상 항목에서 공식 명칭을 확인했으며 중국 대응은 미확인입니다."
+      },
+      "searchAliases": [
+        "Smile-Proof",
+        "손댈 수 없는 미소"
       ]
     }
   ],
