@@ -1,0 +1,370 @@
+{
+  "checkedAt": "2026-10-18",
+  "timezone": "America/New_York",
+  "cnIndex": {
+    "url": "https://www.yysls.cn/news/",
+    "latestAppearanceArticleDisplayedDate": "2026-10-15",
+    "latestUpdateDisplayedDate": "2026-10-16",
+    "note": "Both October 15 appearance bodies and October 16 appearance intake are already in v0.3.10; no duplicate intake."
+  },
+  "sourceId": "cn-e39411c8a3b1",
+  "sourceUrl": "https://www.yysls.cn/news/official/20260822/37780_1311919.html",
+  "titleOriginal": "梧桐引凤，鹊渡银河丨七夕主题套装将登场",
+  "displayedPublicationDate": "2026-08-18",
+  "urlPathDate": "2026-08-22",
+  "publicationTimezone": null,
+  "affectedCosmeticIds": [
+    "feng-hua-xian-ying",
+    "xue-yue-ning-guang"
+  ],
+  "facts": {
+    "individualPrice": {
+      "amount": 300,
+      "currencyOriginal": "长鸣珠",
+      "each": true
+    },
+    "announcedStart": "2026-08-19T00:00",
+    "announcedEnd": "2026-09-14T05:00",
+    "precision": "minute",
+    "timezone": null,
+    "alternativeBoxes": [
+      {
+        "nameOriginal": "绯云共影",
+        "amount": 360,
+        "currencyOriginal": "长鸣珠",
+        "ownedAccessory": "风花衔影",
+        "giftOnlyAccessory": "雪月凝光"
+      },
+      {
+        "nameOriginal": "皎月同辉",
+        "amount": 360,
+        "currencyOriginal": "长鸣珠",
+        "ownedAccessory": "雪月凝光",
+        "giftOnlyAccessory": "风花衔影"
+      }
+    ],
+    "boxBonuses": [
+      "共此清辉",
+      "秉灯问月",
+      "执光"
+    ]
+  },
+  "corrections": [
+    "The existing unknown acquisition fields omitted an explicit individual 300-Echo-Bead price.",
+    "Xue Yue Ning Guang is not exclusively gift-only: it is individually purchasable, owned in 皎月同辉, and gift-only within 绯云共影.",
+    "Existing released statuses were supported only by a pre-release announcement and are corrected to announced with confirmation pending.",
+    "No actual game availability, Global identity or official EN/KO names established."
+  ],
+  "inspectedImages": [
+    {
+      "key": "feng-xue-0",
+      "url": "https://nie.res.netease.com/r/pic/20260822/74d28769-7d9f-4314-9b30-a49cedadb88b.jpg",
+      "width": 2554,
+      "height": 4608,
+      "bytes": 6657453,
+      "sha256": "adc9bea47b935e874cebd6815f2983fc44f93a6ecf4ea0397ae36320462c2bb1"
+    },
+    {
+      "key": "feng-xue-1",
+      "url": "https://nie.res.netease.com/r/pic/20260822/bd28c974-9750-468f-a5e2-ac75f53c8d24.jpg",
+      "width": 2554,
+      "height": 4608,
+      "bytes": 7194835,
+      "sha256": "a71f9ded0a7d5d141fcf6140b74b2bd3fc3f34b23e48774f5b55b9a789eb46a5"
+    },
+    {
+      "key": "feng-xue-2",
+      "url": "https://nie.res.netease.com/r/pic/20260822/2aeac7c5-79a6-4ecd-a8e0-788d6ae51148.png",
+      "width": 2448,
+      "height": 854,
+      "bytes": 2607034,
+      "sha256": "b75e05c19bcb3ea778eb582629546326762720748be802254d1a31b2e6d0e996"
+    },
+    {
+      "key": "ji-0",
+      "url": "https://nie.res.netease.com/r/pic/20260822/b113e26c-3f88-4eed-878e-877950427d06.png",
+      "width": 2880,
+      "height": 5120,
+      "bytes": 19096268,
+      "sha256": "0bf439a04957f7a00c85a89bbfd0b894961eead06c1181525b4fe850584fcfc6"
+    },
+    {
+      "key": "ji-1",
+      "url": "https://nie.res.netease.com/r/pic/20260822/4775954c-1689-43f5-be97-6d853bff7db5.png",
+      "width": 2880,
+      "height": 5120,
+      "bytes": 20786992,
+      "sha256": "ebd0082541d76a503ab2cc5e0bf1cd2deaa4a16dceaba5ca20e330699c323949"
+    }
+  ],
+  "galleryDecision": {
+    "photosAdded": 4,
+    "identityEvidenceUrl": "https://nie.res.netease.com/r/pic/20260822/2aeac7c5-79a6-4ecd-a8e0-788d6ae51148.png",
+    "reason": "The final paired accessory panel explicitly prints 风花衔影 beside pink and 雪月凝光 beside blue. Matched bird-shaped top, pagoda cage, floral decorations and flame to the two full character photographs. Female pink view leads its gallery; the blue source has a male view only. Each gallery also retains its named panel as a precisely recorded source extract. Full character composition is preserved in enlargement, and all original URLs remain accessible.",
+    "media": [
+      {
+        "media": {
+          "cosmeticId": "feng-hua-xian-ying",
+          "index": 0,
+          "originalUrl": "https://nie.res.netease.com/r/pic/20260822/74d28769-7d9f-4314-9b30-a49cedadb88b.jpg",
+          "sourceId": "cn-e39411c8a3b1",
+          "server": "CN",
+          "thumbnail": "/media/feng-hua-xian-ying-0-thumb.webp",
+          "full": "/media/feng-hua-xian-ying-0-full.webp",
+          "preview": "/media/feng-hua-xian-ying-0-preview.webp",
+          "permission": "unknown",
+          "audience": "reference artwork; excluded from the code license",
+          "display": "/media/feng-hua-xian-ying-0-display.webp",
+          "displayWidth": 484,
+          "displayHeight": 724,
+          "displayBytes": 56078,
+          "presentationSubject": "female",
+          "presentationCrop": [
+            115,
+            1016,
+            599,
+            1740
+          ],
+          "sourcePresentationCrop": [
+            220,
+            1950,
+            1150,
+            3340
+          ],
+          "fullBytes": 375772,
+          "thumbnailBytes": 48492,
+          "previewBytes": 3260
+        },
+        "image": {
+          "url": "https://nie.res.netease.com/r/pic/20260822/74d28769-7d9f-4314-9b30-a49cedadb88b.jpg",
+          "width": 2554,
+          "height": 4608,
+          "bytes": 6657453,
+          "kind": "official_appearance_reference",
+          "sourceId": "cn-e39411c8a3b1",
+          "server": "CN",
+          "visuallyInspected": true,
+          "inspectionNote": "2026-10-18 America/New_York: the original paired label panel explicitly names the pink lantern 风花衔影 and blue lantern 雪月凝光. Matched the bird, pagoda cage, floral decoration and flame to these individual character references. Full character composition retained in enlargement; no current in-game check.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/feng-hua-xian-ying-0-full.webp",
+          "alt": {
+            "en": "Feng Hua Xian Ying official CN lantern reference.",
+            "ko": "풍화함영 중국 공식 등불 참고 사진."
+          },
+          "caption": {
+            "en": "Official CN lantern accessory reference. The pictured outfit is separate; provisional English/Korean names. Complete character composition is retained in enlargement; source links preserve the original artwork.",
+            "ko": "중국 공식 등불 장신구 참고 사진입니다. 사진의 의상은 별도이며 영문·한국어는 편의 독음입니다. 확대에서 전체 인물 구도를 유지하고 출처 링크에서 원본을 볼 수 있습니다."
+          },
+          "attribution": "燕云十六声 / NetEase / Everstone Studio"
+        },
+        "source": {
+          "key": "feng-xue-0",
+          "url": "https://nie.res.netease.com/r/pic/20260822/74d28769-7d9f-4314-9b30-a49cedadb88b.jpg",
+          "width": 2554,
+          "height": 4608,
+          "bytes": 6657453,
+          "sha256": "adc9bea47b935e874cebd6815f2983fc44f93a6ecf4ea0397ae36320462c2bb1"
+        }
+      },
+      {
+        "media": {
+          "cosmeticId": "xue-yue-ning-guang",
+          "index": 0,
+          "originalUrl": "https://nie.res.netease.com/r/pic/20260822/bd28c974-9750-468f-a5e2-ac75f53c8d24.jpg",
+          "sourceId": "cn-e39411c8a3b1",
+          "server": "CN",
+          "thumbnail": "/media/xue-yue-ning-guang-0-thumb.webp",
+          "full": "/media/xue-yue-ning-guang-0-full.webp",
+          "preview": "/media/xue-yue-ning-guang-0-preview.webp",
+          "permission": "unknown",
+          "audience": "reference artwork; excluded from the code license",
+          "display": "/media/xue-yue-ning-guang-0-display.webp",
+          "displayWidth": 469,
+          "displayHeight": 781,
+          "displayBytes": 52086,
+          "presentationSubject": "male",
+          "presentationCrop": [
+            849,
+            1094,
+            1318,
+            1875
+          ],
+          "sourcePresentationCrop": [
+            1630,
+            2100,
+            2530,
+            3600
+          ],
+          "fullBytes": 250732,
+          "thumbnailBytes": 46784,
+          "previewBytes": 2248
+        },
+        "image": {
+          "url": "https://nie.res.netease.com/r/pic/20260822/bd28c974-9750-468f-a5e2-ac75f53c8d24.jpg",
+          "width": 2554,
+          "height": 4608,
+          "bytes": 7194835,
+          "kind": "official_appearance_reference",
+          "sourceId": "cn-e39411c8a3b1",
+          "server": "CN",
+          "visuallyInspected": true,
+          "inspectionNote": "2026-10-18 America/New_York: the original paired label panel explicitly names the pink lantern 风花衔影 and blue lantern 雪月凝光. Matched the bird, pagoda cage, floral decoration and flame to these individual character references. Full character composition retained in enlargement; no current in-game check.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/xue-yue-ning-guang-0-full.webp",
+          "alt": {
+            "en": "Xue Yue Ning Guang official CN lantern reference.",
+            "ko": "설월응광 중국 공식 등불 참고 사진."
+          },
+          "caption": {
+            "en": "Official CN lantern accessory reference. The pictured outfit is separate; provisional English/Korean names. Complete character composition is retained in enlargement; source links preserve the original artwork.",
+            "ko": "중국 공식 등불 장신구 참고 사진입니다. 사진의 의상은 별도이며 영문·한국어는 편의 독음입니다. 확대에서 전체 인물 구도를 유지하고 출처 링크에서 원본을 볼 수 있습니다."
+          },
+          "attribution": "燕云十六声 / NetEase / Everstone Studio"
+        },
+        "source": {
+          "key": "feng-xue-1",
+          "url": "https://nie.res.netease.com/r/pic/20260822/bd28c974-9750-468f-a5e2-ac75f53c8d24.jpg",
+          "width": 2554,
+          "height": 4608,
+          "bytes": 7194835,
+          "sha256": "a71f9ded0a7d5d141fcf6140b74b2bd3fc3f34b23e48774f5b55b9a789eb46a5"
+        }
+      },
+      {
+        "media": {
+          "cosmeticId": "feng-hua-xian-ying",
+          "index": 1,
+          "originalUrl": "https://nie.res.netease.com/r/pic/20260822/2aeac7c5-79a6-4ecd-a8e0-788d6ae51148.png",
+          "sourceId": "cn-e39411c8a3b1",
+          "server": "CN",
+          "thumbnail": "/media/feng-hua-xian-ying-1-thumb.webp",
+          "full": "/media/feng-hua-xian-ying-1-full.webp",
+          "preview": "/media/feng-hua-xian-ying-1-preview.webp",
+          "permission": "unknown",
+          "audience": "reference artwork; excluded from the code license",
+          "sourceCrop": [
+            0,
+            0,
+            1224,
+            854
+          ],
+          "fullBytes": 105992,
+          "thumbnailBytes": 44386,
+          "previewBytes": 2808
+        },
+        "image": {
+          "url": "https://nie.res.netease.com/r/pic/20260822/2aeac7c5-79a6-4ecd-a8e0-788d6ae51148.png",
+          "width": 1224,
+          "height": 854,
+          "bytes": 2607034,
+          "kind": "official_appearance_reference",
+          "sourceId": "cn-e39411c8a3b1",
+          "server": "CN",
+          "visuallyInspected": true,
+          "inspectionNote": "2026-10-18 America/New_York: the original paired label panel explicitly names the pink lantern 风花衔影 and blue lantern 雪月凝光. Matched the bird, pagoda cage, floral decoration and flame to these individual character references. Full character composition retained in enlargement; no current in-game check.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/feng-hua-xian-ying-1-full.webp",
+          "alt": {
+            "en": "Feng Hua Xian Ying official CN lantern reference.",
+            "ko": "풍화함영 중국 공식 등불 참고 사진."
+          },
+          "caption": {
+            "en": "Single named panel extracted from the official paired accessory artwork; the complete original poster remains available at the source URL.",
+            "ko": "공식 장신구 2종 사진에서 이름이 있는 개별 패널을 추출했습니다. 출처 링크에서 전체 원본 포스터를 볼 수 있습니다."
+          },
+          "attribution": "燕云十六声 / NetEase / Everstone Studio",
+          "sourceCrop": [
+            0,
+            0,
+            1224,
+            854
+          ]
+        },
+        "source": {
+          "key": "feng-xue-2",
+          "url": "https://nie.res.netease.com/r/pic/20260822/2aeac7c5-79a6-4ecd-a8e0-788d6ae51148.png",
+          "width": 2448,
+          "height": 854,
+          "bytes": 2607034,
+          "sha256": "b75e05c19bcb3ea778eb582629546326762720748be802254d1a31b2e6d0e996"
+        }
+      },
+      {
+        "media": {
+          "cosmeticId": "xue-yue-ning-guang",
+          "index": 1,
+          "originalUrl": "https://nie.res.netease.com/r/pic/20260822/2aeac7c5-79a6-4ecd-a8e0-788d6ae51148.png",
+          "sourceId": "cn-e39411c8a3b1",
+          "server": "CN",
+          "thumbnail": "/media/xue-yue-ning-guang-1-thumb.webp",
+          "full": "/media/xue-yue-ning-guang-1-full.webp",
+          "preview": "/media/xue-yue-ning-guang-1-preview.webp",
+          "permission": "unknown",
+          "audience": "reference artwork; excluded from the code license",
+          "sourceCrop": [
+            1224,
+            0,
+            2448,
+            854
+          ],
+          "fullBytes": 109672,
+          "thumbnailBytes": 43826,
+          "previewBytes": 2626
+        },
+        "image": {
+          "url": "https://nie.res.netease.com/r/pic/20260822/2aeac7c5-79a6-4ecd-a8e0-788d6ae51148.png",
+          "width": 1224,
+          "height": 854,
+          "bytes": 2607034,
+          "kind": "official_appearance_reference",
+          "sourceId": "cn-e39411c8a3b1",
+          "server": "CN",
+          "visuallyInspected": true,
+          "inspectionNote": "2026-10-18 America/New_York: the original paired label panel explicitly names the pink lantern 风花衔影 and blue lantern 雪月凝光. Matched the bird, pagoda cage, floral decoration and flame to these individual character references. Full character composition retained in enlargement; no current in-game check.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/xue-yue-ning-guang-1-full.webp",
+          "alt": {
+            "en": "Xue Yue Ning Guang official CN lantern reference.",
+            "ko": "설월응광 중국 공식 등불 참고 사진."
+          },
+          "caption": {
+            "en": "Single named panel extracted from the official paired accessory artwork; the complete original poster remains available at the source URL.",
+            "ko": "공식 장신구 2종 사진에서 이름이 있는 개별 패널을 추출했습니다. 출처 링크에서 전체 원본 포스터를 볼 수 있습니다."
+          },
+          "attribution": "燕云十六声 / NetEase / Everstone Studio",
+          "sourceCrop": [
+            1224,
+            0,
+            2448,
+            854
+          ]
+        },
+        "source": {
+          "key": "feng-xue-2",
+          "url": "https://nie.res.netease.com/r/pic/20260822/2aeac7c5-79a6-4ecd-a8e0-788d6ae51148.png",
+          "width": 2448,
+          "height": 854,
+          "bytes": 2607034,
+          "sha256": "b75e05c19bcb3ea778eb582629546326762720748be802254d1a31b2e6d0e996"
+        }
+      }
+    ]
+  },
+  "thirdCandidate": {
+    "cosmeticId": "yongdong-ji",
+    "sourceId": "cn-e276ae7970d3",
+    "sourceUrl": "https://www.yysls.cn/news/official/20260822/37780_1311918.html",
+    "displayedPublicationDate": "2026-08-19",
+    "decision": "No catalog change. Two costume portraits were inspected; the head ornament is obscured by the large hat and not separately identified. Bundle-only 68-yuan terms are not recorded as an individual accessory price."
+  },
+  "limits": [
+    "Read-only latest CN indexes and bounded historical gallery/terms review.",
+    "No new cosmetic, forecast, schedule, service or magazine export.",
+    "No actual release, current availability, official Global name or identity match established.",
+    "Raw downloads remain local staging and are excluded from Git; media redistribution permission is unknown."
+  ],
+  "sourceQualification": {
+    "en": "Official CN in-development reference; the final in-game appearance may differ.",
+    "ko": "중국 공식 개발 중 참고 사진이며 최종 게임 내 모습과 다를 수 있습니다."
+  }
+}

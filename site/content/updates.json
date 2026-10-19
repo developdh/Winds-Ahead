@@ -2,6 +2,30 @@
   "schemaVersion": 1,
   "entries": [
     {
+      "id": "official-reward-and-reference-completion-20261018",
+      "date": "2026-10-18",
+      "kind": {
+        "en": "Official reward and reference completion",
+        "ko": "공식 보상·참고 사진 보완"
+      },
+      "title": {
+        "en": "Five Global rewards, Qixi lantern terms and seven reference photos",
+        "ko": "글로벌 보상 5종·칠석 등불 조건·참고 사진 7장"
+      },
+      "body": {
+        "en": "Added five named Global reward/shop cosmetics with verified Korean names and two event ends. Preserved the EN/KO Exam Showdown opening-date disagreement. Completed two CN lantern galleries, individual 300-Echo-Bead prices, alternative 360-bead gift boxes and two historical sale ends. Expanded Starlit Slumber with female front/rear and male rear references. Seven photos retain source, crop and development-preview qualifications; individual release and current availability remain unverified.",
+        "ko": "한국어 공식명을 확인한 글로벌 보상·교환 외관 5종과 이벤트 종료 2건을 추가하고 시험장의 암투 영문·한국어 시작일 불일치를 보존했습니다. 중국 등불 2종의 빈 갤러리·개별 장명주 300개·별도 360개 선물 상자·과거 판매 종료 2건을 보완했습니다. 긴 꿈속의 별 여성 앞·뒤와 남성 뒤 사진을 포함해 참고 사진 7장을 추가했습니다. 출처·자르기·개발 중 조건을 보존하며 개별 실제 출시·현재 획득 여부는 미확인입니다."
+      },
+      "sourceIds": [
+        "global-20261015-version23-en",
+        "global-20261015-version23-ko",
+        "global-20261016-repair-en",
+        "global-20261016-repair-ko",
+        "cn-e39411c8a3b1",
+        "cn-819f0aca2216"
+      ]
+    },
+    {
       "id": "cn-september-accessory-gallery-20261017",
       "date": "2026-10-17",
       "kind": {

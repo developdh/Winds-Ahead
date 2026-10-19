@@ -454,11 +454,12 @@ test('historical CN announcement corrections preserve evidence without inventing
   const pending=records.filter(r=>r.server==='CN' && r.confirmationPending);
   for (const record of pending) {
     assert.equal(record.status,'announced');
-    assert.equal(record.releaseDate,null);
+    assert.ok(record.releaseDate === null || record.releaseDate < record.verifiedAt,
+      'A historical correction may retain a sourced past announcement date, never an invented future date');
     assert.ok(record.sourceIds.includes(research.cosmetics.find(c=>c.id===record.cosmeticId).sourceId));
-    assert.equal(releaseState(record,'2026-09-13'),'pending');
-    assert.equal(matchesReleaseFilter(record,null,'cn','2026-09-13'),false);
-    assert.equal(matchesReleaseFilter(record,null,'cn-upcoming','2026-09-13'),false);
+    assert.equal(releaseState(record,record.verifiedAt),'pending');
+    assert.equal(matchesReleaseFilter(record,null,'cn',record.verifiedAt),false);
+    assert.equal(matchesReleaseFilter(record,null,'cn-upcoming',record.verifiedAt),false);
   }
   assert.equal(releaseState(records.find(r=>r.cosmeticId==='xue-man-chuan' && r.server==='CN'),'2026-09-13'),'released');
   assert.equal(releaseState(records.find(r=>r.cosmeticId==='zhen-han-liu' && r.server==='Global'),'2026-09-13'),'announced');

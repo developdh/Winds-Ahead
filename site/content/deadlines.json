@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "reviewedAt": "2026-10-17",
+  "reviewedAt": "2026-10-18",
   "records": [
     {
       "id": "global-global-wind-s-far-shore-exchange-2026-11-18",
@@ -995,6 +995,80 @@
       "note": {
         "en": "Historical event-shop operating end, at minute precision with no stated timezone. The start is the event window, not a verified individual item listing. This does not prove all stock appeared, a current price or later ordinary-shop availability.",
         "ko": "분 단위로 공지한 과거 이벤트 상점 운영 종료이며 시간대는 미표기입니다. 시작일은 이벤트 운영 기간으로 개별 품목 출시일이 아닙니다. 모든 상품의 실제 진열·현재 가격·이후 일반 상점 판매를 확정하지 않습니다."
+      }
+    },
+    {
+      "id": "global-global-bright-bulb-event-2026-11-14",
+      "cosmeticId": "global-bright-bulb",
+      "server": "Global",
+      "kind": "event",
+      "startDate": "2026-10-15",
+      "end": "2026-11-14T04:59:59",
+      "precision": "second",
+      "timezone": null,
+      "sourceIds": [
+        "global-20261015-version23-en",
+        "global-20261015-version23-ko"
+      ],
+      "verifiedAt": "2026-10-18",
+      "note": {
+        "en": "Qingzhou Opening Month event window. EN ends November 14, 2026 at 04:59:59; KO ends at 05:59:59 on the same date. Both timezones are unstated. The October 15 start is the event opening after the update, not a verified individual reward payout or original release date. Exact individual requirements and current availability remain unverified.",
+        "ko": "청주의 서막 이벤트 운영 기간입니다. 2026년 11월 14일 영문 04:59:59·한국어 같은 날 05:59:59 종료이며 양쪽 모두 시간대는 미표기입니다. 10월 15일 시작은 업데이트 후 이벤트 개방으로 개별 보상 지급일·최초 출시일이 아닙니다. 정확한 개별 요구 조건·현재 획득 가능 여부는 미확인입니다."
+      }
+    },
+    {
+      "id": "global-global-apothecary-s-care-event-2026-11-14",
+      "cosmeticId": "global-apothecary-s-care",
+      "server": "Global",
+      "kind": "event",
+      "startDate": "2026-10-15",
+      "end": "2026-11-14T04:59:59",
+      "precision": "second",
+      "timezone": null,
+      "sourceIds": [
+        "global-20261015-version23-en",
+        "global-20261015-version23-ko"
+      ],
+      "verifiedAt": "2026-10-18",
+      "note": {
+        "en": "Qingzhou Opening Month event window. EN ends November 14, 2026 at 04:59:59; KO ends at 05:59:59 on the same date. Both timezones are unstated. The October 15 start is the event opening after the update, not a verified individual reward payout or original release date. Exact individual requirements and current availability remain unverified.",
+        "ko": "청주의 서막 이벤트 운영 기간입니다. 2026년 11월 14일 영문 04:59:59·한국어 같은 날 05:59:59 종료이며 양쪽 모두 시간대는 미표기입니다. 10월 15일 시작은 업데이트 후 이벤트 개방으로 개별 보상 지급일·최초 출시일이 아닙니다. 정확한 개별 요구 조건·현재 획득 가능 여부는 미확인입니다."
+      }
+    },
+    {
+      "id": "cn-feng-hua-xian-ying-sale-2026-09-14",
+      "cosmeticId": "feng-hua-xian-ying",
+      "server": "CN",
+      "kind": "sale",
+      "startDate": "2026-08-19",
+      "end": "2026-09-14T05:00",
+      "precision": "minute",
+      "timezone": null,
+      "sourceIds": [
+        "cn-e39411c8a3b1"
+      ],
+      "verifiedAt": "2026-10-18",
+      "note": {
+        "en": "Historical official announced sale window starts August 19 00:00 and ends September 14 05:00 in 2026; timezone unstated. Individual purchase is 300 Echo Beads. The optional 360-Echo-Bead box has different gift-only contents. No current sale or actual release confirmation.",
+        "ko": "2026년 8월 19일 00:00부터 9월 14일 05:00까지의 과거 공식 판매 예고이며 시간대는 미표기입니다. 개별 구매는 장명주 300개이고 360개 선택 상자의 선물 전용 구성과 구분합니다. 실제 출시·현재 판매 여부는 미확인입니다."
+      }
+    },
+    {
+      "id": "cn-xue-yue-ning-guang-sale-2026-09-14",
+      "cosmeticId": "xue-yue-ning-guang",
+      "server": "CN",
+      "kind": "sale",
+      "startDate": "2026-08-19",
+      "end": "2026-09-14T05:00",
+      "precision": "minute",
+      "timezone": null,
+      "sourceIds": [
+        "cn-e39411c8a3b1"
+      ],
+      "verifiedAt": "2026-10-18",
+      "note": {
+        "en": "Historical official announced sale window starts August 19 00:00 and ends September 14 05:00 in 2026; timezone unstated. Individual purchase is 300 Echo Beads. The optional 360-Echo-Bead box has different gift-only contents. No current sale or actual release confirmation.",
+        "ko": "2026년 8월 19일 00:00부터 9월 14일 05:00까지의 과거 공식 판매 예고이며 시간대는 미표기입니다. 개별 구매는 장명주 300개이고 360개 선택 상자의 선물 전용 구성과 구분합니다. 실제 출시·현재 판매 여부는 미확인입니다."
       }
     }
   ]

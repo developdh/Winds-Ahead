@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "verifiedAt": "2026-10-17",
+  "verifiedAt": "2026-10-18",
   "records": [
     {
       "cosmeticId": "shang-qing-yun",
@@ -6697,39 +6697,77 @@
     {
       "cosmeticId": "feng-hua-xian-ying",
       "server": "CN",
-      "status": "released",
+      "status": "announced",
       "sourceIds": [
         "cn-e39411c8a3b1"
       ],
-      "verifiedAt": "2026-09-13",
-      "releaseDate": null,
-      "precision": "unknown",
+      "verifiedAt": "2026-10-18",
+      "releaseDate": "2026-08-19",
+      "precision": "day",
       "scope": {
-        "en": "Historical official listing or in-game appearance maintenance notice. This does not establish current availability or an original release date.",
-        "ko": "과거 공식 출시·외관 수정 공지 기록입니다. 현재 판매 여부와 최초 출시일을 뜻하지 않습니다."
+        "en": "Historical CN announcement: August 19, 2026 00:00 listing through September 14 05:00, timezone unstated. Rechecked pre-release source does not confirm actual release or current availability.",
+        "ko": "중국 과거 공식 예고: 2026년 8월 19일 00:00부터 9월 14일 05:00까지 판매이며 시간대는 미표기입니다. 출시 전 공지를 재확인한 것이며 실제 출시·현재 판매 여부는 미확인입니다."
       },
       "identityBasis": {
-        "en": "The official regional source explicitly names this appearance and category.",
-        "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
+        "en": "The article states both individual prices and owned/gift-only box contents. The printed original paired accessory panel names pink 风花衔影 and blue 雪月凝光; matched bird, cage, flowers and flame to individual photographs.",
+        "ko": "공지는 개별 가격과 상자별 소유·선물 전용 구성을 명시합니다. 원본 장신구 2종 사진에 분홍 风花衔影·파랑 雪月凝光 이름이 인쇄되어 있으며 새·등·꽃·불꽃을 개별 사진과 대조했습니다."
+      },
+      "confirmationPending": true,
+      "acquisition": {
+        "kind": "shop",
+        "pricing": "fixed",
+        "amount": 300,
+        "regularAmount": null,
+        "currencyOriginal": "长鸣珠",
+        "location": {
+          "en": "Limited appearance listing",
+          "ko": "한정 외관 판매",
+          "original": "限时上架"
+        },
+        "conditions": {
+          "en": "CN announcement: 300 Echo Beads for either accessory individually, August 19, 2026 00:00 to September 14 05:00; timezone unstated. Alternative: the Fei Yun Gong Ying (绯云共影) box costs 360 Echo Beads and grants this accessory plus one 雪月凝光 usable only as a gift. Either box also grants the listed duo action and scenario poses. Bundle cost is not the individual price. Current availability and actual release are unverified.",
+          "ko": "중국 공식 예고: 각 장신구는 장명주 300개이며 2026년 8월 19일 00:00부터 9월 14일 05:00까지 한정 판매, 시간대는 미표기입니다. 별도 비운공영(绯云共影) 상자는 장명주 360개로 이 장신구와 선물 전용 雪月凝光 1개를 지급합니다. 어느 상자든 공지의 2인 동작·배경 자세를 추가로 지급합니다. 상자 가격과 개별 가격을 구분하며 실제 출시·현재 판매 여부는 미확인입니다."
+        },
+        "en": "CN individual accessory; alternative gift box sold separately",
+        "ko": "중국 개별 장신구이며 선물 상자는 별도 판매"
       }
     },
     {
       "cosmeticId": "xue-yue-ning-guang",
       "server": "CN",
-      "status": "released",
+      "status": "announced",
       "sourceIds": [
         "cn-e39411c8a3b1"
       ],
-      "verifiedAt": "2026-09-13",
-      "releaseDate": null,
-      "precision": "unknown",
+      "verifiedAt": "2026-10-18",
+      "releaseDate": "2026-08-19",
+      "precision": "day",
       "scope": {
-        "en": "Historical official listing or in-game appearance maintenance notice. This does not establish current availability or an original release date.",
-        "ko": "과거 공식 출시·외관 수정 공지 기록입니다. 현재 판매 여부와 최초 출시일을 뜻하지 않습니다."
+        "en": "Historical CN announcement: August 19, 2026 00:00 listing through September 14 05:00, timezone unstated. Rechecked pre-release source does not confirm actual release or current availability.",
+        "ko": "중국 과거 공식 예고: 2026년 8월 19일 00:00부터 9월 14일 05:00까지 판매이며 시간대는 미표기입니다. 출시 전 공지를 재확인한 것이며 실제 출시·현재 판매 여부는 미확인입니다."
       },
       "identityBasis": {
-        "en": "The official regional source explicitly names this appearance and category.",
-        "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
+        "en": "The article states both individual prices and owned/gift-only box contents. The printed original paired accessory panel names pink 风花衔影 and blue 雪月凝光; matched bird, cage, flowers and flame to individual photographs.",
+        "ko": "공지는 개별 가격과 상자별 소유·선물 전용 구성을 명시합니다. 원본 장신구 2종 사진에 분홍 风花衔影·파랑 雪月凝光 이름이 인쇄되어 있으며 새·등·꽃·불꽃을 개별 사진과 대조했습니다."
+      },
+      "confirmationPending": true,
+      "acquisition": {
+        "kind": "shop",
+        "pricing": "fixed",
+        "amount": 300,
+        "regularAmount": null,
+        "currencyOriginal": "长鸣珠",
+        "location": {
+          "en": "Limited appearance listing",
+          "ko": "한정 외관 판매",
+          "original": "限时上架"
+        },
+        "conditions": {
+          "en": "CN announcement: 300 Echo Beads for either accessory individually, August 19, 2026 00:00 to September 14 05:00; timezone unstated. Alternative: the Jiao Yue Tong Hui (皎月同辉) box costs 360 Echo Beads and grants this accessory plus one 风花衔影 usable only as a gift. Either box also grants the listed duo action and scenario poses. Bundle cost is not the individual price. Current availability and actual release are unverified.",
+          "ko": "중국 공식 예고: 각 장신구는 장명주 300개이며 2026년 8월 19일 00:00부터 9월 14일 05:00까지 한정 판매, 시간대는 미표기입니다. 별도 교월동휘(皎月同辉) 상자는 장명주 360개로 이 장신구와 선물 전용 风花衔影 1개를 지급합니다. 어느 상자든 공지의 2인 동작·배경 자세를 추가로 지급합니다. 상자 가격과 개별 가격을 구분하며 실제 출시·현재 판매 여부는 미확인입니다."
+        },
+        "en": "CN individual accessory; alternative gift box sold separately",
+        "ko": "중국 개별 장신구이며 선물 상자는 별도 판매"
       }
     },
     {
@@ -15765,6 +15803,203 @@
       "identityBasis": {
         "en": "Original Chinese name, cosmetic type and named artwork co-listed in the official CN announcement. Cat/goose companion variants use separate named sections; no Global identity is inferred.",
         "ko": "중국 공식 공지의 중국 원명·외관 종류·명칭별 사진을 확인했습니다. 고양이·거위용 동료 장식은 별도 구성을 사용하며 글로벌 대응은 추정하지 않습니다."
+      }
+    },
+    {
+      "cosmeticId": "global-bright-bulb",
+      "server": "Global",
+      "status": "announced",
+      "confirmationPending": true,
+      "releaseDate": null,
+      "precision": "unknown",
+      "verifiedAt": "2026-10-18",
+      "sourceIds": [
+        "global-20261015-version23-en",
+        "global-20261015-version23-ko"
+      ],
+      "scope": {
+        "en": "Version 2.3 named reward/shop announcement. Individual release or unlock date unverified. Event and season opening dates in acquisition terms are contextual windows. Official Global announcement; current in-game availability was not checked. No named item photograph or verified CN counterpart was established.",
+        "ko": "2.3 버전의 명칭별 보상·상점 예고이며 개별 출시일·해제일은 미확인입니다. 획득 조건에 적힌 이벤트·시즌 시작은 운영 기간입니다. 글로벌 공식 예고이며 현재 게임 내 획득 가능 여부는 확인하지 않았습니다. 명칭별 품목 사진과 중국 서버 대응은 미확인입니다."
+      },
+      "identityBasis": {
+        "en": "Paired official EN/KO gameplay sections co-list the named cosmetic and matching category/acquisition. No CN or separate same-name identity is inferred.",
+        "ko": "영문·한국어 공식 콘텐츠 항목에서 명칭과 대응하는 외관 종류·획득처를 함께 확인했습니다. 중국 또는 별도 동명 품목과의 대응은 추정하지 않습니다."
+      },
+      "acquisition": {
+        "kind": "event",
+        "pricing": "unknown",
+        "amount": null,
+        "regularAmount": null,
+        "currencyOriginal": null,
+        "location": {
+          "en": "Qingzhou Opening Month",
+          "ko": "청주의 서막",
+          "original": "Qingzhou Opening Month"
+        },
+        "conditions": {
+          "en": "Earn rewards through Oratory Debut, Inquiries of Ink-sight and Exploration Manual during Qingzhou Opening Month. Requires level 10 and completion of Qinghe Main Chapter Another New Wing. The event opens after the October 15, 2026 update and ends November 14, 2026: EN 04:59:59 / KO 05:59:59. Both poster timezones are unstated. The notice does not assign this individual reward to a specific activity, payout day or requirement; price, token quantity and exact individual unlock day remain unknown.",
+          "ko": "청주의 서막 기간에 화술 겨루기·길잡이 문답·탐색 수첩에 참여해 보상을 획득합니다. 협객 레벨 10 및 청하 본편 새로운 날갯짓 완료가 필요합니다. 이벤트는 2026년 10월 15일 업데이트 후 시작하며 11월 14일 영문 04:59:59·한국어 05:59:59에 종료됩니다. 양쪽 이미지 모두 시간대는 미표기입니다. 이 보상의 개별 세부 콘텐츠·지급일·요구 조건은 구분해 명시하지 않았으며 가격·재화 수량·정확한 개별 해제일은 미정입니다."
+        },
+        "en": "Official Global announcement; exact acquisition quantity unstated.",
+        "ko": "글로벌 공식 예고이며 정확한 획득 수량은 미표기입니다."
+      }
+    },
+    {
+      "cosmeticId": "global-apothecary-s-care",
+      "server": "Global",
+      "status": "announced",
+      "confirmationPending": true,
+      "releaseDate": null,
+      "precision": "unknown",
+      "verifiedAt": "2026-10-18",
+      "sourceIds": [
+        "global-20261015-version23-en",
+        "global-20261015-version23-ko"
+      ],
+      "scope": {
+        "en": "Version 2.3 named reward/shop announcement. Individual release or unlock date unverified. Event and season opening dates in acquisition terms are contextual windows. Official Global announcement; current in-game availability was not checked. No named item photograph or verified CN counterpart was established.",
+        "ko": "2.3 버전의 명칭별 보상·상점 예고이며 개별 출시일·해제일은 미확인입니다. 획득 조건에 적힌 이벤트·시즌 시작은 운영 기간입니다. 글로벌 공식 예고이며 현재 게임 내 획득 가능 여부는 확인하지 않았습니다. 명칭별 품목 사진과 중국 서버 대응은 미확인입니다."
+      },
+      "identityBasis": {
+        "en": "Paired official EN/KO gameplay sections co-list the named cosmetic and matching category/acquisition. No CN or separate same-name identity is inferred.",
+        "ko": "영문·한국어 공식 콘텐츠 항목에서 명칭과 대응하는 외관 종류·획득처를 함께 확인했습니다. 중국 또는 별도 동명 품목과의 대응은 추정하지 않습니다."
+      },
+      "acquisition": {
+        "kind": "event",
+        "pricing": "unknown",
+        "amount": null,
+        "regularAmount": null,
+        "currencyOriginal": null,
+        "location": {
+          "en": "Qingzhou Opening Month",
+          "ko": "청주의 서막",
+          "original": "Qingzhou Opening Month"
+        },
+        "conditions": {
+          "en": "Earn rewards through Oratory Debut, Inquiries of Ink-sight and Exploration Manual during Qingzhou Opening Month. Requires level 10 and completion of Qinghe Main Chapter Another New Wing. The event opens after the October 15, 2026 update and ends November 14, 2026: EN 04:59:59 / KO 05:59:59. Both poster timezones are unstated. The notice does not assign this individual reward to a specific activity, payout day or requirement; price, token quantity and exact individual unlock day remain unknown.",
+          "ko": "청주의 서막 기간에 화술 겨루기·길잡이 문답·탐색 수첩에 참여해 보상을 획득합니다. 협객 레벨 10 및 청하 본편 새로운 날갯짓 완료가 필요합니다. 이벤트는 2026년 10월 15일 업데이트 후 시작하며 11월 14일 영문 04:59:59·한국어 05:59:59에 종료됩니다. 양쪽 이미지 모두 시간대는 미표기입니다. 이 보상의 개별 세부 콘텐츠·지급일·요구 조건은 구분해 명시하지 않았으며 가격·재화 수량·정확한 개별 해제일은 미정입니다."
+        },
+        "en": "Official Global announcement; exact acquisition quantity unstated.",
+        "ko": "글로벌 공식 예고이며 정확한 획득 수량은 미표기입니다."
+      }
+    },
+    {
+      "cosmeticId": "global-whispering-inspiration",
+      "server": "Global",
+      "status": "announced",
+      "confirmationPending": true,
+      "releaseDate": null,
+      "precision": "unknown",
+      "verifiedAt": "2026-10-18",
+      "sourceIds": [
+        "global-20261015-version23-en",
+        "global-20261015-version23-ko"
+      ],
+      "scope": {
+        "en": "Version 2.3 named reward/shop announcement. Individual release or unlock date unverified. Event and season opening dates in acquisition terms are contextual windows. Official Global announcement; current in-game availability was not checked. No named item photograph or verified CN counterpart was established.",
+        "ko": "2.3 버전의 명칭별 보상·상점 예고이며 개별 출시일·해제일은 미확인입니다. 획득 조건에 적힌 이벤트·시즌 시작은 운영 기간입니다. 글로벌 공식 예고이며 현재 게임 내 획득 가능 여부는 확인하지 않았습니다. 명칭별 품목 사진과 중국 서버 대응은 미확인입니다."
+      },
+      "identityBasis": {
+        "en": "Paired official EN/KO gameplay sections co-list the named cosmetic and matching category/acquisition. No CN or separate same-name identity is inferred.",
+        "ko": "영문·한국어 공식 콘텐츠 항목에서 명칭과 대응하는 외관 종류·획득처를 함께 확인했습니다. 중국 또는 별도 동명 품목과의 대응은 추정하지 않습니다."
+      },
+      "acquisition": {
+        "kind": "event",
+        "pricing": "unknown",
+        "amount": null,
+        "regularAmount": null,
+        "currencyOriginal": "Integrity Point",
+        "location": {
+          "en": "Exam Showdown",
+          "ko": "시험장의 암투",
+          "original": "Exam Showdown"
+        },
+        "conditions": {
+          "en": "Accumulate Integrity Points in Exam Showdown to obtain this earring. The exact point requirement is unstated. The EN poster starts the event after the October 15, 2026 update, while the KO poster starts it on October 22, 2026 at 06:00:00. The event opening disagreement is unresolved and the individual unlock date remains unknown. Both end on November 14, 2026: EN 04:59:59 / KO 05:59:59, with timezones unstated.",
+          "ko": "시험장의 암투에서 정도 수치를 누적해 이 귀걸이를 획득합니다. 정확한 요구 수치는 미표기입니다. 영문 이미지는 2026년 10월 15일 업데이트 후 시작, 한국어 이미지는 10월 22일 06:00:00 시작으로 서로 다릅니다. 이벤트 시작일 불일치는 미해결이며 개별 해제일은 미정입니다. 양쪽 모두 11월 14일 종료이며 영문 04:59:59·한국어 05:59:59이고 시간대는 미표기입니다."
+        },
+        "en": "Official Global announcement; exact acquisition quantity unstated.",
+        "ko": "글로벌 공식 예고이며 정확한 획득 수량은 미표기입니다."
+      }
+    },
+    {
+      "cosmeticId": "global-written-in-stars",
+      "server": "Global",
+      "status": "announced",
+      "confirmationPending": true,
+      "releaseDate": null,
+      "precision": "unknown",
+      "verifiedAt": "2026-10-18",
+      "sourceIds": [
+        "global-20261015-version23-en",
+        "global-20261015-version23-ko",
+        "global-20261016-repair-en",
+        "global-20261016-repair-ko"
+      ],
+      "scope": {
+        "en": "Version 2.3 named reward/shop announcement. Individual release or unlock date unverified. Event and season opening dates in acquisition terms are contextual windows. Official Global announcement; current in-game availability was not checked. No named item photograph or verified CN counterpart was established.",
+        "ko": "2.3 버전의 명칭별 보상·상점 예고이며 개별 출시일·해제일은 미확인입니다. 획득 조건에 적힌 이벤트·시즌 시작은 운영 기간입니다. 글로벌 공식 예고이며 현재 게임 내 획득 가능 여부는 확인하지 않았습니다. 명칭별 품목 사진과 중국 서버 대응은 미확인입니다."
+      },
+      "identityBasis": {
+        "en": "Paired official EN/KO gameplay sections co-list the named cosmetic and matching category/acquisition. No CN or separate same-name identity is inferred.",
+        "ko": "영문·한국어 공식 콘텐츠 항목에서 명칭과 대응하는 외관 종류·획득처를 함께 확인했습니다. 중국 또는 별도 동명 품목과의 대응은 추정하지 않습니다."
+      },
+      "acquisition": {
+        "kind": "exchange_shop",
+        "pricing": "unknown",
+        "amount": null,
+        "regularAmount": null,
+        "currencyOriginal": null,
+        "location": {
+          "en": "Sin Leaf Exchange Shop · Perception Forest",
+          "ko": "죄업 교환 상점 · 각장림",
+          "original": "Sin Leaf Exchange Shop · Perception Forest"
+        },
+        "conditions": {
+          "en": "Added to the Sin Leaf Exchange Shop in Perception Forest in the version 2.3 overview. The notice does not state the exchange currency, quantity, sale end or original individual release date. The October 16 patch notes corroborate the paired official outfit names with a Wardrobe visibility fix after acquisition; they do not establish current store stock.",
+          "ko": "2.3 버전 공지에서 각장림의 죄업 교환 상점에 추가된 세트입니다. 공지는 교환 재화·수량·종료일·정확한 개별 최초 출시일을 밝히지 않습니다. 10월 16일 수정 공지는 획득 후 옷장 표시 문제 수정에서 양쪽 공식 외관명을 재확인하며 현재 상점 재고를 확정하지 않습니다."
+        },
+        "en": "Official Global announcement; exact acquisition quantity unstated.",
+        "ko": "글로벌 공식 예고이며 정확한 획득 수량은 미표기입니다."
+      }
+    },
+    {
+      "cosmeticId": "global-smile-proof",
+      "server": "Global",
+      "status": "announced",
+      "confirmationPending": true,
+      "releaseDate": null,
+      "precision": "unknown",
+      "verifiedAt": "2026-10-18",
+      "sourceIds": [
+        "global-20261015-version23-en",
+        "global-20261015-version23-ko"
+      ],
+      "scope": {
+        "en": "Version 2.3 named reward/shop announcement. Individual release or unlock date unverified. Event and season opening dates in acquisition terms are contextual windows. Official Global announcement; current in-game availability was not checked. No named item photograph or verified CN counterpart was established.",
+        "ko": "2.3 버전의 명칭별 보상·상점 예고이며 개별 출시일·해제일은 미확인입니다. 획득 조건에 적힌 이벤트·시즌 시작은 운영 기간입니다. 글로벌 공식 예고이며 현재 게임 내 획득 가능 여부는 확인하지 않았습니다. 명칭별 품목 사진과 중국 서버 대응은 미확인입니다."
+      },
+      "identityBasis": {
+        "en": "Paired official EN/KO gameplay sections co-list the named cosmetic and matching category/acquisition. No CN or separate same-name identity is inferred.",
+        "ko": "영문·한국어 공식 콘텐츠 항목에서 명칭과 대응하는 외관 종류·획득처를 함께 확인했습니다. 중국 또는 별도 동명 품목과의 대응은 추정하지 않습니다."
+      },
+      "acquisition": {
+        "kind": "exchange_shop",
+        "pricing": "unknown",
+        "amount": null,
+        "regularAmount": null,
+        "currencyOriginal": "Guild Reputation",
+        "location": {
+          "en": "Guild Reputation Shop",
+          "ko": "동맹 명성 상점",
+          "original": "Guild Reputation Shop"
+        },
+        "conditions": {
+          "en": "Added to the Guild Reputation Shop in the S5: Ever Aflame guild-season section, for Guild Reputation. The required quantity and exchange end are unstated. The season begins after the October 15, 2026 update; that season boundary is not assigned as a verified original individual release date.",
+          "ko": "S5-계승의 불꽃 동맹 시즌 항목에서 동맹 명성 상점에 추가된 얼굴 장식이며 동맹 명성으로 교환합니다. 필요 수량·교환 종료일은 미표기입니다. 시즌은 2026년 10월 15일 업데이트 후 시작하지만 시즌 시작을 검증된 개별 최초 출시일로 적용하지 않습니다."
+        },
+        "en": "Official Global announcement; exact acquisition quantity unstated.",
+        "ko": "글로벌 공식 예고이며 정확한 획득 수량은 미표기입니다."
       }
     }
   ]

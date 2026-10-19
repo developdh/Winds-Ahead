@@ -1,0 +1,217 @@
+{
+  "checkedAt": "2026-10-18",
+  "timezone": "America/New_York",
+  "baseline": "v0.3.11 / d33c5b4",
+  "sourceIds": [
+    "global-20261015-version23-en",
+    "global-20261015-version23-ko"
+  ],
+  "sourceUrls": [
+    "https://www.wherewindsmeetgame.com/news/official/FriendsFromAfar.html",
+    "https://www.wherewindsmeetgame.com/kr/news/official/FriendsFromAfar.html"
+  ],
+  "displayedPublicationDate": "2026-10-15",
+  "sourceImages": [
+    {
+      "language": "en",
+      "url": "https://r.res.easebar.com/pic/20261015/1b886521-46f9-4fa1-8b59-68441ba4e3b4.png",
+      "sha256": "9ca7a909beabbb635025309d480ba2eb6d3c23af591b166c1ea85df5a47475f5",
+      "bytes": 6842579,
+      "reviewedSegments": [
+        "en-1-0.jpg",
+        "en-1-1800.jpg",
+        "en-1-3600.jpg",
+        "en-1-5400.jpg"
+      ],
+      "visuallyInspected": true
+    },
+    {
+      "language": "ko",
+      "url": "https://r.res.easebar.com/pic/20261015/cd23399b-55d5-4e68-87ce-9477ec0f0820.png",
+      "sha256": "720cf379d60b29b7c2c42477342d56a2e7efdbd9a1108cf637025490f5a1f2a0",
+      "bytes": 6901834,
+      "reviewedSegments": [
+        "ko-1-0.jpg",
+        "ko-1-1800.jpg",
+        "ko-1-3600.jpg",
+        "ko-1-5400.jpg"
+      ],
+      "visuallyInspected": true
+    }
+  ],
+  "items": [
+    {
+      "id": "global-bright-bulb",
+      "en": "Bright Bulb",
+      "ko": "총명한 파",
+      "category": "accessory",
+      "type": {
+        "en": "Headwear",
+        "ko": "모자"
+      },
+      "location": {
+        "en": "Qingzhou Opening Month",
+        "ko": "청주의 서막"
+      },
+      "kind": "event",
+      "currency": null,
+      "terms": {
+        "en": "Earn rewards through Oratory Debut, Inquiries of Ink-sight and Exploration Manual during Qingzhou Opening Month. Requires level 10 and completion of Qinghe Main Chapter Another New Wing. The event opens after the October 15, 2026 update and ends November 14, 2026: EN 04:59:59 / KO 05:59:59. Both poster timezones are unstated. The notice does not assign this individual reward to a specific activity, payout day or requirement; price, token quantity and exact individual unlock day remain unknown.",
+        "ko": "청주의 서막 기간에 화술 겨루기·길잡이 문답·탐색 수첩에 참여해 보상을 획득합니다. 협객 레벨 10 및 청하 본편 새로운 날갯짓 완료가 필요합니다. 이벤트는 2026년 10월 15일 업데이트 후 시작하며 11월 14일 영문 04:59:59·한국어 05:59:59에 종료됩니다. 양쪽 이미지 모두 시간대는 미표기입니다. 이 보상의 개별 세부 콘텐츠·지급일·요구 조건은 구분해 명시하지 않았으며 가격·재화 수량·정확한 개별 해제일은 미정입니다."
+      },
+      "eventStart": "2026-10-15",
+      "endEn": "2026-11-14T04:59:59",
+      "endKo": "2026-11-14T05:59:59",
+      "structuredDeadline": true,
+      "description": {
+        "en": "Headwear named among Qingzhou Opening Month event rewards; its exact individual unlock requirement is unstated.",
+        "ko": "청주의 서막 이벤트 보상으로 명시된 모자이며 정확한 개별 해제 조건은 미표기입니다."
+      }
+    },
+    {
+      "id": "global-apothecary-s-care",
+      "en": "Apothecary's Care",
+      "ko": "약초 향기",
+      "category": "accessory",
+      "type": {
+        "en": "Accessory",
+        "ko": "장신구"
+      },
+      "location": {
+        "en": "Qingzhou Opening Month",
+        "ko": "청주의 서막"
+      },
+      "kind": "event",
+      "currency": null,
+      "terms": {
+        "en": "Earn rewards through Oratory Debut, Inquiries of Ink-sight and Exploration Manual during Qingzhou Opening Month. Requires level 10 and completion of Qinghe Main Chapter Another New Wing. The event opens after the October 15, 2026 update and ends November 14, 2026: EN 04:59:59 / KO 05:59:59. Both poster timezones are unstated. The notice does not assign this individual reward to a specific activity, payout day or requirement; price, token quantity and exact individual unlock day remain unknown.",
+        "ko": "청주의 서막 기간에 화술 겨루기·길잡이 문답·탐색 수첩에 참여해 보상을 획득합니다. 협객 레벨 10 및 청하 본편 새로운 날갯짓 완료가 필요합니다. 이벤트는 2026년 10월 15일 업데이트 후 시작하며 11월 14일 영문 04:59:59·한국어 05:59:59에 종료됩니다. 양쪽 이미지 모두 시간대는 미표기입니다. 이 보상의 개별 세부 콘텐츠·지급일·요구 조건은 구분해 명시하지 않았으며 가격·재화 수량·정확한 개별 해제일은 미정입니다."
+      },
+      "eventStart": "2026-10-15",
+      "endEn": "2026-11-14T04:59:59",
+      "endKo": "2026-11-14T05:59:59",
+      "structuredDeadline": true,
+      "description": {
+        "en": "Accessory named among Qingzhou Opening Month event rewards; its exact individual unlock requirement is unstated.",
+        "ko": "청주의 서막 이벤트 보상으로 명시된 장신구이며 정확한 개별 해제 조건은 미표기입니다."
+      }
+    },
+    {
+      "id": "global-whispering-inspiration",
+      "en": "Whispering Inspiration",
+      "ko": "귓가의 신령",
+      "category": "accessory",
+      "type": {
+        "en": "Earring",
+        "ko": "귀걸이"
+      },
+      "location": {
+        "en": "Exam Showdown",
+        "ko": "시험장의 암투"
+      },
+      "kind": "event",
+      "currency": "Integrity Point",
+      "terms": {
+        "en": "Accumulate Integrity Points in Exam Showdown to obtain this earring. The exact point requirement is unstated. The EN poster starts the event after the October 15, 2026 update, while the KO poster starts it on October 22, 2026 at 06:00:00. The event opening disagreement is unresolved and the individual unlock date remains unknown. Both end on November 14, 2026: EN 04:59:59 / KO 05:59:59, with timezones unstated.",
+        "ko": "시험장의 암투에서 정도 수치를 누적해 이 귀걸이를 획득합니다. 정확한 요구 수치는 미표기입니다. 영문 이미지는 2026년 10월 15일 업데이트 후 시작, 한국어 이미지는 10월 22일 06:00:00 시작으로 서로 다릅니다. 이벤트 시작일 불일치는 미해결이며 개별 해제일은 미정입니다. 양쪽 모두 11월 14일 종료이며 영문 04:59:59·한국어 05:59:59이고 시간대는 미표기입니다."
+      },
+      "eventStart": null,
+      "endEn": "2026-11-14T04:59:59",
+      "endKo": "2026-11-14T05:59:59",
+      "structuredDeadline": false,
+      "description": {
+        "en": "Exam Showdown earring reward for Integrity Points. EN and KO event opening dates disagree; exact cost and individual unlock date remain unknown.",
+        "ko": "시험장의 암투의 정도 수치 귀걸이 보상입니다. 영문·한국어 이벤트 시작일이 다르며 정확한 비용·개별 해제일은 미정입니다."
+      }
+    },
+    {
+      "id": "global-written-in-stars",
+      "en": "Written in Stars",
+      "ko": "하늘의 뜻",
+      "category": "outfit",
+      "type": {
+        "en": "Outfit set",
+        "ko": "세트"
+      },
+      "location": {
+        "en": "Sin Leaf Exchange Shop · Perception Forest",
+        "ko": "죄업 교환 상점 · 각장림"
+      },
+      "kind": "exchange_shop",
+      "currency": null,
+      "terms": {
+        "en": "Added to the Sin Leaf Exchange Shop in Perception Forest in the version 2.3 overview. The notice does not state the exchange currency, quantity, sale end or original individual release date. The October 16 patch notes corroborate the paired official outfit names with a Wardrobe visibility fix after acquisition; they do not establish current store stock.",
+        "ko": "2.3 버전 공지에서 각장림의 죄업 교환 상점에 추가된 세트입니다. 공지는 교환 재화·수량·종료일·정확한 개별 최초 출시일을 밝히지 않습니다. 10월 16일 수정 공지는 획득 후 옷장 표시 문제 수정에서 양쪽 공식 외관명을 재확인하며 현재 상점 재고를 확정하지 않습니다."
+      },
+      "eventStart": null,
+      "endEn": null,
+      "endKo": null,
+      "structuredDeadline": false,
+      "description": {
+        "en": "Outfit named in the Global Perception Forest Sin Leaf Exchange Shop update. Its exchange cost is unstated.",
+        "ko": "글로벌 각장림 죄업 교환 상점 업데이트에서 명시한 세트이며 교환 비용은 미표기입니다."
+      },
+      "extraSourceIds": [
+        "global-20261016-repair-en",
+        "global-20261016-repair-ko"
+      ]
+    },
+    {
+      "id": "global-smile-proof",
+      "en": "Smile-Proof",
+      "ko": "손댈 수 없는 미소",
+      "category": "accessory",
+      "type": {
+        "en": "Face accessory",
+        "ko": "얼굴 장식"
+      },
+      "location": {
+        "en": "Guild Reputation Shop",
+        "ko": "동맹 명성 상점"
+      },
+      "kind": "exchange_shop",
+      "currency": "Guild Reputation",
+      "terms": {
+        "en": "Added to the Guild Reputation Shop in the S5: Ever Aflame guild-season section, for Guild Reputation. The required quantity and exchange end are unstated. The season begins after the October 15, 2026 update; that season boundary is not assigned as a verified original individual release date.",
+        "ko": "S5-계승의 불꽃 동맹 시즌 항목에서 동맹 명성 상점에 추가된 얼굴 장식이며 동맹 명성으로 교환합니다. 필요 수량·교환 종료일은 미표기입니다. 시즌은 2026년 10월 15일 업데이트 후 시작하지만 시즌 시작을 검증된 개별 최초 출시일로 적용하지 않습니다."
+      },
+      "eventStart": null,
+      "endEn": null,
+      "endKo": null,
+      "structuredDeadline": false,
+      "description": {
+        "en": "Face accessory in the Global Guild Reputation Shop. Reputation quantity and exchange end are unstated.",
+        "ko": "글로벌 동맹 명성 상점의 얼굴 장식이며 필요 명성 수량·교환 종료일은 미표기입니다."
+      }
+    }
+  ],
+  "identityReview": {
+    "officialNameDuplicates": "No exact English or Korean name found in v0.3.11 canonical cosmetic names/localizations.",
+    "cnIdentity": "No item-specific primary artwork comparison was established. Existing wiki 听天命 may be a research candidate for Written in Stars, but semantics alone do not justify a merge.",
+    "decision": "Five separate Global identities; CN identity remains unverified. No named item photographs are assigned."
+  },
+  "dateHandling": {
+    "regionalReleaseDates": null,
+    "globalReleaseCalendarEventsAdded": 0,
+    "reason": "Event and season starts are contextual operating windows, not verified individual payout/original-release dates. Exam Showdown has an explicit unresolved EN/KO opening-date disagreement.",
+    "structuredDeadlineIds": [
+      "global-global-bright-bulb-event-2026-11-14",
+      "global-global-apothecary-s-care-event-2026-11-14"
+    ],
+    "omittedEarringDeadline": "The known November 14 end remains in acquisition text. The deadline schema requires a single startDate and cannot represent the conflicting EN/KO opening dates.",
+    "regionalStatus": "announced with confirmationPending true; visitor UI displays Release unverified"
+  },
+  "otherReviewedSources": [
+    "https://www.wherewindsmeetgame.com/news/official/1015appearance.html",
+    "https://www.wherewindsmeetgame.com/kr/news/official/1015appearance.html",
+    "https://www.wherewindsmeetgame.com/news/official/1016patchnotes.html",
+    "https://www.wherewindsmeetgame.com/kr/news/official/1016patchnotes.html"
+  ],
+  "limits": [
+    "Latest official EN/KO website indexes still show October 16 repair notes and October 15 named appearance pages; no later named appearance listing was established.",
+    "Korean Cafe failed in the web reader; its latest notice bodies are not certified.",
+    "No current in-game availability, isolated item artwork, exact unprinted prices, CN identity or complete official social-account history was verified.",
+    "Pose, title, scenario-background and decoration rewards are outside this bounded existing-category intake.",
+    "No forecasts, schedules, media, magazine or deployment settings changed."
+  ]
+}

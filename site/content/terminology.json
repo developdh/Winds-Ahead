@@ -87,6 +87,14 @@
     "清麾节": {
       "en": "Qing Hui Jie (CN event token)",
       "ko": "청휘절(중국 이벤트 재화)"
+    },
+    "Integrity Point": {
+      "en": "Integrity Points",
+      "ko": "정도 수치"
+    },
+    "Guild Reputation": {
+      "en": "Guild Reputation",
+      "ko": "동맹 명성"
     }
   },
   "sources": [
