@@ -2191,17 +2191,17 @@
     }
   },
   "wu-xian-pi-pa": {
-    "koName": "五弦琵琶",
+    "koName": "오현비파",
     "description": {
-      "en": "Accessory documented in the official CN archive. Regional availability and acquisition are recorded separately.",
-      "ko": "공식 중국 자료에서 확인한 장신구입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+      "en": "Five-string pipa back accessory listed as a CN main-chapter task reward.",
+      "ko": "중국 본편 임무 완료 보상으로 소개된 다섯 줄 비파 등 장신구입니다."
     }
   },
   "zhiyue-liang": {
-    "koName": "纸月亮",
+    "koName": "지월량",
     "description": {
-      "en": "Accessory documented in the official CN archive. Regional availability and acquisition are recorded separately.",
-      "ko": "공식 중국 자료에서 확인한 장신구입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+      "en": "White octagonal paper-moon charm with dark tassels, listed as a CN main-chapter task reward.",
+      "ko": "중국 본편 임무 완료 보상으로 소개된 흰 팔각형 종이 달과 검은 술 장신구입니다."
     }
   },
   "qionglin-ke": {

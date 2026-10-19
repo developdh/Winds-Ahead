@@ -1,0 +1,59 @@
+{
+  "reviewedAt": "2026-10-19",
+  "timezone": "America/New_York",
+  "baseline": "v0.3.12",
+  "officialIndexResult": "No newer CN/EN/KO cosmetic notice than the existing October 15/16 intake was established.",
+  "sources": [
+    {
+      "sourceId": "cn-819f0aca2216",
+      "url": "https://www.yysls.cn/news/official/20260327/37780_1293405.html",
+      "cosmeticIds": [
+        "yu-yu-xuan-ji",
+        "xing-chui-ping-ye",
+        "zhang-meng-tian-xing"
+      ],
+      "window": {
+        "start": "2026-03-27 after update",
+        "end": "2026-06-26T04:59:59",
+        "timezone": null
+      },
+      "currencyOriginal": "绕梁之音",
+      "currencyExchangeOriginal": "长鸣玉",
+      "unstated": [
+        "per-draw quantity",
+        "individual odds",
+        "guarantee thresholds"
+      ],
+      "statusCorrection": "Prospective historical announcement; actual release confirmation pending."
+    },
+    {
+      "sourceId": "cn-f8b514f738f9",
+      "url": "https://www.yysls.cn/news/official/20250613/37780_1240485.html",
+      "displayedPublicationDate": "2025-06-06",
+      "urlDirectoryDate": "2025-06-13",
+      "cosmeticIds": [
+        "wu-xian-pi-pa",
+        "zhiyue-liang"
+      ],
+      "chapterStartPrerequisites": {
+        "level": 14,
+        "completedChapterOriginal": "麻布袋"
+      },
+      "rewardTaskPairing": null,
+      "historicalOpenStatement": true
+    }
+  ],
+  "missingGalleryLimits": {
+    "fu-liu-xiang": "Nearby named hair artwork is 入芳菲; do not reuse as 拂留香.",
+    "sheng-yue-lun": "Nearby moon-viewing scene does not establish an individual named accessory.",
+    "xing-chui-ping-ye": "No separately named portrait established; outfit model/avatar art does not fill this gallery."
+  },
+  "accessLimits": [
+    "Korean Cafe notice bodies unavailable",
+    "Global X returned 403",
+    "CN social complete histories unavailable",
+    "current in-game availability not checked"
+  ],
+  "forecastsChanged": false,
+  "schedulesChanged": false
+}

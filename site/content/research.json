@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "verifiedAt": "2026-10-18",
+  "verifiedAt": "2026-10-19",
   "scope": "Cross-server archive from individually reviewed official announcements; not a certified complete game inventory.",
   "sources": [
     {
@@ -882,7 +882,9 @@
       "displayedPublicationDate": "2026-03-27",
       "publicationDatePrecision": "day",
       "publicationTimezone": null,
-      "evidenceTier": "A"
+      "evidenceTier": "A",
+      "verifiedAt": "2026-10-19",
+      "verificationNote": "Rechecked October 19, 2026 America/New_York: explicit historical draw window, currency and named three-item reward pool. Prospective language does not independently confirm release. Timezone, per-draw quantity, individual odds and guarantee thresholds are unstated."
     },
     {
       "id": "cn-61e6e7744d60",
@@ -1297,7 +1299,9 @@
       "displayedPublicationDate": "2025-06-06",
       "publicationDatePrecision": "day",
       "publicationTimezone": null,
-      "evidenceTier": "A"
+      "evidenceTier": "A",
+      "verifiedAt": "2026-10-19",
+      "verificationNote": "Rechecked October 19, 2026 America/New_York: displayed June 6, 2025 date differs from June 13 URL directory. The article explicitly confirms completed maintenance and opened content, lists task rewards and chapter prerequisites, and provides two named accessory posters. Individual reward-task pairing and Global counterparts remain unknown."
     },
     {
       "id": "cn-78a468cc777e",
@@ -20163,23 +20167,23 @@
         "basis": "Exact item release day not established"
       },
       "acquisition": {
-        "kind": "unknown",
-        "pricing": "unknown",
+        "kind": "seasonal_draw",
+        "pricing": "draw",
         "amount": null,
         "regularAmount": null,
-        "currencyOriginal": null,
+        "currencyOriginal": "绕梁之音",
         "location": {
-          "en": "Under review",
-          "ko": "확인 중",
-          "original": "未核实"
+          "en": "CN seasonal resonance",
+          "ko": "중국 시즌 공명",
+          "original": "和鸣·玉振扬音"
         },
         "conditions": {
-          "en": "CN announcement terms; quantities are shown only when stated for this appearance. Sales, discounts and reward conditions may have ended.",
-          "ko": "중국 공지의 획득 조건입니다. 해당 외관에 명시된 수량만 기재했으며 판매·할인·보상 기간은 종료되었을 수 있습니다."
+          "en": "CN historical announcement: the 夹钟奏雅 season runs after the March 27, 2026 update–June 26, 2026 04:59:59, timezone unstated. Draw with 绕梁之音 exchanged using 长鸣玉 for a chance at 玉宇璇玑, 星垂平野 and exquisite hairstyle 长梦天星. Per-draw quantity, individual odds and guarantee thresholds are not stated in this CN article; Global pool rules must not be copied here. 玉宇璇玑 supports dyeing and tailoring. This is a past announced window; individual acquisition dates and current availability are unverified.",
+          "ko": "중국 과거 예고: 협종주아(夹钟奏雅) 시즌은 2026년 3월 27일 업데이트 후부터 6월 26일 04:59:59까지이며 시간대는 미표기입니다. 장명옥(长鸣玉)으로 교환한 요량지음(绕梁之音)으로 공명해 玉宇璇玑·星垂平野·진기 헤어 长梦天星을 확률 획득합니다. 중국 원문에는 회당 수량·개별 확률·보장 횟수가 없어 글로벌 보상풀 규칙을 적용하지 않습니다. 玉宇璇玑는 염색·재단을 지원합니다. 과거 예고 기간이며 개별 획득일·현재 획득 여부는 미확인입니다."
         },
-        "en": "See the acquisition method and source conditions.",
-        "ko": "획득 방법과 출처의 조건을 확인하세요.",
-        "sourceExcerpt": ""
+        "en": "Historical CN seasonal draw terms",
+        "ko": "중국 과거 시즌 공명 조건",
+        "sourceExcerpt": "「和鸣·玉振扬音」将开启「夹钟奏雅」赛季，3月27日版本更新后~6月26日04:59:59，使用长鸣玉兑换的【绕梁之音】进行和鸣，有概率获得外观套装【玉宇璇玑】、发型【星垂平野】和绝世奖励发型【长梦天星】，还有限定库存的【羽衣残缕图】、【梦染匣】和【袅袅之音·绑】。套装【玉宇璇玑】将同步开启「染色」、「裁造」功能。"
       },
       "images": [
         {
@@ -20263,22 +20267,22 @@
         "basis": "Explicit listing date in the source"
       },
       "acquisition": {
-        "kind": "unknown",
-        "pricing": "unknown",
+        "kind": "seasonal_draw",
+        "pricing": "draw",
         "amount": null,
         "regularAmount": null,
         "currencyOriginal": "绕梁之音",
         "location": {
-          "en": "Under review",
-          "ko": "확인 중",
-          "original": "未核实"
+          "en": "CN seasonal resonance",
+          "ko": "중국 시즌 공명",
+          "original": "和鸣·玉振扬音"
         },
         "conditions": {
-          "en": "CN announcement terms; quantities are shown only when stated for this appearance. Sales, discounts and reward conditions may have ended.",
-          "ko": "중국 공지의 획득 조건입니다. 해당 외관에 명시된 수량만 기재했으며 판매·할인·보상 기간은 종료되었을 수 있습니다."
+          "en": "CN historical announcement: the 夹钟奏雅 season runs after the March 27, 2026 update–June 26, 2026 04:59:59, timezone unstated. Draw with 绕梁之音 exchanged using 长鸣玉 for a chance at 玉宇璇玑, 星垂平野 and exquisite hairstyle 长梦天星. Per-draw quantity, individual odds and guarantee thresholds are not stated in this CN article; Global pool rules must not be copied here. 玉宇璇玑 supports dyeing and tailoring. This is a past announced window; individual acquisition dates and current availability are unverified.",
+          "ko": "중국 과거 예고: 협종주아(夹钟奏雅) 시즌은 2026년 3월 27일 업데이트 후부터 6월 26일 04:59:59까지이며 시간대는 미표기입니다. 장명옥(长鸣玉)으로 교환한 요량지음(绕梁之音)으로 공명해 玉宇璇玑·星垂平野·진기 헤어 长梦天星을 확률 획득합니다. 중국 원문에는 회당 수량·개별 확률·보장 횟수가 없어 글로벌 보상풀 규칙을 적용하지 않습니다. 玉宇璇玑는 염색·재단을 지원합니다. 과거 예고 기간이며 개별 획득일·현재 획득 여부는 미확인입니다."
         },
-        "en": "See the acquisition method and source conditions.",
-        "ko": "획득 방법과 출처의 조건을 확인하세요.",
+        "en": "Historical CN seasonal draw terms",
+        "ko": "중국 과거 시즌 공명 조건",
         "sourceExcerpt": "「和鸣·玉振扬音」将开启「夹钟奏雅」赛季，3月27日版本更新后~6月26日04:59:59，使用长鸣玉兑换的【绕梁之音】进行和鸣，有概率获得外观套装【玉宇璇玑】、发型【星垂平野】和绝世奖励发型【长梦天星】，还有限定库存的【羽衣残缕图】、【梦染匣】和【袅袅之音·绑】。套装【玉宇璇玑】将同步开启「染色」、「裁造」功能。"
       },
       "images": [
@@ -29023,7 +29027,7 @@
     {
       "id": "wu-xian-pi-pa",
       "nameOriginal": "五弦琵琶",
-      "romanization": "wu xian pi pa",
+      "romanization": "Wu Xian Pi Pa",
       "category": "accessory",
       "sourceId": "cn-f8b514f738f9",
       "acquisitionServer": "CN",
@@ -29038,38 +29042,65 @@
         "basis": "Exact item release day not established"
       },
       "acquisition": {
-        "kind": "unknown",
-        "pricing": "unknown",
+        "kind": "quest",
+        "pricing": "free",
         "amount": null,
         "regularAmount": null,
         "currencyOriginal": null,
         "location": {
-          "en": "Under review",
-          "ko": "확인 중",
-          "original": "未核实"
+          "en": "Hexi main chapters",
+          "ko": "하서 본편",
+          "original": "凉州曲 / 纸月亮"
         },
         "conditions": {
-          "en": "The source does not establish the required amount. Current availability has not been checked.",
-          "ko": "공지에서 필요한 수량을 확인하지 못했습니다. 현재 획득 가능 여부는 별도 확인이 필요합니다."
+          "en": "CN: complete tasks in the new 凉州曲 / 纸月亮 main chapters. Starting these chapters requires level 14 and completion of the Hexi main chapter 麻布袋. The notice lists 五弦琵琶 and 纸月亮 among completion rewards but does not assign each accessory to one specific task. It states that the update content is open; the original individual item release date, exact reward task, separate end and Global counterpart remain unknown.",
+          "ko": "중국: 신규 본편 凉州曲·纸月亮의 임무 완료 보상입니다. 두 본편 시작에는 14레벨과 하서 본편 麻布袋 완료가 필요합니다. 공지는 五弦琵琶·纸月亮를 완료 보상에 함께 열거하며 각 장신구를 특정 개별 임무에 배정하지 않습니다. 업데이트 콘텐츠 개방을 명시하지만 개별 최초 출시일·정확한 보상 임무·별도 종료일·글로벌 대응은 미확인입니다."
         },
-        "en": "See the acquisition method and source conditions.",
-        "ko": "획득 방법과 출처의 조건을 확인하세요.",
+        "en": "Main-chapter task reward",
+        "ko": "본편 임무 완료 보상",
         "sourceExcerpt": "完成任务后，还可获得配饰【五弦琵琶】、配饰【纸月亮】、发饰【孔雀冠一朵】、题跋【观自在】在内的丰厚奖励。后续更多主线篇章，也将随着河西其他区域解锁持续开启。"
       },
-      "images": [],
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20250613/0e4dcb58-e55e-4829-9671-a81587f50c17.png",
+          "width": 2450,
+          "height": 1041,
+          "bytes": 2564605,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-f8b514f738f9",
+          "server": "CN",
+          "localCopy": "/media/wu-xian-pi-pa-0-full.webp",
+          "reusePermission": "unknown",
+          "inspectionNote": "October 19, 2026 America/New_York: visually inspected the source poster and its exact printed accessory name. Presentation crop isolates the accessory; enlargement retains the entire original composition. The June 6 article explicitly states maintenance was completed and the main-story content was open; this does not verify current availability or an original item release day.",
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio",
+          "alt": {
+            "en": "Wu Xian Pi Pa: official CN female rear reference showing the five-string pipa accessory.",
+            "ko": "오현비파: 등 뒤 오현 비파 장신구가 보이는 중국 공식 여성 후면 사진."
+          },
+          "caption": {
+            "en": "Official CN quest-reward reference. The pictured outfit is separate. The complete named source poster is retained in enlargement. Reuse permission unknown.",
+            "ko": "중국 공식 임무 보상 참고사진입니다. 사진 속 의상은 별도입니다. 확대에서 명칭이 적힌 원본 포스터 전체를 유지하며 재사용 허가는 미확인입니다."
+          }
+        }
+      ],
       "officialVideos": [],
-      "mediaStatus": "pending",
+      "mediaStatus": "verified",
       "global": {
         "status": "unknown",
         "officialName": null,
         "releaseDate": null
       },
-      "sourceEvidence": "完成任务后，还可获得配饰【五弦琵琶】、配饰【纸月亮】、发饰【孔雀冠一朵】、题跋【观自在】在内的丰厚奖励。后续更多主线篇章，也将随着河西其他区域解锁持续开启。"
+      "sourceEvidence": "完成任务后，还可获得配饰【五弦琵琶】、配饰【纸月亮】、发饰【孔雀冠一朵】、题跋【观自在】在内的丰厚奖励。后续更多主线篇章，也将随着河西其他区域解锁持续开启。",
+      "namingNote": {
+        "en": "Provisional reading of the CN name; official Global English/Korean names and identity correspondence are unknown.",
+        "ko": "중국 원명의 임시 독음이며 글로벌 영어·한국어 공식명과 항목 대응은 미확인입니다."
+      }
     },
     {
       "id": "zhiyue-liang",
       "nameOriginal": "纸月亮",
-      "romanization": "zhiyue liang",
+      "romanization": "Zhi Yue Liang",
       "category": "accessory",
       "sourceId": "cn-f8b514f738f9",
       "acquisitionServer": "CN",
@@ -29084,33 +29115,60 @@
         "basis": "Exact item release day not established"
       },
       "acquisition": {
-        "kind": "unknown",
-        "pricing": "unknown",
+        "kind": "quest",
+        "pricing": "free",
         "amount": null,
         "regularAmount": null,
         "currencyOriginal": null,
         "location": {
-          "en": "Under review",
-          "ko": "확인 중",
-          "original": "未核实"
+          "en": "Hexi main chapters",
+          "ko": "하서 본편",
+          "original": "凉州曲 / 纸月亮"
         },
         "conditions": {
-          "en": "The source does not establish the required amount. Current availability has not been checked.",
-          "ko": "공지에서 필요한 수량을 확인하지 못했습니다. 현재 획득 가능 여부는 별도 확인이 필요합니다."
+          "en": "CN: complete tasks in the new 凉州曲 / 纸月亮 main chapters. Starting these chapters requires level 14 and completion of the Hexi main chapter 麻布袋. The notice lists 五弦琵琶 and 纸月亮 among completion rewards but does not assign each accessory to one specific task. It states that the update content is open; the original individual item release date, exact reward task, separate end and Global counterpart remain unknown.",
+          "ko": "중국: 신규 본편 凉州曲·纸月亮의 임무 완료 보상입니다. 두 본편 시작에는 14레벨과 하서 본편 麻布袋 완료가 필요합니다. 공지는 五弦琵琶·纸月亮를 완료 보상에 함께 열거하며 각 장신구를 특정 개별 임무에 배정하지 않습니다. 업데이트 콘텐츠 개방을 명시하지만 개별 최초 출시일·정확한 보상 임무·별도 종료일·글로벌 대응은 미확인입니다."
         },
-        "en": "See the acquisition method and source conditions.",
-        "ko": "획득 방법과 출처의 조건을 확인하세요.",
+        "en": "Main-chapter task reward",
+        "ko": "본편 임무 완료 보상",
         "sourceExcerpt": "完成任务后，还可获得配饰【五弦琵琶】、配饰【纸月亮】、发饰【孔雀冠一朵】、题跋【观自在】在内的丰厚奖励。后续更多主线篇章，也将随着河西其他区域解锁持续开启。"
       },
-      "images": [],
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20250613/c7bba6a6-4f4d-48b1-b334-83a71ce21673.png",
+          "width": 2467,
+          "height": 912,
+          "bytes": 1812173,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-f8b514f738f9",
+          "server": "CN",
+          "localCopy": "/media/zhiyue-liang-0-full.webp",
+          "reusePermission": "unknown",
+          "inspectionNote": "October 19, 2026 America/New_York: visually inspected the source poster and its exact printed accessory name. Presentation crop isolates the accessory; enlargement retains the entire original composition. The June 6 article explicitly states maintenance was completed and the main-story content was open; this does not verify current availability or an original item release day.",
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio",
+          "alt": {
+            "en": "Zhi Yue Liang: official CN white paper-moon accessory reference with its loop and dark tassel.",
+            "ko": "지월량: 고리와 검은 술이 보이는 중국 공식 흰 종이 달 장신구 사진."
+          },
+          "caption": {
+            "en": "Official CN quest-reward reference. The presentation view retains the hanging charm and its tassel; enlargement shows the complete named source poster. Reuse permission unknown.",
+            "ko": "중국 공식 임무 보상 참고사진입니다. 미리보기는 매단 장신구와 술을 유지하며 확대에서 명칭이 적힌 원본 포스터 전체를 볼 수 있습니다. 재사용 허가는 미확인입니다."
+          }
+        }
+      ],
       "officialVideos": [],
-      "mediaStatus": "pending",
+      "mediaStatus": "verified",
       "global": {
         "status": "unknown",
         "officialName": null,
         "releaseDate": null
       },
-      "sourceEvidence": "完成任务后，还可获得配饰【五弦琵琶】、配饰【纸月亮】、发饰【孔雀冠一朵】、题跋【观自在】在内的丰厚奖励。后续更多主线篇章，也将随着河西其他区域解锁持续开启。"
+      "sourceEvidence": "完成任务后，还可获得配饰【五弦琵琶】、配饰【纸月亮】、发饰【孔雀冠一朵】、题跋【观自在】在内的丰厚奖励。后续更多主线篇章，也将随着河西其他区域解锁持续开启。",
+      "namingNote": {
+        "en": "Provisional reading of the CN name; official Global English/Korean names and identity correspondence are unknown.",
+        "ko": "중국 원명의 임시 독음이며 글로벌 영어·한국어 공식명과 항목 대응은 미확인입니다."
+      }
     },
     {
       "id": "qionglin-ke",
@@ -31412,22 +31470,22 @@
         "basis": "Exact item release day not established"
       },
       "acquisition": {
-        "kind": "unknown",
-        "pricing": "unknown",
+        "kind": "seasonal_draw",
+        "pricing": "draw",
         "amount": null,
         "regularAmount": null,
-        "currencyOriginal": null,
+        "currencyOriginal": "绕梁之音",
         "location": {
-          "en": "Under review",
-          "ko": "확인 중",
-          "original": "未核实"
+          "en": "CN seasonal resonance",
+          "ko": "중국 시즌 공명",
+          "original": "和鸣·玉振扬音"
         },
         "conditions": {
-          "en": "The source does not establish the required amount. Current availability has not been checked.",
-          "ko": "공지에서 필요한 수량을 확인하지 못했습니다. 현재 획득 가능 여부는 별도 확인이 필요합니다."
+          "en": "CN historical announcement: the 夹钟奏雅 season runs after the March 27, 2026 update–June 26, 2026 04:59:59, timezone unstated. Draw with 绕梁之音 exchanged using 长鸣玉 for a chance at 玉宇璇玑, 星垂平野 and exquisite hairstyle 长梦天星. Per-draw quantity, individual odds and guarantee thresholds are not stated in this CN article; Global pool rules must not be copied here. 玉宇璇玑 supports dyeing and tailoring. This is a past announced window; individual acquisition dates and current availability are unverified.",
+          "ko": "중국 과거 예고: 협종주아(夹钟奏雅) 시즌은 2026년 3월 27일 업데이트 후부터 6월 26일 04:59:59까지이며 시간대는 미표기입니다. 장명옥(长鸣玉)으로 교환한 요량지음(绕梁之音)으로 공명해 玉宇璇玑·星垂平野·진기 헤어 长梦天星을 확률 획득합니다. 중국 원문에는 회당 수량·개별 확률·보장 횟수가 없어 글로벌 보상풀 규칙을 적용하지 않습니다. 玉宇璇玑는 염색·재단을 지원합니다. 과거 예고 기간이며 개별 획득일·현재 획득 여부는 미확인입니다."
         },
-        "en": "See the acquisition method and source conditions.",
-        "ko": "획득 방법과 출처의 조건을 확인하세요.",
+        "en": "Historical CN seasonal draw terms",
+        "ko": "중국 과거 시즌 공명 조건",
         "sourceExcerpt": "「和鸣·玉振扬音」将开启「夹钟奏雅」赛季，3月27日版本更新后~6月26日04:59:59，使用长鸣玉兑换的【绕梁之音】进行和鸣，有概率获得外观套装【玉宇璇玑】、发型【星垂平野】和绝世奖励发型【长梦天星】，还有限定库存的【羽衣残缕图】、【梦染匣】和【袅袅之音·绑】。套装【玉宇璇玑】将同步开启「染色」、「裁造」功能。"
       },
       "images": [],
