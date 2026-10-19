@@ -1,0 +1,23 @@
+# October 19 acquisition and quest-reference completion
+
+[한국어](../ko/content-review-2026-10-19.md) · [Acquisition evidence](../research/2026-10-19-acquisition-review.json) · [Quest-gallery evidence](../research/2026-10-19-quest-gallery.json)
+
+Reviewed on October 19, 2026, America/New_York, against the published v0.3.12 baseline. The checked CN, English Global and Korean official indexes did not establish a newer cosmetic notice than the existing October 15/16 intake. This bounded follow-up fills five supported CN acquisition records and two missing galleries from historical official sources; it is not a new appearance announcement.
+
+| Existing appearance | Supported CN acquisition update | Remaining limits |
+| --- | --- | --- |
+| 玉宇璇玑 / Starwoven Heavens / 천상의 별빛 | 夹钟奏雅 seasonal draw; 绕梁之音 exchanged using 长鸣玉; outfit supports dyeing and tailoring | Per-draw quantity, individual odds and guarantee thresholds unstated |
+| 星垂平野 / Starfall Plains / 별 쏟아지는 들녘 | Same named seasonal draw pool | Separate named hair portrait and original individual release date unverified |
+| 长梦天星 / Starlit Slumber / 긴 꿈속의 별 | Exquisite hairstyle reward in the same seasonal draw pool | No supported CN guarantee threshold; explicit March 27 announced listing day retained |
+| 五弦琵琶 / Wu Xian Pi Pa / 오현비파 | Main-chapter task reward in 凉州曲 / 纸月亮 | Exact reward task, original individual release date, separate end and Global counterpart unknown |
+| 纸月亮 / Zhi Yue Liang / 지월량 | Main-chapter task reward in 凉州曲 / 纸月亮 | Exact reward task, original individual release date, separate end and Global counterpart unknown |
+
+The [March 27 CN article](https://www.yysls.cn/news/official/20260327/37780_1293405.html) explicitly gives the seasonal draw window: after the March 27, 2026 update through June 26, 2026 04:59:59. Added three historical draw-end records with second precision and unknown timezone. The start is an update-relative operating window, not an individual payout date. The article does not state draw quantities, individual odds or guarantee thresholds; existing Global pool rules do not supply missing CN rules. The three unsupported CN released labels are now announcements with release confirmation pending. Unknown original dates remain unknown, and the existing explicit Starlit Slumber announcement date is preserved. Their established Global names, identities and regional records remain separate.
+
+The [quest-reward article](https://www.yysls.cn/news/official/20250613/37780_1240485.html) displays June 6, 2025 although its URL directory says June 13. It explicitly states maintenance was complete and the new content was open, supporting historical CN availability of the two named rewards. That statement does not establish their original individual release dates or current availability. Starting the two main chapters requires level 14 and completion of the Hexi chapter 麻布袋. The source lists both accessories together without assigning either to a specific chapter or quest. No individual end or Global identity is inferred. Their English/Korean names are provisional readings, not official Global names.
+
+Added one inspected named official reference for each quest accessory. The pipa uses the available female rear view; the paper moon uses an individual accessory view that retains its loop and dark tassel. Accessory-focused presentation crops lead, while enlargement preserves the complete named posters and source links retain the original artwork. The pictured pipa outfit is separate. Original URLs, hashes, dimensions, crop coordinates and optimized byte records remain in the gallery evidence; attribution does not establish redistribution permission. The eight derivatives total 119,280 full-image bytes, 35,476 thumbnail bytes, 5,876 selector-preview bytes and 42,390 display-crop bytes. These are aggregate asset sizes, not initial-page transfer measurements.
+
+Three inspected gaps remain unfilled: artwork near 拂留香 names 入芳菲 instead; a moon-viewing scene does not establish an individual named 盛月轮 accessory; and 星垂平野 still lacks a separately established hair portrait. Nearby artwork, outfit models and avatar art are not used to infer these identities.
+
+Archive totals: 739 cosmetics, 860 references across 493 appearances, 246 missing galleries, 681 regional records, 231 Global events and 59 deadlines. Korean Cafe notice bodies, complete CN social histories and current in-game availability remain unverified; Global X returned 403. Forecast history, recurring schedules, magazine exports and Site audience are unchanged. Validation and UI coverage are recorded in [v0.3.13](releases/0.3.13.md).

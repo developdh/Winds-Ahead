@@ -2,6 +2,26 @@
   "schemaVersion": 1,
   "entries": [
     {
+      "id": "historical-cn-acquisition-and-quest-galleries-20261019",
+      "date": "2026-10-19",
+      "kind": {
+        "en": "Official acquisition and gallery completion",
+        "ko": "공식 획득 조건·갤러리 보완"
+      },
+      "title": {
+        "en": "Three CN draw terms and two main-chapter accessory references",
+        "ko": "중국 공명 3종 조건·본편 장신구 2종 사진"
+      },
+      "body": {
+        "en": "Completed three historical CN seasonal-draw methods, currencies and June 26 ends without copying Global guarantees. Corrected their unsupported released labels to pending announcements. Added two named official accessory posters with focused previews and main-chapter reward prerequisites. Original individual release dates, per-draw quantities, Global accessory counterparts and unsupported missing photos remain unknown.",
+        "ko": "중국 과거 시즌 공명 3종의 획득처·재화·6월 26일 종료를 보완하고 글로벌 보장 조건을 적용하지 않았습니다. 근거가 부족한 출시 확정 3건은 예고 확인 중으로 정정했습니다. 본편 장신구 2종의 명칭별 공식 사진·집중 미리보기·임무 보상 조건을 추가했습니다. 개별 최초 출시일·회당 수량·장신구 글로벌 대응·근거 없는 누락 사진은 미정으로 둡니다."
+      },
+      "sourceIds": [
+        "cn-819f0aca2216",
+        "cn-f8b514f738f9"
+      ]
+    },
+    {
       "id": "official-reward-and-reference-completion-20261018",
       "date": "2026-10-18",
       "kind": {

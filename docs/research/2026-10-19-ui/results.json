@@ -1,0 +1,217 @@
+{
+  "reviewedAt": "2026-10-19",
+  "timezone": "America/New_York",
+  "server": "local production Worker http://127.0.0.1:4173",
+  "browser": "in-app Chromium",
+  "coverage": "Five affected details in KO at390px and EN at1440px; pipa geometry at320/360/390/768/1024/1440; two full galleries.",
+  "results": [
+    {
+      "dialog": [
+        {
+          "height": 832,
+          "width": 390,
+          "x": 0,
+          "y": 12
+        }
+      ],
+      "images": [
+        {
+          "alt": "오현비파: 등 뒤 오현 비파 장신구가 보이는 중국 공식 여성 후면 사진.",
+          "loaded": true,
+          "src": "http://127.0.0.1:4173/media/wu-xian-pi-pa-0-display.webp"
+        },
+        {
+          "alt": "纸月亮 · 게임 외관 미리보기",
+          "loaded": true,
+          "src": "http://127.0.0.1:4173/media/zhiyue-liang-0-thumb.webp"
+        }
+      ],
+      "overflow": false,
+      "url": "http://127.0.0.1:4173/ko?query=%EC%98%A4%ED%98%84%EB%B9%84%ED%8C%8C&q=%EC%98%A4%ED%98%84%EB%B9%84%ED%8C%8C&item=wu-xian-pi-pa",
+      "width": 390
+    },
+    {
+      "check": "pipa-full-gallery",
+      "image": [
+        {
+          "loaded": true,
+          "src": "http://127.0.0.1:4173/media/wu-xian-pi-pa-0-display.webp"
+        },
+        {
+          "loaded": true,
+          "src": "http://127.0.0.1:4173/media/zhiyue-liang-0-thumb.webp"
+        },
+        {
+          "loaded": true,
+          "src": "http://127.0.0.1:4173/media/wu-xian-pi-pa-0-full.webp"
+        }
+      ],
+      "original": [
+        "http://127.0.0.1:4173/ko/cosmetics/wu-xian-pi-pa?q=%EC%98%A4%ED%98%84%EB%B9%84%ED%8C%8C",
+        "https://www.yysls.cn/news/official/20250613/37780_1240485.html",
+        "https://www.yysls.cn/news/official/20250613/37780_1240485.html",
+        "https://www.yysls.cn/news/official/20250613/37780_1240485.html",
+        "http://127.0.0.1:4173/ko/cosmetics/zhiyue-liang?q=%EC%98%A4%ED%98%84%EB%B9%84%ED%8C%8C",
+        "http://127.0.0.1:4173/ko/cosmetics/zhiyue-liang?q=%EC%98%A4%ED%98%84%EB%B9%84%ED%8C%8C",
+        "https://nie.res.netease.com/r/pic/20250613/0e4dcb58-e55e-4829-9671-a81587f50c17.png"
+      ]
+    },
+    {
+      "check": "pipa-responsive",
+      "fits": [
+        {
+          "dialogBottom": 900,
+          "dialogLeft": 0,
+          "dialogRight": 320,
+          "dialogTop": 12,
+          "overflow": false,
+          "width": 320
+        },
+        {
+          "dialogBottom": 900,
+          "dialogLeft": 0,
+          "dialogRight": 360,
+          "dialogTop": 12,
+          "overflow": false,
+          "width": 360
+        },
+        {
+          "dialogBottom": 900,
+          "dialogLeft": 0,
+          "dialogRight": 390,
+          "dialogTop": 12,
+          "overflow": false,
+          "width": 390
+        },
+        {
+          "dialogBottom": 864,
+          "dialogLeft": 32,
+          "dialogRight": 736,
+          "dialogTop": 36,
+          "overflow": false,
+          "width": 768
+        },
+        {
+          "dialogBottom": 864,
+          "dialogLeft": 32,
+          "dialogRight": 992,
+          "dialogTop": 36,
+          "overflow": false,
+          "width": 1024
+        },
+        {
+          "dialogBottom": 864,
+          "dialogLeft": 220,
+          "dialogRight": 1220,
+          "dialogTop": 36,
+          "overflow": false,
+          "width": 1440
+        }
+      ]
+    },
+    {
+      "check": "moon-full-gallery",
+      "images": [
+        {
+          "loaded": true,
+          "src": "http://127.0.0.1:4173/media/zhiyue-liang-0-display.webp"
+        },
+        {
+          "loaded": true,
+          "src": "http://127.0.0.1:4173/media/wu-xian-pi-pa-0-thumb.webp"
+        },
+        {
+          "loaded": true,
+          "src": "http://127.0.0.1:4173/media/zhiyue-liang-0-full.webp"
+        }
+      ]
+    },
+    {
+      "check": "ko-390-천상의 별빛",
+      "cnPastEnd": true,
+      "unknownZone": true,
+      "pending": true,
+      "separateGlobal": true
+    },
+    {
+      "check": "ko-390-긴 꿈속의 별",
+      "cnPastEnd": true,
+      "unknownZone": true,
+      "pending": true,
+      "separateGlobal": true
+    },
+    {
+      "check": "en-1440-pipa",
+      "prerequisites": true,
+      "provisional": true,
+      "freeReward": true
+    },
+    {
+      "check": "en-1440-moon",
+      "images": [
+        {
+          "alt": "Zhi Yue Liang: official CN white paper-moon accessory reference with its loop and dark tassel.",
+          "loaded": true,
+          "src": "http://127.0.0.1:4173/media/zhiyue-liang-0-display.webp"
+        },
+        {
+          "alt": "五弦琵琶 · Game appearance preview",
+          "loaded": true,
+          "src": "http://127.0.0.1:4173/media/wu-xian-pi-pa-0-thumb.webp"
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "check": "en-1440-draws",
+      "items": [
+        {
+          "name": "Starfall Plains",
+          "cnPastEnd": true,
+          "unknownZone": true,
+          "cnPending": true,
+          "separateGlobal": true
+        },
+        {
+          "name": "Starwoven Heavens",
+          "cnPastEnd": true,
+          "unknownZone": true,
+          "cnPending": true,
+          "separateGlobal": true
+        },
+        {
+          "name": "Starlit Slumber",
+          "cnPastEnd": true,
+          "unknownZone": true,
+          "cnPending": true,
+          "separateGlobal": true
+        }
+      ]
+    },
+    {
+      "check": "en-1440-draw-dialog-geometry",
+      "dialog": [
+        {
+          "bottom": 960,
+          "left": 220,
+          "right": 1220,
+          "top": 40
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "check": "detail-close-after-transition",
+      "dialogs": 0,
+      "focus": {
+        "label": "Starfall Plains · View details",
+        "tag": "A",
+        "text": "鏡Image under review"
+      }
+    }
+  ],
+  "logs": [],
+  "limits": [
+    "No physical-device, Firefox/WebKit, 200% text enlargement, slow-network or field Core Web Vitals coverage."
+  ]
+}

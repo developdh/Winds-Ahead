@@ -13887,5 +13887,56 @@
     "fullBytes": 109672,
     "thumbnailBytes": 43826,
     "previewBytes": 2626
+  },
+  {
+    "cosmeticId": "wu-xian-pi-pa",
+    "index": 0,
+    "originalUrl": "https://nie.res.netease.com/r/pic/20250613/0e4dcb58-e55e-4829-9671-a81587f50c17.png",
+    "sourceId": "cn-f8b514f738f9",
+    "server": "CN",
+    "thumbnail": "/media/wu-xian-pi-pa-0-thumb.webp",
+    "full": "/media/wu-xian-pi-pa-0-full.webp",
+    "preview": "/media/wu-xian-pi-pa-0-preview.webp",
+    "display": "/media/wu-xian-pi-pa-0-display.webp",
+    "presentationCrop": [
+      135,
+      0,
+      470,
+      510
+    ],
+    "displayWidth": 335,
+    "displayHeight": 510,
+    "presentationSubject": "female",
+    "permission": "unknown",
+    "audience": "reference artwork; excluded from the code license",
+    "fullBytes": 70048,
+    "displayBytes": 30238,
+    "thumbnailBytes": 25292,
+    "previewBytes": 3866
+  },
+  {
+    "cosmeticId": "zhiyue-liang",
+    "index": 0,
+    "originalUrl": "https://nie.res.netease.com/r/pic/20250613/c7bba6a6-4f4d-48b1-b334-83a71ce21673.png",
+    "sourceId": "cn-f8b514f738f9",
+    "server": "CN",
+    "thumbnail": "/media/zhiyue-liang-0-thumb.webp",
+    "full": "/media/zhiyue-liang-0-full.webp",
+    "preview": "/media/zhiyue-liang-0-preview.webp",
+    "display": "/media/zhiyue-liang-0-display.webp",
+    "presentationCrop": [
+      100,
+      0,
+      460,
+      444
+    ],
+    "displayWidth": 360,
+    "displayHeight": 444,
+    "permission": "unknown",
+    "audience": "reference artwork; excluded from the code license",
+    "fullBytes": 49232,
+    "displayBytes": 12152,
+    "thumbnailBytes": 10184,
+    "previewBytes": 2010
   }
 ]

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "reviewedAt": "2026-10-18",
+  "reviewedAt": "2026-10-19",
   "records": [
     {
       "id": "global-global-wind-s-far-shore-exchange-2026-11-18",
@@ -1069,6 +1069,60 @@
       "note": {
         "en": "Historical official announced sale window starts August 19 00:00 and ends September 14 05:00 in 2026; timezone unstated. Individual purchase is 300 Echo Beads. The optional 360-Echo-Bead box has different gift-only contents. No current sale or actual release confirmation.",
         "ko": "2026년 8월 19일 00:00부터 9월 14일 05:00까지의 과거 공식 판매 예고이며 시간대는 미표기입니다. 개별 구매는 장명주 300개이고 360개 선택 상자의 선물 전용 구성과 구분합니다. 실제 출시·현재 판매 여부는 미확인입니다."
+      }
+    },
+    {
+      "id": "cn-yu-yu-xuan-ji-draw-2026-06-26",
+      "cosmeticId": "yu-yu-xuan-ji",
+      "server": "CN",
+      "kind": "draw",
+      "startDate": "2026-03-27",
+      "end": "2026-06-26T04:59:59",
+      "precision": "second",
+      "timezone": null,
+      "sourceIds": [
+        "cn-819f0aca2216"
+      ],
+      "verifiedAt": "2026-10-19",
+      "note": {
+        "en": "Historical announced end of the 夹钟奏雅 seasonal draw. Starts after the March 27 update; exact start time and timezone are unstated. This end does not establish an individual payout date or current availability.",
+        "ko": "협종주아(夹钟奏雅) 시즌 공명의 과거 예고 종료 시각입니다. 3월 27일 업데이트 후 시작하며 정확한 시작 시각·시간대는 미표기입니다. 개별 보상 지급일·현재 획득 여부를 확정하지 않습니다."
+      }
+    },
+    {
+      "id": "cn-xing-chui-ping-ye-draw-2026-06-26",
+      "cosmeticId": "xing-chui-ping-ye",
+      "server": "CN",
+      "kind": "draw",
+      "startDate": "2026-03-27",
+      "end": "2026-06-26T04:59:59",
+      "precision": "second",
+      "timezone": null,
+      "sourceIds": [
+        "cn-819f0aca2216"
+      ],
+      "verifiedAt": "2026-10-19",
+      "note": {
+        "en": "Historical announced end of the 夹钟奏雅 seasonal draw. Starts after the March 27 update; exact start time and timezone are unstated. This end does not establish an individual payout date or current availability.",
+        "ko": "협종주아(夹钟奏雅) 시즌 공명의 과거 예고 종료 시각입니다. 3월 27일 업데이트 후 시작하며 정확한 시작 시각·시간대는 미표기입니다. 개별 보상 지급일·현재 획득 여부를 확정하지 않습니다."
+      }
+    },
+    {
+      "id": "cn-zhang-meng-tian-xing-draw-2026-06-26",
+      "cosmeticId": "zhang-meng-tian-xing",
+      "server": "CN",
+      "kind": "draw",
+      "startDate": "2026-03-27",
+      "end": "2026-06-26T04:59:59",
+      "precision": "second",
+      "timezone": null,
+      "sourceIds": [
+        "cn-819f0aca2216"
+      ],
+      "verifiedAt": "2026-10-19",
+      "note": {
+        "en": "Historical announced end of the 夹钟奏雅 seasonal draw. Starts after the March 27 update; exact start time and timezone are unstated. This end does not establish an individual payout date or current availability.",
+        "ko": "협종주아(夹钟奏雅) 시즌 공명의 과거 예고 종료 시각입니다. 3월 27일 업데이트 후 시작하며 정확한 시작 시각·시간대는 미표기입니다. 개별 보상 지급일·현재 획득 여부를 확정하지 않습니다."
       }
     }
   ]

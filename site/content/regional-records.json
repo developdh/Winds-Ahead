@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "verifiedAt": "2026-10-18",
+  "verifiedAt": "2026-10-19",
   "records": [
     {
       "cosmeticId": "shang-qing-yun",
@@ -2726,40 +2726,42 @@
     {
       "cosmeticId": "yu-yu-xuan-ji",
       "server": "CN",
-      "status": "released",
+      "status": "announced",
       "sourceIds": [
         "cn-819f0aca2216"
       ],
-      "verifiedAt": "2026-09-13",
+      "verifiedAt": "2026-10-19",
       "releaseDate": null,
       "precision": "unknown",
       "scope": {
-        "en": "Historical official listing or in-game appearance maintenance notice. This does not establish current availability or an original release date.",
-        "ko": "과거 공식 출시·외관 수정 공지 기록입니다. 현재 판매 여부와 최초 출시일을 뜻하지 않습니다."
+        "en": "Historical CN announcement for the March 27–June 26, 2026 seasonal draw. The article uses prospective wording; it does not independently verify release or current availability. Existing explicit announcement dates are retained; unknown original item dates stay unknown.",
+        "ko": "2026년 3월 27일~6월 26일 중국 시즌 공명의 과거 예고입니다. 원문이 출시 예정형으로 서술해 실제 출시·현재 획득 여부를 독립적으로 확정하지 않습니다. 기존의 명시된 예고일은 보존하며 미확인 개별 최초 출시일은 미정으로 둡니다."
       },
       "identityBasis": {
         "en": "The official regional source explicitly names this appearance and category.",
         "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
-      }
+      },
+      "confirmationPending": true
     },
     {
       "cosmeticId": "zhang-meng-tian-xing",
       "server": "CN",
-      "status": "released",
+      "status": "announced",
       "sourceIds": [
         "cn-819f0aca2216"
       ],
-      "verifiedAt": "2026-09-13",
+      "verifiedAt": "2026-10-19",
       "releaseDate": "2026-03-27",
       "precision": "day",
       "scope": {
-        "en": "Historical official listing or in-game appearance maintenance notice. This does not establish current availability or an original release date.",
-        "ko": "과거 공식 출시·외관 수정 공지 기록입니다. 현재 판매 여부와 최초 출시일을 뜻하지 않습니다."
+        "en": "Historical CN announcement for the March 27–June 26, 2026 seasonal draw. The article uses prospective wording; it does not independently verify release or current availability. Existing explicit announcement dates are retained; unknown original item dates stay unknown.",
+        "ko": "2026년 3월 27일~6월 26일 중국 시즌 공명의 과거 예고입니다. 원문이 출시 예정형으로 서술해 실제 출시·현재 획득 여부를 독립적으로 확정하지 않습니다. 기존의 명시된 예고일은 보존하며 미확인 개별 최초 출시일은 미정으로 둡니다."
       },
       "identityBasis": {
         "en": "The official regional source explicitly names this appearance and category.",
         "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
-      }
+      },
+      "confirmationPending": true
     },
     {
       "cosmeticId": "yi-chun-shan",
@@ -5247,12 +5249,12 @@
       "sourceIds": [
         "cn-f8b514f738f9"
       ],
-      "verifiedAt": "2026-09-13",
+      "verifiedAt": "2026-10-19",
       "releaseDate": null,
       "precision": "unknown",
       "scope": {
-        "en": "Historical official listing or in-game appearance maintenance notice. This does not establish current availability or an original release date.",
-        "ko": "과거 공식 출시·외관 수정 공지 기록입니다. 현재 판매 여부와 최초 출시일을 뜻하지 않습니다."
+        "en": "The official article explicitly says maintenance is complete and these new main-chapter rewards are open. This supports historical availability, not an original individual release date or current in-game verification.",
+        "ko": "공식 원문은 점검 완료와 신규 본편 보상 개방을 명시합니다. 당시 획득 가능 근거이며 개별 최초 출시일·현재 게임 내 획득 여부를 확정하지 않습니다."
       },
       "identityBasis": {
         "en": "The official regional source explicitly names this appearance and category.",
@@ -5266,12 +5268,12 @@
       "sourceIds": [
         "cn-f8b514f738f9"
       ],
-      "verifiedAt": "2026-09-13",
+      "verifiedAt": "2026-10-19",
       "releaseDate": null,
       "precision": "unknown",
       "scope": {
-        "en": "Historical official listing or in-game appearance maintenance notice. This does not establish current availability or an original release date.",
-        "ko": "과거 공식 출시·외관 수정 공지 기록입니다. 현재 판매 여부와 최초 출시일을 뜻하지 않습니다."
+        "en": "The official article explicitly says maintenance is complete and these new main-chapter rewards are open. This supports historical availability, not an original individual release date or current in-game verification.",
+        "ko": "공식 원문은 점검 완료와 신규 본편 보상 개방을 명시합니다. 당시 획득 가능 근거이며 개별 최초 출시일·현재 게임 내 획득 여부를 확정하지 않습니다."
       },
       "identityBasis": {
         "en": "The official regional source explicitly names this appearance and category.",
@@ -6047,21 +6049,22 @@
     {
       "cosmeticId": "xing-chui-ping-ye",
       "server": "CN",
-      "status": "released",
+      "status": "announced",
       "sourceIds": [
         "cn-819f0aca2216"
       ],
-      "verifiedAt": "2026-09-13",
+      "verifiedAt": "2026-10-19",
       "releaseDate": null,
       "precision": "unknown",
       "scope": {
-        "en": "Historical official listing or in-game appearance maintenance notice. This does not establish current availability or an original release date.",
-        "ko": "과거 공식 출시·외관 수정 공지 기록입니다. 현재 판매 여부와 최초 출시일을 뜻하지 않습니다."
+        "en": "Historical CN announcement for the March 27–June 26, 2026 seasonal draw. The article uses prospective wording; it does not independently verify release or current availability. Existing explicit announcement dates are retained; unknown original item dates stay unknown.",
+        "ko": "2026년 3월 27일~6월 26일 중국 시즌 공명의 과거 예고입니다. 원문이 출시 예정형으로 서술해 실제 출시·현재 획득 여부를 독립적으로 확정하지 않습니다. 기존의 명시된 예고일은 보존하며 미확인 개별 최초 출시일은 미정으로 둡니다."
       },
       "identityBasis": {
         "en": "The official regional source explicitly names this appearance and category.",
         "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
-      }
+      },
+      "confirmationPending": true
     },
     {
       "cosmeticId": "pan-xin-suo",
