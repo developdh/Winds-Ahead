@@ -461,5 +461,54 @@
   "limits": [
     "Physical devices, Firefox/WebKit, 200% text enlargement, throttled network and field Core Web Vitals not tested.",
     "Mount and VFX are static representative animation frames; original animations linked."
-  ]
+  ],
+  "contentSweepDependencyVersion": "16.3.8",
+  "postSecurityPatch": {
+    "next": "16.4.2",
+    "environment": "Local production Worker at 127.0.0.1:8787",
+    "checks": [
+      {
+        "loaded": true,
+        "pageWidth": 857,
+        "primaryImage": "/media/global-deer-parture-0-display.webp",
+        "text": "도감으로 돌아가기\n전체 이미지 보기\n\n글로벌 공식 순풍백록 애니메이션의 대표 정지 화면입니다. 전체 애니메이션은 공식 출처에서 확인할 수 있습니다.\n\n© NetEase · 게임 외관 참고 이미지. 출처와 서버는 아래에서 확인하세요.\n\n탈것\n\n순풍백록\n\nDeer-parture\n공식 명칭\n\n글로벌 공명 상점에서 공명 구슬 2개로 교환하는 2인 동승 얼음 사슴 탈것 예고입니다. 중국 대응은 미확인입니다.\n\n10월 21일 글로벌 영문·한국어 공식 공지의 10월 25일 출시 예고에서 공식명을 확인했습니다. 서버별 획득 조건·일정을 구분합니다.\n\n관심 저장\n공유\n공식 공지\n출시 서버\n중국\n확인 중\n\n출시 근거를 아직 확인하지 못했습니다.\n\n글로벌\n출시 예정\n2026년 10월 25일\n출처와 범위\n\n출시 기록이며 현재 판매 중이라는 뜻은 아닙니다.\n\n획득 정보\n글로벌\n\n공지 기준 가격\n\n공명 구슬\n× 2\n\n획득처\n공명 상점\nDraw Shop\n획득 방식\n재화 교환\n필요 재화\n공명 구슬\nHarmonic Core\n\n교환 종료\n\n2027년 4월 23일 04:59:59 · UTC+8\n\n영문 개별 공지가 UTC+8을 명시한 공명 상점 교환 종료 예고입니다. 한국어는 2027년 4월 23일 05:59:59로 시간대 미표기입니다. 현재 게임 내 확인은 하지 않았습니다.\n\n종료 일정 출처\n\n공명 구슬 2개로 2인 동승 탈것을 교환합니다. 얼어붙은 길은 얼음 다리를 만들고, 서리걸음은 탑승 중 2단 도약을 지원하며, 얼음놀이는 주변 지면을 얼려 함께 놀 수 있습니다. 영문 예고 교환 기간은 2026년 10월 25일 00:00~2027년 4월 23일 04:59:59(UTC+8)입니다. 한국어는 01:00:00·05:59:59이며 시간대가 명시되지 않았습니다.\n\n위에 표시된 서버의 조건입니다. 현재 획득 가능 여부는 다를 수 있습니다.\n\n출처와 확인 기록\n+\n같은 공지에서 만나는 외관\n이펙트\n황금빛 도약\nTranscendence Gate\n2\n음옥\n공명–화음 상점",
+        "title": "순풍백록 · Winds Ahead / 연운경",
+        "url": "http://127.0.0.1:8787/ko/cosmetics/global-deer-parture",
+        "width": 857
+      },
+      {
+        "languageLinkPreservedDetail": true,
+        "title": "Deer-parture · Winds Ahead / 연운경",
+        "url": "http://127.0.0.1:8787/en/cosmetics/global-deer-parture"
+      },
+      {
+        "rememberedLanguageRootRedirect": true,
+        "title": "Cosmetic archive · Winds Ahead / 연운경",
+        "url": "http://127.0.0.1:8787/en"
+      },
+      {
+        "rows": 10,
+        "text": "What’s next.\n\nOfficial release schedules. All in one place.\n\nRoadmap\nCalendar\nGlobal\nChina\nSource review · 2026-10-22\n\nOfficial Global announcements and verified releases. Unknown dates stay open.\n\nEnding soon\nGlobal · Within 7 days\n\nOfficial sale, exchange and event deadlines. Check in game when the time or zone is unstated.\n\nJade Moonrise\nSale ends · Oct 25, 2026 04:59:59 · UTC+8\nPeng's Expanse\nExchange ends · Oct 27, 2026 23:59:59 · time zone unstated\nFrom today onward\n10 appearances\nOfficial dates\nConfirmed announcements\nOfficially scheduled\nOct 25, 2026\nD−3\nGlobal preview\nWeapons\nBlissful Family\n\n不羡神仙 · CN Dec 12, 2025\n\nAnnounced for October 25, 2026 at 00:00 (UTC+8) in the EN named notice; the EN poster prints 00:00:00. KO prints 01:00:00 without an explicit timezone. Calendar retains day precision. No current in-game verification.\n\nWhy this date\nOfficially scheduled\nOct 25, 2026\nD−3\nGlobal preview\nWeapons\nDawnflare Dragon\n\n赤龙承天 · CN Mar 13, 2026\n\nAnnounced for October 25, 2026 at 00:00 (UTC+8) in the EN named notice; the EN poster prints 00:00:00. KO prints 01:00:00 without an explicit timezone. Calendar retains day precision. No current in-game verification.\n\nWhy this date\nOfficially scheduled\nOct 25, 2026\nD−3\nGlobal preview\nWeapons\nThe Waddling Way\n\n鹅的江湖 · CN Dec 12, 2025\n\nThe Lucky Lantern collection route opens October 25, 2026 at 00:00 (UTC+8); the EN/KO posters print 00:00:00 / 01:00:00, and KO has no timezone label. Payout requires collecting all five styles; this calendar date is the route opening, not a guaranteed individual payout day. No in-game verification.\n\nWhy this date\nOfficially scheduled\nOct 25, 2026\nD−3\nGlobal preview\nMounts\nDeer-parture\n\nDeer-parture\n\nAnnounced for October 25, 2026 at 00:00 (UTC+8) in the EN named notice; the EN poster prints 00:00:00. KO prints 01:00:00 without an explicit timezone. Calendar retains day precision. No current in-game verification.\n\nWhy this date\nOfficially scheduled\nOct 25, 2026\nD−3\nGlobal preview\nEffects\nTranscendence Gate\n\nTranscendence Gate\n\nAnnounced for October 25, 2026; EN poster opening is 00:00:00 and KO is 01:00:00, with no explicit opening timezone. The EN named article labels the discount end UTC+8. No current in-game verification.\n\nWhy this date\nOfficially scheduled\nOct 25, 2026\nD−3\nGlobal preview\nOutfits\nEthereal Trace\n\n青霄掠影\n\nAnnounced for October 25, 2026 at 00:00 (UTC+8) in the EN named notice; the EN poster prints 00:00:00. KO prints 01:00:00 without an explicit timezone. Calendar retains day precision. No current in-game verification.\n\nWhy this date\nOfficially scheduled\nOct 25, 2026\nD−3\nGlobal preview\nWeapons\nNameless Hero\n\n侠者无名 · CN Dec 12, 2025\n\nAnnounced for October 25, 2026 at 00:00 (UTC+8) in the EN named notice; the EN poster prints 00:00:00. KO prints 01:00:00 without an explicit timezone. Calendar retains day precision. No current in-game verification.\n\nWhy this date\nOfficially scheduled\nOct 25, 2026\nD−3\nGlobal preview\nWeapons\nThe Three Honketeers\n\n玉山三鹅 · CN Dec 12, 2025\n\nAnnounced for October 25, 2026 at 00:00 (UTC+8) in the EN named notice; the EN poster prints 00:00:00. KO prints 01:00:00 without an explicit timezone. Calendar retains day precision. No current in-game verification.\n\nWhy this date\nOfficially scheduled\nOct 25, 2026\nD−3\nGlobal preview\nWeapons\nMeow-Go-Round\n\n晕头转喵 · CN Dec 12, 2025\n\nAnnounced for October 25, 2026 at 00:00 (UTC+8) in the EN named notice; the EN poster prints 00:00:00. KO prints 01:00:00 without an explicit timezone. Calendar retains day precision. No current in-game verification.\n\nWhy this date\nOfficially scheduled\nOct 25, 2026\nD−3\nGlobal preview\nWeapons\nWild Goose Chase\n\n追不上鹅 · CN Dec 12, 2025\n\nAnnounced for October 25, 2026 at 00:00 (UTC+8) in the EN named notice; the EN poster prints 00:00:00. KO prints 01:00:00 without an explicit timezone. Calendar retains day precision. No current in-game verification.\n\nWhy this date\nDates to come 471\nGlobal status not verified\nZongheng\n纵横\nUnscheduled\nChongming\n重明\nUnscheduled\nYunzhong Jinshu\n云中锦书\nUnscheduled\nCangyin · Xihe Qiaori\n藏音·羲和敲日\nUnscheduled\nZui Hun Zhuo Yu\n醉魂濯玉\nUnscheduled\nXue Lingdang\n血铃铛\nUnscheduled\nBrowse all appearances in the archive",
+        "url": "http://127.0.0.1:8787/en/calendar",
+        "view": "roadmap"
+      },
+      {
+        "calendarModePreserved": true,
+        "selectedTabs": [
+          "캘린더",
+          "글로벌"
+        ],
+        "title": "출시 로드맵 · Winds Ahead / 연운경",
+        "url": "http://127.0.0.1:8787/ko/calendar?view=calendar"
+      },
+      {
+        "loaded": true,
+        "pageWidth": 390,
+        "title": "순풍백록 · Winds Ahead / 연운경",
+        "url": "http://127.0.0.1:8787/ko/cosmetics/global-deer-parture",
+        "width": 390
+      }
+    ],
+    "logs": []
+  }
 }

@@ -1,0 +1,47 @@
+{
+  "checkedAt": "2026-10-22",
+  "reviewTimezone": "America/New_York",
+  "scope": {
+    "en": "Targeted dependency repair after the required production audit rejected the initial update commit.",
+    "ko": "필수 프로덕션 감사가 최초 업데이트 커밋을 거부한 뒤 필요한 의존성만 수정했습니다."
+  },
+  "initialCi": "https://github.com/developdh/Winds-Ahead/actions/runs/39857164183",
+  "before": {
+    "next": "16.3.8",
+    "eslintConfigNext": "16.3.8",
+    "auditVulnerablePackages": 1
+  },
+  "advisories": [
+    "https://github.com/advisories/GHSA-2464-fhr4-w9xw",
+    "https://github.com/advisories/GHSA-p3m5-59mp-jv5r",
+    "https://github.com/advisories/GHSA-673q-mjm6-r5xr"
+  ],
+  "after": {
+    "next": "16.4.2",
+    "eslintConfigNext": "16.4.2",
+    "auditVulnerabilities": {
+      "info": 0,
+      "low": 0,
+      "moderate": 0,
+      "high": 0,
+      "critical": 0,
+      "total": 0
+    }
+  },
+  "compatibility": {
+    "en": "Next requires Node >=20.9 and accepts React19.2.8. ESLint9.39.4 and TypeScript5.9.3 satisfy the matching configuration. Vinext has no exact Next peer pin; application imports use public API shims. Lock changes are confined to Next, its env/eslint packages and matching SWC binaries.",
+    "ko": "Next는 Node20.9 이상과 React19.2.8을 지원합니다. ESLint9.39.4·TypeScript5.9.3은 대응 설정 조건을 충족하며 Vinext는 Next 정확 버전을 고정하지 않습니다. 앱은 공개 API의 호환 계층을 사용합니다. 잠금 변경은 Next·관련 env/eslint 패키지·대응 SWC 바이너리에 한정됩니다."
+  },
+  "validation": {
+    "types": true,
+    "tests": 44,
+    "contentAndMedia": true,
+    "forecastHistoryUnchanged": true,
+    "sitesRootWorkerBuild": true,
+    "productionWorkerBrowserSmoke": "2026-10-22-ui/results.json"
+  },
+  "limits": {
+    "en": "Audit identifies affected installed packages; exploitability of these Next server paths in the Vinext Worker runtime was not independently established.",
+    "ko": "감사는 영향받는 설치 패키지를 식별한 것이며 Vinext Worker 런타임에서 해당 Next 서버 경로의 실제 공격 가능성을 별도로 확정하지 않았습니다."
+  }
+}
