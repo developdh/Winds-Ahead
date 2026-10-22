@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "reviewedAt": "2026-10-19",
+  "reviewedAt": "2026-10-22",
   "records": [
     {
       "id": "global-global-wind-s-far-shore-exchange-2026-11-18",
@@ -1123,6 +1123,153 @@
       "note": {
         "en": "Historical announced end of the 夹钟奏雅 seasonal draw. Starts after the March 27 update; exact start time and timezone are unstated. This end does not establish an individual payout date or current availability.",
         "ko": "협종주아(夹钟奏雅) 시즌 공명의 과거 예고 종료 시각입니다. 3월 27일 업데이트 후 시작하며 정확한 시작 시각·시간대는 미표기입니다. 개별 보상 지급일·현재 획득 여부를 확정하지 않습니다."
+      }
+    },
+    {
+      "id": "global-global-deer-parture-exchange-2027-04-23",
+      "cosmeticId": "global-deer-parture",
+      "server": "Global",
+      "kind": "exchange",
+      "startDate": "2026-10-25",
+      "end": "2027-04-23T04:59:59",
+      "precision": "second",
+      "timezone": "UTC+8",
+      "sourceIds": [
+        "global-20261021-october25-en",
+        "global-20261021-october25-ko",
+        "global-20261021-october25-appearance-en",
+        "global-20261021-october25-appearance-ko"
+      ],
+      "verifiedAt": "2026-10-22",
+      "note": {
+        "en": "Announced Draw Shop exchange end, explicitly UTC+8 in the EN named notice. KO prints April 23, 2027 05:59:59 without a timezone. No current in-game check.",
+        "ko": "영문 개별 공지가 UTC+8을 명시한 공명 상점 교환 종료 예고입니다. 한국어는 2027년 4월 23일 05:59:59로 시간대 미표기입니다. 현재 게임 내 확인은 하지 않았습니다."
+      }
+    },
+    {
+      "id": "global-global-transcendence-gate-discount-2026-11-25",
+      "cosmeticId": "global-transcendence-gate",
+      "server": "Global",
+      "kind": "discount",
+      "startDate": "2026-10-25",
+      "end": "2026-11-25T04:59:59",
+      "precision": "second",
+      "timezone": "UTC+8",
+      "sourceIds": [
+        "global-20261021-october25-en",
+        "global-20261021-october25-ko",
+        "global-20261021-october25-appearance-en",
+        "global-20261021-october25-appearance-ko"
+      ],
+      "verifiedAt": "2026-10-22",
+      "note": {
+        "en": "Discount end, explicitly UTC+8 in the EN named notice; price changes from 2 to 3 Sound Jade. KO prints November 25 05:59:59 without a timezone. Exchange end is unstated.",
+        "ko": "영문 개별 공지가 UTC+8을 명시한 할인 종료이며 음옥 2개에서 정가 3개로 바뀝니다. 한국어는 11월 25일 05:59:59로 시간대 미표기입니다. 교환 종료는 미표기입니다."
+      }
+    },
+    {
+      "id": "global-bu-xian-shen-xian-sale-2026-11-09",
+      "cosmeticId": "bu-xian-shen-xian",
+      "server": "Global",
+      "kind": "sale",
+      "startDate": "2026-10-25",
+      "end": "2026-11-09T04:59:59",
+      "precision": "second",
+      "timezone": "UTC+8",
+      "sourceIds": [
+        "global-20261021-october25-en",
+        "global-20261021-october25-ko",
+        "global-20261021-october25-appearance-en",
+        "global-20261021-october25-appearance-ko"
+      ],
+      "verifiedAt": "2026-10-22",
+      "note": {
+        "en": "End of the Lucky Lantern random-chest sale that supplies this style, explicitly UTC+8 in the EN named notice. KO prints November 9 05:59:59 without a timezone. This is the container sale end; no separate chest-opening or individual reward-payout expiry is stated.",
+        "ko": "이 스타일을 지급하는 점등 대길 랜덤 선물상자 판매 종료이며 영문 개별 공지가 UTC+8을 명시합니다. 한국어는 11월 9일 05:59:59로 시간대 미표기입니다. 상자 판매 종료이며 별도 개봉·개별 보상 지급 만료는 미표기입니다."
+      }
+    },
+    {
+      "id": "global-xia-zhe-wu-ming-sale-2026-11-09",
+      "cosmeticId": "xia-zhe-wu-ming",
+      "server": "Global",
+      "kind": "sale",
+      "startDate": "2026-10-25",
+      "end": "2026-11-09T04:59:59",
+      "precision": "second",
+      "timezone": "UTC+8",
+      "sourceIds": [
+        "global-20261021-october25-en",
+        "global-20261021-october25-ko",
+        "global-20261021-october25-appearance-en",
+        "global-20261021-october25-appearance-ko"
+      ],
+      "verifiedAt": "2026-10-22",
+      "note": {
+        "en": "End of the Lucky Lantern random-chest sale that supplies this style, explicitly UTC+8 in the EN named notice. KO prints November 9 05:59:59 without a timezone. This is the container sale end; no separate chest-opening or individual reward-payout expiry is stated.",
+        "ko": "이 스타일을 지급하는 점등 대길 랜덤 선물상자 판매 종료이며 영문 개별 공지가 UTC+8을 명시합니다. 한국어는 11월 9일 05:59:59로 시간대 미표기입니다. 상자 판매 종료이며 별도 개봉·개별 보상 지급 만료는 미표기입니다."
+      }
+    },
+    {
+      "id": "global-yu-shan-san-e-sale-2026-11-09",
+      "cosmeticId": "yu-shan-san-e",
+      "server": "Global",
+      "kind": "sale",
+      "startDate": "2026-10-25",
+      "end": "2026-11-09T04:59:59",
+      "precision": "second",
+      "timezone": "UTC+8",
+      "sourceIds": [
+        "global-20261021-october25-en",
+        "global-20261021-october25-ko",
+        "global-20261021-october25-appearance-en",
+        "global-20261021-october25-appearance-ko"
+      ],
+      "verifiedAt": "2026-10-22",
+      "note": {
+        "en": "End of the Lucky Lantern random-chest sale that supplies this style, explicitly UTC+8 in the EN named notice. KO prints November 9 05:59:59 without a timezone. This is the container sale end; no separate chest-opening or individual reward-payout expiry is stated.",
+        "ko": "이 스타일을 지급하는 점등 대길 랜덤 선물상자 판매 종료이며 영문 개별 공지가 UTC+8을 명시합니다. 한국어는 11월 9일 05:59:59로 시간대 미표기입니다. 상자 판매 종료이며 별도 개봉·개별 보상 지급 만료는 미표기입니다."
+      }
+    },
+    {
+      "id": "global-yun-tou-zhuan-miao-sale-2026-11-09",
+      "cosmeticId": "yun-tou-zhuan-miao",
+      "server": "Global",
+      "kind": "sale",
+      "startDate": "2026-10-25",
+      "end": "2026-11-09T04:59:59",
+      "precision": "second",
+      "timezone": "UTC+8",
+      "sourceIds": [
+        "global-20261021-october25-en",
+        "global-20261021-october25-ko",
+        "global-20261021-october25-appearance-en",
+        "global-20261021-october25-appearance-ko"
+      ],
+      "verifiedAt": "2026-10-22",
+      "note": {
+        "en": "End of the Lucky Lantern random-chest sale that supplies this style, explicitly UTC+8 in the EN named notice. KO prints November 9 05:59:59 without a timezone. This is the container sale end; no separate chest-opening or individual reward-payout expiry is stated.",
+        "ko": "이 스타일을 지급하는 점등 대길 랜덤 선물상자 판매 종료이며 영문 개별 공지가 UTC+8을 명시합니다. 한국어는 11월 9일 05:59:59로 시간대 미표기입니다. 상자 판매 종료이며 별도 개봉·개별 보상 지급 만료는 미표기입니다."
+      }
+    },
+    {
+      "id": "global-zhui-bu-shang-e-sale-2026-11-09",
+      "cosmeticId": "zhui-bu-shang-e",
+      "server": "Global",
+      "kind": "sale",
+      "startDate": "2026-10-25",
+      "end": "2026-11-09T04:59:59",
+      "precision": "second",
+      "timezone": "UTC+8",
+      "sourceIds": [
+        "global-20261021-october25-en",
+        "global-20261021-october25-ko",
+        "global-20261021-october25-appearance-en",
+        "global-20261021-october25-appearance-ko"
+      ],
+      "verifiedAt": "2026-10-22",
+      "note": {
+        "en": "End of the Lucky Lantern random-chest sale that supplies this style, explicitly UTC+8 in the EN named notice. KO prints November 9 05:59:59 without a timezone. This is the container sale end; no separate chest-opening or individual reward-payout expiry is stated.",
+        "ko": "이 스타일을 지급하는 점등 대길 랜덤 선물상자 판매 종료이며 영문 개별 공지가 UTC+8을 명시합니다. 한국어는 11월 9일 05:59:59로 시간대 미표기입니다. 상자 판매 종료이며 별도 개봉·개별 보상 지급 만료는 미표기입니다."
       }
     }
   ]

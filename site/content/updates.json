@@ -2,6 +2,30 @@
   "schemaVersion": 1,
   "entries": [
     {
+      "id": "october25-global-appearances-20261022",
+      "date": "2026-10-22",
+      "kind": {
+        "en": "Official Global appearance intake",
+        "ko": "글로벌 공식 외관 정보 반영"
+      },
+      "title": {
+        "en": "Ten October 25 appearances and seven listing/discount deadlines",
+        "ko": "10월 25일 외관 10종·판매·교환·할인 종료 7건"
+      },
+      "body": {
+        "en": "Added official EN/KO names, Global acquisition terms and day-precision calendar listings for ten appearances. Eight match existing CN identities; the deer mount and Cloud Steps VFX stay separate because named CN comparison images were not established. Five umbrella styles come from a 60-Echo-Bead random chest with no duplicates, and the sixth requires all five. Explicit UTC+8 ends stay separate from the unlabeled Korean clocks and the VFX opening timezone. Seven affected historical CN records now remain pending announcements because their retained sources preannounce a launch; the explicit planned dates are preserved.",
+        "ko": "외관 10종의 영문·한국어 공식명, 글로벌 획득 조건과 날짜 정밀도 캘린더 예고를 추가했습니다. 8종은 기존 중국 항목과 일치하며 사슴 탈것·구름 위 질주 이펙트는 명칭별 중국 비교 사진이 없어 별도 유지합니다. 우산 5종은 장명주 60개 랜덤 상자에서 중복 없이 지급되고 여섯 번째는 5종 수집 보상입니다. 명시된 UTC+8 종료와 한국어의 미표기 시간대·이펙트 시작 시간대를 구분합니다. 보관 원문이 사전 예고인 중국 과거 기록 7건은 명시된 예정일을 보존하면서 출시 확인 중으로 바로잡았습니다."
+      },
+      "sourceIds": [
+        "global-20261021-october25-en",
+        "global-20261021-october25-ko",
+        "global-20261021-october25-appearance-en",
+        "global-20261021-october25-appearance-ko",
+        "cn-628ac0ee4db4",
+        "cn-328aa2453ae5"
+      ]
+    },
+    {
       "id": "historical-cn-acquisition-and-quest-galleries-20261019",
       "date": "2026-10-19",
       "kind": {

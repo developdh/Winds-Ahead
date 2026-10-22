@@ -1,0 +1,301 @@
+{
+  "checkedAt": "2026-10-22",
+  "reviewTimezone": "America/New_York",
+  "scope": "Bounded official Global EN/KO website review after October 17 through October 22, plus reread of two affected historical CN source bodies. Canonical intake follows verified appearance evidence; no in-game checks or forecasts.",
+  "instructionsRead": [
+    "AGENTS.md",
+    "docs/en/calendar-automation.md",
+    "docs/research-sources.md",
+    "docs/research/2026-10-17-official-review.json",
+    "docs/research/2026-10-14-official-review.json"
+  ],
+  "sources": [
+    {
+      "url": "https://www.wherewindsmeetgame.com/news/",
+      "type": "official_index",
+      "result": "Latest appearance/update overview links dated October 21. No other October 17–22 notice listed on page one."
+    },
+    {
+      "url": "https://www.wherewindsmeetgame.com/kr/news/",
+      "type": "official_index",
+      "result": "Latest appearance/update overview links dated October 21. No other October 17–22 notice listed on page one."
+    },
+    {
+      "id": "global-20261021-october25-appearance-en",
+      "url": "https://www.wherewindsmeetgame.com/news/official/1025appearance.html",
+      "titleOriginal": "Version 2.3 New Appearances Overview - October 25",
+      "displayedPublicationDate": "2026-10-21",
+      "server": "Global",
+      "verification": "Full named HTML read and paired artwork reviewed by the linked October 22 identity/media evidence. EN explicitly labels UTC+8 for mount/chest ranges, outfit/gauntlet openings and the VFX discount end. VFX opening timezone remains unknown; Korean clocks are one hour ahead without printed timezone."
+    },
+    {
+      "id": "global-20261021-october25-appearance-ko",
+      "url": "https://www.wherewindsmeetgame.com/kr/news/official/1025appearance.html",
+      "titleOriginal": "10월25일 2.3 버전 신규 외관 목록",
+      "displayedPublicationDate": "2026-10-21",
+      "server": "Global",
+      "verification": "Full named HTML read and paired artwork reviewed by the linked October 22 identity/media evidence. EN explicitly labels UTC+8 for mount/chest ranges, outfit/gauntlet openings and the VFX discount end. VFX opening timezone remains unknown; Korean clocks are one hour ahead without printed timezone."
+    },
+    {
+      "url": "https://www.wherewindsmeetgame.com/news/official/1025update.html",
+      "titleOriginal": "[Friends From Afar] Version 2.3 Update Overview - October 25",
+      "displayedPublicationDate": "2026-10-21",
+      "server": "Global",
+      "posterUrl": "https://r.res.easebar.com/pic/20261021/72830486-fe80-4c6a-9673-e14cad420196.png",
+      "verification": "Full poster visually inspected at readable resolution in three sequential segments; all named appearance sections reviewed. Prices and conditions below are Global evidence.",
+      "id": "global-20261021-october25-en",
+      "imageSha256": "e163aa7f175c24faec0c0150b97d1369ae89c1a987397c1bca532c0c95c6bb87",
+      "imageBytes": 4976775,
+      "imageDimensions": [
+        984,
+        6991
+      ]
+    },
+    {
+      "url": "https://www.wherewindsmeetgame.com/kr/news/official/1025update.html",
+      "titleOriginal": "[청주에 찾아온 벗] 10월25일 2.3 버전 업데이트 미리보기",
+      "displayedPublicationDate": "2026-10-21",
+      "server": "Global",
+      "posterUrl": "https://r.res.easebar.com/pic/20261021/9e2f5339-bc3b-4898-9a91-1bb7fef1d9cc.png",
+      "verification": "Full poster visually inspected at readable resolution in three sequential segments; all named appearance sections reviewed. Prices and conditions below are Global evidence. The Korean masthead retains October 15; item-specific listing sections explicitly state October 25.",
+      "id": "global-20261021-october25-ko",
+      "imageSha256": "7df1aa06398d220918a8ef3042d1b805f44b85db0c14bbf9234a24f77f2bdb02",
+      "imageBytes": 5053785,
+      "imageDimensions": [
+        984,
+        7021
+      ]
+    }
+  ],
+  "newAnnouncementGroups": [
+    {
+      "officialNameEn": "Deer-parture",
+      "officialNameKo": "순풍백록",
+      "category": "mount",
+      "acquisition": "Draw Shop exchange for 2 Harmonic Cores / 공명 구슬; supports two riders and listed ice-bridge, double-jump and ice-play skills.",
+      "start": {
+        "localDateTime": "2026-10-25T00:00:00",
+        "timezone": "UTC+8",
+        "precision": "minute",
+        "basis": "English official named appearance article; Korean article states 01:00 with timezone unstated."
+      },
+      "end": {
+        "localDateTime": "2027-04-23T04:59:59",
+        "timezone": "UTC+8",
+        "precision": "second",
+        "kind": "listing_end"
+      },
+      "koEndObservation": "2027-04-23 05:59:59; timezone unstated in Korean HTML",
+      "enMediaUrls": [
+        "https://r.res.easebar.com/pic/20261020/0444ad29-21cb-4834-bff4-5f81505a6a9d.gif"
+      ],
+      "koMediaUrls": [
+        "https://r.res.easebar.com/pic/20261020/ed81470a-2b1b-4641-8d27-e543109c1f3c.gif"
+      ],
+      "unverifiedCnCandidateId": "wiki-yi-lu-shun-feng",
+      "amount": 2,
+      "currency": "Harmonic Core"
+    },
+    {
+      "officialNameEn": "Transcendence Gate",
+      "officialNameKo": "황금빛 도약",
+      "category": "effect",
+      "skillEn": "Cloud Steps",
+      "skillKo": "구름 위 질주",
+      "acquisition": "Draw – Harmonic Shop exchange at 2 Sound Jade / 음옥 during the discount, then 3.",
+      "start": {
+        "localDateTime": "2026-10-25T00:00:00",
+        "timezone": null,
+        "precision": "minute",
+        "basis": "EN poster 00:00:00 / KO 01:00:00; opening timezone unstated. The HTML UTC+8 label explicitly qualifies the discount end."
+      },
+      "discountEnd": {
+        "localDateTime": "2026-11-25T04:59:59",
+        "timezone": "UTC+8",
+        "precision": "second"
+      },
+      "koEndObservation": "2026-11-25 05:59:59; timezone unstated in Korean HTML",
+      "enMediaUrls": [
+        "https://r.res.easebar.com/pic/20261020/f1e40a8a-d474-447f-9967-332c3c40507a.gif"
+      ],
+      "koMediaUrls": [
+        "https://r.res.easebar.com/pic/20261020/b27f096b-dd29-4639-b4f4-b1615dc6fdda.gif"
+      ],
+      "unverifiedCnCandidateId": "lin-yue-long-fei",
+      "amount": 2,
+      "regularAmount": 3,
+      "currency": "Sound Jade"
+    },
+    {
+      "officialNameEn": "Ethereal Trace",
+      "officialNameKo": "창공의 그림자",
+      "category": "outfit",
+      "acquisition": "Shop purchase for 1,280 Echo Beads / 장명주; includes the matching player Avatar.",
+      "start": {
+        "localDateTime": "2026-10-25T00:00:00",
+        "timezone": "UTC+8",
+        "precision": "minute",
+        "basis": "English official named appearance article; Korean article states 01:00 with timezone unstated."
+      },
+      "details": "Top and bottom can be equipped separately; full dye support.",
+      "enMediaUrls": [
+        "https://r.res.easebar.com/pic/20261020/a0dd1e24-9a8a-4310-bae3-698129f29028.png",
+        "https://r.res.easebar.com/pic/20261020/4a703d9c-8e35-4f7a-88af-c6113fe522bc.png"
+      ],
+      "koMediaUrls": [
+        "https://r.res.easebar.com/pic/20261020/a35d3ed4-b841-4bbb-94ae-f0817f18c9af.png",
+        "https://r.res.easebar.com/pic/20261020/9354718d-9416-4b0e-a5df-8be1a4e4505f.png"
+      ],
+      "amount": 1280,
+      "currency": "Echo Beads",
+      "confirmedCosmeticId": "qing-xiao-lue-ying"
+    },
+    {
+      "officialNameEn": "Dawnflare Dragon",
+      "officialNameKo": "불꽃 날개의 비상",
+      "category": "weapon_skin",
+      "weaponEn": "Gauntlets",
+      "weaponKo": "권갑",
+      "acquisition": "Shop purchase for 680 Echo Beads / 장명주.",
+      "start": {
+        "localDateTime": "2026-10-25T00:00:00",
+        "timezone": "UTC+8",
+        "precision": "minute",
+        "basis": "English official named appearance article; Korean article states 01:00 with timezone unstated."
+      },
+      "enMediaUrls": [
+        "https://r.res.easebar.com/pic/20261020/348a84cb-a12f-4066-a6e2-1fcff9bec969.png",
+        "https://r.res.easebar.com/pic/20261020/3ea2d2f8-97c3-4966-8d12-604377ca4364.png"
+      ],
+      "koMediaUrls": [
+        "https://r.res.easebar.com/pic/20261020/fc5a5e28-4848-41f1-aabd-ea2fdb6544ff.png",
+        "https://r.res.easebar.com/pic/20261020/02c0a751-4ec9-4d5a-810d-bc35327a05da.png"
+      ],
+      "amount": 680,
+      "currency": "Echo Beads",
+      "confirmedCosmeticId": "chi-long-chengtian"
+    }
+  ],
+  "randomChest": {
+    "officialNameEn": "Lucky Lantern",
+    "officialNameKo": "점등 대길",
+    "kind": "umbrella weapon appearance random chest",
+    "start": {
+      "localDateTime": "2026-10-25T00:00:00",
+      "timezone": "UTC+8",
+      "precision": "minute",
+      "basis": "English official named appearance article; Korean article states 01:00 with timezone unstated."
+    },
+    "end": {
+      "localDateTime": "2026-11-09T04:59:59",
+      "timezone": "UTC+8",
+      "precision": "second",
+      "kind": "chest_listing_end"
+    },
+    "koEndObservation": "2026-11-09 05:59:59; timezone unstated in Korean HTML",
+    "rules": "Five distinct styles with no duplicates; all five unlock a separate completion reward.",
+    "price": {
+      "amount": 60,
+      "currencyEn": "Echo Beads",
+      "currencyKo": "장명주",
+      "unit": "per chest purchase, not a fixed individual-style price; opening gifted chests is not a separate stated currency charge"
+    },
+    "enMediaUrls": [
+      "https://r.res.easebar.com/pic/20261020/7b61727d-a3bc-4b56-bfe3-0fad91a5270b.jpg",
+      "https://r.res.easebar.com/pic/20261020/63a27bc3-73a8-4015-a767-92dd02c064a8.jpg",
+      "https://r.res.easebar.com/pic/20261020/68421a58-fd72-4ec2-a7b6-6f853bfbc908.jpg"
+    ],
+    "koMediaUrls": [
+      "https://r.res.easebar.com/pic/20261020/432b46c0-a9a8-4095-9d4b-f6948374bc4b.jpg",
+      "https://r.res.easebar.com/pic/20261020/09a799bf-8ea8-4a13-92f5-9c21d9053cb6.jpg",
+      "https://r.res.easebar.com/pic/20261020/476953b8-af78-4640-9fc7-a754997f6f7f.jpg"
+    ],
+    "styles": [
+      {
+        "officialNameEn": "Wild Goose Chase",
+        "officialNameKo": "쫓을 수 없는 거위",
+        "confirmedCosmeticId": "zhui-bu-shang-e"
+      },
+      {
+        "officialNameEn": "Meow-Go-Round",
+        "officialNameKo": "어지러운 냥이",
+        "confirmedCosmeticId": "yun-tou-zhuan-miao"
+      },
+      {
+        "officialNameEn": "Nameless Hero",
+        "officialNameKo": "무명의 협객",
+        "confirmedCosmeticId": "xia-zhe-wu-ming"
+      },
+      {
+        "officialNameEn": "Blissful Family",
+        "officialNameKo": "신선놀음",
+        "confirmedCosmeticId": "bu-xian-shen-xian"
+      },
+      {
+        "officialNameEn": "The Three Honketeers",
+        "officialNameKo": "옥산의 세 거위",
+        "confirmedCosmeticId": "yu-shan-san-e"
+      }
+    ],
+    "completionReward": {
+      "officialNameEn": "The Waddling Way",
+      "officialNameKo": "거위의 강호",
+      "category": "weapon_skin",
+      "weaponEn": "Umbrella",
+      "weaponKo": "우산",
+      "confirmedCosmeticId": "e-de-jiang-hu"
+    },
+    "giftTerms": "Chest can be gifted; each character may receive up to five Lucky Lantern chests."
+  },
+  "cnCandidateCaveat": "Eight identities are visually confirmed by the linked identity review. Mount wiki-yi-lu-shun-feng and VFX lin-yue-long-fei remain unresolved candidates only; separate Global records were added.",
+  "limits": [
+    "Cafe root https://cafe.naver.com/wherewindsmeet and previously known notice https://cafe.naver.com/wherewindsmeet/2270 could not be read through the web tool (robots/cache miss). No current Cafe notice body was verified.",
+    "Official X history and in-game acquisition/current stock were not independently audited.",
+    "End times are limited to the stated listing or discount. Completion-reward deadline was not separately specified.",
+    "Both update posters were inspected in temporary storage. Named appearance media/identity findings are in separate linked October 22 review files; reused artwork remains unknown-permission reference material.",
+    "Canonical names/acquisition/status/events/deadlines were updated in this task; media integration and validation are completed by the parent. No GitHub operation was performed by this reviewer."
+  ],
+  "identityReview": "docs/research/2026-10-22-identity-review.json",
+  "mediaReview": "docs/research/2026-10-22-media-review.json",
+  "canonicalImplementation": {
+    "newGlobalCosmeticIds": [
+      "global-deer-parture",
+      "global-transcendence-gate"
+    ],
+    "globalRegionalRecords": 10,
+    "globalCalendarEvents": 10,
+    "newGlobalDeadlineRecords": 7,
+    "correctedHistoricalCnPendingRecords": [
+      "chi-long-chengtian",
+      "zhui-bu-shang-e",
+      "yun-tou-zhuan-miao",
+      "xia-zhe-wu-ming",
+      "yu-shan-san-e",
+      "bu-xian-shen-xian",
+      "e-de-jiang-hu"
+    ],
+    "completionDeadline": "No independent deadline created for The Waddling Way; the chest sale window stays in acquisition context."
+  },
+  "additionalHistoricalSourceReads": [
+    {
+      "url": "https://www.yysls.cn/news/official/20251210/37780_1275890.html",
+      "displayedPublicationDate": "2025-12-10",
+      "result": "Future Dec12 listing wording; does not independently verify actual CN launch. Historical planned dates retained."
+    },
+    {
+      "url": "https://www.yysls.cn/news/official/20260313/37780_1291020.html",
+      "displayedPublicationDate": "2026-03-12",
+      "result": "Future Mar13 gauntlet listing wording; does not independently verify actual CN launch. Historical planned date retained."
+    }
+  ],
+  "cnIndexReviewByParent": [
+    {
+      "url": "https://www.yysls.cn/news/official/",
+      "result": "Parent agent reviewed current index; latest appearance article still October 15."
+    },
+    {
+      "url": "https://www.yysls.cn/news/update/",
+      "result": "Parent agent reviewed current index; latest update still October 16."
+    }
+  ]
+}

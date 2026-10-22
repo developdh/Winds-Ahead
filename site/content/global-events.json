@@ -3884,6 +3884,196 @@
         "en": "After the October 15, 2026 update; exact opening time and timezone unstated. Official announcement; no in-game availability check.",
         "ko": "2026년 10월 15일 업데이트 후이며 정확한 시작 시각·시간대는 미표기입니다. 공식 예고이며 현재 게임 내 획득 가능 여부는 미확인입니다."
       }
+    },
+    {
+      "id": "announced-global-global-deer-parture-2026-10-25",
+      "cosmeticId": "global-deer-parture",
+      "date": "2026-10-25",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "status": "announced",
+      "sourceIds": [
+        "global-20261021-october25-en",
+        "global-20261021-october25-ko",
+        "global-20261021-october25-appearance-en",
+        "global-20261021-october25-appearance-ko"
+      ],
+      "scope": {
+        "en": "Announced for October 25, 2026 at 00:00 (UTC+8) in the EN named notice; the EN poster prints 00:00:00. KO prints 01:00:00 without an explicit timezone. Calendar retains day precision. No current in-game verification.",
+        "ko": "영문 개별 공지는 2026년 10월 25일 00:00(UTC+8) 출시를 예고하며 영문 이미지는 00:00:00입니다. 한국어는 01:00:00이며 시간대를 명시하지 않았습니다. 캘린더는 날짜 정밀도를 유지합니다. 현재 게임 내 확인은 하지 않았습니다."
+      }
+    },
+    {
+      "id": "announced-global-global-transcendence-gate-2026-10-25",
+      "cosmeticId": "global-transcendence-gate",
+      "date": "2026-10-25",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "status": "announced",
+      "sourceIds": [
+        "global-20261021-october25-en",
+        "global-20261021-october25-ko",
+        "global-20261021-october25-appearance-en",
+        "global-20261021-october25-appearance-ko"
+      ],
+      "scope": {
+        "en": "Announced for October 25, 2026; EN poster opening is 00:00:00 and KO is 01:00:00, with no explicit opening timezone. The EN named article labels the discount end UTC+8. No current in-game verification.",
+        "ko": "2026년 10월 25일 출시 예고이며 영문 이미지 시작은 00:00:00·한국어는 01:00:00로 시작 시간대는 명시되지 않았습니다. 영문 개별 공지는 할인 종료에 UTC+8을 명시합니다. 현재 게임 내 확인은 하지 않았습니다."
+      }
+    },
+    {
+      "id": "announced-global-qing-xiao-lue-ying-2026-10-25",
+      "cosmeticId": "qing-xiao-lue-ying",
+      "date": "2026-10-25",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "status": "announced",
+      "sourceIds": [
+        "global-20261021-october25-en",
+        "global-20261021-october25-ko",
+        "global-20261021-october25-appearance-en",
+        "global-20261021-october25-appearance-ko"
+      ],
+      "scope": {
+        "en": "Announced for October 25, 2026 at 00:00 (UTC+8) in the EN named notice; the EN poster prints 00:00:00. KO prints 01:00:00 without an explicit timezone. Calendar retains day precision. No current in-game verification.",
+        "ko": "영문 개별 공지는 2026년 10월 25일 00:00(UTC+8) 출시를 예고하며 영문 이미지는 00:00:00입니다. 한국어는 01:00:00이며 시간대를 명시하지 않았습니다. 캘린더는 날짜 정밀도를 유지합니다. 현재 게임 내 확인은 하지 않았습니다."
+      }
+    },
+    {
+      "id": "announced-global-chi-long-chengtian-2026-10-25",
+      "cosmeticId": "chi-long-chengtian",
+      "date": "2026-10-25",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "status": "announced",
+      "sourceIds": [
+        "global-20261021-october25-en",
+        "global-20261021-october25-ko",
+        "global-20261021-october25-appearance-en",
+        "global-20261021-october25-appearance-ko"
+      ],
+      "scope": {
+        "en": "Announced for October 25, 2026 at 00:00 (UTC+8) in the EN named notice; the EN poster prints 00:00:00. KO prints 01:00:00 without an explicit timezone. Calendar retains day precision. No current in-game verification.",
+        "ko": "영문 개별 공지는 2026년 10월 25일 00:00(UTC+8) 출시를 예고하며 영문 이미지는 00:00:00입니다. 한국어는 01:00:00이며 시간대를 명시하지 않았습니다. 캘린더는 날짜 정밀도를 유지합니다. 현재 게임 내 확인은 하지 않았습니다."
+      }
+    },
+    {
+      "id": "announced-global-zhui-bu-shang-e-2026-10-25",
+      "cosmeticId": "zhui-bu-shang-e",
+      "date": "2026-10-25",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "status": "announced",
+      "sourceIds": [
+        "global-20261021-october25-en",
+        "global-20261021-october25-ko",
+        "global-20261021-october25-appearance-en",
+        "global-20261021-october25-appearance-ko"
+      ],
+      "scope": {
+        "en": "Announced for October 25, 2026 at 00:00 (UTC+8) in the EN named notice; the EN poster prints 00:00:00. KO prints 01:00:00 without an explicit timezone. Calendar retains day precision. No current in-game verification.",
+        "ko": "영문 개별 공지는 2026년 10월 25일 00:00(UTC+8) 출시를 예고하며 영문 이미지는 00:00:00입니다. 한국어는 01:00:00이며 시간대를 명시하지 않았습니다. 캘린더는 날짜 정밀도를 유지합니다. 현재 게임 내 확인은 하지 않았습니다."
+      }
+    },
+    {
+      "id": "announced-global-yun-tou-zhuan-miao-2026-10-25",
+      "cosmeticId": "yun-tou-zhuan-miao",
+      "date": "2026-10-25",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "status": "announced",
+      "sourceIds": [
+        "global-20261021-october25-en",
+        "global-20261021-october25-ko",
+        "global-20261021-october25-appearance-en",
+        "global-20261021-october25-appearance-ko"
+      ],
+      "scope": {
+        "en": "Announced for October 25, 2026 at 00:00 (UTC+8) in the EN named notice; the EN poster prints 00:00:00. KO prints 01:00:00 without an explicit timezone. Calendar retains day precision. No current in-game verification.",
+        "ko": "영문 개별 공지는 2026년 10월 25일 00:00(UTC+8) 출시를 예고하며 영문 이미지는 00:00:00입니다. 한국어는 01:00:00이며 시간대를 명시하지 않았습니다. 캘린더는 날짜 정밀도를 유지합니다. 현재 게임 내 확인은 하지 않았습니다."
+      }
+    },
+    {
+      "id": "announced-global-xia-zhe-wu-ming-2026-10-25",
+      "cosmeticId": "xia-zhe-wu-ming",
+      "date": "2026-10-25",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "status": "announced",
+      "sourceIds": [
+        "global-20261021-october25-en",
+        "global-20261021-october25-ko",
+        "global-20261021-october25-appearance-en",
+        "global-20261021-october25-appearance-ko"
+      ],
+      "scope": {
+        "en": "Announced for October 25, 2026 at 00:00 (UTC+8) in the EN named notice; the EN poster prints 00:00:00. KO prints 01:00:00 without an explicit timezone. Calendar retains day precision. No current in-game verification.",
+        "ko": "영문 개별 공지는 2026년 10월 25일 00:00(UTC+8) 출시를 예고하며 영문 이미지는 00:00:00입니다. 한국어는 01:00:00이며 시간대를 명시하지 않았습니다. 캘린더는 날짜 정밀도를 유지합니다. 현재 게임 내 확인은 하지 않았습니다."
+      }
+    },
+    {
+      "id": "announced-global-bu-xian-shen-xian-2026-10-25",
+      "cosmeticId": "bu-xian-shen-xian",
+      "date": "2026-10-25",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "status": "announced",
+      "sourceIds": [
+        "global-20261021-october25-en",
+        "global-20261021-october25-ko",
+        "global-20261021-october25-appearance-en",
+        "global-20261021-october25-appearance-ko"
+      ],
+      "scope": {
+        "en": "Announced for October 25, 2026 at 00:00 (UTC+8) in the EN named notice; the EN poster prints 00:00:00. KO prints 01:00:00 without an explicit timezone. Calendar retains day precision. No current in-game verification.",
+        "ko": "영문 개별 공지는 2026년 10월 25일 00:00(UTC+8) 출시를 예고하며 영문 이미지는 00:00:00입니다. 한국어는 01:00:00이며 시간대를 명시하지 않았습니다. 캘린더는 날짜 정밀도를 유지합니다. 현재 게임 내 확인은 하지 않았습니다."
+      }
+    },
+    {
+      "id": "announced-global-yu-shan-san-e-2026-10-25",
+      "cosmeticId": "yu-shan-san-e",
+      "date": "2026-10-25",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "status": "announced",
+      "sourceIds": [
+        "global-20261021-october25-en",
+        "global-20261021-october25-ko",
+        "global-20261021-october25-appearance-en",
+        "global-20261021-october25-appearance-ko"
+      ],
+      "scope": {
+        "en": "Announced for October 25, 2026 at 00:00 (UTC+8) in the EN named notice; the EN poster prints 00:00:00. KO prints 01:00:00 without an explicit timezone. Calendar retains day precision. No current in-game verification.",
+        "ko": "영문 개별 공지는 2026년 10월 25일 00:00(UTC+8) 출시를 예고하며 영문 이미지는 00:00:00입니다. 한국어는 01:00:00이며 시간대를 명시하지 않았습니다. 캘린더는 날짜 정밀도를 유지합니다. 현재 게임 내 확인은 하지 않았습니다."
+      }
+    },
+    {
+      "id": "announced-global-e-de-jiang-hu-2026-10-25",
+      "cosmeticId": "e-de-jiang-hu",
+      "date": "2026-10-25",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "status": "announced",
+      "sourceIds": [
+        "global-20261021-october25-en",
+        "global-20261021-october25-ko",
+        "global-20261021-october25-appearance-en",
+        "global-20261021-october25-appearance-ko"
+      ],
+      "scope": {
+        "en": "The Lucky Lantern collection route opens October 25, 2026 at 00:00 (UTC+8); the EN/KO posters print 00:00:00 / 01:00:00, and KO has no timezone label. Payout requires collecting all five styles; this calendar date is the route opening, not a guaranteed individual payout day. No in-game verification.",
+        "ko": "점등 대길 수집 경로는 2026년 10월 25일 00:00(UTC+8)에 시작하며 영문·한국어 이미지는 00:00:00·01:00:00이고 한국어 시간대는 미표기입니다. 5종 수집 후 지급되며 캘린더 날짜는 경로 시작이지 개별 확정 지급일이 아닙니다. 게임 내 확인은 하지 않았습니다."
+      }
     }
   ]
 }

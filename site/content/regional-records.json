@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "verifiedAt": "2026-10-19",
+  "verifiedAt": "2026-10-22",
   "records": [
     {
       "cosmeticId": "shang-qing-yun",
@@ -2612,21 +2612,22 @@
     {
       "cosmeticId": "chi-long-chengtian",
       "server": "CN",
-      "status": "released",
+      "status": "announced",
       "sourceIds": [
         "cn-328aa2453ae5"
       ],
-      "verifiedAt": "2026-09-13",
+      "verifiedAt": "2026-10-22",
       "releaseDate": "2026-03-13",
       "precision": "day",
       "scope": {
-        "en": "Historical official listing or in-game appearance maintenance notice. This does not establish current availability or an original release date.",
-        "ko": "과거 공식 출시·외관 수정 공지 기록입니다. 현재 판매 여부와 최초 출시일을 뜻하지 않습니다."
+        "en": "Historical pre-release announcement with an explicit planned date, retained for audit. No later launch confirmation is recorded in this archive. Actual CN release remains unverified; this is not a new future schedule.",
+        "ko": "명시된 예정일을 감사용으로 보존한 과거 사전 예고입니다. 도감에 이후 출시 확인 근거가 없어 중국 실제 출시는 미확인 상태이며 새로운 미래 일정이 아닙니다."
       },
       "identityBasis": {
         "en": "The official regional source explicitly names this appearance and category.",
         "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
-      }
+      },
+      "confirmationPending": true
     },
     {
       "cosmeticId": "fang-fei-chun-hua",
@@ -11839,116 +11840,122 @@
     {
       "cosmeticId": "zhui-bu-shang-e",
       "server": "CN",
-      "status": "released",
+      "status": "announced",
       "sourceIds": [
         "cn-628ac0ee4db4"
       ],
-      "verifiedAt": "2026-09-13",
+      "verifiedAt": "2026-10-22",
       "releaseDate": "2025-12-12",
       "precision": "day",
       "scope": {
-        "en": "Historical official release listing. This does not establish current availability; no unstated time zone is assumed.",
-        "ko": "과거 공식 출시 목록입니다. 현재 판매 중이라는 뜻은 아니며 미표기 시간대는 추정하지 않습니다."
+        "en": "Historical pre-release announcement with an explicit planned date, retained for audit. No later launch confirmation is recorded in this archive. Actual CN release remains unverified; this is not a new future schedule.",
+        "ko": "명시된 예정일을 감사용으로 보존한 과거 사전 예고입니다. 도감에 이후 출시 확인 근거가 없어 중국 실제 출시는 미확인 상태이며 새로운 미래 일정이 아닙니다."
       },
       "identityBasis": {
-        "en": "Explicit name and category in the official regional source; other-region identity is unverified.",
-        "ko": "해당 서버 공식 원문의 명칭·분류를 확인했습니다. 타 서버 동일 외관 연결은 미확인입니다."
-      }
+        "en": "The official CN source explicitly names this umbrella. Its Global counterpart was verified by comparing the paired named artwork on October 22, 2026; regional schedules and prices remain separate.",
+        "ko": "중국 공식 원문에 우산 이름이 명시되어 있습니다. 2026년 10월 22일 명칭별 공식 사진 대조로 글로벌 대응을 확인했으며 서버별 일정·가격은 구분합니다."
+      },
+      "confirmationPending": true
     },
     {
       "cosmeticId": "yun-tou-zhuan-miao",
       "server": "CN",
-      "status": "released",
+      "status": "announced",
       "sourceIds": [
         "cn-628ac0ee4db4"
       ],
-      "verifiedAt": "2026-09-13",
+      "verifiedAt": "2026-10-22",
       "releaseDate": "2025-12-12",
       "precision": "day",
       "scope": {
-        "en": "Historical official release listing. This does not establish current availability; no unstated time zone is assumed.",
-        "ko": "과거 공식 출시 목록입니다. 현재 판매 중이라는 뜻은 아니며 미표기 시간대는 추정하지 않습니다."
+        "en": "Historical pre-release announcement with an explicit planned date, retained for audit. No later launch confirmation is recorded in this archive. Actual CN release remains unverified; this is not a new future schedule.",
+        "ko": "명시된 예정일을 감사용으로 보존한 과거 사전 예고입니다. 도감에 이후 출시 확인 근거가 없어 중국 실제 출시는 미확인 상태이며 새로운 미래 일정이 아닙니다."
       },
       "identityBasis": {
-        "en": "Explicit name and category in the official regional source; other-region identity is unverified.",
-        "ko": "해당 서버 공식 원문의 명칭·분류를 확인했습니다. 타 서버 동일 외관 연결은 미확인입니다."
-      }
+        "en": "The official CN source explicitly names this umbrella. Its Global counterpart was verified by comparing the paired named artwork on October 22, 2026; regional schedules and prices remain separate.",
+        "ko": "중국 공식 원문에 우산 이름이 명시되어 있습니다. 2026년 10월 22일 명칭별 공식 사진 대조로 글로벌 대응을 확인했으며 서버별 일정·가격은 구분합니다."
+      },
+      "confirmationPending": true
     },
     {
       "cosmeticId": "xia-zhe-wu-ming",
       "server": "CN",
-      "status": "released",
+      "status": "announced",
       "sourceIds": [
         "cn-628ac0ee4db4"
       ],
-      "verifiedAt": "2026-09-13",
+      "verifiedAt": "2026-10-22",
       "releaseDate": "2025-12-12",
       "precision": "day",
       "scope": {
-        "en": "Historical official release listing. This does not establish current availability; no unstated time zone is assumed.",
-        "ko": "과거 공식 출시 목록입니다. 현재 판매 중이라는 뜻은 아니며 미표기 시간대는 추정하지 않습니다."
+        "en": "Historical pre-release announcement with an explicit planned date, retained for audit. No later launch confirmation is recorded in this archive. Actual CN release remains unverified; this is not a new future schedule.",
+        "ko": "명시된 예정일을 감사용으로 보존한 과거 사전 예고입니다. 도감에 이후 출시 확인 근거가 없어 중국 실제 출시는 미확인 상태이며 새로운 미래 일정이 아닙니다."
       },
       "identityBasis": {
-        "en": "Explicit name and category in the official regional source; other-region identity is unverified.",
-        "ko": "해당 서버 공식 원문의 명칭·분류를 확인했습니다. 타 서버 동일 외관 연결은 미확인입니다."
-      }
+        "en": "The official CN source explicitly names this umbrella. Its Global counterpart was verified by comparing the paired named artwork on October 22, 2026; regional schedules and prices remain separate.",
+        "ko": "중국 공식 원문에 우산 이름이 명시되어 있습니다. 2026년 10월 22일 명칭별 공식 사진 대조로 글로벌 대응을 확인했으며 서버별 일정·가격은 구분합니다."
+      },
+      "confirmationPending": true
     },
     {
       "cosmeticId": "yu-shan-san-e",
       "server": "CN",
-      "status": "released",
+      "status": "announced",
       "sourceIds": [
         "cn-628ac0ee4db4"
       ],
-      "verifiedAt": "2026-09-13",
+      "verifiedAt": "2026-10-22",
       "releaseDate": "2025-12-12",
       "precision": "day",
       "scope": {
-        "en": "Historical official release listing. This does not establish current availability; no unstated time zone is assumed.",
-        "ko": "과거 공식 출시 목록입니다. 현재 판매 중이라는 뜻은 아니며 미표기 시간대는 추정하지 않습니다."
+        "en": "Historical pre-release announcement with an explicit planned date, retained for audit. No later launch confirmation is recorded in this archive. Actual CN release remains unverified; this is not a new future schedule.",
+        "ko": "명시된 예정일을 감사용으로 보존한 과거 사전 예고입니다. 도감에 이후 출시 확인 근거가 없어 중국 실제 출시는 미확인 상태이며 새로운 미래 일정이 아닙니다."
       },
       "identityBasis": {
-        "en": "Explicit name and category in the official regional source; other-region identity is unverified.",
-        "ko": "해당 서버 공식 원문의 명칭·분류를 확인했습니다. 타 서버 동일 외관 연결은 미확인입니다."
-      }
+        "en": "The official CN source explicitly names this umbrella. Its Global counterpart was verified by comparing the paired named artwork on October 22, 2026; regional schedules and prices remain separate.",
+        "ko": "중국 공식 원문에 우산 이름이 명시되어 있습니다. 2026년 10월 22일 명칭별 공식 사진 대조로 글로벌 대응을 확인했으며 서버별 일정·가격은 구분합니다."
+      },
+      "confirmationPending": true
     },
     {
       "cosmeticId": "bu-xian-shen-xian",
       "server": "CN",
-      "status": "released",
+      "status": "announced",
       "sourceIds": [
         "cn-628ac0ee4db4"
       ],
-      "verifiedAt": "2026-09-13",
+      "verifiedAt": "2026-10-22",
       "releaseDate": "2025-12-12",
       "precision": "day",
       "scope": {
-        "en": "Historical official release listing. This does not establish current availability; no unstated time zone is assumed.",
-        "ko": "과거 공식 출시 목록입니다. 현재 판매 중이라는 뜻은 아니며 미표기 시간대는 추정하지 않습니다."
+        "en": "Historical pre-release announcement with an explicit planned date, retained for audit. No later launch confirmation is recorded in this archive. Actual CN release remains unverified; this is not a new future schedule.",
+        "ko": "명시된 예정일을 감사용으로 보존한 과거 사전 예고입니다. 도감에 이후 출시 확인 근거가 없어 중국 실제 출시는 미확인 상태이며 새로운 미래 일정이 아닙니다."
       },
       "identityBasis": {
-        "en": "Explicit name and category in the official regional source; other-region identity is unverified.",
-        "ko": "해당 서버 공식 원문의 명칭·분류를 확인했습니다. 타 서버 동일 외관 연결은 미확인입니다."
-      }
+        "en": "The official CN source explicitly names this umbrella. Its Global counterpart was verified by comparing the paired named artwork on October 22, 2026; regional schedules and prices remain separate.",
+        "ko": "중국 공식 원문에 우산 이름이 명시되어 있습니다. 2026년 10월 22일 명칭별 공식 사진 대조로 글로벌 대응을 확인했으며 서버별 일정·가격은 구분합니다."
+      },
+      "confirmationPending": true
     },
     {
       "cosmeticId": "e-de-jiang-hu",
       "server": "CN",
-      "status": "released",
+      "status": "announced",
       "sourceIds": [
         "cn-628ac0ee4db4"
       ],
-      "verifiedAt": "2026-09-13",
+      "verifiedAt": "2026-10-22",
       "releaseDate": "2025-12-12",
       "precision": "day",
       "scope": {
-        "en": "Historical official release listing. This does not establish current availability; no unstated time zone is assumed.",
-        "ko": "과거 공식 출시 목록입니다. 현재 판매 중이라는 뜻은 아니며 미표기 시간대는 추정하지 않습니다."
+        "en": "Historical pre-release announcement with an explicit planned date, retained for audit. No later launch confirmation is recorded in this archive. Actual CN release remains unverified; this is not a new future schedule. For the sixth umbrella, the date opens the collection route and does not guarantee an individual payout day.",
+        "ko": "명시된 예정일을 감사용으로 보존한 과거 사전 예고입니다. 도감에 이후 출시 확인 근거가 없어 중국 실제 출시는 미확인 상태이며 새로운 미래 일정이 아닙니다. 여섯 번째 우산의 날짜는 수집 경로 시작이며 개별 확정 지급일이 아닙니다."
       },
       "identityBasis": {
-        "en": "Explicit name and category in the official regional source; other-region identity is unverified.",
-        "ko": "해당 서버 공식 원문의 명칭·분류를 확인했습니다. 타 서버 동일 외관 연결은 미확인입니다."
-      }
+        "en": "The official CN source explicitly names this umbrella. Its Global counterpart was verified by comparing the paired named artwork on October 22, 2026; regional schedules and prices remain separate.",
+        "ko": "중국 공식 원문에 우산 이름이 명시되어 있습니다. 2026년 10월 22일 명칭별 공식 사진 대조로 글로벌 대응을 확인했으며 서버별 일정·가격은 구분합니다."
+      },
+      "confirmationPending": true
     },
     {
       "cosmeticId": "banlong-shen",
@@ -16003,6 +16010,406 @@
         },
         "en": "Official Global announcement; exact acquisition quantity unstated.",
         "ko": "글로벌 공식 예고이며 정확한 획득 수량은 미표기입니다."
+      }
+    },
+    {
+      "cosmeticId": "global-deer-parture",
+      "server": "Global",
+      "status": "announced",
+      "releaseDate": "2026-10-25",
+      "precision": "day",
+      "verifiedAt": "2026-10-22",
+      "sourceIds": [
+        "global-20261021-october25-en",
+        "global-20261021-october25-ko",
+        "global-20261021-october25-appearance-en",
+        "global-20261021-october25-appearance-ko"
+      ],
+      "scope": {
+        "en": "Announced for October 25, 2026 at 00:00 (UTC+8) in the EN named notice; the EN poster prints 00:00:00. KO prints 01:00:00 without an explicit timezone. Calendar retains day precision. No current in-game verification.",
+        "ko": "영문 개별 공지는 2026년 10월 25일 00:00(UTC+8) 출시를 예고하며 영문 이미지는 00:00:00입니다. 한국어는 01:00:00이며 시간대를 명시하지 않았습니다. 캘린더는 날짜 정밀도를 유지합니다. 현재 게임 내 확인은 하지 않았습니다."
+      },
+      "identityBasis": {
+        "en": "Paired official EN/KO named notices identify the same icy white two-rider deer, luminous branching antlers and frozen-water traversal. A named CN counterpart image was not established.",
+        "ko": "영문·한국어 공식 명칭별 공지의 얼음빛 흰 사슴, 빛나는 가지 모양 뿔·2인 동승·얼음 위 이동이 일치합니다. 중국 대응의 명칭별 사진은 확인하지 못했습니다."
+      },
+      "acquisition": {
+        "kind": "exchange_shop",
+        "pricing": "fixed",
+        "amount": 2,
+        "regularAmount": null,
+        "currencyOriginal": "Harmonic Core",
+        "location": {
+          "en": "Draw Shop",
+          "ko": "공명 상점",
+          "original": "Draw Shop"
+        },
+        "conditions": {
+          "en": "Redeem the two-rider mount for 2 Harmonic Cores. Frozen Path creates an ice bridge, Frosty Step permits a mounted double jump, and Ice Frolicking freezes nearby ground for shared play. The announced exchange runs October 25, 2026 00:00 to April 23, 2027 04:59:59 (UTC+8); Korean clocks are 01:00:00 and 05:59:59 without a printed timezone.",
+          "ko": "공명 구슬 2개로 2인 동승 탈것을 교환합니다. 얼어붙은 길은 얼음 다리를 만들고, 서리걸음은 탑승 중 2단 도약을 지원하며, 얼음놀이는 주변 지면을 얼려 함께 놀 수 있습니다. 영문 예고 교환 기간은 2026년 10월 25일 00:00~2027년 4월 23일 04:59:59(UTC+8)입니다. 한국어는 01:00:00·05:59:59이며 시간대가 명시되지 않았습니다."
+        },
+        "en": "Official Global announcement terms.",
+        "ko": "글로벌 공식 예고의 획득 조건입니다."
+      }
+    },
+    {
+      "cosmeticId": "global-transcendence-gate",
+      "server": "Global",
+      "status": "announced",
+      "releaseDate": "2026-10-25",
+      "precision": "day",
+      "verifiedAt": "2026-10-22",
+      "sourceIds": [
+        "global-20261021-october25-en",
+        "global-20261021-october25-ko",
+        "global-20261021-october25-appearance-en",
+        "global-20261021-october25-appearance-ko"
+      ],
+      "scope": {
+        "en": "Announced for October 25, 2026; EN poster opening is 00:00:00 and KO is 01:00:00, with no explicit opening timezone. The EN named article labels the discount end UTC+8. No current in-game verification.",
+        "ko": "2026년 10월 25일 출시 예고이며 영문 이미지 시작은 00:00:00·한국어는 01:00:00로 시작 시간대는 명시되지 않았습니다. 영문 개별 공지는 할인 종료에 UTC+8을 명시합니다. 현재 게임 내 확인은 하지 않았습니다."
+      },
+      "identityBasis": {
+        "en": "Paired official EN/KO notices identify the Cloud Steps VFX with golden dragon gates and rising dragon/koi imagery. A named CN comparison image was not established.",
+        "ko": "영문·한국어 공식 공지에서 금빛 용문과 솟구치는 용·잉어의 구름 위 질주 이펙트 명칭을 확인했습니다. 중국 대응의 명칭별 비교 사진은 확인하지 못했습니다."
+      },
+      "acquisition": {
+        "kind": "exchange_shop",
+        "pricing": "fixed",
+        "amount": 2,
+        "regularAmount": 3,
+        "currencyOriginal": "Sound Jade",
+        "location": {
+          "en": "Draw – Harmonic Shop",
+          "ko": "공명–화음 상점",
+          "original": "Draw – Harmonic Shop"
+        },
+        "conditions": {
+          "en": "Exchange the Cloud Steps Mystic Skill VFX for 2 Sound Jade during the discount, then 3. Listing is announced for October 25, 2026 (EN 00:00:00; KO 01:00:00); the opening timezone is unstated. The English named notice explicitly labels the November 25 04:59:59 discount end UTC+8; Korean says 05:59:59 with no timezone. This ends the discount, not the exchange.",
+          "ko": "구름 위 질주 비결 이펙트를 할인가 음옥 2개로 교환하며 이후 정가는 3개입니다. 출시 예고는 2026년 10월 25일 영문 00:00:00·한국어 01:00:00이며 시작 시간대는 미표기입니다. 영문 개별 공지는 11월 25일 04:59:59 할인 종료에 UTC+8을 명시하며 한국어는 05:59:59로 시간대 미표기입니다. 교환 종료가 아닌 할인 종료입니다."
+        },
+        "en": "Official Global announcement terms.",
+        "ko": "글로벌 공식 예고의 획득 조건입니다."
+      }
+    },
+    {
+      "cosmeticId": "qing-xiao-lue-ying",
+      "server": "Global",
+      "status": "announced",
+      "releaseDate": "2026-10-25",
+      "precision": "day",
+      "verifiedAt": "2026-10-22",
+      "sourceIds": [
+        "global-20261021-october25-en",
+        "global-20261021-october25-ko",
+        "global-20261021-october25-appearance-en",
+        "global-20261021-october25-appearance-ko"
+      ],
+      "scope": {
+        "en": "Announced for October 25, 2026 at 00:00 (UTC+8) in the EN named notice; the EN poster prints 00:00:00. KO prints 01:00:00 without an explicit timezone. Calendar retains day precision. No current in-game verification.",
+        "ko": "영문 개별 공지는 2026년 10월 25일 00:00(UTC+8) 출시를 예고하며 영문 이미지는 00:00:00입니다. 한국어는 01:00:00이며 시간대를 명시하지 않았습니다. 캘린더는 날짜 정밀도를 유지합니다. 현재 게임 내 확인은 하지 않았습니다."
+      },
+      "identityBasis": {
+        "en": "Named Global artwork matches the retained CN 青霄掠影 references: high dark cowl, cropped sleeveless female top, gold floral embroidery, round belt ornaments and the white feather ornament on the cape back.",
+        "ko": "명칭이 있는 글로벌 사진과 중국 青霄掠影 사진의 어두운 높은 목덮개, 여성 민소매 짧은 상의, 금빛 꽃 자수·둥근 허리 장식·망토 뒤 흰 깃 장식이 일치합니다."
+      },
+      "acquisition": {
+        "kind": "shop",
+        "pricing": "fixed",
+        "amount": 1280,
+        "regularAmount": null,
+        "currencyOriginal": "Echo Beads",
+        "location": {
+          "en": "Shop",
+          "ko": "상점",
+          "original": "Shop"
+        },
+        "conditions": {
+          "en": "Purchase the outfit for 1,280 Echo Beads, including the matching player Avatar. Top and bottom can be equipped separately and dyed. Opening is October 25, 2026 at 00:00 (UTC+8); the poster prints seconds as 00:00:00. Korean says 01:00:00 without a timezone. No sale end is stated.",
+          "ko": "장명주 1,280개로 의상을 구매하며 같은 이름의 캐릭터 프로필이 함께 제공됩니다. 상하의 분리·염색을 지원합니다. 출시는 2026년 10월 25일 00:00(UTC+8)이며 이미지 공지는 초 단위로 00:00:00을 표기합니다. 한국어는 01:00:00로 시간대 미표기입니다. 판매 종료는 미표기입니다."
+        },
+        "en": "Official Global announcement terms.",
+        "ko": "글로벌 공식 예고의 획득 조건입니다."
+      }
+    },
+    {
+      "cosmeticId": "chi-long-chengtian",
+      "server": "Global",
+      "status": "announced",
+      "releaseDate": "2026-10-25",
+      "precision": "day",
+      "verifiedAt": "2026-10-22",
+      "sourceIds": [
+        "global-20261021-october25-en",
+        "global-20261021-october25-ko",
+        "global-20261021-october25-appearance-en",
+        "global-20261021-october25-appearance-ko"
+      ],
+      "scope": {
+        "en": "Announced for October 25, 2026 at 00:00 (UTC+8) in the EN named notice; the EN poster prints 00:00:00. KO prints 01:00:00 without an explicit timezone. Calendar retains day precision. No current in-game verification.",
+        "ko": "영문 개별 공지는 2026년 10월 25일 00:00(UTC+8) 출시를 예고하며 영문 이미지는 00:00:00입니다. 한국어는 01:00:00이며 시간대를 명시하지 않았습니다. 캘린더는 날짜 정밀도를 유지합니다. 현재 게임 내 확인은 하지 않았습니다."
+      },
+      "identityBasis": {
+        "en": "Named Global and CN 赤龙承天 artwork show the same sculpted gold dragon gauntlet, snarling dragon-face and horned-profile detail insets, and falcon motif.",
+        "ko": "명칭이 있는 글로벌·중국 赤龙承天 사진의 조각된 금빛 용 권갑, 용 얼굴·뿔 달린 옆모습 세부 사진과 매 모티프가 일치합니다."
+      },
+      "acquisition": {
+        "kind": "shop",
+        "pricing": "fixed",
+        "amount": 680,
+        "regularAmount": null,
+        "currencyOriginal": "Echo Beads",
+        "location": {
+          "en": "Shop",
+          "ko": "상점",
+          "original": "Shop"
+        },
+        "conditions": {
+          "en": "Purchase the gauntlets appearance for 680 Echo Beads. Opening is October 25, 2026 at 00:00 (UTC+8); the poster prints seconds as 00:00:00. Korean says 01:00:00 without a timezone. No sale end is stated.",
+          "ko": "장명주 680개로 권갑 외관을 구매합니다. 출시는 2026년 10월 25일 00:00(UTC+8)이며 이미지 공지는 초 단위로 00:00:00을 표기합니다. 한국어는 01:00:00로 시간대 미표기입니다. 판매 종료는 미표기입니다."
+        },
+        "en": "Official Global announcement terms.",
+        "ko": "글로벌 공식 예고의 획득 조건입니다."
+      }
+    },
+    {
+      "cosmeticId": "zhui-bu-shang-e",
+      "server": "Global",
+      "status": "announced",
+      "releaseDate": "2026-10-25",
+      "precision": "day",
+      "verifiedAt": "2026-10-22",
+      "sourceIds": [
+        "global-20261021-october25-en",
+        "global-20261021-october25-ko",
+        "global-20261021-october25-appearance-en",
+        "global-20261021-october25-appearance-ko"
+      ],
+      "scope": {
+        "en": "Announced for October 25, 2026 at 00:00 (UTC+8) in the EN named notice; the EN poster prints 00:00:00. KO prints 01:00:00 without an explicit timezone. Calendar retains day precision. No current in-game verification.",
+        "ko": "영문 개별 공지는 2026년 10월 25일 00:00(UTC+8) 출시를 예고하며 영문 이미지는 00:00:00입니다. 한국어는 01:00:00이며 시간대를 명시하지 않았습니다. 캘린더는 날짜 정밀도를 유지합니다. 현재 게임 내 확인은 하지 않았습니다."
+      },
+      "identityBasis": {
+        "en": "The named Global and CN 追不上鹅 posters reuse the same beige umbrella, running white goose and child being chased on a bridge.",
+        "ko": "명칭이 있는 글로벌·중국 追不上鹅 포스터의 베이지 우산, 달리는 흰 거위와 다리 위에서 쫓기는 아이의 사진이 같습니다."
+      },
+      "acquisition": {
+        "kind": "shop",
+        "pricing": "unknown",
+        "amount": null,
+        "regularAmount": null,
+        "currencyOriginal": "Echo Beads",
+        "location": {
+          "en": "Shop · Lucky Lantern random chest",
+          "ko": "상점 · 점등 대길 랜덤 선물상자",
+          "original": "Shop · Lucky Lantern random chest"
+        },
+        "conditions": {
+          "en": "One of five styles in the Lucky Lantern umbrella random chest sold in the Shop for 60 Echo Beads per chest. Each opening grants a different style; 60 is not a fixed price for a chosen style. Collect all five for The Waddling Way. Chests can be gifted; each character may receive up to five. Chest sale runs October 25, 2026 00:00 to November 9 04:59:59 (UTC+8). Korean clocks are 01:00:00 and 05:59:59, with no printed timezone.",
+          "ko": "상점의 점등 대길 우산 랜덤 선물상자에 포함된 5종 중 하나이며 상자 1개는 장명주 60개입니다. 개봉 시 외관이 중복되지 않으며 특정 스타일을 지정 구매하는 고정 가격은 아닙니다. 5종을 모두 모으면 거위의 강호를 받습니다. 상자는 선물할 수 있고 캐릭터마다 최대 5개를 선물받습니다. 영문 상자 판매 기간은 2026년 10월 25일 00:00~11월 9일 04:59:59(UTC+8)입니다. 한국어는 01:00:00·05:59:59이며 시간대 미표기입니다."
+        },
+        "en": "Official Global announcement terms.",
+        "ko": "글로벌 공식 예고의 획득 조건입니다."
+      }
+    },
+    {
+      "cosmeticId": "yun-tou-zhuan-miao",
+      "server": "Global",
+      "status": "announced",
+      "releaseDate": "2026-10-25",
+      "precision": "day",
+      "verifiedAt": "2026-10-22",
+      "sourceIds": [
+        "global-20261021-october25-en",
+        "global-20261021-october25-ko",
+        "global-20261021-october25-appearance-en",
+        "global-20261021-october25-appearance-ko"
+      ],
+      "scope": {
+        "en": "Announced for October 25, 2026 at 00:00 (UTC+8) in the EN named notice; the EN poster prints 00:00:00. KO prints 01:00:00 without an explicit timezone. Calendar retains day precision. No current in-game verification.",
+        "ko": "영문 개별 공지는 2026년 10월 25일 00:00(UTC+8) 출시를 예고하며 영문 이미지는 00:00:00입니다. 한국어는 01:00:00이며 시간대를 명시하지 않았습니다. 캘린더는 날짜 정밀도를 유지합니다. 현재 게임 내 확인은 하지 않았습니다."
+      },
+      "identityBasis": {
+        "en": "The named Global and CN 晕头转喵 posters reuse the yellow umbrella, circular curled-cat/goose pattern and pier scene with cats.",
+        "ko": "명칭이 있는 글로벌·중국 晕头转喵 포스터의 노란 우산, 둥글게 배치한 고양이·거위 무늬와 고양이가 있는 부두 사진이 같습니다."
+      },
+      "acquisition": {
+        "kind": "shop",
+        "pricing": "unknown",
+        "amount": null,
+        "regularAmount": null,
+        "currencyOriginal": "Echo Beads",
+        "location": {
+          "en": "Shop · Lucky Lantern random chest",
+          "ko": "상점 · 점등 대길 랜덤 선물상자",
+          "original": "Shop · Lucky Lantern random chest"
+        },
+        "conditions": {
+          "en": "One of five styles in the Lucky Lantern umbrella random chest sold in the Shop for 60 Echo Beads per chest. Each opening grants a different style; 60 is not a fixed price for a chosen style. Collect all five for The Waddling Way. Chests can be gifted; each character may receive up to five. Chest sale runs October 25, 2026 00:00 to November 9 04:59:59 (UTC+8). Korean clocks are 01:00:00 and 05:59:59, with no printed timezone.",
+          "ko": "상점의 점등 대길 우산 랜덤 선물상자에 포함된 5종 중 하나이며 상자 1개는 장명주 60개입니다. 개봉 시 외관이 중복되지 않으며 특정 스타일을 지정 구매하는 고정 가격은 아닙니다. 5종을 모두 모으면 거위의 강호를 받습니다. 상자는 선물할 수 있고 캐릭터마다 최대 5개를 선물받습니다. 영문 상자 판매 기간은 2026년 10월 25일 00:00~11월 9일 04:59:59(UTC+8)입니다. 한국어는 01:00:00·05:59:59이며 시간대 미표기입니다."
+        },
+        "en": "Official Global announcement terms.",
+        "ko": "글로벌 공식 예고의 획득 조건입니다."
+      }
+    },
+    {
+      "cosmeticId": "xia-zhe-wu-ming",
+      "server": "Global",
+      "status": "announced",
+      "releaseDate": "2026-10-25",
+      "precision": "day",
+      "verifiedAt": "2026-10-22",
+      "sourceIds": [
+        "global-20261021-october25-en",
+        "global-20261021-october25-ko",
+        "global-20261021-october25-appearance-en",
+        "global-20261021-october25-appearance-ko"
+      ],
+      "scope": {
+        "en": "Announced for October 25, 2026 at 00:00 (UTC+8) in the EN named notice; the EN poster prints 00:00:00. KO prints 01:00:00 without an explicit timezone. Calendar retains day precision. No current in-game verification.",
+        "ko": "영문 개별 공지는 2026년 10월 25일 00:00(UTC+8) 출시를 예고하며 영문 이미지는 00:00:00입니다. 한국어는 01:00:00이며 시간대를 명시하지 않았습니다. 캘린더는 날짜 정밀도를 유지합니다. 현재 게임 내 확인은 하지 않았습니다."
+      },
+      "identityBasis": {
+        "en": "The named Global and CN 侠者无名 posters reuse the dark teal umbrella, segmented orange/black rim, goose figures and bamboo courtyard.",
+        "ko": "명칭이 있는 글로벌·중국 侠者无名 포스터의 진한 청록 우산, 주황·검정 테두리, 거위 그림과 대나무 뜰 사진이 같습니다."
+      },
+      "acquisition": {
+        "kind": "shop",
+        "pricing": "unknown",
+        "amount": null,
+        "regularAmount": null,
+        "currencyOriginal": "Echo Beads",
+        "location": {
+          "en": "Shop · Lucky Lantern random chest",
+          "ko": "상점 · 점등 대길 랜덤 선물상자",
+          "original": "Shop · Lucky Lantern random chest"
+        },
+        "conditions": {
+          "en": "One of five styles in the Lucky Lantern umbrella random chest sold in the Shop for 60 Echo Beads per chest. Each opening grants a different style; 60 is not a fixed price for a chosen style. Collect all five for The Waddling Way. Chests can be gifted; each character may receive up to five. Chest sale runs October 25, 2026 00:00 to November 9 04:59:59 (UTC+8). Korean clocks are 01:00:00 and 05:59:59, with no printed timezone.",
+          "ko": "상점의 점등 대길 우산 랜덤 선물상자에 포함된 5종 중 하나이며 상자 1개는 장명주 60개입니다. 개봉 시 외관이 중복되지 않으며 특정 스타일을 지정 구매하는 고정 가격은 아닙니다. 5종을 모두 모으면 거위의 강호를 받습니다. 상자는 선물할 수 있고 캐릭터마다 최대 5개를 선물받습니다. 영문 상자 판매 기간은 2026년 10월 25일 00:00~11월 9일 04:59:59(UTC+8)입니다. 한국어는 01:00:00·05:59:59이며 시간대 미표기입니다."
+        },
+        "en": "Official Global announcement terms.",
+        "ko": "글로벌 공식 예고의 획득 조건입니다."
+      }
+    },
+    {
+      "cosmeticId": "bu-xian-shen-xian",
+      "server": "Global",
+      "status": "announced",
+      "releaseDate": "2026-10-25",
+      "precision": "day",
+      "verifiedAt": "2026-10-22",
+      "sourceIds": [
+        "global-20261021-october25-en",
+        "global-20261021-october25-ko",
+        "global-20261021-october25-appearance-en",
+        "global-20261021-october25-appearance-ko"
+      ],
+      "scope": {
+        "en": "Announced for October 25, 2026 at 00:00 (UTC+8) in the EN named notice; the EN poster prints 00:00:00. KO prints 01:00:00 without an explicit timezone. Calendar retains day precision. No current in-game verification.",
+        "ko": "영문 개별 공지는 2026년 10월 25일 00:00(UTC+8) 출시를 예고하며 영문 이미지는 00:00:00입니다. 한국어는 01:00:00이며 시간대를 명시하지 않았습니다. 캘린더는 날짜 정밀도를 유지합니다. 현재 게임 내 확인은 하지 않았습니다."
+      },
+      "identityBasis": {
+        "en": "The named Global and CN 不羡神仙 posters reuse the orange umbrella with three geese, the red-robed central goose and lake railing scene.",
+        "ko": "명칭이 있는 글로벌·중국 不羡神仙 포스터의 거위 3마리가 그려진 주황 우산, 가운데 붉은 옷 거위와 호수 난간 사진이 같습니다."
+      },
+      "acquisition": {
+        "kind": "shop",
+        "pricing": "unknown",
+        "amount": null,
+        "regularAmount": null,
+        "currencyOriginal": "Echo Beads",
+        "location": {
+          "en": "Shop · Lucky Lantern random chest",
+          "ko": "상점 · 점등 대길 랜덤 선물상자",
+          "original": "Shop · Lucky Lantern random chest"
+        },
+        "conditions": {
+          "en": "One of five styles in the Lucky Lantern umbrella random chest sold in the Shop for 60 Echo Beads per chest. Each opening grants a different style; 60 is not a fixed price for a chosen style. Collect all five for The Waddling Way. Chests can be gifted; each character may receive up to five. Chest sale runs October 25, 2026 00:00 to November 9 04:59:59 (UTC+8). Korean clocks are 01:00:00 and 05:59:59, with no printed timezone.",
+          "ko": "상점의 점등 대길 우산 랜덤 선물상자에 포함된 5종 중 하나이며 상자 1개는 장명주 60개입니다. 개봉 시 외관이 중복되지 않으며 특정 스타일을 지정 구매하는 고정 가격은 아닙니다. 5종을 모두 모으면 거위의 강호를 받습니다. 상자는 선물할 수 있고 캐릭터마다 최대 5개를 선물받습니다. 영문 상자 판매 기간은 2026년 10월 25일 00:00~11월 9일 04:59:59(UTC+8)입니다. 한국어는 01:00:00·05:59:59이며 시간대 미표기입니다."
+        },
+        "en": "Official Global announcement terms.",
+        "ko": "글로벌 공식 예고의 획득 조건입니다."
+      }
+    },
+    {
+      "cosmeticId": "yu-shan-san-e",
+      "server": "Global",
+      "status": "announced",
+      "releaseDate": "2026-10-25",
+      "precision": "day",
+      "verifiedAt": "2026-10-22",
+      "sourceIds": [
+        "global-20261021-october25-en",
+        "global-20261021-october25-ko",
+        "global-20261021-october25-appearance-en",
+        "global-20261021-october25-appearance-ko"
+      ],
+      "scope": {
+        "en": "Announced for October 25, 2026 at 00:00 (UTC+8) in the EN named notice; the EN poster prints 00:00:00. KO prints 01:00:00 without an explicit timezone. Calendar retains day precision. No current in-game verification.",
+        "ko": "영문 개별 공지는 2026년 10월 25일 00:00(UTC+8) 출시를 예고하며 영문 이미지는 00:00:00입니다. 한국어는 01:00:00이며 시간대를 명시하지 않았습니다. 캘린더는 날짜 정밀도를 유지합니다. 현재 게임 내 확인은 하지 않았습니다."
+      },
+      "identityBasis": {
+        "en": "The named Global and CN 玉山三鹅 posters reuse the leaf-green rim, blue umbrella center and long-necked white geese.",
+        "ko": "명칭이 있는 글로벌·중국 玉山三鹅 포스터의 잎 모양 초록 테두리, 푸른 우산 중앙과 목이 긴 흰 거위가 같습니다."
+      },
+      "acquisition": {
+        "kind": "shop",
+        "pricing": "unknown",
+        "amount": null,
+        "regularAmount": null,
+        "currencyOriginal": "Echo Beads",
+        "location": {
+          "en": "Shop · Lucky Lantern random chest",
+          "ko": "상점 · 점등 대길 랜덤 선물상자",
+          "original": "Shop · Lucky Lantern random chest"
+        },
+        "conditions": {
+          "en": "One of five styles in the Lucky Lantern umbrella random chest sold in the Shop for 60 Echo Beads per chest. Each opening grants a different style; 60 is not a fixed price for a chosen style. Collect all five for The Waddling Way. Chests can be gifted; each character may receive up to five. Chest sale runs October 25, 2026 00:00 to November 9 04:59:59 (UTC+8). Korean clocks are 01:00:00 and 05:59:59, with no printed timezone.",
+          "ko": "상점의 점등 대길 우산 랜덤 선물상자에 포함된 5종 중 하나이며 상자 1개는 장명주 60개입니다. 개봉 시 외관이 중복되지 않으며 특정 스타일을 지정 구매하는 고정 가격은 아닙니다. 5종을 모두 모으면 거위의 강호를 받습니다. 상자는 선물할 수 있고 캐릭터마다 최대 5개를 선물받습니다. 영문 상자 판매 기간은 2026년 10월 25일 00:00~11월 9일 04:59:59(UTC+8)입니다. 한국어는 01:00:00·05:59:59이며 시간대 미표기입니다."
+        },
+        "en": "Official Global announcement terms.",
+        "ko": "글로벌 공식 예고의 획득 조건입니다."
+      }
+    },
+    {
+      "cosmeticId": "e-de-jiang-hu",
+      "server": "Global",
+      "status": "announced",
+      "releaseDate": "2026-10-25",
+      "precision": "day",
+      "verifiedAt": "2026-10-22",
+      "sourceIds": [
+        "global-20261021-october25-en",
+        "global-20261021-october25-ko",
+        "global-20261021-october25-appearance-en",
+        "global-20261021-october25-appearance-ko"
+      ],
+      "scope": {
+        "en": "The Lucky Lantern collection route opens October 25, 2026 at 00:00 (UTC+8); the EN/KO posters print 00:00:00 / 01:00:00, and KO has no timezone label. Payout requires collecting all five styles; this calendar date is the route opening, not a guaranteed individual payout day. No in-game verification.",
+        "ko": "점등 대길 수집 경로는 2026년 10월 25일 00:00(UTC+8)에 시작하며 영문·한국어 이미지는 00:00:00·01:00:00이고 한국어 시간대는 미표기입니다. 5종 수집 후 지급되며 캘린더 날짜는 경로 시작이지 개별 확정 지급일이 아닙니다. 게임 내 확인은 하지 않았습니다."
+      },
+      "identityBasis": {
+        "en": "The named Global and CN 鹅的江湖 posters reuse the radial multicolored goose faces on a pale-green umbrella above misty mountains.",
+        "ko": "명칭이 있는 글로벌·중국 鹅的江湖 포스터의 연두 우산에 방사형으로 배치된 여러 빛깔 거위 얼굴과 안개 낀 산 사진이 같습니다."
+      },
+      "acquisition": {
+        "kind": "milestone",
+        "pricing": "unknown",
+        "amount": null,
+        "regularAmount": null,
+        "currencyOriginal": null,
+        "location": {
+          "en": "Lucky Lantern collection reward",
+          "ko": "점등 대길 수집 보상",
+          "original": "Lucky Lantern collection reward"
+        },
+        "conditions": {
+          "en": "Collect all five nonduplicate styles from Lucky Lantern chests to unlock this sixth umbrella. Each chest costs 60 Echo Beads in the Shop; the completion reward has no separate listed price. Chests can be gifted, up to five received per character. The chest sale runs October 25, 2026 00:00 to November 9 04:59:59 (UTC+8), but no separate completion-payout deadline is stated. Korean sale clocks are 01:00:00 and 05:59:59 without a timezone.",
+          "ko": "점등 대길 상자의 중복 없는 외관 5종을 모두 모으면 여섯 번째 우산을 받습니다. 상점의 상자 1개는 장명주 60개이며 수집 보상 자체의 별도 가격은 미표기입니다. 상자는 선물할 수 있고 캐릭터마다 최대 5개를 선물받습니다. 영문 상자 판매 기간은 2026년 10월 25일 00:00~11월 9일 04:59:59(UTC+8)이며 수집 보상 지급의 별도 종료는 미표기입니다. 한국어 판매 시각은 01:00:00·05:59:59로 시간대 미표기입니다."
+        },
+        "en": "Official Global announcement terms.",
+        "ko": "글로벌 공식 예고의 획득 조건입니다."
       }
     }
   ]

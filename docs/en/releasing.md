@@ -30,6 +30,8 @@ This is part of completing each update, including updates from the existing cale
 
 ## Release notes
 
+- [0.3.14 — October 25 Global appearances and official names](releases/0.3.14.md)
+
 - [0.3.13 — CN acquisition and quest-reference completion](releases/0.3.13.md)
 
 - [0.3.12 — Official reward and reference completion](releases/0.3.12.md)

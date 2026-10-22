@@ -224,10 +224,10 @@
     }
   },
   "qing-xiao-lue-ying": {
-    "koName": "청소략영",
+    "koName": "창공의 그림자",
     "description": {
-      "en": "Dark falcon-inspired layers and gold embroidery.",
-      "ko": "매의 형상을 담은 어두운 겹옷과 금빛 자수."
+      "en": "An outfit with separate top/bottom pieces and dyeing. The Global shop announcement lists 1,280 Echo Beads and a matching Avatar.",
+      "ko": "상하의 분리·염색을 지원하는 의상입니다. 글로벌 상점 예고는 장명주 1,280개이며 같은 이름의 캐릭터 프로필을 포함합니다."
     }
   },
   "xuan-gu-zai-yuan": {
@@ -1232,10 +1232,10 @@
     }
   },
   "chi-long-chengtian": {
-    "koName": "赤龙承天",
+    "koName": "불꽃 날개의 비상",
     "description": {
-      "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
-      "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+      "en": "Gold dragon gauntlets with a falcon motif. The Global shop announcement lists 680 Echo Beads.",
+      "ko": "매 모티프를 더한 금빛 용 권갑입니다. 글로벌 상점 예고 가격은 장명주 680개입니다."
     }
   },
   "fang-fei-chun-hua": {
@@ -3521,45 +3521,45 @@
     }
   },
   "zhui-bu-shang-e": {
-    "koName": "追不上鹅",
+    "koName": "쫓을 수 없는 거위",
     "description": {
-      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
-      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+      "en": "An umbrella style from the Global Lucky Lantern random chest. Each chest costs 60 Echo Beads; the individual style cost varies.",
+      "ko": "글로벌 점등 대길 랜덤 선물상자의 우산 외관입니다. 상자 1개는 장명주 60개이며 특정 스타일의 획득 비용은 달라집니다."
     }
   },
   "yun-tou-zhuan-miao": {
-    "koName": "晕头转喵",
+    "koName": "어지러운 냥이",
     "description": {
-      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
-      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+      "en": "An umbrella style from the Global Lucky Lantern random chest. Each chest costs 60 Echo Beads; the individual style cost varies.",
+      "ko": "글로벌 점등 대길 랜덤 선물상자의 우산 외관입니다. 상자 1개는 장명주 60개이며 특정 스타일의 획득 비용은 달라집니다."
     }
   },
   "xia-zhe-wu-ming": {
-    "koName": "侠者无名",
+    "koName": "무명의 협객",
     "description": {
-      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
-      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+      "en": "An umbrella style from the Global Lucky Lantern random chest. Each chest costs 60 Echo Beads; the individual style cost varies.",
+      "ko": "글로벌 점등 대길 랜덤 선물상자의 우산 외관입니다. 상자 1개는 장명주 60개이며 특정 스타일의 획득 비용은 달라집니다."
     }
   },
   "yu-shan-san-e": {
-    "koName": "玉山三鹅",
+    "koName": "옥산의 세 거위",
     "description": {
-      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
-      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+      "en": "An umbrella style from the Global Lucky Lantern random chest. Each chest costs 60 Echo Beads; the individual style cost varies.",
+      "ko": "글로벌 점등 대길 랜덤 선물상자의 우산 외관입니다. 상자 1개는 장명주 60개이며 특정 스타일의 획득 비용은 달라집니다."
     }
   },
   "bu-xian-shen-xian": {
-    "koName": "不羡神仙",
+    "koName": "신선놀음",
     "description": {
-      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
-      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+      "en": "An umbrella style from the Global Lucky Lantern random chest. Each chest costs 60 Echo Beads; the individual style cost varies.",
+      "ko": "글로벌 점등 대길 랜덤 선물상자의 우산 외관입니다. 상자 1개는 장명주 60개이며 특정 스타일의 획득 비용은 달라집니다."
     }
   },
   "e-de-jiang-hu": {
-    "koName": "鹅的江湖",
+    "koName": "거위의 강호",
     "description": {
-      "en": "An appearance named in the official regional archive. Source dates, acquisition and individual image verification are recorded separately.",
-      "ko": "해당 서버의 공식 원문에 기록된 외관입니다. 출시일·획득 조건·개별 이미지 확인을 구분해 기록했습니다."
+      "en": "Umbrella collection reward for obtaining all five Lucky Lantern styles. No separate reward price or payout deadline is stated.",
+      "ko": "점등 대길 외관 5종을 모두 모으면 받는 우산 수집 보상입니다. 보상 자체의 별도 가격·지급 종료는 미표기입니다."
     }
   },
   "banlong-shen": {
@@ -5170,6 +5170,20 @@
     "description": {
       "en": "Face accessory in the Global Guild Reputation Shop. Reputation quantity and exchange end are unstated.",
       "ko": "글로벌 동맹 명성 상점의 얼굴 장식이며 필요 명성 수량·교환 종료일은 미표기입니다."
+    }
+  },
+  "global-deer-parture": {
+    "koName": "순풍백록",
+    "description": {
+      "en": "A two-rider icy deer mount, announced in the Global Draw Shop for 2 Harmonic Cores. CN identity is unverified.",
+      "ko": "글로벌 공명 상점에서 공명 구슬 2개로 교환하는 2인 동승 얼음 사슴 탈것 예고입니다. 중국 대응은 미확인입니다."
+    }
+  },
+  "global-transcendence-gate": {
+    "koName": "황금빛 도약",
+    "description": {
+      "en": "Cloud Steps Mystic Skill VFX. Global exchange is 2 Sound Jade during the discount, then 3; CN identity is unverified.",
+      "ko": "구름 위 질주 비결 이펙트입니다. 글로벌 교환은 할인가 음옥 2개·이후 정가 3개이며 중국 대응은 미확인입니다."
     }
   }
 }

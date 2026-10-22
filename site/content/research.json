@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "verifiedAt": "2026-10-19",
+  "verifiedAt": "2026-10-22",
   "scope": "Cross-server archive from individually reviewed official announcements; not a certified complete game inventory.",
   "sources": [
     {
@@ -706,7 +706,9 @@
       "displayedPublicationDate": "2025-12-10",
       "publicationDatePrecision": "day",
       "publicationTimezone": null,
-      "evidenceTier": "A"
+      "evidenceTier": "A",
+      "verifiedAt": "2026-10-22",
+      "verificationNote": "October 22 reread confirms named CN pre-release announcement wording and the retained explicit planned date. This source alone does not verify that the historical launch occurred; the regional record stays pending confirmation. Named artwork was separately matched to the October 25 Global announcement without transferring regional terms."
     },
     {
       "id": "cn-18d8757b6b49",
@@ -849,7 +851,9 @@
       "displayedPublicationDate": "2026-03-12",
       "publicationDatePrecision": "day",
       "publicationTimezone": null,
-      "evidenceTier": "A"
+      "evidenceTier": "A",
+      "verifiedAt": "2026-10-22",
+      "verificationNote": "October 22 reread confirms named CN pre-release announcement wording and the retained explicit planned date. This source alone does not verify that the historical launch occurred; the regional record stays pending confirmation. Named artwork was separately matched to the October 25 Global announcement without transferring regional terms."
     },
     {
       "id": "cn-9dda27dd9f27",
@@ -4325,6 +4329,64 @@
       "evidenceTier": "A",
       "verifiedAt": "2026-10-18",
       "verificationNote": "Full body read. Written in Stars / 하늘의 뜻 names corroborated by the acquired-outfit Wardrobe visibility fix; no current store stock or new acquisition date inferred."
+    },
+    {
+      "id": "global-20261021-october25-appearance-en",
+      "url": "https://www.wherewindsmeetgame.com/news/official/1025appearance.html",
+      "titleOriginal": "Version 2.3 New Appearances Overview - October 25",
+      "displayedPublicationDate": "2026-10-21",
+      "server": "Global",
+      "publisher": "NetEase / Where Winds Meet official website",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-10-22",
+      "verificationNote": "Full named English HTML read; paired named media inspected by the separate October 22 identity/media review. English explicitly states UTC+8 for mount/chest listing ranges, outfit/gauntlet openings and the VFX discount end; the VFX opening timezone is unstated. Korean clocks are one hour ahead without printed timezone. Eight CN artwork identities match; mount/VFX CN counterparts remain unverified. See docs/research/2026-10-22-identity-review.json and docs/research/2026-10-22-media-review.json."
+    },
+    {
+      "id": "global-20261021-october25-appearance-ko",
+      "url": "https://www.wherewindsmeetgame.com/kr/news/official/1025appearance.html",
+      "titleOriginal": "10월25일 2.3 버전 신규 외관 목록",
+      "displayedPublicationDate": "2026-10-21",
+      "server": "Global",
+      "publisher": "NetEase / Where Winds Meet official website",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-10-22",
+      "verificationNote": "Full named Korean HTML read; paired named media inspected by the separate October 22 identity/media review. English explicitly states UTC+8 for mount/chest listing ranges, outfit/gauntlet openings and the VFX discount end; the VFX opening timezone is unstated. Korean clocks are one hour ahead without printed timezone. Eight CN artwork identities match; mount/VFX CN counterparts remain unverified. See docs/research/2026-10-22-identity-review.json and docs/research/2026-10-22-media-review.json."
+    },
+    {
+      "url": "https://www.wherewindsmeetgame.com/news/official/1025update.html",
+      "titleOriginal": "[Friends From Afar] Version 2.3 Update Overview - October 25",
+      "displayedPublicationDate": "2026-10-21",
+      "server": "Global",
+      "id": "global-20261021-october25-en",
+      "publisher": "NetEase / Where Winds Meet official website",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-10-22",
+      "verificationNote": "Full poster visually inspected at readable resolution in three sequential segments; all named appearance sections reviewed. Prices and conditions below are Global evidence.",
+      "imageUrls": [
+        "https://r.res.easebar.com/pic/20261021/72830486-fe80-4c6a-9673-e14cad420196.png"
+      ]
+    },
+    {
+      "url": "https://www.wherewindsmeetgame.com/kr/news/official/1025update.html",
+      "titleOriginal": "[청주에 찾아온 벗] 10월25일 2.3 버전 업데이트 미리보기",
+      "displayedPublicationDate": "2026-10-21",
+      "server": "Global",
+      "id": "global-20261021-october25-ko",
+      "publisher": "NetEase / Where Winds Meet official website",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-10-22",
+      "verificationNote": "Full poster visually inspected at readable resolution in three sequential segments; all named appearance sections reviewed. Prices and conditions below are Global evidence. The Korean masthead retains October 15; item-specific listing sections explicitly state October 25.",
+      "imageUrls": [
+        "https://r.res.easebar.com/pic/20261021/9e2f5339-bc3b-4898-9a91-1bb7fef1d9cc.png"
+      ]
     }
   ],
   "mediaRights": {
@@ -7882,8 +7944,8 @@
       "romanization": "Qing Xiao Lue Ying",
       "category": "outfit",
       "sourceId": "cn-20260331-outfits",
-      "officialNameEn": null,
-      "officialNameKo": null,
+      "officialNameEn": "Ethereal Trace",
+      "officialNameKo": "창공의 그림자",
       "cnRelease": {
         "date": null,
         "precision": "unknown",
@@ -8022,11 +8084,65 @@
             "en": "Official CN character reference. Entire original frame retained.",
             "ko": "중국 공식 캐릭터 참고 사진입니다. 원본의 전체 구도를 유지했습니다."
           }
+        },
+        {
+          "url": "https://r.res.easebar.com/pic/20261020/4a703d9c-8e35-4f7a-88af-c6113fe522bc.png",
+          "width": 1210,
+          "height": 1080,
+          "sourceId": "global-20261021-october25-appearance-en",
+          "server": "Global",
+          "alt": {
+            "en": "Ethereal Trace · official Global appearance reference",
+            "ko": "창공의 그림자 · 글로벌 공식 외관 참고 이미지"
+          },
+          "caption": {
+            "en": "Official Global Ethereal Trace reference artwork.",
+            "ko": "글로벌 공식 창공의 그림자 참고 이미지."
+          },
+          "bytes": 1796343,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "inspectionNote": "October 22, 2026 America/New_York: named EN/KO official artwork visually reviewed; focused presentation crops are separate from the full composition. Static derivatives preserve the recorded frame for animation; complete originals remain accessible by URL.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/qing-xiao-lue-ying-6-full.webp",
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio"
+        },
+        {
+          "url": "https://r.res.easebar.com/pic/20261020/a0dd1e24-9a8a-4310-bae3-698129f29028.png",
+          "width": 1202,
+          "height": 1063,
+          "sourceId": "global-20261021-october25-appearance-en",
+          "server": "Global",
+          "alt": {
+            "en": "Ethereal Trace · official Global appearance reference",
+            "ko": "창공의 그림자 · 글로벌 공식 외관 참고 이미지"
+          },
+          "caption": {
+            "en": "Official Global Ethereal Trace reference artwork.",
+            "ko": "글로벌 공식 창공의 그림자 참고 이미지."
+          },
+          "bytes": 1832914,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "inspectionNote": "October 22, 2026 America/New_York: named EN/KO official artwork visually reviewed; focused presentation crops are separate from the full composition. Static derivatives preserve the recorded frame for animation; complete originals remain accessible by URL.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/qing-xiao-lue-ying-7-full.webp",
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio"
         }
       ],
       "officialVideos": [],
       "wikiDetails": true,
-      "mediaStatus": "verified"
+      "mediaStatus": "verified",
+      "searchAliases": [
+        "Ethereal Trace",
+        "창공의 그림자",
+        "청소략영"
+      ],
+      "namingNote": {
+        "en": "Official English/Korean names verified in the paired October 21 Global notices for the October 25 listing. Regional acquisition and schedule facts remain separate.",
+        "ko": "10월 21일 글로벌 영문·한국어 공식 공지의 10월 25일 출시 예고에서 공식명을 확인했습니다. 서버별 획득 조건·일정을 구분합니다."
+      },
+      "mediaServer": "Global"
     },
     {
       "id": "xuan-gu-zai-yuan",
@@ -19743,9 +19859,9 @@
       "category": "weapon_skin",
       "sourceId": "cn-328aa2453ae5",
       "acquisitionServer": "CN",
-      "mediaServer": "CN",
-      "officialNameEn": null,
-      "officialNameKo": null,
+      "mediaServer": "Global",
+      "officialNameEn": "Dawnflare Dragon",
+      "officialNameKo": "불꽃 날개의 비상",
       "cnRelease": {
         "date": "2026-03-13",
         "precision": "day",
@@ -19787,6 +19903,50 @@
           "reusePermission": "unknown",
           "localCopy": null,
           "server": "CN"
+        },
+        {
+          "url": "https://r.res.easebar.com/pic/20261020/3ea2d2f8-97c3-4966-8d12-604377ca4364.png",
+          "width": 1920,
+          "height": 1080,
+          "sourceId": "global-20261021-october25-appearance-en",
+          "server": "Global",
+          "alt": {
+            "en": "Dawnflare Dragon · official Global appearance reference",
+            "ko": "불꽃 날개의 비상 · 글로벌 공식 외관 참고 이미지"
+          },
+          "caption": {
+            "en": "Official Global Dawnflare Dragon reference artwork.",
+            "ko": "글로벌 공식 불꽃 날개의 비상 참고 이미지."
+          },
+          "bytes": 2163310,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "inspectionNote": "October 22, 2026 America/New_York: named EN/KO official artwork visually reviewed; focused presentation crops are separate from the full composition. Static derivatives preserve the recorded frame for animation; complete originals remain accessible by URL.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/chi-long-chengtian-1-full.webp",
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio"
+        },
+        {
+          "url": "https://r.res.easebar.com/pic/20261020/348a84cb-a12f-4066-a6e2-1fcff9bec969.png",
+          "width": 1920,
+          "height": 1080,
+          "sourceId": "global-20261021-october25-appearance-en",
+          "server": "Global",
+          "alt": {
+            "en": "Dawnflare Dragon · official Global appearance reference",
+            "ko": "불꽃 날개의 비상 · 글로벌 공식 외관 참고 이미지"
+          },
+          "caption": {
+            "en": "Official Global Dawnflare Dragon reference artwork.",
+            "ko": "글로벌 공식 불꽃 날개의 비상 참고 이미지."
+          },
+          "bytes": 2031333,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "inspectionNote": "October 22, 2026 America/New_York: named EN/KO official artwork visually reviewed; focused presentation crops are separate from the full composition. Static derivatives preserve the recorded frame for animation; complete originals remain accessible by URL.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/chi-long-chengtian-2-full.webp",
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio"
         }
       ],
       "officialVideos": [],
@@ -19796,7 +19956,15 @@
         "officialName": null,
         "releaseDate": null
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "searchAliases": [
+        "Dawnflare Dragon",
+        "불꽃 날개의 비상"
+      ],
+      "namingNote": {
+        "en": "Official English/Korean names verified in the paired October 21 Global notices for the October 25 listing. Regional acquisition and schedule facts remain separate.",
+        "ko": "10월 21일 글로벌 영문·한국어 공식 공지의 10월 25일 출시 예고에서 공식명을 확인했습니다. 서버별 획득 조건·일정을 구분합니다."
+      }
     },
     {
       "id": "fang-fei-chun-hua",
@@ -39491,9 +39659,9 @@
       "category": "weapon_skin",
       "sourceId": "cn-628ac0ee4db4",
       "acquisitionServer": "CN",
-      "mediaServer": "CN",
-      "officialNameEn": null,
-      "officialNameKo": null,
+      "mediaServer": "Global",
+      "officialNameEn": "Wild Goose Chase",
+      "officialNameKo": "쫓을 수 없는 거위",
       "cnRelease": {
         "date": "2025-12-12",
         "precision": "day",
@@ -39533,6 +39701,28 @@
           "reusePermission": "unknown",
           "localCopy": null,
           "server": "CN"
+        },
+        {
+          "url": "https://r.res.easebar.com/pic/20261020/7b61727d-a3bc-4b56-bfe3-0fad91a5270b.jpg",
+          "width": 1080,
+          "height": 1350,
+          "sourceId": "global-20261021-october25-appearance-en",
+          "server": "Global",
+          "alt": {
+            "en": "Wild Goose Chase · official Global appearance reference",
+            "ko": "쫓을 수 없는 거위 · 글로벌 공식 외관 참고 이미지"
+          },
+          "caption": {
+            "en": "Official Global Wild Goose Chase reference artwork.",
+            "ko": "글로벌 공식 쫓을 수 없는 거위 참고 이미지."
+          },
+          "bytes": 1212037,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "inspectionNote": "October 22, 2026 America/New_York: named EN/KO official artwork visually reviewed; focused presentation crops are separate from the full composition. Static derivatives preserve the recorded frame for animation; complete originals remain accessible by URL.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/zhui-bu-shang-e-1-full.webp",
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio"
         }
       ],
       "officialVideos": [],
@@ -39542,7 +39732,15 @@
         "releaseDate": null,
         "officialName": null
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "searchAliases": [
+        "Wild Goose Chase",
+        "쫓을 수 없는 거위"
+      ],
+      "namingNote": {
+        "en": "Official English/Korean names verified in the paired October 21 Global notices for the October 25 listing. Regional acquisition and schedule facts remain separate.",
+        "ko": "10월 21일 글로벌 영문·한국어 공식 공지의 10월 25일 출시 예고에서 공식명을 확인했습니다. 서버별 획득 조건·일정을 구분합니다."
+      }
     },
     {
       "id": "yun-tou-zhuan-miao",
@@ -39551,9 +39749,9 @@
       "category": "weapon_skin",
       "sourceId": "cn-628ac0ee4db4",
       "acquisitionServer": "CN",
-      "mediaServer": "CN",
-      "officialNameEn": null,
-      "officialNameKo": null,
+      "mediaServer": "Global",
+      "officialNameEn": "Meow-Go-Round",
+      "officialNameKo": "어지러운 냥이",
       "cnRelease": {
         "date": "2025-12-12",
         "precision": "day",
@@ -39593,6 +39791,28 @@
           "reusePermission": "unknown",
           "localCopy": null,
           "server": "CN"
+        },
+        {
+          "url": "https://r.res.easebar.com/pic/20261020/7b61727d-a3bc-4b56-bfe3-0fad91a5270b.jpg",
+          "width": 1080,
+          "height": 1350,
+          "sourceId": "global-20261021-october25-appearance-en",
+          "server": "Global",
+          "alt": {
+            "en": "Meow-Go-Round · official Global appearance reference",
+            "ko": "어지러운 냥이 · 글로벌 공식 외관 참고 이미지"
+          },
+          "caption": {
+            "en": "Official Global Meow-Go-Round reference artwork.",
+            "ko": "글로벌 공식 어지러운 냥이 참고 이미지."
+          },
+          "bytes": 1212037,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "inspectionNote": "October 22, 2026 America/New_York: named EN/KO official artwork visually reviewed; focused presentation crops are separate from the full composition. Static derivatives preserve the recorded frame for animation; complete originals remain accessible by URL.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/yun-tou-zhuan-miao-1-full.webp",
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio"
         }
       ],
       "officialVideos": [],
@@ -39602,7 +39822,15 @@
         "releaseDate": null,
         "officialName": null
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "searchAliases": [
+        "Meow-Go-Round",
+        "어지러운 냥이"
+      ],
+      "namingNote": {
+        "en": "Official English/Korean names verified in the paired October 21 Global notices for the October 25 listing. Regional acquisition and schedule facts remain separate.",
+        "ko": "10월 21일 글로벌 영문·한국어 공식 공지의 10월 25일 출시 예고에서 공식명을 확인했습니다. 서버별 획득 조건·일정을 구분합니다."
+      }
     },
     {
       "id": "xia-zhe-wu-ming",
@@ -39611,9 +39839,9 @@
       "category": "weapon_skin",
       "sourceId": "cn-628ac0ee4db4",
       "acquisitionServer": "CN",
-      "mediaServer": "CN",
-      "officialNameEn": null,
-      "officialNameKo": null,
+      "mediaServer": "Global",
+      "officialNameEn": "Nameless Hero",
+      "officialNameKo": "무명의 협객",
       "cnRelease": {
         "date": "2025-12-12",
         "precision": "day",
@@ -39653,6 +39881,28 @@
           "reusePermission": "unknown",
           "localCopy": null,
           "server": "CN"
+        },
+        {
+          "url": "https://r.res.easebar.com/pic/20261020/63a27bc3-73a8-4015-a767-92dd02c064a8.jpg",
+          "width": 1080,
+          "height": 1350,
+          "sourceId": "global-20261021-october25-appearance-en",
+          "server": "Global",
+          "alt": {
+            "en": "Nameless Hero · official Global appearance reference",
+            "ko": "무명의 협객 · 글로벌 공식 외관 참고 이미지"
+          },
+          "caption": {
+            "en": "Official Global Nameless Hero reference artwork.",
+            "ko": "글로벌 공식 무명의 협객 참고 이미지."
+          },
+          "bytes": 1374401,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "inspectionNote": "October 22, 2026 America/New_York: named EN/KO official artwork visually reviewed; focused presentation crops are separate from the full composition. Static derivatives preserve the recorded frame for animation; complete originals remain accessible by URL.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/xia-zhe-wu-ming-1-full.webp",
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio"
         }
       ],
       "officialVideos": [],
@@ -39662,7 +39912,15 @@
         "releaseDate": null,
         "officialName": null
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "searchAliases": [
+        "Nameless Hero",
+        "무명의 협객"
+      ],
+      "namingNote": {
+        "en": "Official English/Korean names verified in the paired October 21 Global notices for the October 25 listing. Regional acquisition and schedule facts remain separate.",
+        "ko": "10월 21일 글로벌 영문·한국어 공식 공지의 10월 25일 출시 예고에서 공식명을 확인했습니다. 서버별 획득 조건·일정을 구분합니다."
+      }
     },
     {
       "id": "yu-shan-san-e",
@@ -39671,9 +39929,9 @@
       "category": "weapon_skin",
       "sourceId": "cn-628ac0ee4db4",
       "acquisitionServer": "CN",
-      "mediaServer": "CN",
-      "officialNameEn": null,
-      "officialNameKo": null,
+      "mediaServer": "Global",
+      "officialNameEn": "The Three Honketeers",
+      "officialNameKo": "옥산의 세 거위",
       "cnRelease": {
         "date": "2025-12-12",
         "precision": "day",
@@ -39713,6 +39971,28 @@
           "reusePermission": "unknown",
           "localCopy": null,
           "server": "CN"
+        },
+        {
+          "url": "https://r.res.easebar.com/pic/20261020/68421a58-fd72-4ec2-a7b6-6f853bfbc908.jpg",
+          "width": 1080,
+          "height": 1350,
+          "sourceId": "global-20261021-october25-appearance-en",
+          "server": "Global",
+          "alt": {
+            "en": "The Three Honketeers · official Global appearance reference",
+            "ko": "옥산의 세 거위 · 글로벌 공식 외관 참고 이미지"
+          },
+          "caption": {
+            "en": "Official Global The Three Honketeers reference artwork.",
+            "ko": "글로벌 공식 옥산의 세 거위 참고 이미지."
+          },
+          "bytes": 1204773,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "inspectionNote": "October 22, 2026 America/New_York: named EN/KO official artwork visually reviewed; focused presentation crops are separate from the full composition. Static derivatives preserve the recorded frame for animation; complete originals remain accessible by URL.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/yu-shan-san-e-1-full.webp",
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio"
         }
       ],
       "officialVideos": [],
@@ -39722,7 +40002,15 @@
         "releaseDate": null,
         "officialName": null
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "searchAliases": [
+        "The Three Honketeers",
+        "옥산의 세 거위"
+      ],
+      "namingNote": {
+        "en": "Official English/Korean names verified in the paired October 21 Global notices for the October 25 listing. Regional acquisition and schedule facts remain separate.",
+        "ko": "10월 21일 글로벌 영문·한국어 공식 공지의 10월 25일 출시 예고에서 공식명을 확인했습니다. 서버별 획득 조건·일정을 구분합니다."
+      }
     },
     {
       "id": "bu-xian-shen-xian",
@@ -39731,9 +40019,9 @@
       "category": "weapon_skin",
       "sourceId": "cn-628ac0ee4db4",
       "acquisitionServer": "CN",
-      "mediaServer": "CN",
-      "officialNameEn": null,
-      "officialNameKo": null,
+      "mediaServer": "Global",
+      "officialNameEn": "Blissful Family",
+      "officialNameKo": "신선놀음",
       "cnRelease": {
         "date": "2025-12-12",
         "precision": "day",
@@ -39773,6 +40061,28 @@
           "reusePermission": "unknown",
           "localCopy": null,
           "server": "CN"
+        },
+        {
+          "url": "https://r.res.easebar.com/pic/20261020/63a27bc3-73a8-4015-a767-92dd02c064a8.jpg",
+          "width": 1080,
+          "height": 1350,
+          "sourceId": "global-20261021-october25-appearance-en",
+          "server": "Global",
+          "alt": {
+            "en": "Blissful Family · official Global appearance reference",
+            "ko": "신선놀음 · 글로벌 공식 외관 참고 이미지"
+          },
+          "caption": {
+            "en": "Official Global Blissful Family reference artwork.",
+            "ko": "글로벌 공식 신선놀음 참고 이미지."
+          },
+          "bytes": 1374401,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "inspectionNote": "October 22, 2026 America/New_York: named EN/KO official artwork visually reviewed; focused presentation crops are separate from the full composition. Static derivatives preserve the recorded frame for animation; complete originals remain accessible by URL.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/bu-xian-shen-xian-1-full.webp",
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio"
         }
       ],
       "officialVideos": [],
@@ -39782,7 +40092,15 @@
         "releaseDate": null,
         "officialName": null
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "searchAliases": [
+        "Blissful Family",
+        "신선놀음"
+      ],
+      "namingNote": {
+        "en": "Official English/Korean names verified in the paired October 21 Global notices for the October 25 listing. Regional acquisition and schedule facts remain separate.",
+        "ko": "10월 21일 글로벌 영문·한국어 공식 공지의 10월 25일 출시 예고에서 공식명을 확인했습니다. 서버별 획득 조건·일정을 구분합니다."
+      }
     },
     {
       "id": "e-de-jiang-hu",
@@ -39791,9 +40109,9 @@
       "category": "weapon_skin",
       "sourceId": "cn-628ac0ee4db4",
       "acquisitionServer": "CN",
-      "mediaServer": "CN",
-      "officialNameEn": null,
-      "officialNameKo": null,
+      "mediaServer": "Global",
+      "officialNameEn": "The Waddling Way",
+      "officialNameKo": "거위의 강호",
       "cnRelease": {
         "date": "2025-12-12",
         "precision": "day",
@@ -39833,6 +40151,28 @@
           "reusePermission": "unknown",
           "localCopy": null,
           "server": "CN"
+        },
+        {
+          "url": "https://r.res.easebar.com/pic/20261020/68421a58-fd72-4ec2-a7b6-6f853bfbc908.jpg",
+          "width": 1080,
+          "height": 1350,
+          "sourceId": "global-20261021-october25-appearance-en",
+          "server": "Global",
+          "alt": {
+            "en": "The Waddling Way · official Global appearance reference",
+            "ko": "거위의 강호 · 글로벌 공식 외관 참고 이미지"
+          },
+          "caption": {
+            "en": "Official Global The Waddling Way reference artwork.",
+            "ko": "글로벌 공식 거위의 강호 참고 이미지."
+          },
+          "bytes": 1204773,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "inspectionNote": "October 22, 2026 America/New_York: named EN/KO official artwork visually reviewed; focused presentation crops are separate from the full composition. Static derivatives preserve the recorded frame for animation; complete originals remain accessible by URL.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/e-de-jiang-hu-1-full.webp",
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio"
         }
       ],
       "officialVideos": [],
@@ -39842,7 +40182,15 @@
         "releaseDate": null,
         "officialName": null
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "searchAliases": [
+        "The Waddling Way",
+        "거위의 강호"
+      ],
+      "namingNote": {
+        "en": "Official English/Korean names verified in the paired October 21 Global notices for the October 25 listing. Regional acquisition and schedule facts remain separate.",
+        "ko": "10월 21일 글로벌 영문·한국어 공식 공지의 10월 25일 출시 예고에서 공식명을 확인했습니다. 서버별 획득 조건·일정을 구분합니다."
+      }
     },
     {
       "id": "banlong-shen",
@@ -55180,6 +55528,156 @@
         "Smile-Proof",
         "손댈 수 없는 미소"
       ]
+    },
+    {
+      "id": "global-deer-parture",
+      "nameOriginal": "Deer-parture",
+      "romanization": "Deer-parture",
+      "category": "mount",
+      "sourceId": "global-20261021-october25-en",
+      "acquisitionServer": "Global",
+      "mediaServer": "Global",
+      "officialNameEn": "Deer-parture",
+      "officialNameKo": "순풍백록",
+      "cnRelease": {
+        "date": null,
+        "precision": "unknown",
+        "timezone": null,
+        "contextual": false,
+        "basis": "CN identity and original individual release schedule unverified."
+      },
+      "acquisition": {
+        "kind": "exchange_shop",
+        "pricing": "fixed",
+        "amount": 2,
+        "regularAmount": null,
+        "currencyOriginal": "Harmonic Core",
+        "location": {
+          "en": "Draw Shop",
+          "ko": "공명 상점",
+          "original": "Draw Shop"
+        },
+        "conditions": {
+          "en": "Redeem the two-rider mount for 2 Harmonic Cores. Frozen Path creates an ice bridge, Frosty Step permits a mounted double jump, and Ice Frolicking freezes nearby ground for shared play. The announced exchange runs October 25, 2026 00:00 to April 23, 2027 04:59:59 (UTC+8); Korean clocks are 01:00:00 and 05:59:59 without a printed timezone.",
+          "ko": "공명 구슬 2개로 2인 동승 탈것을 교환합니다. 얼어붙은 길은 얼음 다리를 만들고, 서리걸음은 탑승 중 2단 도약을 지원하며, 얼음놀이는 주변 지면을 얼려 함께 놀 수 있습니다. 영문 예고 교환 기간은 2026년 10월 25일 00:00~2027년 4월 23일 04:59:59(UTC+8)입니다. 한국어는 01:00:00·05:59:59이며 시간대가 명시되지 않았습니다."
+        },
+        "en": "Official Global announcement terms.",
+        "ko": "글로벌 공식 예고의 획득 조건입니다."
+      },
+      "global": {
+        "status": "unknown",
+        "releaseDate": null,
+        "officialName": null
+      },
+      "images": [
+        {
+          "url": "https://r.res.easebar.com/pic/20261020/0444ad29-21cb-4834-bff4-5f81505a6a9d.gif",
+          "width": 720,
+          "height": 405,
+          "sourceId": "global-20261021-october25-appearance-en",
+          "server": "Global",
+          "alt": {
+            "en": "Deer-parture · official Global appearance reference",
+            "ko": "순풍백록 · 글로벌 공식 외관 참고 이미지"
+          },
+          "caption": {
+            "en": "Representative still from the official Global Deer-parture animation; the full animation is available in the official source.",
+            "ko": "글로벌 공식 순풍백록 애니메이션의 대표 정지 화면입니다. 전체 애니메이션은 공식 출처에서 확인할 수 있습니다."
+          },
+          "bytes": 26314621,
+          "kind": "official_animation_still",
+          "visuallyInspected": true,
+          "inspectionNote": "October 22, 2026 America/New_York: named EN/KO official artwork visually reviewed; focused presentation crops are separate from the full composition. Static derivatives preserve the recorded frame for animation; complete originals remain accessible by URL.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/global-deer-parture-0-full.webp",
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio",
+          "representativeFrameZeroBased": 20
+        }
+      ],
+      "officialVideos": [],
+      "mediaStatus": "verified",
+      "searchAliases": [
+        "순풍백록"
+      ],
+      "namingNote": {
+        "en": "Official English/Korean names verified in the paired October 21 Global notices for the October 25 listing. Regional acquisition and schedule facts remain separate.",
+        "ko": "10월 21일 글로벌 영문·한국어 공식 공지의 10월 25일 출시 예고에서 공식명을 확인했습니다. 서버별 획득 조건·일정을 구분합니다."
+      }
+    },
+    {
+      "id": "global-transcendence-gate",
+      "nameOriginal": "Transcendence Gate",
+      "romanization": "Transcendence Gate",
+      "category": "effect",
+      "sourceId": "global-20261021-october25-en",
+      "acquisitionServer": "Global",
+      "mediaServer": "Global",
+      "officialNameEn": "Transcendence Gate",
+      "officialNameKo": "황금빛 도약",
+      "cnRelease": {
+        "date": null,
+        "precision": "unknown",
+        "timezone": null,
+        "contextual": false,
+        "basis": "CN identity and original individual release schedule unverified."
+      },
+      "acquisition": {
+        "kind": "exchange_shop",
+        "pricing": "fixed",
+        "amount": 2,
+        "regularAmount": 3,
+        "currencyOriginal": "Sound Jade",
+        "location": {
+          "en": "Draw – Harmonic Shop",
+          "ko": "공명–화음 상점",
+          "original": "Draw – Harmonic Shop"
+        },
+        "conditions": {
+          "en": "Exchange the Cloud Steps Mystic Skill VFX for 2 Sound Jade during the discount, then 3. Listing is announced for October 25, 2026 (EN 00:00:00; KO 01:00:00); the opening timezone is unstated. The English named notice explicitly labels the November 25 04:59:59 discount end UTC+8; Korean says 05:59:59 with no timezone. This ends the discount, not the exchange.",
+          "ko": "구름 위 질주 비결 이펙트를 할인가 음옥 2개로 교환하며 이후 정가는 3개입니다. 출시 예고는 2026년 10월 25일 영문 00:00:00·한국어 01:00:00이며 시작 시간대는 미표기입니다. 영문 개별 공지는 11월 25일 04:59:59 할인 종료에 UTC+8을 명시하며 한국어는 05:59:59로 시간대 미표기입니다. 교환 종료가 아닌 할인 종료입니다."
+        },
+        "en": "Official Global announcement terms.",
+        "ko": "글로벌 공식 예고의 획득 조건입니다."
+      },
+      "global": {
+        "status": "unknown",
+        "releaseDate": null,
+        "officialName": null
+      },
+      "images": [
+        {
+          "url": "https://r.res.easebar.com/pic/20261020/f1e40a8a-d474-447f-9967-332c3c40507a.gif",
+          "width": 720,
+          "height": 324,
+          "sourceId": "global-20261021-october25-appearance-en",
+          "server": "Global",
+          "alt": {
+            "en": "Transcendence Gate · official Global appearance reference",
+            "ko": "황금빛 도약 · 글로벌 공식 외관 참고 이미지"
+          },
+          "caption": {
+            "en": "Representative still from the official Global Transcendence Gate animation; the full animation is available in the official source.",
+            "ko": "글로벌 공식 황금빛 도약 애니메이션의 대표 정지 화면입니다. 전체 애니메이션은 공식 출처에서 확인할 수 있습니다."
+          },
+          "bytes": 16262080,
+          "kind": "official_animation_still",
+          "visuallyInspected": true,
+          "inspectionNote": "October 22, 2026 America/New_York: named EN/KO official artwork visually reviewed; focused presentation crops are separate from the full composition. Static derivatives preserve the recorded frame for animation; complete originals remain accessible by URL.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/global-transcendence-gate-0-full.webp",
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio",
+          "representativeFrameZeroBased": 120
+        }
+      ],
+      "officialVideos": [],
+      "mediaStatus": "verified",
+      "searchAliases": [
+        "황금빛 도약"
+      ],
+      "namingNote": {
+        "en": "Official English/Korean names verified in the paired October 21 Global notices for the October 25 listing. Regional acquisition and schedule facts remain separate.",
+        "ko": "10월 21일 글로벌 영문·한국어 공식 공지의 10월 25일 출시 예고에서 공식명을 확인했습니다. 서버별 획득 조건·일정을 구분합니다."
+      }
     }
   ],
   "contextualOfficialVideos": [
