@@ -1,0 +1,1666 @@
+{
+  "reviewedAt": "2026-10-22",
+  "purpose": {
+    "en": "Official Global October 25 appearance media review and optimized reference derivatives. Canonical content is merged separately after identity checks.",
+    "ko": "글로벌 10월 25일 신규 외관 공식 이미지 점검 및 최적화 참고 파생 파일입니다. 정체성 확인 후 정식 콘텐츠에 별도로 통합합니다."
+  },
+  "sourcePages": {
+    "en": "https://www.wherewindsmeetgame.com/news/official/1025appearance.html",
+    "ko": "https://www.wherewindsmeetgame.com/kr/news/official/1025appearance.html"
+  },
+  "sourceIds": {
+    "en": "global-20261021-october25-appearance-en",
+    "ko": "global-20261021-october25-appearance-ko"
+  },
+  "rights": {
+    "permission": "unknown",
+    "audience": "reference artwork; excluded from the code license",
+    "note": {
+      "en": "Official attribution is retained; no redistribution license is inferred.",
+      "ko": "공식 출처를 보존하며 재배포 허가가 있다고 추정하지 않습니다."
+    }
+  },
+  "originals": [
+    {
+      "language": "en",
+      "sourceId": "global-20261021-october25-appearance-en",
+      "sourcePage": "https://www.wherewindsmeetgame.com/news/official/1025appearance.html",
+      "imageLinkIndex": 14,
+      "sectionNames": {
+        "en": "Deer-parture",
+        "ko": "순풍백록"
+      },
+      "url": "https://r.res.easebar.com/pic/20261020/0444ad29-21cb-4834-bff4-5f81505a6a9d.gif",
+      "originalFilename": "0444ad29-21cb-4834-bff4-5f81505a6a9d.gif",
+      "reviewLocalPath": "/private/tmp/winds-oct25-media/originals/en-14.gif",
+      "width": 720,
+      "height": 405,
+      "frames": 317,
+      "bytes": 26314621,
+      "sha256": "60ac58759cda5aa5a48903b5c45379fa55fd780643b51dc5ea8772a7f5b7ae56"
+    },
+    {
+      "language": "en",
+      "sourceId": "global-20261021-october25-appearance-en",
+      "sourcePage": "https://www.wherewindsmeetgame.com/news/official/1025appearance.html",
+      "imageLinkIndex": 15,
+      "sectionNames": {
+        "en": "Transcendence Gate",
+        "ko": "황금빛 도약"
+      },
+      "url": "https://r.res.easebar.com/pic/20261020/f1e40a8a-d474-447f-9967-332c3c40507a.gif",
+      "originalFilename": "f1e40a8a-d474-447f-9967-332c3c40507a.gif",
+      "reviewLocalPath": "/private/tmp/winds-oct25-media/originals/en-15.gif",
+      "width": 720,
+      "height": 324,
+      "frames": 224,
+      "bytes": 16262080,
+      "sha256": "bc6265fc261cf67c28d273e8243b1ab889a72065ea20927dfba0fd08eb33e6e1"
+    },
+    {
+      "language": "en",
+      "sourceId": "global-20261021-october25-appearance-en",
+      "sourcePage": "https://www.wherewindsmeetgame.com/news/official/1025appearance.html",
+      "imageLinkIndex": 16,
+      "sectionNames": {
+        "en": "Lucky Lantern",
+        "ko": "점등 대길"
+      },
+      "url": "https://r.res.easebar.com/pic/20261020/7b61727d-a3bc-4b56-bfe3-0fad91a5270b.jpg",
+      "originalFilename": "7b61727d-a3bc-4b56-bfe3-0fad91a5270b.jpg",
+      "reviewLocalPath": "/private/tmp/winds-oct25-media/originals/en-16.jpg",
+      "width": 1080,
+      "height": 1350,
+      "frames": 1,
+      "bytes": 1212037,
+      "sha256": "6f8952d0905083869005eebf897b05a9c4738f2dde2c53522055a6092757f865"
+    },
+    {
+      "language": "en",
+      "sourceId": "global-20261021-october25-appearance-en",
+      "sourcePage": "https://www.wherewindsmeetgame.com/news/official/1025appearance.html",
+      "imageLinkIndex": 17,
+      "sectionNames": {
+        "en": "Lucky Lantern",
+        "ko": "점등 대길"
+      },
+      "url": "https://r.res.easebar.com/pic/20261020/63a27bc3-73a8-4015-a767-92dd02c064a8.jpg",
+      "originalFilename": "63a27bc3-73a8-4015-a767-92dd02c064a8.jpg",
+      "reviewLocalPath": "/private/tmp/winds-oct25-media/originals/en-17.jpg",
+      "width": 1080,
+      "height": 1350,
+      "frames": 1,
+      "bytes": 1374401,
+      "sha256": "614e2ac2ed6a9d50a20c1ec5e8f1100e2de61b6d4a866c7226c6a0462d5f18ba"
+    },
+    {
+      "language": "en",
+      "sourceId": "global-20261021-october25-appearance-en",
+      "sourcePage": "https://www.wherewindsmeetgame.com/news/official/1025appearance.html",
+      "imageLinkIndex": 18,
+      "sectionNames": {
+        "en": "Lucky Lantern",
+        "ko": "점등 대길"
+      },
+      "url": "https://r.res.easebar.com/pic/20261020/68421a58-fd72-4ec2-a7b6-6f853bfbc908.jpg",
+      "originalFilename": "68421a58-fd72-4ec2-a7b6-6f853bfbc908.jpg",
+      "reviewLocalPath": "/private/tmp/winds-oct25-media/originals/en-18.jpg",
+      "width": 1080,
+      "height": 1350,
+      "frames": 1,
+      "bytes": 1204773,
+      "sha256": "3ac2e2529baa5578a46ca488c82ca97ce56203eb75b3577f4659b607d59046f7"
+    },
+    {
+      "language": "en",
+      "sourceId": "global-20261021-october25-appearance-en",
+      "sourcePage": "https://www.wherewindsmeetgame.com/news/official/1025appearance.html",
+      "imageLinkIndex": 19,
+      "sectionNames": {
+        "en": "Ethereal Trace",
+        "ko": "창공의 그림자"
+      },
+      "url": "https://r.res.easebar.com/pic/20261020/a0dd1e24-9a8a-4310-bae3-698129f29028.png",
+      "originalFilename": "a0dd1e24-9a8a-4310-bae3-698129f29028.png",
+      "reviewLocalPath": "/private/tmp/winds-oct25-media/originals/en-19.png",
+      "width": 1202,
+      "height": 1063,
+      "frames": 1,
+      "bytes": 1832914,
+      "sha256": "784568c06e9f78e0600ec89a031af41e833dffa21660326703d5fc239a0c93b0"
+    },
+    {
+      "language": "en",
+      "sourceId": "global-20261021-october25-appearance-en",
+      "sourcePage": "https://www.wherewindsmeetgame.com/news/official/1025appearance.html",
+      "imageLinkIndex": 20,
+      "sectionNames": {
+        "en": "Ethereal Trace",
+        "ko": "창공의 그림자"
+      },
+      "url": "https://r.res.easebar.com/pic/20261020/4a703d9c-8e35-4f7a-88af-c6113fe522bc.png",
+      "originalFilename": "4a703d9c-8e35-4f7a-88af-c6113fe522bc.png",
+      "reviewLocalPath": "/private/tmp/winds-oct25-media/originals/en-20.png",
+      "width": 1210,
+      "height": 1080,
+      "frames": 1,
+      "bytes": 1796343,
+      "sha256": "61e93e80f6d96e7f381648083afc0c943cad69afb764da084ee55372acd76083"
+    },
+    {
+      "language": "en",
+      "sourceId": "global-20261021-october25-appearance-en",
+      "sourcePage": "https://www.wherewindsmeetgame.com/news/official/1025appearance.html",
+      "imageLinkIndex": 21,
+      "sectionNames": {
+        "en": "Dawnflare Dragon",
+        "ko": "불꽃 날개의 비상"
+      },
+      "url": "https://r.res.easebar.com/pic/20261020/348a84cb-a12f-4066-a6e2-1fcff9bec969.png",
+      "originalFilename": "348a84cb-a12f-4066-a6e2-1fcff9bec969.png",
+      "reviewLocalPath": "/private/tmp/winds-oct25-media/originals/en-21.png",
+      "width": 1920,
+      "height": 1080,
+      "frames": 1,
+      "bytes": 2031333,
+      "sha256": "01f73f2018c3dbfec98c60f84b39ea92918e235248e5bae4232caa27539a1469"
+    },
+    {
+      "language": "en",
+      "sourceId": "global-20261021-october25-appearance-en",
+      "sourcePage": "https://www.wherewindsmeetgame.com/news/official/1025appearance.html",
+      "imageLinkIndex": 22,
+      "sectionNames": {
+        "en": "Dawnflare Dragon",
+        "ko": "불꽃 날개의 비상"
+      },
+      "url": "https://r.res.easebar.com/pic/20261020/3ea2d2f8-97c3-4966-8d12-604377ca4364.png",
+      "originalFilename": "3ea2d2f8-97c3-4966-8d12-604377ca4364.png",
+      "reviewLocalPath": "/private/tmp/winds-oct25-media/originals/en-22.png",
+      "width": 1920,
+      "height": 1080,
+      "frames": 1,
+      "bytes": 2163310,
+      "sha256": "555bb07311e37fdb7559bcaad99b300298187524607cd464b6c2e3c7f68db34a"
+    },
+    {
+      "language": "ko",
+      "sourceId": "global-20261021-october25-appearance-ko",
+      "sourcePage": "https://www.wherewindsmeetgame.com/kr/news/official/1025appearance.html",
+      "imageLinkIndex": 14,
+      "sectionNames": {
+        "en": "Deer-parture",
+        "ko": "순풍백록"
+      },
+      "url": "https://r.res.easebar.com/pic/20261020/ed81470a-2b1b-4641-8d27-e543109c1f3c.gif",
+      "originalFilename": "ed81470a-2b1b-4641-8d27-e543109c1f3c.gif",
+      "reviewLocalPath": "/private/tmp/winds-oct25-media/originals/ko-14.gif",
+      "width": 720,
+      "height": 405,
+      "frames": 317,
+      "bytes": 26314621,
+      "sha256": "60ac58759cda5aa5a48903b5c45379fa55fd780643b51dc5ea8772a7f5b7ae56"
+    },
+    {
+      "language": "ko",
+      "sourceId": "global-20261021-october25-appearance-ko",
+      "sourcePage": "https://www.wherewindsmeetgame.com/kr/news/official/1025appearance.html",
+      "imageLinkIndex": 15,
+      "sectionNames": {
+        "en": "Transcendence Gate",
+        "ko": "황금빛 도약"
+      },
+      "url": "https://r.res.easebar.com/pic/20261020/b27f096b-dd29-4639-b4f4-b1615dc6fdda.gif",
+      "originalFilename": "b27f096b-dd29-4639-b4f4-b1615dc6fdda.gif",
+      "reviewLocalPath": "/private/tmp/winds-oct25-media/originals/ko-15.gif",
+      "width": 720,
+      "height": 324,
+      "frames": 224,
+      "bytes": 16262080,
+      "sha256": "bc6265fc261cf67c28d273e8243b1ab889a72065ea20927dfba0fd08eb33e6e1"
+    },
+    {
+      "language": "ko",
+      "sourceId": "global-20261021-october25-appearance-ko",
+      "sourcePage": "https://www.wherewindsmeetgame.com/kr/news/official/1025appearance.html",
+      "imageLinkIndex": 16,
+      "sectionNames": {
+        "en": "Lucky Lantern",
+        "ko": "점등 대길"
+      },
+      "url": "https://r.res.easebar.com/pic/20261020/432b46c0-a9a8-4095-9d4b-f6948374bc4b.jpg",
+      "originalFilename": "432b46c0-a9a8-4095-9d4b-f6948374bc4b.jpg",
+      "reviewLocalPath": "/private/tmp/winds-oct25-media/originals/ko-16.jpg",
+      "width": 1080,
+      "height": 1350,
+      "frames": 1,
+      "bytes": 1210178,
+      "sha256": "3487786ba9b1adeb732b90bb6172c4da10a7e6d7b3387d71826f287bd3f3a5a5"
+    },
+    {
+      "language": "ko",
+      "sourceId": "global-20261021-october25-appearance-ko",
+      "sourcePage": "https://www.wherewindsmeetgame.com/kr/news/official/1025appearance.html",
+      "imageLinkIndex": 17,
+      "sectionNames": {
+        "en": "Lucky Lantern",
+        "ko": "점등 대길"
+      },
+      "url": "https://r.res.easebar.com/pic/20261020/09a799bf-8ea8-4a13-92f5-9c21d9053cb6.jpg",
+      "originalFilename": "09a799bf-8ea8-4a13-92f5-9c21d9053cb6.jpg",
+      "reviewLocalPath": "/private/tmp/winds-oct25-media/originals/ko-17.jpg",
+      "width": 1080,
+      "height": 1350,
+      "frames": 1,
+      "bytes": 1370641,
+      "sha256": "0016f1d4df165e639d5e44a2edce9ffb1f75b3795ebf75c6751321f136ecf23d"
+    },
+    {
+      "language": "ko",
+      "sourceId": "global-20261021-october25-appearance-ko",
+      "sourcePage": "https://www.wherewindsmeetgame.com/kr/news/official/1025appearance.html",
+      "imageLinkIndex": 18,
+      "sectionNames": {
+        "en": "Lucky Lantern",
+        "ko": "점등 대길"
+      },
+      "url": "https://r.res.easebar.com/pic/20261020/476953b8-af78-4640-9fc7-a754997f6f7f.jpg",
+      "originalFilename": "476953b8-af78-4640-9fc7-a754997f6f7f.jpg",
+      "reviewLocalPath": "/private/tmp/winds-oct25-media/originals/ko-18.jpg",
+      "width": 1080,
+      "height": 1350,
+      "frames": 1,
+      "bytes": 1198440,
+      "sha256": "523ded331c7a33bac85b131bcf3eaeaa3a98fa1ec0778791be0e07be53485f4d"
+    },
+    {
+      "language": "ko",
+      "sourceId": "global-20261021-october25-appearance-ko",
+      "sourcePage": "https://www.wherewindsmeetgame.com/kr/news/official/1025appearance.html",
+      "imageLinkIndex": 19,
+      "sectionNames": {
+        "en": "Ethereal Trace",
+        "ko": "창공의 그림자"
+      },
+      "url": "https://r.res.easebar.com/pic/20261020/a35d3ed4-b841-4bbb-94ae-f0817f18c9af.png",
+      "originalFilename": "a35d3ed4-b841-4bbb-94ae-f0817f18c9af.png",
+      "reviewLocalPath": "/private/tmp/winds-oct25-media/originals/ko-19.png",
+      "width": 1202,
+      "height": 1063,
+      "frames": 1,
+      "bytes": 1832914,
+      "sha256": "784568c06e9f78e0600ec89a031af41e833dffa21660326703d5fc239a0c93b0"
+    },
+    {
+      "language": "ko",
+      "sourceId": "global-20261021-october25-appearance-ko",
+      "sourcePage": "https://www.wherewindsmeetgame.com/kr/news/official/1025appearance.html",
+      "imageLinkIndex": 20,
+      "sectionNames": {
+        "en": "Ethereal Trace",
+        "ko": "창공의 그림자"
+      },
+      "url": "https://r.res.easebar.com/pic/20261020/9354718d-9416-4b0e-a5df-8be1a4e4505f.png",
+      "originalFilename": "9354718d-9416-4b0e-a5df-8be1a4e4505f.png",
+      "reviewLocalPath": "/private/tmp/winds-oct25-media/originals/ko-20.png",
+      "width": 1210,
+      "height": 1080,
+      "frames": 1,
+      "bytes": 1796343,
+      "sha256": "61e93e80f6d96e7f381648083afc0c943cad69afb764da084ee55372acd76083"
+    },
+    {
+      "language": "ko",
+      "sourceId": "global-20261021-october25-appearance-ko",
+      "sourcePage": "https://www.wherewindsmeetgame.com/kr/news/official/1025appearance.html",
+      "imageLinkIndex": 21,
+      "sectionNames": {
+        "en": "Dawnflare Dragon",
+        "ko": "불꽃 날개의 비상"
+      },
+      "url": "https://r.res.easebar.com/pic/20261020/fc5a5e28-4848-41f1-aabd-ea2fdb6544ff.png",
+      "originalFilename": "fc5a5e28-4848-41f1-aabd-ea2fdb6544ff.png",
+      "reviewLocalPath": "/private/tmp/winds-oct25-media/originals/ko-21.png",
+      "width": 1920,
+      "height": 1080,
+      "frames": 1,
+      "bytes": 2031333,
+      "sha256": "01f73f2018c3dbfec98c60f84b39ea92918e235248e5bae4232caa27539a1469"
+    },
+    {
+      "language": "ko",
+      "sourceId": "global-20261021-october25-appearance-ko",
+      "sourcePage": "https://www.wherewindsmeetgame.com/kr/news/official/1025appearance.html",
+      "imageLinkIndex": 22,
+      "sectionNames": {
+        "en": "Dawnflare Dragon",
+        "ko": "불꽃 날개의 비상"
+      },
+      "url": "https://r.res.easebar.com/pic/20261020/02c0a751-4ec9-4d5a-810d-bc35327a05da.png",
+      "originalFilename": "02c0a751-4ec9-4d5a-810d-bc35327a05da.png",
+      "reviewLocalPath": "/private/tmp/winds-oct25-media/originals/ko-22.png",
+      "width": 1920,
+      "height": 1080,
+      "frames": 1,
+      "bytes": 2163310,
+      "sha256": "555bb07311e37fdb7559bcaad99b300298187524607cd464b6c2e3c7f68db34a"
+    }
+  ],
+  "records": [
+    {
+      "candidateCosmeticId": "global-deer-parture",
+      "identityStatus": "Separate Global record; CN identity remains unresolved",
+      "officialNames": {
+        "en": "Deer-parture",
+        "ko": "순풍백록"
+      },
+      "sourceImageLinkIndex": 14,
+      "pairedOriginalUrls": {
+        "en": "https://r.res.easebar.com/pic/20261020/0444ad29-21cb-4834-bff4-5f81505a6a9d.gif",
+        "ko": "https://r.res.easebar.com/pic/20261020/ed81470a-2b1b-4641-8d27-e543109c1f3c.gif"
+      },
+      "representativeFrameZeroBased": 20,
+      "presentationCropInOriginal": [
+        160,
+        0,
+        550,
+        405
+      ],
+      "thumbnailFit": "cover",
+      "rationale": {
+        "en": "Representative visible mount frame after the black opening. Crop preserves antlers, feet, and rider; complete frame remains accessible.",
+        "ko": "검은 도입부 이후 탈것이 선명하게 보이는 대표 프레임입니다. 뿔·발·탑승자를 보존하여 잘랐으며 전체 프레임도 볼 수 있습니다."
+      },
+      "suggestedResearchImage": {
+        "url": "https://r.res.easebar.com/pic/20261020/0444ad29-21cb-4834-bff4-5f81505a6a9d.gif",
+        "width": 720,
+        "height": 405,
+        "sourceId": "global-20261021-october25-appearance-en",
+        "server": "Global",
+        "alt": {
+          "en": "Deer-parture · official Global appearance reference",
+          "ko": "순풍백록 · 글로벌 공식 외관 참고 이미지"
+        },
+        "caption": {
+          "en": "Representative still from the official Global Deer-parture animation; the full animation is available in the official source.",
+          "ko": "글로벌 공식 순풍백록 애니메이션의 대표 정지 화면입니다. 전체 애니메이션은 공식 출처에서 확인할 수 있습니다."
+        }
+      },
+      "suggestedMediaRecord": {
+        "cosmeticId": "global-deer-parture",
+        "index": 0,
+        "originalUrl": "https://r.res.easebar.com/pic/20261020/0444ad29-21cb-4834-bff4-5f81505a6a9d.gif",
+        "sourceId": "global-20261021-october25-appearance-en",
+        "server": "Global",
+        "thumbnail": "/media/global-deer-parture-0-thumb.webp",
+        "full": "/media/global-deer-parture-0-full.webp",
+        "preview": "/media/global-deer-parture-0-preview.webp",
+        "display": "/media/global-deer-parture-0-display.webp",
+        "displayWidth": 390,
+        "displayHeight": 405,
+        "presentationSubject": "item",
+        "presentationCrop": [
+          160,
+          0,
+          550,
+          405
+        ],
+        "thumbnailBytes": 41002,
+        "fullBytes": 48442,
+        "previewBytes": 3636,
+        "displayBytes": 33060,
+        "permission": "unknown",
+        "audience": "reference artwork; excluded from the code license"
+      },
+      "assets": {
+        "full": {
+          "reviewLocalPath": "/private/tmp/winds-oct25-media/derivatives/global-deer-parture-0-full.webp",
+          "canonicalPath": "/media/global-deer-parture-0-full.webp",
+          "width": 720,
+          "height": 405,
+          "bytes": 48442,
+          "sha256": "2da611ba1314fc62c208c574fe5418ea991c4d04dad7f2032b6e4adced42d5ee",
+          "frames": 1
+        },
+        "display": {
+          "reviewLocalPath": "/private/tmp/winds-oct25-media/derivatives/global-deer-parture-0-display.webp",
+          "canonicalPath": "/media/global-deer-parture-0-display.webp",
+          "width": 390,
+          "height": 405,
+          "bytes": 33060,
+          "sha256": "956b37481d4f012f4eefdb363274cd9937a2d0556a52884a540fe310fa5429f1",
+          "frames": 1
+        },
+        "thumbnail": {
+          "reviewLocalPath": "/private/tmp/winds-oct25-media/derivatives/global-deer-parture-0-thumb.webp",
+          "canonicalPath": "/media/global-deer-parture-0-thumb.webp",
+          "width": 600,
+          "height": 710,
+          "bytes": 41002,
+          "sha256": "9aa736e47bca2dff5620fc4c00433ee7ae8cb00b95f6fa9a939a1b35a67b9a46",
+          "frames": 1
+        },
+        "preview": {
+          "reviewLocalPath": "/private/tmp/winds-oct25-media/derivatives/global-deer-parture-0-preview.webp",
+          "canonicalPath": "/media/global-deer-parture-0-preview.webp",
+          "width": 154,
+          "height": 160,
+          "bytes": 3636,
+          "sha256": "5974c9c325d80fd1db2ebf378afdb7a1d077568f0e6831eafa7ead94e18f3105",
+          "frames": 1
+        }
+      }
+    },
+    {
+      "candidateCosmeticId": "global-transcendence-gate",
+      "identityStatus": "Separate Global record; CN identity remains unresolved",
+      "officialNames": {
+        "en": "Transcendence Gate",
+        "ko": "황금빛 도약"
+      },
+      "sourceImageLinkIndex": 15,
+      "pairedOriginalUrls": {
+        "en": "https://r.res.easebar.com/pic/20261020/f1e40a8a-d474-447f-9967-332c3c40507a.gif",
+        "ko": "https://r.res.easebar.com/pic/20261020/b27f096b-dd29-4639-b4f4-b1615dc6fdda.gif"
+      },
+      "representativeFrameZeroBased": 120,
+      "presentationCropInOriginal": [
+        0,
+        0,
+        720,
+        324
+      ],
+      "thumbnailFit": "contain",
+      "rationale": {
+        "en": "Representative golden gate frame shows the defining VFX. Landscape thumbnail uses contain to preserve the full gate; complete frame remains accessible.",
+        "ko": "황금빛 문이 특징적으로 보이는 대표 프레임입니다. 가로형 사진 전체를 썸네일에 맞춰 문을 보존했으며 전체 프레임도 볼 수 있습니다."
+      },
+      "suggestedResearchImage": {
+        "url": "https://r.res.easebar.com/pic/20261020/f1e40a8a-d474-447f-9967-332c3c40507a.gif",
+        "width": 720,
+        "height": 324,
+        "sourceId": "global-20261021-october25-appearance-en",
+        "server": "Global",
+        "alt": {
+          "en": "Transcendence Gate · official Global appearance reference",
+          "ko": "황금빛 도약 · 글로벌 공식 외관 참고 이미지"
+        },
+        "caption": {
+          "en": "Representative still from the official Global Transcendence Gate animation; the full animation is available in the official source.",
+          "ko": "글로벌 공식 황금빛 도약 애니메이션의 대표 정지 화면입니다. 전체 애니메이션은 공식 출처에서 확인할 수 있습니다."
+        }
+      },
+      "suggestedMediaRecord": {
+        "cosmeticId": "global-transcendence-gate",
+        "index": 0,
+        "originalUrl": "https://r.res.easebar.com/pic/20261020/f1e40a8a-d474-447f-9967-332c3c40507a.gif",
+        "sourceId": "global-20261021-october25-appearance-en",
+        "server": "Global",
+        "thumbnail": "/media/global-transcendence-gate-0-thumb.webp",
+        "full": "/media/global-transcendence-gate-0-full.webp",
+        "preview": "/media/global-transcendence-gate-0-preview.webp",
+        "display": "/media/global-transcendence-gate-0-display.webp",
+        "displayWidth": 720,
+        "displayHeight": 324,
+        "presentationSubject": "detail",
+        "presentationCrop": [
+          0,
+          0,
+          720,
+          324
+        ],
+        "thumbnailBytes": 23018,
+        "fullBytes": 58352,
+        "previewBytes": 2194,
+        "displayBytes": 63918,
+        "permission": "unknown",
+        "audience": "reference artwork; excluded from the code license"
+      },
+      "assets": {
+        "full": {
+          "reviewLocalPath": "/private/tmp/winds-oct25-media/derivatives/global-transcendence-gate-0-full.webp",
+          "canonicalPath": "/media/global-transcendence-gate-0-full.webp",
+          "width": 720,
+          "height": 324,
+          "bytes": 58352,
+          "sha256": "e1d9f4ad370ed4a346cbdb0ff2cb185dd2be834feb3f3b9095c0091b272b5ed9",
+          "frames": 1
+        },
+        "display": {
+          "reviewLocalPath": "/private/tmp/winds-oct25-media/derivatives/global-transcendence-gate-0-display.webp",
+          "canonicalPath": "/media/global-transcendence-gate-0-display.webp",
+          "width": 720,
+          "height": 324,
+          "bytes": 63918,
+          "sha256": "7c359f55a7cf1679d6dd9326adaed1b8fde0ceba799e62f402b6ce344ce05a08",
+          "frames": 1
+        },
+        "thumbnail": {
+          "reviewLocalPath": "/private/tmp/winds-oct25-media/derivatives/global-transcendence-gate-0-thumb.webp",
+          "canonicalPath": "/media/global-transcendence-gate-0-thumb.webp",
+          "width": 600,
+          "height": 710,
+          "bytes": 23018,
+          "sha256": "e1cb0f6660b0cbc5aaf164992344bd89cb54db12def771f295cf11a65c7846f1",
+          "frames": 1
+        },
+        "preview": {
+          "reviewLocalPath": "/private/tmp/winds-oct25-media/derivatives/global-transcendence-gate-0-preview.webp",
+          "canonicalPath": "/media/global-transcendence-gate-0-preview.webp",
+          "width": 160,
+          "height": 72,
+          "bytes": 2194,
+          "sha256": "6f036d0110bef9127a461c19d15e07327faf62b337f1b6a6698e0e4e08253677",
+          "frames": 1
+        }
+      }
+    },
+    {
+      "candidateCosmeticId": "zhui-bu-shang-e",
+      "identityStatus": "CN mapping supplied by separate identity audit; this media review does not independently claim a CN match",
+      "officialNames": {
+        "en": "Wild Goose Chase",
+        "ko": "쫓을 수 없는 거위"
+      },
+      "sourceImageLinkIndex": 16,
+      "pairedOriginalUrls": {
+        "en": "https://r.res.easebar.com/pic/20261020/7b61727d-a3bc-4b56-bfe3-0fad91a5270b.jpg",
+        "ko": "https://r.res.easebar.com/pic/20261020/432b46c0-a9a8-4095-9d4b-f6948374bc4b.jpg"
+      },
+      "namedPanelBoundsInOriginal": [
+        168,
+        250,
+        978,
+        706
+      ],
+      "presentationCropInOriginal": [
+        218,
+        257,
+        660,
+        706
+      ],
+      "thumbnailFit": "cover",
+      "rationale": {
+        "en": "Individually named top poster panel; focus crop excludes poster frame and other item. Character identity is not inferred.",
+        "ko": "상단 포스터의 개별 명칭 영역입니다. 다른 외관과 포스터 테두리를 제외하여 잘랐으며 캐릭터 정체성은 추정하지 않습니다."
+      },
+      "suggestedResearchImage": {
+        "url": "https://r.res.easebar.com/pic/20261020/7b61727d-a3bc-4b56-bfe3-0fad91a5270b.jpg",
+        "width": 1080,
+        "height": 1350,
+        "sourceId": "global-20261021-october25-appearance-en",
+        "server": "Global",
+        "alt": {
+          "en": "Wild Goose Chase · official Global appearance reference",
+          "ko": "쫓을 수 없는 거위 · 글로벌 공식 외관 참고 이미지"
+        },
+        "caption": {
+          "en": "Official Global Wild Goose Chase reference artwork.",
+          "ko": "글로벌 공식 쫓을 수 없는 거위 참고 이미지."
+        }
+      },
+      "suggestedMediaRecord": {
+        "cosmeticId": "zhui-bu-shang-e",
+        "index": 1,
+        "originalUrl": "https://r.res.easebar.com/pic/20261020/7b61727d-a3bc-4b56-bfe3-0fad91a5270b.jpg",
+        "sourceId": "global-20261021-october25-appearance-en",
+        "server": "Global",
+        "thumbnail": "/media/zhui-bu-shang-e-1-thumb.webp",
+        "full": "/media/zhui-bu-shang-e-1-full.webp",
+        "preview": "/media/zhui-bu-shang-e-1-preview.webp",
+        "display": "/media/zhui-bu-shang-e-1-display.webp",
+        "displayWidth": 442,
+        "displayHeight": 449,
+        "presentationSubject": "item",
+        "presentationCrop": [
+          218,
+          257,
+          660,
+          706
+        ],
+        "thumbnailBytes": 37250,
+        "fullBytes": 184904,
+        "previewBytes": 4566,
+        "displayBytes": 29736,
+        "permission": "unknown",
+        "audience": "reference artwork; excluded from the code license"
+      },
+      "assets": {
+        "full": {
+          "reviewLocalPath": "/private/tmp/winds-oct25-media/derivatives/zhui-bu-shang-e-1-full.webp",
+          "canonicalPath": "/media/zhui-bu-shang-e-1-full.webp",
+          "width": 1080,
+          "height": 1350,
+          "bytes": 184904,
+          "sha256": "681dd58d9372622f8247270deba9db8298e661871125c71be0da66d0a130cbb2",
+          "frames": 1
+        },
+        "display": {
+          "reviewLocalPath": "/private/tmp/winds-oct25-media/derivatives/zhui-bu-shang-e-1-display.webp",
+          "canonicalPath": "/media/zhui-bu-shang-e-1-display.webp",
+          "width": 442,
+          "height": 449,
+          "bytes": 29736,
+          "sha256": "ee1435dd7cafa00f2c665b839bfdc1e9a2eddbe40c0e87ac77bd4e66867bbf30",
+          "frames": 1
+        },
+        "thumbnail": {
+          "reviewLocalPath": "/private/tmp/winds-oct25-media/derivatives/zhui-bu-shang-e-1-thumb.webp",
+          "canonicalPath": "/media/zhui-bu-shang-e-1-thumb.webp",
+          "width": 600,
+          "height": 710,
+          "bytes": 37250,
+          "sha256": "ee9873fd0ffcdd2ff39e560d7756aae80370995348b5e37084c7039812a7d5a8",
+          "frames": 1
+        },
+        "preview": {
+          "reviewLocalPath": "/private/tmp/winds-oct25-media/derivatives/zhui-bu-shang-e-1-preview.webp",
+          "canonicalPath": "/media/zhui-bu-shang-e-1-preview.webp",
+          "width": 158,
+          "height": 160,
+          "bytes": 4566,
+          "sha256": "8bc0503021adfb5a051c2311869cf5fd3b3d6ff8b6f5a45934f5f712212870cf",
+          "frames": 1
+        }
+      }
+    },
+    {
+      "candidateCosmeticId": "yun-tou-zhuan-miao",
+      "identityStatus": "CN mapping supplied by separate identity audit; this media review does not independently claim a CN match",
+      "officialNames": {
+        "en": "Meow-Go-Round",
+        "ko": "어지러운 냥이"
+      },
+      "sourceImageLinkIndex": 16,
+      "pairedOriginalUrls": {
+        "en": "https://r.res.easebar.com/pic/20261020/7b61727d-a3bc-4b56-bfe3-0fad91a5270b.jpg",
+        "ko": "https://r.res.easebar.com/pic/20261020/432b46c0-a9a8-4095-9d4b-f6948374bc4b.jpg"
+      },
+      "namedPanelBoundsInOriginal": [
+        100,
+        834,
+        910,
+        1289
+      ],
+      "presentationCropInOriginal": [
+        400,
+        843,
+        790,
+        1288
+      ],
+      "thumbnailFit": "cover",
+      "rationale": {
+        "en": "Individually named bottom poster panel; focus crop excludes poster frame and other item. Character identity is not inferred.",
+        "ko": "하단 포스터의 개별 명칭 영역입니다. 다른 외관과 포스터 테두리를 제외하여 잘랐으며 캐릭터 정체성은 추정하지 않습니다."
+      },
+      "suggestedResearchImage": {
+        "url": "https://r.res.easebar.com/pic/20261020/7b61727d-a3bc-4b56-bfe3-0fad91a5270b.jpg",
+        "width": 1080,
+        "height": 1350,
+        "sourceId": "global-20261021-october25-appearance-en",
+        "server": "Global",
+        "alt": {
+          "en": "Meow-Go-Round · official Global appearance reference",
+          "ko": "어지러운 냥이 · 글로벌 공식 외관 참고 이미지"
+        },
+        "caption": {
+          "en": "Official Global Meow-Go-Round reference artwork.",
+          "ko": "글로벌 공식 어지러운 냥이 참고 이미지."
+        }
+      },
+      "suggestedMediaRecord": {
+        "cosmeticId": "yun-tou-zhuan-miao",
+        "index": 1,
+        "originalUrl": "https://r.res.easebar.com/pic/20261020/7b61727d-a3bc-4b56-bfe3-0fad91a5270b.jpg",
+        "sourceId": "global-20261021-october25-appearance-en",
+        "server": "Global",
+        "thumbnail": "/media/yun-tou-zhuan-miao-1-thumb.webp",
+        "full": "/media/yun-tou-zhuan-miao-1-full.webp",
+        "preview": "/media/yun-tou-zhuan-miao-1-preview.webp",
+        "display": "/media/yun-tou-zhuan-miao-1-display.webp",
+        "displayWidth": 390,
+        "displayHeight": 445,
+        "presentationSubject": "item",
+        "presentationCrop": [
+          400,
+          843,
+          790,
+          1288
+        ],
+        "thumbnailBytes": 43110,
+        "fullBytes": 184904,
+        "previewBytes": 4622,
+        "displayBytes": 33624,
+        "permission": "unknown",
+        "audience": "reference artwork; excluded from the code license"
+      },
+      "assets": {
+        "full": {
+          "reviewLocalPath": "/private/tmp/winds-oct25-media/derivatives/yun-tou-zhuan-miao-1-full.webp",
+          "canonicalPath": "/media/yun-tou-zhuan-miao-1-full.webp",
+          "width": 1080,
+          "height": 1350,
+          "bytes": 184904,
+          "sha256": "681dd58d9372622f8247270deba9db8298e661871125c71be0da66d0a130cbb2",
+          "frames": 1
+        },
+        "display": {
+          "reviewLocalPath": "/private/tmp/winds-oct25-media/derivatives/yun-tou-zhuan-miao-1-display.webp",
+          "canonicalPath": "/media/yun-tou-zhuan-miao-1-display.webp",
+          "width": 390,
+          "height": 445,
+          "bytes": 33624,
+          "sha256": "367ba02bd0aaaf9ca7564133f84c90a1fb0a857c2875b4289646f79c04cf0c85",
+          "frames": 1
+        },
+        "thumbnail": {
+          "reviewLocalPath": "/private/tmp/winds-oct25-media/derivatives/yun-tou-zhuan-miao-1-thumb.webp",
+          "canonicalPath": "/media/yun-tou-zhuan-miao-1-thumb.webp",
+          "width": 600,
+          "height": 710,
+          "bytes": 43110,
+          "sha256": "75ad43d4ad58992c4208586837635eeaf803b9bee214491c42c90ec6358250b5",
+          "frames": 1
+        },
+        "preview": {
+          "reviewLocalPath": "/private/tmp/winds-oct25-media/derivatives/yun-tou-zhuan-miao-1-preview.webp",
+          "canonicalPath": "/media/yun-tou-zhuan-miao-1-preview.webp",
+          "width": 140,
+          "height": 160,
+          "bytes": 4622,
+          "sha256": "fe3b5851477bbae9beeebdc5954c382f992622955c592e5238ae6043b7d15b4b",
+          "frames": 1
+        }
+      }
+    },
+    {
+      "candidateCosmeticId": "xia-zhe-wu-ming",
+      "identityStatus": "CN mapping supplied by separate identity audit; this media review does not independently claim a CN match",
+      "officialNames": {
+        "en": "Nameless Hero",
+        "ko": "무명의 협객"
+      },
+      "sourceImageLinkIndex": 17,
+      "pairedOriginalUrls": {
+        "en": "https://r.res.easebar.com/pic/20261020/63a27bc3-73a8-4015-a767-92dd02c064a8.jpg",
+        "ko": "https://r.res.easebar.com/pic/20261020/09a799bf-8ea8-4a13-92f5-9c21d9053cb6.jpg"
+      },
+      "namedPanelBoundsInOriginal": [
+        168,
+        250,
+        978,
+        706
+      ],
+      "presentationCropInOriginal": [
+        480,
+        285,
+        954,
+        706
+      ],
+      "thumbnailFit": "contain",
+      "rationale": {
+        "en": "Individually named top poster panel; crop preserves canopy. A small edge of the original goose decoration overlaps the source upper-right corner and is retained; no source pixels are repainted.",
+        "ko": "상단 포스터의 개별 명칭 영역입니다. 우산 전체를 보존했으며 원본 우측 상단에 겹친 장식 거위 가장자리도 그대로 둡니다. 원본을 덧칠하지 않았습니다."
+      },
+      "suggestedResearchImage": {
+        "url": "https://r.res.easebar.com/pic/20261020/63a27bc3-73a8-4015-a767-92dd02c064a8.jpg",
+        "width": 1080,
+        "height": 1350,
+        "sourceId": "global-20261021-october25-appearance-en",
+        "server": "Global",
+        "alt": {
+          "en": "Nameless Hero · official Global appearance reference",
+          "ko": "무명의 협객 · 글로벌 공식 외관 참고 이미지"
+        },
+        "caption": {
+          "en": "Official Global Nameless Hero reference artwork.",
+          "ko": "글로벌 공식 무명의 협객 참고 이미지."
+        }
+      },
+      "suggestedMediaRecord": {
+        "cosmeticId": "xia-zhe-wu-ming",
+        "index": 1,
+        "originalUrl": "https://r.res.easebar.com/pic/20261020/63a27bc3-73a8-4015-a767-92dd02c064a8.jpg",
+        "sourceId": "global-20261021-october25-appearance-en",
+        "server": "Global",
+        "thumbnail": "/media/xia-zhe-wu-ming-1-thumb.webp",
+        "full": "/media/xia-zhe-wu-ming-1-full.webp",
+        "preview": "/media/xia-zhe-wu-ming-1-preview.webp",
+        "display": "/media/xia-zhe-wu-ming-1-display.webp",
+        "displayWidth": 474,
+        "displayHeight": 421,
+        "presentationSubject": "item",
+        "presentationCrop": [
+          480,
+          285,
+          954,
+          706
+        ],
+        "thumbnailBytes": 49080,
+        "fullBytes": 229584,
+        "previewBytes": 5802,
+        "displayBytes": 50884,
+        "permission": "unknown",
+        "audience": "reference artwork; excluded from the code license"
+      },
+      "assets": {
+        "full": {
+          "reviewLocalPath": "/private/tmp/winds-oct25-media/derivatives/xia-zhe-wu-ming-1-full.webp",
+          "canonicalPath": "/media/xia-zhe-wu-ming-1-full.webp",
+          "width": 1080,
+          "height": 1350,
+          "bytes": 229584,
+          "sha256": "a0d723b2258a2d6367384b94de86815ed954a9661e4db7440e476fe9a81ff241",
+          "frames": 1
+        },
+        "display": {
+          "reviewLocalPath": "/private/tmp/winds-oct25-media/derivatives/xia-zhe-wu-ming-1-display.webp",
+          "canonicalPath": "/media/xia-zhe-wu-ming-1-display.webp",
+          "width": 474,
+          "height": 421,
+          "bytes": 50884,
+          "sha256": "bdb21b22998c1e0fb08f474999f74f038f523c9e20f78e4c22b88898d7cf8d5d",
+          "frames": 1
+        },
+        "thumbnail": {
+          "reviewLocalPath": "/private/tmp/winds-oct25-media/derivatives/xia-zhe-wu-ming-1-thumb.webp",
+          "canonicalPath": "/media/xia-zhe-wu-ming-1-thumb.webp",
+          "width": 600,
+          "height": 710,
+          "bytes": 49080,
+          "sha256": "d8299c786db9bc82d47005837544d64b914be8a3191141af3e00191669169ef4",
+          "frames": 1
+        },
+        "preview": {
+          "reviewLocalPath": "/private/tmp/winds-oct25-media/derivatives/xia-zhe-wu-ming-1-preview.webp",
+          "canonicalPath": "/media/xia-zhe-wu-ming-1-preview.webp",
+          "width": 160,
+          "height": 142,
+          "bytes": 5802,
+          "sha256": "be21c4f56df115645a299d2760f7b3a715725ce1424dd99138cf0125b463bd56",
+          "frames": 1
+        }
+      }
+    },
+    {
+      "candidateCosmeticId": "bu-xian-shen-xian",
+      "identityStatus": "CN mapping supplied by separate identity audit; this media review does not independently claim a CN match",
+      "officialNames": {
+        "en": "Blissful Family",
+        "ko": "신선놀음"
+      },
+      "sourceImageLinkIndex": 17,
+      "pairedOriginalUrls": {
+        "en": "https://r.res.easebar.com/pic/20261020/63a27bc3-73a8-4015-a767-92dd02c064a8.jpg",
+        "ko": "https://r.res.easebar.com/pic/20261020/09a799bf-8ea8-4a13-92f5-9c21d9053cb6.jpg"
+      },
+      "namedPanelBoundsInOriginal": [
+        100,
+        834,
+        910,
+        1289
+      ],
+      "presentationCropInOriginal": [
+        368,
+        837,
+        842,
+        1289
+      ],
+      "thumbnailFit": "contain",
+      "rationale": {
+        "en": "Individually named bottom poster panel; contain thumbnail preserves the complete red canopy rather than clipping its defining artwork.",
+        "ko": "하단 포스터의 개별 명칭 영역입니다. 붉은 우산의 전체 무늬가 잘리지 않도록 썸네일 전체 맞춤을 적용했습니다."
+      },
+      "suggestedResearchImage": {
+        "url": "https://r.res.easebar.com/pic/20261020/63a27bc3-73a8-4015-a767-92dd02c064a8.jpg",
+        "width": 1080,
+        "height": 1350,
+        "sourceId": "global-20261021-october25-appearance-en",
+        "server": "Global",
+        "alt": {
+          "en": "Blissful Family · official Global appearance reference",
+          "ko": "신선놀음 · 글로벌 공식 외관 참고 이미지"
+        },
+        "caption": {
+          "en": "Official Global Blissful Family reference artwork.",
+          "ko": "글로벌 공식 신선놀음 참고 이미지."
+        }
+      },
+      "suggestedMediaRecord": {
+        "cosmeticId": "bu-xian-shen-xian",
+        "index": 1,
+        "originalUrl": "https://r.res.easebar.com/pic/20261020/63a27bc3-73a8-4015-a767-92dd02c064a8.jpg",
+        "sourceId": "global-20261021-october25-appearance-en",
+        "server": "Global",
+        "thumbnail": "/media/bu-xian-shen-xian-1-thumb.webp",
+        "full": "/media/bu-xian-shen-xian-1-full.webp",
+        "preview": "/media/bu-xian-shen-xian-1-preview.webp",
+        "display": "/media/bu-xian-shen-xian-1-display.webp",
+        "displayWidth": 474,
+        "displayHeight": 452,
+        "presentationSubject": "item",
+        "presentationCrop": [
+          368,
+          837,
+          842,
+          1289
+        ],
+        "thumbnailBytes": 45130,
+        "fullBytes": 229584,
+        "previewBytes": 5648,
+        "displayBytes": 45090,
+        "permission": "unknown",
+        "audience": "reference artwork; excluded from the code license"
+      },
+      "assets": {
+        "full": {
+          "reviewLocalPath": "/private/tmp/winds-oct25-media/derivatives/bu-xian-shen-xian-1-full.webp",
+          "canonicalPath": "/media/bu-xian-shen-xian-1-full.webp",
+          "width": 1080,
+          "height": 1350,
+          "bytes": 229584,
+          "sha256": "a0d723b2258a2d6367384b94de86815ed954a9661e4db7440e476fe9a81ff241",
+          "frames": 1
+        },
+        "display": {
+          "reviewLocalPath": "/private/tmp/winds-oct25-media/derivatives/bu-xian-shen-xian-1-display.webp",
+          "canonicalPath": "/media/bu-xian-shen-xian-1-display.webp",
+          "width": 474,
+          "height": 452,
+          "bytes": 45090,
+          "sha256": "487abf26b49238d6557e016305b8484cf7a2f9e5016b67cccbc5091434a61731",
+          "frames": 1
+        },
+        "thumbnail": {
+          "reviewLocalPath": "/private/tmp/winds-oct25-media/derivatives/bu-xian-shen-xian-1-thumb.webp",
+          "canonicalPath": "/media/bu-xian-shen-xian-1-thumb.webp",
+          "width": 600,
+          "height": 710,
+          "bytes": 45130,
+          "sha256": "5e2f8c242e8a51ffba6d088803a3255965dc4a192501c62c615bd318e143acec",
+          "frames": 1
+        },
+        "preview": {
+          "reviewLocalPath": "/private/tmp/winds-oct25-media/derivatives/bu-xian-shen-xian-1-preview.webp",
+          "canonicalPath": "/media/bu-xian-shen-xian-1-preview.webp",
+          "width": 160,
+          "height": 153,
+          "bytes": 5648,
+          "sha256": "05a70644dde4d0609c9718576929d889273ae73648778708b3838ae7977f59e1",
+          "frames": 1
+        }
+      }
+    },
+    {
+      "candidateCosmeticId": "yu-shan-san-e",
+      "identityStatus": "CN mapping supplied by separate identity audit; this media review does not independently claim a CN match",
+      "officialNames": {
+        "en": "The Three Honketeers",
+        "ko": "옥산의 세 거위"
+      },
+      "sourceImageLinkIndex": 18,
+      "pairedOriginalUrls": {
+        "en": "https://r.res.easebar.com/pic/20261020/68421a58-fd72-4ec2-a7b6-6f853bfbc908.jpg",
+        "ko": "https://r.res.easebar.com/pic/20261020/476953b8-af78-4640-9fc7-a754997f6f7f.jpg"
+      },
+      "namedPanelBoundsInOriginal": [
+        168,
+        250,
+        978,
+        706
+      ],
+      "presentationCropInOriginal": [
+        450,
+        260,
+        977,
+        706
+      ],
+      "thumbnailFit": "contain",
+      "rationale": {
+        "en": "Individually named top poster panel; crop preserves canopy. A small edge of original goose decoration overlaps the source upper-right corner and is retained; no source pixels are repainted.",
+        "ko": "상단 포스터의 개별 명칭 영역입니다. 우산 전체를 보존했으며 원본 우측 상단에 겹친 장식 거위 가장자리도 그대로 둡니다. 원본을 덧칠하지 않았습니다."
+      },
+      "suggestedResearchImage": {
+        "url": "https://r.res.easebar.com/pic/20261020/68421a58-fd72-4ec2-a7b6-6f853bfbc908.jpg",
+        "width": 1080,
+        "height": 1350,
+        "sourceId": "global-20261021-october25-appearance-en",
+        "server": "Global",
+        "alt": {
+          "en": "The Three Honketeers · official Global appearance reference",
+          "ko": "옥산의 세 거위 · 글로벌 공식 외관 참고 이미지"
+        },
+        "caption": {
+          "en": "Official Global The Three Honketeers reference artwork.",
+          "ko": "글로벌 공식 옥산의 세 거위 참고 이미지."
+        }
+      },
+      "suggestedMediaRecord": {
+        "cosmeticId": "yu-shan-san-e",
+        "index": 1,
+        "originalUrl": "https://r.res.easebar.com/pic/20261020/68421a58-fd72-4ec2-a7b6-6f853bfbc908.jpg",
+        "sourceId": "global-20261021-october25-appearance-en",
+        "server": "Global",
+        "thumbnail": "/media/yu-shan-san-e-1-thumb.webp",
+        "full": "/media/yu-shan-san-e-1-full.webp",
+        "preview": "/media/yu-shan-san-e-1-preview.webp",
+        "display": "/media/yu-shan-san-e-1-display.webp",
+        "displayWidth": 527,
+        "displayHeight": 446,
+        "presentationSubject": "item",
+        "presentationCrop": [
+          450,
+          260,
+          977,
+          706
+        ],
+        "thumbnailBytes": 46484,
+        "fullBytes": 185968,
+        "previewBytes": 5004,
+        "displayBytes": 51524,
+        "permission": "unknown",
+        "audience": "reference artwork; excluded from the code license"
+      },
+      "assets": {
+        "full": {
+          "reviewLocalPath": "/private/tmp/winds-oct25-media/derivatives/yu-shan-san-e-1-full.webp",
+          "canonicalPath": "/media/yu-shan-san-e-1-full.webp",
+          "width": 1080,
+          "height": 1350,
+          "bytes": 185968,
+          "sha256": "1581ce60f74da75627d25f7aca7f10afe3275013ffe0f3b2997f8974507b928a",
+          "frames": 1
+        },
+        "display": {
+          "reviewLocalPath": "/private/tmp/winds-oct25-media/derivatives/yu-shan-san-e-1-display.webp",
+          "canonicalPath": "/media/yu-shan-san-e-1-display.webp",
+          "width": 527,
+          "height": 446,
+          "bytes": 51524,
+          "sha256": "230e9846110ed84005a621e22d29baf2f094a536e06e5e34b07fd001ff64c05e",
+          "frames": 1
+        },
+        "thumbnail": {
+          "reviewLocalPath": "/private/tmp/winds-oct25-media/derivatives/yu-shan-san-e-1-thumb.webp",
+          "canonicalPath": "/media/yu-shan-san-e-1-thumb.webp",
+          "width": 600,
+          "height": 710,
+          "bytes": 46484,
+          "sha256": "9a70b4fa4fba9cbbbf57ac3f59dec51f1da3a003b3db3c0ef6862fef255a4d3a",
+          "frames": 1
+        },
+        "preview": {
+          "reviewLocalPath": "/private/tmp/winds-oct25-media/derivatives/yu-shan-san-e-1-preview.webp",
+          "canonicalPath": "/media/yu-shan-san-e-1-preview.webp",
+          "width": 160,
+          "height": 135,
+          "bytes": 5004,
+          "sha256": "f49f8d914dbc1f52dd50e208cbc9a6717a9a315a3a3e6417ab2ba91def847931",
+          "frames": 1
+        }
+      }
+    },
+    {
+      "candidateCosmeticId": "e-de-jiang-hu",
+      "identityStatus": "CN mapping supplied by separate identity audit; this media review does not independently claim a CN match",
+      "officialNames": {
+        "en": "The Waddling Way",
+        "ko": "거위의 강호"
+      },
+      "sourceImageLinkIndex": 18,
+      "pairedOriginalUrls": {
+        "en": "https://r.res.easebar.com/pic/20261020/68421a58-fd72-4ec2-a7b6-6f853bfbc908.jpg",
+        "ko": "https://r.res.easebar.com/pic/20261020/476953b8-af78-4640-9fc7-a754997f6f7f.jpg"
+      },
+      "namedPanelBoundsInOriginal": [
+        100,
+        834,
+        910,
+        1289
+      ],
+      "presentationCropInOriginal": [
+        295,
+        840,
+        735,
+        1289
+      ],
+      "thumbnailFit": "contain",
+      "rationale": {
+        "en": "Individually named bottom poster panel; focus crop excludes poster frame and other item; contain thumbnail preserves the complete pale-green canopy.",
+        "ko": "하단 포스터의 개별 명칭 영역입니다. 다른 외관과 테두리를 제외하고 연녹색 우산 전체가 잘리지 않도록 썸네일 전체 맞춤을 적용했습니다."
+      },
+      "suggestedResearchImage": {
+        "url": "https://r.res.easebar.com/pic/20261020/68421a58-fd72-4ec2-a7b6-6f853bfbc908.jpg",
+        "width": 1080,
+        "height": 1350,
+        "sourceId": "global-20261021-october25-appearance-en",
+        "server": "Global",
+        "alt": {
+          "en": "The Waddling Way · official Global appearance reference",
+          "ko": "거위의 강호 · 글로벌 공식 외관 참고 이미지"
+        },
+        "caption": {
+          "en": "Official Global The Waddling Way reference artwork.",
+          "ko": "글로벌 공식 거위의 강호 참고 이미지."
+        }
+      },
+      "suggestedMediaRecord": {
+        "cosmeticId": "e-de-jiang-hu",
+        "index": 1,
+        "originalUrl": "https://r.res.easebar.com/pic/20261020/68421a58-fd72-4ec2-a7b6-6f853bfbc908.jpg",
+        "sourceId": "global-20261021-october25-appearance-en",
+        "server": "Global",
+        "thumbnail": "/media/e-de-jiang-hu-1-thumb.webp",
+        "full": "/media/e-de-jiang-hu-1-full.webp",
+        "preview": "/media/e-de-jiang-hu-1-preview.webp",
+        "display": "/media/e-de-jiang-hu-1-display.webp",
+        "displayWidth": 440,
+        "displayHeight": 449,
+        "presentationSubject": "item",
+        "presentationCrop": [
+          295,
+          840,
+          735,
+          1289
+        ],
+        "thumbnailBytes": 33978,
+        "fullBytes": 185968,
+        "previewBytes": 3906,
+        "displayBytes": 29752,
+        "permission": "unknown",
+        "audience": "reference artwork; excluded from the code license"
+      },
+      "assets": {
+        "full": {
+          "reviewLocalPath": "/private/tmp/winds-oct25-media/derivatives/e-de-jiang-hu-1-full.webp",
+          "canonicalPath": "/media/e-de-jiang-hu-1-full.webp",
+          "width": 1080,
+          "height": 1350,
+          "bytes": 185968,
+          "sha256": "1581ce60f74da75627d25f7aca7f10afe3275013ffe0f3b2997f8974507b928a",
+          "frames": 1
+        },
+        "display": {
+          "reviewLocalPath": "/private/tmp/winds-oct25-media/derivatives/e-de-jiang-hu-1-display.webp",
+          "canonicalPath": "/media/e-de-jiang-hu-1-display.webp",
+          "width": 440,
+          "height": 449,
+          "bytes": 29752,
+          "sha256": "33c4e4167367c10a666b4febffd7220c34ab4120dea09593c45d6a5294236074",
+          "frames": 1
+        },
+        "thumbnail": {
+          "reviewLocalPath": "/private/tmp/winds-oct25-media/derivatives/e-de-jiang-hu-1-thumb.webp",
+          "canonicalPath": "/media/e-de-jiang-hu-1-thumb.webp",
+          "width": 600,
+          "height": 710,
+          "bytes": 33978,
+          "sha256": "2f22c7d79c0d3b0dc9abfc074a809266db5d4383ff336d7360d92a24bde07198",
+          "frames": 1
+        },
+        "preview": {
+          "reviewLocalPath": "/private/tmp/winds-oct25-media/derivatives/e-de-jiang-hu-1-preview.webp",
+          "canonicalPath": "/media/e-de-jiang-hu-1-preview.webp",
+          "width": 157,
+          "height": 160,
+          "bytes": 3906,
+          "sha256": "35e19a70b5cb84a96288b89df512bf88771e1ec55821701fecc564dacd445266",
+          "frames": 1
+        }
+      }
+    },
+    {
+      "candidateCosmeticId": "qing-xiao-lue-ying",
+      "identityStatus": "CN mapping supplied by separate identity audit; this media review does not independently claim a CN match",
+      "officialNames": {
+        "en": "Ethereal Trace",
+        "ko": "창공의 그림자"
+      },
+      "sourceImageLinkIndex": 20,
+      "pairedOriginalUrls": {
+        "en": "https://r.res.easebar.com/pic/20261020/4a703d9c-8e35-4f7a-88af-c6113fe522bc.png",
+        "ko": "https://r.res.easebar.com/pic/20261020/9354718d-9416-4b0e-a5df-8be1a4e4505f.png"
+      },
+      "presentationCropInOriginal": [
+        25,
+        10,
+        605,
+        1080
+      ],
+      "thumbnailCropInOriginal": [
+        25,
+        25,
+        605,
+        711
+      ],
+      "thumbnailFit": "cover",
+      "rationale": {
+        "en": "Official female front view is selected before the male view. Crop retains complete visible front silhouette; complete front/back composite remains accessible.",
+        "ko": "공식 여성 정면 사진을 남성 사진보다 먼저 배치합니다. 보이는 전면 실루엣을 보존했으며 전체 앞·뒤 합성 사진도 볼 수 있습니다."
+      },
+      "suggestedResearchImage": {
+        "url": "https://r.res.easebar.com/pic/20261020/4a703d9c-8e35-4f7a-88af-c6113fe522bc.png",
+        "width": 1210,
+        "height": 1080,
+        "sourceId": "global-20261021-october25-appearance-en",
+        "server": "Global",
+        "alt": {
+          "en": "Ethereal Trace · official Global appearance reference",
+          "ko": "창공의 그림자 · 글로벌 공식 외관 참고 이미지"
+        },
+        "caption": {
+          "en": "Official Global Ethereal Trace reference artwork.",
+          "ko": "글로벌 공식 창공의 그림자 참고 이미지."
+        }
+      },
+      "suggestedMediaRecord": {
+        "cosmeticId": "qing-xiao-lue-ying",
+        "index": 6,
+        "originalUrl": "https://r.res.easebar.com/pic/20261020/4a703d9c-8e35-4f7a-88af-c6113fe522bc.png",
+        "sourceId": "global-20261021-october25-appearance-en",
+        "server": "Global",
+        "thumbnail": "/media/qing-xiao-lue-ying-6-thumb.webp",
+        "full": "/media/qing-xiao-lue-ying-6-full.webp",
+        "preview": "/media/qing-xiao-lue-ying-6-preview.webp",
+        "display": "/media/qing-xiao-lue-ying-6-display.webp",
+        "displayWidth": 580,
+        "displayHeight": 1070,
+        "presentationSubject": "female",
+        "presentationCrop": [
+          25,
+          10,
+          605,
+          1080
+        ],
+        "thumbnailBytes": 50940,
+        "fullBytes": 154728,
+        "previewBytes": 2484,
+        "displayBytes": 97704,
+        "permission": "unknown",
+        "audience": "reference artwork; excluded from the code license"
+      },
+      "assets": {
+        "full": {
+          "reviewLocalPath": "/private/tmp/winds-oct25-media/derivatives/qing-xiao-lue-ying-6-full.webp",
+          "canonicalPath": "/media/qing-xiao-lue-ying-6-full.webp",
+          "width": 1210,
+          "height": 1080,
+          "bytes": 154728,
+          "sha256": "75a6d2cdc566e9e4bdefa6c5429eaec3f986c57c5f756cee131c502bb272314e",
+          "frames": 1
+        },
+        "display": {
+          "reviewLocalPath": "/private/tmp/winds-oct25-media/derivatives/qing-xiao-lue-ying-6-display.webp",
+          "canonicalPath": "/media/qing-xiao-lue-ying-6-display.webp",
+          "width": 580,
+          "height": 1070,
+          "bytes": 97704,
+          "sha256": "04116bdaee465398f6dd9c7959ac37e04bb9e8b22f52ddc18e92025ce108c064",
+          "frames": 1
+        },
+        "thumbnail": {
+          "reviewLocalPath": "/private/tmp/winds-oct25-media/derivatives/qing-xiao-lue-ying-6-thumb.webp",
+          "canonicalPath": "/media/qing-xiao-lue-ying-6-thumb.webp",
+          "width": 600,
+          "height": 710,
+          "bytes": 50940,
+          "sha256": "9661a40e187bba1bb1b450dd4da476be61f9f624d8a6a84aa67a77f121498eb0",
+          "frames": 1
+        },
+        "preview": {
+          "reviewLocalPath": "/private/tmp/winds-oct25-media/derivatives/qing-xiao-lue-ying-6-preview.webp",
+          "canonicalPath": "/media/qing-xiao-lue-ying-6-preview.webp",
+          "width": 87,
+          "height": 160,
+          "bytes": 2484,
+          "sha256": "1ca727f1a2dd5a1db079ca24e86c029a15ee4ae9e625988082a00eb03b752c66",
+          "frames": 1
+        }
+      }
+    },
+    {
+      "candidateCosmeticId": "qing-xiao-lue-ying",
+      "identityStatus": "CN mapping supplied by separate identity audit; this media review does not independently claim a CN match",
+      "officialNames": {
+        "en": "Ethereal Trace",
+        "ko": "창공의 그림자"
+      },
+      "sourceImageLinkIndex": 19,
+      "pairedOriginalUrls": {
+        "en": "https://r.res.easebar.com/pic/20261020/a0dd1e24-9a8a-4310-bae3-698129f29028.png",
+        "ko": "https://r.res.easebar.com/pic/20261020/a35d3ed4-b841-4bbb-94ae-f0817f18c9af.png"
+      },
+      "presentationCropInOriginal": [
+        35,
+        10,
+        601,
+        1063
+      ],
+      "thumbnailCropInOriginal": [
+        35,
+        15,
+        601,
+        685
+      ],
+      "thumbnailFit": "cover",
+      "rationale": {
+        "en": "Secondary male front view; complete front/back composite remains accessible.",
+        "ko": "보조 남성 정면 사진입니다. 전체 앞·뒤 합성 사진도 볼 수 있습니다."
+      },
+      "suggestedResearchImage": {
+        "url": "https://r.res.easebar.com/pic/20261020/a0dd1e24-9a8a-4310-bae3-698129f29028.png",
+        "width": 1202,
+        "height": 1063,
+        "sourceId": "global-20261021-october25-appearance-en",
+        "server": "Global",
+        "alt": {
+          "en": "Ethereal Trace · official Global appearance reference",
+          "ko": "창공의 그림자 · 글로벌 공식 외관 참고 이미지"
+        },
+        "caption": {
+          "en": "Official Global Ethereal Trace reference artwork.",
+          "ko": "글로벌 공식 창공의 그림자 참고 이미지."
+        }
+      },
+      "suggestedMediaRecord": {
+        "cosmeticId": "qing-xiao-lue-ying",
+        "index": 7,
+        "originalUrl": "https://r.res.easebar.com/pic/20261020/a0dd1e24-9a8a-4310-bae3-698129f29028.png",
+        "sourceId": "global-20261021-october25-appearance-en",
+        "server": "Global",
+        "thumbnail": "/media/qing-xiao-lue-ying-7-thumb.webp",
+        "full": "/media/qing-xiao-lue-ying-7-full.webp",
+        "preview": "/media/qing-xiao-lue-ying-7-preview.webp",
+        "display": "/media/qing-xiao-lue-ying-7-display.webp",
+        "displayWidth": 566,
+        "displayHeight": 1053,
+        "presentationSubject": "male",
+        "presentationCrop": [
+          35,
+          10,
+          601,
+          1063
+        ],
+        "thumbnailBytes": 52572,
+        "fullBytes": 176298,
+        "previewBytes": 2656,
+        "displayBytes": 107386,
+        "permission": "unknown",
+        "audience": "reference artwork; excluded from the code license"
+      },
+      "assets": {
+        "full": {
+          "reviewLocalPath": "/private/tmp/winds-oct25-media/derivatives/qing-xiao-lue-ying-7-full.webp",
+          "canonicalPath": "/media/qing-xiao-lue-ying-7-full.webp",
+          "width": 1202,
+          "height": 1063,
+          "bytes": 176298,
+          "sha256": "ab526c8d6b6097ea42636348ff91b2d0ab3f11c538f44de7d692f219365f3e9a",
+          "frames": 1
+        },
+        "display": {
+          "reviewLocalPath": "/private/tmp/winds-oct25-media/derivatives/qing-xiao-lue-ying-7-display.webp",
+          "canonicalPath": "/media/qing-xiao-lue-ying-7-display.webp",
+          "width": 566,
+          "height": 1053,
+          "bytes": 107386,
+          "sha256": "73f87122a829ae2ec3ff39a5aa990cf2d4a80d143facc1a245a63037825c8c87",
+          "frames": 1
+        },
+        "thumbnail": {
+          "reviewLocalPath": "/private/tmp/winds-oct25-media/derivatives/qing-xiao-lue-ying-7-thumb.webp",
+          "canonicalPath": "/media/qing-xiao-lue-ying-7-thumb.webp",
+          "width": 600,
+          "height": 710,
+          "bytes": 52572,
+          "sha256": "d905907135a55e44058d4247f2fd21b77df7ff47ef2ecbb2c88f4bd9db2296df",
+          "frames": 1
+        },
+        "preview": {
+          "reviewLocalPath": "/private/tmp/winds-oct25-media/derivatives/qing-xiao-lue-ying-7-preview.webp",
+          "canonicalPath": "/media/qing-xiao-lue-ying-7-preview.webp",
+          "width": 86,
+          "height": 160,
+          "bytes": 2656,
+          "sha256": "093fab16b65bc7e205fbacdc662e48df23253610a060b14e501debf62693d6f3",
+          "frames": 1
+        }
+      }
+    },
+    {
+      "candidateCosmeticId": "chi-long-chengtian",
+      "identityStatus": "CN mapping supplied by separate identity audit; this media review does not independently claim a CN match",
+      "officialNames": {
+        "en": "Dawnflare Dragon",
+        "ko": "불꽃 날개의 비상"
+      },
+      "sourceImageLinkIndex": 22,
+      "pairedOriginalUrls": {
+        "en": "https://r.res.easebar.com/pic/20261020/3ea2d2f8-97c3-4966-8d12-604377ca4364.png",
+        "ko": "https://r.res.easebar.com/pic/20261020/02c0a751-4ec9-4d5a-810d-bc35327a05da.png"
+      },
+      "presentationCropInOriginal": [
+        620,
+        90,
+        1790,
+        1080
+      ],
+      "thumbnailFit": "contain",
+      "rationale": {
+        "en": "No verified female gauntlet view is present in these source images. Deliberate crop preserves both gauntlets on the main wearer and removes inset circles; complete artwork remains accessible.",
+        "ko": "해당 공식 이미지에는 확인된 여성 권갑 사진이 없습니다. 착용자의 양쪽 권갑을 보존하고 원형 확대 영역은 제외하여 잘랐으며 전체 사진도 볼 수 있습니다."
+      },
+      "suggestedResearchImage": {
+        "url": "https://r.res.easebar.com/pic/20261020/3ea2d2f8-97c3-4966-8d12-604377ca4364.png",
+        "width": 1920,
+        "height": 1080,
+        "sourceId": "global-20261021-october25-appearance-en",
+        "server": "Global",
+        "alt": {
+          "en": "Dawnflare Dragon · official Global appearance reference",
+          "ko": "불꽃 날개의 비상 · 글로벌 공식 외관 참고 이미지"
+        },
+        "caption": {
+          "en": "Official Global Dawnflare Dragon reference artwork.",
+          "ko": "글로벌 공식 불꽃 날개의 비상 참고 이미지."
+        }
+      },
+      "suggestedMediaRecord": {
+        "cosmeticId": "chi-long-chengtian",
+        "index": 1,
+        "originalUrl": "https://r.res.easebar.com/pic/20261020/3ea2d2f8-97c3-4966-8d12-604377ca4364.png",
+        "sourceId": "global-20261021-october25-appearance-en",
+        "server": "Global",
+        "thumbnail": "/media/chi-long-chengtian-1-thumb.webp",
+        "full": "/media/chi-long-chengtian-1-full.webp",
+        "preview": "/media/chi-long-chengtian-1-preview.webp",
+        "display": "/media/chi-long-chengtian-1-display.webp",
+        "displayWidth": 1170,
+        "displayHeight": 990,
+        "presentationSubject": "male",
+        "presentationCrop": [
+          620,
+          90,
+          1790,
+          1080
+        ],
+        "thumbnailBytes": 49758,
+        "fullBytes": 239452,
+        "previewBytes": 4610,
+        "displayBytes": 194498,
+        "permission": "unknown",
+        "audience": "reference artwork; excluded from the code license"
+      },
+      "assets": {
+        "full": {
+          "reviewLocalPath": "/private/tmp/winds-oct25-media/derivatives/chi-long-chengtian-1-full.webp",
+          "canonicalPath": "/media/chi-long-chengtian-1-full.webp",
+          "width": 1920,
+          "height": 1080,
+          "bytes": 239452,
+          "sha256": "b78106d7e667a416a77995641e6ba9842c89ff4aacffeb26f10b623a0847d305",
+          "frames": 1
+        },
+        "display": {
+          "reviewLocalPath": "/private/tmp/winds-oct25-media/derivatives/chi-long-chengtian-1-display.webp",
+          "canonicalPath": "/media/chi-long-chengtian-1-display.webp",
+          "width": 1170,
+          "height": 990,
+          "bytes": 194498,
+          "sha256": "9e7297a714beafa768de6540176088c19fe3c0eb59b092c599bc1966da658e30",
+          "frames": 1
+        },
+        "thumbnail": {
+          "reviewLocalPath": "/private/tmp/winds-oct25-media/derivatives/chi-long-chengtian-1-thumb.webp",
+          "canonicalPath": "/media/chi-long-chengtian-1-thumb.webp",
+          "width": 600,
+          "height": 710,
+          "bytes": 49758,
+          "sha256": "9dad2d0ecac9d065c3f4fe7f1c19126e0ca874982f0f691d3971e4ebd6d4a940",
+          "frames": 1
+        },
+        "preview": {
+          "reviewLocalPath": "/private/tmp/winds-oct25-media/derivatives/chi-long-chengtian-1-preview.webp",
+          "canonicalPath": "/media/chi-long-chengtian-1-preview.webp",
+          "width": 160,
+          "height": 135,
+          "bytes": 4610,
+          "sha256": "450d1d4d76e1e0bee078647982082930d0b32c60ba0e65ed875345d89fb81905",
+          "frames": 1
+        }
+      }
+    },
+    {
+      "candidateCosmeticId": "chi-long-chengtian",
+      "identityStatus": "CN mapping supplied by separate identity audit; this media review does not independently claim a CN match",
+      "officialNames": {
+        "en": "Dawnflare Dragon",
+        "ko": "불꽃 날개의 비상"
+      },
+      "sourceImageLinkIndex": 21,
+      "pairedOriginalUrls": {
+        "en": "https://r.res.easebar.com/pic/20261020/348a84cb-a12f-4066-a6e2-1fcff9bec969.png",
+        "ko": "https://r.res.easebar.com/pic/20261020/fc5a5e28-4848-41f1-aabd-ea2fdb6544ff.png"
+      },
+      "presentationCropInOriginal": [
+        510,
+        25,
+        1760,
+        1080
+      ],
+      "thumbnailFit": "contain",
+      "rationale": {
+        "en": "Secondary bird-effect view preserves the full visible bird and main wearer while excluding inset circles; complete artwork remains accessible.",
+        "ko": "보조 조류 이펙트 사진입니다. 보이는 새와 주요 착용자를 보존하고 원형 확대 영역은 제외하여 잘랐으며 전체 사진도 볼 수 있습니다."
+      },
+      "suggestedResearchImage": {
+        "url": "https://r.res.easebar.com/pic/20261020/348a84cb-a12f-4066-a6e2-1fcff9bec969.png",
+        "width": 1920,
+        "height": 1080,
+        "sourceId": "global-20261021-october25-appearance-en",
+        "server": "Global",
+        "alt": {
+          "en": "Dawnflare Dragon · official Global appearance reference",
+          "ko": "불꽃 날개의 비상 · 글로벌 공식 외관 참고 이미지"
+        },
+        "caption": {
+          "en": "Official Global Dawnflare Dragon reference artwork.",
+          "ko": "글로벌 공식 불꽃 날개의 비상 참고 이미지."
+        }
+      },
+      "suggestedMediaRecord": {
+        "cosmeticId": "chi-long-chengtian",
+        "index": 2,
+        "originalUrl": "https://r.res.easebar.com/pic/20261020/348a84cb-a12f-4066-a6e2-1fcff9bec969.png",
+        "sourceId": "global-20261021-october25-appearance-en",
+        "server": "Global",
+        "thumbnail": "/media/chi-long-chengtian-2-thumb.webp",
+        "full": "/media/chi-long-chengtian-2-full.webp",
+        "preview": "/media/chi-long-chengtian-2-preview.webp",
+        "display": "/media/chi-long-chengtian-2-display.webp",
+        "displayWidth": 1250,
+        "displayHeight": 1055,
+        "presentationSubject": "male",
+        "presentationCrop": [
+          510,
+          25,
+          1760,
+          1080
+        ],
+        "thumbnailBytes": 33238,
+        "fullBytes": 193090,
+        "previewBytes": 3562,
+        "displayBytes": 144362,
+        "permission": "unknown",
+        "audience": "reference artwork; excluded from the code license"
+      },
+      "assets": {
+        "full": {
+          "reviewLocalPath": "/private/tmp/winds-oct25-media/derivatives/chi-long-chengtian-2-full.webp",
+          "canonicalPath": "/media/chi-long-chengtian-2-full.webp",
+          "width": 1920,
+          "height": 1080,
+          "bytes": 193090,
+          "sha256": "325e4959ddb563017d8153ebf725f005e973b61f377d8b828a391ae07182079c",
+          "frames": 1
+        },
+        "display": {
+          "reviewLocalPath": "/private/tmp/winds-oct25-media/derivatives/chi-long-chengtian-2-display.webp",
+          "canonicalPath": "/media/chi-long-chengtian-2-display.webp",
+          "width": 1250,
+          "height": 1055,
+          "bytes": 144362,
+          "sha256": "f0c2e559311516af737f1be37e70dcc151da1d8bc3e5e8d37239fb894204893d",
+          "frames": 1
+        },
+        "thumbnail": {
+          "reviewLocalPath": "/private/tmp/winds-oct25-media/derivatives/chi-long-chengtian-2-thumb.webp",
+          "canonicalPath": "/media/chi-long-chengtian-2-thumb.webp",
+          "width": 600,
+          "height": 710,
+          "bytes": 33238,
+          "sha256": "bad610c6e073e9ac8e89d1bdfb1fa6104ae2cfe911b266f8149b1de4b475106d",
+          "frames": 1
+        },
+        "preview": {
+          "reviewLocalPath": "/private/tmp/winds-oct25-media/derivatives/chi-long-chengtian-2-preview.webp",
+          "canonicalPath": "/media/chi-long-chengtian-2-preview.webp",
+          "width": 160,
+          "height": 135,
+          "bytes": 3562,
+          "sha256": "edaeec59882e7bab67dcb1e53141b3156629002bd61929d80c782a6564adc349",
+          "frames": 1
+        }
+      }
+    }
+  ],
+  "validation": {
+    "derivativeCount": 48,
+    "staticOnly": true,
+    "fullArtworkPreserved": true,
+    "originalGifAnimationAvailableAtSource": true,
+    "localOriginalsCommitted": false,
+    "limitations": {
+      "en": [
+        "GIF motion is represented by a named still frame only. Original full GIF URLs remain in the official source.",
+        "Umbrella names are read from paired EN/KO named poster panels; CN identity is verified in a separate review.",
+        "Two umbrella source panels include a small overlapping decorative goose edge; derivatives do not repaint or fabricate image content."
+      ],
+      "ko": [
+        "GIF 모션은 지정한 대표 프레임의 정지 화면으로만 제공합니다. 원본 전체 GIF 링크는 공식 출처에 보존합니다.",
+        "우산 명칭은 영어·한국어 공식 포스터의 개별 이름 영역을 기준으로 읽었으며 중국 외관과의 일치 여부는 별도로 검증합니다.",
+        "우산 원본 두 영역에는 장식용 거위 가장자리가 일부 겹쳐 있습니다. 파생 파일에서 원본을 덧칠하거나 내용을 만들지 않습니다."
+      ]
+    },
+    "validatedDerivativeCount": 48,
+    "totalDerivativeBytes": 3507062,
+    "budgetsPassed": true,
+    "staticWebpOnly": true,
+    "previewDisplayAspectRatiosPassed": true,
+    "sourceBoundsPassed": true,
+    "visualReview": {
+      "en": "Inspected all nine EN source images, representative GIF frame contact sheets, all 12 derivative thumbnail compositions, and corrected outfit thumbnail crops to preserve faces. Full source images are retained separately from the focused presentation crops.",
+      "ko": "영문 원본 9개, GIF 대표 프레임 모음, 파생 썸네일 구성 12개를 확인하고 세트 썸네일에 얼굴이 보존되도록 자르기를 수정했습니다. 전체 원본 이미지는 집중 표시 영역과 별도로 보존합니다."
+    }
+  }
+}

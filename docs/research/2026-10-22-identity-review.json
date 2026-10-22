@@ -1,0 +1,608 @@
+{
+  "checkedAt": "2026-10-22",
+  "reviewTimezone": "America/New_York",
+  "scope": "Regional identity review for October 25 Global appearances; eight official visual matches and two unresolved candidates. Canonical content implementation is separate.",
+  "method": "Read paired Global EN/KO headings and source bodies. Download public original artwork to a temporary folder, inspect side-by-side contact sheets and selected GIF frames, compare named official CN art. Raw downloads remain outside Git. Hashes describe inspected source files; they are not permission grants.",
+  "sourcePages": [
+    {
+      "url": "https://www.wherewindsmeetgame.com/news/official/1025appearance.html",
+      "htmlSha256": "0a01c6da56a7674ac92558b1861c892e61257e8eae7da1a46fbf1f82079d8f80"
+    },
+    {
+      "url": "https://www.wherewindsmeetgame.com/kr/news/official/1025appearance.html",
+      "htmlSha256": "7abd1e7fb57072dd777f65abbc64261bbecb376627f9f02002f703d8bd08c5b0"
+    },
+    {
+      "url": "https://www.yysls.cn/news/official/20251210/37780_1275890.html",
+      "htmlSha256": "ee460ff3eb890d9c2d39be9fd3c11fa9d1f5642f714bbeb310bcb2bc65b6c0fd"
+    },
+    {
+      "url": "https://www.yysls.cn/news/official/20260313/37780_1291020.html",
+      "htmlSha256": "dcb41a78b228b21d1d5dc405290e43a64a60e4c333c15a572dcb7a6b9ee83daa"
+    },
+    {
+      "url": "https://www.yysls.cn/news/official/20260401/37780_1294224.html",
+      "htmlSha256": "916efe655354ac65698de72fa608f9d28131b93bff8f82245387485945e40bad"
+    },
+    {
+      "url": "https://www.yysls.cn/news/official/20260508/37780_1299480.html",
+      "htmlSha256": "b40fb5b25c26e71a152bbd5fec67fec96b6efc59005bf3664099b6926a56635d"
+    }
+  ],
+  "decisions": [
+    {
+      "candidateCosmeticId": "qing-xiao-lue-ying",
+      "nameOriginal": "青霄掠影",
+      "officialNames": {
+        "en": "Ethereal Trace",
+        "ko": "창공의 그림자"
+      },
+      "decision": "confirmed_regional_identity",
+      "cnSourceUrl": "https://www.yysls.cn/news/official/20260401/37780_1294224.html",
+      "cnImages": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260401/b178b42a-1bc8-4dc4-a188-f41e993b635e.png",
+          "dimensions": [
+            1920,
+            1080
+          ],
+          "bytes": 2507580,
+          "sha256": "fcf1334a764d27d1a6b161909245a656d5fa271a425b2790662d1fc7d9dde8b8",
+          "frameCount": 1
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260401/2797cb19-8c16-4d58-80da-8f150ce51eba.png",
+          "dimensions": [
+            1920,
+            1080
+          ],
+          "bytes": 2745179,
+          "sha256": "de58eeffaeac50a8910ce976de3b128f2b34a3cf350d2bf08b90e32f605fb07b",
+          "frameCount": 1
+        }
+      ],
+      "globalImages": {
+        "en": [
+          {
+            "url": "https://r.res.easebar.com/pic/20261020/a0dd1e24-9a8a-4310-bae3-698129f29028.png",
+            "dimensions": [
+              1202,
+              1063
+            ],
+            "bytes": 1832914,
+            "sha256": "784568c06e9f78e0600ec89a031af41e833dffa21660326703d5fc239a0c93b0",
+            "frameCount": 1
+          },
+          {
+            "url": "https://r.res.easebar.com/pic/20261020/4a703d9c-8e35-4f7a-88af-c6113fe522bc.png",
+            "dimensions": [
+              1210,
+              1080
+            ],
+            "bytes": 1796343,
+            "sha256": "61e93e80f6d96e7f381648083afc0c943cad69afb764da084ee55372acd76083",
+            "frameCount": 1
+          }
+        ],
+        "ko": [
+          {
+            "url": "https://r.res.easebar.com/pic/20261020/a35d3ed4-b841-4bbb-94ae-f0817f18c9af.png",
+            "dimensions": [
+              1202,
+              1063
+            ],
+            "bytes": 1832914,
+            "sha256": "784568c06e9f78e0600ec89a031af41e833dffa21660326703d5fc239a0c93b0",
+            "frameCount": 1
+          },
+          {
+            "url": "https://r.res.easebar.com/pic/20261020/9354718d-9416-4b0e-a5df-8be1a4e4505f.png",
+            "dimensions": [
+              1210,
+              1080
+            ],
+            "bytes": 1796343,
+            "sha256": "61e93e80f6d96e7f381648083afc0c943cad69afb764da084ee55372acd76083",
+            "frameCount": 1
+          }
+        ]
+      },
+      "visualBasis": {
+        "en": "Compared named CN male/female artwork with both Global body-type references. Matching high dark cowl, feather-shaped pale chest ornament, gold floral embroidery, hanging round belt ornaments, layered gold-edged lower panels and white feather ornament across the cape back establish the same outfit. CN photographed gauntlets and falcon are separate weapon effects, not outfit contents.",
+        "ko": "명칭이 명시된 중국 남녀 사진과 글로벌 양 체형 사진을 대조했습니다. 높은 검은 목도리, 옅은 깃털 모양 가슴 장식, 금빛 꽃무늬, 둥근 허리 장식, 금테가 둘린 하의와 망토 등 상부의 흰 깃털 장식이 일치합니다. 중국 사진의 수갑·매는 별도 무기 효과이며 세트 구성품이 아닙니다."
+      }
+    },
+    {
+      "candidateCosmeticId": "chi-long-chengtian",
+      "nameOriginal": "赤龙承天",
+      "officialNames": {
+        "en": "Dawnflare Dragon",
+        "ko": "불꽃 날개의 비상"
+      },
+      "decision": "confirmed_regional_identity",
+      "cnSourceUrl": "https://www.yysls.cn/news/official/20260313/37780_1291020.html",
+      "cnImages": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260313/a48a6a76-1df4-460d-85ef-8ce92d89709b.png",
+          "dimensions": [
+            8192,
+            4608
+          ],
+          "bytes": 28010499,
+          "sha256": "dcf4854dd99c5ce400e2604e52e3301eef5753de4ee51e038e4a3d6e80780e3e",
+          "frameCount": 1
+        }
+      ],
+      "globalImages": {
+        "en": [
+          {
+            "url": "https://r.res.easebar.com/pic/20261020/348a84cb-a12f-4066-a6e2-1fcff9bec969.png",
+            "dimensions": [
+              1920,
+              1080
+            ],
+            "bytes": 2031333,
+            "sha256": "01f73f2018c3dbfec98c60f84b39ea92918e235248e5bae4232caa27539a1469",
+            "frameCount": 1
+          },
+          {
+            "url": "https://r.res.easebar.com/pic/20261020/3ea2d2f8-97c3-4966-8d12-604377ca4364.png",
+            "dimensions": [
+              1920,
+              1080
+            ],
+            "bytes": 2163310,
+            "sha256": "555bb07311e37fdb7559bcaad99b300298187524607cd464b6c2e3c7f68db34a",
+            "frameCount": 1
+          }
+        ],
+        "ko": [
+          {
+            "url": "https://r.res.easebar.com/pic/20261020/fc5a5e28-4848-41f1-aabd-ea2fdb6544ff.png",
+            "dimensions": [
+              1920,
+              1080
+            ],
+            "bytes": 2031333,
+            "sha256": "01f73f2018c3dbfec98c60f84b39ea92918e235248e5bae4232caa27539a1469",
+            "frameCount": 1
+          },
+          {
+            "url": "https://r.res.easebar.com/pic/20261020/02c0a751-4ec9-4d5a-810d-bc35327a05da.png",
+            "dimensions": [
+              1920,
+              1080
+            ],
+            "bytes": 2163310,
+            "sha256": "555bb07311e37fdb7559bcaad99b300298187524607cd464b6c2e3c7f68db34a",
+            "frameCount": 1
+          }
+        ]
+      },
+      "visualBasis": {
+        "en": "The Global second gauntlet composition repeats the named CN pose and artwork. Gold sculpted dragon gauntlets, curling horns, scale plates and the identical two round head/profile detail insets match. The alternate Global panel adds the golden falcon. Outfit/cost facts are not transferred.",
+        "ko": "글로벌 두 번째 수갑 사진은 명칭이 명시된 중국 사진과 같은 자세·구도입니다. 금빛 용 수갑, 굽은 뿔, 비늘 판과 동일한 두 원형 얼굴·측면 상세 사진이 일치하며 다른 글로벌 사진에는 금빛 매가 등장합니다. 의상·가격 조건을 지역 간 이전하지 않습니다."
+      }
+    },
+    {
+      "candidateCosmeticId": "zhui-bu-shang-e",
+      "nameOriginal": "追不上鹅",
+      "officialNames": {
+        "en": "Wild Goose Chase",
+        "ko": "쫓을 수 없는 거위"
+      },
+      "decision": "confirmed_regional_identity",
+      "cnSourceUrl": "https://www.yysls.cn/news/official/20251210/37780_1275890.html",
+      "cnImages": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20251210/2ad8c538-7d92-4717-a1e7-06fb1f2d686f.jpg",
+          "dimensions": [
+            3000,
+            1681
+          ],
+          "bytes": 1860641,
+          "sha256": "66acdcc32295bc039ba65b7b0f25a348ec1505be95a985de702621d7e99418d1",
+          "frameCount": 1
+        }
+      ],
+      "globalImages": {
+        "en": [
+          {
+            "url": "https://r.res.easebar.com/pic/20261020/7b61727d-a3bc-4b56-bfe3-0fad91a5270b.jpg",
+            "dimensions": [
+              1080,
+              1350
+            ],
+            "bytes": 1212037,
+            "sha256": "6f8952d0905083869005eebf897b05a9c4738f2dde2c53522055a6092757f865",
+            "frameCount": 1
+          }
+        ],
+        "ko": [
+          {
+            "url": "https://r.res.easebar.com/pic/20261020/432b46c0-a9a8-4095-9d4b-f6948374bc4b.jpg",
+            "dimensions": [
+              1080,
+              1350
+            ],
+            "bytes": 1210178,
+            "sha256": "3487786ba9b1adeb732b90bb6172c4da10a7e6d7b3387d71826f287bd3f3a5a5",
+            "frameCount": 1
+          }
+        ]
+      },
+      "visualBasis": {
+        "en": "Global EN and KO posters carry explicit individual labels over the exact named CN artwork. Beige canopy with a large running white goose, small black/yellow bird shapes, and the same bridge/chased-child composition.",
+        "ko": "글로벌 영문·한국어 포스터는 명칭이 명시된 중국 원본과 동일한 사진에 개별 이름을 붙입니다. 커다란 흰 거위와 검정·노랑 새 모양이 있는 베이지색 우산이며 다리 위에서 아이가 쫓기는 원본 구도가 동일합니다."
+      }
+    },
+    {
+      "candidateCosmeticId": "yun-tou-zhuan-miao",
+      "nameOriginal": "晕头转喵",
+      "officialNames": {
+        "en": "Meow-Go-Round",
+        "ko": "어지러운 냥이"
+      },
+      "decision": "confirmed_regional_identity",
+      "cnSourceUrl": "https://www.yysls.cn/news/official/20251210/37780_1275890.html",
+      "cnImages": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20251210/5cfdc621-4442-413c-ab8f-0d441c09d8eb.jpg",
+          "dimensions": [
+            3000,
+            1681
+          ],
+          "bytes": 2495941,
+          "sha256": "da1c1b4753d8cb366e34577555f2011e2bef53285e16aee889a8db887618c44d",
+          "frameCount": 1
+        }
+      ],
+      "globalImages": {
+        "en": [
+          {
+            "url": "https://r.res.easebar.com/pic/20261020/7b61727d-a3bc-4b56-bfe3-0fad91a5270b.jpg",
+            "dimensions": [
+              1080,
+              1350
+            ],
+            "bytes": 1212037,
+            "sha256": "6f8952d0905083869005eebf897b05a9c4738f2dde2c53522055a6092757f865",
+            "frameCount": 1
+          }
+        ],
+        "ko": [
+          {
+            "url": "https://r.res.easebar.com/pic/20261020/432b46c0-a9a8-4095-9d4b-f6948374bc4b.jpg",
+            "dimensions": [
+              1080,
+              1350
+            ],
+            "bytes": 1210178,
+            "sha256": "3487786ba9b1adeb732b90bb6172c4da10a7e6d7b3387d71826f287bd3f3a5a5",
+            "frameCount": 1
+          }
+        ]
+      },
+      "visualBasis": {
+        "en": "Global EN and KO posters carry explicit individual labels over the exact named CN artwork. Yellow canopy with curled cats/goose around its center; same dock, kneeling character and cats.",
+        "ko": "글로벌 영문·한국어 포스터는 명칭이 명시된 중국 원본과 동일한 사진에 개별 이름을 붙입니다. 중앙 둘레에 말린 고양이·거위 모양이 있는 노란 우산이며 부두·앉은 캐릭터·고양이 구도가 동일합니다."
+      }
+    },
+    {
+      "candidateCosmeticId": "xia-zhe-wu-ming",
+      "nameOriginal": "侠者无名",
+      "officialNames": {
+        "en": "Nameless Hero",
+        "ko": "무명의 협객"
+      },
+      "decision": "confirmed_regional_identity",
+      "cnSourceUrl": "https://www.yysls.cn/news/official/20251210/37780_1275890.html",
+      "cnImages": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20251210/db339979-f2ac-4f9e-be52-c657c7231cf4.jpg",
+          "dimensions": [
+            3000,
+            1681
+          ],
+          "bytes": 2947848,
+          "sha256": "01226332bf1af9581c39e8fda800fc4e3230b1e86ae13c0d69ac66fc2d9c0dd0",
+          "frameCount": 1
+        }
+      ],
+      "globalImages": {
+        "en": [
+          {
+            "url": "https://r.res.easebar.com/pic/20261020/63a27bc3-73a8-4015-a767-92dd02c064a8.jpg",
+            "dimensions": [
+              1080,
+              1350
+            ],
+            "bytes": 1374401,
+            "sha256": "614e2ac2ed6a9d50a20c1ec5e8f1100e2de61b6d4a866c7226c6a0462d5f18ba",
+            "frameCount": 1
+          }
+        ],
+        "ko": [
+          {
+            "url": "https://r.res.easebar.com/pic/20261020/09a799bf-8ea8-4a13-92f5-9c21d9053cb6.jpg",
+            "dimensions": [
+              1080,
+              1350
+            ],
+            "bytes": 1370641,
+            "sha256": "0016f1d4df165e639d5e44a2edce9ffb1f75b3795ebf75c6751321f136ecf23d",
+            "frameCount": 1
+          }
+        ]
+      },
+      "visualBasis": {
+        "en": "Global EN and KO posters carry explicit individual labels over the exact named CN artwork. Dark teal center, ochre/black segmented rim, three goose figures and identical bamboo-courtyard background.",
+        "ko": "글로벌 영문·한국어 포스터는 명칭이 명시된 중국 원본과 동일한 사진에 개별 이름을 붙입니다. 청록색 중앙과 황토·검정색 분할 테두리, 거위 3마리와 대나무 마당 배경이 동일합니다."
+      }
+    },
+    {
+      "candidateCosmeticId": "bu-xian-shen-xian",
+      "nameOriginal": "不羡神仙",
+      "officialNames": {
+        "en": "Blissful Family",
+        "ko": "신선놀음"
+      },
+      "decision": "confirmed_regional_identity",
+      "cnSourceUrl": "https://www.yysls.cn/news/official/20251210/37780_1275890.html",
+      "cnImages": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20251210/21d70675-28e6-42a7-8666-13dc8f6984b7.jpg",
+          "dimensions": [
+            3000,
+            1681
+          ],
+          "bytes": 2482251,
+          "sha256": "86e833c77fd9e68e2d583a17e0b9bda9e8b77395e97b0f3f761ad52943623951",
+          "frameCount": 1
+        }
+      ],
+      "globalImages": {
+        "en": [
+          {
+            "url": "https://r.res.easebar.com/pic/20261020/63a27bc3-73a8-4015-a767-92dd02c064a8.jpg",
+            "dimensions": [
+              1080,
+              1350
+            ],
+            "bytes": 1374401,
+            "sha256": "614e2ac2ed6a9d50a20c1ec5e8f1100e2de61b6d4a866c7226c6a0462d5f18ba",
+            "frameCount": 1
+          }
+        ],
+        "ko": [
+          {
+            "url": "https://r.res.easebar.com/pic/20261020/09a799bf-8ea8-4a13-92f5-9c21d9053cb6.jpg",
+            "dimensions": [
+              1080,
+              1350
+            ],
+            "bytes": 1370641,
+            "sha256": "0016f1d4df165e639d5e44a2edce9ffb1f75b3795ebf75c6751321f136ecf23d",
+            "frameCount": 1
+          }
+        ]
+      },
+      "visualBasis": {
+        "en": "Global EN and KO posters carry explicit individual labels over the exact named CN artwork. Orange canopy with three geese, central goose in a red robe, confetti marks and identical lake/railing scene.",
+        "ko": "글로벌 영문·한국어 포스터는 명칭이 명시된 중국 원본과 동일한 사진에 개별 이름을 붙입니다. 주황색 우산의 거위 3마리, 가운데 붉은 옷의 거위, 색종이 모양과 호수·난간 구도가 동일합니다."
+      }
+    },
+    {
+      "candidateCosmeticId": "yu-shan-san-e",
+      "nameOriginal": "玉山三鹅",
+      "officialNames": {
+        "en": "The Three Honketeers",
+        "ko": "옥산의 세 거위"
+      },
+      "decision": "confirmed_regional_identity",
+      "cnSourceUrl": "https://www.yysls.cn/news/official/20251210/37780_1275890.html",
+      "cnImages": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20251210/e77f6d50-c8d5-455b-a4b4-32c398fceef7.jpg",
+          "dimensions": [
+            3000,
+            1681
+          ],
+          "bytes": 2683942,
+          "sha256": "6762934a5ff96b7719d6f87afb61a07d90685a663b73a8bfa4a1830d16f5f636",
+          "frameCount": 1
+        }
+      ],
+      "globalImages": {
+        "en": [
+          {
+            "url": "https://r.res.easebar.com/pic/20261020/68421a58-fd72-4ec2-a7b6-6f853bfbc908.jpg",
+            "dimensions": [
+              1080,
+              1350
+            ],
+            "bytes": 1204773,
+            "sha256": "3ac2e2529baa5578a46ca488c82ca97ce56203eb75b3577f4659b607d59046f7",
+            "frameCount": 1
+          }
+        ],
+        "ko": [
+          {
+            "url": "https://r.res.easebar.com/pic/20261020/476953b8-af78-4640-9fc7-a754997f6f7f.jpg",
+            "dimensions": [
+              1080,
+              1350
+            ],
+            "bytes": 1198440,
+            "sha256": "523ded331c7a33bac85b131bcf3eaeaa3a98fa1ec0778791be0e07be53485f4d",
+            "frameCount": 1
+          }
+        ]
+      },
+      "visualBasis": {
+        "en": "Global EN and KO posters carry explicit individual labels over the exact named CN artwork. Green leafy rim, blue center and long-necked white geese; same two observers and blue mountainous lake.",
+        "ko": "글로벌 영문·한국어 포스터는 명칭이 명시된 중국 원본과 동일한 사진에 개별 이름을 붙입니다. 초록 잎 테두리·파란 중앙·긴 목의 흰 거위가 일치하며 지켜보는 두 인물과 푸른 산·호수 구도가 동일합니다."
+      }
+    },
+    {
+      "candidateCosmeticId": "e-de-jiang-hu",
+      "nameOriginal": "鹅的江湖",
+      "officialNames": {
+        "en": "The Waddling Way",
+        "ko": "거위의 강호"
+      },
+      "decision": "confirmed_regional_identity",
+      "cnSourceUrl": "https://www.yysls.cn/news/official/20251210/37780_1275890.html",
+      "cnImages": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20251210/3a6c2a25-5022-4b64-b8d5-bbc09be14c8f.jpg",
+          "dimensions": [
+            3000,
+            1681
+          ],
+          "bytes": 2570433,
+          "sha256": "01b4743f4d192f473b3493fd4808db7897526b1b002fe5945199d061e55cc1af",
+          "frameCount": 1
+        }
+      ],
+      "globalImages": {
+        "en": [
+          {
+            "url": "https://r.res.easebar.com/pic/20261020/68421a58-fd72-4ec2-a7b6-6f853bfbc908.jpg",
+            "dimensions": [
+              1080,
+              1350
+            ],
+            "bytes": 1204773,
+            "sha256": "3ac2e2529baa5578a46ca488c82ca97ce56203eb75b3577f4659b607d59046f7",
+            "frameCount": 1
+          }
+        ],
+        "ko": [
+          {
+            "url": "https://r.res.easebar.com/pic/20261020/476953b8-af78-4640-9fc7-a754997f6f7f.jpg",
+            "dimensions": [
+              1080,
+              1350
+            ],
+            "bytes": 1198440,
+            "sha256": "523ded331c7a33bac85b131bcf3eaeaa3a98fa1ec0778791be0e07be53485f4d",
+            "frameCount": 1
+          }
+        ]
+      },
+      "visualBasis": {
+        "en": "Global EN and KO posters carry explicit individual labels over the exact named CN artwork. Pale green radial canopy carrying many white goose heads with colored beaks; same raised umbrella over misty mountain vista.",
+        "ko": "글로벌 영문·한국어 포스터는 명칭이 명시된 중국 원본과 동일한 사진에 개별 이름을 붙입니다. 다양한 색의 부리가 달린 흰 거위 얼굴이 방사형으로 배치된 연녹색 우산이며 안개 낀 산 위로 들어 올린 구도가 동일합니다."
+      }
+    },
+    {
+      "candidateCosmeticId": "wiki-yi-lu-shun-feng",
+      "nameOriginal": "倚鹿顺风",
+      "officialNames": {
+        "en": "Deer-parture",
+        "ko": "순풍백록"
+      },
+      "decision": "unresolved_keep_separate_global_record",
+      "recommendedGlobalCosmeticId": "global-deer-parture",
+      "globalImages": {
+        "en": [
+          {
+            "url": "https://r.res.easebar.com/pic/20261020/0444ad29-21cb-4834-bff4-5f81505a6a9d.gif",
+            "dimensions": [
+              720,
+              405
+            ],
+            "bytes": 26314621,
+            "sha256": "60ac58759cda5aa5a48903b5c45379fa55fd780643b51dc5ea8772a7f5b7ae56",
+            "frameCount": 317
+          }
+        ],
+        "ko": [
+          {
+            "url": "https://r.res.easebar.com/pic/20261020/ed81470a-2b1b-4641-8d27-e543109c1f3c.gif",
+            "dimensions": [
+              720,
+              405
+            ],
+            "bytes": 26314621,
+            "sha256": "60ac58759cda5aa5a48903b5c45379fa55fd780643b51dc5ea8772a7f5b7ae56",
+            "frameCount": 317
+          }
+        ]
+      },
+      "framesInspected": [
+        0,
+        79,
+        158,
+        237,
+        316
+      ],
+      "globalVisualObservation": "Icy white deer with luminous branching antlers, long pale mane, dark saddle/rider, running over water and an ice/frost landscape.",
+      "candidateEvidence": [
+        {
+          "url": "https://yy16s.huijiwiki.com/wiki/%E5%80%9A%E9%B9%BF%E9%A1%BA%E9%A3%8E",
+          "scope": "Existing community identifier and description. Its cold-cliff/icy-spring/frost description translates closely to the new Global prose; no named official CN image was established."
+        }
+      ],
+      "limit": "Description correspondence and a generic white-deer motif do not establish an official regional visual identity. No wiki or CN acquisition/date/status is transferred."
+    },
+    {
+      "candidateCosmeticId": "lin-yue-long-fei",
+      "nameOriginal": "鳞跃龙扉",
+      "officialNames": {
+        "en": "Transcendence Gate",
+        "ko": "황금빛 도약"
+      },
+      "decision": "unresolved_keep_separate_global_record",
+      "recommendedGlobalCosmeticId": "global-transcendence-gate",
+      "globalImages": {
+        "en": [
+          {
+            "url": "https://r.res.easebar.com/pic/20261020/f1e40a8a-d474-447f-9967-332c3c40507a.gif",
+            "dimensions": [
+              720,
+              324
+            ],
+            "bytes": 16262080,
+            "sha256": "bc6265fc261cf67c28d273e8243b1ab889a72065ea20927dfba0fd08eb33e6e1",
+            "frameCount": 224
+          }
+        ],
+        "ko": [
+          {
+            "url": "https://r.res.easebar.com/pic/20261020/b27f096b-dd29-4639-b4f4-b1615dc6fdda.gif",
+            "dimensions": [
+              720,
+              324
+            ],
+            "bytes": 16262080,
+            "sha256": "bc6265fc261cf67c28d273e8243b1ab889a72065ea20927dfba0fd08eb33e6e1",
+            "frameCount": 224
+          }
+        ]
+      },
+      "framesInspected": [
+        0,
+        56,
+        112,
+        168,
+        223
+      ],
+      "globalVisualObservation": "Blue lightning during the rising kick, a pair of tall gilded red/gold doors, then a luminous gold dragon with small golden fish.",
+      "candidateEvidence": [
+        {
+          "url": "https://www.yysls.cn/news/official/20260508/37780_1299480.html",
+          "scope": "CN article names 凌云踏 skill and 鳞跃龙扉 appearance only; no item image is placed in that section. The preceding GIF is explicitly the rope dart 乘桴归梦, not this effect."
+        }
+      ],
+      "limit": "Matching skill category and dragon-gate allusion are suggestive but do not constitute a named official visual comparison. No CN price/date/status is transferred."
+    }
+  ],
+  "limits": [
+    "No current in-game availability verified. Announcement dates do not prove release.",
+    "Regional identity does not transfer prices, acquisition methods, release dates, deadlines or timezone.",
+    "Eight visual matches use official named artwork; the mount and VFX candidate links remain unresolved.",
+    "Third-party artwork reuse permission remains unknown. No generated or invented artwork."
+  ]
+}
