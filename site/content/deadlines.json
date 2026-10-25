@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "reviewedAt": "2026-10-22",
+  "reviewedAt": "2026-10-25",
   "records": [
     {
       "id": "global-global-wind-s-far-shore-exchange-2026-11-18",
@@ -1270,6 +1270,153 @@
       "note": {
         "en": "End of the Lucky Lantern random-chest sale that supplies this style, explicitly UTC+8 in the EN named notice. KO prints November 9 05:59:59 without a timezone. This is the container sale end; no separate chest-opening or individual reward-payout expiry is stated.",
         "ko": "이 스타일을 지급하는 점등 대길 랜덤 선물상자 판매 종료이며 영문 개별 공지가 UTC+8을 명시합니다. 한국어는 11월 9일 05:59:59로 시간대 미표기입니다. 상자 판매 종료이며 별도 개봉·개별 보상 지급 만료는 미표기입니다."
+      }
+    },
+    {
+      "id": "cn-du-wu-chang-sale-2026-11-23",
+      "cosmeticId": "du-wu-chang",
+      "server": "CN",
+      "kind": "sale",
+      "startDate": "2026-10-23",
+      "end": "2026-11-23T04:59:59",
+      "precision": "second",
+      "timezone": null,
+      "sourceIds": [
+        "cn-20261021-october23-appearances",
+        "cn-20261023-update"
+      ],
+      "verifiedAt": "2026-10-25",
+      "note": {
+        "en": "The October 23 patch poster supplies the exact sale end November 23, 2026 04:59:59; timezone unstated. Official announced route; current in-game availability unverified.",
+        "ko": "10월 23일 패치 이미지에 정확한 판매 종료가 2026년 11월 23일 04:59:59로 명시되며 시간대는 미표기입니다. 공식 예고 획득 경로이며 현재 게임 내 획득 여부는 미확인입니다."
+      }
+    },
+    {
+      "id": "cn-sui-xing-fang-shuo-exchange-2027-01-11",
+      "cosmeticId": "sui-xing-fang-shuo",
+      "server": "CN",
+      "kind": "exchange",
+      "startDate": "2026-10-23",
+      "end": "2027-01-11T04:59:59",
+      "precision": "second",
+      "timezone": null,
+      "sourceIds": [
+        "cn-20261021-october23-appearances",
+        "cn-20261023-update"
+      ],
+      "verifiedAt": "2026-10-25",
+      "note": {
+        "en": "The October 23 patch poster explicitly gives the exchange end as January 11, 2027 04:59:59; timezone unstated. The date is directly printed, not calculated from the 80-day duration. Official announced route; current in-game availability unverified.",
+        "ko": "10월 23일 패치 이미지에 교환 종료가 2027년 1월 11일 04:59:59로 명시되며 시간대는 미표기입니다. 80일을 계산한 날짜가 아닌 직접 명시된 일정입니다. 공식 예고 획득 경로이며 현재 게임 내 획득 여부는 미확인입니다."
+      }
+    },
+    {
+      "id": "cn-shuo-yu-wu-chang-exchange-2027-01-21",
+      "cosmeticId": "shuo-yu-wu-chang",
+      "server": "CN",
+      "kind": "exchange",
+      "startDate": "2026-10-23",
+      "end": "2027-01-21T04:59:59",
+      "precision": "second",
+      "timezone": null,
+      "sourceIds": [
+        "cn-20261021-october23-appearances",
+        "cn-20261023-update"
+      ],
+      "verifiedAt": "2026-10-25",
+      "note": {
+        "en": "The October 23 patch poster explicitly gives the exchange end as January 21, 2027 04:59:59; timezone unstated. The date is directly printed, not calculated from the 90-day duration. Official announced route; current in-game availability unverified.",
+        "ko": "10월 23일 패치 이미지에 교환 종료가 2027년 1월 21일 04:59:59로 명시되며 시간대는 미표기입니다. 90일을 계산한 날짜가 아닌 직접 명시된 일정입니다. 공식 예고 획득 경로이며 현재 게임 내 획득 여부는 미확인입니다."
+      }
+    },
+    {
+      "id": "cn-zhai-xing-yue-event-2026-12-11",
+      "cosmeticId": "zhai-xing-yue",
+      "server": "CN",
+      "kind": "event",
+      "startDate": "2026-10-23",
+      "end": "2026-12-11T04:59:59",
+      "precision": "second",
+      "timezone": null,
+      "sourceIds": [
+        "cn-20261023-update"
+      ],
+      "verifiedAt": "2026-10-25",
+      "note": {
+        "en": "End of the current draw pool supplying this cumulative Harmony Gift route. This is not a separately stated reward-claim expiry. Timezone unstated.",
+        "ko": "이 누적 공명 선물 경로가 속한 현재 뽑기 풀 종료입니다. 별도로 명시된 보상 수령 만료가 아니며 시간대는 미표기입니다."
+      }
+    },
+    {
+      "id": "cn-jin-ye-liu-guang-event-2026-12-11",
+      "cosmeticId": "jin-ye-liu-guang",
+      "server": "CN",
+      "kind": "event",
+      "startDate": "2026-10-23",
+      "end": "2026-12-11T04:59:59",
+      "precision": "second",
+      "timezone": null,
+      "sourceIds": [
+        "cn-20261023-update"
+      ],
+      "verifiedAt": "2026-10-25",
+      "note": {
+        "en": "End of the current draw pool supplying this cumulative Harmony Gift route. This is not a separately stated reward-claim expiry. Timezone unstated.",
+        "ko": "이 누적 공명 선물 경로가 속한 현재 뽑기 풀 종료입니다. 별도로 명시된 보상 수령 만료가 아니며 시간대는 미표기입니다."
+      }
+    },
+    {
+      "id": "cn-mian-yun-qi-niao-exchange-2026-12-11",
+      "cosmeticId": "mian-yun-qi-niao",
+      "server": "CN",
+      "kind": "exchange",
+      "startDate": "2026-10-23",
+      "end": "2026-12-11T04:59:59",
+      "precision": "second",
+      "timezone": null,
+      "sourceIds": [
+        "cn-20261023-update"
+      ],
+      "verifiedAt": "2026-10-25",
+      "note": {
+        "en": "The named limited Tianjing Shop reward is removed with the current Harmony pool at this printed clock. Timezone unstated.",
+        "ko": "명시된 천정 상점 한정 보상은 현재 공명 뽑기 풀과 함께 이 표기 시각에 내려갑니다. 시간대는 미표기입니다."
+      }
+    },
+    {
+      "id": "cn-ning-hui-luo-exchange-2026-12-11",
+      "cosmeticId": "ning-hui-luo",
+      "server": "CN",
+      "kind": "exchange",
+      "startDate": "2026-10-23",
+      "end": "2026-12-11T04:59:59",
+      "precision": "second",
+      "timezone": null,
+      "sourceIds": [
+        "cn-20261023-update"
+      ],
+      "verifiedAt": "2026-10-25",
+      "note": {
+        "en": "The named limited Tianjing Shop reward is removed with the current Harmony pool at this printed clock. Timezone unstated.",
+        "ko": "명시된 천정 상점 한정 보상은 현재 공명 뽑기 풀과 함께 이 표기 시각에 내려갑니다. 시간대는 미표기입니다."
+      }
+    },
+    {
+      "id": "cn-huang-jin-yan-event-2026-11-06",
+      "cosmeticId": "huang-jin-yan",
+      "server": "CN",
+      "kind": "event",
+      "startDate": "2026-10-23",
+      "end": "2026-11-06T04:59:59",
+      "precision": "second",
+      "timezone": null,
+      "sourceIds": [
+        "cn-20261023-update"
+      ],
+      "verifiedAt": "2026-10-25",
+      "note": {
+        "en": "End of the 要发要发黄金眼 event. Its story remains after the event; continued cosmetic acquisition is not established. Timezone unstated.",
+        "ko": "要发要发黄金眼 이벤트 종료입니다. 종료 후 이야기는 남지만 외관을 계속 획득할 수 있는지는 확인되지 않았습니다. 시간대는 미표기입니다."
       }
     }
   ]

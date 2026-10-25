@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "verifiedAt": "2026-10-22",
+  "verifiedAt": "2026-10-25",
   "scope": "Cross-server archive from individually reviewed official announcements; not a certified complete game inventory.",
   "sources": [
     {
@@ -4387,6 +4387,44 @@
       "imageUrls": [
         "https://r.res.easebar.com/pic/20261021/9e2f5339-bc3b-4898-9a91-1bb7fef1d9cc.png"
       ]
+    },
+    {
+      "id": "cn-20261021-october23-appearances",
+      "url": "https://www.yysls.cn/news/official/20261023/37780_1317610.html",
+      "titleOriginal": "10月23日丨人间岁星、黑白无常，全新外观登场！",
+      "publisher": "NetEase / Where Winds Meet official website",
+      "server": "CN",
+      "displayedPublicationDate": "2026-10-21",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "urlPathDate": "2026-10-23",
+      "dateDiscrepancyNote": "Displayed publication date is October 21; URL directory and planned listing are October 23.",
+      "evidenceTier": "A",
+      "verifiedAt": "2026-10-25",
+      "verificationNote": "Named official CN announcement read in full. Selected artwork visually inspected separately. Prospective listing terms do not establish actual release or current availability.",
+      "sourceImageCaveat": {
+        "en": "Official development preview; final in-game appearance may differ.",
+        "ko": "공식 개발 중 미리보기이며 최종 게임 외형과 다를 수 있습니다."
+      }
+    },
+    {
+      "id": "cn-20261023-update",
+      "url": "https://www.yysls.cn/news/update/20261023/40412_1317532.html",
+      "titleOriginal": "10月23日2.9.0版本「长乐夜未央」更新公告",
+      "publisher": "NetEase / Where Winds Meet official website",
+      "server": "CN",
+      "displayedPublicationDate": "2026-10-23",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-10-25",
+      "imageUrls": [
+        "https://nie.res.netease.com/r/pic/20261023/064ef5f9-f309-4d13-b050-8e82adae12b6.jpg",
+        "https://nie.res.netease.com/r/pic/20261023/a2f2c8a2-5699-4358-a04b-861d92ade64a.jpg",
+        "https://nie.res.netease.com/r/pic/20261023/b145f967-5463-4f6d-896a-19af996023dc.jpg",
+        "https://nie.res.netease.com/r/pic/20261023/b5278b36-41c3-46a9-8d0f-1795da463fb7.jpg"
+      ],
+      "verificationNote": "Four native-resolution patch posters visually inspected in bounded readable sections for cosmetic acquisition and schedules. Scheduled maintenance notice; prospective wording does not independently confirm actual release. All unstated timezones remain unknown."
     }
   ],
   "mediaRights": {
@@ -55678,6 +55716,830 @@
         "en": "Official English/Korean names verified in the paired October 21 Global notices for the October 25 listing. Regional acquisition and schedule facts remain separate.",
         "ko": "10월 21일 글로벌 영문·한국어 공식 공지의 10월 25일 출시 예고에서 공식명을 확인했습니다. 서버별 획득 조건·일정을 구분합니다."
       }
+    },
+    {
+      "id": "sui-xing-fang-shuo",
+      "nameOriginal": "岁星方朔",
+      "romanization": "Sui Xing Fang Shuo",
+      "category": "outfit",
+      "sourceId": "cn-20261021-october23-appearances",
+      "acquisitionServer": "CN",
+      "mediaServer": "CN",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": "2026-10-23",
+        "precision": "day",
+        "timezone": null,
+        "contextual": false,
+        "basis": "Explicit planned listing in the named official CN appearance announcement; actual release confirmation pending."
+      },
+      "acquisition": {
+        "kind": "exchange_shop",
+        "pricing": "fixed",
+        "amount": 2,
+        "regularAmount": null,
+        "currencyOriginal": "八音窍",
+        "location": {
+          "en": "Harmony Shop",
+          "ko": "공명 상점",
+          "original": "和鸣商店"
+        },
+        "conditions": {
+          "en": "Exchange for 2 Harmonic Cores in the CN Harmony Shop; also obtainable by chance from Harmony draws, with odds and draw quantities unstated. Announced for 80 days after the October 23, 2026 update; an exact closing clock is not supplied by this article. Supports separate top/bottom and rainbow dyeing. Includes hair, ear, back and waist accessories, a mantle, makeup, a settlement presentation and an animated player avatar. A tailored variant is still being refined; its release date is unknown. The October 23 patch poster explicitly gives the exchange end as January 11, 2027 04:59:59; timezone unstated. The date is directly printed, not calculated from the 80-day duration.",
+          "ko": "중국 공명 상점에서 공명 구슬 2개로 교환하며 공명 뽑기에서도 확률적으로 획득합니다. 확률·회당 수량은 미표기입니다. 2026년 10월 23일 업데이트 후 80일 한정 예고이며 이 개별 공지에는 정확한 종료 시각이 없습니다. 상하의 분리·무지개 염색을 지원하며 머리·귀·등·허리 장식, 걸침 장식·화장·결산 연출·주인공 동적 프로필을 포함합니다. 재단 버전은 개선 중이며 출시일은 미정입니다. 10월 23일 패치 이미지에 교환 종료가 2027년 1월 11일 04:59:59로 명시되며 시간대는 미표기입니다. 80일을 계산한 날짜가 아닌 직접 명시된 일정입니다."
+        },
+        "en": "Official CN announcement terms; consult the purchase and reward conditions.",
+        "ko": "중국 공식 예고의 획득 조건이며 구매·보상 세부 조건을 확인하세요."
+      },
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20261023/00bb7a35-8440-4d85-a7a4-88b842ec4fc5.png",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 2054084,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20261021-october23-appearances",
+          "server": "CN",
+          "reusePermission": "unknown",
+          "localCopy": "/media/sui-xing-fang-shuo-0-full.webp",
+          "inspectionNote": "Named official CN article section and original artwork visually inspected on October 25, 2026 America/New_York. Development preview, not current in-game verification. Full source framing retained in the enlarged gallery; presentation crops are separate derivatives.",
+          "alt": {
+            "en": "岁星方朔: Female front view of the blue-and-gold outfit and star-ring back ornament.",
+            "ko": "岁星方朔: 푸른색·금색 의상과 별 고리 등 장식의 여성 정면 모습입니다."
+          },
+          "caption": {
+            "en": "Female front view of the blue-and-gold outfit and star-ring back ornament. Official CN development preview; final game appearance may differ. Reuse permission unknown.",
+            "ko": "푸른색·금색 의상과 별 고리 등 장식의 여성 정면 모습입니다. 중국 공식 개발 미리보기이며 실제 게임 내 모습과 다를 수 있습니다. 재사용 허가 여부는 확인되지 않았습니다."
+          },
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio"
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20261023/f865c5f1-6700-4a8a-b45e-d0c2bb691503.jpg",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 2365715,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20261021-october23-appearances",
+          "server": "CN",
+          "reusePermission": "unknown",
+          "localCopy": "/media/sui-xing-fang-shuo-1-full.webp",
+          "inspectionNote": "Named official CN article section and original artwork visually inspected on October 25, 2026 America/New_York. Development preview, not current in-game verification. Full source framing retained in the enlarged gallery; presentation crops are separate derivatives.",
+          "alt": {
+            "en": "岁星方朔: Close detail of the star-patterned lower garment and metallic trim.",
+            "ko": "岁星方朔: 별무늬 하의와 금속 장식의 세부 모습입니다."
+          },
+          "caption": {
+            "en": "Close detail of the star-patterned lower garment and metallic trim. Official CN development preview; final game appearance may differ. Reuse permission unknown.",
+            "ko": "별무늬 하의와 금속 장식의 세부 모습입니다. 중국 공식 개발 미리보기이며 실제 게임 내 모습과 다를 수 있습니다. 재사용 허가 여부는 확인되지 않았습니다."
+          },
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio"
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20261023/a1caf1a9-a601-46bf-9c26-d5b52c458e3f.jpg",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 2169693,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20261021-october23-appearances",
+          "server": "CN",
+          "reusePermission": "unknown",
+          "localCopy": "/media/sui-xing-fang-shuo-2-full.webp",
+          "inspectionNote": "Named official CN article section and original artwork visually inspected on October 25, 2026 America/New_York. Development preview, not current in-game verification. Full source framing retained in the enlarged gallery; presentation crops are separate derivatives.",
+          "alt": {
+            "en": "岁星方朔: Rear detail of the large star-ring ornament and red hairstyle shown with the outfit.",
+            "ko": "岁星方朔: 의상과 함께 제시된 커다란 별 고리 장식과 붉은 머리의 뒷모습입니다."
+          },
+          "caption": {
+            "en": "Rear detail of the large star-ring ornament and red hairstyle shown with the outfit. Official CN development preview; final game appearance may differ. Reuse permission unknown.",
+            "ko": "의상과 함께 제시된 커다란 별 고리 장식과 붉은 머리의 뒷모습입니다. 중국 공식 개발 미리보기이며 실제 게임 내 모습과 다를 수 있습니다. 재사용 허가 여부는 확인되지 않았습니다."
+          },
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio"
+        }
+      ],
+      "officialVideos": [],
+      "mediaStatus": "verified",
+      "namingNote": {
+        "en": "Provisional reading of the Chinese identifier. Official Global English/Korean names, identity and schedule are unverified.",
+        "ko": "중국 원명의 임시 독음입니다. 글로벌 영문·한국어 공식명·대응 외관·일정은 미확인입니다."
+      },
+      "searchAliases": [
+        "岁星方朔",
+        "Sui Xing Fang Shuo",
+        "세성방삭"
+      ]
+    },
+    {
+      "id": "du-wu-chang",
+      "nameOriginal": "渡无常",
+      "romanization": "Du Wu Chang",
+      "category": "outfit",
+      "sourceId": "cn-20261021-october23-appearances",
+      "acquisitionServer": "CN",
+      "mediaServer": "CN",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": "2026-10-23",
+        "precision": "day",
+        "timezone": null,
+        "contextual": false,
+        "basis": "Explicit planned listing in the named official CN appearance announcement; actual release confirmation pending."
+      },
+      "acquisition": {
+        "kind": "shop",
+        "pricing": "fixed",
+        "amount": 2580,
+        "regularAmount": null,
+        "currencyOriginal": "长鸣珠",
+        "location": {
+          "en": "Shop",
+          "ko": "상점",
+          "original": "商店"
+        },
+        "conditions": {
+          "en": "CN version-commemorative outfit announced for October 23 through November 23, 2026, for 2,580 Echo Beads. This article states day precision and no timezone. Supports separate top/bottom and dyeing; includes a hat, back, neck and face accessories and a player avatar. The separately listed Shuo Yu Wu Chang hairstyle is not included in this price. The October 23 patch poster supplies the exact sale end November 23, 2026 04:59:59; timezone unstated.",
+          "ko": "중국 버전 기념 의상으로 2026년 10월 23일~11월 23일 한정 판매 예고이며 장명주 2,580개입니다. 이 개별 공지는 날짜 단위이며 시간대가 없습니다. 상하의 분리·염색을 지원하고 모자·등·목·얼굴 장식과 주인공 프로필을 포함합니다. 별도 판매하는 설여무상 헤어 가격은 포함하지 않습니다. 10월 23일 패치 이미지에 정확한 판매 종료가 2026년 11월 23일 04:59:59로 명시되며 시간대는 미표기입니다."
+        },
+        "en": "Official CN announcement terms; consult the purchase and reward conditions.",
+        "ko": "중국 공식 예고의 획득 조건이며 구매·보상 세부 조건을 확인하세요."
+      },
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20261023/58935dde-8771-4a52-9ccd-797300dfff01.jpg",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 1439632,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20261021-october23-appearances",
+          "server": "CN",
+          "reusePermission": "unknown",
+          "localCopy": "/media/du-wu-chang-0-full.webp",
+          "inspectionNote": "Named official CN article section and original artwork visually inspected on October 25, 2026 America/New_York. Development preview, not current in-game verification. Full source framing retained in the enlarged gallery; presentation crops are separate derivatives.",
+          "alt": {
+            "en": "渡无常: Female rear view of the white outfit, showing the long silhouette and ornate fan-shaped back accessory.",
+            "ko": "渡无常: 흰색 의상의 긴 실루엣과 화려한 부채 모양 등 장식을 보여 주는 여성 뒷모습입니다."
+          },
+          "caption": {
+            "en": "Female rear view of the white outfit, showing the long silhouette and ornate fan-shaped back accessory. Official CN development preview; final game appearance may differ. Reuse permission unknown.",
+            "ko": "흰색 의상의 긴 실루엣과 화려한 부채 모양 등 장식을 보여 주는 여성 뒷모습입니다. 중국 공식 개발 미리보기이며 실제 게임 내 모습과 다를 수 있습니다. 재사용 허가 여부는 확인되지 않았습니다."
+          },
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio"
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20261023/80047a55-b929-46f4-b536-e7b611ed7ce8.jpg",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 1293395,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20261021-october23-appearances",
+          "server": "CN",
+          "reusePermission": "unknown",
+          "localCopy": "/media/du-wu-chang-1-full.webp",
+          "inspectionNote": "Named official CN article section and original artwork visually inspected on October 25, 2026 America/New_York. Development preview, not current in-game verification. Full source framing retained in the enlarged gallery; presentation crops are separate derivatives.",
+          "alt": {
+            "en": "渡无常: Female front view of the white outfit, sculpted shoulder details and tall headdress.",
+            "ko": "渡无常: 흰색 의상과 조형적인 어깨 장식, 높은 관모의 여성 정면 모습입니다."
+          },
+          "caption": {
+            "en": "Female front view of the white outfit, sculpted shoulder details and tall headdress. Official CN development preview; final game appearance may differ. Reuse permission unknown.",
+            "ko": "흰색 의상과 조형적인 어깨 장식, 높은 관모의 여성 정면 모습입니다. 중국 공식 개발 미리보기이며 실제 게임 내 모습과 다를 수 있습니다. 재사용 허가 여부는 확인되지 않았습니다."
+          },
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio"
+        }
+      ],
+      "officialVideos": [],
+      "mediaStatus": "verified",
+      "namingNote": {
+        "en": "Provisional reading of the Chinese identifier. Official Global English/Korean names, identity and schedule are unverified.",
+        "ko": "중국 원명의 임시 독음입니다. 글로벌 영문·한국어 공식명·대응 외관·일정은 미확인입니다."
+      },
+      "searchAliases": [
+        "渡无常",
+        "Du Wu Chang",
+        "도무상"
+      ]
+    },
+    {
+      "id": "shuo-yu-wu-chang",
+      "nameOriginal": "说与无常",
+      "romanization": "Shuo Yu Wu Chang",
+      "category": "hair",
+      "sourceId": "cn-20261021-october23-appearances",
+      "acquisitionServer": "CN",
+      "mediaServer": "CN",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": "2026-10-23",
+        "precision": "day",
+        "timezone": null,
+        "contextual": false,
+        "basis": "Explicit planned listing in the named official CN appearance announcement; actual release confirmation pending."
+      },
+      "acquisition": {
+        "kind": "exchange_shop",
+        "pricing": "fixed",
+        "amount": 1,
+        "regularAmount": null,
+        "currencyOriginal": "八音窍",
+        "location": {
+          "en": "Harmony Shop",
+          "ko": "공명 상점",
+          "original": "和鸣商店"
+        },
+        "conditions": {
+          "en": "CN hairstyle exchange for 1 Harmonic Core, announced for 90 days after the October 23, 2026 update. Dyeing and an animated player avatar are included. This article does not state an exact closing clock, timezone, draw odds or a draw acquisition method for this hairstyle. The pictured outfit is acquired separately. The October 23 patch poster explicitly gives the exchange end as January 21, 2027 04:59:59; timezone unstated. The date is directly printed, not calculated from the 90-day duration.",
+          "ko": "중국 공명 상점에서 공명 구슬 1개로 교환하며 2026년 10월 23일 업데이트 후 90일 한정 예고입니다. 염색과 주인공 동적 프로필을 포함합니다. 이 개별 공지에는 정확한 종료 시각·시간대·뽑기 확률·이 헤어의 뽑기 획득 방식이 미표기입니다. 사진 속 의상은 별도 획득입니다. 10월 23일 패치 이미지에 교환 종료가 2027년 1월 21일 04:59:59로 명시되며 시간대는 미표기입니다. 90일을 계산한 날짜가 아닌 직접 명시된 일정입니다."
+        },
+        "en": "Official CN announcement terms; consult the purchase and reward conditions.",
+        "ko": "중국 공식 예고의 획득 조건이며 구매·보상 세부 조건을 확인하세요."
+      },
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20261023/ec4d0e4f-0526-4dd3-8c38-7ae424338849.jpg",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 1372921,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20261021-october23-appearances",
+          "server": "CN",
+          "reusePermission": "unknown",
+          "localCopy": "/media/shuo-yu-wu-chang-0-full.webp",
+          "inspectionNote": "Named official CN article section and original artwork visually inspected on October 25, 2026 America/New_York. Development preview, not current in-game verification. Full source framing retained in the enlarged gallery; presentation crops are separate derivatives.",
+          "alt": {
+            "en": "说与无常: Female front view of the long white hairstyle; the source also shows the outfit headdress.",
+            "ko": "说与无常: 긴 흰 머리의 여성 정면 모습이며 원본에는 의상의 관모도 함께 보입니다."
+          },
+          "caption": {
+            "en": "Female front view of the long white hairstyle; the source also shows the outfit headdress. Official CN development preview; final game appearance may differ. Reuse permission unknown.",
+            "ko": "긴 흰 머리의 여성 정면 모습이며 원본에는 의상의 관모도 함께 보입니다. 중국 공식 개발 미리보기이며 실제 게임 내 모습과 다를 수 있습니다. 재사용 허가 여부는 확인되지 않았습니다."
+          },
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio"
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20261023/66680646-cbae-4941-bce2-f20f5a51166d.jpg",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 1199539,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20261021-october23-appearances",
+          "server": "CN",
+          "reusePermission": "unknown",
+          "localCopy": "/media/shuo-yu-wu-chang-1-full.webp",
+          "inspectionNote": "Named official CN article section and original artwork visually inspected on October 25, 2026 America/New_York. Development preview, not current in-game verification. Full source framing retained in the enlarged gallery; presentation crops are separate derivatives.",
+          "alt": {
+            "en": "说与无常: Female rear view showing the long white hair and red cord details.",
+            "ko": "说与无常: 긴 흰 머리와 붉은 끈의 세부를 보여 주는 여성 뒷모습입니다."
+          },
+          "caption": {
+            "en": "Female rear view showing the long white hair and red cord details. Official CN development preview; final game appearance may differ. Reuse permission unknown.",
+            "ko": "긴 흰 머리와 붉은 끈의 세부를 보여 주는 여성 뒷모습입니다. 중국 공식 개발 미리보기이며 실제 게임 내 모습과 다를 수 있습니다. 재사용 허가 여부는 확인되지 않았습니다."
+          },
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio"
+        }
+      ],
+      "officialVideos": [],
+      "mediaStatus": "verified",
+      "namingNote": {
+        "en": "Provisional reading of the Chinese identifier. Official Global English/Korean names, identity and schedule are unverified.",
+        "ko": "중국 원명의 임시 독음입니다. 글로벌 영문·한국어 공식명·대응 외관·일정은 미확인입니다."
+      },
+      "searchAliases": [
+        "说与无常",
+        "Shuo Yu Wu Chang",
+        "설여무상"
+      ]
+    },
+    {
+      "id": "wu-chen",
+      "nameOriginal": "无尘",
+      "romanization": "Wu Chen",
+      "category": "weapon_skin",
+      "sourceId": "cn-20261021-october23-appearances",
+      "acquisitionServer": "CN",
+      "mediaServer": "CN",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": "2026-10-23",
+        "precision": "day",
+        "timezone": null,
+        "contextual": false,
+        "basis": "Explicit planned listing in the named official CN appearance announcement; actual release confirmation pending."
+      },
+      "acquisition": {
+        "kind": "shop",
+        "pricing": "fixed",
+        "amount": 680,
+        "regularAmount": null,
+        "currencyOriginal": "长鸣珠",
+        "location": {
+          "en": "Shop",
+          "ko": "상점",
+          "original": "商店"
+        },
+        "conditions": {
+          "en": "CN ribbon-drum weapon appearance in the 无声无形 series, announced after the October 23, 2026 update. The displayed 680 Echo Beads is the first series purchase price; the second series purchase costs 540 and the third or later costs 320 each. These are purchase-count conditions, not a time-limited discount or one fixed charge for every owner. Collect any five series skins for a personal namecard and any seven for a chat bubble. No sale end is stated.",
+          "ko": "중국 무성무형 시리즈의 무릉고 무기 외관으로 2026년 10월 23일 업데이트 후 출시 예고입니다. 표시 가격 장명주 680개는 시리즈 첫 구매 기준이며 두 번째 구매는 540개, 세 번째부터는 각 320개입니다. 구매 누적 조건이며 기간 한정 할인이나 모든 이용자에게 적용되는 단일 결제액이 아닙니다. 시리즈 임의 5종 수집 시 개인 명함, 7종 수집 시 채팅 말풍선을 지급합니다. 판매 종료는 미표기입니다."
+        },
+        "en": "Official CN announcement terms; consult the purchase and reward conditions.",
+        "ko": "중국 공식 예고의 획득 조건이며 구매·보상 세부 조건을 확인하세요."
+      },
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20261023/4c0b5d99-5b0a-46ba-a360-722177e7f873.png",
+          "width": 2880,
+          "height": 5120,
+          "bytes": 22006938,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20261021-october23-appearances",
+          "server": "CN",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wu-chen-0-full.webp",
+          "inspectionNote": "Named official CN article section and original artwork visually inspected on October 25, 2026 America/New_York. Development preview, not current in-game verification. Full source framing retained in the enlarged gallery; presentation crops are separate derivatives.",
+          "alt": {
+            "en": "无尘: Close view of the black-and-gold dance-ribbon drum weapon, held by the male model shown in the source.",
+            "ko": "无尘: 공식 원문의 남성 캐릭터가 든 검정·금색 무릉고 무기의 근접 모습입니다."
+          },
+          "caption": {
+            "en": "Close view of the black-and-gold dance-ribbon drum weapon, held by the male model shown in the source. Official CN development preview; final game appearance may differ. Reuse permission unknown.",
+            "ko": "공식 원문의 남성 캐릭터가 든 검정·금색 무릉고 무기의 근접 모습입니다. 중국 공식 개발 미리보기이며 실제 게임 내 모습과 다를 수 있습니다. 재사용 허가 여부는 확인되지 않았습니다."
+          },
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio"
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20261023/5baacc54-aa90-4a53-92fe-de2f78f54ef5.png",
+          "width": 1440,
+          "height": 2560,
+          "bytes": 5598859,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20261021-october23-appearances",
+          "server": "CN",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wu-chen-1-full.webp",
+          "inspectionNote": "Named official CN article section and original artwork visually inspected on October 25, 2026 America/New_York. Development preview, not current in-game verification. Full source framing retained in the enlarged gallery; presentation crops are separate derivatives.",
+          "alt": {
+            "en": "无尘: Rear view of the dance-ribbon drum weapon and its long dark ribbons on the source model.",
+            "ko": "无尘: 공식 캐릭터의 무릉고 무기와 길게 늘어진 어두운 끈을 보여 주는 뒷모습입니다."
+          },
+          "caption": {
+            "en": "Rear view of the dance-ribbon drum weapon and its long dark ribbons on the source model. Official CN development preview; final game appearance may differ. Reuse permission unknown.",
+            "ko": "공식 캐릭터의 무릉고 무기와 길게 늘어진 어두운 끈을 보여 주는 뒷모습입니다. 중국 공식 개발 미리보기이며 실제 게임 내 모습과 다를 수 있습니다. 재사용 허가 여부는 확인되지 않았습니다."
+          },
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio"
+        }
+      ],
+      "officialVideos": [],
+      "mediaStatus": "verified",
+      "namingNote": {
+        "en": "Provisional reading of the Chinese identifier. Official Global English/Korean names, identity and schedule are unverified.",
+        "ko": "중국 원명의 임시 독음입니다. 글로벌 영문·한국어 공식명·대응 외관·일정은 미확인입니다."
+      },
+      "searchAliases": [
+        "无尘",
+        "Wu Chen",
+        "무진"
+      ]
+    },
+    {
+      "id": "zhai-xing-yue",
+      "nameOriginal": "摘星月",
+      "romanization": "Zhai Xing Yue",
+      "category": "accessory",
+      "sourceId": "cn-20261023-update",
+      "acquisitionServer": "CN",
+      "mediaServer": "CN",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": null,
+        "precision": "unknown",
+        "timezone": null,
+        "contextual": true,
+        "basis": "The reward route opens after the October 23 CN update; the individual release/unlock/payout day and actual release confirmation remain unverified."
+      },
+      "acquisition": {
+        "kind": "milestone",
+        "pricing": "unknown",
+        "amount": null,
+        "regularAmount": null,
+        "currencyOriginal": null,
+        "location": {
+          "en": "Harmony Gift · current Harmony pool",
+          "ko": "공명 선물 · 현재 공명 뽑기 풀",
+          "original": "和鸣赠礼"
+        },
+        "conditions": {
+          "en": "A Harmony Gift reward for cumulative participation in the current Harmony draw pool. The exact draw-count threshold and per-draw cost are unstated. The pool runs from after the October 23, 2026 update until December 11, 2026 04:59:59, with no timezone stated. The pool end is not a separately confirmed reward-claim expiry; an individual payout day is unknown.",
+          "ko": "현재 공명 뽑기 풀의 누적 참여로 받는 공명 선물 보상입니다. 정확한 누적 횟수·회당 비용은 미표기입니다. 뽑기 풀은 2026년 10월 23일 업데이트 후부터 12월 11일 04:59:59까지이며 시간대는 미표기입니다. 뽑기 종료와 별개인 보상 수령 만료·개별 지급일은 확인되지 않았습니다."
+        },
+        "en": "Official CN announcement terms; reward and exchange quantities remain unknown.",
+        "ko": "중국 공식 예고 조건이며 보상·교환에 필요한 수량은 미정입니다."
+      },
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20261023/a2f2c8a2-5699-4358-a04b-861d92ade64a.jpg",
+          "width": 1130,
+          "height": 890,
+          "bytes": 14381184,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20261023-update",
+          "server": "CN",
+          "sourceCrop": [
+            150,
+            16620,
+            1280,
+            17510
+          ],
+          "reusePermission": "unknown",
+          "localCopy": "/media/zhai-xing-yue-0-full.webp",
+          "inspectionNote": "Named official CN patch-poster panel and isolated item diagram visually inspected on October 25, 2026 America/New_York. This is an explicitly recorded source-poster extract, not synthesized artwork or current in-game verification. The complete selected named panel is retained in enlargement; the entire patch poster remains at the original URL. No character-worn view is provided for this named item.",
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio",
+          "alt": {
+            "en": "摘星月: Blue moon-and-star earring diagram, with the complete chain and dangling bead.",
+            "ko": "摘星月: 사슬과 늘어진 구슬 전체를 보여 주는 푸른 달·별 귀걸이 도해입니다."
+          },
+          "caption": {
+            "en": "Blue moon-and-star earring diagram, with the complete chain and dangling bead. Official CN patch-poster extract; final game appearance may differ. Reuse permission unknown.",
+            "ko": "사슬과 늘어진 구슬 전체를 보여 주는 푸른 달·별 귀걸이 도해입니다. 중국 공식 패치 포스터의 발췌 이미지이며 실제 게임 내 모습과 다를 수 있습니다. 재사용 허가 여부는 확인되지 않았습니다."
+          }
+        }
+      ],
+      "officialVideos": [],
+      "mediaStatus": "verified",
+      "namingNote": {
+        "en": "Provisional reading of the Chinese identifier. Official Global English/Korean names, identity and schedule are unverified.",
+        "ko": "중국 원명의 임시 독음입니다. 글로벌 영문·한국어 공식명·대응 외관·일정은 미확인입니다."
+      },
+      "searchAliases": [
+        "摘星月",
+        "Zhai Xing Yue",
+        "적성월"
+      ]
+    },
+    {
+      "id": "jin-ye-liu-guang",
+      "nameOriginal": "锦夜流光",
+      "romanization": "Jin Ye Liu Guang",
+      "category": "accessory",
+      "sourceId": "cn-20261023-update",
+      "acquisitionServer": "CN",
+      "mediaServer": "CN",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": null,
+        "precision": "unknown",
+        "timezone": null,
+        "contextual": true,
+        "basis": "The reward route opens after the October 23 CN update; the individual release/unlock/payout day and actual release confirmation remain unverified."
+      },
+      "acquisition": {
+        "kind": "milestone",
+        "pricing": "unknown",
+        "amount": null,
+        "regularAmount": null,
+        "currencyOriginal": null,
+        "location": {
+          "en": "Harmony Gift · current Harmony pool",
+          "ko": "공명 선물 · 현재 공명 뽑기 풀",
+          "original": "和鸣赠礼"
+        },
+        "conditions": {
+          "en": "A Harmony Gift reward for cumulative participation in the current Harmony draw pool. The exact draw-count threshold and per-draw cost are unstated. The pool runs from after the October 23, 2026 update until December 11, 2026 04:59:59, with no timezone stated. The pool end is not a separately confirmed reward-claim expiry; an individual payout day is unknown.",
+          "ko": "현재 공명 뽑기 풀의 누적 참여로 받는 공명 선물 보상입니다. 정확한 누적 횟수·회당 비용은 미표기입니다. 뽑기 풀은 2026년 10월 23일 업데이트 후부터 12월 11일 04:59:59까지이며 시간대는 미표기입니다. 뽑기 종료와 별개인 보상 수령 만료·개별 지급일은 확인되지 않았습니다."
+        },
+        "en": "Official CN announcement terms; reward and exchange quantities remain unknown.",
+        "ko": "중국 공식 예고 조건이며 보상·교환에 필요한 수량은 미정입니다."
+      },
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20261023/a2f2c8a2-5699-4358-a04b-861d92ade64a.jpg",
+          "width": 1218,
+          "height": 870,
+          "bytes": 14381184,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20261023-update",
+          "server": "CN",
+          "sourceCrop": [
+            1320,
+            16620,
+            2538,
+            17490
+          ],
+          "reusePermission": "unknown",
+          "localCopy": "/media/jin-ye-liu-guang-0-full.webp",
+          "inspectionNote": "Named official CN patch-poster panel and isolated item diagram visually inspected on October 25, 2026 America/New_York. This is an explicitly recorded source-poster extract, not synthesized artwork or current in-game verification. The complete selected named panel is retained in enlargement; the entire patch poster remains at the original URL. No character-worn view is provided for this named item.",
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio",
+          "alt": {
+            "en": "锦夜流光: Silver star hair ornament diagram, with branching pins, chains and dangling stars.",
+            "ko": "锦夜流光: 갈라진 비녀와 사슬, 늘어진 별 장식을 보여 주는 은빛 별 머리 장식 도해입니다."
+          },
+          "caption": {
+            "en": "Silver star hair ornament diagram, with branching pins, chains and dangling stars. Official CN patch-poster extract; final game appearance may differ. Reuse permission unknown.",
+            "ko": "갈라진 비녀와 사슬, 늘어진 별 장식을 보여 주는 은빛 별 머리 장식 도해입니다. 중국 공식 패치 포스터의 발췌 이미지이며 실제 게임 내 모습과 다를 수 있습니다. 재사용 허가 여부는 확인되지 않았습니다."
+          }
+        }
+      ],
+      "officialVideos": [],
+      "mediaStatus": "verified",
+      "namingNote": {
+        "en": "Provisional reading of the Chinese identifier. Official Global English/Korean names, identity and schedule are unverified.",
+        "ko": "중국 원명의 임시 독음입니다. 글로벌 영문·한국어 공식명·대응 외관·일정은 미확인입니다."
+      },
+      "searchAliases": [
+        "锦夜流光",
+        "Jin Ye Liu Guang",
+        "금야유광"
+      ]
+    },
+    {
+      "id": "mian-yun-qi-niao",
+      "nameOriginal": "眠云栖鸟",
+      "romanization": "Mian Yun Qi Niao",
+      "category": "accessory",
+      "sourceId": "cn-20261023-update",
+      "acquisitionServer": "CN",
+      "mediaServer": "CN",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": null,
+        "precision": "unknown",
+        "timezone": null,
+        "contextual": true,
+        "basis": "The reward route opens after the October 23 CN update; the individual release/unlock/payout day and actual release confirmation remain unverified."
+      },
+      "acquisition": {
+        "kind": "exchange_shop",
+        "pricing": "unknown",
+        "amount": null,
+        "regularAmount": null,
+        "currencyOriginal": null,
+        "location": {
+          "en": "Tianjing Shop",
+          "ko": "천정 상점",
+          "original": "天精商店"
+        },
+        "conditions": {
+          "en": "A limited reward in the CN Tianjing Shop during the current Harmony draw pool. The exchange currency and quantity are unstated. The pool runs from after the October 23, 2026 update until December 11, 2026 04:59:59, with no timezone stated. The notice explicitly says these limited shop rewards are removed when this pool ends. Current in-game stock has not been checked.",
+          "ko": "현재 공명 뽑기 풀 기간의 중국 천정 상점 한정 교환 보상입니다. 교환 재화·필요 수량은 미표기입니다. 뽑기 풀은 2026년 10월 23일 업데이트 후부터 12월 11일 04:59:59까지이며 시간대는 미표기입니다. 공지는 해당 상점 한정 보상이 이번 뽑기 풀 종료와 함께 내려간다고 명시합니다. 현재 게임 내 재고는 확인하지 않았습니다."
+        },
+        "en": "Official CN announcement terms; reward and exchange quantities remain unknown.",
+        "ko": "중국 공식 예고 조건이며 보상·교환에 필요한 수량은 미정입니다."
+      },
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20261023/a2f2c8a2-5699-4358-a04b-861d92ade64a.jpg",
+          "width": 1130,
+          "height": 840,
+          "bytes": 14381184,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20261023-update",
+          "server": "CN",
+          "sourceCrop": [
+            150,
+            17510,
+            1280,
+            18350
+          ],
+          "reusePermission": "unknown",
+          "localCopy": "/media/mian-yun-qi-niao-0-full.webp",
+          "inspectionNote": "Named official CN patch-poster panel and isolated item diagram visually inspected on October 25, 2026 America/New_York. This is an explicitly recorded source-poster extract, not synthesized artwork or current in-game verification. The complete selected named panel is retained in enlargement; the entire patch poster remains at the original URL. No character-worn view is provided for this named item.",
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio",
+          "alt": {
+            "en": "眠云栖鸟: Cloud-and-bird necklace diagram, showing beaded strands and the hanging bird and star.",
+            "ko": "眠云栖鸟: 구슬 줄과 매달린 새·별을 보여 주는 구름·새 목장식 도해입니다."
+          },
+          "caption": {
+            "en": "Cloud-and-bird necklace diagram, showing beaded strands and the hanging bird and star. Official CN patch-poster extract; final game appearance may differ. Reuse permission unknown.",
+            "ko": "구슬 줄과 매달린 새·별을 보여 주는 구름·새 목장식 도해입니다. 중국 공식 패치 포스터의 발췌 이미지이며 실제 게임 내 모습과 다를 수 있습니다. 재사용 허가 여부는 확인되지 않았습니다."
+          }
+        }
+      ],
+      "officialVideos": [],
+      "mediaStatus": "verified",
+      "namingNote": {
+        "en": "Provisional reading of the Chinese identifier. Official Global English/Korean names, identity and schedule are unverified.",
+        "ko": "중국 원명의 임시 독음입니다. 글로벌 영문·한국어 공식명·대응 외관·일정은 미확인입니다."
+      },
+      "searchAliases": [
+        "眠云栖鸟",
+        "Mian Yun Qi Niao",
+        "면운서조"
+      ]
+    },
+    {
+      "id": "ning-hui-luo",
+      "nameOriginal": "凝辉络",
+      "romanization": "Ning Hui Luo",
+      "category": "accessory",
+      "sourceId": "cn-20261023-update",
+      "acquisitionServer": "CN",
+      "mediaServer": "CN",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": null,
+        "precision": "unknown",
+        "timezone": null,
+        "contextual": true,
+        "basis": "The reward route opens after the October 23 CN update; the individual release/unlock/payout day and actual release confirmation remain unverified."
+      },
+      "acquisition": {
+        "kind": "exchange_shop",
+        "pricing": "unknown",
+        "amount": null,
+        "regularAmount": null,
+        "currencyOriginal": null,
+        "location": {
+          "en": "Tianjing Shop",
+          "ko": "천정 상점",
+          "original": "天精商店"
+        },
+        "conditions": {
+          "en": "A limited reward in the CN Tianjing Shop during the current Harmony draw pool. The exchange currency and quantity are unstated. The pool runs from after the October 23, 2026 update until December 11, 2026 04:59:59, with no timezone stated. The notice explicitly says these limited shop rewards are removed when this pool ends. Current in-game stock has not been checked.",
+          "ko": "현재 공명 뽑기 풀 기간의 중국 천정 상점 한정 교환 보상입니다. 교환 재화·필요 수량은 미표기입니다. 뽑기 풀은 2026년 10월 23일 업데이트 후부터 12월 11일 04:59:59까지이며 시간대는 미표기입니다. 공지는 해당 상점 한정 보상이 이번 뽑기 풀 종료와 함께 내려간다고 명시합니다. 현재 게임 내 재고는 확인하지 않았습니다."
+        },
+        "en": "Official CN announcement terms; reward and exchange quantities remain unknown.",
+        "ko": "중국 공식 예고 조건이며 보상·교환에 필요한 수량은 미정입니다."
+      },
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20261023/a2f2c8a2-5699-4358-a04b-861d92ade64a.jpg",
+          "width": 1218,
+          "height": 840,
+          "bytes": 14381184,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20261023-update",
+          "server": "CN",
+          "sourceCrop": [
+            1320,
+            17510,
+            2538,
+            18350
+          ],
+          "reusePermission": "unknown",
+          "localCopy": "/media/ning-hui-luo-0-full.webp",
+          "inspectionNote": "Named official CN patch-poster panel and isolated item diagram visually inspected on October 25, 2026 America/New_York. This is an explicitly recorded source-poster extract, not synthesized artwork or current in-game verification. The complete selected named panel is retained in enlargement; the entire patch poster remains at the original URL. No character-worn view is provided for this named item.",
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio",
+          "alt": {
+            "en": "凝辉络: Silver beaded face-chain diagram, showing the layered strands and long drops.",
+            "ko": "凝辉络: 겹친 줄과 길게 늘어진 장식을 보여 주는 은빛 구슬 얼굴 사슬 도해입니다."
+          },
+          "caption": {
+            "en": "Silver beaded face-chain diagram, showing the layered strands and long drops. Official CN patch-poster extract; final game appearance may differ. Reuse permission unknown.",
+            "ko": "겹친 줄과 길게 늘어진 장식을 보여 주는 은빛 구슬 얼굴 사슬 도해입니다. 중국 공식 패치 포스터의 발췌 이미지이며 실제 게임 내 모습과 다를 수 있습니다. 재사용 허가 여부는 확인되지 않았습니다."
+          }
+        }
+      ],
+      "officialVideos": [],
+      "mediaStatus": "verified",
+      "namingNote": {
+        "en": "Provisional reading of the Chinese identifier. Official Global English/Korean names, identity and schedule are unverified.",
+        "ko": "중국 원명의 임시 독음입니다. 글로벌 영문·한국어 공식명·대응 외관·일정은 미확인입니다."
+      },
+      "searchAliases": [
+        "凝辉络",
+        "Ning Hui Luo",
+        "응휘락"
+      ]
+    },
+    {
+      "id": "huang-jin-yan",
+      "nameOriginal": "黄金眼",
+      "romanization": "Huang Jin Yan",
+      "category": "accessory",
+      "sourceId": "cn-20261023-update",
+      "acquisitionServer": "CN",
+      "mediaServer": "CN",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": null,
+        "precision": "unknown",
+        "timezone": null,
+        "contextual": true,
+        "basis": "The reward route opens after the October 23 CN update; the individual release/unlock/payout day and actual release confirmation remain unverified."
+      },
+      "acquisition": {
+        "kind": "event",
+        "pricing": "unknown",
+        "amount": null,
+        "regularAmount": null,
+        "currencyOriginal": null,
+        "location": {
+          "en": "Yao Fa Yao Fa Huang Jin Yan event",
+          "ko": "要发要发黄金眼 이벤트",
+          "original": "要发要发黄金眼"
+        },
+        "conditions": {
+          "en": "Participate in the 要发要发黄金眼 event for this face accessory. Requires level 10 and completion of the Qinghe main chapter 又见新来燕. Exact reward-task pairing and the individual unlock threshold are unstated. The event runs from after the October 23, 2026 update until November 6, 2026 04:59:59, with no timezone stated. The event story remains after the event, which does not establish continued accessory availability.",
+          "ko": "要发要发黄金眼 이벤트에 참여해 받는 얼굴 장식입니다. 레벨 10 및 청하 본편 又见新来燕 완료가 필요합니다. 개별 보상 과제·정확한 해제 기준은 미표기입니다. 이벤트는 2026년 10월 23일 업데이트 후부터 11월 6일 04:59:59까지이며 시간대는 미표기입니다. 종료 후 이벤트 이야기가 남는다는 설명은 외관의 계속 획득 가능 여부를 확정하지 않습니다."
+        },
+        "en": "Official CN announcement terms; reward and exchange quantities remain unknown.",
+        "ko": "중국 공식 예고 조건이며 보상·교환에 필요한 수량은 미정입니다."
+      },
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20261023/b145f967-5463-4f6d-896a-19af996023dc.jpg",
+          "width": 2388,
+          "height": 880,
+          "bytes": 10310146,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceId": "cn-20261023-update",
+          "server": "CN",
+          "sourceCrop": [
+            150,
+            9020,
+            2538,
+            9900
+          ],
+          "reusePermission": "unknown",
+          "localCopy": "/media/huang-jin-yan-0-full.webp",
+          "inspectionNote": "Named official CN patch-poster panel and isolated item diagram visually inspected on October 25, 2026 America/New_York. This is an explicitly recorded source-poster extract, not synthesized artwork or current in-game verification. The complete selected named panel is retained in enlargement; the entire patch poster remains at the original URL. No character-worn view is provided for this named item.",
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio",
+          "alt": {
+            "en": "黄金眼: Round gold-rimmed glasses diagram; no character-worn alternative is shown in this named panel.",
+            "ko": "黄金眼: 둥근 금테 안경 도해입니다. 이름이 명시된 이 구간에는 캐릭터 착용 사진이 없습니다."
+          },
+          "caption": {
+            "en": "Round gold-rimmed glasses diagram; no character-worn alternative is shown in this named panel. Official CN patch-poster extract; final game appearance may differ. Reuse permission unknown.",
+            "ko": "둥근 금테 안경 도해입니다. 이름이 명시된 이 구간에는 캐릭터 착용 사진이 없습니다. 중국 공식 패치 포스터의 발췌 이미지이며 실제 게임 내 모습과 다를 수 있습니다. 재사용 허가 여부는 확인되지 않았습니다."
+          }
+        }
+      ],
+      "officialVideos": [],
+      "mediaStatus": "verified",
+      "namingNote": {
+        "en": "Provisional reading of the Chinese identifier. Official Global English/Korean names, identity and schedule are unverified.",
+        "ko": "중국 원명의 임시 독음입니다. 글로벌 영문·한국어 공식명·대응 외관·일정은 미확인입니다."
+      },
+      "searchAliases": [
+        "黄金眼",
+        "Huang Jin Yan",
+        "황금안"
+      ]
     }
   ],
   "contextualOfficialVideos": [

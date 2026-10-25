@@ -5185,5 +5185,68 @@
       "en": "Cloud Steps Mystic Skill VFX. Global exchange is 2 Sound Jade during the discount, then 3; CN identity is unverified.",
       "ko": "구름 위 질주 비결 이펙트입니다. 글로벌 교환은 할인가 음옥 2개·이후 정가 3개이며 중국 대응은 미확인입니다."
     }
+  },
+  "sui-xing-fang-shuo": {
+    "koName": "세성방삭",
+    "description": {
+      "en": "CN Harmony outfit with a celestial blue-and-gold design and red hair; separate top/bottom and rainbow dyeing.",
+      "ko": "천체 문양의 청색·금색 의상과 붉은 머리가 특징인 중국 공명 의상입니다. 상하의 분리·무지개 염색을 지원합니다."
+    }
+  },
+  "du-wu-chang": {
+    "koName": "도무상",
+    "description": {
+      "en": "CN version-commemorative outfit with black/white Wuchang designs, separate top/bottom and dyeing. Matching hair is acquired separately.",
+      "ko": "흑백 무상 모티브의 중국 버전 기념 의상이며 상하의 분리·염색을 지원합니다. 대응 헤어는 별도 획득입니다."
+    }
+  },
+  "shuo-yu-wu-chang": {
+    "koName": "설여무상",
+    "description": {
+      "en": "Dyeable CN Harmony hairstyle with an animated player avatar; the commemorative outfit is separate.",
+      "ko": "염색과 주인공 동적 프로필을 지원하는 중국 공명 헤어이며 기념 의상과 별도로 획득합니다."
+    }
+  },
+  "wu-chen": {
+    "koName": "무진",
+    "description": {
+      "en": "CN ribbon-drum skin in the 无声无形 series. Echo-Bead pricing depends on the number of series skins purchased.",
+      "ko": "중국 무성무형 시리즈의 무릉고 무기 외관입니다. 시리즈 구매 횟수에 따라 장명주 가격이 달라집니다."
+    }
+  },
+  "zhai-xing-yue": {
+    "koName": "적성월",
+    "description": {
+      "en": "CN ear accessory named in the October 23 update. A cumulative Harmony Gift reward with an unstated threshold.",
+      "ko": "10월 23일 중국 업데이트에 명시된 귀 장식입니다. 누적 기준이 미표기인 공명 선물 보상입니다."
+    }
+  },
+  "jin-ye-liu-guang": {
+    "koName": "금야유광",
+    "description": {
+      "en": "CN hair accessory named in the October 23 update. A cumulative Harmony Gift reward with an unstated threshold.",
+      "ko": "10월 23일 중국 업데이트에 명시된 머리 장식입니다. 누적 기준이 미표기인 공명 선물 보상입니다."
+    }
+  },
+  "mian-yun-qi-niao": {
+    "koName": "면운서조",
+    "description": {
+      "en": "CN neck accessory named in the October 23 update. A limited Tianjing Shop reward with an unstated cost.",
+      "ko": "10월 23일 중국 업데이트에 명시된 목 장식입니다. 비용이 미표기인 천정 상점 한정 보상입니다."
+    }
+  },
+  "ning-hui-luo": {
+    "koName": "응휘락",
+    "description": {
+      "en": "CN face accessory named in the October 23 update. A limited Tianjing Shop reward with an unstated cost.",
+      "ko": "10월 23일 중국 업데이트에 명시된 얼굴 장식입니다. 비용이 미표기인 천정 상점 한정 보상입니다."
+    }
+  },
+  "huang-jin-yan": {
+    "koName": "황금안",
+    "description": {
+      "en": "CN face accessory named in the October 23 update. A reward from the 要发要发黄金眼 event.",
+      "ko": "10월 23일 중국 업데이트에 명시된 얼굴 장식입니다. 要发要发黄金眼 이벤트 보상입니다."
+    }
   }
 }
