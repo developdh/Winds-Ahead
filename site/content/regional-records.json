@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "verifiedAt": "2026-10-22",
+  "verifiedAt": "2026-10-25",
   "records": [
     {
       "cosmeticId": "shang-qing-yun",
@@ -16410,6 +16410,186 @@
         },
         "en": "Official Global announcement terms.",
         "ko": "글로벌 공식 예고의 획득 조건입니다."
+      }
+    },
+    {
+      "cosmeticId": "sui-xing-fang-shuo",
+      "server": "CN",
+      "status": "announced",
+      "releaseDate": "2026-10-23",
+      "precision": "day",
+      "verifiedAt": "2026-10-25",
+      "sourceIds": [
+        "cn-20261021-october23-appearances",
+        "cn-20261023-update"
+      ],
+      "scope": {
+        "en": "CN announcement for after the October 23, 2026 version update. Timezone unstated. Actual release and current in-game availability have not been independently verified. The October 23 patch poster explicitly gives the exchange end as January 11, 2027 04:59:59; timezone unstated. The date is directly printed, not calculated from the 80-day duration.",
+        "ko": "중국 2026년 10월 23일 버전 업데이트 후 출시 예고입니다. 시간대는 미표기이며 실제 출시·현재 게임 내 획득 여부는 별도 확인하지 않았습니다. 10월 23일 패치 이미지에 교환 종료가 2027년 1월 11일 04:59:59로 명시되며 시간대는 미표기입니다. 80일을 계산한 날짜가 아닌 직접 명시된 일정입니다."
+      },
+      "identityBasis": {
+        "en": "The official CN article names this appearance and category beside its artwork. No Global counterpart is inferred.",
+        "ko": "중국 공식 공지에서 외관명·분류와 인접 사진을 확인했습니다. 글로벌 대응은 추정하지 않습니다."
+      }
+    },
+    {
+      "cosmeticId": "du-wu-chang",
+      "server": "CN",
+      "status": "announced",
+      "releaseDate": "2026-10-23",
+      "precision": "day",
+      "verifiedAt": "2026-10-25",
+      "sourceIds": [
+        "cn-20261021-october23-appearances",
+        "cn-20261023-update"
+      ],
+      "scope": {
+        "en": "CN announcement for after the October 23, 2026 version update. Timezone unstated. Actual release and current in-game availability have not been independently verified. The October 23 patch poster supplies the exact sale end November 23, 2026 04:59:59; timezone unstated.",
+        "ko": "중국 2026년 10월 23일 버전 업데이트 후 출시 예고입니다. 시간대는 미표기이며 실제 출시·현재 게임 내 획득 여부는 별도 확인하지 않았습니다. 10월 23일 패치 이미지에 정확한 판매 종료가 2026년 11월 23일 04:59:59로 명시되며 시간대는 미표기입니다."
+      },
+      "identityBasis": {
+        "en": "The official CN article names this appearance and category beside its artwork. No Global counterpart is inferred.",
+        "ko": "중국 공식 공지에서 외관명·분류와 인접 사진을 확인했습니다. 글로벌 대응은 추정하지 않습니다."
+      }
+    },
+    {
+      "cosmeticId": "shuo-yu-wu-chang",
+      "server": "CN",
+      "status": "announced",
+      "releaseDate": "2026-10-23",
+      "precision": "day",
+      "verifiedAt": "2026-10-25",
+      "sourceIds": [
+        "cn-20261021-october23-appearances",
+        "cn-20261023-update"
+      ],
+      "scope": {
+        "en": "CN announcement for after the October 23, 2026 version update. Timezone unstated. Actual release and current in-game availability have not been independently verified. The October 23 patch poster explicitly gives the exchange end as January 21, 2027 04:59:59; timezone unstated. The date is directly printed, not calculated from the 90-day duration.",
+        "ko": "중국 2026년 10월 23일 버전 업데이트 후 출시 예고입니다. 시간대는 미표기이며 실제 출시·현재 게임 내 획득 여부는 별도 확인하지 않았습니다. 10월 23일 패치 이미지에 교환 종료가 2027년 1월 21일 04:59:59로 명시되며 시간대는 미표기입니다. 90일을 계산한 날짜가 아닌 직접 명시된 일정입니다."
+      },
+      "identityBasis": {
+        "en": "The official CN article names this appearance and category beside its artwork. No Global counterpart is inferred.",
+        "ko": "중국 공식 공지에서 외관명·분류와 인접 사진을 확인했습니다. 글로벌 대응은 추정하지 않습니다."
+      }
+    },
+    {
+      "cosmeticId": "wu-chen",
+      "server": "CN",
+      "status": "announced",
+      "releaseDate": "2026-10-23",
+      "precision": "day",
+      "verifiedAt": "2026-10-25",
+      "sourceIds": [
+        "cn-20261021-october23-appearances",
+        "cn-20261023-update"
+      ],
+      "scope": {
+        "en": "CN announcement for after the October 23, 2026 version update. Timezone unstated. Actual release and current in-game availability have not been independently verified.",
+        "ko": "중국 2026년 10월 23일 버전 업데이트 후 출시 예고입니다. 시간대는 미표기이며 실제 출시·현재 게임 내 획득 여부는 별도 확인하지 않았습니다."
+      },
+      "identityBasis": {
+        "en": "The official CN article names this appearance and category beside its artwork. No Global counterpart is inferred.",
+        "ko": "중국 공식 공지에서 외관명·분류와 인접 사진을 확인했습니다. 글로벌 대응은 추정하지 않습니다."
+      }
+    },
+    {
+      "cosmeticId": "zhai-xing-yue",
+      "server": "CN",
+      "status": "announced",
+      "releaseDate": null,
+      "precision": "unknown",
+      "verifiedAt": "2026-10-25",
+      "sourceIds": [
+        "cn-20261023-update"
+      ],
+      "confirmationPending": true,
+      "scope": {
+        "en": "The named CN reward route is announced from after the October 23, 2026 update. This contextual route opening is not a verified individual payout or exact unlock day. Timezone, actual release and current in-game availability remain unverified.",
+        "ko": "중국의 명시된 보상 경로는 2026년 10월 23일 업데이트 후 시작 예고입니다. 이 맥락상 경로 시작일은 검증된 개별 지급·해제일이 아닙니다. 시간대·실제 출시·현재 게임 내 획득 여부는 미확인입니다."
+      },
+      "identityBasis": {
+        "en": "Named accessory artwork and its reward method are adjacent in the official CN update poster. No Global counterpart is inferred.",
+        "ko": "중국 공식 업데이트 이미지에서 이름이 붙은 장식과 인접한 보상 경로를 확인했습니다. 글로벌 대응은 추정하지 않습니다."
+      }
+    },
+    {
+      "cosmeticId": "jin-ye-liu-guang",
+      "server": "CN",
+      "status": "announced",
+      "releaseDate": null,
+      "precision": "unknown",
+      "verifiedAt": "2026-10-25",
+      "sourceIds": [
+        "cn-20261023-update"
+      ],
+      "confirmationPending": true,
+      "scope": {
+        "en": "The named CN reward route is announced from after the October 23, 2026 update. This contextual route opening is not a verified individual payout or exact unlock day. Timezone, actual release and current in-game availability remain unverified.",
+        "ko": "중국의 명시된 보상 경로는 2026년 10월 23일 업데이트 후 시작 예고입니다. 이 맥락상 경로 시작일은 검증된 개별 지급·해제일이 아닙니다. 시간대·실제 출시·현재 게임 내 획득 여부는 미확인입니다."
+      },
+      "identityBasis": {
+        "en": "Named accessory artwork and its reward method are adjacent in the official CN update poster. No Global counterpart is inferred.",
+        "ko": "중국 공식 업데이트 이미지에서 이름이 붙은 장식과 인접한 보상 경로를 확인했습니다. 글로벌 대응은 추정하지 않습니다."
+      }
+    },
+    {
+      "cosmeticId": "mian-yun-qi-niao",
+      "server": "CN",
+      "status": "announced",
+      "releaseDate": null,
+      "precision": "unknown",
+      "verifiedAt": "2026-10-25",
+      "sourceIds": [
+        "cn-20261023-update"
+      ],
+      "confirmationPending": true,
+      "scope": {
+        "en": "The named CN reward route is announced from after the October 23, 2026 update. This contextual route opening is not a verified individual payout or exact unlock day. Timezone, actual release and current in-game availability remain unverified.",
+        "ko": "중국의 명시된 보상 경로는 2026년 10월 23일 업데이트 후 시작 예고입니다. 이 맥락상 경로 시작일은 검증된 개별 지급·해제일이 아닙니다. 시간대·실제 출시·현재 게임 내 획득 여부는 미확인입니다."
+      },
+      "identityBasis": {
+        "en": "Named accessory artwork and its reward method are adjacent in the official CN update poster. No Global counterpart is inferred.",
+        "ko": "중국 공식 업데이트 이미지에서 이름이 붙은 장식과 인접한 보상 경로를 확인했습니다. 글로벌 대응은 추정하지 않습니다."
+      }
+    },
+    {
+      "cosmeticId": "ning-hui-luo",
+      "server": "CN",
+      "status": "announced",
+      "releaseDate": null,
+      "precision": "unknown",
+      "verifiedAt": "2026-10-25",
+      "sourceIds": [
+        "cn-20261023-update"
+      ],
+      "confirmationPending": true,
+      "scope": {
+        "en": "The named CN reward route is announced from after the October 23, 2026 update. This contextual route opening is not a verified individual payout or exact unlock day. Timezone, actual release and current in-game availability remain unverified.",
+        "ko": "중국의 명시된 보상 경로는 2026년 10월 23일 업데이트 후 시작 예고입니다. 이 맥락상 경로 시작일은 검증된 개별 지급·해제일이 아닙니다. 시간대·실제 출시·현재 게임 내 획득 여부는 미확인입니다."
+      },
+      "identityBasis": {
+        "en": "Named accessory artwork and its reward method are adjacent in the official CN update poster. No Global counterpart is inferred.",
+        "ko": "중국 공식 업데이트 이미지에서 이름이 붙은 장식과 인접한 보상 경로를 확인했습니다. 글로벌 대응은 추정하지 않습니다."
+      }
+    },
+    {
+      "cosmeticId": "huang-jin-yan",
+      "server": "CN",
+      "status": "announced",
+      "releaseDate": null,
+      "precision": "unknown",
+      "verifiedAt": "2026-10-25",
+      "sourceIds": [
+        "cn-20261023-update"
+      ],
+      "confirmationPending": true,
+      "scope": {
+        "en": "The named CN reward route is announced from after the October 23, 2026 update. This contextual route opening is not a verified individual payout or exact unlock day. Timezone, actual release and current in-game availability remain unverified.",
+        "ko": "중국의 명시된 보상 경로는 2026년 10월 23일 업데이트 후 시작 예고입니다. 이 맥락상 경로 시작일은 검증된 개별 지급·해제일이 아닙니다. 시간대·실제 출시·현재 게임 내 획득 여부는 미확인입니다."
+      },
+      "identityBasis": {
+        "en": "Named accessory artwork and its reward method are adjacent in the official CN update poster. No Global counterpart is inferred.",
+        "ko": "중국 공식 업데이트 이미지에서 이름이 붙은 장식과 인접한 보상 경로를 확인했습니다. 글로벌 대응은 추정하지 않습니다."
       }
     }
   ]

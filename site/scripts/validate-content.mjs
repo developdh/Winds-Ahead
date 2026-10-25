@@ -12,7 +12,7 @@ const bilingual = z.object({
   ko: z.string().trim().min(1),
 });
 const day = z.string().refine(isDay, "Use a real YYYY-MM-DD date");
-z.record(bilingual).parse(terminology.currencies);
+z.record(z.string(), bilingual).parse(terminology.currencies);
 export const acquisitionSchema = bilingual.extend({
   kind: z.enum(["shop", "exchange", "exchange_shop", "limited_draw", "seasonal_draw", "battle_pass", "milestone", "event", "exploration", "quest", "achievement", "sect", "unknown"]),
   pricing: z.enum(["fixed", "draw", "pass", "free", "unknown"]),
@@ -358,6 +358,7 @@ export function validateEditorial(
 ) {
   const names = z
     .record(
+      z.string(),
       z
         .object({ koName: z.string().trim().min(1), description: bilingual })
         .strict(),

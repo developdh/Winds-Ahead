@@ -1,0 +1,1084 @@
+{
+  "reviewedAt": "2026-10-25",
+  "reviewTimezone": "America/New_York",
+  "purpose": {
+    "en": "Official CN October 23 appearance media provenance and visual review for fourteen optimized references.",
+    "ko": "중국 10월 23일 외관의 최적화 참고 이미지 14개에 대한 공식 원본 근거와 시각 점검 기록입니다."
+  },
+  "sourcePages": {
+    "cn": "https://www.yysls.cn/news/official/20261023/37780_1317610.html",
+    "cnPatch": "https://www.yysls.cn/news/update/20261023/40412_1317532.html"
+  },
+  "sourceIds": {
+    "cn": "cn-20261021-october23-appearances",
+    "cnPatch": "cn-20261023-update"
+  },
+  "attribution": "燕云十六声 / NetEase / Everstone Studio; official CN announcement artwork",
+  "rights": {
+    "permission": "unknown",
+    "audience": "reference artwork; excluded from the code license",
+    "note": {
+      "en": "Official attribution is retained; no redistribution license is inferred. Raw downloaded originals are excluded from the commit scope.",
+      "ko": "공식 출처를 보존하며 재배포 허가가 있다고 추정하지 않습니다. 내려받은 원본 파일은 커밋 대상에서 제외합니다."
+    }
+  },
+  "derivation": {
+    "full": {
+      "resize": "900 pixels wide, without enlargement; complete standalone frame or explicitly recorded named-poster panel retained",
+      "format": "WebP",
+      "quality": 80
+    },
+    "display": {
+      "extract": "presentationCrop from full derivative",
+      "format": "WebP",
+      "quality": 84
+    },
+    "thumbnail": {
+      "width": 600,
+      "height": 710,
+      "fit": "contain",
+      "background": "#0c1113",
+      "format": "WebP",
+      "quality": 79
+    },
+    "preview": {
+      "width": 160,
+      "height": 160,
+      "fit": "inside",
+      "withoutEnlargement": true,
+      "format": "WebP",
+      "quality": 72
+    }
+  },
+  "visualQA": {
+    "status": "reviewed",
+    "en": "Named article and patch-poster sections, downloaded source contact sheets, the final nine appearance thumbnails and five accessory diagrams were visually reviewed. Initial attention crops cut off faces/hair and were replaced with deliberate presentation fields and contained thumbnails. Avatar-only posters were excluded. Accessory object boundaries were checked, including the earring chain endpoint and glasses rims. This records announcement artwork, not current in-game availability or appearance verification. No browser/device UI verification is claimed here.",
+    "ko": "이름이 명시된 공지·패치 포스터 구간, 내려받은 원본 비교 이미지, 최종 외관 썸네일 9개와 장신구 도해 5개를 시각 점검했습니다. 최초 자동 관심 영역 자르기에서 얼굴·머리가 잘려 인물 구도를 지정하고 전체가 들어가는 썸네일로 바꿨습니다. 아바타만 표시한 포스터는 제외했습니다. 귀걸이 사슬 끝과 안경테를 포함해 장신구 경계를 확인했습니다. 현재 게임 내 획득 가능 여부나 외형을 확인한 기록은 아니며 이 파일에서 브라우저·기기 UI 검증을 주장하지 않습니다."
+  },
+  "entries": [
+    {
+      "cosmeticId": "sui-xing-fang-shuo",
+      "index": 0,
+      "nameOriginal": "岁星方朔",
+      "sourceId": "cn-20261021-october23-appearances",
+      "sourcePage": "https://www.yysls.cn/news/official/20261023/37780_1317610.html",
+      "articleImageIndex": 4,
+      "original": {
+        "url": "https://nie.res.netease.com/r/pic/20261023/00bb7a35-8440-4d85-a7a4-88b842ec4fc5.png",
+        "filename": "00bb7a35-8440-4d85-a7a4-88b842ec4fc5.png",
+        "width": 1080,
+        "height": 1920,
+        "frames": 1,
+        "bytes": 2054084,
+        "sha256": "861229a3598990efc7de4ac32c9ec9e635c7f975d88c10107daabeec0da7d2ed"
+      },
+      "presentationSubject": "female",
+      "presentationCrop": [
+        140,
+        230,
+        890,
+        1600
+      ],
+      "cropScaleBasis": {
+        "coordinateSpace": "full derivative pixels; top-left origin; [left, top, right, bottom], right/bottom exclusive",
+        "width": 900,
+        "height": 1600,
+        "scaleFromOriginalWidthRatio": [
+          900,
+          1080
+        ]
+      },
+      "description": {
+        "en": "Female front view of the blue-and-gold outfit and star-ring back ornament. Official CN development preview; final game appearance may differ. Reuse permission unknown.",
+        "ko": "푸른색·금색 의상과 별 고리 등 장식의 여성 정면 모습입니다. 중국 공식 개발 미리보기이며 실제 게임 내 모습과 다를 수 있습니다. 재사용 허가 여부는 확인되지 않았습니다."
+      },
+      "selection": {
+        "en": "The female front portrait is primary; lower-garment and rear ornament details are additional views. The article offers no female full-body front photograph. The complete original frame remains available.",
+        "ko": "여성 정면 인물 사진을 대표 이미지로 고르고 하의와 등 장식 세부 사진을 추가했습니다. 이 공지에는 여성 전신 정면 사진이 없습니다. 원본의 전체 구도는 별도로 유지합니다."
+      },
+      "derivatives": {
+        "full": {
+          "path": "/media/sui-xing-fang-shuo-0-full.webp",
+          "width": 900,
+          "height": 1600,
+          "bytes": 318346,
+          "sha256": "581fcf6086cb5a86b68fac61c2f4b697820404ac1369d582e2a33acfda91a882"
+        },
+        "display": {
+          "path": "/media/sui-xing-fang-shuo-0-display.webp",
+          "width": 750,
+          "height": 1370,
+          "bytes": 287978,
+          "sha256": "ee7a68fb1f64479163a38f65fc7caceb1a974d155cf356b7c85defd7d1034a2c"
+        },
+        "thumbnail": {
+          "path": "/media/sui-xing-fang-shuo-0-thumb.webp",
+          "width": 600,
+          "height": 710,
+          "bytes": 69934,
+          "sha256": "2e81657c4f6e1d97292c3e40a8595d6443c3972bb344bf11442f7f9de60d2c15"
+        },
+        "preview": {
+          "path": "/media/sui-xing-fang-shuo-0-preview.webp",
+          "width": 88,
+          "height": 160,
+          "bytes": 4700,
+          "sha256": "ab9613df562850cc3616686e71aea2629fbe3ccc55e5cde623ef2c4e62110851"
+        }
+      }
+    },
+    {
+      "cosmeticId": "sui-xing-fang-shuo",
+      "index": 1,
+      "nameOriginal": "岁星方朔",
+      "sourceId": "cn-20261021-october23-appearances",
+      "sourcePage": "https://www.yysls.cn/news/official/20261023/37780_1317610.html",
+      "articleImageIndex": 5,
+      "original": {
+        "url": "https://nie.res.netease.com/r/pic/20261023/f865c5f1-6700-4a8a-b45e-d0c2bb691503.jpg",
+        "filename": "f865c5f1-6700-4a8a-b45e-d0c2bb691503.jpg",
+        "width": 1080,
+        "height": 1920,
+        "frames": 1,
+        "bytes": 2365715,
+        "sha256": "674b1c85e350daefe428399715704d8ea3bdd7240cce5314f00576f67f74f09c"
+      },
+      "presentationSubject": "detail",
+      "presentationCrop": [
+        0,
+        0,
+        900,
+        1600
+      ],
+      "cropScaleBasis": {
+        "coordinateSpace": "full derivative pixels; top-left origin; [left, top, right, bottom], right/bottom exclusive",
+        "width": 900,
+        "height": 1600,
+        "scaleFromOriginalWidthRatio": [
+          900,
+          1080
+        ]
+      },
+      "description": {
+        "en": "Close detail of the star-patterned lower garment and metallic trim. Official CN development preview; final game appearance may differ. Reuse permission unknown.",
+        "ko": "별무늬 하의와 금속 장식의 세부 모습입니다. 중국 공식 개발 미리보기이며 실제 게임 내 모습과 다를 수 있습니다. 재사용 허가 여부는 확인되지 않았습니다."
+      },
+      "selection": {
+        "en": "The female front portrait is primary; lower-garment and rear ornament details are additional views. The article offers no female full-body front photograph. The complete original frame remains available.",
+        "ko": "여성 정면 인물 사진을 대표 이미지로 고르고 하의와 등 장식 세부 사진을 추가했습니다. 이 공지에는 여성 전신 정면 사진이 없습니다. 원본의 전체 구도는 별도로 유지합니다."
+      },
+      "derivatives": {
+        "full": {
+          "path": "/media/sui-xing-fang-shuo-1-full.webp",
+          "width": 900,
+          "height": 1600,
+          "bytes": 364280,
+          "sha256": "29a108b035d3bd22d0992a550f0adaafe1515ce4dd4d8b5c9606266ed051b584"
+        },
+        "display": {
+          "path": "/media/sui-xing-fang-shuo-1-display.webp",
+          "width": 900,
+          "height": 1600,
+          "bytes": 380826,
+          "sha256": "ada48a8b3d1f0e3e2ce2ef01b7823c49120aab7e859ee8d5a51ce21c88a28205"
+        },
+        "thumbnail": {
+          "path": "/media/sui-xing-fang-shuo-1-thumb.webp",
+          "width": 600,
+          "height": 710,
+          "bytes": 71444,
+          "sha256": "e8877b7cc9494bf57743dfd2eba6e02c274a543745ca2e87bd8a6445fbc61401"
+        },
+        "preview": {
+          "path": "/media/sui-xing-fang-shuo-1-preview.webp",
+          "width": 90,
+          "height": 160,
+          "bytes": 4382,
+          "sha256": "91554ed898f6edcb8766b0e28f289d050db7082cd9f599d4d7c4b506990738b5"
+        }
+      }
+    },
+    {
+      "cosmeticId": "sui-xing-fang-shuo",
+      "index": 2,
+      "nameOriginal": "岁星方朔",
+      "sourceId": "cn-20261021-october23-appearances",
+      "sourcePage": "https://www.yysls.cn/news/official/20261023/37780_1317610.html",
+      "articleImageIndex": 8,
+      "original": {
+        "url": "https://nie.res.netease.com/r/pic/20261023/a1caf1a9-a601-46bf-9c26-d5b52c458e3f.jpg",
+        "filename": "a1caf1a9-a601-46bf-9c26-d5b52c458e3f.jpg",
+        "width": 1080,
+        "height": 1920,
+        "frames": 1,
+        "bytes": 2169693,
+        "sha256": "fb767719a786db3e7aa6b12f8f58c91a7a1b774646064f855aa178de88ca47d2"
+      },
+      "presentationSubject": "detail",
+      "presentationCrop": [
+        125,
+        83,
+        850,
+        1567
+      ],
+      "cropScaleBasis": {
+        "coordinateSpace": "full derivative pixels; top-left origin; [left, top, right, bottom], right/bottom exclusive",
+        "width": 900,
+        "height": 1600,
+        "scaleFromOriginalWidthRatio": [
+          900,
+          1080
+        ]
+      },
+      "description": {
+        "en": "Rear detail of the large star-ring ornament and red hairstyle shown with the outfit. Official CN development preview; final game appearance may differ. Reuse permission unknown.",
+        "ko": "의상과 함께 제시된 커다란 별 고리 장식과 붉은 머리의 뒷모습입니다. 중국 공식 개발 미리보기이며 실제 게임 내 모습과 다를 수 있습니다. 재사용 허가 여부는 확인되지 않았습니다."
+      },
+      "selection": {
+        "en": "The female front portrait is primary; lower-garment and rear ornament details are additional views. The article offers no female full-body front photograph. The complete original frame remains available.",
+        "ko": "여성 정면 인물 사진을 대표 이미지로 고르고 하의와 등 장식 세부 사진을 추가했습니다. 이 공지에는 여성 전신 정면 사진이 없습니다. 원본의 전체 구도는 별도로 유지합니다."
+      },
+      "derivatives": {
+        "full": {
+          "path": "/media/sui-xing-fang-shuo-2-full.webp",
+          "width": 900,
+          "height": 1600,
+          "bytes": 291540,
+          "sha256": "7cc553b901e8b289b8e227f632b9476f58586ac3d8471a239538e46724f58387"
+        },
+        "display": {
+          "path": "/media/sui-xing-fang-shuo-2-display.webp",
+          "width": 725,
+          "height": 1484,
+          "bytes": 264228,
+          "sha256": "3ac5f830d7e63d8b6262b0b622d5819239ab945081cf9103a7cd4e854f1f2d38"
+        },
+        "thumbnail": {
+          "path": "/media/sui-xing-fang-shuo-2-thumb.webp",
+          "width": 600,
+          "height": 710,
+          "bytes": 58708,
+          "sha256": "9e250f2d8fd0eb02ee4d92aa1f934db2ea31b020cedb61feed0b3971941a3221"
+        },
+        "preview": {
+          "path": "/media/sui-xing-fang-shuo-2-preview.webp",
+          "width": 78,
+          "height": 160,
+          "bytes": 4010,
+          "sha256": "99054bcdcb83eab343b99c03734ad037dd920f0f4951005d60505a8394c21b70"
+        }
+      }
+    },
+    {
+      "cosmeticId": "du-wu-chang",
+      "index": 0,
+      "nameOriginal": "渡无常",
+      "sourceId": "cn-20261021-october23-appearances",
+      "sourcePage": "https://www.yysls.cn/news/official/20261023/37780_1317610.html",
+      "articleImageIndex": 17,
+      "original": {
+        "url": "https://nie.res.netease.com/r/pic/20261023/58935dde-8771-4a52-9ccd-797300dfff01.jpg",
+        "filename": "58935dde-8771-4a52-9ccd-797300dfff01.jpg",
+        "width": 1080,
+        "height": 1920,
+        "frames": 1,
+        "bytes": 1439632,
+        "sha256": "857480c104ee8d5cdde5d4b6c113646f8f36c12fbfa1cdd19d23d25312e10a24"
+      },
+      "presentationSubject": "female",
+      "presentationCrop": [
+        125,
+        0,
+        875,
+        1600
+      ],
+      "cropScaleBasis": {
+        "coordinateSpace": "full derivative pixels; top-left origin; [left, top, right, bottom], right/bottom exclusive",
+        "width": 900,
+        "height": 1600,
+        "scaleFromOriginalWidthRatio": [
+          900,
+          1080
+        ]
+      },
+      "description": {
+        "en": "Female rear view of the white outfit, showing the long silhouette and ornate fan-shaped back accessory. Official CN development preview; final game appearance may differ. Reuse permission unknown.",
+        "ko": "흰색 의상의 긴 실루엣과 화려한 부채 모양 등 장식을 보여 주는 여성 뒷모습입니다. 중국 공식 개발 미리보기이며 실제 게임 내 모습과 다를 수 있습니다. 재사용 허가 여부는 확인되지 않았습니다."
+      },
+      "selection": {
+        "en": "The female rear view is primary because it shows the longest available garment silhouette; the female front portrait follows. No full-body female front photograph is provided by the source.",
+        "ko": "확인 가능한 의상 실루엣을 가장 길게 보여 주는 여성 뒷모습을 대표 이미지로 고르고 여성 정면 인물 사진을 추가했습니다. 원문에는 여성 전신 정면 사진이 없습니다."
+      },
+      "derivatives": {
+        "full": {
+          "path": "/media/du-wu-chang-0-full.webp",
+          "width": 900,
+          "height": 1600,
+          "bytes": 225438,
+          "sha256": "363e4dac9325e485fb736366c9f5deebff9125e1f1b473db5e83db1ecd7ca9b8"
+        },
+        "display": {
+          "path": "/media/du-wu-chang-0-display.webp",
+          "width": 750,
+          "height": 1600,
+          "bytes": 218474,
+          "sha256": "5dc669b059f5dec0a5cd2d9ff6c64f4d213c8804b5f46e1d8c8a3c2c016d1827"
+        },
+        "thumbnail": {
+          "path": "/media/du-wu-chang-0-thumb.webp",
+          "width": 600,
+          "height": 710,
+          "bytes": 43194,
+          "sha256": "8d7b964acd0e1daeed16ac7a973f32cc45c9207c90614c4a7cf0a2fd6613778b"
+        },
+        "preview": {
+          "path": "/media/du-wu-chang-0-preview.webp",
+          "width": 75,
+          "height": 160,
+          "bytes": 3100,
+          "sha256": "1a22247989c2a813707e55cfa3abee536c3b20db4d98953ade40110e80b5abb4"
+        }
+      }
+    },
+    {
+      "cosmeticId": "du-wu-chang",
+      "index": 1,
+      "nameOriginal": "渡无常",
+      "sourceId": "cn-20261021-october23-appearances",
+      "sourcePage": "https://www.yysls.cn/news/official/20261023/37780_1317610.html",
+      "articleImageIndex": 13,
+      "original": {
+        "url": "https://nie.res.netease.com/r/pic/20261023/80047a55-b929-46f4-b536-e7b611ed7ce8.jpg",
+        "filename": "80047a55-b929-46f4-b536-e7b611ed7ce8.jpg",
+        "width": 1080,
+        "height": 1920,
+        "frames": 1,
+        "bytes": 1293395,
+        "sha256": "c22243c38ed7719186556e929ef19b93330a7b95f180b8ea4da74d180d6c15cd"
+      },
+      "presentationSubject": "female",
+      "presentationCrop": [
+        125,
+        0,
+        875,
+        1600
+      ],
+      "cropScaleBasis": {
+        "coordinateSpace": "full derivative pixels; top-left origin; [left, top, right, bottom], right/bottom exclusive",
+        "width": 900,
+        "height": 1600,
+        "scaleFromOriginalWidthRatio": [
+          900,
+          1080
+        ]
+      },
+      "description": {
+        "en": "Female front view of the white outfit, sculpted shoulder details and tall headdress. Official CN development preview; final game appearance may differ. Reuse permission unknown.",
+        "ko": "흰색 의상과 조형적인 어깨 장식, 높은 관모의 여성 정면 모습입니다. 중국 공식 개발 미리보기이며 실제 게임 내 모습과 다를 수 있습니다. 재사용 허가 여부는 확인되지 않았습니다."
+      },
+      "selection": {
+        "en": "The female rear view is primary because it shows the longest available garment silhouette; the female front portrait follows. No full-body female front photograph is provided by the source.",
+        "ko": "확인 가능한 의상 실루엣을 가장 길게 보여 주는 여성 뒷모습을 대표 이미지로 고르고 여성 정면 인물 사진을 추가했습니다. 원문에는 여성 전신 정면 사진이 없습니다."
+      },
+      "derivatives": {
+        "full": {
+          "path": "/media/du-wu-chang-1-full.webp",
+          "width": 900,
+          "height": 1600,
+          "bytes": 216668,
+          "sha256": "a15e974c882d3db5bd34741169bcea6b0aec2d5ddfbda7856bb17895c1a91063"
+        },
+        "display": {
+          "path": "/media/du-wu-chang-1-display.webp",
+          "width": 750,
+          "height": 1600,
+          "bytes": 215336,
+          "sha256": "fbf6a263a35fdbf935315d3d416f099834bf9873c10c580bb1e8adfb5ba3c63b"
+        },
+        "thumbnail": {
+          "path": "/media/du-wu-chang-1-thumb.webp",
+          "width": 600,
+          "height": 710,
+          "bytes": 42922,
+          "sha256": "30c05fc3ee3eaf5d1ea01284dc7d2ab8ffc041385683d96057a6e18cf1c2bdc9"
+        },
+        "preview": {
+          "path": "/media/du-wu-chang-1-preview.webp",
+          "width": 75,
+          "height": 160,
+          "bytes": 2944,
+          "sha256": "6ef30cd6cb9478331e7a9f33db47a8e3eeb0c65a8778c2fbd7d34c3722c88108"
+        }
+      }
+    },
+    {
+      "cosmeticId": "shuo-yu-wu-chang",
+      "index": 0,
+      "nameOriginal": "说与无常",
+      "sourceId": "cn-20261021-october23-appearances",
+      "sourcePage": "https://www.yysls.cn/news/official/20261023/37780_1317610.html",
+      "articleImageIndex": 21,
+      "original": {
+        "url": "https://nie.res.netease.com/r/pic/20261023/ec4d0e4f-0526-4dd3-8c38-7ae424338849.jpg",
+        "filename": "ec4d0e4f-0526-4dd3-8c38-7ae424338849.jpg",
+        "width": 1080,
+        "height": 1920,
+        "frames": 1,
+        "bytes": 1372921,
+        "sha256": "0ab0a8ea51a49d0241f6a8265dce9edae350658f18c1dbec1e257ad64cbd49bb"
+      },
+      "presentationSubject": "female",
+      "presentationCrop": [
+        200,
+        600,
+        825,
+        1600
+      ],
+      "cropScaleBasis": {
+        "coordinateSpace": "full derivative pixels; top-left origin; [left, top, right, bottom], right/bottom exclusive",
+        "width": 900,
+        "height": 1600,
+        "scaleFromOriginalWidthRatio": [
+          900,
+          1080
+        ]
+      },
+      "description": {
+        "en": "Female front view of the long white hairstyle; the source also shows the outfit headdress. Official CN development preview; final game appearance may differ. Reuse permission unknown.",
+        "ko": "긴 흰 머리의 여성 정면 모습이며 원본에는 의상의 관모도 함께 보입니다. 중국 공식 개발 미리보기이며 실제 게임 내 모습과 다를 수 있습니다. 재사용 허가 여부는 확인되지 않았습니다."
+      },
+      "selection": {
+        "en": "Female front and rear white-hair views were selected. The outfit headdress obscures the hair crown in the original artwork; it is not represented as part of the hairstyle. The source frame limits the visible length.",
+        "ko": "흰 머리의 여성 정면·뒷면 사진을 골랐습니다. 원본에서는 의상의 관모가 머리 윗부분을 가리며 관모를 헤어스타일의 구성품으로 안내하지 않습니다. 보이는 머리 길이는 원본 구도에 한정됩니다."
+      },
+      "derivatives": {
+        "full": {
+          "path": "/media/shuo-yu-wu-chang-0-full.webp",
+          "width": 900,
+          "height": 1600,
+          "bytes": 223978,
+          "sha256": "bf55c6620845af042506ecb5047c68aac58f1ffd134f4439d4da53dde02575bd"
+        },
+        "display": {
+          "path": "/media/shuo-yu-wu-chang-0-display.webp",
+          "width": 625,
+          "height": 1000,
+          "bytes": 134414,
+          "sha256": "ade635c231807aabb7fbf18f9a9c8d01e10a88e7922233b69592194aacd2ed84"
+        },
+        "thumbnail": {
+          "path": "/media/shuo-yu-wu-chang-0-thumb.webp",
+          "width": 600,
+          "height": 710,
+          "bytes": 61022,
+          "sha256": "32036089b00edc8017703eb1293ebb145b60b9760b7c887077c77cc8780a321e"
+        },
+        "preview": {
+          "path": "/media/shuo-yu-wu-chang-0-preview.webp",
+          "width": 100,
+          "height": 160,
+          "bytes": 4564,
+          "sha256": "261c061b1515d3968aaab65f0f42623f0fa7b2b2bd3bbe1b52e8d26bbe487f1d"
+        }
+      }
+    },
+    {
+      "cosmeticId": "shuo-yu-wu-chang",
+      "index": 1,
+      "nameOriginal": "说与无常",
+      "sourceId": "cn-20261021-october23-appearances",
+      "sourcePage": "https://www.yysls.cn/news/official/20261023/37780_1317610.html",
+      "articleImageIndex": 22,
+      "original": {
+        "url": "https://nie.res.netease.com/r/pic/20261023/66680646-cbae-4941-bce2-f20f5a51166d.jpg",
+        "filename": "66680646-cbae-4941-bce2-f20f5a51166d.jpg",
+        "width": 1080,
+        "height": 1920,
+        "frames": 1,
+        "bytes": 1199539,
+        "sha256": "ee72489d0cdf33df350095cdf2c355368ab136492be8f17fea1963618b3c1369"
+      },
+      "presentationSubject": "female",
+      "presentationCrop": [
+        200,
+        0,
+        800,
+        1600
+      ],
+      "cropScaleBasis": {
+        "coordinateSpace": "full derivative pixels; top-left origin; [left, top, right, bottom], right/bottom exclusive",
+        "width": 900,
+        "height": 1600,
+        "scaleFromOriginalWidthRatio": [
+          900,
+          1080
+        ]
+      },
+      "description": {
+        "en": "Female rear view showing the long white hair and red cord details. Official CN development preview; final game appearance may differ. Reuse permission unknown.",
+        "ko": "긴 흰 머리와 붉은 끈의 세부를 보여 주는 여성 뒷모습입니다. 중국 공식 개발 미리보기이며 실제 게임 내 모습과 다를 수 있습니다. 재사용 허가 여부는 확인되지 않았습니다."
+      },
+      "selection": {
+        "en": "Female front and rear white-hair views were selected. The outfit headdress obscures the hair crown in the original artwork; it is not represented as part of the hairstyle. The source frame limits the visible length.",
+        "ko": "흰 머리의 여성 정면·뒷면 사진을 골랐습니다. 원본에서는 의상의 관모가 머리 윗부분을 가리며 관모를 헤어스타일의 구성품으로 안내하지 않습니다. 보이는 머리 길이는 원본 구도에 한정됩니다."
+      },
+      "derivatives": {
+        "full": {
+          "path": "/media/shuo-yu-wu-chang-1-full.webp",
+          "width": 900,
+          "height": 1600,
+          "bytes": 170278,
+          "sha256": "9de291390029e43db66b980dc73c06e69d02a7b99547d48729322dfc86126577"
+        },
+        "display": {
+          "path": "/media/shuo-yu-wu-chang-1-display.webp",
+          "width": 600,
+          "height": 1600,
+          "bytes": 143812,
+          "sha256": "8dad2596a87425d4d7352bc489b6d51e325cac90634ca9bc9d03c4ea7bcbcc55"
+        },
+        "thumbnail": {
+          "path": "/media/shuo-yu-wu-chang-1-thumb.webp",
+          "width": 600,
+          "height": 710,
+          "bytes": 31360,
+          "sha256": "b0c364066ab0540bc62ab3643344dcc2e3b6cfe39a8cb30eff8a06985c93e408"
+        },
+        "preview": {
+          "path": "/media/shuo-yu-wu-chang-1-preview.webp",
+          "width": 60,
+          "height": 160,
+          "bytes": 2310,
+          "sha256": "0a5a44105e57c98455c9397380863d64407ab6c34df5d5d6be3a25ac155f3040"
+        }
+      }
+    },
+    {
+      "cosmeticId": "wu-chen",
+      "index": 0,
+      "nameOriginal": "无尘",
+      "sourceId": "cn-20261021-october23-appearances",
+      "sourcePage": "https://www.yysls.cn/news/official/20261023/37780_1317610.html",
+      "articleImageIndex": 24,
+      "original": {
+        "url": "https://nie.res.netease.com/r/pic/20261023/4c0b5d99-5b0a-46ba-a360-722177e7f873.png",
+        "filename": "4c0b5d99-5b0a-46ba-a360-722177e7f873.png",
+        "width": 2880,
+        "height": 5120,
+        "frames": 1,
+        "bytes": 22006938,
+        "sha256": "3250737e5173cddef06cadd082c1f460c4a44f0d4356defd8731d18f5282bdec"
+      },
+      "presentationSubject": "item",
+      "presentationCrop": [
+        0,
+        0,
+        900,
+        1600
+      ],
+      "cropScaleBasis": {
+        "coordinateSpace": "full derivative pixels; top-left origin; [left, top, right, bottom], right/bottom exclusive",
+        "width": 900,
+        "height": 1600,
+        "scaleFromOriginalWidthRatio": [
+          900,
+          2880
+        ]
+      },
+      "description": {
+        "en": "Close view of the black-and-gold dance-ribbon drum weapon, held by the male model shown in the source. Official CN development preview; final game appearance may differ. Reuse permission unknown.",
+        "ko": "공식 원문의 남성 캐릭터가 든 검정·금색 무릉고 무기의 근접 모습입니다. 중국 공식 개발 미리보기이며 실제 게임 내 모습과 다를 수 있습니다. 재사용 허가 여부는 확인되지 않았습니다."
+      },
+      "selection": {
+        "en": "The named weapon section provides male model views only. The complete clean front image is primary so both the drum and the model face remain intact; a rear view shows the ribbons. No female alternative was invented.",
+        "ko": "이름이 명시된 무기 구간에는 남성 캐릭터 사진만 있습니다. 북과 얼굴이 잘리지 않도록 깔끔한 정면 사진 전체를 대표 이미지로 고르고 끈을 보여 주는 뒷모습을 추가했습니다. 여성 대체 이미지를 만들지 않았습니다."
+      },
+      "derivatives": {
+        "full": {
+          "path": "/media/wu-chen-0-full.webp",
+          "width": 900,
+          "height": 1600,
+          "bytes": 217136,
+          "sha256": "4a7ef37b46c326a893e957257e82976f89d0b335e63656267d762efccb9bdf6d"
+        },
+        "display": {
+          "path": "/media/wu-chen-0-display.webp",
+          "width": 900,
+          "height": 1600,
+          "bytes": 224708,
+          "sha256": "dde9c6999c81466dcb64cc0435ba45b51c713ddbf5ba9679e40a545002526e0c"
+        },
+        "thumbnail": {
+          "path": "/media/wu-chen-0-thumb.webp",
+          "width": 600,
+          "height": 710,
+          "bytes": 46542,
+          "sha256": "37c6bb701ff6af71ebb25c63e54bfe7d0d18d16bf2758b4c37c287dbf8725dca"
+        },
+        "preview": {
+          "path": "/media/wu-chen-0-preview.webp",
+          "width": 90,
+          "height": 160,
+          "bytes": 3822,
+          "sha256": "8c7d9a9f07ec763769c3d9009ca620c12ed12afae92da395a53323ada5f3e76e"
+        }
+      }
+    },
+    {
+      "cosmeticId": "wu-chen",
+      "index": 1,
+      "nameOriginal": "无尘",
+      "sourceId": "cn-20261021-october23-appearances",
+      "sourcePage": "https://www.yysls.cn/news/official/20261023/37780_1317610.html",
+      "articleImageIndex": 25,
+      "original": {
+        "url": "https://nie.res.netease.com/r/pic/20261023/5baacc54-aa90-4a53-92fe-de2f78f54ef5.png",
+        "filename": "5baacc54-aa90-4a53-92fe-de2f78f54ef5.png",
+        "width": 1440,
+        "height": 2560,
+        "frames": 1,
+        "bytes": 5598859,
+        "sha256": "43b5dd9db388a19c35df6fa524f70ec29b96a929155aa647e21c5134a82539cf"
+      },
+      "presentationSubject": "detail",
+      "presentationCrop": [
+        125,
+        83,
+        775,
+        1550
+      ],
+      "cropScaleBasis": {
+        "coordinateSpace": "full derivative pixels; top-left origin; [left, top, right, bottom], right/bottom exclusive",
+        "width": 900,
+        "height": 1600,
+        "scaleFromOriginalWidthRatio": [
+          900,
+          1440
+        ]
+      },
+      "description": {
+        "en": "Rear view of the dance-ribbon drum weapon and its long dark ribbons on the source model. Official CN development preview; final game appearance may differ. Reuse permission unknown.",
+        "ko": "공식 캐릭터의 무릉고 무기와 길게 늘어진 어두운 끈을 보여 주는 뒷모습입니다. 중국 공식 개발 미리보기이며 실제 게임 내 모습과 다를 수 있습니다. 재사용 허가 여부는 확인되지 않았습니다."
+      },
+      "selection": {
+        "en": "The named weapon section provides male model views only. The complete clean front image is primary so both the drum and the model face remain intact; a rear view shows the ribbons. No female alternative was invented.",
+        "ko": "이름이 명시된 무기 구간에는 남성 캐릭터 사진만 있습니다. 북과 얼굴이 잘리지 않도록 깔끔한 정면 사진 전체를 대표 이미지로 고르고 끈을 보여 주는 뒷모습을 추가했습니다. 여성 대체 이미지를 만들지 않았습니다."
+      },
+      "derivatives": {
+        "full": {
+          "path": "/media/wu-chen-1-full.webp",
+          "width": 900,
+          "height": 1600,
+          "bytes": 152124,
+          "sha256": "f2b052565a7a4077300e564278eefe493f7af2db4330b2bfd4239edb991aea3f"
+        },
+        "display": {
+          "path": "/media/wu-chen-1-display.webp",
+          "width": 650,
+          "height": 1467,
+          "bytes": 146852,
+          "sha256": "b475ce2062eb161c6ed8e0f229d79f06afb19f370c8188831f2428f2949bf812"
+        },
+        "thumbnail": {
+          "path": "/media/wu-chen-1-thumb.webp",
+          "width": 600,
+          "height": 710,
+          "bytes": 33324,
+          "sha256": "2e71aed31515ceca1caf9aed84793392c20852f9c48e0622e530bd4bd4e83972"
+        },
+        "preview": {
+          "path": "/media/wu-chen-1-preview.webp",
+          "width": 71,
+          "height": 160,
+          "bytes": 2920,
+          "sha256": "e65fbb77557b2890fe737840bedcf68041291a31236dde9e3a92405e13f75170"
+        }
+      }
+    },
+    {
+      "cosmeticId": "zhai-xing-yue",
+      "index": 0,
+      "nameOriginal": "摘星月",
+      "sourceId": "cn-20261023-update",
+      "sourcePage": "https://www.yysls.cn/news/update/20261023/40412_1317532.html",
+      "original": {
+        "url": "https://nie.res.netease.com/r/pic/20261023/a2f2c8a2-5699-4358-a04b-861d92ade64a.jpg",
+        "filename": "a2f2c8a2-5699-4358-a04b-861d92ade64a.jpg",
+        "width": 2688,
+        "height": 24672,
+        "frames": 1,
+        "bytes": 14381184,
+        "sha256": "93213631a4acb2cfd07ac3e7eaed46f8a4b05bbea73ea13d59d04debb63131be"
+      },
+      "sourceCrop": [
+        150,
+        16620,
+        1280,
+        17510
+      ],
+      "sourceCropCoordinateSpace": "original patch-poster pixels; top-left origin; [left, top, right, bottom], right/bottom exclusive",
+      "presentationSubject": "item",
+      "presentationCrop": [
+        110,
+        15,
+        730,
+        705
+      ],
+      "cropScaleBasis": {
+        "coordinateSpace": "full derivative pixels after named-panel sourceCrop extraction; top-left origin; [left, top, right, bottom], right/bottom exclusive",
+        "width": 900,
+        "height": 709,
+        "scaleFromSourceCropWidthRatio": [
+          900,
+          1130
+        ]
+      },
+      "description": {
+        "en": "Blue moon-and-star earring diagram, with the complete chain and dangling bead.",
+        "ko": "사슬과 늘어진 구슬 전체를 보여 주는 푸른 달·별 귀걸이 도해입니다."
+      },
+      "selection": {
+        "en": "The source provides an isolated, explicitly named item diagram. No female or male worn view is shown for this item; no alternative view was fabricated. The preview contains the complete item diagram and omits adjacent labels where possible.",
+        "ko": "원문에 분리된 외관 도해와 이름이 명시되어 있습니다. 이 외관의 여성·남성 착용 사진은 없으며 대체 사진을 만들지 않았습니다. 미리보기에는 외관 도해 전체를 넣고 가능한 한 옆의 명칭 표기를 제외했습니다."
+      },
+      "derivatives": {
+        "full": {
+          "path": "/media/zhai-xing-yue-0-full.webp",
+          "width": 900,
+          "height": 709,
+          "bytes": 43236,
+          "sha256": "cfe91d734e45f89993b4a4fad3b1dd6e936f0902815812173d77393d08d7ba75"
+        },
+        "display": {
+          "path": "/media/zhai-xing-yue-0-display.webp",
+          "width": 620,
+          "height": 690,
+          "bytes": 29228,
+          "sha256": "3ee4ebec077972b88e35175c2d2c5215937d933feec19ff3e0fc5731e3c29aaf"
+        },
+        "thumbnail": {
+          "path": "/media/zhai-xing-yue-0-thumb.webp",
+          "width": 600,
+          "height": 710,
+          "bytes": 20300,
+          "sha256": "20c0b1d63f40effb8a7f50aefadab958a74f967d55e51fddcee7acfeef78af72"
+        },
+        "preview": {
+          "path": "/media/zhai-xing-yue-0-preview.webp",
+          "width": 144,
+          "height": 160,
+          "bytes": 2404,
+          "sha256": "46b4d59e4dd6dd5362ef3e917688f5ce38212311f8f906d136252596e734cadb"
+        }
+      }
+    },
+    {
+      "cosmeticId": "jin-ye-liu-guang",
+      "index": 0,
+      "nameOriginal": "锦夜流光",
+      "sourceId": "cn-20261023-update",
+      "sourcePage": "https://www.yysls.cn/news/update/20261023/40412_1317532.html",
+      "original": {
+        "url": "https://nie.res.netease.com/r/pic/20261023/a2f2c8a2-5699-4358-a04b-861d92ade64a.jpg",
+        "filename": "a2f2c8a2-5699-4358-a04b-861d92ade64a.jpg",
+        "width": 2688,
+        "height": 24672,
+        "frames": 1,
+        "bytes": 14381184,
+        "sha256": "93213631a4acb2cfd07ac3e7eaed46f8a4b05bbea73ea13d59d04debb63131be"
+      },
+      "sourceCrop": [
+        1320,
+        16620,
+        2538,
+        17490
+      ],
+      "sourceCropCoordinateSpace": "original patch-poster pixels; top-left origin; [left, top, right, bottom], right/bottom exclusive",
+      "presentationSubject": "item",
+      "presentationCrop": [
+        80,
+        20,
+        640,
+        625
+      ],
+      "cropScaleBasis": {
+        "coordinateSpace": "full derivative pixels after named-panel sourceCrop extraction; top-left origin; [left, top, right, bottom], right/bottom exclusive",
+        "width": 900,
+        "height": 643,
+        "scaleFromSourceCropWidthRatio": [
+          900,
+          1218
+        ]
+      },
+      "description": {
+        "en": "Silver star hair ornament diagram, with branching pins, chains and dangling stars.",
+        "ko": "갈라진 비녀와 사슬, 늘어진 별 장식을 보여 주는 은빛 별 머리 장식 도해입니다."
+      },
+      "selection": {
+        "en": "The source provides an isolated, explicitly named item diagram. No female or male worn view is shown for this item; no alternative view was fabricated. The preview contains the complete item diagram and omits adjacent labels where possible.",
+        "ko": "원문에 분리된 외관 도해와 이름이 명시되어 있습니다. 이 외관의 여성·남성 착용 사진은 없으며 대체 사진을 만들지 않았습니다. 미리보기에는 외관 도해 전체를 넣고 가능한 한 옆의 명칭 표기를 제외했습니다."
+      },
+      "derivatives": {
+        "full": {
+          "path": "/media/jin-ye-liu-guang-0-full.webp",
+          "width": 900,
+          "height": 643,
+          "bytes": 41616,
+          "sha256": "c25f36a827ab8b15c83d7edd62e3ddb0ec21319992bb0a249d349843f8b06a5a"
+        },
+        "display": {
+          "path": "/media/jin-ye-liu-guang-0-display.webp",
+          "width": 560,
+          "height": 605,
+          "bytes": 24682,
+          "sha256": "09f642d574d84bd606e1cdec8af6074a3c65f0690772b9e8bf5ebfb02f170206"
+        },
+        "thumbnail": {
+          "path": "/media/jin-ye-liu-guang-0-thumb.webp",
+          "width": 600,
+          "height": 710,
+          "bytes": 21728,
+          "sha256": "a52df86b2491645067759a62c75edbf07ef604a32ed0b16316bc50576859fd1c"
+        },
+        "preview": {
+          "path": "/media/jin-ye-liu-guang-0-preview.webp",
+          "width": 148,
+          "height": 160,
+          "bytes": 2460,
+          "sha256": "fb435e1d0b7dd7ea36d3fb2c3ef5171821f30a4bfb35f5ac0c67f5cdbedc08e0"
+        }
+      }
+    },
+    {
+      "cosmeticId": "mian-yun-qi-niao",
+      "index": 0,
+      "nameOriginal": "眠云栖鸟",
+      "sourceId": "cn-20261023-update",
+      "sourcePage": "https://www.yysls.cn/news/update/20261023/40412_1317532.html",
+      "original": {
+        "url": "https://nie.res.netease.com/r/pic/20261023/a2f2c8a2-5699-4358-a04b-861d92ade64a.jpg",
+        "filename": "a2f2c8a2-5699-4358-a04b-861d92ade64a.jpg",
+        "width": 2688,
+        "height": 24672,
+        "frames": 1,
+        "bytes": 14381184,
+        "sha256": "93213631a4acb2cfd07ac3e7eaed46f8a4b05bbea73ea13d59d04debb63131be"
+      },
+      "sourceCrop": [
+        150,
+        17510,
+        1280,
+        18350
+      ],
+      "sourceCropCoordinateSpace": "original patch-poster pixels; top-left origin; [left, top, right, bottom], right/bottom exclusive",
+      "presentationSubject": "item",
+      "presentationCrop": [
+        140,
+        30,
+        690,
+        645
+      ],
+      "cropScaleBasis": {
+        "coordinateSpace": "full derivative pixels after named-panel sourceCrop extraction; top-left origin; [left, top, right, bottom], right/bottom exclusive",
+        "width": 900,
+        "height": 669,
+        "scaleFromSourceCropWidthRatio": [
+          900,
+          1130
+        ]
+      },
+      "description": {
+        "en": "Cloud-and-bird necklace diagram, showing beaded strands and the hanging bird and star.",
+        "ko": "구슬 줄과 매달린 새·별을 보여 주는 구름·새 목장식 도해입니다."
+      },
+      "selection": {
+        "en": "The source provides an isolated, explicitly named item diagram. No female or male worn view is shown for this item; no alternative view was fabricated. The preview contains the complete item diagram and omits adjacent labels where possible.",
+        "ko": "원문에 분리된 외관 도해와 이름이 명시되어 있습니다. 이 외관의 여성·남성 착용 사진은 없으며 대체 사진을 만들지 않았습니다. 미리보기에는 외관 도해 전체를 넣고 가능한 한 옆의 명칭 표기를 제외했습니다."
+      },
+      "derivatives": {
+        "full": {
+          "path": "/media/mian-yun-qi-niao-0-full.webp",
+          "width": 900,
+          "height": 669,
+          "bytes": 45284,
+          "sha256": "854e0c0ce6207d654bae89701a3a4df72679f46f94bff8a937dadf51d419d73a"
+        },
+        "display": {
+          "path": "/media/mian-yun-qi-niao-0-display.webp",
+          "width": 550,
+          "height": 615,
+          "bytes": 23566,
+          "sha256": "1cfe715b450311a72548c958f2ef03a80190e936df7da1926f5826b83325d96f"
+        },
+        "thumbnail": {
+          "path": "/media/mian-yun-qi-niao-0-thumb.webp",
+          "width": 600,
+          "height": 710,
+          "bytes": 18926,
+          "sha256": "4a3d6bc0f9eb212064aa231643bcd0c9bdb9547e4b99af12ace0abfd5c60d0c0"
+        },
+        "preview": {
+          "path": "/media/mian-yun-qi-niao-0-preview.webp",
+          "width": 143,
+          "height": 160,
+          "bytes": 2178,
+          "sha256": "88932f3460a7cd58966bd40adda1bd4098b827e8f41d4aa99011b8a3db801de0"
+        }
+      }
+    },
+    {
+      "cosmeticId": "ning-hui-luo",
+      "index": 0,
+      "nameOriginal": "凝辉络",
+      "sourceId": "cn-20261023-update",
+      "sourcePage": "https://www.yysls.cn/news/update/20261023/40412_1317532.html",
+      "original": {
+        "url": "https://nie.res.netease.com/r/pic/20261023/a2f2c8a2-5699-4358-a04b-861d92ade64a.jpg",
+        "filename": "a2f2c8a2-5699-4358-a04b-861d92ade64a.jpg",
+        "width": 2688,
+        "height": 24672,
+        "frames": 1,
+        "bytes": 14381184,
+        "sha256": "93213631a4acb2cfd07ac3e7eaed46f8a4b05bbea73ea13d59d04debb63131be"
+      },
+      "sourceCrop": [
+        1320,
+        17510,
+        2538,
+        18350
+      ],
+      "sourceCropCoordinateSpace": "original patch-poster pixels; top-left origin; [left, top, right, bottom], right/bottom exclusive",
+      "presentationSubject": "item",
+      "presentationCrop": [
+        90,
+        20,
+        650,
+        620
+      ],
+      "cropScaleBasis": {
+        "coordinateSpace": "full derivative pixels after named-panel sourceCrop extraction; top-left origin; [left, top, right, bottom], right/bottom exclusive",
+        "width": 900,
+        "height": 621,
+        "scaleFromSourceCropWidthRatio": [
+          900,
+          1218
+        ]
+      },
+      "description": {
+        "en": "Silver beaded face-chain diagram, showing the layered strands and long drops.",
+        "ko": "겹친 줄과 길게 늘어진 장식을 보여 주는 은빛 구슬 얼굴 사슬 도해입니다."
+      },
+      "selection": {
+        "en": "The source provides an isolated, explicitly named item diagram. No female or male worn view is shown for this item; no alternative view was fabricated. The preview contains the complete item diagram and omits adjacent labels where possible.",
+        "ko": "원문에 분리된 외관 도해와 이름이 명시되어 있습니다. 이 외관의 여성·남성 착용 사진은 없으며 대체 사진을 만들지 않았습니다. 미리보기에는 외관 도해 전체를 넣고 가능한 한 옆의 명칭 표기를 제외했습니다."
+      },
+      "derivatives": {
+        "full": {
+          "path": "/media/ning-hui-luo-0-full.webp",
+          "width": 900,
+          "height": 621,
+          "bytes": 44328,
+          "sha256": "ab2d8520932e2929df7da1f63aa3e0ee3b6624452d6c6cb2c1353e3824a4f2ca"
+        },
+        "display": {
+          "path": "/media/ning-hui-luo-0-display.webp",
+          "width": 560,
+          "height": 600,
+          "bytes": 28968,
+          "sha256": "d9f76f9654d7daac697ad2cd5bd5d0cffecbfce37e72209d8ab8af271220f3d8"
+        },
+        "thumbnail": {
+          "path": "/media/ning-hui-luo-0-thumb.webp",
+          "width": 600,
+          "height": 710,
+          "bytes": 23412,
+          "sha256": "6e5e6091632986b34e6a62c30b5af71f0b937ac1f10ba0808c062e1d174d8941"
+        },
+        "preview": {
+          "path": "/media/ning-hui-luo-0-preview.webp",
+          "width": 149,
+          "height": 160,
+          "bytes": 2570,
+          "sha256": "4b3f3c1ccdfaf7c735fd97e6f58553b0eac375f6cde2c071a458014188c1c68e"
+        }
+      }
+    },
+    {
+      "cosmeticId": "huang-jin-yan",
+      "index": 0,
+      "nameOriginal": "黄金眼",
+      "sourceId": "cn-20261023-update",
+      "sourcePage": "https://www.yysls.cn/news/update/20261023/40412_1317532.html",
+      "original": {
+        "url": "https://nie.res.netease.com/r/pic/20261023/b145f967-5463-4f6d-896a-19af996023dc.jpg",
+        "filename": "b145f967-5463-4f6d-896a-19af996023dc.jpg",
+        "width": 2688,
+        "height": 25043,
+        "frames": 1,
+        "bytes": 10310146,
+        "sha256": "7c945c1454fb0a8f47edb03342971f2ea6a5c85685350d9d56caa07b8cd9ef8c"
+      },
+      "sourceCrop": [
+        150,
+        9020,
+        2538,
+        9900
+      ],
+      "sourceCropCoordinateSpace": "original patch-poster pixels; top-left origin; [left, top, right, bottom], right/bottom exclusive",
+      "presentationSubject": "item",
+      "presentationCrop": [
+        65,
+        65,
+        410,
+        250
+      ],
+      "cropScaleBasis": {
+        "coordinateSpace": "full derivative pixels after named-panel sourceCrop extraction; top-left origin; [left, top, right, bottom], right/bottom exclusive",
+        "width": 900,
+        "height": 332,
+        "scaleFromSourceCropWidthRatio": [
+          900,
+          2388
+        ]
+      },
+      "description": {
+        "en": "Round gold-rimmed glasses diagram; no character-worn alternative is shown in this named panel.",
+        "ko": "둥근 금테 안경 도해입니다. 이름이 명시된 이 구간에는 캐릭터 착용 사진이 없습니다."
+      },
+      "selection": {
+        "en": "The source provides an isolated, explicitly named item diagram. No female or male worn view is shown for this item; no alternative view was fabricated. The preview contains the complete item diagram and omits adjacent labels where possible.",
+        "ko": "원문에 분리된 외관 도해와 이름이 명시되어 있습니다. 이 외관의 여성·남성 착용 사진은 없으며 대체 사진을 만들지 않았습니다. 미리보기에는 외관 도해 전체를 넣고 가능한 한 옆의 명칭 표기를 제외했습니다."
+      },
+      "derivatives": {
+        "full": {
+          "path": "/media/huang-jin-yan-0-full.webp",
+          "width": 900,
+          "height": 332,
+          "bytes": 20892,
+          "sha256": "85b328c1050cb9503d331e7fa27ad9a9c7c3ace1c3929ad776b0c554d9c728c4"
+        },
+        "display": {
+          "path": "/media/huang-jin-yan-0-display.webp",
+          "width": 345,
+          "height": 185,
+          "bytes": 5846,
+          "sha256": "2bfea59a7f5dadde0a8b66358f17cc87e694f94cd08bd3dbff794ec0d868df1f"
+        },
+        "thumbnail": {
+          "path": "/media/huang-jin-yan-0-thumb.webp",
+          "width": 600,
+          "height": 710,
+          "bytes": 8676,
+          "sha256": "5885ea792f4b28b7c4982b79cc72b03d40388d321d08f18dde71f245c20f617f"
+        },
+        "preview": {
+          "path": "/media/huang-jin-yan-0-preview.webp",
+          "width": 160,
+          "height": 86,
+          "bytes": 1460,
+          "sha256": "a1dc78c514a40d4ad44f94131edcba5455e0cd5dacd33705e4da537ce7e0eae6"
+        }
+      }
+    }
+  ]
+}

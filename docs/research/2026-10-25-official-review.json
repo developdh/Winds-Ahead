@@ -1,0 +1,137 @@
+{
+  "checkedAt": "2026-10-25",
+  "reviewTimezone": "America/New_York",
+  "sourceId": "cn-20261023-update",
+  "sourceUrl": "https://www.yysls.cn/news/update/20261023/40412_1317532.html",
+  "displayedPublicationDate": "2026-10-23",
+  "sourceImages": [
+    {
+      "index": 1,
+      "url": "https://nie.res.netease.com/r/pic/20261023/a2f2c8a2-5699-4358-a04b-861d92ade64a.jpg",
+      "width": 2688,
+      "height": 24672,
+      "sha256": "93213631a4acb2cfd07ac3e7eaed46f8a4b05bbea73ea13d59d04debb63131be",
+      "localPath": ".tmp/cn-patch-20261025/patch1.jpg"
+    },
+    {
+      "index": 2,
+      "url": "https://nie.res.netease.com/r/pic/20261023/b145f967-5463-4f6d-896a-19af996023dc.jpg",
+      "width": 2688,
+      "height": 25043,
+      "sha256": "7c945c1454fb0a8f47edb03342971f2ea6a5c85685350d9d56caa07b8cd9ef8c",
+      "localPath": ".tmp/cn-patch-20261025/patch2.jpg"
+    }
+  ],
+  "statusDecision": "Prospective scheduled maintenance: masthead plans October 23 07:00:00–16:00:00 but warns timing may advance/delay. Named sections say after the update. This does not independently confirm release.",
+  "mainAppearanceEnds": [
+    {
+      "cosmeticId": "sui-xing-fang-shuo",
+      "nameOriginal": "岁星方朔",
+      "end": "2027-01-11T04:59:59",
+      "precision": "second",
+      "timezone": null,
+      "posterIndex": 1,
+      "inspectedCrop": {
+        "left": 0,
+        "top": 14400,
+        "width": 2688,
+        "height": 1800
+      },
+      "localInspectionPath": ".tmp/cn-patch-20261025/sui-xing-end.jpg"
+    },
+    {
+      "cosmeticId": "du-wu-chang",
+      "nameOriginal": "渡无常",
+      "end": "2026-11-23T04:59:59",
+      "precision": "second",
+      "timezone": null,
+      "posterIndex": 1,
+      "inspectedCrop": {
+        "left": 0,
+        "top": 21600,
+        "width": 2688,
+        "height": 1800
+      },
+      "localInspectionPath": ".tmp/cn-patch-20261025/du-end.jpg"
+    },
+    {
+      "cosmeticId": "shuo-yu-wu-chang",
+      "nameOriginal": "说与无常",
+      "end": "2027-01-21T04:59:59",
+      "precision": "second",
+      "timezone": null,
+      "posterIndex": 2,
+      "inspectedCrop": {
+        "left": 0,
+        "top": 1800,
+        "width": 2688,
+        "height": 1800
+      },
+      "localInspectionPath": ".tmp/cn-patch-20261025/shuo-end.jpg"
+    },
+    {
+      "cosmeticId": "wu-chen",
+      "nameOriginal": "无尘",
+      "end": null,
+      "timezone": null,
+      "posterIndex": 2,
+      "inspectedCrop": {
+        "left": 0,
+        "top": 7200,
+        "width": 2688,
+        "height": 1800
+      },
+      "note": "No sale end; purchase-count series discount, not time-limited."
+    }
+  ],
+  "extraAccessoryEvidence": [
+    {
+      "ids": [
+        "zhai-xing-yue",
+        "jin-ye-liu-guang",
+        "mian-yun-qi-niao",
+        "ning-hui-luo"
+      ],
+      "posterIndex": 1,
+      "namedArtworkApproximateY": [
+        16400,
+        18400
+      ],
+      "textCrop": {
+        "left": 0,
+        "top": 18000,
+        "width": 2688,
+        "height": 1800
+      },
+      "poolEnd": "2026-12-11T04:59:59",
+      "timezone": null,
+      "note": "Gift threshold not stated. Shop limited rewards explicitly removed at pool end. Exact claim expiry for the cumulative gifts not separately stated."
+    },
+    {
+      "ids": [
+        "huang-jin-yan"
+      ],
+      "posterIndex": 2,
+      "namedArtworkApproximateY": [
+        9000,
+        10000
+      ],
+      "textCrop": {
+        "left": 0,
+        "top": 10800,
+        "width": 2688,
+        "height": 1800
+      },
+      "eventEnd": "2026-11-06T04:59:59",
+      "timezone": null,
+      "prerequisites": {
+        "level": 10,
+        "completedChapterOriginal": "又见新来燕"
+      },
+      "note": "Participation gives the face accessory; precise task and threshold unstated. Event story stays permanently after the event; that does not prove continuing reward acquisition."
+    }
+  ],
+  "exclusion": "The separate 岁星方朔 environment/scenario and player namecards, chat bubbles, scenario ornaments and dynamic titles remain outside the bounded existing appearance categories.",
+  "forecastsChanged": false,
+  "schedulesChanged": false
+}

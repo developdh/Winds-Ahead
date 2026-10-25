@@ -2,6 +2,26 @@
   "schemaVersion": 1,
   "entries": [
     {
+      "id": "cn-october23-appearances-20261025",
+      "date": "2026-10-25",
+      "kind": {
+        "en": "Official CN appearance update",
+        "ko": "중국 공식 외관 업데이트"
+      },
+      "title": {
+        "en": "October 23 CN appearances and event accessories",
+        "ko": "중국 10월 23일 외관·이벤트 장신구"
+      },
+      "body": {
+        "en": "Added nine named CN appearance announcements with regional costs, reward conditions, fourteen inspected references and eight explicitly sourced route ends. Draw-pool closures stay distinct from unannounced claim expiry. Purchase-count weapon prices, unknown timezones, provisional names and unknown Global schedules remain explicit.",
+        "ko": "중국 외관 예고 9종의 가격·보상 조건·확인한 참고 사진 14장·직접 명시된 획득 경로 종료 8건을 추가했습니다. 뽑기 풀 종료와 미표기 보상 수령 만료를 구분합니다. 무기의 구매 횟수별 가격·미정 시간대·임시 명칭·미발표 글로벌 일정을 명시합니다."
+      },
+      "sourceIds": [
+        "cn-20261021-october23-appearances",
+        "cn-20261023-update"
+      ]
+    },
+    {
       "id": "october25-global-appearances-20261022",
       "date": "2026-10-22",
       "kind": {
