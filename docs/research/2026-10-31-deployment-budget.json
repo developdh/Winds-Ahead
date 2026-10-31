@@ -1,0 +1,57 @@
+{
+  "checkedAt": "2026-10-31",
+  "reviewTimezone": "Asia/Seoul",
+  "baseline": "v0.3.16 / 0642df54528d341aea8adffdfe2ea787f530cc90",
+  "reason": "The v0.3.16 raw expanded tar was 271076864 bytes; native ingestion rejects archives beyond 256 MiB. Source-only fallback version49 failed with a generic package/lockfile sync error despite successful local and GitHub npm ci. No media encoding is changed.",
+  "sharedFullImages": [
+    {
+      "previousPath": "/media/xia-zhe-wu-ming-1-full.webp",
+      "sharedPath": "/media/bu-xian-shen-xian-1-full.webp",
+      "bytes": 229584,
+      "sha256": "a0d723b2258a2d6367384b94de86815ed954a9661e4db7440e476fe9a81ff241"
+    },
+    {
+      "previousPath": "/media/yu-shan-san-e-1-full.webp",
+      "sharedPath": "/media/e-de-jiang-hu-1-full.webp",
+      "bytes": 185968,
+      "sha256": "1581ce60f74da75627d25f7aca7f10afe3275013ffe0f3b2997f8974507b928a"
+    },
+    {
+      "previousPath": "/media/zhui-bu-shang-e-1-full.webp",
+      "sharedPath": "/media/yun-tou-zhuan-miao-1-full.webp",
+      "bytes": 184904,
+      "sha256": "681dd58d9372622f8247270deba9db8298e661871125c71be0da66d0a130cbb2"
+    },
+    {
+      "previousPath": "/media/global-ghostlight-pumpkin-0-full.webp",
+      "sharedPath": "/media/global-fall-confection-0-full.webp",
+      "bytes": 107582,
+      "sha256": "08a648edbf20051de0e23d1c20d836fd501f7b9d3879594f391edec95dc591b0"
+    }
+  ],
+  "imagePayloadBytesSaved": 708038,
+  "preserved": "Every image pixel, full composition, dimensions, crop, gallery index, individual source URL, caption, attribution, rights statement and cosmetic identity remain intact. Prior asset URLs redirect to the identical shared image.",
+  "previousDeployment": {
+    "projectId": "appgprj_6aa6131c82e081918ee27efb4b40fe53",
+    "versionId": "appgprj_6aa6131c82e081918ee27efb4b40fe53~appgver_430843294cf881919f64c902399a537f",
+    "deploymentId": "appgdep_6ae5de5d4a248191976ed17cd94739c2",
+    "status": "failed"
+  },
+  "candidate": {
+    "expandedTarBytes": 267233280,
+    "payloadBytes": 264503068,
+    "limitBytes": 268435456,
+    "headroomBytes": 1202176,
+    "rawTarBytesSaved": 3843584,
+    "packaging": "COPYFILE_DISABLE=1; tar GNU format with no xattrs, ACLs or flags"
+  },
+  "visitorData": {
+    "method": "Build-only projection of unused audit fields; repeated string values share a JavaScript table. Complete canonical JSON remains in Git. No fetch or runtime decompression.",
+    "preserved": "Names, statuses, acquisition (including sourceExcerpt), all calendar/deadline data, source links/disclosures, galleries, image provenance/attribution and official videos remain unchanged."
+  },
+  "archivePreflight": {
+    "previousArchive": "rejected by local preflight (expected negative check)",
+    "candidateArchive": "passed",
+    "countsTarHeadersAndMetadata": true
+  }
+}

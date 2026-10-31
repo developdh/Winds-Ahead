@@ -20,7 +20,7 @@ Use `vX.Y.Z` for Git tags and `X.Y.Z` for `site/package.json`, the top-level `si
 2. Bump the version and lockfile together from `site/` using `npm version patch --no-git-tag-version` (or `minor` for a feature release). The initial release already uses `0.1.0`. This does not publish to npm; the application remains private as an npm package.
 3. Add paired notes at `docs/en/releases/X.Y.Z.md` and `docs/ko/releases/X.Y.Z.md`. Describe the final behavior, relevant fixes, actual validation and material limits. Include links to the website and the relevant PRs. Preserve earlier notes.
 4. Run checks appropriate to the changed files and require successful project CI for the release commit. For application/content changes, validate types, tests, content and the production build. Exercise affected UI flows in English/Korean and on mobile when relevant. Documentation changes require version/link/content review; they do not justify invented browser results.
-5. Complete the reviewed integration into `main` and verify its exact commit. Do not enable GitHub auto-merge. If integration or a required check is blocked, report it and retain the prepared work without claiming a completed release.
+5. For site changes, package the built output through the established Sites helper and run `npm run check:archive -- /absolute/path/site.tar.gz` before publishing a tag. The expanded tar, including headers and metadata, must fit 256 MiB; checking only compressed size or file payload is insufficient. On macOS, exclude AppleDouble, extended attributes and ACLs when packaging (for example, `COPYFILE_DISABLE=1` with tar’s GNU format, `--no-xattrs --no-acls --no-fflags`). Keep complete canonical research in Git, preserve image pixels, and recheck visitor behavior when reducing a bundle. Complete the reviewed integration into `main`, rebuild/package that exact commit and verify its archive again. Do not enable GitHub auto-merge. If integration or a required check is blocked, report it and retain the prepared work without claiming a completed release.
 6. Create and push an annotated `vX.Y.Z` tag on that verified commit. Publish a non-draft GitHub release using the existing tag, an English title such as `Winds Ahead v0.1.0`, and a single body containing both language versions of the notes. Mark it latest unless it is explicitly a prerelease. Use `gh release create` with `--verify-tag` and `--notes-file` so an unintended tag is not created.
 7. Verify the published release URL, tag commit, versions, notes and latest status. Report the release link to the user.
 
@@ -29,6 +29,8 @@ GitHub releases and website deployment are separate results. Deploy site changes
 This is part of completing each update, including updates from the existing calendar task. It does not add another scheduled job or enable automatic merging. If publishing fails, inspect whether the tag or release already exists before retrying to avoid duplicates.
 
 ## Release notes
+
+- [0.3.17 — Smaller deployment without changing artwork](releases/0.3.17.md)
 
 - [0.3.16 — Late October appearances and revised Battle Pass end](releases/0.3.16.md)
 

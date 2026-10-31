@@ -72,7 +72,7 @@ The app uses React, TypeScript, Next.js APIs through vinext/Vite, Tailwind CSS a
 
 Never commit credentials, account details, private screenshots or copyrighted material without a documented reuse basis.
 
-Sites deployment opens the repository root. For that workflow, run `npm ci` and `npm run build` from the root: installation delegates to the locked `site/` dependencies, and the build copies the verified Worker output to root `dist/`. The application remains in `site/`. Root and app hosting manifests must match; CI checks the root build entry.
+Sites deployment opens the repository root. For that workflow, run `npm ci` and `npm run build` from the root: installation delegates to the locked `site/` dependencies, and the build copies the verified Worker output to root `dist/`. The application remains in `site/`. Root and app hosting manifests must match; CI checks the root build entry. Before tagging site updates, package the exact build and run `npm run check:archive -- /absolute/path/site.tar.gz`; its expanded tar must fit 256 MiB. See [releasing](docs/en/releasing.md).
 
 </details>
 
