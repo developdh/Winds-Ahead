@@ -32,3 +32,8 @@ jobs:
         run: node scripts/validate-history.mjs
       - name: Build repository-root deployment output
         run: npm run build --prefix ..
+      - name: Check expanded deployment archive budget
+        working-directory: .
+        run: |
+          tar --format=gnu -czf "$RUNNER_TEMP/winds-ahead-deployment.tar.gz" dist
+          npm run check:archive -- "$RUNNER_TEMP/winds-ahead-deployment.tar.gz"

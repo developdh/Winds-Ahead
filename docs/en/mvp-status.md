@@ -43,7 +43,7 @@ Use a reviewable branch and English PR with paired English/Korean documentation.
 
 ## Verification limits
 
-Current update checks belong in [v0.3.16 notes](releases/0.3.16.md); earlier test counts are historical. Physical iOS/Android, Firefox/WebKit, 200% text enlargement, throttled-network performance and field Core Web Vitals still require separate coverage. The 200 KB initial JavaScript target remains unverified. The public issue tracker accepts corrections/removal requests; third-party artwork remains outside the code license with reuse permission unknown.
+Current content checks belong in [v0.3.16 notes](releases/0.3.16.md), followed by the [v0.3.17 deployment fix](releases/0.3.17.md); earlier test counts are historical. Physical iOS/Android, Firefox/WebKit, 200% text enlargement, throttled-network performance and field Core Web Vitals still require separate coverage. The 200 KB initial JavaScript target remains unverified. The public issue tracker accepts corrections/removal requests; third-party artwork remains outside the code license with reuse permission unknown.
 
 ## Magazine · October 1, 2026
 

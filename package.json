@@ -6,6 +6,7 @@
   },
   "scripts": {
     "postinstall": "node scripts/install-deployment.mjs",
-    "build": "node scripts/build-deployment.mjs"
+    "build": "node scripts/build-deployment.mjs",
+    "check:archive": "node scripts/check-deployment-archive.mjs"
   }
 }
