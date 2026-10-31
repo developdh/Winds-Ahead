@@ -2,6 +2,30 @@
   "schemaVersion": 1,
   "entries": [
     {
+      "id": "october31-official-appearances",
+      "date": "2026-10-31",
+      "kind": {
+        "en": "Official appearance and deadline review",
+        "ko": "공식 외관·종료 일정 검토"
+      },
+      "title": {
+        "en": "Eleven Global appearances, three CN additions and a revised pass end",
+        "ko": "글로벌 외관 11종·중국 신규 3종과 강호령 종료 변경"
+      },
+      "body": {
+        "en": "Added official English/Korean names and October 29, November 1 and November 8 Global schedules, with nine visually matched CN identities and two separate accessories. Added three October 30 CN announcements and 19 inspected reference images. Scarlet Whispers now ends November 13 17:59:59 UTC+8; four new listing/discount deadlines retain explicit or unknown zones. Eight historical CN labels remain pending because the retained sources only preannounce releases. Two other CN outfits have item-specific October 30 patch evidence of presence; their exact first release dates stay unknown.",
+        "ko": "글로벌 10월 29일·11월 1일·11월 8일 일정과 한영 공식명을 추가하고 9종은 사진으로 중국 대응을 확인했으며 장신구 2종은 별도 유지합니다. 중국 10월 30일 외관 3종과 검수한 참고 사진 19개를 추가했습니다. 쓸쓸한 단풍 종료는 11월 13일 17:59:59 UTC+8로 변경했으며 판매·교환·할인 종료 4건은 명시·미정 시간대를 보존합니다. 중국 과거 8건은 보관 출처가 사전 예고여서 출시 확인 중으로 바로잡았습니다. 다른 중국 의상 2종은 10월 30일 개별 패치로 존재가 뒷받침되지만 정확한 최초 출시일은 미정입니다."
+      },
+      "sourceIds": [
+        "global-20261029-october29-appearance-en",
+        "global-20261029-october29-appearance-ko",
+        "global-20261030-october29-patch-en",
+        "global-20261030-october29-patch-ko",
+        "cn-20261028-october30-appearances",
+        "cn-20261030-update"
+      ]
+    },
+    {
       "id": "cn-october23-appearances-20261025",
       "date": "2026-10-25",
       "kind": {

@@ -1,0 +1,1346 @@
+{
+  "checkedAt": "2026-10-31",
+  "reviewTimezone": "Asia/Seoul",
+  "baseline": "v0.3.15 / 5927289; October 23 intake already present and excluded from duplicate creation",
+  "scope": "Bounded three-cosmetic October 30 intake plus item-specific October 30 correction evidence. No forecasts or Global counterpart/date inference.",
+  "sources": [
+    {
+      "id": "cn-20261028-october30-appearances",
+      "url": "https://www.yysls.cn/news/official/20261030/37780_1318181.html",
+      "titleOriginal": "万籁系列剑、枪外观上新，妙双十一携“惠音券”归来！",
+      "displayedPublicationDate": "2026-10-28",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "server": "CN",
+      "publisher": "燕云十六声 / NetEase official website",
+      "evidenceTier": "A",
+      "verifiedAt": "2026-10-31",
+      "verificationNote": "Displayed October 28 despite October 30 URL directory. Named outfit and spear/sword appearance sections and all eight reference images visually inspected. Acquisition and planned listing were cross-checked against the October 30 patch. Actual release/current availability unverified.",
+      "imageUrls": [
+        "https://nie.res.netease.com/r/pic/20261030/717350ff-ab78-4e09-8eae-8844b48c9caf.png",
+        "https://nie.res.netease.com/r/pic/20261030/e58e732b-4a42-4686-aa55-ca38f3e35dfd.png",
+        "https://nie.res.netease.com/r/pic/20261030/cfd26c64-5283-4cdf-8a02-684c2582941d.png",
+        "https://nie.res.netease.com/r/pic/20261030/b980d863-e01c-4f05-b717-be658dab34b7.png",
+        "https://nie.res.netease.com/r/pic/20261030/1f64e940-8df7-4fd8-85f9-c602f1e928e6.png",
+        "https://nie.res.netease.com/r/pic/20261030/7240fd8a-0add-4f38-8805-311eb348fb7c.jpg",
+        "https://nie.res.netease.com/r/pic/20261030/19b4419f-12ca-460e-897f-a2586cfc65fd.jpg",
+        "https://nie.res.netease.com/r/pic/20261030/e47338d9-a6b4-46c7-a4c8-b301b5e517de.jpg"
+      ]
+    },
+    {
+      "id": "cn-20261030-update",
+      "url": "https://www.yysls.cn/news/update/20261030/40412_1318171.html",
+      "titleOriginal": "10月30日2.9.0B版本「长乐夜未央」更新公告",
+      "displayedPublicationDate": "2026-10-30",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "server": "CN",
+      "publisher": "燕云十六声 / NetEase official website",
+      "evidenceTier": "A",
+      "verifiedAt": "2026-10-31",
+      "verificationNote": "Both original patch posters visually reviewed; readable sections inspected for new outfit/weapon acquisition, event/coupon clocks, the named tailored outfit style and two named item bugfixes. Planned maintenance alone is not release confirmation.",
+      "imageUrls": [
+        "https://nie.res.netease.com/r/pic/20261030/b071c7e0-7842-4c7e-8d7a-e6cb3823ce72.jpg",
+        "https://nie.res.netease.com/r/pic/20261030/1126aa87-e482-4833-a3ab-f62aa233173a.jpg"
+      ]
+    }
+  ],
+  "sourceImages": [
+    {
+      "index": 0,
+      "url": "https://nie.res.netease.com/r/pic/20261030/b071c7e0-7842-4c7e-8d7a-e6cb3823ce72.jpg",
+      "width": 2688,
+      "height": 29826,
+      "bytes": 14513876,
+      "sha256": "fefc6b2c7d33ca8588bae97a05a5e8db390073b3e78f2fef0abd9a7e2d6fef58"
+    },
+    {
+      "index": 1,
+      "url": "https://nie.res.netease.com/r/pic/20261030/1126aa87-e482-4833-a3ab-f62aa233173a.jpg",
+      "width": 2688,
+      "height": 21623,
+      "bytes": 8505482,
+      "sha256": "0311d490cd78e47f2c682082e8cf898e365b2b845cdacb2bc69cd713f7b2c0f6"
+    }
+  ],
+  "cosmetics": [
+    {
+      "id": "zhu-ma-zi",
+      "nameOriginal": "竹马子",
+      "romanization": "Zhu Ma Zi",
+      "category": "outfit",
+      "sourceId": "cn-20261028-october30-appearances",
+      "acquisitionServer": "CN",
+      "mediaServer": "CN",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": "2026-10-30",
+        "precision": "day",
+        "timezone": null,
+        "contextual": false,
+        "basis": "Explicit planned listing after the October 30, 2026 update in the named CN announcement and patch poster. Actual release confirmation pending."
+      },
+      "acquisition": {
+        "kind": "shop",
+        "pricing": "fixed",
+        "amount": 60,
+        "regularAmount": null,
+        "currencyOriginal": "长鸣珠",
+        "location": {
+          "en": "Shop",
+          "ko": "상점",
+          "original": "商店"
+        },
+        "conditions": {
+          "en": "CN Shop outfit for 60 Echo Beads, announced after the October 30, 2026 update. Supports separate top/bottom and dyeing. No sale end or timezone is stated. The announcement alone does not verify actual release or current in-game availability.",
+          "ko": "중국 상점에서 장명주 60개로 구매하는 의상이며 2026년 10월 30일 업데이트 후 출시 예고입니다. 상하의 분리·염색을 지원합니다. 판매 종료·시간대는 미표기이며 공지만으로 실제 출시나 현재 게임 내 획득 여부를 확인한 것은 아닙니다."
+        },
+        "en": "Official CN announcement terms.",
+        "ko": "중국 공식 예고의 획득 조건입니다."
+      },
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20261030/cfd26c64-5283-4cdf-8a02-684c2582941d.png",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 3513314,
+          "kind": "official_appearance_reference",
+          "sourceId": "cn-20261028-october30-appearances",
+          "server": "CN",
+          "visuallyInspected": true,
+          "inspectionNote": "October 31, 2026 Asia/Seoul: named article section, original photograph and optimized presentation/thumbnail inspected. Female references lead each gallery; complete standalone composition retained. No in-game availability or Global identity verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/zhu-ma-zi-0-full.webp",
+          "alt": {
+            "en": "Zhu Ma Zi · official CN appearance reference",
+            "ko": "죽마자 · 중국 공식 외관 참고 사진"
+          },
+          "caption": {
+            "en": "Female front portrait of the green bamboo outfit. Official CN development preview; final game appearance may differ. Complete source composition is retained in enlargement; original artwork remains accessible through its source link. Provisional English/Korean names.",
+            "ko": "초록색 대나무 의상을 입은 여성 정면 사진입니다. 중국 공식 개발 미리보기이며 최종 게임 내 모습과 다를 수 있습니다. 확대에서 원본 구도를 유지하며 출처 링크에서 원본 사진을 확인할 수 있습니다. 영문·한국어 이름은 편의 독음입니다."
+          },
+          "attribution": "燕云十六声 / NetEase / Everstone Studio"
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20261030/b980d863-e01c-4f05-b717-be658dab34b7.png",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 3545873,
+          "kind": "official_appearance_reference",
+          "sourceId": "cn-20261028-october30-appearances",
+          "server": "CN",
+          "visuallyInspected": true,
+          "inspectionNote": "October 31, 2026 Asia/Seoul: named article section, original photograph and optimized presentation/thumbnail inspected. Female references lead each gallery; complete standalone composition retained. No in-game availability or Global identity verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/zhu-ma-zi-1-full.webp",
+          "alt": {
+            "en": "Zhu Ma Zi · official CN appearance reference",
+            "ko": "죽마자 · 중국 공식 외관 참고 사진"
+          },
+          "caption": {
+            "en": "Female rear view showing bamboo embroidery and braided waist ties. Official CN development preview; final game appearance may differ. Complete source composition is retained in enlargement; original artwork remains accessible through its source link. Provisional English/Korean names.",
+            "ko": "대나무 자수와 땋은 허리끈을 보여 주는 여성 뒷모습입니다. 중국 공식 개발 미리보기이며 최종 게임 내 모습과 다를 수 있습니다. 확대에서 원본 구도를 유지하며 출처 링크에서 원본 사진을 확인할 수 있습니다. 영문·한국어 이름은 편의 독음입니다."
+          },
+          "attribution": "燕云十六声 / NetEase / Everstone Studio"
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20261030/717350ff-ab78-4e09-8eae-8844b48c9caf.png",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 3549194,
+          "kind": "official_appearance_reference",
+          "sourceId": "cn-20261028-october30-appearances",
+          "server": "CN",
+          "visuallyInspected": true,
+          "inspectionNote": "October 31, 2026 Asia/Seoul: named article section, original photograph and optimized presentation/thumbnail inspected. Female references lead each gallery; complete standalone composition retained. No in-game availability or Global identity verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/zhu-ma-zi-2-full.webp",
+          "alt": {
+            "en": "Zhu Ma Zi · official CN appearance reference",
+            "ko": "죽마자 · 중국 공식 외관 참고 사진"
+          },
+          "caption": {
+            "en": "Male front portrait showing the asymmetric bamboo outfit and tassels. Official CN development preview; final game appearance may differ. Complete source composition is retained in enlargement; original artwork remains accessible through its source link. Provisional English/Korean names.",
+            "ko": "비대칭 대나무 의상과 술을 보여 주는 남성 정면 사진입니다. 중국 공식 개발 미리보기이며 최종 게임 내 모습과 다를 수 있습니다. 확대에서 원본 구도를 유지하며 출처 링크에서 원본 사진을 확인할 수 있습니다. 영문·한국어 이름은 편의 독음입니다."
+          },
+          "attribution": "燕云十六声 / NetEase / Everstone Studio"
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20261030/e58e732b-4a42-4686-aa55-ca38f3e35dfd.png",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 3337173,
+          "kind": "official_appearance_reference",
+          "sourceId": "cn-20261028-october30-appearances",
+          "server": "CN",
+          "visuallyInspected": true,
+          "inspectionNote": "October 31, 2026 Asia/Seoul: named article section, original photograph and optimized presentation/thumbnail inspected. Female references lead each gallery; complete standalone composition retained. No in-game availability or Global identity verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/zhu-ma-zi-3-full.webp",
+          "alt": {
+            "en": "Zhu Ma Zi · official CN appearance reference",
+            "ko": "죽마자 · 중국 공식 외관 참고 사진"
+          },
+          "caption": {
+            "en": "Male rear view showing the bamboo embroidery. Official CN development preview; final game appearance may differ. Complete source composition is retained in enlargement; original artwork remains accessible through its source link. Provisional English/Korean names.",
+            "ko": "대나무 자수를 보여 주는 남성 뒷모습입니다. 중국 공식 개발 미리보기이며 최종 게임 내 모습과 다를 수 있습니다. 확대에서 원본 구도를 유지하며 출처 링크에서 원본 사진을 확인할 수 있습니다. 영문·한국어 이름은 편의 독음입니다."
+          },
+          "attribution": "燕云十六声 / NetEase / Everstone Studio"
+        }
+      ],
+      "officialVideos": [],
+      "mediaStatus": "verified",
+      "searchAliases": [
+        "竹马子",
+        "Zhu Ma Zi",
+        "죽마자"
+      ],
+      "namingNote": {
+        "en": "Provisional readings of the official CN name; no official English/Korean name or Global counterpart verified.",
+        "ko": "중국 공식 원명의 편의 독음이며 공식 영문·한국어 이름과 글로벌 대응은 미확인입니다."
+      }
+    },
+    {
+      "id": "wan-lai-xuan-bing-po",
+      "nameOriginal": "万籁·玄冰破",
+      "romanization": "Wan Lai · Xuan Bing Po",
+      "category": "weapon_skin",
+      "sourceId": "cn-20261028-october30-appearances",
+      "acquisitionServer": "CN",
+      "mediaServer": "CN",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": "2026-10-30",
+        "precision": "day",
+        "timezone": null,
+        "contextual": false,
+        "basis": "Explicit planned listing after the October 30, 2026 update in the named CN announcement and patch poster. Actual release confirmation pending."
+      },
+      "acquisition": {
+        "kind": "shop",
+        "pricing": "fixed",
+        "amount": 1280,
+        "regularAmount": null,
+        "currencyOriginal": "长鸣珠",
+        "location": {
+          "en": "Shop",
+          "ko": "상점",
+          "original": "商店"
+        },
+        "conditions": {
+          "en": "CN spear appearance for 1,280 Echo Beads in the Shop, announced after the October 30, 2026 update. This is the individual spear price; the sword is sold separately. No sale end or timezone is stated. Actual release and current in-game availability remain unverified.",
+          "ko": "중국 상점에서 장명주 1,280개로 구매하는 창 외관이며 2026년 10월 30일 업데이트 후 출시 예고입니다. 창 1종의 개별 가격이며 검은 별도 구매입니다. 판매 종료·시간대는 미표기이고 실제 출시·현재 게임 내 획득 여부는 미확인입니다."
+        },
+        "en": "Official CN announcement terms.",
+        "ko": "중국 공식 예고의 획득 조건입니다."
+      },
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20261030/7240fd8a-0add-4f38-8805-311eb348fb7c.jpg",
+          "width": 2880,
+          "height": 5120,
+          "bytes": 15136705,
+          "kind": "official_appearance_reference",
+          "sourceId": "cn-20261028-october30-appearances",
+          "server": "CN",
+          "visuallyInspected": true,
+          "inspectionNote": "October 31, 2026 Asia/Seoul: named article section, original photograph and optimized presentation/thumbnail inspected. Female references lead each gallery; complete standalone composition retained. No in-game availability or Global identity verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wan-lai-xuan-bing-po-0-full.webp",
+          "alt": {
+            "en": "Wan Lai · Xuan Bing Po · official CN appearance reference",
+            "ko": "만뢰·현빙파 · 중국 공식 외관 참고 사진"
+          },
+          "caption": {
+            "en": "Female rear view showing the complete ice-blue spear and its luminous circular detail. The pictured outfit is separate. Official CN development preview; final game appearance may differ. Complete source composition is retained in enlargement; original artwork remains accessible through its source link. Provisional English/Korean names.",
+            "ko": "얼음빛 창 전체와 빛나는 원형 장식을 보여 주는 여성 뒷모습입니다. 사진 속 의상은 별도입니다. 중국 공식 개발 미리보기이며 최종 게임 내 모습과 다를 수 있습니다. 확대에서 원본 구도를 유지하며 출처 링크에서 원본 사진을 확인할 수 있습니다. 영문·한국어 이름은 편의 독음입니다."
+          },
+          "attribution": "燕云十六声 / NetEase / Everstone Studio"
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20261030/1f64e940-8df7-4fd8-85f9-c602f1e928e6.png",
+          "width": 5120,
+          "height": 2880,
+          "bytes": 21833006,
+          "kind": "official_appearance_reference",
+          "sourceId": "cn-20261028-october30-appearances",
+          "server": "CN",
+          "visuallyInspected": true,
+          "inspectionNote": "October 31, 2026 Asia/Seoul: named article section, original photograph and optimized presentation/thumbnail inspected. Female references lead each gallery; complete standalone composition retained. No in-game availability or Global identity verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wan-lai-xuan-bing-po-1-full.webp",
+          "alt": {
+            "en": "Wan Lai · Xuan Bing Po · official CN appearance reference",
+            "ko": "만뢰·현빙파 · 중국 공식 외관 참고 사진"
+          },
+          "caption": {
+            "en": "Male action view showing the long ice-blue spear across a snowy landscape. The pictured outfit is separate. Official CN development preview; final game appearance may differ. Complete source composition is retained in enlargement; original artwork remains accessible through its source link. Provisional English/Korean names.",
+            "ko": "설경에서 긴 얼음빛 창을 든 남성 동작 사진입니다. 사진 속 의상은 별도입니다. 중국 공식 개발 미리보기이며 최종 게임 내 모습과 다를 수 있습니다. 확대에서 원본 구도를 유지하며 출처 링크에서 원본 사진을 확인할 수 있습니다. 영문·한국어 이름은 편의 독음입니다."
+          },
+          "attribution": "燕云十六声 / NetEase / Everstone Studio"
+        }
+      ],
+      "officialVideos": [],
+      "mediaStatus": "verified",
+      "searchAliases": [
+        "万籁·玄冰破",
+        "Wan Lai · Xuan Bing Po",
+        "만뢰·현빙파"
+      ],
+      "namingNote": {
+        "en": "Provisional readings of the official CN name; no official English/Korean name or Global counterpart verified.",
+        "ko": "중국 공식 원명의 편의 독음이며 공식 영문·한국어 이름과 글로벌 대응은 미확인입니다."
+      }
+    },
+    {
+      "id": "wan-lai-kan-qie-yu",
+      "nameOriginal": "万籁·堪切玉",
+      "romanization": "Wan Lai · Kan Qie Yu",
+      "category": "weapon_skin",
+      "sourceId": "cn-20261028-october30-appearances",
+      "acquisitionServer": "CN",
+      "mediaServer": "CN",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": "2026-10-30",
+        "precision": "day",
+        "timezone": null,
+        "contextual": false,
+        "basis": "Explicit planned listing after the October 30, 2026 update in the named CN announcement and patch poster. Actual release confirmation pending."
+      },
+      "acquisition": {
+        "kind": "shop",
+        "pricing": "fixed",
+        "amount": 1280,
+        "regularAmount": null,
+        "currencyOriginal": "长鸣珠",
+        "location": {
+          "en": "Shop",
+          "ko": "상점",
+          "original": "商店"
+        },
+        "conditions": {
+          "en": "CN sword appearance for 1,280 Echo Beads in the Shop, announced after the October 30, 2026 update. This is the individual sword price; the spear is sold separately. No sale end or timezone is stated. Actual release and current in-game availability remain unverified.",
+          "ko": "중국 상점에서 장명주 1,280개로 구매하는 검 외관이며 2026년 10월 30일 업데이트 후 출시 예고입니다. 검 1종의 개별 가격이며 창은 별도 구매입니다. 판매 종료·시간대는 미표기이고 실제 출시·현재 게임 내 획득 여부는 미확인입니다."
+        },
+        "en": "Official CN announcement terms.",
+        "ko": "중국 공식 예고의 획득 조건입니다."
+      },
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20261030/e47338d9-a6b4-46c7-a4c8-b301b5e517de.jpg",
+          "width": 2880,
+          "height": 5120,
+          "bytes": 16306829,
+          "kind": "official_appearance_reference",
+          "sourceId": "cn-20261028-october30-appearances",
+          "server": "CN",
+          "visuallyInspected": true,
+          "inspectionNote": "October 31, 2026 Asia/Seoul: named article section, original photograph and optimized presentation/thumbnail inspected. Female references lead each gallery; complete standalone composition retained. No in-game availability or Global identity verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wan-lai-kan-qie-yu-0-full.webp",
+          "alt": {
+            "en": "Wan Lai · Kan Qie Yu · official CN appearance reference",
+            "ko": "만뢰·감절옥 · 중국 공식 외관 참고 사진"
+          },
+          "caption": {
+            "en": "Female rear view showing the complete ice-blue sword and circular guard. The pictured outfit is separate. Official CN development preview; final game appearance may differ. Complete source composition is retained in enlargement; original artwork remains accessible through its source link. Provisional English/Korean names.",
+            "ko": "얼음빛 검 전체와 원형 검격을 보여 주는 여성 뒷모습입니다. 사진 속 의상은 별도입니다. 중국 공식 개발 미리보기이며 최종 게임 내 모습과 다를 수 있습니다. 확대에서 원본 구도를 유지하며 출처 링크에서 원본 사진을 확인할 수 있습니다. 영문·한국어 이름은 편의 독음입니다."
+          },
+          "attribution": "燕云十六声 / NetEase / Everstone Studio"
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20261030/19b4419f-12ca-460e-897f-a2586cfc65fd.jpg",
+          "width": 1440,
+          "height": 2560,
+          "bytes": 4259729,
+          "kind": "official_appearance_reference",
+          "sourceId": "cn-20261028-october30-appearances",
+          "server": "CN",
+          "visuallyInspected": true,
+          "inspectionNote": "October 31, 2026 Asia/Seoul: named article section, original photograph and optimized presentation/thumbnail inspected. Female references lead each gallery; complete standalone composition retained. No in-game availability or Global identity verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wan-lai-kan-qie-yu-1-full.webp",
+          "alt": {
+            "en": "Wan Lai · Kan Qie Yu · official CN appearance reference",
+            "ko": "만뢰·감절옥 · 중국 공식 외관 참고 사진"
+          },
+          "caption": {
+            "en": "Male front view with the ice-blue sword held across the body. The pictured outfit is separate. Official CN development preview; final game appearance may differ. Complete source composition is retained in enlargement; original artwork remains accessible through its source link. Provisional English/Korean names.",
+            "ko": "얼음빛 검을 몸 앞에 든 남성 정면 사진입니다. 사진 속 의상은 별도입니다. 중국 공식 개발 미리보기이며 최종 게임 내 모습과 다를 수 있습니다. 확대에서 원본 구도를 유지하며 출처 링크에서 원본 사진을 확인할 수 있습니다. 영문·한국어 이름은 편의 독음입니다."
+          },
+          "attribution": "燕云十六声 / NetEase / Everstone Studio"
+        }
+      ],
+      "officialVideos": [],
+      "mediaStatus": "verified",
+      "searchAliases": [
+        "万籁·堪切玉",
+        "Wan Lai · Kan Qie Yu",
+        "만뢰·감절옥"
+      ],
+      "namingNote": {
+        "en": "Provisional readings of the official CN name; no official English/Korean name or Global counterpart verified.",
+        "ko": "중국 공식 원명의 편의 독음이며 공식 영문·한국어 이름과 글로벌 대응은 미확인입니다."
+      }
+    }
+  ],
+  "regionalRecords": [
+    {
+      "cosmeticId": "zhu-ma-zi",
+      "server": "CN",
+      "status": "announced",
+      "releaseDate": "2026-10-30",
+      "precision": "day",
+      "verifiedAt": "2026-10-31",
+      "sourceIds": [
+        "cn-20261028-october30-appearances",
+        "cn-20261030-update"
+      ],
+      "scope": {
+        "en": "Announced for after the October 30, 2026 update. No exact opening instant, timezone or sale end is supplied. Prospective maintenance and an elapsed date do not independently confirm actual release or current in-game availability.",
+        "ko": "2026년 10월 30일 업데이트 후 출시 예고입니다. 정확한 시작 시각·시간대·판매 종료는 미표기입니다. 예정된 점검과 날짜 경과만으로 실제 출시·현재 게임 내 획득 여부를 확정하지 않습니다."
+      },
+      "identityBasis": {
+        "en": "Named official CN section and matching patch artwork; no Global identity inferred.",
+        "ko": "중국 공식 명칭별 구간과 같은 패치 사진을 확인했으며 글로벌 대응은 추정하지 않습니다."
+      }
+    },
+    {
+      "cosmeticId": "wan-lai-xuan-bing-po",
+      "server": "CN",
+      "status": "announced",
+      "releaseDate": "2026-10-30",
+      "precision": "day",
+      "verifiedAt": "2026-10-31",
+      "sourceIds": [
+        "cn-20261028-october30-appearances",
+        "cn-20261030-update"
+      ],
+      "scope": {
+        "en": "Announced for after the October 30, 2026 update. No exact opening instant, timezone or sale end is supplied. Prospective maintenance and an elapsed date do not independently confirm actual release or current in-game availability.",
+        "ko": "2026년 10월 30일 업데이트 후 출시 예고입니다. 정확한 시작 시각·시간대·판매 종료는 미표기입니다. 예정된 점검과 날짜 경과만으로 실제 출시·현재 게임 내 획득 여부를 확정하지 않습니다."
+      },
+      "identityBasis": {
+        "en": "Named official CN section and matching patch artwork; no Global identity inferred.",
+        "ko": "중국 공식 명칭별 구간과 같은 패치 사진을 확인했으며 글로벌 대응은 추정하지 않습니다."
+      }
+    },
+    {
+      "cosmeticId": "wan-lai-kan-qie-yu",
+      "server": "CN",
+      "status": "announced",
+      "releaseDate": "2026-10-30",
+      "precision": "day",
+      "verifiedAt": "2026-10-31",
+      "sourceIds": [
+        "cn-20261028-october30-appearances",
+        "cn-20261030-update"
+      ],
+      "scope": {
+        "en": "Announced for after the October 30, 2026 update. No exact opening instant, timezone or sale end is supplied. Prospective maintenance and an elapsed date do not independently confirm actual release or current in-game availability.",
+        "ko": "2026년 10월 30일 업데이트 후 출시 예고입니다. 정확한 시작 시각·시간대·판매 종료는 미표기입니다. 예정된 점검과 날짜 경과만으로 실제 출시·현재 게임 내 획득 여부를 확정하지 않습니다."
+      },
+      "identityBasis": {
+        "en": "Named official CN section and matching patch artwork; no Global identity inferred.",
+        "ko": "중국 공식 명칭별 구간과 같은 패치 사진을 확인했으며 글로벌 대응은 추정하지 않습니다."
+      }
+    }
+  ],
+  "localizations": {
+    "zhu-ma-zi": {
+      "koName": "죽마자",
+      "description": {
+        "en": "Green-and-bamboo-white CN outfit with gold bamboo embroidery, braided ties and tassels; separate top/bottom and dyeing.",
+        "ko": "금빛 대나무 자수와 땋은 끈·술이 특징인 초록색·대나무 속살빛 중국 의상입니다. 상하의 분리·염색을 지원합니다."
+      }
+    },
+    "wan-lai-xuan-bing-po": {
+      "koName": "만뢰·현빙파",
+      "description": {
+        "en": "CN spear appearance in the Wan Lai series, with a jagged ice-blue head and luminous circular detail. The pictured outfit is separate.",
+        "ko": "톱니 같은 얼음빛 창날과 빛나는 원형 장식이 특징인 중국 만뢰 시리즈 창 외관입니다. 사진 속 의상은 별도입니다."
+      }
+    },
+    "wan-lai-kan-qie-yu": {
+      "koName": "만뢰·감절옥",
+      "description": {
+        "en": "CN sword appearance in the Wan Lai series, with a narrow ice-blue blade and luminous circular guard. The pictured outfit is separate.",
+        "ko": "가늘고 긴 얼음빛 검신과 빛나는 원형 검격이 특징인 중국 만뢰 시리즈 검 외관입니다. 사진 속 의상은 별도입니다."
+      }
+    }
+  },
+  "deadlines": [],
+  "deadlineDecision": "No sale removal or exchange deadline is stated for any of the three new appearances. General coupon expiry is not an item sale end.",
+  "media": [
+    {
+      "cosmeticId": "zhu-ma-zi",
+      "index": 0,
+      "originalUrl": "https://nie.res.netease.com/r/pic/20261030/cfd26c64-5283-4cdf-8a02-684c2582941d.png",
+      "sourceId": "cn-20261028-october30-appearances",
+      "server": "CN",
+      "thumbnail": "/media/zhu-ma-zi-0-thumb.webp",
+      "full": "/media/zhu-ma-zi-0-full.webp",
+      "preview": "/media/zhu-ma-zi-0-preview.webp",
+      "display": "/media/zhu-ma-zi-0-display.webp",
+      "presentationSubject": "female",
+      "presentationCrop": [
+        125,
+        58,
+        733,
+        1600
+      ],
+      "sourcePresentationCrop": [
+        150,
+        70,
+        880,
+        1920
+      ],
+      "displayWidth": 608,
+      "displayHeight": 1542,
+      "permission": "unknown",
+      "audience": "reference artwork; excluded from the code license",
+      "fullBytes": 167452,
+      "displayBytes": 132984,
+      "thumbnailBytes": 29552,
+      "previewBytes": 2782
+    },
+    {
+      "cosmeticId": "zhu-ma-zi",
+      "index": 1,
+      "originalUrl": "https://nie.res.netease.com/r/pic/20261030/b980d863-e01c-4f05-b717-be658dab34b7.png",
+      "sourceId": "cn-20261028-october30-appearances",
+      "server": "CN",
+      "thumbnail": "/media/zhu-ma-zi-1-thumb.webp",
+      "full": "/media/zhu-ma-zi-1-full.webp",
+      "preview": "/media/zhu-ma-zi-1-preview.webp",
+      "display": "/media/zhu-ma-zi-1-display.webp",
+      "presentationSubject": "female",
+      "presentationCrop": [
+        150,
+        58,
+        742,
+        1600
+      ],
+      "sourcePresentationCrop": [
+        180,
+        70,
+        890,
+        1920
+      ],
+      "displayWidth": 592,
+      "displayHeight": 1542,
+      "permission": "unknown",
+      "audience": "reference artwork; excluded from the code license",
+      "fullBytes": 178604,
+      "displayBytes": 132228,
+      "thumbnailBytes": 29588,
+      "previewBytes": 2512
+    },
+    {
+      "cosmeticId": "zhu-ma-zi",
+      "index": 2,
+      "originalUrl": "https://nie.res.netease.com/r/pic/20261030/717350ff-ab78-4e09-8eae-8844b48c9caf.png",
+      "sourceId": "cn-20261028-october30-appearances",
+      "server": "CN",
+      "thumbnail": "/media/zhu-ma-zi-2-thumb.webp",
+      "full": "/media/zhu-ma-zi-2-full.webp",
+      "preview": "/media/zhu-ma-zi-2-preview.webp",
+      "display": "/media/zhu-ma-zi-2-display.webp",
+      "presentationSubject": "male",
+      "presentationCrop": [
+        150,
+        67,
+        708,
+        1600
+      ],
+      "sourcePresentationCrop": [
+        180,
+        80,
+        850,
+        1920
+      ],
+      "displayWidth": 558,
+      "displayHeight": 1533,
+      "permission": "unknown",
+      "audience": "reference artwork; excluded from the code license",
+      "fullBytes": 181246,
+      "displayBytes": 140452,
+      "thumbnailBytes": 30324,
+      "previewBytes": 2728
+    },
+    {
+      "cosmeticId": "zhu-ma-zi",
+      "index": 3,
+      "originalUrl": "https://nie.res.netease.com/r/pic/20261030/e58e732b-4a42-4686-aa55-ca38f3e35dfd.png",
+      "sourceId": "cn-20261028-october30-appearances",
+      "server": "CN",
+      "thumbnail": "/media/zhu-ma-zi-3-thumb.webp",
+      "full": "/media/zhu-ma-zi-3-full.webp",
+      "preview": "/media/zhu-ma-zi-3-preview.webp",
+      "display": "/media/zhu-ma-zi-3-display.webp",
+      "presentationSubject": "male",
+      "presentationCrop": [
+        150,
+        67,
+        733,
+        1600
+      ],
+      "sourcePresentationCrop": [
+        180,
+        80,
+        880,
+        1920
+      ],
+      "displayWidth": 583,
+      "displayHeight": 1533,
+      "permission": "unknown",
+      "audience": "reference artwork; excluded from the code license",
+      "fullBytes": 155442,
+      "displayBytes": 110710,
+      "thumbnailBytes": 27432,
+      "previewBytes": 2404
+    },
+    {
+      "cosmeticId": "wan-lai-xuan-bing-po",
+      "index": 0,
+      "originalUrl": "https://nie.res.netease.com/r/pic/20261030/7240fd8a-0add-4f38-8805-311eb348fb7c.jpg",
+      "sourceId": "cn-20261028-october30-appearances",
+      "server": "CN",
+      "thumbnail": "/media/wan-lai-xuan-bing-po-0-thumb.webp",
+      "full": "/media/wan-lai-xuan-bing-po-0-full.webp",
+      "preview": "/media/wan-lai-xuan-bing-po-0-preview.webp",
+      "display": "/media/wan-lai-xuan-bing-po-0-display.webp",
+      "presentationSubject": "female",
+      "presentationCrop": [
+        134,
+        94,
+        828,
+        1600
+      ],
+      "sourcePresentationCrop": [
+        430,
+        300,
+        2650,
+        5120
+      ],
+      "displayWidth": 694,
+      "displayHeight": 1506,
+      "permission": "unknown",
+      "audience": "reference artwork; excluded from the code license",
+      "fullBytes": 155012,
+      "displayBytes": 162584,
+      "thumbnailBytes": 38682,
+      "previewBytes": 2902
+    },
+    {
+      "cosmeticId": "wan-lai-xuan-bing-po",
+      "index": 1,
+      "originalUrl": "https://nie.res.netease.com/r/pic/20261030/1f64e940-8df7-4fd8-85f9-c602f1e928e6.png",
+      "sourceId": "cn-20261028-october30-appearances",
+      "server": "CN",
+      "thumbnail": "/media/wan-lai-xuan-bing-po-1-thumb.webp",
+      "full": "/media/wan-lai-xuan-bing-po-1-full.webp",
+      "preview": "/media/wan-lai-xuan-bing-po-1-preview.webp",
+      "display": "/media/wan-lai-xuan-bing-po-1-display.webp",
+      "presentationSubject": "male",
+      "presentationCrop": [
+        0,
+        0,
+        900,
+        506
+      ],
+      "sourcePresentationCrop": [
+        0,
+        0,
+        5120,
+        2880
+      ],
+      "displayWidth": 900,
+      "displayHeight": 506,
+      "permission": "unknown",
+      "audience": "reference artwork; excluded from the code license",
+      "fullBytes": 63390,
+      "displayBytes": 74924,
+      "thumbnailBytes": 29368,
+      "previewBytes": 2844
+    },
+    {
+      "cosmeticId": "wan-lai-kan-qie-yu",
+      "index": 0,
+      "originalUrl": "https://nie.res.netease.com/r/pic/20261030/e47338d9-a6b4-46c7-a4c8-b301b5e517de.jpg",
+      "sourceId": "cn-20261028-october30-appearances",
+      "server": "CN",
+      "thumbnail": "/media/wan-lai-kan-qie-yu-0-thumb.webp",
+      "full": "/media/wan-lai-kan-qie-yu-0-full.webp",
+      "preview": "/media/wan-lai-kan-qie-yu-0-preview.webp",
+      "display": "/media/wan-lai-kan-qie-yu-0-display.webp",
+      "presentationSubject": "female",
+      "presentationCrop": [
+        0,
+        31,
+        900,
+        1375
+      ],
+      "sourcePresentationCrop": [
+        0,
+        100,
+        2880,
+        4400
+      ],
+      "displayWidth": 900,
+      "displayHeight": 1344,
+      "permission": "unknown",
+      "audience": "reference artwork; excluded from the code license",
+      "fullBytes": 155036,
+      "displayBytes": 145844,
+      "thumbnailBytes": 42958,
+      "previewBytes": 3146
+    },
+    {
+      "cosmeticId": "wan-lai-kan-qie-yu",
+      "index": 1,
+      "originalUrl": "https://nie.res.netease.com/r/pic/20261030/19b4419f-12ca-460e-897f-a2586cfc65fd.jpg",
+      "sourceId": "cn-20261028-october30-appearances",
+      "server": "CN",
+      "thumbnail": "/media/wan-lai-kan-qie-yu-1-thumb.webp",
+      "full": "/media/wan-lai-kan-qie-yu-1-full.webp",
+      "preview": "/media/wan-lai-kan-qie-yu-1-preview.webp",
+      "display": "/media/wan-lai-kan-qie-yu-1-display.webp",
+      "presentationSubject": "male",
+      "presentationCrop": [
+        94,
+        50,
+        900,
+        1600
+      ],
+      "sourcePresentationCrop": [
+        150,
+        80,
+        1440,
+        2560
+      ],
+      "displayWidth": 806,
+      "displayHeight": 1550,
+      "permission": "unknown",
+      "audience": "reference artwork; excluded from the code license",
+      "fullBytes": 124584,
+      "displayBytes": 133140,
+      "thumbnailBytes": 32950,
+      "previewBytes": 2678
+    }
+  ],
+  "mediaEvidence": [
+    {
+      "cosmeticId": "zhu-ma-zi",
+      "index": 0,
+      "articleImageIndex": 3,
+      "sourceId": "cn-20261028-october30-appearances",
+      "sourcePage": "https://www.yysls.cn/news/official/20261030/37780_1318181.html",
+      "original": {
+        "url": "https://nie.res.netease.com/r/pic/20261030/cfd26c64-5283-4cdf-8a02-684c2582941d.png",
+        "filename": "cfd26c64-5283-4cdf-8a02-684c2582941d.png",
+        "width": 1080,
+        "height": 1920,
+        "bytes": 3513314,
+        "sha256": "d3e453813cee695edd9b52f03df52ca591e744e75da40842636c62e2e59836cf"
+      },
+      "presentationSubject": "female",
+      "presentationCrop": [
+        125,
+        58,
+        733,
+        1600
+      ],
+      "sourcePresentationCrop": [
+        150,
+        70,
+        880,
+        1920
+      ],
+      "cropCoordinateSpace": "[left, top, right, bottom], right/bottom exclusive; presentationCrop is full derivative pixels; sourcePresentationCrop is original pixels",
+      "description": {
+        "en": "Female front portrait of the green bamboo outfit.",
+        "ko": "초록색 대나무 의상을 입은 여성 정면 사진입니다."
+      },
+      "derivatives": {
+        "full": {
+          "path": "/media/zhu-ma-zi-0-full.webp",
+          "width": 900,
+          "height": 1600,
+          "bytes": 167452,
+          "sha256": "6cf297974c9dd3a4c89817d1769d906dd67dcd1068cfe806d0d27d4f77134038"
+        },
+        "display": {
+          "path": "/media/zhu-ma-zi-0-display.webp",
+          "width": 608,
+          "height": 1542,
+          "bytes": 132984,
+          "sha256": "961132216228b19db8a5e444c52a2c276051cf5cef9d6a97001a50e727d087c5"
+        },
+        "thumb": {
+          "path": "/media/zhu-ma-zi-0-thumb.webp",
+          "width": 600,
+          "height": 710,
+          "bytes": 29552,
+          "sha256": "49c308a25ac0e6583447a7fe99ec3df24542e62b7b4b33cc25611a62894aafcb"
+        },
+        "preview": {
+          "path": "/media/zhu-ma-zi-0-preview.webp",
+          "width": 63,
+          "height": 160,
+          "bytes": 2782,
+          "sha256": "3ffb924e2daad35128110215bf00e60233d2ca907aefbf1aa6ac49782976bd5d"
+        }
+      }
+    },
+    {
+      "cosmeticId": "zhu-ma-zi",
+      "index": 1,
+      "articleImageIndex": 4,
+      "sourceId": "cn-20261028-october30-appearances",
+      "sourcePage": "https://www.yysls.cn/news/official/20261030/37780_1318181.html",
+      "original": {
+        "url": "https://nie.res.netease.com/r/pic/20261030/b980d863-e01c-4f05-b717-be658dab34b7.png",
+        "filename": "b980d863-e01c-4f05-b717-be658dab34b7.png",
+        "width": 1080,
+        "height": 1920,
+        "bytes": 3545873,
+        "sha256": "c3d6ba4133a36d9dd67995156347b89f061e2e4c916cd8d4fdcbe1765f4de051"
+      },
+      "presentationSubject": "female",
+      "presentationCrop": [
+        150,
+        58,
+        742,
+        1600
+      ],
+      "sourcePresentationCrop": [
+        180,
+        70,
+        890,
+        1920
+      ],
+      "cropCoordinateSpace": "[left, top, right, bottom], right/bottom exclusive; presentationCrop is full derivative pixels; sourcePresentationCrop is original pixels",
+      "description": {
+        "en": "Female rear view showing bamboo embroidery and braided waist ties.",
+        "ko": "대나무 자수와 땋은 허리끈을 보여 주는 여성 뒷모습입니다."
+      },
+      "derivatives": {
+        "full": {
+          "path": "/media/zhu-ma-zi-1-full.webp",
+          "width": 900,
+          "height": 1600,
+          "bytes": 178604,
+          "sha256": "f57d85a194a34aa2045ca9675e3f60fcab22dbff9928c4aa9c4743ad1aedefa0"
+        },
+        "display": {
+          "path": "/media/zhu-ma-zi-1-display.webp",
+          "width": 592,
+          "height": 1542,
+          "bytes": 132228,
+          "sha256": "031160e94f42dfb279526094e6a039646074c4162f13884bb40becd1087fc28a"
+        },
+        "thumb": {
+          "path": "/media/zhu-ma-zi-1-thumb.webp",
+          "width": 600,
+          "height": 710,
+          "bytes": 29588,
+          "sha256": "0036a5d34ca12012b9af959de896967871fd4f2c4949b063c0108f2a1440d279"
+        },
+        "preview": {
+          "path": "/media/zhu-ma-zi-1-preview.webp",
+          "width": 61,
+          "height": 160,
+          "bytes": 2512,
+          "sha256": "9e7802471f6a021fb41fd395b893b43a388ad4683c432e8228e5e98c86bd2452"
+        }
+      }
+    },
+    {
+      "cosmeticId": "zhu-ma-zi",
+      "index": 2,
+      "articleImageIndex": 1,
+      "sourceId": "cn-20261028-october30-appearances",
+      "sourcePage": "https://www.yysls.cn/news/official/20261030/37780_1318181.html",
+      "original": {
+        "url": "https://nie.res.netease.com/r/pic/20261030/717350ff-ab78-4e09-8eae-8844b48c9caf.png",
+        "filename": "717350ff-ab78-4e09-8eae-8844b48c9caf.png",
+        "width": 1080,
+        "height": 1920,
+        "bytes": 3549194,
+        "sha256": "f7f90689baf31996ee00095ea16043023c5b837e4a3232765579b2b662251792"
+      },
+      "presentationSubject": "male",
+      "presentationCrop": [
+        150,
+        67,
+        708,
+        1600
+      ],
+      "sourcePresentationCrop": [
+        180,
+        80,
+        850,
+        1920
+      ],
+      "cropCoordinateSpace": "[left, top, right, bottom], right/bottom exclusive; presentationCrop is full derivative pixels; sourcePresentationCrop is original pixels",
+      "description": {
+        "en": "Male front portrait showing the asymmetric bamboo outfit and tassels.",
+        "ko": "비대칭 대나무 의상과 술을 보여 주는 남성 정면 사진입니다."
+      },
+      "derivatives": {
+        "full": {
+          "path": "/media/zhu-ma-zi-2-full.webp",
+          "width": 900,
+          "height": 1600,
+          "bytes": 181246,
+          "sha256": "895bf1d235203ec745be2c87dcc313301b64bd9f5fcb3999829eccb7dfa10d4a"
+        },
+        "display": {
+          "path": "/media/zhu-ma-zi-2-display.webp",
+          "width": 558,
+          "height": 1533,
+          "bytes": 140452,
+          "sha256": "9ada3cc30a28966e7523ee2b3a993047da7d026639a3cbae5eee71fa986bca25"
+        },
+        "thumb": {
+          "path": "/media/zhu-ma-zi-2-thumb.webp",
+          "width": 600,
+          "height": 710,
+          "bytes": 30324,
+          "sha256": "52fa166f52fe243ecd979af80942c10a0233da5fe0b183702b8257487699687f"
+        },
+        "preview": {
+          "path": "/media/zhu-ma-zi-2-preview.webp",
+          "width": 58,
+          "height": 160,
+          "bytes": 2728,
+          "sha256": "9ece89779b4e2d4c2b8e065dca0aaec56d30afad98d84693cd16af033f3554ee"
+        }
+      }
+    },
+    {
+      "cosmeticId": "zhu-ma-zi",
+      "index": 3,
+      "articleImageIndex": 2,
+      "sourceId": "cn-20261028-october30-appearances",
+      "sourcePage": "https://www.yysls.cn/news/official/20261030/37780_1318181.html",
+      "original": {
+        "url": "https://nie.res.netease.com/r/pic/20261030/e58e732b-4a42-4686-aa55-ca38f3e35dfd.png",
+        "filename": "e58e732b-4a42-4686-aa55-ca38f3e35dfd.png",
+        "width": 1080,
+        "height": 1920,
+        "bytes": 3337173,
+        "sha256": "72037f6147558018d6af7ab3dfce15e7c0150a12386e41c7fd0b76c835294ace"
+      },
+      "presentationSubject": "male",
+      "presentationCrop": [
+        150,
+        67,
+        733,
+        1600
+      ],
+      "sourcePresentationCrop": [
+        180,
+        80,
+        880,
+        1920
+      ],
+      "cropCoordinateSpace": "[left, top, right, bottom], right/bottom exclusive; presentationCrop is full derivative pixels; sourcePresentationCrop is original pixels",
+      "description": {
+        "en": "Male rear view showing the bamboo embroidery.",
+        "ko": "대나무 자수를 보여 주는 남성 뒷모습입니다."
+      },
+      "derivatives": {
+        "full": {
+          "path": "/media/zhu-ma-zi-3-full.webp",
+          "width": 900,
+          "height": 1600,
+          "bytes": 155442,
+          "sha256": "8e5af82b5ec87ad636381a704a5ea2a241836464397203255f1f08397d0cb099"
+        },
+        "display": {
+          "path": "/media/zhu-ma-zi-3-display.webp",
+          "width": 583,
+          "height": 1533,
+          "bytes": 110710,
+          "sha256": "2ef03f9b0f446933b5ab90e118c8c4da68b47047a03f3f4bdd3e1fa5a25f3b7e"
+        },
+        "thumb": {
+          "path": "/media/zhu-ma-zi-3-thumb.webp",
+          "width": 600,
+          "height": 710,
+          "bytes": 27432,
+          "sha256": "9df9f43479e2d73ea1bc7af3e5ec1ee7db52f1942dcf468f513c933e7f1110d9"
+        },
+        "preview": {
+          "path": "/media/zhu-ma-zi-3-preview.webp",
+          "width": 61,
+          "height": 160,
+          "bytes": 2404,
+          "sha256": "9f4d62d7e5cc1fe07beb323257fa3b10f52b95f2b19f3745d73f7b3b1292234c"
+        }
+      }
+    },
+    {
+      "cosmeticId": "wan-lai-xuan-bing-po",
+      "index": 0,
+      "articleImageIndex": 6,
+      "sourceId": "cn-20261028-october30-appearances",
+      "sourcePage": "https://www.yysls.cn/news/official/20261030/37780_1318181.html",
+      "original": {
+        "url": "https://nie.res.netease.com/r/pic/20261030/7240fd8a-0add-4f38-8805-311eb348fb7c.jpg",
+        "filename": "7240fd8a-0add-4f38-8805-311eb348fb7c.jpg",
+        "width": 2880,
+        "height": 5120,
+        "bytes": 15136705,
+        "sha256": "cfa57c6e08adfeb499644b871a57823f65c1612db69d4f6ae502505bf4bdf34c"
+      },
+      "presentationSubject": "female",
+      "presentationCrop": [
+        134,
+        94,
+        828,
+        1600
+      ],
+      "sourcePresentationCrop": [
+        430,
+        300,
+        2650,
+        5120
+      ],
+      "cropCoordinateSpace": "[left, top, right, bottom], right/bottom exclusive; presentationCrop is full derivative pixels; sourcePresentationCrop is original pixels",
+      "description": {
+        "en": "Female rear view showing the complete ice-blue spear and its luminous circular detail.",
+        "ko": "얼음빛 창 전체와 빛나는 원형 장식을 보여 주는 여성 뒷모습입니다."
+      },
+      "derivatives": {
+        "full": {
+          "path": "/media/wan-lai-xuan-bing-po-0-full.webp",
+          "width": 900,
+          "height": 1600,
+          "bytes": 155012,
+          "sha256": "1f5668bba8da7360c224fe7f076b8b02680fccbf41352afc886c5cf1be7d044c"
+        },
+        "display": {
+          "path": "/media/wan-lai-xuan-bing-po-0-display.webp",
+          "width": 694,
+          "height": 1506,
+          "bytes": 162584,
+          "sha256": "b5e44086471d89f9f0ba1cdda60c9a3f705467c7839839c181acb7a10259bef9"
+        },
+        "thumb": {
+          "path": "/media/wan-lai-xuan-bing-po-0-thumb.webp",
+          "width": 600,
+          "height": 710,
+          "bytes": 38682,
+          "sha256": "2e9b643db278a7eea9d032b8e6c8e44b6cfd39417053736ddb99ae9bdfb36422"
+        },
+        "preview": {
+          "path": "/media/wan-lai-xuan-bing-po-0-preview.webp",
+          "width": 74,
+          "height": 160,
+          "bytes": 2902,
+          "sha256": "df84f2120209aa57e3b8ec96ec128fb687579a1e6e29a39a75a0aff9047ad577"
+        }
+      }
+    },
+    {
+      "cosmeticId": "wan-lai-xuan-bing-po",
+      "index": 1,
+      "articleImageIndex": 5,
+      "sourceId": "cn-20261028-october30-appearances",
+      "sourcePage": "https://www.yysls.cn/news/official/20261030/37780_1318181.html",
+      "original": {
+        "url": "https://nie.res.netease.com/r/pic/20261030/1f64e940-8df7-4fd8-85f9-c602f1e928e6.png",
+        "filename": "1f64e940-8df7-4fd8-85f9-c602f1e928e6.png",
+        "width": 5120,
+        "height": 2880,
+        "bytes": 21833006,
+        "sha256": "7c0d5282e4f0b41c46dddd067fc2bae9e51f995b3f562e7e5312a8cfe66da904"
+      },
+      "presentationSubject": "male",
+      "presentationCrop": [
+        0,
+        0,
+        900,
+        506
+      ],
+      "sourcePresentationCrop": [
+        0,
+        0,
+        5120,
+        2880
+      ],
+      "cropCoordinateSpace": "[left, top, right, bottom], right/bottom exclusive; presentationCrop is full derivative pixels; sourcePresentationCrop is original pixels",
+      "description": {
+        "en": "Male action view showing the long ice-blue spear across a snowy landscape.",
+        "ko": "설경에서 긴 얼음빛 창을 든 남성 동작 사진입니다."
+      },
+      "derivatives": {
+        "full": {
+          "path": "/media/wan-lai-xuan-bing-po-1-full.webp",
+          "width": 900,
+          "height": 506,
+          "bytes": 63390,
+          "sha256": "508f705b17ffa17bee74b7c6c5c11356322c04b2ad1b393f067c843475ed8039"
+        },
+        "display": {
+          "path": "/media/wan-lai-xuan-bing-po-1-display.webp",
+          "width": 900,
+          "height": 506,
+          "bytes": 74924,
+          "sha256": "95547aaf40668ff7a96e6ef434dde50f094a1c7a8601bbee33e5764434506a9b"
+        },
+        "thumb": {
+          "path": "/media/wan-lai-xuan-bing-po-1-thumb.webp",
+          "width": 600,
+          "height": 710,
+          "bytes": 29368,
+          "sha256": "7744d7df0092bb56b55b3913bdfe777ebedbab4dcb5d27a0b495f6866f93f51f"
+        },
+        "preview": {
+          "path": "/media/wan-lai-xuan-bing-po-1-preview.webp",
+          "width": 160,
+          "height": 90,
+          "bytes": 2844,
+          "sha256": "a5ed78a5b4bf90e5377c45ed77d25e506978da6da4236a86f66612ef8496e73c"
+        }
+      }
+    },
+    {
+      "cosmeticId": "wan-lai-kan-qie-yu",
+      "index": 0,
+      "articleImageIndex": 8,
+      "sourceId": "cn-20261028-october30-appearances",
+      "sourcePage": "https://www.yysls.cn/news/official/20261030/37780_1318181.html",
+      "original": {
+        "url": "https://nie.res.netease.com/r/pic/20261030/e47338d9-a6b4-46c7-a4c8-b301b5e517de.jpg",
+        "filename": "e47338d9-a6b4-46c7-a4c8-b301b5e517de.jpg",
+        "width": 2880,
+        "height": 5120,
+        "bytes": 16306829,
+        "sha256": "1019927830b1c96ab15adc9922b03ce6438a39ba5d7a6e573495a27e140d1e28"
+      },
+      "presentationSubject": "female",
+      "presentationCrop": [
+        0,
+        31,
+        900,
+        1375
+      ],
+      "sourcePresentationCrop": [
+        0,
+        100,
+        2880,
+        4400
+      ],
+      "cropCoordinateSpace": "[left, top, right, bottom], right/bottom exclusive; presentationCrop is full derivative pixels; sourcePresentationCrop is original pixels",
+      "description": {
+        "en": "Female rear view showing the complete ice-blue sword and circular guard.",
+        "ko": "얼음빛 검 전체와 원형 검격을 보여 주는 여성 뒷모습입니다."
+      },
+      "derivatives": {
+        "full": {
+          "path": "/media/wan-lai-kan-qie-yu-0-full.webp",
+          "width": 900,
+          "height": 1600,
+          "bytes": 155036,
+          "sha256": "0a23639e23caca2d89ee7a6144a77b06c53adc5f180961e7dc9d81d86ecbf6b1"
+        },
+        "display": {
+          "path": "/media/wan-lai-kan-qie-yu-0-display.webp",
+          "width": 900,
+          "height": 1344,
+          "bytes": 145844,
+          "sha256": "4872483a8c6541df754b1d91f864e42a2756d91aae1520ffa8005d0f407b3350"
+        },
+        "thumb": {
+          "path": "/media/wan-lai-kan-qie-yu-0-thumb.webp",
+          "width": 600,
+          "height": 710,
+          "bytes": 42958,
+          "sha256": "5d310a9ad1f557a13b2e610cfc45f2a83ae35204c4e617f96161e48fef39a51f"
+        },
+        "preview": {
+          "path": "/media/wan-lai-kan-qie-yu-0-preview.webp",
+          "width": 107,
+          "height": 160,
+          "bytes": 3146,
+          "sha256": "f7f99a4135cf2e3f9f9d8f85e9cf51b9ee63d2d4ba68e4242f85ab00ef8f79f2"
+        }
+      }
+    },
+    {
+      "cosmeticId": "wan-lai-kan-qie-yu",
+      "index": 1,
+      "articleImageIndex": 7,
+      "sourceId": "cn-20261028-october30-appearances",
+      "sourcePage": "https://www.yysls.cn/news/official/20261030/37780_1318181.html",
+      "original": {
+        "url": "https://nie.res.netease.com/r/pic/20261030/19b4419f-12ca-460e-897f-a2586cfc65fd.jpg",
+        "filename": "19b4419f-12ca-460e-897f-a2586cfc65fd.jpg",
+        "width": 1440,
+        "height": 2560,
+        "bytes": 4259729,
+        "sha256": "d8ec834e5dd1dac42d0e31d170510c9469434e459a711aa0f31c8a4ba9d96906"
+      },
+      "presentationSubject": "male",
+      "presentationCrop": [
+        94,
+        50,
+        900,
+        1600
+      ],
+      "sourcePresentationCrop": [
+        150,
+        80,
+        1440,
+        2560
+      ],
+      "cropCoordinateSpace": "[left, top, right, bottom], right/bottom exclusive; presentationCrop is full derivative pixels; sourcePresentationCrop is original pixels",
+      "description": {
+        "en": "Male front view with the ice-blue sword held across the body.",
+        "ko": "얼음빛 검을 몸 앞에 든 남성 정면 사진입니다."
+      },
+      "derivatives": {
+        "full": {
+          "path": "/media/wan-lai-kan-qie-yu-1-full.webp",
+          "width": 900,
+          "height": 1600,
+          "bytes": 124584,
+          "sha256": "f996800e3675233603a65c5936ac327cddb2a1fe6039b13540de2c2f9c1920c1"
+        },
+        "display": {
+          "path": "/media/wan-lai-kan-qie-yu-1-display.webp",
+          "width": 806,
+          "height": 1550,
+          "bytes": 133140,
+          "sha256": "8b3b2b2ce9f11ae2e90681571b90308dde13c74b28a0ec271582da6979ce0b7c"
+        },
+        "thumb": {
+          "path": "/media/wan-lai-kan-qie-yu-1-thumb.webp",
+          "width": 600,
+          "height": 710,
+          "bytes": 32950,
+          "sha256": "d5fbcb188669dda7d1756f7755574e49d37032f7fa8a220bd24abe79ac29c418"
+        },
+        "preview": {
+          "path": "/media/wan-lai-kan-qie-yu-1-preview.webp",
+          "width": 83,
+          "height": 160,
+          "bytes": 2678,
+          "sha256": "33cc5500cc1a7ddc919e65864210085375f766297e5ffd52dee3e2cbd7ac4199"
+        }
+      }
+    }
+  ],
+  "derivation": {
+    "full": "900px wide, without enlargement; complete standalone frame; WebP quality 80",
+    "display": "Deliberate recorded crop from full derivative; WebP quality 84",
+    "thumbnail": "600x710, contain with #0c1113 background, WebP quality 79",
+    "preview": "Presentation display crop resized inside 160x160 without enlargement; WebP quality 72, Sharp/libwebp. Selector aspect matches the presentation display.",
+    "engine": "Pillow/libwebp; no synthesized artwork"
+  },
+  "visualQA": {
+    "status": "source and final derivatives reviewed",
+    "note": "Named article sections, all eight original reference images, both full patch posters and relevant readable crops inspected. Female views lead all three galleries. Full frames remain accessible; decorative text/logo columns are omitted where a clean deliberate character crop is usable. Raw originals stay in temporary staging and are excluded from Git. No browser/device verification claimed here. Preview boundaries were revised to retain complete heads/hair and the sword hand before final review. The female sword crop includes both blade point and pommel; the complete lower garment remains in the full frame. Selector previews were regenerated from the final presentation displays so their aspect ratios match the gallery selectors."
+  },
+  "contextualCouponEvidence": {
+    "canonicalItemDeadlinesAdded": false,
+    "eventOriginal": "猫之行",
+    "eventStart": "after 2026-10-30 update",
+    "eventEnd": "2026-11-20T04:59:59",
+    "couponEnd": "2026-11-30T04:59:59",
+    "timezone": null,
+    "couponThresholdAndDiscountEchoBeads": [
+      [
+        60,
+        40
+      ],
+      [
+        3280,
+        1680
+      ],
+      [
+        6480,
+        3880
+      ]
+    ],
+    "conditions": "One of each coupon claimed in the event. Use at most one per purchase; cannot stack with another coupon or discount. Exact eligibility/application for the three individual new appearances was not independently verified, so their canonical fixed prices are retained.",
+    "sourceId": "cn-20261030-update",
+    "posterIndex": 0,
+    "inspectedOriginalCrop": [
+      0,
+      6200,
+      2688,
+      9400
+    ]
+  },
+  "existingCorrectionEvidence": {
+    "sourceId": "cn-20261030-update",
+    "posterIndex": 1,
+    "tailoredSection": "优化修复 → 体验优化 → 外观",
+    "tailoredOriginalCrop": [
+      0,
+      12800,
+      2688,
+      15300
+    ],
+    "tailoredQuoteOriginal": "套装【岁星方朔】新增裁造款式【天星澈夜】。",
+    "tailoredDecision": "Replace the prior unknown/in-development-only tailored statement for 岁星方朔 with the named October 30 patch addition. Preserve the original announced October 23 main listing; no separate exact first-availability instant for the tailored style is established. No new cosmetic record/media for this style without a separate identified reference.",
+    "bugfixSection": "优化修复 → BUG修复 → 外观",
+    "bugfixOriginalCrop": [
+      0,
+      14900,
+      2688,
+      16300
+    ],
+    "bugfixQuotesOriginal": [
+      "修复了上衣「岁星方朔」部分模型显示异常，以及结算演出中臀部在特定动作下异常穿模的问题。",
+      "修复了女款上衣「渡无常」袖摆在特定动作下异常穿模的问题。"
+    ],
+    "releaseDecision": "The past-tense named correction statements support CN item presence by October 30 for 岁星方朔 and 渡无常 only. Do not use this to confirm the other October 23 items or the three newly announced October 30 appearances. The exact first release day remains unverified; preserve October 23 as the earlier announced date, not independently verified actual day.",
+    "affectedCosmeticIds": [
+      "sui-xing-fang-shuo",
+      "du-wu-chang"
+    ],
+    "recommendedRegionalHandling": {
+      "status": "released",
+      "releaseDate": null,
+      "precision": "unknown",
+      "plannedDateToPreserve": "2026-10-23",
+      "note": "The main appearance was planned for October 23 and is directly mentioned in the October 30 corrective patch. The evidence confirms presence by October 30; it does not independently verify the exact actual first-release date. Retain the announced date in cnRelease with its basis/scope rather than represent it as a verified actual day."
+    },
+    "proposedTailoredCondition": {
+      "en": "The October 30 CN patch names a newly added tailored style 天星澈夜 for 岁星方朔. This supersedes the earlier in-development-only statement. No separately verified first-availability instant, individual price, named reference artwork or Global identity is established for the tailored style.",
+      "ko": "중국 10월 30일 패치는 세성방삭의 새 재단 스타일 天星澈夜 추가를 명시하며 이전의 개발 중이라는 설명을 갱신합니다. 재단 스타일의 별도 최초 획득 시각·개별 가격·이름이 확인된 참고 사진·글로벌 대응은 확인되지 않았습니다."
+    }
+  },
+  "limits": [
+    "No current in-game login/check performed.",
+    "No verified Global names, counterpart identities or release schedules established.",
+    "No redistribution permission inferred from official attribution.",
+    "New coupon/general event reward details are contextual; no coupon-derived individual sale price assigned.",
+    "No forecast, recurring schedule or unrelated service created."
+  ]
+}

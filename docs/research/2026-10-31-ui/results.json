@@ -1,0 +1,474 @@
+{
+  "checkedAt": "2026-10-31",
+  "reviewTimezone": "Asia/Seoul",
+  "environment": "In-app Chromium, local production Worker, CSS viewport emulation; physical devices not tested",
+  "details": [
+    {
+      "hero": [
+        {
+          "loaded": true,
+          "src": "/media/zhu-ma-zi-0-display.webp"
+        }
+      ],
+      "overflow": false,
+      "title": "죽마자",
+      "url": "/ko/cosmetics/zhu-ma-zi"
+    },
+    {
+      "hero": [
+        {
+          "loaded": true,
+          "src": "/media/wan-lai-xuan-bing-po-0-display.webp"
+        }
+      ],
+      "overflow": false,
+      "title": "만뢰·현빙파",
+      "url": "/ko/cosmetics/wan-lai-xuan-bing-po"
+    },
+    {
+      "hero": [
+        {
+          "loaded": true,
+          "src": "/media/wan-lai-kan-qie-yu-0-display.webp"
+        }
+      ],
+      "overflow": false,
+      "title": "만뢰·감절옥",
+      "url": "/ko/cosmetics/wan-lai-kan-qie-yu"
+    },
+    {
+      "hero": [
+        {
+          "loaded": true,
+          "src": "/media/global-ghostlight-pumpkin-0-display.webp"
+        }
+      ],
+      "overflow": false,
+      "title": "호박등 야행",
+      "url": "/ko/cosmetics/global-ghostlight-pumpkin"
+    },
+    {
+      "hero": [
+        {
+          "loaded": true,
+          "src": "/media/global-fall-confection-0-display.webp"
+        }
+      ],
+      "overflow": false,
+      "title": "가을 서리 사탕",
+      "url": "/ko/cosmetics/global-fall-confection"
+    },
+    {
+      "hero": [
+        {
+          "loaded": true,
+          "src": "/media/wu-nian-ke-kao-san-nian-mo-ni-1-display.webp"
+        }
+      ],
+      "overflow": false,
+      "title": "과거 시험 완벽 대비",
+      "url": "/ko/cosmetics/wu-nian-ke-kao-san-nian-mo-ni"
+    },
+    {
+      "hero": [
+        {
+          "loaded": true,
+          "src": "/media/xuan-yingyao-tai-fei-jing-1-display.webp"
+        }
+      ],
+      "overflow": false,
+      "title": "흑옥-달빛 거울",
+      "url": "/ko/cosmetics/xuan-yingyao-tai-fei-jing"
+    },
+    {
+      "hero": [
+        {
+          "loaded": true,
+          "src": "/media/xuan-yingyou-shi-sheng-fang-1-display.webp"
+        }
+      ],
+      "overflow": false,
+      "title": "흑옥-바위틈의 향기",
+      "url": "/ko/cosmetics/xuan-yingyou-shi-sheng-fang"
+    },
+    {
+      "hero": [
+        {
+          "loaded": true,
+          "src": "/media/gui-shou-fen-lian-1-display.webp"
+        }
+      ],
+      "overflow": false,
+      "title": "귀수의 연화",
+      "url": "/ko/cosmetics/gui-shou-fen-lian"
+    },
+    {
+      "hero": [
+        {
+          "loaded": true,
+          "src": "/media/you-ye-chen-ying-1-display.webp"
+        }
+      ],
+      "overflow": false,
+      "title": "깊은 밤의 그림자",
+      "url": "/ko/cosmetics/you-ye-chen-ying"
+    },
+    {
+      "hero": [
+        {
+          "loaded": true,
+          "src": "/media/wan-laizuo-xuan-gui-1-display.webp"
+        }
+      ],
+      "overflow": false,
+      "title": "만물의 소리-현옥의 기품",
+      "url": "/ko/cosmetics/wan-laizuo-xuan-gui"
+    },
+    {
+      "hero": [
+        {
+          "loaded": true,
+          "src": "/media/wan-laipei-cang-long-1-display.webp"
+        }
+      ],
+      "overflow": false,
+      "title": "만물의 소리-푸른 청룡",
+      "url": "/ko/cosmetics/wan-laipei-cang-long"
+    },
+    {
+      "hero": [
+        {
+          "loaded": true,
+          "src": "/media/lian-tai-he-4-display.webp"
+        }
+      ],
+      "overflow": false,
+      "title": "연꽃 위의 학",
+      "url": "/ko/cosmetics/lian-tai-he"
+    },
+    {
+      "hero": [
+        {
+          "loaded": true,
+          "src": "/media/zhi-le-er-le-0-full.webp"
+        }
+      ],
+      "overflow": false,
+      "title": "진정한 낙",
+      "url": "/ko/cosmetics/zhi-le-er-le"
+    },
+    {
+      "hero": [
+        {
+          "loaded": true,
+          "src": "/media/zhu-ma-zi-0-display.webp"
+        }
+      ],
+      "overflow": false,
+      "title": "Zhu Ma Zi",
+      "url": "/en/cosmetics/zhu-ma-zi"
+    },
+    {
+      "hero": [
+        {
+          "loaded": true,
+          "src": "/media/wan-lai-xuan-bing-po-0-display.webp"
+        }
+      ],
+      "overflow": false,
+      "title": "Wan Lai · Xuan Bing Po",
+      "url": "/en/cosmetics/wan-lai-xuan-bing-po"
+    },
+    {
+      "hero": [
+        {
+          "loaded": true,
+          "src": "/media/wan-lai-kan-qie-yu-0-display.webp"
+        }
+      ],
+      "overflow": false,
+      "title": "Wan Lai · Kan Qie Yu",
+      "url": "/en/cosmetics/wan-lai-kan-qie-yu"
+    },
+    {
+      "hero": [
+        {
+          "loaded": true,
+          "src": "/media/global-ghostlight-pumpkin-0-display.webp"
+        }
+      ],
+      "overflow": false,
+      "title": "Ghostlight Pumpkin",
+      "url": "/en/cosmetics/global-ghostlight-pumpkin"
+    },
+    {
+      "hero": [
+        {
+          "loaded": true,
+          "src": "/media/global-fall-confection-0-display.webp"
+        }
+      ],
+      "overflow": false,
+      "title": "Fall Confection",
+      "url": "/en/cosmetics/global-fall-confection"
+    },
+    {
+      "hero": [
+        {
+          "loaded": true,
+          "src": "/media/wu-nian-ke-kao-san-nian-mo-ni-1-display.webp"
+        }
+      ],
+      "overflow": false,
+      "title": "Ace the Boards",
+      "url": "/en/cosmetics/wu-nian-ke-kao-san-nian-mo-ni"
+    },
+    {
+      "hero": [
+        {
+          "loaded": true,
+          "src": "/media/xuan-yingyao-tai-fei-jing-1-display.webp"
+        }
+      ],
+      "overflow": false,
+      "title": "Duskgem: Celestial Mirage",
+      "url": "/en/cosmetics/xuan-yingyao-tai-fei-jing"
+    },
+    {
+      "hero": [
+        {
+          "loaded": true,
+          "src": "/media/xuan-yingyou-shi-sheng-fang-1-display.webp"
+        }
+      ],
+      "overflow": false,
+      "title": "Duskgem: Petrichor Bloom",
+      "url": "/en/cosmetics/xuan-yingyou-shi-sheng-fang"
+    },
+    {
+      "hero": [
+        {
+          "loaded": true,
+          "src": "/media/gui-shou-fen-lian-1-display.webp"
+        }
+      ],
+      "overflow": false,
+      "title": "Wraithflame",
+      "url": "/en/cosmetics/gui-shou-fen-lian"
+    },
+    {
+      "hero": [
+        {
+          "loaded": true,
+          "src": "/media/you-ye-chen-ying-1-display.webp"
+        }
+      ],
+      "overflow": false,
+      "title": "Frost's Glow",
+      "url": "/en/cosmetics/you-ye-chen-ying"
+    },
+    {
+      "hero": [
+        {
+          "loaded": true,
+          "src": "/media/wan-laizuo-xuan-gui-1-display.webp"
+        }
+      ],
+      "overflow": false,
+      "title": "Myriad Sounds: Wrought Obsidian",
+      "url": "/en/cosmetics/wan-laizuo-xuan-gui"
+    },
+    {
+      "hero": [
+        {
+          "loaded": true,
+          "src": "/media/wan-laipei-cang-long-1-display.webp"
+        }
+      ],
+      "overflow": false,
+      "title": "Myriad Sounds: Azure Dragon",
+      "url": "/en/cosmetics/wan-laipei-cang-long"
+    },
+    {
+      "hero": [
+        {
+          "loaded": true,
+          "src": "/media/lian-tai-he-4-display.webp"
+        }
+      ],
+      "overflow": false,
+      "title": "Lotus Crane",
+      "url": "/en/cosmetics/lian-tai-he"
+    },
+    {
+      "hero": [
+        {
+          "loaded": true,
+          "src": "/media/zhi-le-er-le-0-full.webp"
+        }
+      ],
+      "overflow": false,
+      "title": "Mindful Joy",
+      "url": "/en/cosmetics/zhi-le-er-le"
+    }
+  ],
+  "responsive": [
+    {
+      "overflow": false,
+      "title": "만물의 소리-현옥의 기품",
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "title": "만물의 소리-현옥의 기품",
+      "width": 360
+    },
+    {
+      "overflow": false,
+      "title": "만물의 소리-현옥의 기품",
+      "width": 390
+    },
+    {
+      "overflow": false,
+      "title": "만물의 소리-현옥의 기품",
+      "width": 768
+    },
+    {
+      "overflow": false,
+      "title": "만물의 소리-현옥의 기품",
+      "width": 1024
+    },
+    {
+      "overflow": false,
+      "title": "만물의 소리-현옥의 기품",
+      "width": 1440
+    }
+  ],
+  "calendarChecks": [
+    {
+      "links": [
+        "/ko/cosmetics/shao-nian-xing",
+        "/ko/cosmetics/ran-hua-qing-ye",
+        "/ko/cosmetics/yu-long-yan-wu",
+        "/ko/cosmetics/yan-juan-can-ye",
+        "/ko/cosmetics/da-dao-tong-ming",
+        "/ko/cosmetics/ran-hua-qing-ye",
+        "/ko/cosmetics/cang-yinni-shang-tian-feng",
+        "/ko/cosmetics/tan-mei-feng-chun",
+        "/ko/cosmetics/kongshan-xun-mei",
+        "/ko/cosmetics/youzi-yi",
+        "/ko/cosmetics/pi-xiu-ci-bao",
+        "/ko/cosmetics/hong-ye-xiao-xiao",
+        "/ko/cosmetics/lian-du-you-luo",
+        "/ko/cosmetics/ming-he-fu-yunsi-xian",
+        "/ko/cosmetics/global-aureate-dominion",
+        "/ko/cosmetics/global-blazing-sands",
+        "/ko/cosmetics/bu-qiu-ting",
+        "/ko/cosmetics/luo-shui-maofu",
+        "/ko/cosmetics/landong-feng",
+        "/ko/cosmetics/jin-youmeng",
+        "/ko/cosmetics/wan-laizhe-tao-wen-xue",
+        "/ko/cosmetics/wan-laiyi-xue-ting-chun",
+        "/ko/cosmetics/yu-yu-xuan-ji",
+        "/ko/cosmetics/xing-chui-ping-ye",
+        "/ko/cosmetics/zhang-meng-tian-xing",
+        "/ko/cosmetics/shao-nian-xing",
+        "/ko/cosmetics/global-deer-parture",
+        "/ko/cosmetics/global-transcendence-gate",
+        "/ko/cosmetics/qing-xiao-lue-ying",
+        "/ko/cosmetics/chi-long-chengtian",
+        "/ko/cosmetics/zhui-bu-shang-e",
+        "/ko/cosmetics/yun-tou-zhuan-miao",
+        "/ko/cosmetics/xia-zhe-wu-ming",
+        "/ko/cosmetics/bu-xian-shen-xian",
+        "/ko/cosmetics/yu-shan-san-e",
+        "/ko/cosmetics/e-de-jiang-hu",
+        "/ko/cosmetics/global-ghostlight-pumpkin",
+        "/ko/cosmetics/global-fall-confection",
+        "/ko/cosmetics/wu-nian-ke-kao-san-nian-mo-ni",
+        "/ko/cosmetics/xuan-yingyao-tai-fei-jing",
+        "/ko/cosmetics/xuan-yingyou-shi-sheng-fang",
+        "/ko/cosmetics/yu-long-yan-wu",
+        "/ko/cosmetics/yan-juan-can-ye",
+        "/ko/cosmetics/da-dao-tong-ming",
+        "/ko/cosmetics/ran-hua-qing-ye",
+        "/ko/cosmetics/cang-yinni-shang-tian-feng",
+        "/ko/cosmetics/tan-mei-feng-chun",
+        "/ko/cosmetics/kongshan-xun-mei",
+        "/ko/cosmetics/youzi-yi",
+        "/ko/cosmetics/pi-xiu-ci-bao",
+        "/ko/cosmetics/hong-ye-xiao-xiao",
+        "/ko/cosmetics/lian-du-you-luo",
+        "/ko/cosmetics/ming-he-fu-yunsi-xian",
+        "/ko/cosmetics/global-aureate-dominion",
+        "/ko/cosmetics/global-blazing-sands",
+        "/ko/cosmetics/bu-qiu-ting",
+        "/ko/cosmetics/luo-shui-maofu",
+        "/ko/cosmetics/landong-feng",
+        "/ko/cosmetics/jin-youmeng",
+        "/ko/cosmetics/wan-laizhe-tao-wen-xue",
+        "/ko/cosmetics/wan-laiyi-xue-ting-chun",
+        "/ko/cosmetics/yu-yu-xuan-ji",
+        "/ko/cosmetics/xing-chui-ping-ye",
+        "/ko/cosmetics/zhang-meng-tian-xing",
+        "/ko/cosmetics/shao-nian-xing",
+        "/ko/cosmetics/global-deer-parture",
+        "/ko/cosmetics/global-transcendence-gate",
+        "/ko/cosmetics/qing-xiao-lue-ying",
+        "/ko/cosmetics/chi-long-chengtian",
+        "/ko/cosmetics/zhui-bu-shang-e",
+        "/ko/cosmetics/yun-tou-zhuan-miao",
+        "/ko/cosmetics/xia-zhe-wu-ming",
+        "/ko/cosmetics/bu-xian-shen-xian",
+        "/ko/cosmetics/yu-shan-san-e",
+        "/ko/cosmetics/e-de-jiang-hu",
+        "/ko/cosmetics/global-ghostlight-pumpkin",
+        "/ko/cosmetics/global-fall-confection",
+        "/ko/cosmetics/wu-nian-ke-kao-san-nian-mo-ni",
+        "/ko/cosmetics/xuan-yingyao-tai-fei-jing",
+        "/ko/cosmetics/xuan-yingyou-shi-sheng-fang",
+        "/ko/cosmetics/zongheng",
+        "/ko/cosmetics/chongming",
+        "/ko/cosmetics/yunzhong-jinshu",
+        "/ko/cosmetics/cangyin-xihe-qiaori",
+        "/ko/cosmetics/zui-hun-zhuo-yu",
+        "/ko/cosmetics/xue-lingdang"
+      ],
+      "url": "/ko/calendar?view=calendar"
+    },
+    {
+      "links": [
+        "/ko/cosmetics/shao-nian-xing",
+        "/ko/cosmetics/ran-hua-qing-ye",
+        "/ko/cosmetics/gui-shou-fen-lian",
+        "/ko/cosmetics/you-ye-chen-ying",
+        "/ko/cosmetics/wan-laizuo-xuan-gui",
+        "/ko/cosmetics/wan-laipei-cang-long",
+        "/ko/cosmetics/lian-tai-he",
+        "/ko/cosmetics/zhi-le-er-le",
+        "/ko/cosmetics/gui-shou-fen-lian",
+        "/ko/cosmetics/you-ye-chen-ying",
+        "/ko/cosmetics/wan-laizuo-xuan-gui",
+        "/ko/cosmetics/wan-laipei-cang-long",
+        "/ko/cosmetics/lian-tai-he",
+        "/ko/cosmetics/zhi-le-er-le",
+        "/ko/cosmetics/zongheng",
+        "/ko/cosmetics/chongming",
+        "/ko/cosmetics/yunzhong-jinshu",
+        "/ko/cosmetics/cangyin-xihe-qiaori",
+        "/ko/cosmetics/zui-hun-zhuo-yu",
+        "/ko/cosmetics/xue-lingdang"
+      ],
+      "url": "/ko/calendar?view=calendar&month=2026-11"
+    }
+  ],
+  "gallery": {
+    "cosmeticId": "zhu-ma-zi",
+    "nextOriginal": "https://nie.res.netease.com/r/pic/20261030/b980d863-e01c-4f05-b717-be658dab34b7.png",
+    "focusRestored": true
+  },
+  "limitations": [
+    "Firefox/WebKit, physical iOS/Android, 200% text enlargement, throttled-network performance and field Core Web Vitals unverified.",
+    "Initial 200 KB JavaScript transfer target not measured."
+  ]
+}

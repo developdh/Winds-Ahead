@@ -1,0 +1,2010 @@
+{
+  "reviewedAt": "2026-10-31",
+  "purpose": {
+    "en": "Official Global October 29 appearance visual identity review and optimized media; canonical manifests are integrated separately.",
+    "ko": "글로벌 10월 29일 신규 외관의 시각적 동일성 및 최적화 이미지 점검입니다. 정식 콘텐츠 파일은 별도로 통합합니다."
+  },
+  "sourcePages": {
+    "en": "https://www.wherewindsmeetgame.com/news/official/1029appearance.html",
+    "ko": "https://www.wherewindsmeetgame.com/kr/news/official/1029appearance.html"
+  },
+  "sourceIds": {
+    "en": "global-20261029-october29-appearance-en",
+    "ko": "global-20261029-october29-appearance-ko"
+  },
+  "rights": {
+    "permission": "unknown",
+    "audience": "reference artwork; excluded from the code license",
+    "note": {
+      "en": "Official attribution retained; no redistribution license inferred. No generated artwork.",
+      "ko": "공식 출처를 유지하며 재배포 허가가 있다고 추정하지 않습니다. 생성한 그림은 없습니다."
+    }
+  },
+  "originals": [
+    {
+      "language": "en",
+      "imageIndex": 0,
+      "url": "https://r.res.easebar.com/pic/20261029/f6580cce-8aca-41fe-b894-c287bfe8ee62.png",
+      "local": "/tmp/winds-ahead-20261031/global-media/en-0.png",
+      "width": 1080,
+      "height": 1350,
+      "frames": 1,
+      "bytes": 1576577,
+      "sha256": "e8d5bf55aa45d35c68a351c37aca5e455ed4804b536ebdeede6140b952d1bb1f",
+      "sourceId": "global-20261029-october29-appearance-en",
+      "sourcePage": "https://www.wherewindsmeetgame.com/news/official/1029appearance.html",
+      "imageLinkIndex": 14
+    },
+    {
+      "language": "en",
+      "imageIndex": 1,
+      "url": "https://r.res.easebar.com/pic/20261029/ea542d25-341f-4252-8f71-151fd3662e74.jpg",
+      "local": "/tmp/winds-ahead-20261031/global-media/en-1.jpg",
+      "width": 1080,
+      "height": 1350,
+      "frames": 1,
+      "bytes": 1067555,
+      "sha256": "c5fe2618d8bfecee84b7a1434a0394cb809fbc1805e3be8231eedea6424b1851",
+      "sourceId": "global-20261029-october29-appearance-en",
+      "sourcePage": "https://www.wherewindsmeetgame.com/news/official/1029appearance.html",
+      "imageLinkIndex": 15
+    },
+    {
+      "language": "en",
+      "imageIndex": 2,
+      "url": "https://r.res.easebar.com/pic/20261029/e4568404-d9f6-4cb0-8c9b-e8daff6c134c.png",
+      "local": "/tmp/winds-ahead-20261031/global-media/en-2.png",
+      "width": 1424,
+      "height": 1288,
+      "frames": 1,
+      "bytes": 2756329,
+      "sha256": "546785910a92269acef44f9cd114b566fe489a00bd1ccfb572bb0a79ee153ec1",
+      "sourceId": "global-20261029-october29-appearance-en",
+      "sourcePage": "https://www.wherewindsmeetgame.com/news/official/1029appearance.html",
+      "imageLinkIndex": 16
+    },
+    {
+      "language": "en",
+      "imageIndex": 3,
+      "url": "https://r.res.easebar.com/pic/20261029/d8a79bcd-1c0b-499e-b103-a4c0708bbf19.png",
+      "local": "/tmp/winds-ahead-20261031/global-media/en-3.png",
+      "width": 1920,
+      "height": 1080,
+      "frames": 1,
+      "bytes": 3326266,
+      "sha256": "0a6717422514bc640afac979c0365861577bd004d4b62c9c9020471afb127d79",
+      "sourceId": "global-20261029-october29-appearance-en",
+      "sourcePage": "https://www.wherewindsmeetgame.com/news/official/1029appearance.html",
+      "imageLinkIndex": 17
+    },
+    {
+      "language": "en",
+      "imageIndex": 4,
+      "url": "https://r.res.easebar.com/pic/20261029/f5b17f2b-5942-48b1-bac4-ce32e4997d04.png",
+      "local": "/tmp/winds-ahead-20261031/global-media/en-4.png",
+      "width": 1080,
+      "height": 1350,
+      "frames": 1,
+      "bytes": 1861392,
+      "sha256": "62f29949719a8f6453f13bcf3fa9b24b633dff2ff6b30654f0ef1d99753bb7ba",
+      "sourceId": "global-20261029-october29-appearance-en",
+      "sourcePage": "https://www.wherewindsmeetgame.com/news/official/1029appearance.html",
+      "imageLinkIndex": 18
+    },
+    {
+      "language": "en",
+      "imageIndex": 5,
+      "url": "https://r.res.easebar.com/pic/20261029/274537da-d6aa-4f9c-bb6f-adcd3403f833.png",
+      "local": "/tmp/winds-ahead-20261031/global-media/en-5.png",
+      "width": 1920,
+      "height": 1080,
+      "frames": 1,
+      "bytes": 2990202,
+      "sha256": "4eb7de82df47f96e7f8f692317f4e5224b022fa5d0f7ffbb0b5eafdf484e68a8",
+      "sourceId": "global-20261029-october29-appearance-en",
+      "sourcePage": "https://www.wherewindsmeetgame.com/news/official/1029appearance.html",
+      "imageLinkIndex": 19
+    },
+    {
+      "language": "en",
+      "imageIndex": 6,
+      "url": "https://r.res.easebar.com/pic/20261029/0aa85abb-ac8b-4ffa-820c-37afbc82c16f.png",
+      "local": "/tmp/winds-ahead-20261031/global-media/en-6.png",
+      "width": 1920,
+      "height": 1080,
+      "frames": 1,
+      "bytes": 2959021,
+      "sha256": "259516e352bd3c8e63eb27552d583be2182470c68584ed624d7e467f13f4dfbf",
+      "sourceId": "global-20261029-october29-appearance-en",
+      "sourcePage": "https://www.wherewindsmeetgame.com/news/official/1029appearance.html",
+      "imageLinkIndex": 20
+    },
+    {
+      "language": "en",
+      "imageIndex": 7,
+      "url": "https://r.res.easebar.com/pic/20261029/82741313-4c8d-49a6-84cb-78dc7a2cbbc4.png",
+      "local": "/tmp/winds-ahead-20261031/global-media/en-7.png",
+      "width": 1215,
+      "height": 1080,
+      "frames": 1,
+      "bytes": 2398913,
+      "sha256": "08c597fc61e4014eeb55683d854fe7ea844ad1262e2c7def5b9bfe0ed78d1e4b",
+      "sourceId": "global-20261029-october29-appearance-en",
+      "sourcePage": "https://www.wherewindsmeetgame.com/news/official/1029appearance.html",
+      "imageLinkIndex": 21
+    },
+    {
+      "language": "en",
+      "imageIndex": 8,
+      "url": "https://r.res.easebar.com/pic/20261029/cc14aec7-2d0d-4d38-ad3c-d7a424f8aecf.png",
+      "local": "/tmp/winds-ahead-20261031/global-media/en-8.png",
+      "width": 1820,
+      "height": 1080,
+      "frames": 1,
+      "bytes": 3571141,
+      "sha256": "195e6f7a3493460a2c382824396f0360d1026dc9c6c7d12cc7ec40978af5fdec",
+      "sourceId": "global-20261029-october29-appearance-en",
+      "sourcePage": "https://www.wherewindsmeetgame.com/news/official/1029appearance.html",
+      "imageLinkIndex": 22
+    },
+    {
+      "language": "en",
+      "imageIndex": 9,
+      "url": "https://r.res.easebar.com/pic/20261029/0c2bad98-0c64-454c-a260-3978c8aff7bc.png",
+      "local": "/tmp/winds-ahead-20261031/global-media/en-9.png",
+      "width": 1820,
+      "height": 1080,
+      "frames": 1,
+      "bytes": 3561970,
+      "sha256": "f628c21d78e197dc2ff8b45a7e189367de664222d35b7215fa86c155903f3412",
+      "sourceId": "global-20261029-october29-appearance-en",
+      "sourcePage": "https://www.wherewindsmeetgame.com/news/official/1029appearance.html",
+      "imageLinkIndex": 23
+    },
+    {
+      "language": "en",
+      "imageIndex": 10,
+      "url": "https://r.res.easebar.com/pic/20261029/43ba24b8-f857-4b4a-b961-222f1f866b55.png",
+      "local": "/tmp/winds-ahead-20261031/global-media/en-10.png",
+      "width": 1440,
+      "height": 1080,
+      "frames": 1,
+      "bytes": 1988547,
+      "sha256": "6439874467665dde87d7346cde0fda84e119e8246be80be17ae678c05159a420",
+      "sourceId": "global-20261029-october29-appearance-en",
+      "sourcePage": "https://www.wherewindsmeetgame.com/news/official/1029appearance.html",
+      "imageLinkIndex": 24
+    },
+    {
+      "language": "en",
+      "imageIndex": 11,
+      "url": "https://r.res.easebar.com/pic/20261029/719a64cc-96a6-4b93-b789-f1570c203582.png",
+      "local": "/tmp/winds-ahead-20261031/global-media/en-11.png",
+      "width": 1203,
+      "height": 1080,
+      "frames": 1,
+      "bytes": 1920974,
+      "sha256": "517c0552cf5c70c6dbd0b01be4e71d27d35aac9510557a30ddcd5dafe3d87dee",
+      "sourceId": "global-20261029-october29-appearance-en",
+      "sourcePage": "https://www.wherewindsmeetgame.com/news/official/1029appearance.html",
+      "imageLinkIndex": 25
+    },
+    {
+      "language": "en",
+      "imageIndex": 12,
+      "url": "https://r.res.easebar.com/pic/20261029/5ed0af4a-4e12-4589-8ffe-c4b639e0c5be.png",
+      "local": "/tmp/winds-ahead-20261031/global-media/en-12.png",
+      "width": 1920,
+      "height": 1080,
+      "frames": 1,
+      "bytes": 2369745,
+      "sha256": "72700f61ad50be03d0938dfb3c0828e4f7ea1a4708402a95a43863a1d9ac264a",
+      "sourceId": "global-20261029-october29-appearance-en",
+      "sourcePage": "https://www.wherewindsmeetgame.com/news/official/1029appearance.html",
+      "imageLinkIndex": 26
+    },
+    {
+      "language": "en",
+      "imageIndex": 13,
+      "url": "https://r.res.easebar.com/pic/20261029/1f378d95-c575-4f62-af3d-9050cc643e45.png",
+      "local": "/tmp/winds-ahead-20261031/global-media/en-13.png",
+      "width": 1920,
+      "height": 1080,
+      "frames": 1,
+      "bytes": 2499999,
+      "sha256": "13360fb3f6b1202d0a36a6af178a83b9279a000842002c9f3d57df9ae2420a18",
+      "sourceId": "global-20261029-october29-appearance-en",
+      "sourcePage": "https://www.wherewindsmeetgame.com/news/official/1029appearance.html",
+      "imageLinkIndex": 27
+    },
+    {
+      "language": "en",
+      "imageIndex": 14,
+      "url": "https://r.res.easebar.com/pic/20261029/28acd06d-0059-41b8-8aba-ebffacaa4561.png",
+      "local": "/tmp/winds-ahead-20261031/global-media/en-14.png",
+      "width": 1080,
+      "height": 1350,
+      "frames": 1,
+      "bytes": 2005539,
+      "sha256": "1722466090c9fa79bece04708443b20e5c919a671cb301ebc4f34e205a971376",
+      "sourceId": "global-20261029-october29-appearance-en",
+      "sourcePage": "https://www.wherewindsmeetgame.com/news/official/1029appearance.html",
+      "imageLinkIndex": 28
+    },
+    {
+      "language": "en",
+      "imageIndex": 15,
+      "url": "https://r.res.easebar.com/pic/20261029/e4745a42-80e1-416f-bfbe-9b3ccf1a2d67.png",
+      "local": "/tmp/winds-ahead-20261031/global-media/en-15.png",
+      "width": 1080,
+      "height": 1350,
+      "frames": 1,
+      "bytes": 1841837,
+      "sha256": "c9b6f544082b9ddba827c2588491f048a9b8d75214acfd780d6f2fdce35cf982",
+      "sourceId": "global-20261029-october29-appearance-en",
+      "sourcePage": "https://www.wherewindsmeetgame.com/news/official/1029appearance.html",
+      "imageLinkIndex": 29
+    },
+    {
+      "language": "en",
+      "imageIndex": 16,
+      "url": "https://r.res.easebar.com/pic/20261029/9f05bcef-bd37-40a0-a6dc-86389f79926e.png",
+      "local": "/tmp/winds-ahead-20261031/global-media/en-16.png",
+      "width": 1218,
+      "height": 1080,
+      "frames": 1,
+      "bytes": 2065574,
+      "sha256": "4eda07901f73cbb5fe409377a637c1c7b32af9135d24ae18b4501ff7b51043c6",
+      "sourceId": "global-20261029-october29-appearance-en",
+      "sourcePage": "https://www.wherewindsmeetgame.com/news/official/1029appearance.html",
+      "imageLinkIndex": 30
+    },
+    {
+      "language": "en",
+      "imageIndex": 17,
+      "url": "https://r.res.easebar.com/pic/20261029/388b3276-10ad-4905-98de-f5d66f5bfcd6.png",
+      "local": "/tmp/winds-ahead-20261031/global-media/en-17.png",
+      "width": 1205,
+      "height": 1080,
+      "frames": 1,
+      "bytes": 1923398,
+      "sha256": "4b6060d39707355abe862f4867df766774aa5817bde56aa25286be6406850dd4",
+      "sourceId": "global-20261029-october29-appearance-en",
+      "sourcePage": "https://www.wherewindsmeetgame.com/news/official/1029appearance.html",
+      "imageLinkIndex": 31
+    },
+    {
+      "language": "en",
+      "imageIndex": 18,
+      "url": "https://r.res.easebar.com/pic/20261029/f9039449-1fa2-41b2-81c8-b515a7ed648d.gif",
+      "local": "/tmp/winds-ahead-20261031/global-media/en-18.gif",
+      "width": 720,
+      "height": 324,
+      "frames": 89,
+      "bytes": 6846704,
+      "sha256": "26db350648bea5a0d292e0478d7f66fc209e1fb9fec16260a559a9a859eed78d",
+      "sourceId": "global-20261029-october29-appearance-en",
+      "sourcePage": "https://www.wherewindsmeetgame.com/news/official/1029appearance.html",
+      "imageLinkIndex": 32
+    },
+    {
+      "language": "ko",
+      "imageIndex": 0,
+      "url": "https://r.res.easebar.com/pic/20261029/19fac370-cfa7-4dd3-bdcf-7b8d89a17c54.png",
+      "local": "/tmp/winds-ahead-20261031/global-media/ko-0.png",
+      "width": 1080,
+      "height": 1350,
+      "frames": 1,
+      "bytes": 1576577,
+      "sha256": "e8d5bf55aa45d35c68a351c37aca5e455ed4804b536ebdeede6140b952d1bb1f",
+      "sourceId": "global-20261029-october29-appearance-ko",
+      "sourcePage": "https://www.wherewindsmeetgame.com/kr/news/official/1029appearance.html",
+      "imageLinkIndex": 14
+    },
+    {
+      "language": "ko",
+      "imageIndex": 1,
+      "url": "https://r.res.easebar.com/pic/20261029/554bd37d-b844-4f4b-8eaa-3b0e470764fe.jpg",
+      "local": "/tmp/winds-ahead-20261031/global-media/ko-1.jpg",
+      "width": 1080,
+      "height": 1350,
+      "frames": 1,
+      "bytes": 1067555,
+      "sha256": "c5fe2618d8bfecee84b7a1434a0394cb809fbc1805e3be8231eedea6424b1851",
+      "sourceId": "global-20261029-october29-appearance-ko",
+      "sourcePage": "https://www.wherewindsmeetgame.com/kr/news/official/1029appearance.html",
+      "imageLinkIndex": 15
+    },
+    {
+      "language": "ko",
+      "imageIndex": 2,
+      "url": "https://r.res.easebar.com/pic/20261029/a544b4bc-35d6-4f7d-9112-5d674282ff39.png",
+      "local": "/tmp/winds-ahead-20261031/global-media/ko-2.png",
+      "width": 1424,
+      "height": 1288,
+      "frames": 1,
+      "bytes": 2756329,
+      "sha256": "546785910a92269acef44f9cd114b566fe489a00bd1ccfb572bb0a79ee153ec1",
+      "sourceId": "global-20261029-october29-appearance-ko",
+      "sourcePage": "https://www.wherewindsmeetgame.com/kr/news/official/1029appearance.html",
+      "imageLinkIndex": 16
+    },
+    {
+      "language": "ko",
+      "imageIndex": 3,
+      "url": "https://r.res.easebar.com/pic/20261029/ff942602-2684-4017-b41b-385e0b505254.png",
+      "local": "/tmp/winds-ahead-20261031/global-media/ko-3.png",
+      "width": 1920,
+      "height": 1080,
+      "frames": 1,
+      "bytes": 3326266,
+      "sha256": "0a6717422514bc640afac979c0365861577bd004d4b62c9c9020471afb127d79",
+      "sourceId": "global-20261029-october29-appearance-ko",
+      "sourcePage": "https://www.wherewindsmeetgame.com/kr/news/official/1029appearance.html",
+      "imageLinkIndex": 17
+    },
+    {
+      "language": "ko",
+      "imageIndex": 4,
+      "url": "https://r.res.easebar.com/pic/20261029/e84420f8-47b5-434e-a72e-d42eed3d738e.png",
+      "local": "/tmp/winds-ahead-20261031/global-media/ko-4.png",
+      "width": 1080,
+      "height": 1350,
+      "frames": 1,
+      "bytes": 1861392,
+      "sha256": "62f29949719a8f6453f13bcf3fa9b24b633dff2ff6b30654f0ef1d99753bb7ba",
+      "sourceId": "global-20261029-october29-appearance-ko",
+      "sourcePage": "https://www.wherewindsmeetgame.com/kr/news/official/1029appearance.html",
+      "imageLinkIndex": 18
+    },
+    {
+      "language": "ko",
+      "imageIndex": 5,
+      "url": "https://r.res.easebar.com/pic/20261029/34ddc178-8412-4966-b30a-24bcf555fa49.png",
+      "local": "/tmp/winds-ahead-20261031/global-media/ko-5.png",
+      "width": 1920,
+      "height": 1080,
+      "frames": 1,
+      "bytes": 2990202,
+      "sha256": "4eb7de82df47f96e7f8f692317f4e5224b022fa5d0f7ffbb0b5eafdf484e68a8",
+      "sourceId": "global-20261029-october29-appearance-ko",
+      "sourcePage": "https://www.wherewindsmeetgame.com/kr/news/official/1029appearance.html",
+      "imageLinkIndex": 19
+    },
+    {
+      "language": "ko",
+      "imageIndex": 6,
+      "url": "https://r.res.easebar.com/pic/20261029/17bbb047-c2a9-4c92-a964-8843c946f0e4.png",
+      "local": "/tmp/winds-ahead-20261031/global-media/ko-6.png",
+      "width": 1920,
+      "height": 1080,
+      "frames": 1,
+      "bytes": 2959021,
+      "sha256": "259516e352bd3c8e63eb27552d583be2182470c68584ed624d7e467f13f4dfbf",
+      "sourceId": "global-20261029-october29-appearance-ko",
+      "sourcePage": "https://www.wherewindsmeetgame.com/kr/news/official/1029appearance.html",
+      "imageLinkIndex": 20
+    },
+    {
+      "language": "ko",
+      "imageIndex": 7,
+      "url": "https://r.res.easebar.com/pic/20261029/9d5dc847-2d77-4422-bc1e-1713d9d9bebe.png",
+      "local": "/tmp/winds-ahead-20261031/global-media/ko-7.png",
+      "width": 1215,
+      "height": 1080,
+      "frames": 1,
+      "bytes": 2398913,
+      "sha256": "08c597fc61e4014eeb55683d854fe7ea844ad1262e2c7def5b9bfe0ed78d1e4b",
+      "sourceId": "global-20261029-october29-appearance-ko",
+      "sourcePage": "https://www.wherewindsmeetgame.com/kr/news/official/1029appearance.html",
+      "imageLinkIndex": 21
+    },
+    {
+      "language": "ko",
+      "imageIndex": 8,
+      "url": "https://r.res.easebar.com/pic/20261029/5ec628f2-940d-4986-a491-f79b3bbbda83.png",
+      "local": "/tmp/winds-ahead-20261031/global-media/ko-8.png",
+      "width": 1820,
+      "height": 1080,
+      "frames": 1,
+      "bytes": 3571141,
+      "sha256": "195e6f7a3493460a2c382824396f0360d1026dc9c6c7d12cc7ec40978af5fdec",
+      "sourceId": "global-20261029-october29-appearance-ko",
+      "sourcePage": "https://www.wherewindsmeetgame.com/kr/news/official/1029appearance.html",
+      "imageLinkIndex": 22
+    },
+    {
+      "language": "ko",
+      "imageIndex": 9,
+      "url": "https://r.res.easebar.com/pic/20261029/cda24fc4-f2e8-423c-9606-bb865e737446.png",
+      "local": "/tmp/winds-ahead-20261031/global-media/ko-9.png",
+      "width": 1820,
+      "height": 1080,
+      "frames": 1,
+      "bytes": 3561970,
+      "sha256": "f628c21d78e197dc2ff8b45a7e189367de664222d35b7215fa86c155903f3412",
+      "sourceId": "global-20261029-october29-appearance-ko",
+      "sourcePage": "https://www.wherewindsmeetgame.com/kr/news/official/1029appearance.html",
+      "imageLinkIndex": 23
+    },
+    {
+      "language": "ko",
+      "imageIndex": 10,
+      "url": "https://r.res.easebar.com/pic/20261029/6dd5c963-f47f-4ee8-97a4-15a2559ecbf9.png",
+      "local": "/tmp/winds-ahead-20261031/global-media/ko-10.png",
+      "width": 1440,
+      "height": 1080,
+      "frames": 1,
+      "bytes": 1988547,
+      "sha256": "6439874467665dde87d7346cde0fda84e119e8246be80be17ae678c05159a420",
+      "sourceId": "global-20261029-october29-appearance-ko",
+      "sourcePage": "https://www.wherewindsmeetgame.com/kr/news/official/1029appearance.html",
+      "imageLinkIndex": 24
+    },
+    {
+      "language": "ko",
+      "imageIndex": 11,
+      "url": "https://r.res.easebar.com/pic/20261029/84a84e99-b12b-44c9-a3fb-cfa1f403716f.png",
+      "local": "/tmp/winds-ahead-20261031/global-media/ko-11.png",
+      "width": 1203,
+      "height": 1080,
+      "frames": 1,
+      "bytes": 1920974,
+      "sha256": "517c0552cf5c70c6dbd0b01be4e71d27d35aac9510557a30ddcd5dafe3d87dee",
+      "sourceId": "global-20261029-october29-appearance-ko",
+      "sourcePage": "https://www.wherewindsmeetgame.com/kr/news/official/1029appearance.html",
+      "imageLinkIndex": 25
+    },
+    {
+      "language": "ko",
+      "imageIndex": 12,
+      "url": "https://r.res.easebar.com/pic/20261029/4f692f18-e88a-4016-95bb-0e90ceaa7f1c.png",
+      "local": "/tmp/winds-ahead-20261031/global-media/ko-12.png",
+      "width": 1920,
+      "height": 1080,
+      "frames": 1,
+      "bytes": 2369745,
+      "sha256": "72700f61ad50be03d0938dfb3c0828e4f7ea1a4708402a95a43863a1d9ac264a",
+      "sourceId": "global-20261029-october29-appearance-ko",
+      "sourcePage": "https://www.wherewindsmeetgame.com/kr/news/official/1029appearance.html",
+      "imageLinkIndex": 26
+    },
+    {
+      "language": "ko",
+      "imageIndex": 13,
+      "url": "https://r.res.easebar.com/pic/20261029/9b1043a3-2c2b-4448-a899-e5eddda994e2.png",
+      "local": "/tmp/winds-ahead-20261031/global-media/ko-13.png",
+      "width": 1920,
+      "height": 1080,
+      "frames": 1,
+      "bytes": 2499999,
+      "sha256": "13360fb3f6b1202d0a36a6af178a83b9279a000842002c9f3d57df9ae2420a18",
+      "sourceId": "global-20261029-october29-appearance-ko",
+      "sourcePage": "https://www.wherewindsmeetgame.com/kr/news/official/1029appearance.html",
+      "imageLinkIndex": 27
+    },
+    {
+      "language": "ko",
+      "imageIndex": 14,
+      "url": "https://r.res.easebar.com/pic/20261029/3942df59-6b51-479c-bd78-94cb48167981.png",
+      "local": "/tmp/winds-ahead-20261031/global-media/ko-14.png",
+      "width": 1080,
+      "height": 1350,
+      "frames": 1,
+      "bytes": 2005539,
+      "sha256": "1722466090c9fa79bece04708443b20e5c919a671cb301ebc4f34e205a971376",
+      "sourceId": "global-20261029-october29-appearance-ko",
+      "sourcePage": "https://www.wherewindsmeetgame.com/kr/news/official/1029appearance.html",
+      "imageLinkIndex": 28
+    },
+    {
+      "language": "ko",
+      "imageIndex": 15,
+      "url": "https://r.res.easebar.com/pic/20261029/794b5b0c-17e9-48cf-a365-2ce13a3ba42b.png",
+      "local": "/tmp/winds-ahead-20261031/global-media/ko-15.png",
+      "width": 1080,
+      "height": 1350,
+      "frames": 1,
+      "bytes": 1841837,
+      "sha256": "c9b6f544082b9ddba827c2588491f048a9b8d75214acfd780d6f2fdce35cf982",
+      "sourceId": "global-20261029-october29-appearance-ko",
+      "sourcePage": "https://www.wherewindsmeetgame.com/kr/news/official/1029appearance.html",
+      "imageLinkIndex": 29
+    },
+    {
+      "language": "ko",
+      "imageIndex": 16,
+      "url": "https://r.res.easebar.com/pic/20261029/50252730-d956-4c83-94cc-e5bbd8a0afca.png",
+      "local": "/tmp/winds-ahead-20261031/global-media/ko-16.png",
+      "width": 1218,
+      "height": 1080,
+      "frames": 1,
+      "bytes": 2065574,
+      "sha256": "4eda07901f73cbb5fe409377a637c1c7b32af9135d24ae18b4501ff7b51043c6",
+      "sourceId": "global-20261029-october29-appearance-ko",
+      "sourcePage": "https://www.wherewindsmeetgame.com/kr/news/official/1029appearance.html",
+      "imageLinkIndex": 30
+    },
+    {
+      "language": "ko",
+      "imageIndex": 17,
+      "url": "https://r.res.easebar.com/pic/20261029/655b70cd-c105-4f5a-b4cc-96542d2449a6.png",
+      "local": "/tmp/winds-ahead-20261031/global-media/ko-17.png",
+      "width": 1205,
+      "height": 1080,
+      "frames": 1,
+      "bytes": 1923398,
+      "sha256": "4b6060d39707355abe862f4867df766774aa5817bde56aa25286be6406850dd4",
+      "sourceId": "global-20261029-october29-appearance-ko",
+      "sourcePage": "https://www.wherewindsmeetgame.com/kr/news/official/1029appearance.html",
+      "imageLinkIndex": 31
+    },
+    {
+      "language": "ko",
+      "imageIndex": 18,
+      "url": "https://r.res.easebar.com/pic/20261029/a8f0cec5-410e-4ab2-80a7-f9fbcc6c3856.gif",
+      "local": "/tmp/winds-ahead-20261031/global-media/ko-18.gif",
+      "width": 720,
+      "height": 324,
+      "frames": 89,
+      "bytes": 6846704,
+      "sha256": "26db350648bea5a0d292e0478d7f66fc209e1fb9fec16260a559a9a859eed78d",
+      "sourceId": "global-20261029-october29-appearance-ko",
+      "sourcePage": "https://www.wherewindsmeetgame.com/kr/news/official/1029appearance.html",
+      "imageLinkIndex": 32
+    }
+  ],
+  "records": [
+    {
+      "candidateCosmeticId": "global-ghostlight-pumpkin",
+      "identityStatus": "unresolved_keep_separate_global_record",
+      "officialNames": {
+        "en": "Ghostlight Pumpkin",
+        "ko": "호박등 야행"
+      },
+      "sourceImageIndexZeroBased": 0,
+      "sourceImageLinkIndex": 14,
+      "pairedOriginalUrls": {
+        "en": "https://r.res.easebar.com/pic/20261029/f6580cce-8aca-41fe-b894-c287bfe8ee62.png",
+        "ko": "https://r.res.easebar.com/pic/20261029/19fac370-cfa7-4dd3-bdcf-7b8d89a17c54.png"
+      },
+      "representativeFrameZeroBased": 0,
+      "presentationCropInOriginal": [
+        180,
+        700,
+        960,
+        1350
+      ],
+      "thumbnailFit": "contain",
+      "rationale": {
+        "en": "A deliberate pumpkin-head crop preserves the stem, glowing carved face and shoulders. The complete paired artwork retains the companion candy-earring view.",
+        "ko": "줄기·빛나는 얼굴·어깨를 보존한 호박 머리 부분입니다. 전체 원본에서는 함께 배치된 사탕 귀걸이도 볼 수 있습니다."
+      },
+      "suggestedResearchImage": {
+        "url": "https://r.res.easebar.com/pic/20261029/f6580cce-8aca-41fe-b894-c287bfe8ee62.png",
+        "width": 1080,
+        "height": 1350,
+        "bytes": 1576577,
+        "kind": "official_appearance_reference",
+        "visuallyInspected": true,
+        "sourceFrame": 0,
+        "sourceCrop": null,
+        "sourceId": "global-20261029-october29-appearance-en",
+        "server": "Global",
+        "inspectionNote": "Named EN/KO official section and selected source artwork visually reviewed on October 31, 2026; female-first crop and full-source composition checked. Preview, not in-game verification.",
+        "reusePermission": "unknown",
+        "localCopy": "/media/global-ghostlight-pumpkin-0-full.webp",
+        "alt": {
+          "en": "Ghostlight Pumpkin · official Global appearance reference",
+          "ko": "호박등 야행 · 글로벌 공식 외관 참고 이미지"
+        },
+        "caption": {
+          "en": "A deliberate pumpkin-head crop preserves the stem, glowing carved face and shoulders. The complete paired artwork retains the companion candy-earring view.",
+          "ko": "줄기·빛나는 얼굴·어깨를 보존한 호박 머리 부분입니다. 전체 원본에서는 함께 배치된 사탕 귀걸이도 볼 수 있습니다."
+        }
+      },
+      "suggestedMediaRecord": {
+        "cosmeticId": "global-ghostlight-pumpkin",
+        "index": 0,
+        "originalUrl": "https://r.res.easebar.com/pic/20261029/f6580cce-8aca-41fe-b894-c287bfe8ee62.png",
+        "sourceId": "global-20261029-october29-appearance-en",
+        "server": "Global",
+        "thumbnail": "/media/global-ghostlight-pumpkin-0-thumb.webp",
+        "full": "/media/global-ghostlight-pumpkin-0-full.webp",
+        "preview": "/media/global-ghostlight-pumpkin-0-preview.webp",
+        "display": "/media/global-ghostlight-pumpkin-0-display.webp",
+        "displayWidth": 780,
+        "displayHeight": 650,
+        "presentationSubject": "item",
+        "presentationCrop": [
+          180,
+          700,
+          960,
+          1350
+        ],
+        "thumbnailBytes": 29874,
+        "fullBytes": 107582,
+        "previewBytes": 3094,
+        "displayBytes": 56248,
+        "permission": "unknown",
+        "audience": "reference artwork; excluded from the code license"
+      },
+      "assets": {
+        "full": {
+          "canonicalPath": "/media/global-ghostlight-pumpkin-0-full.webp",
+          "width": 1080,
+          "height": 1350,
+          "bytes": 107582,
+          "sha256": "08a648edbf20051de0e23d1c20d836fd501f7b9d3879594f391edec95dc591b0",
+          "frames": 1
+        },
+        "display": {
+          "canonicalPath": "/media/global-ghostlight-pumpkin-0-display.webp",
+          "width": 780,
+          "height": 650,
+          "bytes": 56248,
+          "sha256": "c45a1b69cf9d5353cd9a5359f155e4e98115dfec45667cce72f9e622cd3bf06f",
+          "frames": 1
+        },
+        "thumbnail": {
+          "canonicalPath": "/media/global-ghostlight-pumpkin-0-thumb.webp",
+          "width": 600,
+          "height": 710,
+          "bytes": 29874,
+          "sha256": "70d6bc592955dd51e3935a89e8e2a0c999d685ccced9f8dce54077bf926a0ecd",
+          "frames": 1
+        },
+        "preview": {
+          "canonicalPath": "/media/global-ghostlight-pumpkin-0-preview.webp",
+          "width": 160,
+          "height": 133,
+          "bytes": 3094,
+          "sha256": "a2be88a2140e7110f3b3b1fbf777520848fac867f8caabd10da01d04f446bd26",
+          "frames": 1
+        }
+      },
+      "limit": {
+        "en": "No named official CN visual counterpart established; preserve separate Global identity.",
+        "ko": "명칭이 명시된 중국 공식 대응 이미지를 확인하지 못해 글로벌 외관을 별도로 유지합니다."
+      }
+    },
+    {
+      "candidateCosmeticId": "global-fall-confection",
+      "identityStatus": "unresolved_keep_separate_global_record",
+      "officialNames": {
+        "en": "Fall Confection",
+        "ko": "가을 서리 사탕"
+      },
+      "sourceImageIndexZeroBased": 0,
+      "sourceImageLinkIndex": 14,
+      "pairedOriginalUrls": {
+        "en": "https://r.res.easebar.com/pic/20261029/f6580cce-8aca-41fe-b894-c287bfe8ee62.png",
+        "ko": "https://r.res.easebar.com/pic/20261029/19fac370-cfa7-4dd3-bdcf-7b8d89a17c54.png"
+      },
+      "representativeFrameZeroBased": 0,
+      "presentationCropInOriginal": [
+        300,
+        30,
+        880,
+        675
+      ],
+      "thumbnailFit": "cover",
+      "rationale": {
+        "en": "Female portrait crop preserves the visible gold candy earring and face. The complete paired artwork retains both accessory views.",
+        "ko": "금빛 사탕 귀걸이와 얼굴이 함께 보이는 여성 상반신을 잘랐습니다. 전체 원본에서 두 장신구 구도를 모두 볼 수 있습니다."
+      },
+      "suggestedResearchImage": {
+        "url": "https://r.res.easebar.com/pic/20261029/f6580cce-8aca-41fe-b894-c287bfe8ee62.png",
+        "width": 1080,
+        "height": 1350,
+        "bytes": 1576577,
+        "kind": "official_appearance_reference",
+        "visuallyInspected": true,
+        "sourceFrame": 0,
+        "sourceCrop": null,
+        "sourceId": "global-20261029-october29-appearance-en",
+        "server": "Global",
+        "inspectionNote": "Named EN/KO official section and selected source artwork visually reviewed on October 31, 2026; female-first crop and full-source composition checked. Preview, not in-game verification.",
+        "reusePermission": "unknown",
+        "localCopy": "/media/global-fall-confection-0-full.webp",
+        "alt": {
+          "en": "Fall Confection · official Global appearance reference",
+          "ko": "가을 서리 사탕 · 글로벌 공식 외관 참고 이미지"
+        },
+        "caption": {
+          "en": "Female portrait crop preserves the visible gold candy earring and face. The complete paired artwork retains both accessory views.",
+          "ko": "금빛 사탕 귀걸이와 얼굴이 함께 보이는 여성 상반신을 잘랐습니다. 전체 원본에서 두 장신구 구도를 모두 볼 수 있습니다."
+        }
+      },
+      "suggestedMediaRecord": {
+        "cosmeticId": "global-fall-confection",
+        "index": 0,
+        "originalUrl": "https://r.res.easebar.com/pic/20261029/f6580cce-8aca-41fe-b894-c287bfe8ee62.png",
+        "sourceId": "global-20261029-october29-appearance-en",
+        "server": "Global",
+        "thumbnail": "/media/global-fall-confection-0-thumb.webp",
+        "full": "/media/global-fall-confection-0-full.webp",
+        "preview": "/media/global-fall-confection-0-preview.webp",
+        "display": "/media/global-fall-confection-0-display.webp",
+        "displayWidth": 580,
+        "displayHeight": 645,
+        "presentationSubject": "female",
+        "presentationCrop": [
+          300,
+          30,
+          880,
+          675
+        ],
+        "thumbnailBytes": 25644,
+        "fullBytes": 107582,
+        "previewBytes": 2408,
+        "displayBytes": 29878,
+        "permission": "unknown",
+        "audience": "reference artwork; excluded from the code license"
+      },
+      "assets": {
+        "full": {
+          "canonicalPath": "/media/global-fall-confection-0-full.webp",
+          "width": 1080,
+          "height": 1350,
+          "bytes": 107582,
+          "sha256": "08a648edbf20051de0e23d1c20d836fd501f7b9d3879594f391edec95dc591b0",
+          "frames": 1
+        },
+        "display": {
+          "canonicalPath": "/media/global-fall-confection-0-display.webp",
+          "width": 580,
+          "height": 645,
+          "bytes": 29878,
+          "sha256": "a7ffab6247b01b35f602afa23d243f7e76759cd26ee1e63c95439aa3a95b320f",
+          "frames": 1
+        },
+        "thumbnail": {
+          "canonicalPath": "/media/global-fall-confection-0-thumb.webp",
+          "width": 600,
+          "height": 710,
+          "bytes": 25644,
+          "sha256": "571a312b7103c767e48b5da6a7f67d70278fdba2fad54444da4df07cc32f414f",
+          "frames": 1
+        },
+        "preview": {
+          "canonicalPath": "/media/global-fall-confection-0-preview.webp",
+          "width": 144,
+          "height": 160,
+          "bytes": 2408,
+          "sha256": "39c69db567479e12ae838674d037a95a09e80aaef65f0a625202b9efb182fb7c",
+          "frames": 1
+        }
+      },
+      "limit": {
+        "en": "No named official CN visual counterpart established; preserve separate Global identity.",
+        "ko": "명칭이 명시된 중국 공식 대응 이미지를 확인하지 못해 글로벌 외관을 별도로 유지합니다."
+      }
+    },
+    {
+      "candidateCosmeticId": "wu-nian-ke-kao-san-nian-mo-ni",
+      "identityStatus": "confirmed_regional_identity",
+      "officialNames": {
+        "en": "Ace the Boards",
+        "ko": "과거 시험 완벽 대비"
+      },
+      "sourceImageIndexZeroBased": 2,
+      "sourceImageLinkIndex": 16,
+      "pairedOriginalUrls": {
+        "en": "https://r.res.easebar.com/pic/20261029/e4568404-d9f6-4cb0-8c9b-e8daff6c134c.png",
+        "ko": "https://r.res.easebar.com/pic/20261029/a544b4bc-35d6-4f7d-9112-5d674282ff39.png"
+      },
+      "representativeFrameZeroBased": 0,
+      "presentationCropInOriginal": [
+        712,
+        0,
+        1424,
+        1288
+      ],
+      "thumbnailFit": "cover",
+      "rationale": {
+        "en": "Female panel shows the open book fan and printed pages; full paired male/female artwork remains accessible.",
+        "ko": "펼친 책 부채와 인쇄된 면이 보이는 여성 구도입니다. 남녀가 함께 배치된 전체 원본도 볼 수 있습니다."
+      },
+      "suggestedResearchImage": {
+        "url": "https://r.res.easebar.com/pic/20261029/e4568404-d9f6-4cb0-8c9b-e8daff6c134c.png",
+        "width": 1424,
+        "height": 1288,
+        "bytes": 2756329,
+        "kind": "official_appearance_reference",
+        "visuallyInspected": true,
+        "sourceFrame": 0,
+        "sourceCrop": null,
+        "sourceId": "global-20261029-october29-appearance-en",
+        "server": "Global",
+        "inspectionNote": "Named EN/KO official section and selected source artwork visually reviewed on October 31, 2026; female-first crop and full-source composition checked. Preview, not in-game verification.",
+        "reusePermission": "unknown",
+        "localCopy": "/media/wu-nian-ke-kao-san-nian-mo-ni-1-full.webp",
+        "alt": {
+          "en": "Ace the Boards · official Global appearance reference",
+          "ko": "과거 시험 완벽 대비 · 글로벌 공식 외관 참고 이미지"
+        },
+        "caption": {
+          "en": "Female panel shows the open book fan and printed pages; full paired male/female artwork remains accessible.",
+          "ko": "펼친 책 부채와 인쇄된 면이 보이는 여성 구도입니다. 남녀가 함께 배치된 전체 원본도 볼 수 있습니다."
+        }
+      },
+      "suggestedMediaRecord": {
+        "cosmeticId": "wu-nian-ke-kao-san-nian-mo-ni",
+        "index": 1,
+        "originalUrl": "https://r.res.easebar.com/pic/20261029/e4568404-d9f6-4cb0-8c9b-e8daff6c134c.png",
+        "sourceId": "global-20261029-october29-appearance-en",
+        "server": "Global",
+        "thumbnail": "/media/wu-nian-ke-kao-san-nian-mo-ni-1-thumb.webp",
+        "full": "/media/wu-nian-ke-kao-san-nian-mo-ni-1-full.webp",
+        "preview": "/media/wu-nian-ke-kao-san-nian-mo-ni-1-preview.webp",
+        "display": "/media/wu-nian-ke-kao-san-nian-mo-ni-1-display.webp",
+        "displayWidth": 712,
+        "displayHeight": 1288,
+        "presentationSubject": "female",
+        "presentationCrop": [
+          712,
+          0,
+          1424,
+          1288
+        ],
+        "thumbnailBytes": 56184,
+        "fullBytes": 273120,
+        "previewBytes": 2946,
+        "displayBytes": 135210,
+        "permission": "unknown",
+        "audience": "reference artwork; excluded from the code license"
+      },
+      "assets": {
+        "full": {
+          "canonicalPath": "/media/wu-nian-ke-kao-san-nian-mo-ni-1-full.webp",
+          "width": 1424,
+          "height": 1288,
+          "bytes": 273120,
+          "sha256": "3c4c9e85482f88a2daf8a7fd5205a01cfe026ca6b5a24342c598c15e1de61d69",
+          "frames": 1
+        },
+        "display": {
+          "canonicalPath": "/media/wu-nian-ke-kao-san-nian-mo-ni-1-display.webp",
+          "width": 712,
+          "height": 1288,
+          "bytes": 135210,
+          "sha256": "034679b5db76076c7f9b238a5998945b25fd4f09ec09f2bd4cf3be2d0cd136c1",
+          "frames": 1
+        },
+        "thumbnail": {
+          "canonicalPath": "/media/wu-nian-ke-kao-san-nian-mo-ni-1-thumb.webp",
+          "width": 600,
+          "height": 710,
+          "bytes": 56184,
+          "sha256": "54d5b58989331acb5fe84ba3ded2d388f7c88d017755967f29faec2bb3aef49d",
+          "frames": 1
+        },
+        "preview": {
+          "canonicalPath": "/media/wu-nian-ke-kao-san-nian-mo-ni-1-preview.webp",
+          "width": 88,
+          "height": 160,
+          "bytes": 2946,
+          "sha256": "893adad8735d62a911c9020d289434573400f389216a2bee51af1083ef4fe2e3",
+          "frames": 1
+        }
+      },
+      "nameOriginal": "五年科考三年模拟",
+      "cnSourceUrl": "https://www.yysls.cn/news/official/20260529/37780_1302239.html",
+      "cnImages": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260529/13fb46d8-8ab5-44e7-b4d1-2404728dfd2d.jpg",
+          "width": 712,
+          "height": 1288,
+          "bytes": 699334,
+          "sha256": "cd73c6f9fa3f123e845200c30e71f4106089e57b4e297336bea99498e36c3087",
+          "frames": 1
+        }
+      ],
+      "visualBasis": {
+        "en": "The Global left panel repeats the named CN male artwork: identical fan of eight differently colored book covers, printed title strips, gold ties and brown scholar outfit. The new female panel shows the printed reverse.",
+        "ko": "글로벌 왼쪽 구도는 명칭이 명시된 중국 남성 원본과 같습니다. 서로 다른 색의 책 표지 8개, 인쇄된 제목 띠, 금빛 묶음과 갈색 학자 의상이 일치합니다. 글로벌 여성 구도에서는 글이 인쇄된 뒷면이 보입니다."
+      },
+      "limit": {
+        "en": "Regional identity does not transfer acquisition, prices, dates, deadlines or timezone.",
+        "ko": "지역 간 동일 외관 확인은 획득 방법·가격·날짜·종료 시각·시간대를 이전하는 근거가 아닙니다."
+      }
+    },
+    {
+      "candidateCosmeticId": "xuan-yingyao-tai-fei-jing",
+      "identityStatus": "confirmed_regional_identity",
+      "officialNames": {
+        "en": "Duskgem: Celestial Mirage",
+        "ko": "흑옥-달빛 거울"
+      },
+      "sourceImageIndexZeroBased": 3,
+      "sourceImageLinkIndex": 17,
+      "pairedOriginalUrls": {
+        "en": "https://r.res.easebar.com/pic/20261029/d8a79bcd-1c0b-499e-b103-a4c0708bbf19.png",
+        "ko": "https://r.res.easebar.com/pic/20261029/ff942602-2684-4017-b41b-385e0b505254.png"
+      },
+      "representativeFrameZeroBased": 0,
+      "presentationCropInOriginal": [
+        0,
+        0,
+        960,
+        1080
+      ],
+      "thumbnailFit": "cover",
+      "rationale": {
+        "en": "Female waist-drum panel shows the blue crystalline disc, gold rim and ribbon. The complete two-view source is retained.",
+        "ko": "푸른 수정 원판·금빛 테두리·띠가 보이는 여성 요고 구도입니다. 두 구도가 함께 배치된 전체 원본을 보존합니다."
+      },
+      "suggestedResearchImage": {
+        "url": "https://r.res.easebar.com/pic/20261029/d8a79bcd-1c0b-499e-b103-a4c0708bbf19.png",
+        "width": 1920,
+        "height": 1080,
+        "bytes": 3326266,
+        "kind": "official_appearance_reference",
+        "visuallyInspected": true,
+        "sourceFrame": 0,
+        "sourceCrop": null,
+        "sourceId": "global-20261029-october29-appearance-en",
+        "server": "Global",
+        "inspectionNote": "Named EN/KO official section and selected source artwork visually reviewed on October 31, 2026; female-first crop and full-source composition checked. Preview, not in-game verification.",
+        "reusePermission": "unknown",
+        "localCopy": "/media/xuan-yingyao-tai-fei-jing-1-full.webp",
+        "alt": {
+          "en": "Duskgem: Celestial Mirage · official Global appearance reference",
+          "ko": "흑옥-달빛 거울 · 글로벌 공식 외관 참고 이미지"
+        },
+        "caption": {
+          "en": "Female waist-drum panel shows the blue crystalline disc, gold rim and ribbon. The complete two-view source is retained.",
+          "ko": "푸른 수정 원판·금빛 테두리·띠가 보이는 여성 요고 구도입니다. 두 구도가 함께 배치된 전체 원본을 보존합니다."
+        }
+      },
+      "suggestedMediaRecord": {
+        "cosmeticId": "xuan-yingyao-tai-fei-jing",
+        "index": 1,
+        "originalUrl": "https://r.res.easebar.com/pic/20261029/d8a79bcd-1c0b-499e-b103-a4c0708bbf19.png",
+        "sourceId": "global-20261029-october29-appearance-en",
+        "server": "Global",
+        "thumbnail": "/media/xuan-yingyao-tai-fei-jing-1-thumb.webp",
+        "full": "/media/xuan-yingyao-tai-fei-jing-1-full.webp",
+        "preview": "/media/xuan-yingyao-tai-fei-jing-1-preview.webp",
+        "display": "/media/xuan-yingyao-tai-fei-jing-1-display.webp",
+        "displayWidth": 960,
+        "displayHeight": 1080,
+        "presentationSubject": "female",
+        "presentationCrop": [
+          0,
+          0,
+          960,
+          1080
+        ],
+        "thumbnailBytes": 77228,
+        "fullBytes": 332988,
+        "previewBytes": 5644,
+        "displayBytes": 170884,
+        "permission": "unknown",
+        "audience": "reference artwork; excluded from the code license"
+      },
+      "assets": {
+        "full": {
+          "canonicalPath": "/media/xuan-yingyao-tai-fei-jing-1-full.webp",
+          "width": 1920,
+          "height": 1080,
+          "bytes": 332988,
+          "sha256": "cc99c7fd25c3dd3daa509287cd2353744fc8c04f435297e97b950333e8bdbe47",
+          "frames": 1
+        },
+        "display": {
+          "canonicalPath": "/media/xuan-yingyao-tai-fei-jing-1-display.webp",
+          "width": 960,
+          "height": 1080,
+          "bytes": 170884,
+          "sha256": "36a1d954bb832786a1cb5aac70a745317bc65842d0b7a8cd8c156fff2586c3cc",
+          "frames": 1
+        },
+        "thumbnail": {
+          "canonicalPath": "/media/xuan-yingyao-tai-fei-jing-1-thumb.webp",
+          "width": 600,
+          "height": 710,
+          "bytes": 77228,
+          "sha256": "47011ee0afb3b2dcbf0c6170459daca8752f662ea26d011615ac5f88c38fff3f",
+          "frames": 1
+        },
+        "preview": {
+          "canonicalPath": "/media/xuan-yingyao-tai-fei-jing-1-preview.webp",
+          "width": 142,
+          "height": 160,
+          "bytes": 5644,
+          "sha256": "16d7c93f99f0390fc55b0d111355238286d781e8170bebec5dea493645147ae2",
+          "frames": 1
+        }
+      },
+      "nameOriginal": "玄瑛·瑶台飞镜",
+      "cnSourceUrl": "https://www.yysls.cn/news/official/20260807/37780_1310523.html",
+      "cnImages": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260807/839332b6-677d-4380-9002-b7d060de6ea0.jpg",
+          "width": 2160,
+          "height": 3840,
+          "bytes": 4480159,
+          "sha256": "3360fca65804b75cf67f7fc03a2337276a9545ec822aed15dbe180c6601611f5",
+          "frames": 1
+        }
+      ],
+      "visualBasis": {
+        "en": "The Global left view repeats the named CN female pose, blue spherical drum/disc, gold floral rim and deep-blue gold-edged ribbon; identical robe motifs and tree backdrop strengthen the visual match.",
+        "ko": "글로벌 왼쪽은 명칭이 명시된 중국 여성 자세와 푸른 구형 북·금빛 꽃 테두리·금테가 있는 진청색 띠가 같습니다. 옷의 무늬와 나무 배경도 대응합니다."
+      },
+      "limit": {
+        "en": "Regional identity does not transfer acquisition, prices, dates, deadlines or timezone.",
+        "ko": "지역 간 동일 외관 확인은 획득 방법·가격·날짜·종료 시각·시간대를 이전하는 근거가 아닙니다."
+      }
+    },
+    {
+      "candidateCosmeticId": "xuan-yingyou-shi-sheng-fang",
+      "identityStatus": "confirmed_regional_identity",
+      "officialNames": {
+        "en": "Duskgem: Petrichor Bloom",
+        "ko": "흑옥-바위틈의 향기"
+      },
+      "sourceImageIndexZeroBased": 4,
+      "sourceImageLinkIndex": 18,
+      "pairedOriginalUrls": {
+        "en": "https://r.res.easebar.com/pic/20261029/f5b17f2b-5942-48b1-bac4-ce32e4997d04.png",
+        "ko": "https://r.res.easebar.com/pic/20261029/e84420f8-47b5-434e-a72e-d42eed3d738e.png"
+      },
+      "representativeFrameZeroBased": 0,
+      "presentationCropInOriginal": [
+        0,
+        675,
+        1080,
+        1350
+      ],
+      "thumbnailFit": "contain",
+      "rationale": {
+        "en": "Female spear panel preserves the complete long blue-and-gold shaft and tip using a contained thumbnail. Full paired artwork remains accessible.",
+        "ko": "여성 창 구도는 파란색·금색의 긴 자루와 끝부분을 썸네일 안에 모두 보존합니다. 전체 원본도 볼 수 있습니다."
+      },
+      "suggestedResearchImage": {
+        "url": "https://r.res.easebar.com/pic/20261029/f5b17f2b-5942-48b1-bac4-ce32e4997d04.png",
+        "width": 1080,
+        "height": 1350,
+        "bytes": 1861392,
+        "kind": "official_appearance_reference",
+        "visuallyInspected": true,
+        "sourceFrame": 0,
+        "sourceCrop": null,
+        "sourceId": "global-20261029-october29-appearance-en",
+        "server": "Global",
+        "inspectionNote": "Named EN/KO official section and selected source artwork visually reviewed on October 31, 2026; female-first crop and full-source composition checked. Preview, not in-game verification.",
+        "reusePermission": "unknown",
+        "localCopy": "/media/xuan-yingyou-shi-sheng-fang-1-full.webp",
+        "alt": {
+          "en": "Duskgem: Petrichor Bloom · official Global appearance reference",
+          "ko": "흑옥-바위틈의 향기 · 글로벌 공식 외관 참고 이미지"
+        },
+        "caption": {
+          "en": "Female spear panel preserves the complete long blue-and-gold shaft and tip using a contained thumbnail. Full paired artwork remains accessible.",
+          "ko": "여성 창 구도는 파란색·금색의 긴 자루와 끝부분을 썸네일 안에 모두 보존합니다. 전체 원본도 볼 수 있습니다."
+        }
+      },
+      "suggestedMediaRecord": {
+        "cosmeticId": "xuan-yingyou-shi-sheng-fang",
+        "index": 1,
+        "originalUrl": "https://r.res.easebar.com/pic/20261029/f5b17f2b-5942-48b1-bac4-ce32e4997d04.png",
+        "sourceId": "global-20261029-october29-appearance-en",
+        "server": "Global",
+        "thumbnail": "/media/xuan-yingyou-shi-sheng-fang-1-thumb.webp",
+        "full": "/media/xuan-yingyou-shi-sheng-fang-1-full.webp",
+        "preview": "/media/xuan-yingyou-shi-sheng-fang-1-preview.webp",
+        "display": "/media/xuan-yingyou-shi-sheng-fang-1-display.webp",
+        "displayWidth": 1080,
+        "displayHeight": 675,
+        "presentationSubject": "female",
+        "presentationCrop": [
+          0,
+          675,
+          1080,
+          1350
+        ],
+        "thumbnailBytes": 23916,
+        "fullBytes": 171112,
+        "previewBytes": 2144,
+        "displayBytes": 91030,
+        "permission": "unknown",
+        "audience": "reference artwork; excluded from the code license"
+      },
+      "assets": {
+        "full": {
+          "canonicalPath": "/media/xuan-yingyou-shi-sheng-fang-1-full.webp",
+          "width": 1080,
+          "height": 1350,
+          "bytes": 171112,
+          "sha256": "01cac702640bcfa61b32a976965ff66c1397eee5dd0aacb93ffb4592866da06d",
+          "frames": 1
+        },
+        "display": {
+          "canonicalPath": "/media/xuan-yingyou-shi-sheng-fang-1-display.webp",
+          "width": 1080,
+          "height": 675,
+          "bytes": 91030,
+          "sha256": "03cbb715614f692005b829ea1359b5d57b14b670ea49ac1638d28693eb7b5da9",
+          "frames": 1
+        },
+        "thumbnail": {
+          "canonicalPath": "/media/xuan-yingyou-shi-sheng-fang-1-thumb.webp",
+          "width": 600,
+          "height": 710,
+          "bytes": 23916,
+          "sha256": "a507c9f8f51a83240d30701bf3e352f7d94414a9105405eca2b333a5793758a6",
+          "frames": 1
+        },
+        "preview": {
+          "canonicalPath": "/media/xuan-yingyou-shi-sheng-fang-1-preview.webp",
+          "width": 160,
+          "height": 100,
+          "bytes": 2144,
+          "sha256": "eb1664995dfc5ad2aec2e6e8064e4f4f7be754d0e5572bc4740f0ca45f381044",
+          "frames": 1
+        }
+      },
+      "nameOriginal": "玄瑛·幽石生芳",
+      "cnSourceUrl": "https://www.yysls.cn/news/official/20260618/37780_1304797.html",
+      "cnImages": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260618/3bd8feda-d615-4be9-9fed-9542050eadc7.jpg",
+          "width": 5120,
+          "height": 2880,
+          "bytes": 6233285,
+          "sha256": "bbd5697cc455b1fa22f573ab47ceb53fe331baf0d3ab1476e59da7cb9668ef14",
+          "frames": 1
+        }
+      ],
+      "visualBasis": {
+        "en": "The named CN spear and Global lower view share the same extended gold-dark shaft, pointed bright-blue crystal end, sparkling blue middle, water horizon and crystal islands; the pose differs but every defining weapon section matches.",
+        "ko": "명칭이 명시된 중국 창과 글로벌 아래 구도는 길게 뻗은 금색·어두운 자루, 뾰족한 파란 수정 끝, 반짝이는 푸른 중앙부, 수평선과 수정 섬이 같습니다. 자세가 다르지만 특징적인 무기의 각 부분이 일치합니다."
+      },
+      "limit": {
+        "en": "Regional identity does not transfer acquisition, prices, dates, deadlines or timezone.",
+        "ko": "지역 간 동일 외관 확인은 획득 방법·가격·날짜·종료 시각·시간대를 이전하는 근거가 아닙니다."
+      }
+    },
+    {
+      "candidateCosmeticId": "gui-shou-fen-lian",
+      "identityStatus": "confirmed_regional_identity",
+      "officialNames": {
+        "en": "Wraithflame",
+        "ko": "귀수의 연화"
+      },
+      "sourceImageIndexZeroBased": 9,
+      "sourceImageLinkIndex": 23,
+      "pairedOriginalUrls": {
+        "en": "https://r.res.easebar.com/pic/20261029/0c2bad98-0c64-454c-a260-3978c8aff7bc.png",
+        "ko": "https://r.res.easebar.com/pic/20261029/cda24fc4-f2e8-423c-9606-bb865e737446.png"
+      },
+      "representativeFrameZeroBased": 0,
+      "presentationCropInOriginal": [
+        0,
+        0,
+        606,
+        1080
+      ],
+      "thumbnailFit": "cover",
+      "rationale": {
+        "en": "Female front-panel crop preserves face, skeletal hand mask, burning red shoulder, dark armor and red cape. Full three-panel artwork remains accessible.",
+        "ko": "얼굴·해골 손 가면·붉게 타는 어깨·검은 갑옷·붉은 망토가 보이는 여성 정면 구도입니다. 세 구도가 함께 배치된 전체 원본도 볼 수 있습니다."
+      },
+      "suggestedResearchImage": {
+        "url": "https://r.res.easebar.com/pic/20261029/0c2bad98-0c64-454c-a260-3978c8aff7bc.png",
+        "width": 1820,
+        "height": 1080,
+        "bytes": 3561970,
+        "kind": "official_appearance_reference",
+        "visuallyInspected": true,
+        "sourceFrame": 0,
+        "sourceCrop": null,
+        "sourceId": "global-20261029-october29-appearance-en",
+        "server": "Global",
+        "inspectionNote": "Named EN/KO official section and selected source artwork visually reviewed on October 31, 2026; female-first crop and full-source composition checked. Preview, not in-game verification.",
+        "reusePermission": "unknown",
+        "localCopy": "/media/gui-shou-fen-lian-1-full.webp",
+        "alt": {
+          "en": "Wraithflame · official Global appearance reference",
+          "ko": "귀수의 연화 · 글로벌 공식 외관 참고 이미지"
+        },
+        "caption": {
+          "en": "Female front-panel crop preserves face, skeletal hand mask, burning red shoulder, dark armor and red cape. Full three-panel artwork remains accessible.",
+          "ko": "얼굴·해골 손 가면·붉게 타는 어깨·검은 갑옷·붉은 망토가 보이는 여성 정면 구도입니다. 세 구도가 함께 배치된 전체 원본도 볼 수 있습니다."
+        }
+      },
+      "suggestedMediaRecord": {
+        "cosmeticId": "gui-shou-fen-lian",
+        "index": 1,
+        "originalUrl": "https://r.res.easebar.com/pic/20261029/0c2bad98-0c64-454c-a260-3978c8aff7bc.png",
+        "sourceId": "global-20261029-october29-appearance-en",
+        "server": "Global",
+        "thumbnail": "/media/gui-shou-fen-lian-1-thumb.webp",
+        "full": "/media/gui-shou-fen-lian-1-full.webp",
+        "preview": "/media/gui-shou-fen-lian-1-preview.webp",
+        "display": "/media/gui-shou-fen-lian-1-display.webp",
+        "displayWidth": 606,
+        "displayHeight": 1080,
+        "presentationSubject": "female",
+        "presentationCrop": [
+          0,
+          0,
+          606,
+          1080
+        ],
+        "thumbnailBytes": 70506,
+        "fullBytes": 409736,
+        "previewBytes": 3052,
+        "displayBytes": 128998,
+        "permission": "unknown",
+        "audience": "reference artwork; excluded from the code license"
+      },
+      "assets": {
+        "full": {
+          "canonicalPath": "/media/gui-shou-fen-lian-1-full.webp",
+          "width": 1820,
+          "height": 1080,
+          "bytes": 409736,
+          "sha256": "9a1b149377c692ed1d75a628285d78c3e4e8e950f47c6d669feb60961e9a1954",
+          "frames": 1
+        },
+        "display": {
+          "canonicalPath": "/media/gui-shou-fen-lian-1-display.webp",
+          "width": 606,
+          "height": 1080,
+          "bytes": 128998,
+          "sha256": "49a4cc4e059efccce471f043eb49a84abb30c8f06a1e40a7547982505fe81254",
+          "frames": 1
+        },
+        "thumbnail": {
+          "canonicalPath": "/media/gui-shou-fen-lian-1-thumb.webp",
+          "width": 600,
+          "height": 710,
+          "bytes": 70506,
+          "sha256": "3981fe9dc577133c38c87a1a836db0477ebf4b5c74a85ff53d3023bdcd24bc97",
+          "frames": 1
+        },
+        "preview": {
+          "canonicalPath": "/media/gui-shou-fen-lian-1-preview.webp",
+          "width": 90,
+          "height": 160,
+          "bytes": 3052,
+          "sha256": "6a4768902bd8cad89bf4198e8d1c0d0cd4db4ffe0902b80d51ac800b9075cadc",
+          "frames": 1
+        }
+      },
+      "nameOriginal": "鬼手焚莲",
+      "cnSourceUrl": "https://www.yysls.cn/news/official/20260612/37780_1304064.html",
+      "cnImages": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260612/cf583b32-4342-4e97-84ce-a23a0f70e816.jpg",
+          "width": 1920,
+          "height": 1080,
+          "bytes": 1374587,
+          "sha256": "2990a9ac99b5d4ed28b7def0e6de98462893d6cf4de1b2a3123216e8ace80bdb",
+          "frames": 1
+        }
+      ],
+      "visualBasis": {
+        "en": "The Global male hero pose repeats the named CN artwork exactly. Silver skeletal hand eye mask, flame-red lotus shoulder, ribbed dark plate armor, hand-and-lotus chest/back reliefs and red patterned cape also match across Global male/female views.",
+        "ko": "글로벌 남성 대표 구도는 명칭이 명시된 중국 원본과 같습니다. 은빛 해골 손 모양 눈 가면, 붉게 타는 연꽃 어깨, 층진 검은 갑옷, 가슴·등의 손과 연꽃 부조, 붉은 무늬 망토도 글로벌 남녀 구도에서 일치합니다."
+      },
+      "limit": {
+        "en": "Regional identity does not transfer acquisition, prices, dates, deadlines or timezone.",
+        "ko": "지역 간 동일 외관 확인은 획득 방법·가격·날짜·종료 시각·시간대를 이전하는 근거가 아닙니다."
+      }
+    },
+    {
+      "candidateCosmeticId": "you-ye-chen-ying",
+      "identityStatus": "confirmed_regional_identity",
+      "officialNames": {
+        "en": "Frost's Glow",
+        "ko": "깊은 밤의 그림자"
+      },
+      "sourceImageIndexZeroBased": 11,
+      "sourceImageLinkIndex": 25,
+      "pairedOriginalUrls": {
+        "en": "https://r.res.easebar.com/pic/20261029/719a64cc-96a6-4b93-b789-f1570c203582.png",
+        "ko": "https://r.res.easebar.com/pic/20261029/84a84e99-b12b-44c9-a3fb-cfa1f403716f.png"
+      },
+      "representativeFrameZeroBased": 0,
+      "presentationCropInOriginal": [
+        601,
+        0,
+        1203,
+        1080
+      ],
+      "thumbnailFit": "cover",
+      "rationale": {
+        "en": "Female portrait crop shows the dragon-head shoulder plate, gold swirling motifs and red waist tie. Complete paired portrait remains accessible.",
+        "ko": "용머리 어깨 갑옷·금빛 소용돌이 무늬·붉은 허리끈이 보이는 여성 상반신 구도입니다. 남녀가 함께 배치된 전체 원본도 볼 수 있습니다."
+      },
+      "suggestedResearchImage": {
+        "url": "https://r.res.easebar.com/pic/20261029/719a64cc-96a6-4b93-b789-f1570c203582.png",
+        "width": 1203,
+        "height": 1080,
+        "bytes": 1920974,
+        "kind": "official_appearance_reference",
+        "visuallyInspected": true,
+        "sourceFrame": 0,
+        "sourceCrop": null,
+        "sourceId": "global-20261029-october29-appearance-en",
+        "server": "Global",
+        "inspectionNote": "Named EN/KO official section and selected source artwork visually reviewed on October 31, 2026; female-first crop and full-source composition checked. Preview, not in-game verification.",
+        "reusePermission": "unknown",
+        "localCopy": "/media/you-ye-chen-ying-1-full.webp",
+        "alt": {
+          "en": "Frost's Glow · official Global appearance reference",
+          "ko": "깊은 밤의 그림자 · 글로벌 공식 외관 참고 이미지"
+        },
+        "caption": {
+          "en": "Female portrait crop shows the dragon-head shoulder plate, gold swirling motifs and red waist tie. Complete paired portrait remains accessible.",
+          "ko": "용머리 어깨 갑옷·금빛 소용돌이 무늬·붉은 허리끈이 보이는 여성 상반신 구도입니다. 남녀가 함께 배치된 전체 원본도 볼 수 있습니다."
+        }
+      },
+      "suggestedMediaRecord": {
+        "cosmeticId": "you-ye-chen-ying",
+        "index": 1,
+        "originalUrl": "https://r.res.easebar.com/pic/20261029/719a64cc-96a6-4b93-b789-f1570c203582.png",
+        "sourceId": "global-20261029-october29-appearance-en",
+        "server": "Global",
+        "thumbnail": "/media/you-ye-chen-ying-1-thumb.webp",
+        "full": "/media/you-ye-chen-ying-1-full.webp",
+        "preview": "/media/you-ye-chen-ying-1-preview.webp",
+        "display": "/media/you-ye-chen-ying-1-display.webp",
+        "displayWidth": 602,
+        "displayHeight": 1080,
+        "presentationSubject": "female",
+        "presentationCrop": [
+          601,
+          0,
+          1203,
+          1080
+        ],
+        "thumbnailBytes": 36870,
+        "fullBytes": 156948,
+        "previewBytes": 2026,
+        "displayBytes": 82792,
+        "permission": "unknown",
+        "audience": "reference artwork; excluded from the code license"
+      },
+      "assets": {
+        "full": {
+          "canonicalPath": "/media/you-ye-chen-ying-1-full.webp",
+          "width": 1203,
+          "height": 1080,
+          "bytes": 156948,
+          "sha256": "5021296b087f0721a5b398fcb9f0ab40ebc23035fc648512cab125d07287eadf",
+          "frames": 1
+        },
+        "display": {
+          "canonicalPath": "/media/you-ye-chen-ying-1-display.webp",
+          "width": 602,
+          "height": 1080,
+          "bytes": 82792,
+          "sha256": "bd99516bd99658bbd64139b10b9c379c8f640f52b73f4f6be06c7e7c7d1ba5b8",
+          "frames": 1
+        },
+        "thumbnail": {
+          "canonicalPath": "/media/you-ye-chen-ying-1-thumb.webp",
+          "width": 600,
+          "height": 710,
+          "bytes": 36870,
+          "sha256": "f3c4eb0850fe13fd267ebd3ac00ddb07a1c67bf50c6266b85b9d9a7f7f58b590",
+          "frames": 1
+        },
+        "preview": {
+          "canonicalPath": "/media/you-ye-chen-ying-1-preview.webp",
+          "width": 89,
+          "height": 160,
+          "bytes": 2026,
+          "sha256": "ef894fac6916794df1dfa77f5192199a3ec1e5ba81a54522931c34a06744b8b9",
+          "frames": 1
+        }
+      },
+      "nameOriginal": "幽夜尘影",
+      "cnSourceUrl": "https://www.yysls.cn/news/official/20260306/37780_1289937.html",
+      "cnImages": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260306/d24c026f-cd91-49a1-83cb-110a705f0d51.png",
+          "width": 1920,
+          "height": 1080,
+          "bytes": 2753935,
+          "sha256": "bf4c108219684df347c607dbcbc97dc170670335ba4bde1229608adb92bc8443",
+          "frames": 1
+        }
+      ],
+      "visualBasis": {
+        "en": "Global detail hero artwork repeats the named CN composition exactly: silver dragon-head shoulder plate, red bindings, black layered armor, gold swirling circular motifs, red waist tie, two circular detail insets and teal/red gate scene.",
+        "ko": "글로벌 상세 대표 사진은 명칭이 명시된 중국 구도와 같습니다. 은빛 용머리 어깨 갑옷, 붉은 묶음, 검은 겹갑옷, 금빛 소용돌이 원무늬, 붉은 허리끈, 원형 상세 사진 2개와 청록·붉은 문 배경이 일치합니다."
+      },
+      "limit": {
+        "en": "Regional identity does not transfer acquisition, prices, dates, deadlines or timezone.",
+        "ko": "지역 간 동일 외관 확인은 획득 방법·가격·날짜·종료 시각·시간대를 이전하는 근거가 아닙니다."
+      }
+    },
+    {
+      "candidateCosmeticId": "wan-laizuo-xuan-gui",
+      "identityStatus": "confirmed_regional_identity",
+      "officialNames": {
+        "en": "Myriad Sounds: Wrought Obsidian",
+        "ko": "만물의 소리-현옥의 기품"
+      },
+      "sourceImageIndexZeroBased": 14,
+      "sourceImageLinkIndex": 28,
+      "pairedOriginalUrls": {
+        "en": "https://r.res.easebar.com/pic/20261029/28acd06d-0059-41b8-8aba-ebffacaa4561.png",
+        "ko": "https://r.res.easebar.com/pic/20261029/3942df59-6b51-479c-bd78-94cb48167981.png"
+      },
+      "representativeFrameZeroBased": 0,
+      "presentationCropInOriginal": [
+        0,
+        675,
+        1080,
+        1350
+      ],
+      "thumbnailFit": "contain",
+      "rationale": {
+        "en": "Female lower panel preserves the dark blade and icy silver accents. A contained thumbnail avoids cutting the weapon; full two-panel artwork remains accessible.",
+        "ko": "어두운 칼날과 얼음빛 은색 장식을 보존한 여성 아래 구도입니다. 무기를 자르지 않고 썸네일 안에 맞췄으며 두 구도가 담긴 전체 원본도 볼 수 있습니다."
+      },
+      "suggestedResearchImage": {
+        "url": "https://r.res.easebar.com/pic/20261029/28acd06d-0059-41b8-8aba-ebffacaa4561.png",
+        "width": 1080,
+        "height": 1350,
+        "bytes": 2005539,
+        "kind": "official_appearance_reference",
+        "visuallyInspected": true,
+        "sourceFrame": 0,
+        "sourceCrop": null,
+        "sourceId": "global-20261029-october29-appearance-en",
+        "server": "Global",
+        "inspectionNote": "Named EN/KO official section and selected source artwork visually reviewed on October 31, 2026; female-first crop and full-source composition checked. Preview, not in-game verification.",
+        "reusePermission": "unknown",
+        "localCopy": "/media/wan-laizuo-xuan-gui-1-full.webp",
+        "alt": {
+          "en": "Myriad Sounds: Wrought Obsidian · official Global appearance reference",
+          "ko": "만물의 소리-현옥의 기품 · 글로벌 공식 외관 참고 이미지"
+        },
+        "caption": {
+          "en": "Female lower panel preserves the dark blade and icy silver accents. A contained thumbnail avoids cutting the weapon; full two-panel artwork remains accessible.",
+          "ko": "어두운 칼날과 얼음빛 은색 장식을 보존한 여성 아래 구도입니다. 무기를 자르지 않고 썸네일 안에 맞췄으며 두 구도가 담긴 전체 원본도 볼 수 있습니다."
+        }
+      },
+      "suggestedMediaRecord": {
+        "cosmeticId": "wan-laizuo-xuan-gui",
+        "index": 1,
+        "originalUrl": "https://r.res.easebar.com/pic/20261029/28acd06d-0059-41b8-8aba-ebffacaa4561.png",
+        "sourceId": "global-20261029-october29-appearance-en",
+        "server": "Global",
+        "thumbnail": "/media/wan-laizuo-xuan-gui-1-thumb.webp",
+        "full": "/media/wan-laizuo-xuan-gui-1-full.webp",
+        "preview": "/media/wan-laizuo-xuan-gui-1-preview.webp",
+        "display": "/media/wan-laizuo-xuan-gui-1-display.webp",
+        "displayWidth": 1080,
+        "displayHeight": 675,
+        "presentationSubject": "female",
+        "presentationCrop": [
+          0,
+          675,
+          1080,
+          1350
+        ],
+        "thumbnailBytes": 28588,
+        "fullBytes": 167244,
+        "previewBytes": 2908,
+        "displayBytes": 94002,
+        "permission": "unknown",
+        "audience": "reference artwork; excluded from the code license"
+      },
+      "assets": {
+        "full": {
+          "canonicalPath": "/media/wan-laizuo-xuan-gui-1-full.webp",
+          "width": 1080,
+          "height": 1350,
+          "bytes": 167244,
+          "sha256": "665229f502a0554d81b98106af07cefcc94800047563145acbb8b3a7b527ecfa",
+          "frames": 1
+        },
+        "display": {
+          "canonicalPath": "/media/wan-laizuo-xuan-gui-1-display.webp",
+          "width": 1080,
+          "height": 675,
+          "bytes": 94002,
+          "sha256": "d5406caccce303080949a5b2c994883742d54c0b849d47891e136dc2f8f82dbd",
+          "frames": 1
+        },
+        "thumbnail": {
+          "canonicalPath": "/media/wan-laizuo-xuan-gui-1-thumb.webp",
+          "width": 600,
+          "height": 710,
+          "bytes": 28588,
+          "sha256": "6e95e26e8b4662f99bc1e324511c448c1fc12bd2d42e5474b7f5e0a8c60cfd34",
+          "frames": 1
+        },
+        "preview": {
+          "canonicalPath": "/media/wan-laizuo-xuan-gui-1-preview.webp",
+          "width": 160,
+          "height": 100,
+          "bytes": 2908,
+          "sha256": "934ef618a4015f319612b7acd56384d6b7239f0cc1ec67470ca88910fa9265ad",
+          "frames": 1
+        }
+      },
+      "nameOriginal": "万籁·琢玄圭",
+      "cnSourceUrl": "https://www.yysls.cn/news/official/20260612/37780_1304064.html",
+      "cnImages": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260612/5508d0ed-6920-4a2e-972d-8d35ca41ccc3.jpg",
+          "width": 2250,
+          "height": 4000,
+          "bytes": 4584832,
+          "sha256": "822de888e5e72cea267d619bbbd72135ebe1ce3ef3adb53c15b16a5a88b87967",
+          "frames": 1
+        }
+      ],
+      "visualBasis": {
+        "en": "The named CN Heng blade and Global panels share the thin dark blade, clustered jagged silvery/crystal detail at the guard, trailing dark handle fittings and icy reflective surface. The Global views retain this exact distinctive profile despite changed hair/dye on models.",
+        "ko": "명칭이 명시된 중국 횡도와 글로벌 구도는 가느다란 어두운 칼날, 손잡이 보호대에 모인 톱니 모양 은빛 수정 장식, 어두운 손잡이 장식과 얼음빛 반사면이 같습니다. 모델의 머리색·염색이 달라도 무기의 고유한 형태가 대응합니다."
+      },
+      "limit": {
+        "en": "Regional identity does not transfer acquisition, prices, dates, deadlines or timezone.",
+        "ko": "지역 간 동일 외관 확인은 획득 방법·가격·날짜·종료 시각·시간대를 이전하는 근거가 아닙니다."
+      }
+    },
+    {
+      "candidateCosmeticId": "wan-laipei-cang-long",
+      "identityStatus": "confirmed_regional_identity",
+      "officialNames": {
+        "en": "Myriad Sounds: Azure Dragon",
+        "ko": "만물의 소리-푸른 청룡"
+      },
+      "sourceImageIndexZeroBased": 15,
+      "sourceImageLinkIndex": 29,
+      "pairedOriginalUrls": {
+        "en": "https://r.res.easebar.com/pic/20261029/e4745a42-80e1-416f-bfbe-9b3ccf1a2d67.png",
+        "ko": "https://r.res.easebar.com/pic/20261029/794b5b0c-17e9-48cf-a365-2ce13a3ba42b.png"
+      },
+      "representativeFrameZeroBased": 0,
+      "presentationCropInOriginal": [
+        0,
+        0,
+        1080,
+        675
+      ],
+      "thumbnailFit": "contain",
+      "rationale": {
+        "en": "Female top panel preserves the complete icy long blade. A contained thumbnail avoids cutting the weapon; full two-panel artwork remains accessible.",
+        "ko": "얼음빛 긴 칼날이 모두 보이는 여성 윗구도입니다. 무기를 자르지 않고 썸네일 안에 맞췄으며 두 구도가 담긴 전체 원본도 볼 수 있습니다."
+      },
+      "suggestedResearchImage": {
+        "url": "https://r.res.easebar.com/pic/20261029/e4745a42-80e1-416f-bfbe-9b3ccf1a2d67.png",
+        "width": 1080,
+        "height": 1350,
+        "bytes": 1841837,
+        "kind": "official_appearance_reference",
+        "visuallyInspected": true,
+        "sourceFrame": 0,
+        "sourceCrop": null,
+        "sourceId": "global-20261029-october29-appearance-en",
+        "server": "Global",
+        "inspectionNote": "Named EN/KO official section and selected source artwork visually reviewed on October 31, 2026; female-first crop and full-source composition checked. Preview, not in-game verification.",
+        "reusePermission": "unknown",
+        "localCopy": "/media/wan-laipei-cang-long-1-full.webp",
+        "alt": {
+          "en": "Myriad Sounds: Azure Dragon · official Global appearance reference",
+          "ko": "만물의 소리-푸른 청룡 · 글로벌 공식 외관 참고 이미지"
+        },
+        "caption": {
+          "en": "Female top panel preserves the complete icy long blade. A contained thumbnail avoids cutting the weapon; full two-panel artwork remains accessible.",
+          "ko": "얼음빛 긴 칼날이 모두 보이는 여성 윗구도입니다. 무기를 자르지 않고 썸네일 안에 맞췄으며 두 구도가 담긴 전체 원본도 볼 수 있습니다."
+        }
+      },
+      "suggestedMediaRecord": {
+        "cosmeticId": "wan-laipei-cang-long",
+        "index": 1,
+        "originalUrl": "https://r.res.easebar.com/pic/20261029/e4745a42-80e1-416f-bfbe-9b3ccf1a2d67.png",
+        "sourceId": "global-20261029-october29-appearance-en",
+        "server": "Global",
+        "thumbnail": "/media/wan-laipei-cang-long-1-thumb.webp",
+        "full": "/media/wan-laipei-cang-long-1-full.webp",
+        "preview": "/media/wan-laipei-cang-long-1-preview.webp",
+        "display": "/media/wan-laipei-cang-long-1-display.webp",
+        "displayWidth": 1080,
+        "displayHeight": 675,
+        "presentationSubject": "female",
+        "presentationCrop": [
+          0,
+          0,
+          1080,
+          675
+        ],
+        "thumbnailBytes": 19688,
+        "fullBytes": 136436,
+        "previewBytes": 2288,
+        "displayBytes": 64576,
+        "permission": "unknown",
+        "audience": "reference artwork; excluded from the code license"
+      },
+      "assets": {
+        "full": {
+          "canonicalPath": "/media/wan-laipei-cang-long-1-full.webp",
+          "width": 1080,
+          "height": 1350,
+          "bytes": 136436,
+          "sha256": "163840e910c29d359a807bf073bf2b18d49ac064328418a1f6d584851c49a0c7",
+          "frames": 1
+        },
+        "display": {
+          "canonicalPath": "/media/wan-laipei-cang-long-1-display.webp",
+          "width": 1080,
+          "height": 675,
+          "bytes": 64576,
+          "sha256": "a5ec319692babbc30b7c5aedf44b02aee4f5af05cd89da3d78cd25e7e78236a3",
+          "frames": 1
+        },
+        "thumbnail": {
+          "canonicalPath": "/media/wan-laipei-cang-long-1-thumb.webp",
+          "width": 600,
+          "height": 710,
+          "bytes": 19688,
+          "sha256": "d5b48543835749248391482f936b510c55a867f6c6087beb8f1026a58d56b112",
+          "frames": 1
+        },
+        "preview": {
+          "canonicalPath": "/media/wan-laipei-cang-long-1-preview.webp",
+          "width": 160,
+          "height": 100,
+          "bytes": 2288,
+          "sha256": "fc377c6fbdb9fe1f2c668e5d905dc2fc263202b4a86848b7ac3a512f1eff71c2",
+          "frames": 1
+        }
+      },
+      "nameOriginal": "万籁·佩苍龙",
+      "cnSourceUrl": "https://www.yysls.cn/news/official/20260612/37780_1304064.html",
+      "cnImages": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260612/2f5ef73e-7b95-44bb-a8a0-43c378e4e646.jpg",
+          "width": 4000,
+          "height": 2250,
+          "bytes": 4816658,
+          "sha256": "ed133c690821b8dfa76564784d2a06bd55417d1ab1b02a51b7b4313876cccff1",
+          "frames": 1
+        }
+      ],
+      "visualBasis": {
+        "en": "The named CN Mo blade and Global lower panel use the same over-shoulder pose and long black/silver shaft, broad white hooked blade and frosted protruding ridge. The Global female upper panel shows the same weapon from the reverse side.",
+        "ko": "명칭이 명시된 중국 맥도와 글로벌 아래 구도는 어깨 위로 무기를 든 자세, 긴 검정·은색 자루, 넓게 휘어진 흰 칼날과 서리 같은 돌출 부분이 같습니다. 글로벌 여성 위 구도에서는 같은 무기의 반대쪽이 보입니다."
+      },
+      "limit": {
+        "en": "Regional identity does not transfer acquisition, prices, dates, deadlines or timezone.",
+        "ko": "지역 간 동일 외관 확인은 획득 방법·가격·날짜·종료 시각·시간대를 이전하는 근거가 아닙니다."
+      }
+    },
+    {
+      "candidateCosmeticId": "lian-tai-he",
+      "identityStatus": "confirmed_regional_identity",
+      "officialNames": {
+        "en": "Lotus Crane",
+        "ko": "연꽃 위의 학"
+      },
+      "sourceImageIndexZeroBased": 16,
+      "sourceImageLinkIndex": 30,
+      "pairedOriginalUrls": {
+        "en": "https://r.res.easebar.com/pic/20261029/9f05bcef-bd37-40a0-a6dc-86389f79926e.png",
+        "ko": "https://r.res.easebar.com/pic/20261029/50252730-d956-4c83-94cc-e5bbd8a0afca.png"
+      },
+      "representativeFrameZeroBased": 0,
+      "presentationCropInOriginal": [
+        0,
+        0,
+        609,
+        1080
+      ],
+      "thumbnailFit": "cover",
+      "rationale": {
+        "en": "Female front-panel crop preserves face, lotus ornament, white layers, teal sleeves and beaded waist. Full front/back artwork remains accessible.",
+        "ko": "얼굴·연꽃 장식·흰색 겹옷·청록색 소매·구슬 허리 장식이 보이는 여성 정면 구도입니다. 앞뒤 모습이 함께 배치된 전체 원본도 볼 수 있습니다."
+      },
+      "suggestedResearchImage": {
+        "url": "https://r.res.easebar.com/pic/20261029/9f05bcef-bd37-40a0-a6dc-86389f79926e.png",
+        "width": 1218,
+        "height": 1080,
+        "bytes": 2065574,
+        "kind": "official_appearance_reference",
+        "visuallyInspected": true,
+        "sourceFrame": 0,
+        "sourceCrop": null,
+        "sourceId": "global-20261029-october29-appearance-en",
+        "server": "Global",
+        "inspectionNote": "Named EN/KO official section and selected source artwork visually reviewed on October 31, 2026; female-first crop and full-source composition checked. Preview, not in-game verification.",
+        "reusePermission": "unknown",
+        "localCopy": "/media/lian-tai-he-4-full.webp",
+        "alt": {
+          "en": "Lotus Crane · official Global appearance reference",
+          "ko": "연꽃 위의 학 · 글로벌 공식 외관 참고 이미지"
+        },
+        "caption": {
+          "en": "Female front-panel crop preserves face, lotus ornament, white layers, teal sleeves and beaded waist. Full front/back artwork remains accessible.",
+          "ko": "얼굴·연꽃 장식·흰색 겹옷·청록색 소매·구슬 허리 장식이 보이는 여성 정면 구도입니다. 앞뒤 모습이 함께 배치된 전체 원본도 볼 수 있습니다."
+        }
+      },
+      "suggestedMediaRecord": {
+        "cosmeticId": "lian-tai-he",
+        "index": 4,
+        "originalUrl": "https://r.res.easebar.com/pic/20261029/9f05bcef-bd37-40a0-a6dc-86389f79926e.png",
+        "sourceId": "global-20261029-october29-appearance-en",
+        "server": "Global",
+        "thumbnail": "/media/lian-tai-he-4-thumb.webp",
+        "full": "/media/lian-tai-he-4-full.webp",
+        "preview": "/media/lian-tai-he-4-preview.webp",
+        "display": "/media/lian-tai-he-4-display.webp",
+        "displayWidth": 609,
+        "displayHeight": 1080,
+        "presentationSubject": "female",
+        "presentationCrop": [
+          0,
+          0,
+          609,
+          1080
+        ],
+        "thumbnailBytes": 49398,
+        "fullBytes": 199032,
+        "previewBytes": 3546,
+        "displayBytes": 105446,
+        "permission": "unknown",
+        "audience": "reference artwork; excluded from the code license"
+      },
+      "assets": {
+        "full": {
+          "canonicalPath": "/media/lian-tai-he-4-full.webp",
+          "width": 1218,
+          "height": 1080,
+          "bytes": 199032,
+          "sha256": "348ae806dcf0c2558e5b6804e58c5fced9afadbdca268aaff18641ecdda13163",
+          "frames": 1
+        },
+        "display": {
+          "canonicalPath": "/media/lian-tai-he-4-display.webp",
+          "width": 609,
+          "height": 1080,
+          "bytes": 105446,
+          "sha256": "8fb0af26e01bd0c657c267eb6ed6b487b68c20bb353a4717b4338a9b701ca003",
+          "frames": 1
+        },
+        "thumbnail": {
+          "canonicalPath": "/media/lian-tai-he-4-thumb.webp",
+          "width": 600,
+          "height": 710,
+          "bytes": 49398,
+          "sha256": "dd7fa31edd738207d06d48f101493b6ad3b44be132c6c5dc9548ce6e60fc0043",
+          "frames": 1
+        },
+        "preview": {
+          "canonicalPath": "/media/lian-tai-he-4-preview.webp",
+          "width": 90,
+          "height": 160,
+          "bytes": 3546,
+          "sha256": "138c4a8d72237fee4609ec02a7ac31afbda66d7b1da0af3e959077627d50b4eb",
+          "frames": 1
+        }
+      },
+      "nameOriginal": "莲台鹤",
+      "cnSourceUrl": "https://www.yysls.cn/news/official/20260703/37780_1306509.html",
+      "cnImages": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260703/dad6d47d-4ca0-41c9-bd3b-ba0492691537.jpg",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 1419829,
+          "sha256": "e3de9de589bd3ab5c259ea317633c521a4e019314892c22d7e9517e07fcbfeb2",
+          "frames": 1
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260703/4fb9fd3a-0744-4905-b840-61973dff0b02.jpg",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 1377793,
+          "sha256": "8b82f76184a8c9182b4e26883aea78a11b060e7efce718da05e51a2ec2695ce1",
+          "frames": 1
+        }
+      ],
+      "visualBasis": {
+        "en": "The Global female front/back panels repeat the named CN female photographs: white draped scarf, teal gold-embroidered sleeves, red/green neck beads, jeweled waist chains, blue lotus by the face and moon/plum backdrop.",
+        "ko": "글로벌 여성 앞뒤 구도는 명칭이 명시된 중국 여성 사진과 같습니다. 흰색 드레이프 목도리, 금빛 수가 있는 청록색 소매, 빨강·초록 목 구슬, 보석 허리 사슬, 얼굴 옆 파란 연꽃과 달·매화 배경이 일치합니다."
+      },
+      "limit": {
+        "en": "Regional identity does not transfer acquisition, prices, dates, deadlines or timezone.",
+        "ko": "지역 간 동일 외관 확인은 획득 방법·가격·날짜·종료 시각·시간대를 이전하는 근거가 아닙니다."
+      }
+    },
+    {
+      "candidateCosmeticId": "zhi-le-er-le",
+      "identityStatus": "confirmed_regional_identity",
+      "officialNames": {
+        "en": "Mindful Joy",
+        "ko": "진정한 낙"
+      },
+      "sourceImageIndexZeroBased": 18,
+      "sourceImageLinkIndex": 32,
+      "pairedOriginalUrls": {
+        "en": "https://r.res.easebar.com/pic/20261029/f9039449-1fa2-41b2-81c8-b515a7ed648d.gif",
+        "ko": "https://r.res.easebar.com/pic/20261029/a8f0cec5-410e-4ab2-80a7-f9fbcc6c3856.gif"
+      },
+      "representativeFrameZeroBased": 34,
+      "presentationCropInOriginal": [
+        180,
+        75,
+        555,
+        324
+      ],
+      "thumbnailFit": "contain",
+      "rationale": {
+        "en": "Frame 34 captures the broad golden skill burst. A contained crop preserves the effect; the complete frame and original animation link remain accessible.",
+        "ko": "34번 프레임에서 넓게 퍼지는 금빛 스킬을 확인할 수 있습니다. 효과를 썸네일 안에 보존했으며 전체 프레임과 원본 애니메이션 링크도 제공합니다."
+      },
+      "suggestedResearchImage": {
+        "url": "https://r.res.easebar.com/pic/20261029/f9039449-1fa2-41b2-81c8-b515a7ed648d.gif",
+        "width": 720,
+        "height": 324,
+        "bytes": 6846704,
+        "kind": "official_appearance_reference",
+        "visuallyInspected": true,
+        "sourceFrame": 34,
+        "sourceCrop": null,
+        "sourceId": "global-20261029-october29-appearance-en",
+        "server": "Global",
+        "inspectionNote": "Named EN/KO official section and selected source artwork visually reviewed on October 31, 2026; female-first crop and full-source composition checked. Preview, not in-game verification.",
+        "reusePermission": "unknown",
+        "localCopy": "/media/zhi-le-er-le-1-full.webp",
+        "alt": {
+          "en": "Mindful Joy · official Global appearance reference",
+          "ko": "진정한 낙 · 글로벌 공식 외관 참고 이미지"
+        },
+        "caption": {
+          "en": "Frame 34 captures the broad golden skill burst. A contained crop preserves the effect; the complete frame and original animation link remain accessible.",
+          "ko": "34번 프레임에서 넓게 퍼지는 금빛 스킬을 확인할 수 있습니다. 효과를 썸네일 안에 보존했으며 전체 프레임과 원본 애니메이션 링크도 제공합니다."
+        }
+      },
+      "suggestedMediaRecord": {
+        "cosmeticId": "zhi-le-er-le",
+        "index": 1,
+        "originalUrl": "https://r.res.easebar.com/pic/20261029/f9039449-1fa2-41b2-81c8-b515a7ed648d.gif",
+        "sourceId": "global-20261029-october29-appearance-en",
+        "server": "Global",
+        "thumbnail": "/media/zhi-le-er-le-1-thumb.webp",
+        "full": "/media/zhi-le-er-le-1-full.webp",
+        "preview": "/media/zhi-le-er-le-1-preview.webp",
+        "display": "/media/zhi-le-er-le-1-display.webp",
+        "displayWidth": 375,
+        "displayHeight": 249,
+        "presentationSubject": "detail",
+        "presentationCrop": [
+          180,
+          75,
+          555,
+          324
+        ],
+        "thumbnailBytes": 23500,
+        "fullBytes": 47014,
+        "previewBytes": 2792,
+        "displayBytes": 18474,
+        "permission": "unknown",
+        "audience": "reference artwork; excluded from the code license"
+      },
+      "assets": {
+        "full": {
+          "canonicalPath": "/media/zhi-le-er-le-1-full.webp",
+          "width": 720,
+          "height": 324,
+          "bytes": 47014,
+          "sha256": "49bc17f852dec3bd9310a4ffaacae35ed1cd5a77428171d059fdbe1c948fdedc",
+          "frames": 1
+        },
+        "display": {
+          "canonicalPath": "/media/zhi-le-er-le-1-display.webp",
+          "width": 375,
+          "height": 249,
+          "bytes": 18474,
+          "sha256": "ff69f760b01b6c45a91fc75dc4fb95614c0763a4258f0c8df44a0be5440fe01e",
+          "frames": 1
+        },
+        "thumbnail": {
+          "canonicalPath": "/media/zhi-le-er-le-1-thumb.webp",
+          "width": 600,
+          "height": 710,
+          "bytes": 23500,
+          "sha256": "1b467f371e0079aa7f19a3d05c5c0dc42e641b32224fa8aa64c19596d23de839",
+          "frames": 1
+        },
+        "preview": {
+          "canonicalPath": "/media/zhi-le-er-le-1-preview.webp",
+          "width": 160,
+          "height": 106,
+          "bytes": 2792,
+          "sha256": "afb22771e39fb415eefa8bb74bebe4b3bb83ec87ce82f655ce7633ae9a7e5fbd",
+          "frames": 1
+        }
+      },
+      "nameOriginal": "知乐而乐",
+      "cnSourceUrl": "https://www.yysls.cn/news/official/20260514/37780_1300268.html",
+      "cnImages": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20260514/03ee3a90-14a1-459d-b9bc-34acdb53abdd.gif",
+          "width": 600,
+          "height": 270,
+          "bytes": 7670046,
+          "sha256": "501b3412359328962fb76ae2e779fb145548939179419f4e8a0a1f8901a5fe83",
+          "frames": 121
+        }
+      ],
+      "visualBasis": {
+        "en": "Named CN and Global animations share the identical character, lakeside railing, purple flower bed, overhead branches and golden rotating childlike figures/coins around the character. Both sequences show the crouching burst and returning standing pose; resolution, frame timing and count differ.",
+        "ko": "명칭이 명시된 중국·글로벌 애니메이션은 동일한 캐릭터, 호숫가 난간, 보라색 꽃밭, 머리 위 나뭇가지, 캐릭터 주변을 도는 금빛 아이 형태와 동전이 같습니다. 양쪽 모두 웅크리며 퍼지는 효과와 다시 서는 동작을 확인했습니다. 해상도·프레임 시간·프레임 수는 다릅니다."
+      },
+      "limit": {
+        "en": "Regional identity does not transfer acquisition, prices, dates, deadlines or timezone.",
+        "ko": "지역 간 동일 외관 확인은 획득 방법·가격·날짜·종료 시각·시간대를 이전하는 근거가 아닙니다."
+      },
+      "framesInspected": {
+        "Global": [
+          0,
+          22,
+          34,
+          44,
+          50,
+          55,
+          60,
+          66,
+          88
+        ],
+        "CN": [
+          0,
+          22,
+          42,
+          66,
+          88
+        ]
+      }
+    }
+  ],
+  "validation": {
+    "originalCount": 38,
+    "uniqueGlobalImages": 19,
+    "allEnKoPairsByteIdentical": true,
+    "confirmedCnMatches": 9,
+    "separateGlobalIds": 2,
+    "derivativeCount": 44,
+    "staticWebpOnly": true,
+    "fullSourceCompositionPreserved": true,
+    "originalGifAnimationAvailableAtSource": true,
+    "localOriginalsCommitted": false,
+    "totalDerivativeBytes": 3560576,
+    "visualReview": {
+      "en": "Reviewed EN source contact sheet (all 19 compositions), selected 11 presentation crops, female outfit panels, source artwork for nine named CN candidates, Global/CN effect frame sheets, and the final derivative thumbnail sheet. EN/KO paired originals have identical bytes. Selected derivatives are static; full images retain entire original frames and original dimensions.",
+      "ko": "영문 원본 19개 구도 모음, 선택한 11개 표시 영역과 여성 세트 구도, 중국의 명칭이 명시된 9개 후보 원본, 글로벌·중국 효과의 프레임 모음, 최종 썸네일 구도를 점검했습니다. 대응 영문·한국어 원본은 바이트가 같습니다. 파생 파일은 정지 화면이며 전체 이미지에는 원본 프레임의 모든 구도와 크기를 보존합니다."
+    },
+    "limitations": {
+      "en": [
+        "No current in-game stock verification.",
+        "EN/KO images are byte-identical; language-specific names come from their official article headings.",
+        "Wrought Obsidian and Azure Dragon use different character hair/dyes in Global; weapon profiles match the named CN art.",
+        "Mindful Joy uses representative frame 34; original animation motion remains at the official source."
+      ],
+      "ko": [
+        "현재 게임 내 재고는 확인하지 않았습니다.",
+        "영문·한국어 이미지는 바이트가 같으며 언어별 명칭은 각 공식 공지 제목에서 가져왔습니다.",
+        "만물의 소리-현옥의 기품·푸른 청룡은 글로벌 모델의 머리색·염색이 다르지만 무기 형태가 명시된 중국 원본과 일치합니다.",
+        "진정한 낙은 대표 34번 프레임을 사용하며 전체 동작은 공식 원본에서 볼 수 있습니다."
+      ]
+    },
+    "validatedDerivativeCount": 44,
+    "sourceBoundsPassed": true,
+    "previewDisplayAspectRatiosPassed": true,
+    "maxThumbnailBytes": 77228,
+    "maxFullBytes": 409736
+  }
+}
