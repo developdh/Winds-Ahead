@@ -30,6 +30,8 @@ This is part of completing each update, including updates from the existing cale
 
 ## Release notes
 
+- [0.3.16 — Late October appearances and revised Battle Pass end](releases/0.3.16.md)
+
 - [0.3.15 — October 23 CN appearances and reward accessories](releases/0.3.15.md)
 
 - [0.3.14 — October 25 Global appearances and official names](releases/0.3.14.md)

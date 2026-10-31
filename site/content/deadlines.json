@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "reviewedAt": "2026-10-25",
+  "reviewedAt": "2026-10-31",
   "records": [
     {
       "id": "global-global-wind-s-far-shore-exchange-2026-11-18",
@@ -630,25 +630,27 @@
       }
     },
     {
-      "id": "global-hong-ye-xiao-xiao-pass-2026-11-14",
+      "id": "global-hong-ye-xiao-xiao-pass-2026-11-13",
       "cosmeticId": "hong-ye-xiao-xiao",
       "server": "Global",
       "kind": "pass",
       "startDate": "2026-10-15",
-      "end": "2026-11-14T04:59:59",
+      "end": "2026-11-13T17:59:59",
       "precision": "second",
       "timezone": "UTC+8",
       "sourceIds": [
+        "global-20261030-october29-patch-en",
+        "global-20261030-october29-patch-ko",
         "global-20261015-appearance-detail-en",
         "global-20261015-appearance-detail-ko",
         "global-20261010-scarlet-whispers",
         "global-20261015-version23-en",
         "global-20261015-version23-ko"
       ],
-      "verifiedAt": "2026-10-17",
+      "verifiedAt": "2026-10-31",
       "note": {
-        "en": "The named English October 15 appearance HTML explicitly labels this end UTC+8. Korean HTML shows 2026-11-14 05:59:59 with no timezone. Previous poster clock observations are preserved in the October 14 evidence. No current in-game check.",
-        "ko": "10월 15일 영문 개별 외관 공지가 이 종료 시각의 UTC+8을 명시합니다. 한국어 본문은 같은 날짜 05:59:59이며 시간대는 미표기입니다. 이전 이미지의 시각 관측은 10월 14일 근거에 보존했습니다. 현재 게임 내 확인은 하지 않았습니다."
+        "en": "October 29 patch explicitly revises November 14 04:59:59 to November 13 17:59:59 (UTC+8) in EN. KO revises November 14 05:59:59 to November 13 17:59:59 without a timezone; do not infer a Korean-zone conversion. Superseded observations are preserved in the October 31 review and earlier source history. No in-game check.",
+        "ko": "영문 10월 29일 패치는 11월 14일 04:59:59를 11월 13일 17:59:59(UTC+8)로 변경한다고 명시합니다. 한국어는 11월 14일 05:59:59를 11월 13일 17:59:59로 변경하며 시간대는 미표기입니다. 한국어의 시간대 환산은 추정하지 않습니다. 기존 관측은 10월 31일 검토와 이전 출처 이력에 보존합니다. 게임 내 확인은 하지 않았습니다."
       }
     },
     {
@@ -1417,6 +1419,90 @@
       "note": {
         "en": "End of the 要发要发黄金眼 event. Its story remains after the event; continued cosmetic acquisition is not established. Timezone unstated.",
         "ko": "要发要发黄金眼 이벤트 종료입니다. 종료 후 이야기는 남지만 외관을 계속 획득할 수 있는지는 확인되지 않았습니다. 시간대는 미표기입니다."
+      }
+    },
+    {
+      "id": "global-xuan-yingyao-tai-fei-jing-exchange-2026-12-28",
+      "cosmeticId": "xuan-yingyao-tai-fei-jing",
+      "server": "Global",
+      "kind": "exchange",
+      "startDate": "2026-10-29",
+      "end": "2026-12-28T04:59:59",
+      "precision": "second",
+      "timezone": "UTC+8",
+      "sourceIds": [
+        "global-20261028-october29-en",
+        "global-20261028-october29-ko",
+        "global-20261029-october29-appearance-en",
+        "global-20261029-october29-appearance-ko"
+      ],
+      "verifiedAt": "2026-10-31",
+      "note": {
+        "en": "Limited listing end explicitly labeled UTC+8 by the named EN HTML; KO 05:59:59 has no timezone. Price is 2 Sound Jade (regular 3). Opening clock conflict is preserved in the regional conditions.",
+        "ko": "개별 영문 본문이 UTC+8을 명시한 한정 출시 종료입니다. 한국어는 05:59:59로 시간대 미표기입니다. 가격은 음옥 2개(정가 3개)이며 시작 시각 불일치는 서버별 조건에 보존합니다."
+      }
+    },
+    {
+      "id": "global-xuan-yingyou-shi-sheng-fang-exchange-2026-12-28",
+      "cosmeticId": "xuan-yingyou-shi-sheng-fang",
+      "server": "Global",
+      "kind": "exchange",
+      "startDate": "2026-10-29",
+      "end": "2026-12-28T04:59:59",
+      "precision": "second",
+      "timezone": "UTC+8",
+      "sourceIds": [
+        "global-20261028-october29-en",
+        "global-20261028-october29-ko",
+        "global-20261029-october29-appearance-en",
+        "global-20261029-october29-appearance-ko"
+      ],
+      "verifiedAt": "2026-10-31",
+      "note": {
+        "en": "Limited listing end explicitly labeled UTC+8 by the named EN HTML; KO 05:59:59 has no timezone. Price is 2 Sound Jade (regular 3). Opening clock conflict is preserved in the regional conditions.",
+        "ko": "개별 영문 본문이 UTC+8을 명시한 한정 출시 종료입니다. 한국어는 05:59:59로 시간대 미표기입니다. 가격은 음옥 2개(정가 3개)이며 시작 시각 불일치는 서버별 조건에 보존합니다."
+      }
+    },
+    {
+      "id": "global-gui-shou-fen-lian-exchange-2027-02-01",
+      "cosmeticId": "gui-shou-fen-lian",
+      "server": "Global",
+      "kind": "exchange",
+      "startDate": "2026-11-01",
+      "end": "2027-02-01T04:59:59",
+      "precision": "second",
+      "timezone": "UTC+8",
+      "sourceIds": [
+        "global-20261028-october29-en",
+        "global-20261028-october29-ko",
+        "global-20261029-october29-appearance-en",
+        "global-20261029-october29-appearance-ko"
+      ],
+      "verifiedAt": "2026-10-31",
+      "note": {
+        "en": "Announced limited Draw Shop set listing ends; named EN HTML explicitly labels UTC+8. KO says 05:59:59 without timezone. No in-game check.",
+        "ko": "공명 상점 세트의 한정 출시 종료 예고입니다. 개별 영문 본문은 UTC+8을 명시하며 한국어는 05:59:59로 시간대 미표기입니다. 게임 내 확인은 하지 않았습니다."
+      }
+    },
+    {
+      "id": "global-zhi-le-er-le-discount-2026-12-08",
+      "cosmeticId": "zhi-le-er-le",
+      "server": "Global",
+      "kind": "discount",
+      "startDate": "2026-11-08",
+      "end": "2026-12-08T04:59:59",
+      "precision": "second",
+      "timezone": null,
+      "sourceIds": [
+        "global-20261028-october29-en",
+        "global-20261028-october29-ko",
+        "global-20261029-october29-appearance-en",
+        "global-20261029-october29-appearance-ko"
+      ],
+      "verifiedAt": "2026-10-31",
+      "note": {
+        "en": "EN poster discount end; neither EN nor KO poster states an end timezone. KO clock is 05:59:59. Price then returns from 60 to 300 Echo Beads; this is not a sale end. The named HTML labels only the opening UTC+8.",
+        "ko": "영문 이미지의 할인 종료이며 영문·한국어 이미지 모두 종료 시간대를 명시하지 않았습니다. 한국어 시각은 05:59:59입니다. 이후 장명주 60개에서 정가 300개로 돌아가며 판매 종료는 아닙니다. 개별 본문은 시작에만 UTC+8을 명시합니다."
       }
     }
   ]

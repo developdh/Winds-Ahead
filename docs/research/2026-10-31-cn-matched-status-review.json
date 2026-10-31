@@ -1,0 +1,379 @@
+{
+  "reviewedAt": "2026-10-31",
+  "reviewTimezone": "Asia/Seoul",
+  "scope": "Bounded reread of seven existing official CN source bodies for nine newly matched Global identities. No broader historical launch audit or current in-game availability check.",
+  "method": "Each complete public HTML body was read, including unrelated retrospective wording, and searched for target-specific maintenance, launch and acquisition statements. Web extraction succeeded for five; two timed out and were read through direct public HTML retrieval. Direct copies of all seven were retained only in temporary storage.",
+  "decisions": [
+    {
+      "cosmeticId": "wu-nian-ke-kao-san-nian-mo-ni",
+      "sourceId": "cn-20260528-outfits",
+      "url": "https://www.yysls.cn/news/official/20260529/37780_1302239.html",
+      "displayedPublicationDate": "2026-05-28",
+      "section": "全新武器外观·扇【五年科考三年模拟】",
+      "briefOriginalWording": "将于5月29日版本更新后上架",
+      "analysis": {
+        "en": "Item-specific paragraph promises a future May 29 post-update listing. No retrospective launch or target-specific maintenance statement appears in the complete body.",
+        "ko": "해당 부채 문단은 5월 29일 업데이트 후 출시할 것이라는 예고입니다. 전체 본문에서 이 항목의 실제 출시·출시 후 수정 근거를 찾지 못했습니다."
+      },
+      "targetSpecificIndependentReleaseEvidenceFound": false,
+      "recommendation": "Change existing released CN row to announced with confirmationPending true; preserve planned releaseDate and precision.",
+      "preservedDate": "2026-05-29",
+      "preservedPrecision": "day"
+    },
+    {
+      "cosmeticId": "xuan-yingyao-tai-fei-jing",
+      "sourceId": "cn-20260806-outfits",
+      "url": "https://www.yysls.cn/news/official/20260807/37780_1310523.html",
+      "displayedPublicationDate": "2026-08-06",
+      "section": "舞绫鼓武器外观【玄瑛·瑶台飞镜】",
+      "briefOriginalWording": "将于8月7日~10月5日5点期间限时上架",
+      "analysis": {
+        "en": "Item-specific paragraph announces a future August 7–October 5 limited listing from the displayed August 6 publication. Full body contains no target release confirmation or bugfix.",
+        "ko": "표시 게시일 8월 6일보다 뒤인 8월 7일~10월 5일 한정 출시를 예고합니다. 전체 본문에 해당 외관의 실제 출시·오류 수정 근거가 없습니다."
+      },
+      "targetSpecificIndependentReleaseEvidenceFound": false,
+      "recommendation": "Change existing released CN row to announced with confirmationPending true; preserve planned releaseDate and precision.",
+      "preservedDate": "2026-08-07",
+      "preservedPrecision": "day"
+    },
+    {
+      "cosmeticId": "xuan-yingyou-shi-sheng-fang",
+      "sourceId": "cn-c2133042ccf0",
+      "url": "https://www.yysls.cn/news/official/20260618/37780_1304797.html",
+      "displayedPublicationDate": "2026-06-18",
+      "section": "枪武器外观【玄瑛·幽石生芳】",
+      "briefOriginalWording": "将于近期限时上架",
+      "analysis": {
+        "en": "Paragraph jointly announces that the spear and sword will arrive soon, without an exact day. The body retrospectively discusses 熊有成竹, a different outfit, so that wording cannot confirm the spear release.",
+        "ko": "창과 검이 곧 한정 출시된다고 함께 예고하며 정확한 날짜는 없습니다. 본문에서 이미 출시한 것으로 설명하는 熊有成竹은 다른 의상이므로 이 창의 출시 근거로 사용할 수 없습니다."
+      },
+      "targetSpecificIndependentReleaseEvidenceFound": false,
+      "recommendation": "Change existing released CN row to announced with confirmationPending true; preserve planned releaseDate and precision.",
+      "preservedDate": null,
+      "preservedPrecision": "unknown"
+    },
+    {
+      "cosmeticId": "gui-shou-fen-lian",
+      "sourceId": "cn-b0bcdbb85576",
+      "url": "https://www.yysls.cn/news/official/20260612/37780_1304064.html",
+      "displayedPublicationDate": "2026-06-10",
+      "section": "全新和鸣套装【鬼手焚莲】",
+      "briefOriginalWording": "将于6月12日版本更新后限时94天上架",
+      "analysis": {
+        "en": "June 10 body announces a June 12 post-update limited listing. No target-specific retrospective release, actual acquisition or bugfix appears elsewhere in the full article.",
+        "ko": "6월 10일 본문에서 6월 12일 업데이트 후 한정 출시를 예고합니다. 전체 기사에 해당 항목의 실제 출시·획득·오류 수정 근거는 없습니다."
+      },
+      "targetSpecificIndependentReleaseEvidenceFound": false,
+      "recommendation": "Change existing released CN row to announced with confirmationPending true; preserve planned releaseDate and precision.",
+      "preservedDate": "2026-06-12",
+      "preservedPrecision": "day"
+    },
+    {
+      "cosmeticId": "you-ye-chen-ying",
+      "sourceId": "cn-9ea2f3465dd7",
+      "url": "https://www.yysls.cn/news/official/20260306/37780_1289937.html",
+      "displayedPublicationDate": "2026-03-01",
+      "section": "全新套装【幽夜尘影】",
+      "briefOriginalWording": "将于2026年3月6日上线",
+      "analysis": {
+        "en": "March 1 body announces future March 6 listing. A separate sentence says the 莲渡幽罗 victory cutscene is already live; this names a different outfit and does not verify 幽夜尘影.",
+        "ko": "3월 1일 본문에서 3월 6일 출시를 예고합니다. 다른 문장의 莲渡幽罗 결산 애니메이션 정식 출시 언급은 별도 의상이므로 幽夜尘影의 출시를 확인하지 못합니다."
+      },
+      "targetSpecificIndependentReleaseEvidenceFound": false,
+      "recommendation": "Change existing released CN row to announced with confirmationPending true; preserve planned releaseDate and precision.",
+      "preservedDate": "2026-03-06",
+      "preservedPrecision": "day"
+    },
+    {
+      "cosmeticId": "wan-laizuo-xuan-gui",
+      "sourceId": "cn-b0bcdbb85576",
+      "url": "https://www.yysls.cn/news/official/20260612/37780_1304064.html",
+      "displayedPublicationDate": "2026-06-10",
+      "section": "全新武器外观·横刀【万籁·琢玄圭】和武器外观·陌刀【万籁·佩苍龙】",
+      "briefOriginalWording": "将于6月12日版本更新后上架",
+      "analysis": {
+        "en": "The shared June 10 paragraph explicitly names both weapons and promises June 12 post-update listing. The full body contains no target-specific retrospective release or maintenance evidence.",
+        "ko": "6월 10일 공통 문단에 두 무기가 함께 명시되며 6월 12일 업데이트 후 출시 예고입니다. 전체 본문에 해당 항목의 실제 출시·출시 후 수정 근거는 없습니다."
+      },
+      "targetSpecificIndependentReleaseEvidenceFound": false,
+      "recommendation": "Change existing released CN row to announced with confirmationPending true; preserve planned releaseDate and precision.",
+      "preservedDate": "2026-06-12",
+      "preservedPrecision": "day"
+    },
+    {
+      "cosmeticId": "wan-laipei-cang-long",
+      "sourceId": "cn-b0bcdbb85576",
+      "url": "https://www.yysls.cn/news/official/20260612/37780_1304064.html",
+      "displayedPublicationDate": "2026-06-10",
+      "section": "全新武器外观·横刀【万籁·琢玄圭】和武器外观·陌刀【万籁·佩苍龙】",
+      "briefOriginalWording": "将于6月12日版本更新后上架",
+      "analysis": {
+        "en": "The shared June 10 paragraph explicitly names both weapons and promises June 12 post-update listing. The full body contains no target-specific retrospective release or maintenance evidence.",
+        "ko": "6월 10일 공통 문단에 두 무기가 함께 명시되며 6월 12일 업데이트 후 출시 예고입니다. 전체 본문에 해당 항목의 실제 출시·출시 후 수정 근거는 없습니다."
+      },
+      "targetSpecificIndependentReleaseEvidenceFound": false,
+      "recommendation": "Change existing released CN row to announced with confirmationPending true; preserve planned releaseDate and precision.",
+      "preservedDate": "2026-06-12",
+      "preservedPrecision": "day"
+    },
+    {
+      "cosmeticId": "lian-tai-he",
+      "sourceId": "cn-20260630-outfits",
+      "url": "https://www.yysls.cn/news/official/20260703/37780_1306509.html",
+      "displayedPublicationDate": "2026-06-30",
+      "section": "全新套装【莲台鹤】",
+      "briefOriginalWording": "将于本周五上架",
+      "analysis": {
+        "en": "June 30 body announces listing this Friday; July 3 is a contextual planned date. No target-specific retrospective release or bugfix appears. No new explicit CN regional row is requested.",
+        "ko": "6월 30일 본문에서 이번 금요일 출시를 예고하며 7월 3일은 맥락상 계획일입니다. 해당 항목의 실제 출시·오류 수정 근거는 없습니다. 새 중국 서버별 기록은 요청에 따라 만들지 않습니다."
+      },
+      "targetSpecificIndependentReleaseEvidenceFound": false,
+      "recommendation": "Leave no new explicit CN regional row, as directed. Preserve contextual planned date in cosmetic history.",
+      "preservedDate": "2026-07-03",
+      "preservedPrecision": "day"
+    },
+    {
+      "cosmeticId": "zhi-le-er-le",
+      "sourceId": "cn-20260514-outfits",
+      "url": "https://www.yysls.cn/news/official/20260514/37780_1300268.html",
+      "displayedPublicationDate": "2026-05-14",
+      "section": "「无相金身」奇术特效外观【知乐而乐】",
+      "briefOriginalWording": "将于5月15日0点上架",
+      "analysis": {
+        "en": "May 14 body announces listing May 15 at midnight. No target-specific retrospective release, actual acquisition or bugfix appears anywhere in the full body.",
+        "ko": "5월 14일 본문에서 5월 15일 0시 출시를 예고합니다. 전체 본문에서 해당 항목의 실제 출시·획득·오류 수정 근거를 찾지 못했습니다."
+      },
+      "targetSpecificIndependentReleaseEvidenceFound": false,
+      "recommendation": "Change existing released CN row to announced with confirmationPending true; preserve planned releaseDate and precision.",
+      "preservedDate": "2026-05-15",
+      "preservedPrecision": "day"
+    }
+  ],
+  "recommendedRegionalRecords": [
+    {
+      "cosmeticId": "wu-nian-ke-kao-san-nian-mo-ni",
+      "server": "CN",
+      "status": "announced",
+      "sourceIds": [
+        "cn-20260528-outfits"
+      ],
+      "verifiedAt": "2026-10-31",
+      "releaseDate": "2026-05-29",
+      "precision": "day",
+      "scope": {
+        "en": "Item-specific paragraph promises a future May 29 post-update listing. No retrospective launch or target-specific maintenance statement appears in the complete body. The historical planned date is preserved; elapsed time alone does not establish actual release or current availability. Timezone remains unknown.",
+        "ko": "해당 부채 문단은 5월 29일 업데이트 후 출시할 것이라는 예고입니다. 전체 본문에서 이 항목의 실제 출시·출시 후 수정 근거를 찾지 못했습니다. 과거 계획일을 보존하며 날짜 경과만으로 실제 출시·현재 획득 가능 여부를 확정하지 않습니다. 시간대는 미정입니다."
+      },
+      "identityBasis": {
+        "en": "The official regional source explicitly names this appearance and category.",
+        "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
+      },
+      "confirmationPending": true
+    },
+    {
+      "cosmeticId": "xuan-yingyao-tai-fei-jing",
+      "server": "CN",
+      "status": "announced",
+      "sourceIds": [
+        "cn-20260806-outfits"
+      ],
+      "verifiedAt": "2026-10-31",
+      "releaseDate": "2026-08-07",
+      "precision": "day",
+      "scope": {
+        "en": "Item-specific paragraph announces a future August 7–October 5 limited listing from the displayed August 6 publication. Full body contains no target release confirmation or bugfix. The historical planned date is preserved; elapsed time alone does not establish actual release or current availability. Timezone remains unknown.",
+        "ko": "표시 게시일 8월 6일보다 뒤인 8월 7일~10월 5일 한정 출시를 예고합니다. 전체 본문에 해당 외관의 실제 출시·오류 수정 근거가 없습니다. 과거 계획일을 보존하며 날짜 경과만으로 실제 출시·현재 획득 가능 여부를 확정하지 않습니다. 시간대는 미정입니다."
+      },
+      "identityBasis": {
+        "en": "The official regional source explicitly names this appearance and category.",
+        "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
+      },
+      "confirmationPending": true
+    },
+    {
+      "cosmeticId": "xuan-yingyou-shi-sheng-fang",
+      "server": "CN",
+      "status": "announced",
+      "sourceIds": [
+        "cn-c2133042ccf0"
+      ],
+      "verifiedAt": "2026-10-31",
+      "releaseDate": null,
+      "precision": "unknown",
+      "scope": {
+        "en": "Paragraph jointly announces that the spear and sword will arrive soon, without an exact day. The body retrospectively discusses 熊有成竹, a different outfit, so that wording cannot confirm the spear release. The historical planned date is preserved; elapsed time alone does not establish actual release or current availability. Timezone remains unknown.",
+        "ko": "창과 검이 곧 한정 출시된다고 함께 예고하며 정확한 날짜는 없습니다. 본문에서 이미 출시한 것으로 설명하는 熊有成竹은 다른 의상이므로 이 창의 출시 근거로 사용할 수 없습니다. 과거 계획일을 보존하며 날짜 경과만으로 실제 출시·현재 획득 가능 여부를 확정하지 않습니다. 시간대는 미정입니다."
+      },
+      "identityBasis": {
+        "en": "The official regional source explicitly names this appearance and category.",
+        "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
+      },
+      "confirmationPending": true
+    },
+    {
+      "cosmeticId": "gui-shou-fen-lian",
+      "server": "CN",
+      "status": "announced",
+      "sourceIds": [
+        "cn-b0bcdbb85576"
+      ],
+      "verifiedAt": "2026-10-31",
+      "releaseDate": "2026-06-12",
+      "precision": "day",
+      "scope": {
+        "en": "June 10 body announces a June 12 post-update limited listing. No target-specific retrospective release, actual acquisition or bugfix appears elsewhere in the full article. The historical planned date is preserved; elapsed time alone does not establish actual release or current availability. Timezone remains unknown.",
+        "ko": "6월 10일 본문에서 6월 12일 업데이트 후 한정 출시를 예고합니다. 전체 기사에 해당 항목의 실제 출시·획득·오류 수정 근거는 없습니다. 과거 계획일을 보존하며 날짜 경과만으로 실제 출시·현재 획득 가능 여부를 확정하지 않습니다. 시간대는 미정입니다."
+      },
+      "identityBasis": {
+        "en": "The official regional source explicitly names this appearance and category.",
+        "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
+      },
+      "confirmationPending": true
+    },
+    {
+      "cosmeticId": "you-ye-chen-ying",
+      "server": "CN",
+      "status": "announced",
+      "sourceIds": [
+        "cn-9ea2f3465dd7"
+      ],
+      "verifiedAt": "2026-10-31",
+      "releaseDate": "2026-03-06",
+      "precision": "day",
+      "scope": {
+        "en": "March 1 body announces future March 6 listing. A separate sentence says the 莲渡幽罗 victory cutscene is already live; this names a different outfit and does not verify 幽夜尘影. The historical planned date is preserved; elapsed time alone does not establish actual release or current availability. Timezone remains unknown.",
+        "ko": "3월 1일 본문에서 3월 6일 출시를 예고합니다. 다른 문장의 莲渡幽罗 결산 애니메이션 정식 출시 언급은 별도 의상이므로 幽夜尘影의 출시를 확인하지 못합니다. 과거 계획일을 보존하며 날짜 경과만으로 실제 출시·현재 획득 가능 여부를 확정하지 않습니다. 시간대는 미정입니다."
+      },
+      "identityBasis": {
+        "en": "The official regional source explicitly names this appearance and category.",
+        "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
+      },
+      "confirmationPending": true
+    },
+    {
+      "cosmeticId": "wan-laizuo-xuan-gui",
+      "server": "CN",
+      "status": "announced",
+      "sourceIds": [
+        "cn-b0bcdbb85576"
+      ],
+      "verifiedAt": "2026-10-31",
+      "releaseDate": "2026-06-12",
+      "precision": "day",
+      "scope": {
+        "en": "The shared June 10 paragraph explicitly names both weapons and promises June 12 post-update listing. The full body contains no target-specific retrospective release or maintenance evidence. The historical planned date is preserved; elapsed time alone does not establish actual release or current availability. Timezone remains unknown.",
+        "ko": "6월 10일 공통 문단에 두 무기가 함께 명시되며 6월 12일 업데이트 후 출시 예고입니다. 전체 본문에 해당 항목의 실제 출시·출시 후 수정 근거는 없습니다. 과거 계획일을 보존하며 날짜 경과만으로 실제 출시·현재 획득 가능 여부를 확정하지 않습니다. 시간대는 미정입니다."
+      },
+      "identityBasis": {
+        "en": "The official regional source explicitly names this appearance and category.",
+        "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
+      },
+      "confirmationPending": true
+    },
+    {
+      "cosmeticId": "wan-laipei-cang-long",
+      "server": "CN",
+      "status": "announced",
+      "sourceIds": [
+        "cn-b0bcdbb85576"
+      ],
+      "verifiedAt": "2026-10-31",
+      "releaseDate": "2026-06-12",
+      "precision": "day",
+      "scope": {
+        "en": "The shared June 10 paragraph explicitly names both weapons and promises June 12 post-update listing. The full body contains no target-specific retrospective release or maintenance evidence. The historical planned date is preserved; elapsed time alone does not establish actual release or current availability. Timezone remains unknown.",
+        "ko": "6월 10일 공통 문단에 두 무기가 함께 명시되며 6월 12일 업데이트 후 출시 예고입니다. 전체 본문에 해당 항목의 실제 출시·출시 후 수정 근거는 없습니다. 과거 계획일을 보존하며 날짜 경과만으로 실제 출시·현재 획득 가능 여부를 확정하지 않습니다. 시간대는 미정입니다."
+      },
+      "identityBasis": {
+        "en": "The official regional source explicitly names this appearance and category.",
+        "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
+      },
+      "confirmationPending": true
+    },
+    {
+      "cosmeticId": "zhi-le-er-le",
+      "server": "CN",
+      "status": "announced",
+      "sourceIds": [
+        "cn-20260514-outfits"
+      ],
+      "verifiedAt": "2026-10-31",
+      "releaseDate": "2026-05-15",
+      "precision": "day",
+      "scope": {
+        "en": "May 14 body announces listing May 15 at midnight. No target-specific retrospective release, actual acquisition or bugfix appears anywhere in the full body. The historical planned date is preserved; elapsed time alone does not establish actual release or current availability. Timezone remains unknown.",
+        "ko": "5월 14일 본문에서 5월 15일 0시 출시를 예고합니다. 전체 본문에서 해당 항목의 실제 출시·획득·오류 수정 근거를 찾지 못했습니다. 과거 계획일을 보존하며 날짜 경과만으로 실제 출시·현재 획득 가능 여부를 확정하지 않습니다. 시간대는 미정입니다."
+      },
+      "identityBasis": {
+        "en": "The official regional source explicitly names this appearance and category.",
+        "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
+      },
+      "confirmationPending": true
+    }
+  ],
+  "sourceReads": [
+    {
+      "sourceId": "cn-20260514-outfits",
+      "url": "https://www.yysls.cn/news/official/20260514/37780_1300268.html",
+      "bodyReadInFull": true,
+      "sourceBytes": 25138,
+      "sha256": "7415bf1d22cf34c0fd946e5541d8c1f460cb4c90f53977a9c33be3c4d1306d05",
+      "temporaryPath": "/tmp/winds-global-1031/cn-20260514-outfits.html",
+      "targetSpecificBugfixFound": false
+    },
+    {
+      "sourceId": "cn-20260528-outfits",
+      "url": "https://www.yysls.cn/news/official/20260529/37780_1302239.html",
+      "bodyReadInFull": true,
+      "sourceBytes": 36705,
+      "sha256": "0799d07e5dc1a080a21e6f0bc64315bf5a85fbb6296251db812dd2179a79ae14",
+      "temporaryPath": "/tmp/winds-global-1031/cn-20260528-outfits.html",
+      "targetSpecificBugfixFound": false
+    },
+    {
+      "sourceId": "cn-20260630-outfits",
+      "url": "https://www.yysls.cn/news/official/20260703/37780_1306509.html",
+      "bodyReadInFull": true,
+      "sourceBytes": 34966,
+      "sha256": "e1496ef6cf06dc3a94208f88afae88c4ff2c545d5e58045c6a6d21b26e477e99",
+      "temporaryPath": "/tmp/winds-global-1031/cn-20260630-outfits.html",
+      "targetSpecificBugfixFound": false
+    },
+    {
+      "sourceId": "cn-20260806-outfits",
+      "url": "https://www.yysls.cn/news/official/20260807/37780_1310523.html",
+      "bodyReadInFull": true,
+      "sourceBytes": 24830,
+      "sha256": "f910b3ff2b48cd3536a1d89adfc335abf9cfd3626ef27824f8bd0abd63a67941",
+      "temporaryPath": "/tmp/winds-global-1031/cn-20260806-outfits.html",
+      "targetSpecificBugfixFound": false
+    },
+    {
+      "sourceId": "cn-9ea2f3465dd7",
+      "url": "https://www.yysls.cn/news/official/20260306/37780_1289937.html",
+      "bodyReadInFull": true,
+      "sourceBytes": 25216,
+      "sha256": "df3c70128544501cb32b3a74894e83426b7afa87f23dba77af18abc7efbb51b5",
+      "temporaryPath": "/tmp/winds-global-1031/cn-9ea2f3465dd7.html",
+      "targetSpecificBugfixFound": false
+    },
+    {
+      "sourceId": "cn-b0bcdbb85576",
+      "url": "https://www.yysls.cn/news/official/20260612/37780_1304064.html",
+      "bodyReadInFull": true,
+      "sourceBytes": 35053,
+      "sha256": "5dec26b745129ee28835d592af8eb23a56a2ff630c115639d475baf909714f82",
+      "temporaryPath": "/tmp/winds-global-1031/cn-b0bcdbb85576.html",
+      "targetSpecificBugfixFound": false
+    },
+    {
+      "sourceId": "cn-c2133042ccf0",
+      "url": "https://www.yysls.cn/news/official/20260618/37780_1304797.html",
+      "bodyReadInFull": true,
+      "sourceBytes": 19430,
+      "sha256": "6a257a10f04fbad6dae9b36359b9022274c61860a432a2848e5079d64ae4d51c",
+      "temporaryPath": "/tmp/winds-global-1031/cn-c2133042ccf0.html",
+      "targetSpecificBugfixFound": false
+    }
+  ]
+}

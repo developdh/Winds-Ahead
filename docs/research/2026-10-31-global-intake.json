@@ -1,0 +1,1477 @@
+{
+  "reviewedAt": "2026-10-31",
+  "reviewTimezone": "Asia/Seoul",
+  "scope": "Bounded Global EN/KO official review since October 22, 2026. Eleven named appearances and one existing pass deadline correction. No forecasts, current in-game availability claims, GitHub mutations, or canonical-file edits.",
+  "sourcesToAppend": [
+    {
+      "id": "global-20261028-october29-en",
+      "url": "https://www.wherewindsmeetgame.com/news/official/1029update.html",
+      "titleOriginal": "[Friends From Afar] Version 2.3 Update Overview - October 29",
+      "publisher": "NetEase / Where Winds Meet official website",
+      "server": "Global",
+      "displayedPublicationDate": "2026-10-28",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-10-31",
+      "imageUrls": [
+        "https://r.res.easebar.com/pic/20261028/1527808f-0624-42ce-b2ec-5f51bf5cd1e2.png",
+        "https://r.res.easebar.com/pic/20261028/0063a7a9-deb0-4c75-b11d-542a312ec0b4.png"
+      ],
+      "verificationNote": "Full paired EN/KO appearance posters visually inspected in sequential readable sections. Global quantities and conditions are item-specific. Poster timezones are unstated. Duskgem starts differ from the later named HTML (EN 05:00:00 / KO 06:00:00 versus EN 00:00 UTC+8 / KO 01:00). Korean masthead retains October 15; item listings explicitly name October 29, November 1 and November 8. First gameplay poster reviewed for scope; cosmetic intake is bounded to the eleven named appearance items."
+    },
+    {
+      "id": "global-20261028-october29-ko",
+      "url": "https://www.wherewindsmeetgame.com/kr/news/official/1029update.html",
+      "titleOriginal": "[청주에 찾아온 벗] 10월29일 2.3 버전 업데이트 미리보기",
+      "publisher": "NetEase / Where Winds Meet official website",
+      "server": "Global",
+      "displayedPublicationDate": "2026-10-28",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-10-31",
+      "imageUrls": [
+        "https://r.res.easebar.com/pic/20261028/d32f261d-15cc-4c3b-a2ae-7171741202ef.png",
+        "https://r.res.easebar.com/pic/20261028/2bec47fb-e216-420a-8c22-0a4e9ebd21fb.png"
+      ],
+      "verificationNote": "Full paired EN/KO appearance posters visually inspected in sequential readable sections. Global quantities and conditions are item-specific. Poster timezones are unstated. Duskgem starts differ from the later named HTML (EN 05:00:00 / KO 06:00:00 versus EN 00:00 UTC+8 / KO 01:00). Korean masthead retains October 15; item listings explicitly name October 29, November 1 and November 8. First gameplay poster reviewed for scope; cosmetic intake is bounded to the eleven named appearance items."
+    },
+    {
+      "id": "global-20261029-october29-appearance-en",
+      "url": "https://www.wherewindsmeetgame.com/news/official/1029appearance.html",
+      "titleOriginal": "[Friends from afar] Version 2.3 New Appearances Overview - October 29, November 1 & 8",
+      "publisher": "NetEase / Where Winds Meet official website",
+      "server": "Global",
+      "displayedPublicationDate": "2026-10-29",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-10-31",
+      "verificationNote": "Full named HTML read. EN explicitly labels UTC+8 for all eleven openings and the Wraithflame/Duskgem listing ends. Korean clocks are one hour ahead without printed timezone. Duskgem opening differs from October 28 poster. Mindful Joy discount end and Lotus Crane discount end are not supplied by this named HTML. Korean web extraction failed; the same public HTML was retrieved directly and read."
+    },
+    {
+      "id": "global-20261029-october29-appearance-ko",
+      "url": "https://www.wherewindsmeetgame.com/kr/news/official/1029appearance.html",
+      "titleOriginal": "[청주에 찾아온 벗] 10월 29일·11월 1일·11월 8일 2.3 버전 신규 외관 목록",
+      "publisher": "NetEase / Where Winds Meet official website",
+      "server": "Global",
+      "displayedPublicationDate": "2026-10-29",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-10-31",
+      "verificationNote": "Full named HTML read. EN explicitly labels UTC+8 for all eleven openings and the Wraithflame/Duskgem listing ends. Korean clocks are one hour ahead without printed timezone. Duskgem opening differs from October 28 poster. Mindful Joy discount end and Lotus Crane discount end are not supplied by this named HTML. Korean web extraction failed; the same public HTML was retrieved directly and read."
+    }
+  ],
+  "newCosmetics": [
+    {
+      "id": "global-ghostlight-pumpkin",
+      "nameOriginal": "Ghostlight Pumpkin",
+      "romanization": "Ghostlight Pumpkin",
+      "category": "accessory",
+      "sourceId": "global-20261029-october29-appearance-en",
+      "acquisitionServer": "Global",
+      "mediaServer": "Global",
+      "officialNameEn": "Ghostlight Pumpkin",
+      "officialNameKo": "호박등 야행",
+      "cnRelease": {
+        "date": null,
+        "precision": "unknown",
+        "timezone": null,
+        "contextual": false,
+        "basis": "CN identity and schedule unverified."
+      },
+      "acquisition": {
+        "kind": "shop",
+        "pricing": "unknown",
+        "amount": null,
+        "regularAmount": null,
+        "currencyOriginal": null,
+        "location": {
+          "en": "Autumn Eve Whimsy Accessory Pack in the Shop",
+          "ko": "상점의 가을밤의 정취 장신구 패키지",
+          "original": "Autumn Eve Whimsy Accessory Pack in the Shop"
+        },
+        "conditions": {
+          "en": "Accessory within Autumn Eve Whimsy. The named appearance article confirms pack membership; the October 30 notice describes October 29 fixes for buying, equipping and Shop visibility of this exact pack. Pack price, separate-item purchase and sale end are unstated.",
+          "ko": "가을밤의 정취에 포함된 장신구입니다. 개별 외관 공지의 구성과 10월 30일 공지의 10월 29일 해당 패키지 구매·착용·상점 노출 오류 수정을 함께 확인했습니다. 패키지 가격·개별 구매·판매 종료는 미표기입니다."
+        },
+        "en": "Official Global item-specific terms.",
+        "ko": "글로벌 공식 공지의 해당 항목별 조건입니다."
+      },
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "images": [],
+      "officialVideos": [],
+      "mediaStatus": "pending",
+      "searchAliases": [
+        "호박등 야행"
+      ]
+    },
+    {
+      "id": "global-fall-confection",
+      "nameOriginal": "Fall Confection",
+      "romanization": "Fall Confection",
+      "category": "accessory",
+      "sourceId": "global-20261029-october29-appearance-en",
+      "acquisitionServer": "Global",
+      "mediaServer": "Global",
+      "officialNameEn": "Fall Confection",
+      "officialNameKo": "가을 서리 사탕",
+      "cnRelease": {
+        "date": null,
+        "precision": "unknown",
+        "timezone": null,
+        "contextual": false,
+        "basis": "CN identity and schedule unverified."
+      },
+      "acquisition": {
+        "kind": "shop",
+        "pricing": "unknown",
+        "amount": null,
+        "regularAmount": null,
+        "currencyOriginal": null,
+        "location": {
+          "en": "Autumn Eve Whimsy Accessory Pack in the Shop",
+          "ko": "상점의 가을밤의 정취 장신구 패키지",
+          "original": "Autumn Eve Whimsy Accessory Pack in the Shop"
+        },
+        "conditions": {
+          "en": "Accessory within Autumn Eve Whimsy. The named appearance article confirms pack membership; the October 30 notice describes October 29 fixes for buying, equipping and Shop visibility of this exact pack. Pack price, separate-item purchase and sale end are unstated.",
+          "ko": "가을밤의 정취에 포함된 장신구입니다. 개별 외관 공지의 구성과 10월 30일 공지의 10월 29일 해당 패키지 구매·착용·상점 노출 오류 수정을 함께 확인했습니다. 패키지 가격·개별 구매·판매 종료는 미표기입니다."
+        },
+        "en": "Official Global item-specific terms.",
+        "ko": "글로벌 공식 공지의 해당 항목별 조건입니다."
+      },
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "images": [],
+      "officialVideos": [],
+      "mediaStatus": "pending",
+      "searchAliases": [
+        "가을 서리 사탕"
+      ]
+    }
+  ],
+  "cosmeticNamePatches": [
+    {
+      "id": "global-ghostlight-pumpkin",
+      "officialNameEn": "Ghostlight Pumpkin",
+      "officialNameKo": "호박등 야행",
+      "searchAliases": [
+        "Ghostlight Pumpkin",
+        "호박등 야행"
+      ],
+      "namingNote": {
+        "en": "Official English/Korean names read in the paired October 29 Global named appearance articles. Regional quantities and schedules remain separate from CN.",
+        "ko": "10월 29일 글로벌 영문·한국어 개별 외관 공지에서 공식명을 확인했습니다. 서버별 수량·일정은 중국 사실과 구분합니다."
+      }
+    },
+    {
+      "id": "global-fall-confection",
+      "officialNameEn": "Fall Confection",
+      "officialNameKo": "가을 서리 사탕",
+      "searchAliases": [
+        "Fall Confection",
+        "가을 서리 사탕"
+      ],
+      "namingNote": {
+        "en": "Official English/Korean names read in the paired October 29 Global named appearance articles. Regional quantities and schedules remain separate from CN.",
+        "ko": "10월 29일 글로벌 영문·한국어 개별 외관 공지에서 공식명을 확인했습니다. 서버별 수량·일정은 중국 사실과 구분합니다."
+      }
+    },
+    {
+      "id": "wu-nian-ke-kao-san-nian-mo-ni",
+      "officialNameEn": "Ace the Boards",
+      "officialNameKo": "과거 시험 완벽 대비",
+      "searchAliases": [
+        "Ace the Boards",
+        "과거 시험 완벽 대비"
+      ],
+      "namingNote": {
+        "en": "Official English/Korean names read in the paired October 29 Global named appearance articles. Regional quantities and schedules remain separate from CN.",
+        "ko": "10월 29일 글로벌 영문·한국어 개별 외관 공지에서 공식명을 확인했습니다. 서버별 수량·일정은 중국 사실과 구분합니다."
+      }
+    },
+    {
+      "id": "xuan-yingyao-tai-fei-jing",
+      "officialNameEn": "Duskgem: Celestial Mirage",
+      "officialNameKo": "흑옥-달빛 거울",
+      "searchAliases": [
+        "Duskgem: Celestial Mirage",
+        "흑옥-달빛 거울"
+      ],
+      "namingNote": {
+        "en": "Official English/Korean names read in the paired October 29 Global named appearance articles. Regional quantities and schedules remain separate from CN.",
+        "ko": "10월 29일 글로벌 영문·한국어 개별 외관 공지에서 공식명을 확인했습니다. 서버별 수량·일정은 중국 사실과 구분합니다."
+      }
+    },
+    {
+      "id": "xuan-yingyou-shi-sheng-fang",
+      "officialNameEn": "Duskgem: Petrichor Bloom",
+      "officialNameKo": "흑옥-바위틈의 향기",
+      "searchAliases": [
+        "Duskgem: Petrichor Bloom",
+        "흑옥-바위틈의 향기"
+      ],
+      "namingNote": {
+        "en": "Official English/Korean names read in the paired October 29 Global named appearance articles. Regional quantities and schedules remain separate from CN.",
+        "ko": "10월 29일 글로벌 영문·한국어 개별 외관 공지에서 공식명을 확인했습니다. 서버별 수량·일정은 중국 사실과 구분합니다."
+      }
+    },
+    {
+      "id": "gui-shou-fen-lian",
+      "officialNameEn": "Wraithflame",
+      "officialNameKo": "귀수의 연화",
+      "searchAliases": [
+        "Wraithflame",
+        "귀수의 연화"
+      ],
+      "namingNote": {
+        "en": "Official English/Korean names read in the paired October 29 Global named appearance articles. Regional quantities and schedules remain separate from CN.",
+        "ko": "10월 29일 글로벌 영문·한국어 개별 외관 공지에서 공식명을 확인했습니다. 서버별 수량·일정은 중국 사실과 구분합니다."
+      }
+    },
+    {
+      "id": "you-ye-chen-ying",
+      "officialNameEn": "Frost's Glow",
+      "officialNameKo": "깊은 밤의 그림자",
+      "searchAliases": [
+        "Frost's Glow",
+        "깊은 밤의 그림자"
+      ],
+      "namingNote": {
+        "en": "Official English/Korean names read in the paired October 29 Global named appearance articles. Regional quantities and schedules remain separate from CN.",
+        "ko": "10월 29일 글로벌 영문·한국어 개별 외관 공지에서 공식명을 확인했습니다. 서버별 수량·일정은 중국 사실과 구분합니다."
+      }
+    },
+    {
+      "id": "wan-laizuo-xuan-gui",
+      "officialNameEn": "Myriad Sounds: Wrought Obsidian",
+      "officialNameKo": "만물의 소리-현옥의 기품",
+      "searchAliases": [
+        "Myriad Sounds: Wrought Obsidian",
+        "만물의 소리-현옥의 기품"
+      ],
+      "namingNote": {
+        "en": "Official English/Korean names read in the paired October 29 Global named appearance articles. Regional quantities and schedules remain separate from CN.",
+        "ko": "10월 29일 글로벌 영문·한국어 개별 외관 공지에서 공식명을 확인했습니다. 서버별 수량·일정은 중국 사실과 구분합니다."
+      }
+    },
+    {
+      "id": "wan-laipei-cang-long",
+      "officialNameEn": "Myriad Sounds: Azure Dragon",
+      "officialNameKo": "만물의 소리-푸른 청룡",
+      "searchAliases": [
+        "Myriad Sounds: Azure Dragon",
+        "만물의 소리-푸른 청룡"
+      ],
+      "namingNote": {
+        "en": "Official English/Korean names read in the paired October 29 Global named appearance articles. Regional quantities and schedules remain separate from CN.",
+        "ko": "10월 29일 글로벌 영문·한국어 개별 외관 공지에서 공식명을 확인했습니다. 서버별 수량·일정은 중국 사실과 구분합니다."
+      }
+    },
+    {
+      "id": "lian-tai-he",
+      "officialNameEn": "Lotus Crane",
+      "officialNameKo": "연꽃 위의 학",
+      "searchAliases": [
+        "Lotus Crane",
+        "연꽃 위의 학"
+      ],
+      "namingNote": {
+        "en": "Official English/Korean names read in the paired October 29 Global named appearance articles. Regional quantities and schedules remain separate from CN.",
+        "ko": "10월 29일 글로벌 영문·한국어 개별 외관 공지에서 공식명을 확인했습니다. 서버별 수량·일정은 중국 사실과 구분합니다."
+      }
+    },
+    {
+      "id": "zhi-le-er-le",
+      "officialNameEn": "Mindful Joy",
+      "officialNameKo": "진정한 낙",
+      "searchAliases": [
+        "Mindful Joy",
+        "진정한 낙"
+      ],
+      "namingNote": {
+        "en": "Official English/Korean names read in the paired October 29 Global named appearance articles. Regional quantities and schedules remain separate from CN.",
+        "ko": "10월 29일 글로벌 영문·한국어 개별 외관 공지에서 공식명을 확인했습니다. 서버별 수량·일정은 중국 사실과 구분합니다."
+      }
+    }
+  ],
+  "regionalRecords": [
+    {
+      "cosmeticId": "global-ghostlight-pumpkin",
+      "server": "Global",
+      "status": "released",
+      "releaseDate": "2026-10-29",
+      "precision": "day",
+      "verifiedAt": "2026-10-31",
+      "sourceIds": [
+        "global-20261028-october29-en",
+        "global-20261028-october29-ko",
+        "global-20261029-october29-appearance-en",
+        "global-20261029-october29-appearance-ko",
+        "global-20261030-october29-patch-en",
+        "global-20261030-october29-patch-ko"
+      ],
+      "scope": {
+        "en": "October 29 pack opening is stated as 00:00 UTC+8 in the named EN notice (KO 01:00, timezone unstated). The October 30 patch notice explicitly reports October 29 purchase/equip/Shop fixes for this exact accessory pack, supporting release by October 29. Current availability and individual-item sale terms are not checked.",
+        "ko": "개별 영문 공지는 패키지 시작을 10월 29일 00:00 UTC+8로 명시합니다(한국어 01:00, 시간대 미표기). 10월 30일 패치 공지가 해당 장신구 패키지의 10월 29일 구매·착용·상점 오류 수정을 명시하므로 10월 29일까지의 출시를 뒷받침합니다. 현재 획득 여부·개별 판매 조건은 확인하지 않았습니다."
+      },
+      "identityBasis": {
+        "en": "Paired named EN/KO official accessory artwork. No named CN comparison was established.",
+        "ko": "명칭이 있는 영문·한국어 공식 장신구 사진을 대응했습니다. 이름이 붙은 중국 비교 사진은 확인하지 못했습니다."
+      },
+      "acquisition": {
+        "kind": "shop",
+        "pricing": "unknown",
+        "amount": null,
+        "regularAmount": null,
+        "currencyOriginal": null,
+        "location": {
+          "en": "Autumn Eve Whimsy Accessory Pack in the Shop",
+          "ko": "상점의 가을밤의 정취 장신구 패키지",
+          "original": "Autumn Eve Whimsy Accessory Pack in the Shop"
+        },
+        "conditions": {
+          "en": "Accessory within Autumn Eve Whimsy. The named appearance article confirms pack membership; the October 30 notice describes October 29 fixes for buying, equipping and Shop visibility of this exact pack. Pack price, separate-item purchase and sale end are unstated.",
+          "ko": "가을밤의 정취에 포함된 장신구입니다. 개별 외관 공지의 구성과 10월 30일 공지의 10월 29일 해당 패키지 구매·착용·상점 노출 오류 수정을 함께 확인했습니다. 패키지 가격·개별 구매·판매 종료는 미표기입니다."
+        },
+        "en": "Official Global item-specific terms.",
+        "ko": "글로벌 공식 공지의 해당 항목별 조건입니다."
+      }
+    },
+    {
+      "cosmeticId": "global-fall-confection",
+      "server": "Global",
+      "status": "released",
+      "releaseDate": "2026-10-29",
+      "precision": "day",
+      "verifiedAt": "2026-10-31",
+      "sourceIds": [
+        "global-20261028-october29-en",
+        "global-20261028-october29-ko",
+        "global-20261029-october29-appearance-en",
+        "global-20261029-october29-appearance-ko",
+        "global-20261030-october29-patch-en",
+        "global-20261030-october29-patch-ko"
+      ],
+      "scope": {
+        "en": "October 29 pack opening is stated as 00:00 UTC+8 in the named EN notice (KO 01:00, timezone unstated). The October 30 patch notice explicitly reports October 29 purchase/equip/Shop fixes for this exact accessory pack, supporting release by October 29. Current availability and individual-item sale terms are not checked.",
+        "ko": "개별 영문 공지는 패키지 시작을 10월 29일 00:00 UTC+8로 명시합니다(한국어 01:00, 시간대 미표기). 10월 30일 패치 공지가 해당 장신구 패키지의 10월 29일 구매·착용·상점 오류 수정을 명시하므로 10월 29일까지의 출시를 뒷받침합니다. 현재 획득 여부·개별 판매 조건은 확인하지 않았습니다."
+      },
+      "identityBasis": {
+        "en": "Paired named EN/KO official accessory artwork. No named CN comparison was established.",
+        "ko": "명칭이 있는 영문·한국어 공식 장신구 사진을 대응했습니다. 이름이 붙은 중국 비교 사진은 확인하지 못했습니다."
+      },
+      "acquisition": {
+        "kind": "shop",
+        "pricing": "unknown",
+        "amount": null,
+        "regularAmount": null,
+        "currencyOriginal": null,
+        "location": {
+          "en": "Autumn Eve Whimsy Accessory Pack in the Shop",
+          "ko": "상점의 가을밤의 정취 장신구 패키지",
+          "original": "Autumn Eve Whimsy Accessory Pack in the Shop"
+        },
+        "conditions": {
+          "en": "Accessory within Autumn Eve Whimsy. The named appearance article confirms pack membership; the October 30 notice describes October 29 fixes for buying, equipping and Shop visibility of this exact pack. Pack price, separate-item purchase and sale end are unstated.",
+          "ko": "가을밤의 정취에 포함된 장신구입니다. 개별 외관 공지의 구성과 10월 30일 공지의 10월 29일 해당 패키지 구매·착용·상점 노출 오류 수정을 함께 확인했습니다. 패키지 가격·개별 구매·판매 종료는 미표기입니다."
+        },
+        "en": "Official Global item-specific terms.",
+        "ko": "글로벌 공식 공지의 해당 항목별 조건입니다."
+      }
+    },
+    {
+      "cosmeticId": "wu-nian-ke-kao-san-nian-mo-ni",
+      "server": "Global",
+      "status": "announced",
+      "releaseDate": "2026-10-29",
+      "precision": "day",
+      "verifiedAt": "2026-10-31",
+      "sourceIds": [
+        "global-20261028-october29-en",
+        "global-20261028-october29-ko",
+        "global-20261029-october29-appearance-en",
+        "global-20261029-october29-appearance-ko"
+      ],
+      "scope": {
+        "en": "Announced opening: 2026-10-29 00:00 UTC+8 in the October 29 named EN HTML; KO says 01:00 without a timezone. Calendar retains day precision. Actual release/current in-game availability is unverified.",
+        "ko": "10월 29일 개별 영문 본문은 2026-10-29 00:00 UTC+8 출시를 예고합니다. 한국어는 01:00이며 시간대 미표기입니다. 캘린더는 날짜 정밀도를 유지합니다. 실제 출시·현재 게임 내 획득 여부는 미확인입니다."
+      },
+      "identityBasis": {
+        "en": "Named CN/Global artwork matches the fan of colorful examination books and the printed open-paper fan.",
+        "ko": "중국·글로벌 명칭별 사진에서 여러 색의 과거 시험 책을 엮은 부채와 펼친 종이 부채의 인쇄가 일치합니다."
+      },
+      "acquisition": {
+        "kind": "shop",
+        "pricing": "fixed",
+        "amount": 60,
+        "regularAmount": null,
+        "currencyOriginal": "Echo Beads",
+        "location": {
+          "en": "Shop",
+          "ko": "상점",
+          "original": "Shop"
+        },
+        "conditions": {
+          "en": "Fan weapon appearance purchased for 60 Echo Beads. No sale end is stated.",
+          "ko": "장명주 60개로 구매하는 부채 무기 외관입니다. 판매 종료는 미표기입니다."
+        },
+        "en": "Official Global item-specific terms.",
+        "ko": "글로벌 공식 공지의 해당 항목별 조건입니다."
+      }
+    },
+    {
+      "cosmeticId": "xuan-yingyao-tai-fei-jing",
+      "server": "Global",
+      "status": "announced",
+      "releaseDate": "2026-10-29",
+      "precision": "day",
+      "verifiedAt": "2026-10-31",
+      "sourceIds": [
+        "global-20261028-october29-en",
+        "global-20261028-october29-ko",
+        "global-20261029-october29-appearance-en",
+        "global-20261029-october29-appearance-ko"
+      ],
+      "scope": {
+        "en": "Announced opening: 2026-10-29 00:00 UTC+8 in the October 29 named EN HTML; KO says 01:00 without a timezone. Calendar retains day precision. Actual release/current in-game availability is unverified. Earlier October 28 poster instead prints 05:00:00 EN / 06:00:00 KO with no timezone; retain source disagreement.",
+        "ko": "10월 29일 개별 영문 본문은 2026-10-29 00:00 UTC+8 출시를 예고합니다. 한국어는 01:00이며 시간대 미표기입니다. 캘린더는 날짜 정밀도를 유지합니다. 실제 출시·현재 게임 내 획득 여부는 미확인입니다. 앞선 10월 28일 이미지는 영문 05:00:00·한국어 06:00:00이며 시간대 미표기로, 출처 간 불일치를 보존합니다."
+      },
+      "identityBasis": {
+        "en": "Named CN/Global artwork matches the luminous blue circular drum, gold fittings and long star-speckled ribbons.",
+        "ko": "중국·글로벌 명칭별 사진의 푸른 원형 북·금빛 장식·별빛 긴 리본이 일치합니다."
+      },
+      "acquisition": {
+        "kind": "exchange_shop",
+        "pricing": "fixed",
+        "amount": 2,
+        "regularAmount": 3,
+        "currencyOriginal": "Sound Jade",
+        "location": {
+          "en": "Draw: Echo Shop",
+          "ko": "공명–화음 상점",
+          "original": "Draw: Echo Shop"
+        },
+        "conditions": {
+          "en": "Waist Drum appearance exchanged for a limited-time price of 2 Sound Jade (regular 3). The named HTML ends its limited listing December 28, 2026 04:59:59 UTC+8; KO says 05:59:59 without timezone. Opening conflicts: October 28 EN/KO posters say 05:00:00/06:00:00; the newer October 29 named HTML says 00:00 UTC+8/01:00 timezone unstated. Keep the conflict explicit.",
+          "ko": "비단 북 외관을 기간 한정 특가 음옥 2개(정가 3개)로 교환합니다. 개별 영문 본문은 한정 출시 종료를 2026년 12월 28일 04:59:59 UTC+8로 명시하며 한국어는 05:59:59로 시간대 미표기입니다. 시작 시각은 10월 28일 영문·한국어 이미지의 05:00:00·06:00:00와 더 최신인 10월 29일 개별 본문의 00:00 UTC+8·01:00 시간대 미표기가 다릅니다. 이 불일치를 명시적으로 보존합니다."
+        },
+        "en": "Official Global item-specific terms.",
+        "ko": "글로벌 공식 공지의 해당 항목별 조건입니다."
+      }
+    },
+    {
+      "cosmeticId": "xuan-yingyou-shi-sheng-fang",
+      "server": "Global",
+      "status": "announced",
+      "releaseDate": "2026-10-29",
+      "precision": "day",
+      "verifiedAt": "2026-10-31",
+      "sourceIds": [
+        "global-20261028-october29-en",
+        "global-20261028-october29-ko",
+        "global-20261029-october29-appearance-en",
+        "global-20261029-october29-appearance-ko"
+      ],
+      "scope": {
+        "en": "Announced opening: 2026-10-29 00:00 UTC+8 in the October 29 named EN HTML; KO says 01:00 without a timezone. Calendar retains day precision. Actual release/current in-game availability is unverified. Earlier October 28 poster instead prints 05:00:00 EN / 06:00:00 KO with no timezone; retain source disagreement.",
+        "ko": "10월 29일 개별 영문 본문은 2026-10-29 00:00 UTC+8 출시를 예고합니다. 한국어는 01:00이며 시간대 미표기입니다. 캘린더는 날짜 정밀도를 유지합니다. 실제 출시·현재 게임 내 획득 여부는 미확인입니다. 앞선 10월 28일 이미지는 영문 05:00:00·한국어 06:00:00이며 시간대 미표기로, 출처 간 불일치를 보존합니다."
+      },
+      "identityBasis": {
+        "en": "Named CN/Global artwork matches the blue crystalline spear and curling gold-and-blue lotus ornament.",
+        "ko": "중국·글로벌 명칭별 사진의 푸른 수정 창과 금빛·푸른 연꽃 장식이 일치합니다."
+      },
+      "acquisition": {
+        "kind": "exchange_shop",
+        "pricing": "fixed",
+        "amount": 2,
+        "regularAmount": 3,
+        "currencyOriginal": "Sound Jade",
+        "location": {
+          "en": "Draw: Echo Shop",
+          "ko": "공명–화음 상점",
+          "original": "Draw: Echo Shop"
+        },
+        "conditions": {
+          "en": "Spear appearance exchanged for a limited-time price of 2 Sound Jade (regular 3). The named HTML ends its limited listing December 28, 2026 04:59:59 UTC+8; KO says 05:59:59 without timezone. Opening conflicts: October 28 EN/KO posters say 05:00:00/06:00:00; the newer October 29 named HTML says 00:00 UTC+8/01:00 timezone unstated. Keep the conflict explicit.",
+          "ko": "창 외관을 기간 한정 특가 음옥 2개(정가 3개)로 교환합니다. 개별 영문 본문은 한정 출시 종료를 2026년 12월 28일 04:59:59 UTC+8로 명시하며 한국어는 05:59:59로 시간대 미표기입니다. 시작 시각은 10월 28일 영문·한국어 이미지의 05:00:00·06:00:00와 더 최신인 10월 29일 개별 본문의 00:00 UTC+8·01:00 시간대 미표기가 다릅니다. 이 불일치를 명시적으로 보존합니다."
+        },
+        "en": "Official Global item-specific terms.",
+        "ko": "글로벌 공식 공지의 해당 항목별 조건입니다."
+      }
+    },
+    {
+      "cosmeticId": "gui-shou-fen-lian",
+      "server": "Global",
+      "status": "announced",
+      "releaseDate": "2026-11-01",
+      "precision": "day",
+      "verifiedAt": "2026-10-31",
+      "sourceIds": [
+        "global-20261028-october29-en",
+        "global-20261028-october29-ko",
+        "global-20261029-october29-appearance-en",
+        "global-20261029-october29-appearance-ko"
+      ],
+      "scope": {
+        "en": "Announced opening: 2026-11-01 00:00 UTC+8 in the October 29 named EN HTML; KO says 01:00 without a timezone. Calendar retains day precision. Actual release/current in-game availability is unverified.",
+        "ko": "10월 29일 개별 영문 본문은 2026-11-01 00:00 UTC+8 출시를 예고합니다. 한국어는 01:00이며 시간대 미표기입니다. 캘린더는 날짜 정밀도를 유지합니다. 실제 출시·현재 게임 내 획득 여부는 미확인입니다."
+      },
+      "identityBasis": {
+        "en": "Named CN/Global artwork matches white hair, black-and-red blindfold, black armor, skeletal hand/belt motifs and flaming shoulder lotus.",
+        "ko": "중국·글로벌 명칭별 사진의 백발·흑적 안대·검은 갑옷·해골 손과 허리 장식·불타는 어깨 연꽃이 일치합니다."
+      },
+      "acquisition": {
+        "kind": "exchange_shop",
+        "pricing": "fixed",
+        "amount": 2,
+        "regularAmount": null,
+        "currencyOriginal": "Harmonic Core",
+        "location": {
+          "en": "Draw Shop",
+          "ko": "공명 상점",
+          "original": "Draw Shop"
+        },
+        "conditions": {
+          "en": "Exchange 2 Harmonic Cores. Supports separate top/bottom pieces and dyeing; includes Drape, Hair Ornament, Face Ornament, Earrings, Accessory, Makeup, Victory Cutscene and Player Dynamic Avatar. Named EN listing ends February 1, 2027 04:59:59 UTC+8 (KO 05:59:59, timezone unstated).",
+          "ko": "공명 구슬 2개로 교환합니다. 상하의 분리·염색을 지원하며 외투·머리 장식·얼굴 장식·귀걸이·장신구·메이크업·결산 연출·움직이는 프로필이 포함됩니다. 개별 영문 공지의 한정 종료는 2027년 2월 1일 04:59:59 UTC+8이며 한국어는 05:59:59로 시간대 미표기입니다."
+        },
+        "en": "Official Global item-specific terms.",
+        "ko": "글로벌 공식 공지의 해당 항목별 조건입니다."
+      }
+    },
+    {
+      "cosmeticId": "you-ye-chen-ying",
+      "server": "Global",
+      "status": "announced",
+      "releaseDate": "2026-11-01",
+      "precision": "day",
+      "verifiedAt": "2026-10-31",
+      "sourceIds": [
+        "global-20261028-october29-en",
+        "global-20261028-october29-ko",
+        "global-20261029-october29-appearance-en",
+        "global-20261029-october29-appearance-ko"
+      ],
+      "scope": {
+        "en": "Announced opening: 2026-11-01 00:00 UTC+8 in the October 29 named EN HTML; KO says 01:00 without a timezone. Calendar retains day precision. Actual release/current in-game availability is unverified.",
+        "ko": "10월 29일 개별 영문 본문은 2026-11-01 00:00 UTC+8 출시를 예고합니다. 한국어는 01:00이며 시간대 미표기입니다. 캘린더는 날짜 정밀도를 유지합니다. 실제 출시·현재 게임 내 획득 여부는 미확인입니다."
+      },
+      "identityBasis": {
+        "en": "Named CN/Global artwork matches the black/brass armored outfit with red waist sash and dragon shoulder; an identical character pose is retained.",
+        "ko": "중국·글로벌 명칭별 사진의 검정·황동 갑옷, 붉은 허리띠·용 어깨 장식이 일치하며 같은 인물 자세도 확인했습니다."
+      },
+      "acquisition": {
+        "kind": "shop",
+        "pricing": "fixed",
+        "amount": 60,
+        "regularAmount": null,
+        "currencyOriginal": "Echo Beads",
+        "location": {
+          "en": "Shop",
+          "ko": "상점",
+          "original": "Shop"
+        },
+        "conditions": {
+          "en": "Purchase the outfit for 60 Echo Beads. No sale end is stated.",
+          "ko": "장명주 60개로 구매하는 의상입니다. 판매 종료는 미표기입니다."
+        },
+        "en": "Official Global item-specific terms.",
+        "ko": "글로벌 공식 공지의 해당 항목별 조건입니다."
+      }
+    },
+    {
+      "cosmeticId": "wan-laizuo-xuan-gui",
+      "server": "Global",
+      "status": "announced",
+      "releaseDate": "2026-11-01",
+      "precision": "day",
+      "verifiedAt": "2026-10-31",
+      "sourceIds": [
+        "global-20261028-october29-en",
+        "global-20261028-october29-ko",
+        "global-20261029-october29-appearance-en",
+        "global-20261029-october29-appearance-ko"
+      ],
+      "scope": {
+        "en": "Announced opening: 2026-11-01 00:00 UTC+8 in the October 29 named EN HTML; KO says 01:00 without a timezone. Calendar retains day precision. Actual release/current in-game availability is unverified.",
+        "ko": "10월 29일 개별 영문 본문은 2026-11-01 00:00 UTC+8 출시를 예고합니다. 한국어는 01:00이며 시간대 미표기입니다. 캘린더는 날짜 정밀도를 유지합니다. 실제 출시·현재 게임 내 획득 여부는 미확인입니다."
+      },
+      "identityBasis": {
+        "en": "Named CN/Global artwork matches the dark silver icy Heng Blade silhouette and the same character pose.",
+        "ko": "중국·글로벌 명칭별 사진의 어두운 은빛 얼음 횡도 형태와 같은 인물 자세가 일치합니다."
+      },
+      "acquisition": {
+        "kind": "shop",
+        "pricing": "fixed",
+        "amount": 1280,
+        "regularAmount": null,
+        "currencyOriginal": "Echo Beads",
+        "location": {
+          "en": "Shop",
+          "ko": "상점",
+          "original": "Shop"
+        },
+        "conditions": {
+          "en": "Heng Blade appearance purchased for 1,280 Echo Beads. Price is per appearance, not a bundle. No sale end is stated.",
+          "ko": "장명주 1,280개로 구매하는 횡도 외관입니다. 묶음이 아닌 개별 가격이며 판매 종료는 미표기입니다."
+        },
+        "en": "Official Global item-specific terms.",
+        "ko": "글로벌 공식 공지의 해당 항목별 조건입니다."
+      }
+    },
+    {
+      "cosmeticId": "wan-laipei-cang-long",
+      "server": "Global",
+      "status": "announced",
+      "releaseDate": "2026-11-01",
+      "precision": "day",
+      "verifiedAt": "2026-10-31",
+      "sourceIds": [
+        "global-20261028-october29-en",
+        "global-20261028-october29-ko",
+        "global-20261029-october29-appearance-en",
+        "global-20261029-october29-appearance-ko"
+      ],
+      "scope": {
+        "en": "Announced opening: 2026-11-01 00:00 UTC+8 in the October 29 named EN HTML; KO says 01:00 without a timezone. Calendar retains day precision. Actual release/current in-game availability is unverified.",
+        "ko": "10월 29일 개별 영문 본문은 2026-11-01 00:00 UTC+8 출시를 예고합니다. 한국어는 01:00이며 시간대 미표기입니다. 캘린더는 날짜 정밀도를 유지합니다. 실제 출시·현재 게임 내 획득 여부는 미확인입니다."
+      },
+      "identityBasis": {
+        "en": "Named CN/Global artwork matches the broad pale-blue dragon-shaped Mo Blade and the same character pose.",
+        "ko": "중국·글로벌 명칭별 사진의 넓고 옅은 푸른 용 모양 맥도와 같은 인물 자세가 일치합니다."
+      },
+      "acquisition": {
+        "kind": "shop",
+        "pricing": "fixed",
+        "amount": 1280,
+        "regularAmount": null,
+        "currencyOriginal": "Echo Beads",
+        "location": {
+          "en": "Shop",
+          "ko": "상점",
+          "original": "Shop"
+        },
+        "conditions": {
+          "en": "Mo Blade appearance purchased for 1,280 Echo Beads. Price is per appearance, not a bundle. No sale end is stated.",
+          "ko": "장명주 1,280개로 구매하는 맥도 외관입니다. 묶음이 아닌 개별 가격이며 판매 종료는 미표기입니다."
+        },
+        "en": "Official Global item-specific terms.",
+        "ko": "글로벌 공식 공지의 해당 항목별 조건입니다."
+      }
+    },
+    {
+      "cosmeticId": "lian-tai-he",
+      "server": "Global",
+      "status": "announced",
+      "releaseDate": "2026-11-08",
+      "precision": "day",
+      "verifiedAt": "2026-10-31",
+      "sourceIds": [
+        "global-20261028-october29-en",
+        "global-20261028-october29-ko",
+        "global-20261029-october29-appearance-en",
+        "global-20261029-october29-appearance-ko"
+      ],
+      "scope": {
+        "en": "Announced opening: 2026-11-08 00:00 UTC+8 in the October 29 named EN HTML; KO says 01:00 without a timezone. Calendar retains day precision. Actual release/current in-game availability is unverified.",
+        "ko": "10월 29일 개별 영문 본문은 2026-11-08 00:00 UTC+8 출시를 예고합니다. 한국어는 01:00이며 시간대 미표기입니다. 캘린더는 날짜 정밀도를 유지합니다. 실제 출시·현재 게임 내 획득 여부는 미확인입니다."
+      },
+      "identityBasis": {
+        "en": "Named CN/Global paired front/back outfit artwork matches white/teal robes, gold crown, colored beads and blue lotus.",
+        "ko": "중국·글로벌 명칭별 남녀 앞·뒤 사진의 흰색·청록 의복·금빛 관·여러 색 염주·푸른 연꽃이 일치합니다."
+      },
+      "acquisition": {
+        "kind": "shop",
+        "pricing": "fixed",
+        "amount": 300,
+        "regularAmount": 680,
+        "currencyOriginal": "Echo Beads",
+        "location": {
+          "en": "Shop",
+          "ko": "상점",
+          "original": "Shop"
+        },
+        "conditions": {
+          "en": "Outfit discounted to 300 Echo Beads (regular 680). The discount end and sale end are unstated; do not create a deadline.",
+          "ko": "의상 특가는 장명주 300개(정가 680개)입니다. 할인·판매 종료가 미표기이므로 종료 일정을 만들지 않습니다."
+        },
+        "en": "Official Global item-specific terms.",
+        "ko": "글로벌 공식 공지의 해당 항목별 조건입니다."
+      }
+    },
+    {
+      "cosmeticId": "zhi-le-er-le",
+      "server": "Global",
+      "status": "announced",
+      "releaseDate": "2026-11-08",
+      "precision": "day",
+      "verifiedAt": "2026-10-31",
+      "sourceIds": [
+        "global-20261028-october29-en",
+        "global-20261028-october29-ko",
+        "global-20261029-october29-appearance-en",
+        "global-20261029-october29-appearance-ko"
+      ],
+      "scope": {
+        "en": "Announced opening: 2026-11-08 00:00 UTC+8 in the October 29 named EN HTML; KO says 01:00 without a timezone. Calendar retains day precision. Actual release/current in-game availability is unverified.",
+        "ko": "10월 29일 개별 영문 본문은 2026-11-08 00:00 UTC+8 출시를 예고합니다. 한국어는 01:00이며 시간대 미표기입니다. 캘린더는 날짜 정밀도를 유지합니다. 실제 출시·현재 게임 내 획득 여부는 미확인입니다."
+      },
+      "identityBasis": {
+        "en": "Named CN/Global motion references match the golden decorated bell/body VFX beside the same lakeside fence and flower bed.",
+        "ko": "중국·글로벌 명칭별 동작 자료의 금빛 장식 종·육신 이펙트와 같은 호숫가 울타리·화단이 일치합니다."
+      },
+      "acquisition": {
+        "kind": "shop",
+        "pricing": "fixed",
+        "amount": 60,
+        "regularAmount": 300,
+        "currencyOriginal": "Echo Beads",
+        "location": {
+          "en": "Shop",
+          "ko": "상점",
+          "original": "Shop"
+        },
+        "conditions": {
+          "en": "Golden Body Mystic Skill VFX costs 60 Echo Beads during the discount, then 300. EN poster ends discount December 8, 2026 04:59:59; KO poster says 05:59:59. Neither prints a timezone for that end. The named HTML only gives the opening UTC+8. Keep discount-end timezone unknown.",
+          "ko": "불멸의 육신 비결 이펙트는 할인 중 장명주 60개이며 이후 300개입니다. 영문 이미지의 할인 종료는 2026년 12월 8일 04:59:59, 한국어는 05:59:59이며 양쪽 모두 종료 시간대를 명시하지 않았습니다. 개별 본문의 UTC+8은 시작에만 명시됩니다. 할인 종료 시간대는 미정으로 유지합니다."
+        },
+        "en": "Official Global item-specific terms.",
+        "ko": "글로벌 공식 공지의 해당 항목별 조건입니다."
+      }
+    }
+  ],
+  "events": [
+    {
+      "id": "released-global-global-ghostlight-pumpkin-2026-10-29",
+      "cosmeticId": "global-ghostlight-pumpkin",
+      "date": "2026-10-29",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "status": "released",
+      "sourceIds": [
+        "global-20261028-october29-en",
+        "global-20261028-october29-ko",
+        "global-20261029-october29-appearance-en",
+        "global-20261029-october29-appearance-ko",
+        "global-20261030-october29-patch-en",
+        "global-20261030-october29-patch-ko"
+      ],
+      "scope": {
+        "en": "October 29 pack opening is stated as 00:00 UTC+8 in the named EN notice (KO 01:00, timezone unstated). The October 30 patch notice explicitly reports October 29 purchase/equip/Shop fixes for this exact accessory pack, supporting release by October 29. Current availability and individual-item sale terms are not checked.",
+        "ko": "개별 영문 공지는 패키지 시작을 10월 29일 00:00 UTC+8로 명시합니다(한국어 01:00, 시간대 미표기). 10월 30일 패치 공지가 해당 장신구 패키지의 10월 29일 구매·착용·상점 오류 수정을 명시하므로 10월 29일까지의 출시를 뒷받침합니다. 현재 획득 여부·개별 판매 조건은 확인하지 않았습니다."
+      }
+    },
+    {
+      "id": "released-global-global-fall-confection-2026-10-29",
+      "cosmeticId": "global-fall-confection",
+      "date": "2026-10-29",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "status": "released",
+      "sourceIds": [
+        "global-20261028-october29-en",
+        "global-20261028-october29-ko",
+        "global-20261029-october29-appearance-en",
+        "global-20261029-october29-appearance-ko",
+        "global-20261030-october29-patch-en",
+        "global-20261030-october29-patch-ko"
+      ],
+      "scope": {
+        "en": "October 29 pack opening is stated as 00:00 UTC+8 in the named EN notice (KO 01:00, timezone unstated). The October 30 patch notice explicitly reports October 29 purchase/equip/Shop fixes for this exact accessory pack, supporting release by October 29. Current availability and individual-item sale terms are not checked.",
+        "ko": "개별 영문 공지는 패키지 시작을 10월 29일 00:00 UTC+8로 명시합니다(한국어 01:00, 시간대 미표기). 10월 30일 패치 공지가 해당 장신구 패키지의 10월 29일 구매·착용·상점 오류 수정을 명시하므로 10월 29일까지의 출시를 뒷받침합니다. 현재 획득 여부·개별 판매 조건은 확인하지 않았습니다."
+      }
+    },
+    {
+      "id": "announced-global-wu-nian-ke-kao-san-nian-mo-ni-2026-10-29",
+      "cosmeticId": "wu-nian-ke-kao-san-nian-mo-ni",
+      "date": "2026-10-29",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "status": "announced",
+      "sourceIds": [
+        "global-20261028-october29-en",
+        "global-20261028-october29-ko",
+        "global-20261029-october29-appearance-en",
+        "global-20261029-october29-appearance-ko"
+      ],
+      "scope": {
+        "en": "Announced opening: 2026-10-29 00:00 UTC+8 in the October 29 named EN HTML; KO says 01:00 without a timezone. Calendar retains day precision. Actual release/current in-game availability is unverified.",
+        "ko": "10월 29일 개별 영문 본문은 2026-10-29 00:00 UTC+8 출시를 예고합니다. 한국어는 01:00이며 시간대 미표기입니다. 캘린더는 날짜 정밀도를 유지합니다. 실제 출시·현재 게임 내 획득 여부는 미확인입니다."
+      }
+    },
+    {
+      "id": "announced-global-xuan-yingyao-tai-fei-jing-2026-10-29",
+      "cosmeticId": "xuan-yingyao-tai-fei-jing",
+      "date": "2026-10-29",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "status": "announced",
+      "sourceIds": [
+        "global-20261028-october29-en",
+        "global-20261028-october29-ko",
+        "global-20261029-october29-appearance-en",
+        "global-20261029-october29-appearance-ko"
+      ],
+      "scope": {
+        "en": "Announced opening: 2026-10-29 00:00 UTC+8 in the October 29 named EN HTML; KO says 01:00 without a timezone. Calendar retains day precision. Actual release/current in-game availability is unverified. Earlier October 28 poster instead prints 05:00:00 EN / 06:00:00 KO with no timezone; retain source disagreement.",
+        "ko": "10월 29일 개별 영문 본문은 2026-10-29 00:00 UTC+8 출시를 예고합니다. 한국어는 01:00이며 시간대 미표기입니다. 캘린더는 날짜 정밀도를 유지합니다. 실제 출시·현재 게임 내 획득 여부는 미확인입니다. 앞선 10월 28일 이미지는 영문 05:00:00·한국어 06:00:00이며 시간대 미표기로, 출처 간 불일치를 보존합니다."
+      }
+    },
+    {
+      "id": "announced-global-xuan-yingyou-shi-sheng-fang-2026-10-29",
+      "cosmeticId": "xuan-yingyou-shi-sheng-fang",
+      "date": "2026-10-29",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "status": "announced",
+      "sourceIds": [
+        "global-20261028-october29-en",
+        "global-20261028-october29-ko",
+        "global-20261029-october29-appearance-en",
+        "global-20261029-october29-appearance-ko"
+      ],
+      "scope": {
+        "en": "Announced opening: 2026-10-29 00:00 UTC+8 in the October 29 named EN HTML; KO says 01:00 without a timezone. Calendar retains day precision. Actual release/current in-game availability is unverified. Earlier October 28 poster instead prints 05:00:00 EN / 06:00:00 KO with no timezone; retain source disagreement.",
+        "ko": "10월 29일 개별 영문 본문은 2026-10-29 00:00 UTC+8 출시를 예고합니다. 한국어는 01:00이며 시간대 미표기입니다. 캘린더는 날짜 정밀도를 유지합니다. 실제 출시·현재 게임 내 획득 여부는 미확인입니다. 앞선 10월 28일 이미지는 영문 05:00:00·한국어 06:00:00이며 시간대 미표기로, 출처 간 불일치를 보존합니다."
+      }
+    },
+    {
+      "id": "announced-global-gui-shou-fen-lian-2026-11-01",
+      "cosmeticId": "gui-shou-fen-lian",
+      "date": "2026-11-01",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "status": "announced",
+      "sourceIds": [
+        "global-20261028-october29-en",
+        "global-20261028-october29-ko",
+        "global-20261029-october29-appearance-en",
+        "global-20261029-october29-appearance-ko"
+      ],
+      "scope": {
+        "en": "Announced opening: 2026-11-01 00:00 UTC+8 in the October 29 named EN HTML; KO says 01:00 without a timezone. Calendar retains day precision. Actual release/current in-game availability is unverified.",
+        "ko": "10월 29일 개별 영문 본문은 2026-11-01 00:00 UTC+8 출시를 예고합니다. 한국어는 01:00이며 시간대 미표기입니다. 캘린더는 날짜 정밀도를 유지합니다. 실제 출시·현재 게임 내 획득 여부는 미확인입니다."
+      }
+    },
+    {
+      "id": "announced-global-you-ye-chen-ying-2026-11-01",
+      "cosmeticId": "you-ye-chen-ying",
+      "date": "2026-11-01",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "status": "announced",
+      "sourceIds": [
+        "global-20261028-october29-en",
+        "global-20261028-october29-ko",
+        "global-20261029-october29-appearance-en",
+        "global-20261029-october29-appearance-ko"
+      ],
+      "scope": {
+        "en": "Announced opening: 2026-11-01 00:00 UTC+8 in the October 29 named EN HTML; KO says 01:00 without a timezone. Calendar retains day precision. Actual release/current in-game availability is unverified.",
+        "ko": "10월 29일 개별 영문 본문은 2026-11-01 00:00 UTC+8 출시를 예고합니다. 한국어는 01:00이며 시간대 미표기입니다. 캘린더는 날짜 정밀도를 유지합니다. 실제 출시·현재 게임 내 획득 여부는 미확인입니다."
+      }
+    },
+    {
+      "id": "announced-global-wan-laizuo-xuan-gui-2026-11-01",
+      "cosmeticId": "wan-laizuo-xuan-gui",
+      "date": "2026-11-01",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "status": "announced",
+      "sourceIds": [
+        "global-20261028-october29-en",
+        "global-20261028-october29-ko",
+        "global-20261029-october29-appearance-en",
+        "global-20261029-october29-appearance-ko"
+      ],
+      "scope": {
+        "en": "Announced opening: 2026-11-01 00:00 UTC+8 in the October 29 named EN HTML; KO says 01:00 without a timezone. Calendar retains day precision. Actual release/current in-game availability is unverified.",
+        "ko": "10월 29일 개별 영문 본문은 2026-11-01 00:00 UTC+8 출시를 예고합니다. 한국어는 01:00이며 시간대 미표기입니다. 캘린더는 날짜 정밀도를 유지합니다. 실제 출시·현재 게임 내 획득 여부는 미확인입니다."
+      }
+    },
+    {
+      "id": "announced-global-wan-laipei-cang-long-2026-11-01",
+      "cosmeticId": "wan-laipei-cang-long",
+      "date": "2026-11-01",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "status": "announced",
+      "sourceIds": [
+        "global-20261028-october29-en",
+        "global-20261028-october29-ko",
+        "global-20261029-october29-appearance-en",
+        "global-20261029-october29-appearance-ko"
+      ],
+      "scope": {
+        "en": "Announced opening: 2026-11-01 00:00 UTC+8 in the October 29 named EN HTML; KO says 01:00 without a timezone. Calendar retains day precision. Actual release/current in-game availability is unverified.",
+        "ko": "10월 29일 개별 영문 본문은 2026-11-01 00:00 UTC+8 출시를 예고합니다. 한국어는 01:00이며 시간대 미표기입니다. 캘린더는 날짜 정밀도를 유지합니다. 실제 출시·현재 게임 내 획득 여부는 미확인입니다."
+      }
+    },
+    {
+      "id": "announced-global-lian-tai-he-2026-11-08",
+      "cosmeticId": "lian-tai-he",
+      "date": "2026-11-08",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "status": "announced",
+      "sourceIds": [
+        "global-20261028-october29-en",
+        "global-20261028-october29-ko",
+        "global-20261029-october29-appearance-en",
+        "global-20261029-october29-appearance-ko"
+      ],
+      "scope": {
+        "en": "Announced opening: 2026-11-08 00:00 UTC+8 in the October 29 named EN HTML; KO says 01:00 without a timezone. Calendar retains day precision. Actual release/current in-game availability is unverified.",
+        "ko": "10월 29일 개별 영문 본문은 2026-11-08 00:00 UTC+8 출시를 예고합니다. 한국어는 01:00이며 시간대 미표기입니다. 캘린더는 날짜 정밀도를 유지합니다. 실제 출시·현재 게임 내 획득 여부는 미확인입니다."
+      }
+    },
+    {
+      "id": "announced-global-zhi-le-er-le-2026-11-08",
+      "cosmeticId": "zhi-le-er-le",
+      "date": "2026-11-08",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "status": "announced",
+      "sourceIds": [
+        "global-20261028-october29-en",
+        "global-20261028-october29-ko",
+        "global-20261029-october29-appearance-en",
+        "global-20261029-october29-appearance-ko"
+      ],
+      "scope": {
+        "en": "Announced opening: 2026-11-08 00:00 UTC+8 in the October 29 named EN HTML; KO says 01:00 without a timezone. Calendar retains day precision. Actual release/current in-game availability is unverified.",
+        "ko": "10월 29일 개별 영문 본문은 2026-11-08 00:00 UTC+8 출시를 예고합니다. 한국어는 01:00이며 시간대 미표기입니다. 캘린더는 날짜 정밀도를 유지합니다. 실제 출시·현재 게임 내 획득 여부는 미확인입니다."
+      }
+    }
+  ],
+  "deadlines": [
+    {
+      "id": "global-xuan-yingyao-tai-fei-jing-exchange-2026-12-28",
+      "cosmeticId": "xuan-yingyao-tai-fei-jing",
+      "server": "Global",
+      "kind": "exchange",
+      "startDate": "2026-10-29",
+      "end": "2026-12-28T04:59:59",
+      "precision": "second",
+      "timezone": "UTC+8",
+      "sourceIds": [
+        "global-20261028-october29-en",
+        "global-20261028-october29-ko",
+        "global-20261029-october29-appearance-en",
+        "global-20261029-october29-appearance-ko"
+      ],
+      "verifiedAt": "2026-10-31",
+      "note": {
+        "en": "Limited listing end explicitly labeled UTC+8 by the named EN HTML; KO 05:59:59 has no timezone. Price is 2 Sound Jade (regular 3). Opening clock conflict is preserved in the regional conditions.",
+        "ko": "개별 영문 본문이 UTC+8을 명시한 한정 출시 종료입니다. 한국어는 05:59:59로 시간대 미표기입니다. 가격은 음옥 2개(정가 3개)이며 시작 시각 불일치는 서버별 조건에 보존합니다."
+      }
+    },
+    {
+      "id": "global-xuan-yingyou-shi-sheng-fang-exchange-2026-12-28",
+      "cosmeticId": "xuan-yingyou-shi-sheng-fang",
+      "server": "Global",
+      "kind": "exchange",
+      "startDate": "2026-10-29",
+      "end": "2026-12-28T04:59:59",
+      "precision": "second",
+      "timezone": "UTC+8",
+      "sourceIds": [
+        "global-20261028-october29-en",
+        "global-20261028-october29-ko",
+        "global-20261029-october29-appearance-en",
+        "global-20261029-october29-appearance-ko"
+      ],
+      "verifiedAt": "2026-10-31",
+      "note": {
+        "en": "Limited listing end explicitly labeled UTC+8 by the named EN HTML; KO 05:59:59 has no timezone. Price is 2 Sound Jade (regular 3). Opening clock conflict is preserved in the regional conditions.",
+        "ko": "개별 영문 본문이 UTC+8을 명시한 한정 출시 종료입니다. 한국어는 05:59:59로 시간대 미표기입니다. 가격은 음옥 2개(정가 3개)이며 시작 시각 불일치는 서버별 조건에 보존합니다."
+      }
+    },
+    {
+      "id": "global-gui-shou-fen-lian-exchange-2027-02-01",
+      "cosmeticId": "gui-shou-fen-lian",
+      "server": "Global",
+      "kind": "exchange",
+      "startDate": "2026-11-01",
+      "end": "2027-02-01T04:59:59",
+      "precision": "second",
+      "timezone": "UTC+8",
+      "sourceIds": [
+        "global-20261028-october29-en",
+        "global-20261028-october29-ko",
+        "global-20261029-october29-appearance-en",
+        "global-20261029-october29-appearance-ko"
+      ],
+      "verifiedAt": "2026-10-31",
+      "note": {
+        "en": "Announced limited Draw Shop set listing ends; named EN HTML explicitly labels UTC+8. KO says 05:59:59 without timezone. No in-game check.",
+        "ko": "공명 상점 세트의 한정 출시 종료 예고입니다. 개별 영문 본문은 UTC+8을 명시하며 한국어는 05:59:59로 시간대 미표기입니다. 게임 내 확인은 하지 않았습니다."
+      }
+    },
+    {
+      "id": "global-zhi-le-er-le-discount-2026-12-08",
+      "cosmeticId": "zhi-le-er-le",
+      "server": "Global",
+      "kind": "discount",
+      "startDate": "2026-11-08",
+      "end": "2026-12-08T04:59:59",
+      "precision": "second",
+      "timezone": null,
+      "sourceIds": [
+        "global-20261028-october29-en",
+        "global-20261028-october29-ko",
+        "global-20261029-october29-appearance-en",
+        "global-20261029-october29-appearance-ko"
+      ],
+      "verifiedAt": "2026-10-31",
+      "note": {
+        "en": "EN poster discount end; neither EN nor KO poster states an end timezone. KO clock is 05:59:59. Price then returns from 60 to 300 Echo Beads; this is not a sale end. The named HTML labels only the opening UTC+8.",
+        "ko": "영문 이미지의 할인 종료이며 영문·한국어 이미지 모두 종료 시간대를 명시하지 않았습니다. 한국어 시각은 05:59:59입니다. 이후 장명주 60개에서 정가 300개로 돌아가며 판매 종료는 아닙니다. 개별 본문은 시작에만 UTC+8을 명시합니다."
+      }
+    }
+  ],
+  "localizations": {
+    "global-ghostlight-pumpkin": {
+      "koName": "호박등 야행",
+      "description": {
+        "en": "Accessory in the Autumn Eve Whimsy pack. Pack price and separate-item purchase are unstated.",
+        "ko": "가을밤의 정취 패키지의 장신구입니다. 패키지 가격·개별 구매는 미표기입니다."
+      }
+    },
+    "global-fall-confection": {
+      "koName": "가을 서리 사탕",
+      "description": {
+        "en": "Accessory in the Autumn Eve Whimsy pack. Pack price and separate-item purchase are unstated.",
+        "ko": "가을밤의 정취 패키지의 장신구입니다. 패키지 가격·개별 구매는 미표기입니다."
+      }
+    },
+    "wu-nian-ke-kao-san-nian-mo-ni": {
+      "koName": "과거 시험 완벽 대비",
+      "description": {
+        "en": "Fan weapon appearance with colorful examination books and a printed paper fan.",
+        "ko": "여러 색의 과거 시험 책과 인쇄된 종이 부채를 표현한 부채 무기 외관입니다."
+      }
+    },
+    "xuan-yingyao-tai-fei-jing": {
+      "koName": "흑옥-달빛 거울",
+      "description": {
+        "en": "Blue-and-gold Waist Drum appearance with luminous star-speckled ribbons.",
+        "ko": "빛나는 별무늬 리본을 두른 푸른색·금색 비단 북 외관입니다."
+      }
+    },
+    "xuan-yingyou-shi-sheng-fang": {
+      "koName": "흑옥-바위틈의 향기",
+      "description": {
+        "en": "Blue crystalline Spear appearance with gold-and-blue lotus ornament.",
+        "ko": "금빛·푸른 연꽃 장식이 있는 푸른 수정 창 외관입니다."
+      }
+    },
+    "gui-shou-fen-lian": {
+      "koName": "귀수의 연화",
+      "description": {
+        "en": "Black and red armored outfit with white hair, skeletal motifs and flaming shoulder lotus.",
+        "ko": "백발·해골 장식·불타는 어깨 연꽃이 돋보이는 검정·빨강 갑옷 의상입니다."
+      }
+    },
+    "you-ye-chen-ying": {
+      "koName": "깊은 밤의 그림자",
+      "description": {
+        "en": "Black-and-brass armored outfit with red waist sash and dragon shoulder ornament.",
+        "ko": "붉은 허리띠·용 어깨 장식이 있는 검정·황동빛 갑옷 의상입니다."
+      }
+    },
+    "wan-laizuo-xuan-gui": {
+      "koName": "만물의 소리-현옥의 기품",
+      "description": {
+        "en": "Myriad Sounds Heng Blade appearance in dark silver with icy ornament.",
+        "ko": "어두운 은빛과 얼음 장식을 표현한 만물의 소리 횡도 외관입니다."
+      }
+    },
+    "wan-laipei-cang-long": {
+      "koName": "만물의 소리-푸른 청룡",
+      "description": {
+        "en": "Myriad Sounds Mo Blade appearance with a broad pale-blue dragon silhouette.",
+        "ko": "넓고 옅은 푸른 용 형태의 만물의 소리 맥도 외관입니다."
+      }
+    },
+    "lian-tai-he": {
+      "koName": "연꽃 위의 학",
+      "description": {
+        "en": "White and teal outfit with a gold crown, colored beads and blue lotus.",
+        "ko": "금빛 관·여러 색 염주·푸른 연꽃이 돋보이는 흰색·청록 의상입니다."
+      }
+    },
+    "zhi-le-er-le": {
+      "koName": "진정한 낙",
+      "description": {
+        "en": "Golden Body Mystic Skill VFX with a decorated golden bell form.",
+        "ko": "장식된 금빛 종 형태를 표현한 불멸의 육신 비결 이펙트입니다."
+      }
+    }
+  },
+  "existingCnReview": [
+    {
+      "cosmeticId": "wu-nian-ke-kao-san-nian-mo-ni",
+      "cnSourceId": "cn-20260528-outfits",
+      "existingCnRecord": {
+        "cosmeticId": "wu-nian-ke-kao-san-nian-mo-ni",
+        "server": "CN",
+        "status": "released",
+        "sourceIds": [
+          "cn-20260528-outfits"
+        ],
+        "verifiedAt": "2026-09-13",
+        "releaseDate": "2026-05-29",
+        "precision": "day",
+        "scope": {
+          "en": "Historical official listing or in-game appearance maintenance notice. This does not establish current availability or an original release date.",
+          "ko": "과거 공식 출시·외관 수정 공지 기록입니다. 현재 판매 여부와 최초 출시일을 뜻하지 않습니다."
+        },
+        "identityBasis": {
+          "en": "The official regional source explicitly names this appearance and category.",
+          "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
+        }
+      },
+      "cnRelease": {
+        "date": "2026-05-29",
+        "precision": "day",
+        "timezone": null,
+        "contextual": false,
+        "basis": "Explicit listing date in the source"
+      },
+      "sourceExcerpt": "全新武器外观·扇【五年科考三年模拟】将于5月29日版本更新后上架，届时游侠前往商店，即可以60长鸣珠购得。",
+      "caveat": "No new CN release verification performed in Global intake. Do not alter CN facts solely from Global mapping.",
+      "followupSourceBodyRead": true,
+      "statusRecommendation": "Change existing released CN row to announced with confirmationPending true; preserve planned releaseDate and precision."
+    },
+    {
+      "cosmeticId": "xuan-yingyao-tai-fei-jing",
+      "cnSourceId": "cn-20260806-outfits",
+      "existingCnRecord": {
+        "cosmeticId": "xuan-yingyao-tai-fei-jing",
+        "server": "CN",
+        "status": "released",
+        "sourceIds": [
+          "cn-20260806-outfits"
+        ],
+        "verifiedAt": "2026-09-13",
+        "releaseDate": "2026-08-07",
+        "precision": "day",
+        "scope": {
+          "en": "Historical official listing or in-game appearance maintenance notice. This does not establish current availability or an original release date.",
+          "ko": "과거 공식 출시·외관 수정 공지 기록입니다. 현재 판매 여부와 최초 출시일을 뜻하지 않습니다."
+        },
+        "identityBasis": {
+          "en": "The official regional source explicitly names this appearance and category.",
+          "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
+        }
+      },
+      "cnRelease": {
+        "date": "2026-08-07",
+        "precision": "day",
+        "timezone": null,
+        "contextual": false,
+        "basis": "Explicit listing date in the source"
+      },
+      "sourceExcerpt": "全新舞绫鼓武器外观【玄瑛·瑶台飞镜】将于8月7日~10月5日5点期间限时上架，原价3个【音玉】。届时游侠前往「和鸣-闻音商店」，即可以限时优惠价2个【音玉】兑换获得。",
+      "caveat": "No new CN release verification performed in Global intake. Do not alter CN facts solely from Global mapping.",
+      "followupSourceBodyRead": true,
+      "statusRecommendation": "Change existing released CN row to announced with confirmationPending true; preserve planned releaseDate and precision."
+    },
+    {
+      "cosmeticId": "xuan-yingyou-shi-sheng-fang",
+      "cnSourceId": "cn-c2133042ccf0",
+      "existingCnRecord": {
+        "cosmeticId": "xuan-yingyou-shi-sheng-fang",
+        "server": "CN",
+        "status": "released",
+        "sourceIds": [
+          "cn-c2133042ccf0"
+        ],
+        "verifiedAt": "2026-09-13",
+        "releaseDate": null,
+        "precision": "unknown",
+        "scope": {
+          "en": "Historical official listing or in-game appearance maintenance notice. This does not establish current availability or an original release date.",
+          "ko": "과거 공식 출시·외관 수정 공지 기록입니다. 현재 판매 여부와 최초 출시일을 뜻하지 않습니다."
+        },
+        "identityBasis": {
+          "en": "The official regional source explicitly names this appearance and category.",
+          "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
+        }
+      },
+      "cnRelease": {
+        "date": null,
+        "precision": "unknown",
+        "timezone": null,
+        "contextual": false,
+        "basis": "Exact item release day not established"
+      },
+      "sourceExcerpt": "",
+      "caveat": "No new CN release verification performed in Global intake. Do not alter CN facts solely from Global mapping.",
+      "followupSourceBodyRead": true,
+      "statusRecommendation": "Change existing released CN row to announced with confirmationPending true; preserve planned releaseDate and precision."
+    },
+    {
+      "cosmeticId": "gui-shou-fen-lian",
+      "cnSourceId": "cn-b0bcdbb85576",
+      "existingCnRecord": {
+        "cosmeticId": "gui-shou-fen-lian",
+        "server": "CN",
+        "status": "released",
+        "sourceIds": [
+          "cn-b0bcdbb85576"
+        ],
+        "verifiedAt": "2026-09-13",
+        "releaseDate": "2026-06-12",
+        "precision": "day",
+        "scope": {
+          "en": "Historical official listing or in-game appearance maintenance notice. This does not establish current availability or an original release date.",
+          "ko": "과거 공식 출시·외관 수정 공지 기록입니다. 현재 판매 여부와 최초 출시일을 뜻하지 않습니다."
+        },
+        "identityBasis": {
+          "en": "The official regional source explicitly names this appearance and category.",
+          "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
+        }
+      },
+      "cnRelease": {
+        "date": "2026-06-12",
+        "precision": "day",
+        "timezone": null,
+        "contextual": false,
+        "basis": "Explicit listing date in the source"
+      },
+      "sourceExcerpt": "全新和鸣套装【鬼手焚莲】将于6月12日版本更新后限时94天上架。届时游侠前往「和鸣商店」，即可以2个八音窍兑换获得。套装支持上下装拆分和染色，并附赠【披挂】、【发饰】、【面饰】、【耳饰】、【腰饰】、【妆容】、【结算演出】和【主角动态头像】。",
+      "caveat": "No new CN release verification performed in Global intake. Do not alter CN facts solely from Global mapping.",
+      "followupSourceBodyRead": true,
+      "statusRecommendation": "Change existing released CN row to announced with confirmationPending true; preserve planned releaseDate and precision."
+    },
+    {
+      "cosmeticId": "you-ye-chen-ying",
+      "cnSourceId": "cn-9ea2f3465dd7",
+      "existingCnRecord": {
+        "cosmeticId": "you-ye-chen-ying",
+        "server": "CN",
+        "status": "released",
+        "sourceIds": [
+          "cn-9ea2f3465dd7"
+        ],
+        "verifiedAt": "2026-09-13",
+        "releaseDate": "2026-03-06",
+        "precision": "day",
+        "scope": {
+          "en": "Historical official listing or in-game appearance maintenance notice. This does not establish current availability or an original release date.",
+          "ko": "과거 공식 출시·외관 수정 공지 기록입니다. 현재 판매 여부와 최초 출시일을 뜻하지 않습니다."
+        },
+        "identityBasis": {
+          "en": "The official regional source explicitly names this appearance and category.",
+          "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
+        }
+      },
+      "cnRelease": {
+        "date": "2026-03-06",
+        "precision": "day",
+        "timezone": null,
+        "contextual": false,
+        "basis": "Explicit listing date in the source"
+      },
+      "sourceExcerpt": "全新套装【幽夜尘影】将于2026年3月6日上线，支持上下装拆分和染色。届时游侠前往商店，即可以60长鸣珠购得。",
+      "caveat": "No new CN release verification performed in Global intake. Do not alter CN facts solely from Global mapping.",
+      "followupSourceBodyRead": true,
+      "statusRecommendation": "Change existing released CN row to announced with confirmationPending true; preserve planned releaseDate and precision."
+    },
+    {
+      "cosmeticId": "wan-laizuo-xuan-gui",
+      "cnSourceId": "cn-b0bcdbb85576",
+      "existingCnRecord": {
+        "cosmeticId": "wan-laizuo-xuan-gui",
+        "server": "CN",
+        "status": "released",
+        "sourceIds": [
+          "cn-b0bcdbb85576"
+        ],
+        "verifiedAt": "2026-09-28",
+        "releaseDate": "2026-06-12",
+        "precision": "day",
+        "scope": {
+          "en": "Historical official listing or in-game appearance maintenance notice. This does not establish current availability or an original release date.",
+          "ko": "과거 공식 출시·외관 수정 공지 기록입니다. 현재 판매 여부와 최초 출시일을 뜻하지 않습니다."
+        },
+        "identityBasis": {
+          "en": "The official regional source explicitly names this appearance and category.",
+          "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
+        }
+      },
+      "cnRelease": {
+        "date": "2026-06-12",
+        "precision": "day",
+        "timezone": null,
+        "contextual": false,
+        "basis": "Both Heng blade and Mo blade are explicitly named in the June 12 listing sentence of the displayed June 10 official notice. Start is after the update; no clock or timezone is inferred."
+      },
+      "sourceExcerpt": "",
+      "caveat": "No new CN release verification performed in Global intake. Do not alter CN facts solely from Global mapping.",
+      "followupSourceBodyRead": true,
+      "statusRecommendation": "Change existing released CN row to announced with confirmationPending true; preserve planned releaseDate and precision."
+    },
+    {
+      "cosmeticId": "wan-laipei-cang-long",
+      "cnSourceId": "cn-b0bcdbb85576",
+      "existingCnRecord": {
+        "cosmeticId": "wan-laipei-cang-long",
+        "server": "CN",
+        "status": "released",
+        "sourceIds": [
+          "cn-b0bcdbb85576"
+        ],
+        "verifiedAt": "2026-09-13",
+        "releaseDate": "2026-06-12",
+        "precision": "day",
+        "scope": {
+          "en": "Historical official listing or in-game appearance maintenance notice. This does not establish current availability or an original release date.",
+          "ko": "과거 공식 출시·외관 수정 공지 기록입니다. 현재 판매 여부와 최초 출시일을 뜻하지 않습니다."
+        },
+        "identityBasis": {
+          "en": "The official regional source explicitly names this appearance and category.",
+          "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
+        }
+      },
+      "cnRelease": {
+        "date": "2026-06-12",
+        "precision": "day",
+        "timezone": null,
+        "contextual": false,
+        "basis": "Explicit listing date in the source"
+      },
+      "sourceExcerpt": "全新武器外观·横刀【万籁·琢玄圭】和武器外观·陌刀【万籁·佩苍龙】将于6月12日版本更新后上架，届时游侠前往商店，即可分别以1280长鸣珠购得。",
+      "caveat": "No new CN release verification performed in Global intake. Do not alter CN facts solely from Global mapping.",
+      "followupSourceBodyRead": true,
+      "statusRecommendation": "Change existing released CN row to announced with confirmationPending true; preserve planned releaseDate and precision."
+    },
+    {
+      "cosmeticId": "lian-tai-he",
+      "cnSourceId": "cn-20260630-outfits",
+      "existingCnRecord": null,
+      "cnRelease": {
+        "date": "2026-07-03",
+        "precision": "day",
+        "timezone": null,
+        "basis": "“This Friday” interpreted from the displayed June 30 publication date; not from the URL date.",
+        "contextual": true
+      },
+      "sourceExcerpt": null,
+      "caveat": "No new CN release verification performed in Global intake. Do not alter CN facts solely from Global mapping.",
+      "followupSourceBodyRead": true,
+      "statusRecommendation": "Leave no new explicit CN regional row, as directed. Preserve contextual planned date in cosmetic history."
+    },
+    {
+      "cosmeticId": "zhi-le-er-le",
+      "cnSourceId": "cn-20260514-outfits",
+      "existingCnRecord": {
+        "cosmeticId": "zhi-le-er-le",
+        "server": "CN",
+        "status": "released",
+        "sourceIds": [
+          "cn-20260514-outfits"
+        ],
+        "verifiedAt": "2026-09-13",
+        "releaseDate": "2026-05-15",
+        "precision": "day",
+        "scope": {
+          "en": "Historical official listing or in-game appearance maintenance notice. This does not establish current availability or an original release date.",
+          "ko": "과거 공식 출시·외관 수정 공지 기록입니다. 현재 판매 여부와 최초 출시일을 뜻하지 않습니다."
+        },
+        "identityBasis": {
+          "en": "The official regional source explicitly names this appearance and category.",
+          "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
+        }
+      },
+      "cnRelease": {
+        "date": "2026-05-15",
+        "precision": "day",
+        "timezone": null,
+        "contextual": false,
+        "basis": "Explicit listing date in the source"
+      },
+      "sourceExcerpt": "「无相金身」奇术特效外观【知乐而乐】将于5月15日0点上架，原价300长鸣珠，届时游侠前往商店，即可以优惠价60长鸣珠购得。",
+      "caveat": "No new CN release verification performed in Global intake. Do not alter CN facts solely from Global mapping.",
+      "followupSourceBodyRead": true,
+      "statusRecommendation": "Change existing released CN row to announced with confirmationPending true; preserve planned releaseDate and precision."
+    }
+  ],
+  "passCorrectionHandledByParent": {
+    "cosmeticId": "hong-ye-xiao-xiao",
+    "officialNameEn": "Scarlet Whispers",
+    "officialNameKo": "쓸쓸한 단풍",
+    "sourceIds": [
+      "global-20261030-october29-patch-en",
+      "global-20261030-october29-patch-ko"
+    ],
+    "oldEnd": "2026-11-14T04:59:59",
+    "newEnd": "2026-11-13T17:59:59",
+    "timezone": "UTC+8",
+    "koObservation": "Korean notice also prints November 13 17:59:59, but omits timezone. Old KO end was 05:59:59. Do not silently convert inconsistent Korean new clock."
+  },
+  "limits": [
+    "Korean Cafe root and targeted search blocked/cache miss; no new Cafe notice body verified.",
+    "Named Korean appearance HTML retrieved directly because the web extractor returned cache miss.",
+    "The two first update posters were reviewed structurally for scope; cosmetic acquisition extraction uses full paired second appearance posters.",
+    "Autumn Eve Whimsy price, independent accessory purchases and end date unverified.",
+    "Lotus Crane discount end unannounced.",
+    "No new CN facts inferred from Global appearance matching.",
+    "Images/media payload and detailed named CN visual match evidence are being prepared separately by global_media."
+  ],
+  "posterInspection": [
+    {
+      "url": "https://r.res.easebar.com/pic/20261028/1527808f-0624-42ce-b2ec-5f51bf5cd1e2.png",
+      "localTemporaryPath": "/tmp/winds-global-1031/en-accessories.png",
+      "bytes": 5994668,
+      "sha256": "4b4b99f3d7cd851fd5baf3e8f70528369a9226ccb33b5b55da8e63c7c610d540",
+      "scope": "Gameplay poster viewed at reduced resolution for scope only; detailed gameplay text and rewards not fully transcribed."
+    },
+    {
+      "url": "https://r.res.easebar.com/pic/20261028/0063a7a9-deb0-4c75-b11d-542a312ec0b4.png",
+      "localTemporaryPath": "/tmp/winds-global-1031/en-update.png",
+      "bytes": 11743916,
+      "sha256": "8ea5b56a8093a951eb5a60bac5c7189f62d985e4546c75d258a3b3d6499d89c8",
+      "scope": "Appearance poster fully viewed in sequential readable sections."
+    },
+    {
+      "url": "https://r.res.easebar.com/pic/20261028/d32f261d-15cc-4c3b-a2ae-7171741202ef.png",
+      "localTemporaryPath": "/tmp/winds-global-1031/ko-accessories.png",
+      "bytes": 7010295,
+      "sha256": "0c0538a98a4aceb7002da5eda77ed4bb2072d9df66cab02910ddb2b611a8b544",
+      "scope": "Gameplay poster viewed at reduced resolution for scope only; detailed gameplay text and rewards not fully transcribed."
+    },
+    {
+      "url": "https://r.res.easebar.com/pic/20261028/2bec47fb-e216-420a-8c22-0a4e9ebd21fb.png",
+      "localTemporaryPath": "/tmp/winds-global-1031/ko-update.png",
+      "bytes": 11808945,
+      "sha256": "8052603a6ce10861125860da1b9d1aaaeb3d2259494740bcfaae6370a32824b8",
+      "scope": "Appearance poster fully viewed in sequential readable sections."
+    }
+  ],
+  "cnMatchedStatusReview": "docs/research/2026-10-31-cn-matched-status-review.json"
+}

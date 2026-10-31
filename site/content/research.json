@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "verifiedAt": "2026-10-25",
+  "verifiedAt": "2026-10-31",
   "scope": "Cross-server archive from individually reviewed official announcements; not a certified complete game inventory.",
   "sources": [
     {
@@ -4425,6 +4425,132 @@
         "https://nie.res.netease.com/r/pic/20261023/b5278b36-41c3-46a9-8d0f-1795da463fb7.jpg"
       ],
       "verificationNote": "Four native-resolution patch posters visually inspected in bounded readable sections for cosmetic acquisition and schedules. Scheduled maintenance notice; prospective wording does not independently confirm actual release. All unstated timezones remain unknown."
+    },
+    {
+      "id": "global-20261030-october29-patch-en",
+      "url": "https://www.wherewindsmeetgame.com/news/official/1029patchnotes.html",
+      "publisher": "NetEase / Where Winds Meet official website",
+      "server": "Global",
+      "titleOriginal": "Version 2.3 Patch Notes: Optimizations and Bug Fixes (October 29)",
+      "displayedPublicationDate": "2026-10-30",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-10-31",
+      "verificationNote": "Full named patchnote HTML read. October 29 patch changes the Scarlet Whispers pass end; EN explicitly labels UTC+8, KO prints the same new 17:59:59 clock without a timezone. October 30 page publication is distinct from patch date. Accessory pack shop/wardrobe bug fixes do not establish every other announced cosmetic as released."
+    },
+    {
+      "id": "global-20261030-october29-patch-ko",
+      "url": "https://www.wherewindsmeetgame.com/kr/news/official/1029patchnotes.html",
+      "publisher": "NetEase / Where Winds Meet official website",
+      "server": "Global",
+      "titleOriginal": "2.3 버전 최적화 및 수정 공지 (10월 29일)",
+      "displayedPublicationDate": "2026-10-30",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-10-31",
+      "verificationNote": "Full named patchnote HTML read. October 29 patch changes the Scarlet Whispers pass end; EN explicitly labels UTC+8, KO prints the same new 17:59:59 clock without a timezone. October 30 page publication is distinct from patch date. Accessory pack shop/wardrobe bug fixes do not establish every other announced cosmetic as released."
+    },
+    {
+      "id": "cn-20261028-october30-appearances",
+      "url": "https://www.yysls.cn/news/official/20261030/37780_1318181.html",
+      "titleOriginal": "万籁系列剑、枪外观上新，妙双十一携“惠音券”归来！",
+      "displayedPublicationDate": "2026-10-28",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "server": "CN",
+      "publisher": "燕云十六声 / NetEase official website",
+      "evidenceTier": "A",
+      "verifiedAt": "2026-10-31",
+      "verificationNote": "Displayed October 28 despite October 30 URL directory. Named outfit and spear/sword appearance sections and all eight reference images visually inspected. Acquisition and planned listing were cross-checked against the October 30 patch. Actual release/current availability unverified.",
+      "imageUrls": [
+        "https://nie.res.netease.com/r/pic/20261030/717350ff-ab78-4e09-8eae-8844b48c9caf.png",
+        "https://nie.res.netease.com/r/pic/20261030/e58e732b-4a42-4686-aa55-ca38f3e35dfd.png",
+        "https://nie.res.netease.com/r/pic/20261030/cfd26c64-5283-4cdf-8a02-684c2582941d.png",
+        "https://nie.res.netease.com/r/pic/20261030/b980d863-e01c-4f05-b717-be658dab34b7.png",
+        "https://nie.res.netease.com/r/pic/20261030/1f64e940-8df7-4fd8-85f9-c602f1e928e6.png",
+        "https://nie.res.netease.com/r/pic/20261030/7240fd8a-0add-4f38-8805-311eb348fb7c.jpg",
+        "https://nie.res.netease.com/r/pic/20261030/19b4419f-12ca-460e-897f-a2586cfc65fd.jpg",
+        "https://nie.res.netease.com/r/pic/20261030/e47338d9-a6b4-46c7-a4c8-b301b5e517de.jpg"
+      ]
+    },
+    {
+      "id": "cn-20261030-update",
+      "url": "https://www.yysls.cn/news/update/20261030/40412_1318171.html",
+      "titleOriginal": "10月30日2.9.0B版本「长乐夜未央」更新公告",
+      "displayedPublicationDate": "2026-10-30",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "server": "CN",
+      "publisher": "燕云十六声 / NetEase official website",
+      "evidenceTier": "A",
+      "verifiedAt": "2026-10-31",
+      "verificationNote": "Both original patch posters visually reviewed; readable sections inspected for new outfit/weapon acquisition, event/coupon clocks, the named tailored outfit style and two named item bugfixes. Planned maintenance alone is not release confirmation.",
+      "imageUrls": [
+        "https://nie.res.netease.com/r/pic/20261030/b071c7e0-7842-4c7e-8d7a-e6cb3823ce72.jpg",
+        "https://nie.res.netease.com/r/pic/20261030/1126aa87-e482-4833-a3ab-f62aa233173a.jpg"
+      ]
+    },
+    {
+      "id": "global-20261028-october29-en",
+      "url": "https://www.wherewindsmeetgame.com/news/official/1029update.html",
+      "titleOriginal": "[Friends From Afar] Version 2.3 Update Overview - October 29",
+      "publisher": "NetEase / Where Winds Meet official website",
+      "server": "Global",
+      "displayedPublicationDate": "2026-10-28",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-10-31",
+      "imageUrls": [
+        "https://r.res.easebar.com/pic/20261028/1527808f-0624-42ce-b2ec-5f51bf5cd1e2.png",
+        "https://r.res.easebar.com/pic/20261028/0063a7a9-deb0-4c75-b11d-542a312ec0b4.png"
+      ],
+      "verificationNote": "Full paired EN/KO appearance posters visually inspected in sequential readable sections. Global quantities and conditions are item-specific. Poster timezones are unstated. Duskgem starts differ from the later named HTML (EN 05:00:00 / KO 06:00:00 versus EN 00:00 UTC+8 / KO 01:00). Korean masthead retains October 15; item listings explicitly name October 29, November 1 and November 8. First gameplay poster reviewed for scope; cosmetic intake is bounded to the eleven named appearance items."
+    },
+    {
+      "id": "global-20261028-october29-ko",
+      "url": "https://www.wherewindsmeetgame.com/kr/news/official/1029update.html",
+      "titleOriginal": "[청주에 찾아온 벗] 10월29일 2.3 버전 업데이트 미리보기",
+      "publisher": "NetEase / Where Winds Meet official website",
+      "server": "Global",
+      "displayedPublicationDate": "2026-10-28",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-10-31",
+      "imageUrls": [
+        "https://r.res.easebar.com/pic/20261028/d32f261d-15cc-4c3b-a2ae-7171741202ef.png",
+        "https://r.res.easebar.com/pic/20261028/2bec47fb-e216-420a-8c22-0a4e9ebd21fb.png"
+      ],
+      "verificationNote": "Full paired EN/KO appearance posters visually inspected in sequential readable sections. Global quantities and conditions are item-specific. Poster timezones are unstated. Duskgem starts differ from the later named HTML (EN 05:00:00 / KO 06:00:00 versus EN 00:00 UTC+8 / KO 01:00). Korean masthead retains October 15; item listings explicitly name October 29, November 1 and November 8. First gameplay poster reviewed for scope; cosmetic intake is bounded to the eleven named appearance items."
+    },
+    {
+      "id": "global-20261029-october29-appearance-en",
+      "url": "https://www.wherewindsmeetgame.com/news/official/1029appearance.html",
+      "titleOriginal": "[Friends from afar] Version 2.3 New Appearances Overview - October 29, November 1 & 8",
+      "publisher": "NetEase / Where Winds Meet official website",
+      "server": "Global",
+      "displayedPublicationDate": "2026-10-29",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-10-31",
+      "verificationNote": "Full named HTML read. EN explicitly labels UTC+8 for all eleven openings and the Wraithflame/Duskgem listing ends. Korean clocks are one hour ahead without printed timezone. Duskgem opening differs from October 28 poster. Mindful Joy discount end and Lotus Crane discount end are not supplied by this named HTML. Korean web extraction failed; the same public HTML was retrieved directly and read."
+    },
+    {
+      "id": "global-20261029-october29-appearance-ko",
+      "url": "https://www.wherewindsmeetgame.com/kr/news/official/1029appearance.html",
+      "titleOriginal": "[청주에 찾아온 벗] 10월 29일·11월 1일·11월 8일 2.3 버전 신규 외관 목록",
+      "publisher": "NetEase / Where Winds Meet official website",
+      "server": "Global",
+      "displayedPublicationDate": "2026-10-29",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-10-31",
+      "verificationNote": "Full named HTML read. EN explicitly labels UTC+8 for all eleven openings and the Wraithflame/Duskgem listing ends. Korean clocks are one hour ahead without printed timezone. Duskgem opening differs from October 28 poster. Mindful Joy discount end and Lotus Crane discount end are not supplied by this named HTML. Korean web extraction failed; the same public HTML was retrieved directly and read."
     }
   ],
   "mediaRights": {
@@ -9181,8 +9307,8 @@
       "romanization": "Lian Tai He",
       "category": "outfit",
       "sourceId": "cn-20260630-outfits",
-      "officialNameEn": null,
-      "officialNameKo": null,
+      "officialNameEn": "Lotus Crane",
+      "officialNameKo": "연꽃 위의 학",
       "cnRelease": {
         "date": "2026-07-03",
         "precision": "day",
@@ -9279,11 +9405,44 @@
             "en": "Official CN rear view. Entire original frame retained.",
             "ko": "중국 공식 뒷모습입니다. 원본의 전체 구도를 유지했습니다."
           }
+        },
+        {
+          "url": "https://r.res.easebar.com/pic/20261029/9f05bcef-bd37-40a0-a6dc-86389f79926e.png",
+          "width": 1218,
+          "height": 1080,
+          "bytes": 2065574,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceFrame": 0,
+          "sourceCrop": null,
+          "sourceId": "global-20261029-october29-appearance-en",
+          "server": "Global",
+          "inspectionNote": "Named EN/KO official section and selected source artwork visually reviewed on October 31, 2026; female-first crop and full-source composition checked. Preview, not in-game verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/lian-tai-he-4-full.webp",
+          "alt": {
+            "en": "Lotus Crane · official Global appearance reference",
+            "ko": "연꽃 위의 학 · 글로벌 공식 외관 참고 이미지"
+          },
+          "caption": {
+            "en": "Female front-panel crop preserves face, lotus ornament, white layers, teal sleeves and beaded waist. Full front/back artwork remains accessible.",
+            "ko": "얼굴·연꽃 장식·흰색 겹옷·청록색 소매·구슬 허리 장식이 보이는 여성 정면 구도입니다. 앞뒤 모습이 함께 배치된 전체 원본도 볼 수 있습니다."
+          },
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio"
         }
       ],
       "officialVideos": [],
       "wikiDetails": true,
-      "mediaStatus": "verified"
+      "mediaStatus": "verified",
+      "namingNote": {
+        "en": "Official English/Korean names read in the paired October 29 Global named appearance articles. Regional quantities and schedules remain separate from CN.",
+        "ko": "10월 29일 글로벌 영문·한국어 개별 외관 공지에서 공식명을 확인했습니다. 서버별 수량·일정은 중국 사실과 구분합니다."
+      },
+      "searchAliases": [
+        "Lotus Crane",
+        "연꽃 위의 학",
+        "연대학"
+      ]
     },
     {
       "id": "zi-yu-xiang-man",
@@ -19508,8 +19667,8 @@
       "sourceId": "cn-9ea2f3465dd7",
       "acquisitionServer": "CN",
       "mediaServer": "CN",
-      "officialNameEn": null,
-      "officialNameKo": null,
+      "officialNameEn": "Frost's Glow",
+      "officialNameKo": "깊은 밤의 그림자",
       "cnRelease": {
         "date": "2026-03-06",
         "precision": "day",
@@ -19551,6 +19710,30 @@
           "reusePermission": "unknown",
           "localCopy": null,
           "server": "CN"
+        },
+        {
+          "url": "https://r.res.easebar.com/pic/20261029/719a64cc-96a6-4b93-b789-f1570c203582.png",
+          "width": 1203,
+          "height": 1080,
+          "bytes": 1920974,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceFrame": 0,
+          "sourceCrop": null,
+          "sourceId": "global-20261029-october29-appearance-en",
+          "server": "Global",
+          "inspectionNote": "Named EN/KO official section and selected source artwork visually reviewed on October 31, 2026; female-first crop and full-source composition checked. Preview, not in-game verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/you-ye-chen-ying-1-full.webp",
+          "alt": {
+            "en": "Frost's Glow · official Global appearance reference",
+            "ko": "깊은 밤의 그림자 · 글로벌 공식 외관 참고 이미지"
+          },
+          "caption": {
+            "en": "Female portrait crop shows the dragon-head shoulder plate, gold swirling motifs and red waist tie. Complete paired portrait remains accessible.",
+            "ko": "용머리 어깨 갑옷·금빛 소용돌이 무늬·붉은 허리끈이 보이는 여성 상반신 구도입니다. 남녀가 함께 배치된 전체 원본도 볼 수 있습니다."
+          },
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio"
         }
       ],
       "officialVideos": [],
@@ -19560,7 +19743,16 @@
         "officialName": null,
         "releaseDate": null
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "namingNote": {
+        "en": "Official English/Korean names read in the paired October 29 Global named appearance articles. Regional quantities and schedules remain separate from CN.",
+        "ko": "10월 29일 글로벌 영문·한국어 개별 외관 공지에서 공식명을 확인했습니다. 서버별 수량·일정은 중국 사실과 구분합니다."
+      },
+      "searchAliases": [
+        "Frost's Glow",
+        "깊은 밤의 그림자",
+        "幽夜尘影"
+      ]
     },
     {
       "id": "zhong-ming-zheng-yin",
@@ -22637,8 +22829,8 @@
       "sourceId": "cn-20260514-outfits",
       "acquisitionServer": "CN",
       "mediaServer": "CN",
-      "officialNameEn": null,
-      "officialNameKo": null,
+      "officialNameEn": "Mindful Joy",
+      "officialNameKo": "진정한 낙",
       "cnRelease": {
         "date": "2026-05-15",
         "precision": "day",
@@ -22680,6 +22872,30 @@
           "reusePermission": "unknown",
           "localCopy": null,
           "server": "CN"
+        },
+        {
+          "url": "https://r.res.easebar.com/pic/20261029/f9039449-1fa2-41b2-81c8-b515a7ed648d.gif",
+          "width": 720,
+          "height": 324,
+          "bytes": 6846704,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceFrame": 34,
+          "sourceCrop": null,
+          "sourceId": "global-20261029-october29-appearance-en",
+          "server": "Global",
+          "inspectionNote": "Named EN/KO official section and selected source artwork visually reviewed on October 31, 2026; female-first crop and full-source composition checked. Preview, not in-game verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/zhi-le-er-le-1-full.webp",
+          "alt": {
+            "en": "Mindful Joy · official Global appearance reference",
+            "ko": "진정한 낙 · 글로벌 공식 외관 참고 이미지"
+          },
+          "caption": {
+            "en": "Frame 34 captures the broad golden skill burst. A contained crop preserves the effect; the complete frame and original animation link remain accessible.",
+            "ko": "34번 프레임에서 넓게 퍼지는 금빛 스킬을 확인할 수 있습니다. 효과를 썸네일 안에 보존했으며 전체 프레임과 원본 애니메이션 링크도 제공합니다."
+          },
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio"
         }
       ],
       "officialVideos": [],
@@ -22688,7 +22904,16 @@
         "status": "unknown",
         "officialName": null,
         "releaseDate": null
-      }
+      },
+      "namingNote": {
+        "en": "Official English/Korean names read in the paired October 29 Global named appearance articles. Regional quantities and schedules remain separate from CN.",
+        "ko": "10월 29일 글로벌 영문·한국어 개별 외관 공지에서 공식명을 확인했습니다. 서버별 수량·일정은 중국 사실과 구분합니다."
+      },
+      "searchAliases": [
+        "Mindful Joy",
+        "진정한 낙",
+        "知乐而乐"
+      ]
     },
     {
       "id": "xiong-you-cheng-zhu",
@@ -23221,8 +23446,8 @@
       "sourceId": "cn-20260528-outfits",
       "acquisitionServer": "CN",
       "mediaServer": "CN",
-      "officialNameEn": null,
-      "officialNameKo": null,
+      "officialNameEn": "Ace the Boards",
+      "officialNameKo": "과거 시험 완벽 대비",
       "cnRelease": {
         "date": "2026-05-29",
         "precision": "day",
@@ -23264,6 +23489,30 @@
           "reusePermission": "unknown",
           "localCopy": null,
           "server": "CN"
+        },
+        {
+          "url": "https://r.res.easebar.com/pic/20261029/e4568404-d9f6-4cb0-8c9b-e8daff6c134c.png",
+          "width": 1424,
+          "height": 1288,
+          "bytes": 2756329,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceFrame": 0,
+          "sourceCrop": null,
+          "sourceId": "global-20261029-october29-appearance-en",
+          "server": "Global",
+          "inspectionNote": "Named EN/KO official section and selected source artwork visually reviewed on October 31, 2026; female-first crop and full-source composition checked. Preview, not in-game verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wu-nian-ke-kao-san-nian-mo-ni-1-full.webp",
+          "alt": {
+            "en": "Ace the Boards · official Global appearance reference",
+            "ko": "과거 시험 완벽 대비 · 글로벌 공식 외관 참고 이미지"
+          },
+          "caption": {
+            "en": "Female panel shows the open book fan and printed pages; full paired male/female artwork remains accessible.",
+            "ko": "펼친 책 부채와 인쇄된 면이 보이는 여성 구도입니다. 남녀가 함께 배치된 전체 원본도 볼 수 있습니다."
+          },
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio"
         }
       ],
       "officialVideos": [],
@@ -23273,7 +23522,16 @@
         "officialName": null,
         "releaseDate": null
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "namingNote": {
+        "en": "Official English/Korean names read in the paired October 29 Global named appearance articles. Regional quantities and schedules remain separate from CN.",
+        "ko": "10월 29일 글로벌 영문·한국어 개별 외관 공지에서 공식명을 확인했습니다. 서버별 수량·일정은 중국 사실과 구분합니다."
+      },
+      "searchAliases": [
+        "Ace the Boards",
+        "과거 시험 완벽 대비",
+        "五年科考三年模拟"
+      ]
     },
     {
       "id": "yi-ju-duo-kui",
@@ -23407,8 +23665,8 @@
       "sourceId": "cn-b0bcdbb85576",
       "acquisitionServer": "CN",
       "mediaServer": "CN",
-      "officialNameEn": null,
-      "officialNameKo": null,
+      "officialNameEn": "Wraithflame",
+      "officialNameKo": "귀수의 연화",
       "cnRelease": {
         "date": "2026-06-12",
         "precision": "day",
@@ -23450,6 +23708,30 @@
           "reusePermission": "unknown",
           "localCopy": null,
           "server": "CN"
+        },
+        {
+          "url": "https://r.res.easebar.com/pic/20261029/0c2bad98-0c64-454c-a260-3978c8aff7bc.png",
+          "width": 1820,
+          "height": 1080,
+          "bytes": 3561970,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceFrame": 0,
+          "sourceCrop": null,
+          "sourceId": "global-20261029-october29-appearance-en",
+          "server": "Global",
+          "inspectionNote": "Named EN/KO official section and selected source artwork visually reviewed on October 31, 2026; female-first crop and full-source composition checked. Preview, not in-game verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/gui-shou-fen-lian-1-full.webp",
+          "alt": {
+            "en": "Wraithflame · official Global appearance reference",
+            "ko": "귀수의 연화 · 글로벌 공식 외관 참고 이미지"
+          },
+          "caption": {
+            "en": "Female front-panel crop preserves face, skeletal hand mask, burning red shoulder, dark armor and red cape. Full three-panel artwork remains accessible.",
+            "ko": "얼굴·해골 손 가면·붉게 타는 어깨·검은 갑옷·붉은 망토가 보이는 여성 정면 구도입니다. 세 구도가 함께 배치된 전체 원본도 볼 수 있습니다."
+          },
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio"
         }
       ],
       "officialVideos": [],
@@ -23459,7 +23741,16 @@
         "officialName": null,
         "releaseDate": null
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "namingNote": {
+        "en": "Official English/Korean names read in the paired October 29 Global named appearance articles. Regional quantities and schedules remain separate from CN.",
+        "ko": "10월 29일 글로벌 영문·한국어 개별 외관 공지에서 공식명을 확인했습니다. 서버별 수량·일정은 중국 사실과 구분합니다."
+      },
+      "searchAliases": [
+        "Wraithflame",
+        "귀수의 연화",
+        "鬼手焚莲"
+      ]
     },
     {
       "id": "wan-laizuo-xuan-gui",
@@ -23469,8 +23760,8 @@
       "sourceId": "cn-b0bcdbb85576",
       "acquisitionServer": "CN",
       "mediaServer": "CN",
-      "officialNameEn": null,
-      "officialNameKo": null,
+      "officialNameEn": "Myriad Sounds: Wrought Obsidian",
+      "officialNameKo": "만물의 소리-현옥의 기품",
       "cnRelease": {
         "date": "2026-06-12",
         "precision": "day",
@@ -23512,6 +23803,30 @@
           "reusePermission": "unknown",
           "localCopy": null,
           "server": "CN"
+        },
+        {
+          "url": "https://r.res.easebar.com/pic/20261029/28acd06d-0059-41b8-8aba-ebffacaa4561.png",
+          "width": 1080,
+          "height": 1350,
+          "bytes": 2005539,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceFrame": 0,
+          "sourceCrop": null,
+          "sourceId": "global-20261029-october29-appearance-en",
+          "server": "Global",
+          "inspectionNote": "Named EN/KO official section and selected source artwork visually reviewed on October 31, 2026; female-first crop and full-source composition checked. Preview, not in-game verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wan-laizuo-xuan-gui-1-full.webp",
+          "alt": {
+            "en": "Myriad Sounds: Wrought Obsidian · official Global appearance reference",
+            "ko": "만물의 소리-현옥의 기품 · 글로벌 공식 외관 참고 이미지"
+          },
+          "caption": {
+            "en": "Female lower panel preserves the dark blade and icy silver accents. A contained thumbnail avoids cutting the weapon; full two-panel artwork remains accessible.",
+            "ko": "어두운 칼날과 얼음빛 은색 장식을 보존한 여성 아래 구도입니다. 무기를 자르지 않고 썸네일 안에 맞췄으며 두 구도가 담긴 전체 원본도 볼 수 있습니다."
+          },
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio"
         }
       ],
       "officialVideos": [],
@@ -23523,9 +23838,14 @@
       },
       "wikiDetails": true,
       "namingNote": {
-        "en": "Provisional reading of the CN name; no item-specific official Global name verified.",
-        "ko": "중국 원명의 임시 독음이며 해당 외관의 글로벌 공식명은 미확인입니다."
-      }
+        "en": "Official English/Korean names read in the paired October 29 Global named appearance articles. Regional quantities and schedules remain separate from CN.",
+        "ko": "10월 29일 글로벌 영문·한국어 개별 외관 공지에서 공식명을 확인했습니다. 서버별 수량·일정은 중국 사실과 구분합니다."
+      },
+      "searchAliases": [
+        "Myriad Sounds: Wrought Obsidian",
+        "만물의 소리-현옥의 기품",
+        "만뢰 · 탁현규"
+      ]
     },
     {
       "id": "wan-laipei-cang-long",
@@ -23535,8 +23855,8 @@
       "sourceId": "cn-b0bcdbb85576",
       "acquisitionServer": "CN",
       "mediaServer": "CN",
-      "officialNameEn": null,
-      "officialNameKo": null,
+      "officialNameEn": "Myriad Sounds: Azure Dragon",
+      "officialNameKo": "만물의 소리-푸른 청룡",
       "cnRelease": {
         "date": "2026-06-12",
         "precision": "day",
@@ -23578,6 +23898,30 @@
           "reusePermission": "unknown",
           "localCopy": null,
           "server": "CN"
+        },
+        {
+          "url": "https://r.res.easebar.com/pic/20261029/e4745a42-80e1-416f-bfbe-9b3ccf1a2d67.png",
+          "width": 1080,
+          "height": 1350,
+          "bytes": 1841837,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceFrame": 0,
+          "sourceCrop": null,
+          "sourceId": "global-20261029-october29-appearance-en",
+          "server": "Global",
+          "inspectionNote": "Named EN/KO official section and selected source artwork visually reviewed on October 31, 2026; female-first crop and full-source composition checked. Preview, not in-game verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wan-laipei-cang-long-1-full.webp",
+          "alt": {
+            "en": "Myriad Sounds: Azure Dragon · official Global appearance reference",
+            "ko": "만물의 소리-푸른 청룡 · 글로벌 공식 외관 참고 이미지"
+          },
+          "caption": {
+            "en": "Female top panel preserves the complete icy long blade. A contained thumbnail avoids cutting the weapon; full two-panel artwork remains accessible.",
+            "ko": "얼음빛 긴 칼날이 모두 보이는 여성 윗구도입니다. 무기를 자르지 않고 썸네일 안에 맞췄으며 두 구도가 담긴 전체 원본도 볼 수 있습니다."
+          },
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio"
         }
       ],
       "officialVideos": [],
@@ -23589,9 +23933,14 @@
       },
       "wikiDetails": true,
       "namingNote": {
-        "en": "Provisional reading of the CN name; no item-specific official Global name verified.",
-        "ko": "중국 원명의 임시 독음이며 해당 외관의 글로벌 공식명은 미확인입니다."
-      }
+        "en": "Official English/Korean names read in the paired October 29 Global named appearance articles. Regional quantities and schedules remain separate from CN.",
+        "ko": "10월 29일 글로벌 영문·한국어 개별 외관 공지에서 공식명을 확인했습니다. 서버별 수량·일정은 중국 사실과 구분합니다."
+      },
+      "searchAliases": [
+        "Myriad Sounds: Azure Dragon",
+        "만물의 소리-푸른 청룡",
+        "만뢰 · 패창룡"
+      ]
     },
     {
       "id": "shuang-yue-yin",
@@ -23847,8 +24196,8 @@
       "sourceId": "cn-c2133042ccf0",
       "acquisitionServer": "CN",
       "mediaServer": "CN",
-      "officialNameEn": null,
-      "officialNameKo": null,
+      "officialNameEn": "Duskgem: Petrichor Bloom",
+      "officialNameKo": "흑옥-바위틈의 향기",
       "cnRelease": {
         "date": null,
         "precision": "unknown",
@@ -23890,6 +24239,30 @@
           "reusePermission": "unknown",
           "localCopy": null,
           "server": "CN"
+        },
+        {
+          "url": "https://r.res.easebar.com/pic/20261029/f5b17f2b-5942-48b1-bac4-ce32e4997d04.png",
+          "width": 1080,
+          "height": 1350,
+          "bytes": 1861392,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceFrame": 0,
+          "sourceCrop": null,
+          "sourceId": "global-20261029-october29-appearance-en",
+          "server": "Global",
+          "inspectionNote": "Named EN/KO official section and selected source artwork visually reviewed on October 31, 2026; female-first crop and full-source composition checked. Preview, not in-game verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/xuan-yingyou-shi-sheng-fang-1-full.webp",
+          "alt": {
+            "en": "Duskgem: Petrichor Bloom · official Global appearance reference",
+            "ko": "흑옥-바위틈의 향기 · 글로벌 공식 외관 참고 이미지"
+          },
+          "caption": {
+            "en": "Female spear panel preserves the complete long blue-and-gold shaft and tip using a contained thumbnail. Full paired artwork remains accessible.",
+            "ko": "여성 창 구도는 파란색·금색의 긴 자루와 끝부분을 썸네일 안에 모두 보존합니다. 전체 원본도 볼 수 있습니다."
+          },
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio"
         }
       ],
       "officialVideos": [],
@@ -23901,9 +24274,14 @@
       },
       "wikiDetails": true,
       "namingNote": {
-        "en": "Provisional reading of the CN name; no official Global name verified.",
-        "ko": "중국 원명의 임시 독음이며 글로벌 공식명은 확인하지 못했습니다."
-      }
+        "en": "Official English/Korean names read in the paired October 29 Global named appearance articles. Regional quantities and schedules remain separate from CN.",
+        "ko": "10월 29일 글로벌 영문·한국어 개별 외관 공지에서 공식명을 확인했습니다. 서버별 수량·일정은 중국 사실과 구분합니다."
+      },
+      "searchAliases": [
+        "Duskgem: Petrichor Bloom",
+        "흑옥-바위틈의 향기",
+        "현영 · 유석생방"
+      ]
     },
     {
       "id": "xuan-yinggou-yue-xian-xian",
@@ -25735,8 +26113,8 @@
       "sourceId": "cn-20260806-outfits",
       "acquisitionServer": "CN",
       "mediaServer": "CN",
-      "officialNameEn": null,
-      "officialNameKo": null,
+      "officialNameEn": "Duskgem: Celestial Mirage",
+      "officialNameKo": "흑옥-달빛 거울",
       "cnRelease": {
         "date": "2026-08-07",
         "precision": "day",
@@ -25778,6 +26156,30 @@
           "reusePermission": "unknown",
           "localCopy": null,
           "server": "CN"
+        },
+        {
+          "url": "https://r.res.easebar.com/pic/20261029/d8a79bcd-1c0b-499e-b103-a4c0708bbf19.png",
+          "width": 1920,
+          "height": 1080,
+          "bytes": 3326266,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceFrame": 0,
+          "sourceCrop": null,
+          "sourceId": "global-20261029-october29-appearance-en",
+          "server": "Global",
+          "inspectionNote": "Named EN/KO official section and selected source artwork visually reviewed on October 31, 2026; female-first crop and full-source composition checked. Preview, not in-game verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/xuan-yingyao-tai-fei-jing-1-full.webp",
+          "alt": {
+            "en": "Duskgem: Celestial Mirage · official Global appearance reference",
+            "ko": "흑옥-달빛 거울 · 글로벌 공식 외관 참고 이미지"
+          },
+          "caption": {
+            "en": "Female waist-drum panel shows the blue crystalline disc, gold rim and ribbon. The complete two-view source is retained.",
+            "ko": "푸른 수정 원판·금빛 테두리·띠가 보이는 여성 요고 구도입니다. 두 구도가 함께 배치된 전체 원본을 보존합니다."
+          },
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio"
         }
       ],
       "officialVideos": [],
@@ -25787,7 +26189,16 @@
         "officialName": null,
         "releaseDate": null
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "namingNote": {
+        "en": "Official English/Korean names read in the paired October 29 Global named appearance articles. Regional quantities and schedules remain separate from CN.",
+        "ko": "10월 29일 글로벌 영문·한국어 개별 외관 공지에서 공식명을 확인했습니다. 서버별 수량·일정은 중국 사실과 구분합니다."
+      },
+      "searchAliases": [
+        "Duskgem: Celestial Mirage",
+        "흑옥-달빛 거울",
+        "玄瑛·瑶台飞镜"
+      ]
     },
     {
       "id": "chi-xue-liu-dan",
@@ -55732,7 +56143,7 @@
         "precision": "day",
         "timezone": null,
         "contextual": false,
-        "basis": "Explicit planned listing in the named official CN appearance announcement; actual release confirmation pending."
+        "basis": "October 23 is the original announced listing date. The October 30 named outfit correction corroborates presence by that patch; the exact actual first release day remains unknown."
       },
       "acquisition": {
         "kind": "exchange_shop",
@@ -55746,8 +56157,8 @@
           "original": "和鸣商店"
         },
         "conditions": {
-          "en": "Exchange for 2 Harmonic Cores in the CN Harmony Shop; also obtainable by chance from Harmony draws, with odds and draw quantities unstated. Announced for 80 days after the October 23, 2026 update; an exact closing clock is not supplied by this article. Supports separate top/bottom and rainbow dyeing. Includes hair, ear, back and waist accessories, a mantle, makeup, a settlement presentation and an animated player avatar. A tailored variant is still being refined; its release date is unknown. The October 23 patch poster explicitly gives the exchange end as January 11, 2027 04:59:59; timezone unstated. The date is directly printed, not calculated from the 80-day duration.",
-          "ko": "중국 공명 상점에서 공명 구슬 2개로 교환하며 공명 뽑기에서도 확률적으로 획득합니다. 확률·회당 수량은 미표기입니다. 2026년 10월 23일 업데이트 후 80일 한정 예고이며 이 개별 공지에는 정확한 종료 시각이 없습니다. 상하의 분리·무지개 염색을 지원하며 머리·귀·등·허리 장식, 걸침 장식·화장·결산 연출·주인공 동적 프로필을 포함합니다. 재단 버전은 개선 중이며 출시일은 미정입니다. 10월 23일 패치 이미지에 교환 종료가 2027년 1월 11일 04:59:59로 명시되며 시간대는 미표기입니다. 80일을 계산한 날짜가 아닌 직접 명시된 일정입니다."
+          "en": "Exchange for 2 Harmonic Cores in the CN Harmony Shop; also obtainable by chance from Harmony draws, with odds and draw quantities unstated. Announced for 80 days after the October 23, 2026 update; an exact closing clock is not supplied by this article. Supports separate top/bottom and rainbow dyeing. Includes hair, ear, back and waist accessories, a mantle, makeup, a settlement presentation and an animated player avatar. The October 30 patch adds the tailored style Tian Xing Che Ye (天星澈夜); its exact first availability instant is unstated. The October 23 patch poster explicitly gives the exchange end as January 11, 2027 04:59:59; timezone unstated. The date is directly printed, not calculated from the 80-day duration.",
+          "ko": "중국 공명 상점에서 공명 구슬 2개로 교환하며 공명 뽑기에서도 확률적으로 획득합니다. 확률·회당 수량은 미표기입니다. 2026년 10월 23일 업데이트 후 80일 한정 예고이며 이 개별 공지에는 정확한 종료 시각이 없습니다. 상하의 분리·무지개 염색을 지원하며 머리·귀·등·허리 장식, 걸침 장식·화장·결산 연출·주인공 동적 프로필을 포함합니다. 10월 30일 패치에서 재단 스타일 천성철야(天星澈夜) 추가를 명시했으며 정확한 최초 제공 시각은 미표기입니다. 10월 23일 패치 이미지에 교환 종료가 2027년 1월 11일 04:59:59로 명시되며 시간대는 미표기입니다. 80일을 계산한 날짜가 아닌 직접 명시된 일정입니다."
         },
         "en": "Official CN announcement terms; consult the purchase and reward conditions.",
         "ko": "중국 공식 예고의 획득 조건이며 구매·보상 세부 조건을 확인하세요."
@@ -55852,7 +56263,7 @@
         "precision": "day",
         "timezone": null,
         "contextual": false,
-        "basis": "Explicit planned listing in the named official CN appearance announcement; actual release confirmation pending."
+        "basis": "October 23 is the original announced listing date. The October 30 named outfit correction corroborates presence by that patch; the exact actual first release day remains unknown."
       },
       "acquisition": {
         "kind": "shop",
@@ -56540,6 +56951,498 @@
         "Huang Jin Yan",
         "황금안"
       ]
+    },
+    {
+      "id": "zhu-ma-zi",
+      "nameOriginal": "竹马子",
+      "romanization": "Zhu Ma Zi",
+      "category": "outfit",
+      "sourceId": "cn-20261028-october30-appearances",
+      "acquisitionServer": "CN",
+      "mediaServer": "CN",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": "2026-10-30",
+        "precision": "day",
+        "timezone": null,
+        "contextual": false,
+        "basis": "Explicit planned listing after the October 30, 2026 update in the named CN announcement and patch poster. Actual release confirmation pending."
+      },
+      "acquisition": {
+        "kind": "shop",
+        "pricing": "fixed",
+        "amount": 60,
+        "regularAmount": null,
+        "currencyOriginal": "长鸣珠",
+        "location": {
+          "en": "Shop",
+          "ko": "상점",
+          "original": "商店"
+        },
+        "conditions": {
+          "en": "CN Shop outfit for 60 Echo Beads, announced after the October 30, 2026 update. Supports separate top/bottom and dyeing. No sale end or timezone is stated. The announcement alone does not verify actual release or current in-game availability.",
+          "ko": "중국 상점에서 장명주 60개로 구매하는 의상이며 2026년 10월 30일 업데이트 후 출시 예고입니다. 상하의 분리·염색을 지원합니다. 판매 종료·시간대는 미표기이며 공지만으로 실제 출시나 현재 게임 내 획득 여부를 확인한 것은 아닙니다."
+        },
+        "en": "Official CN announcement terms.",
+        "ko": "중국 공식 예고의 획득 조건입니다."
+      },
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20261030/cfd26c64-5283-4cdf-8a02-684c2582941d.png",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 3513314,
+          "kind": "official_appearance_reference",
+          "sourceId": "cn-20261028-october30-appearances",
+          "server": "CN",
+          "visuallyInspected": true,
+          "inspectionNote": "October 31, 2026 Asia/Seoul: named article section, original photograph and optimized presentation/thumbnail inspected. Female references lead each gallery; complete standalone composition retained. No in-game availability or Global identity verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/zhu-ma-zi-0-full.webp",
+          "alt": {
+            "en": "Zhu Ma Zi · official CN appearance reference",
+            "ko": "죽마자 · 중국 공식 외관 참고 사진"
+          },
+          "caption": {
+            "en": "Female front portrait of the green bamboo outfit. Official CN development preview; final game appearance may differ. Complete source composition is retained in enlargement; original artwork remains accessible through its source link. Provisional English/Korean names.",
+            "ko": "초록색 대나무 의상을 입은 여성 정면 사진입니다. 중국 공식 개발 미리보기이며 최종 게임 내 모습과 다를 수 있습니다. 확대에서 원본 구도를 유지하며 출처 링크에서 원본 사진을 확인할 수 있습니다. 영문·한국어 이름은 편의 독음입니다."
+          },
+          "attribution": "燕云十六声 / NetEase / Everstone Studio"
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20261030/b980d863-e01c-4f05-b717-be658dab34b7.png",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 3545873,
+          "kind": "official_appearance_reference",
+          "sourceId": "cn-20261028-october30-appearances",
+          "server": "CN",
+          "visuallyInspected": true,
+          "inspectionNote": "October 31, 2026 Asia/Seoul: named article section, original photograph and optimized presentation/thumbnail inspected. Female references lead each gallery; complete standalone composition retained. No in-game availability or Global identity verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/zhu-ma-zi-1-full.webp",
+          "alt": {
+            "en": "Zhu Ma Zi · official CN appearance reference",
+            "ko": "죽마자 · 중국 공식 외관 참고 사진"
+          },
+          "caption": {
+            "en": "Female rear view showing bamboo embroidery and braided waist ties. Official CN development preview; final game appearance may differ. Complete source composition is retained in enlargement; original artwork remains accessible through its source link. Provisional English/Korean names.",
+            "ko": "대나무 자수와 땋은 허리끈을 보여 주는 여성 뒷모습입니다. 중국 공식 개발 미리보기이며 최종 게임 내 모습과 다를 수 있습니다. 확대에서 원본 구도를 유지하며 출처 링크에서 원본 사진을 확인할 수 있습니다. 영문·한국어 이름은 편의 독음입니다."
+          },
+          "attribution": "燕云十六声 / NetEase / Everstone Studio"
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20261030/717350ff-ab78-4e09-8eae-8844b48c9caf.png",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 3549194,
+          "kind": "official_appearance_reference",
+          "sourceId": "cn-20261028-october30-appearances",
+          "server": "CN",
+          "visuallyInspected": true,
+          "inspectionNote": "October 31, 2026 Asia/Seoul: named article section, original photograph and optimized presentation/thumbnail inspected. Female references lead each gallery; complete standalone composition retained. No in-game availability or Global identity verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/zhu-ma-zi-2-full.webp",
+          "alt": {
+            "en": "Zhu Ma Zi · official CN appearance reference",
+            "ko": "죽마자 · 중국 공식 외관 참고 사진"
+          },
+          "caption": {
+            "en": "Male front portrait showing the asymmetric bamboo outfit and tassels. Official CN development preview; final game appearance may differ. Complete source composition is retained in enlargement; original artwork remains accessible through its source link. Provisional English/Korean names.",
+            "ko": "비대칭 대나무 의상과 술을 보여 주는 남성 정면 사진입니다. 중국 공식 개발 미리보기이며 최종 게임 내 모습과 다를 수 있습니다. 확대에서 원본 구도를 유지하며 출처 링크에서 원본 사진을 확인할 수 있습니다. 영문·한국어 이름은 편의 독음입니다."
+          },
+          "attribution": "燕云十六声 / NetEase / Everstone Studio"
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20261030/e58e732b-4a42-4686-aa55-ca38f3e35dfd.png",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 3337173,
+          "kind": "official_appearance_reference",
+          "sourceId": "cn-20261028-october30-appearances",
+          "server": "CN",
+          "visuallyInspected": true,
+          "inspectionNote": "October 31, 2026 Asia/Seoul: named article section, original photograph and optimized presentation/thumbnail inspected. Female references lead each gallery; complete standalone composition retained. No in-game availability or Global identity verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/zhu-ma-zi-3-full.webp",
+          "alt": {
+            "en": "Zhu Ma Zi · official CN appearance reference",
+            "ko": "죽마자 · 중국 공식 외관 참고 사진"
+          },
+          "caption": {
+            "en": "Male rear view showing the bamboo embroidery. Official CN development preview; final game appearance may differ. Complete source composition is retained in enlargement; original artwork remains accessible through its source link. Provisional English/Korean names.",
+            "ko": "대나무 자수를 보여 주는 남성 뒷모습입니다. 중국 공식 개발 미리보기이며 최종 게임 내 모습과 다를 수 있습니다. 확대에서 원본 구도를 유지하며 출처 링크에서 원본 사진을 확인할 수 있습니다. 영문·한국어 이름은 편의 독음입니다."
+          },
+          "attribution": "燕云十六声 / NetEase / Everstone Studio"
+        }
+      ],
+      "officialVideos": [],
+      "mediaStatus": "verified",
+      "searchAliases": [
+        "竹马子",
+        "Zhu Ma Zi",
+        "죽마자"
+      ],
+      "namingNote": {
+        "en": "Provisional readings of the official CN name; no official English/Korean name or Global counterpart verified.",
+        "ko": "중국 공식 원명의 편의 독음이며 공식 영문·한국어 이름과 글로벌 대응은 미확인입니다."
+      }
+    },
+    {
+      "id": "wan-lai-xuan-bing-po",
+      "nameOriginal": "万籁·玄冰破",
+      "romanization": "Wan Lai · Xuan Bing Po",
+      "category": "weapon_skin",
+      "sourceId": "cn-20261028-october30-appearances",
+      "acquisitionServer": "CN",
+      "mediaServer": "CN",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": "2026-10-30",
+        "precision": "day",
+        "timezone": null,
+        "contextual": false,
+        "basis": "Explicit planned listing after the October 30, 2026 update in the named CN announcement and patch poster. Actual release confirmation pending."
+      },
+      "acquisition": {
+        "kind": "shop",
+        "pricing": "fixed",
+        "amount": 1280,
+        "regularAmount": null,
+        "currencyOriginal": "长鸣珠",
+        "location": {
+          "en": "Shop",
+          "ko": "상점",
+          "original": "商店"
+        },
+        "conditions": {
+          "en": "CN spear appearance for 1,280 Echo Beads in the Shop, announced after the October 30, 2026 update. This is the individual spear price; the sword is sold separately. No sale end or timezone is stated. Actual release and current in-game availability remain unverified.",
+          "ko": "중국 상점에서 장명주 1,280개로 구매하는 창 외관이며 2026년 10월 30일 업데이트 후 출시 예고입니다. 창 1종의 개별 가격이며 검은 별도 구매입니다. 판매 종료·시간대는 미표기이고 실제 출시·현재 게임 내 획득 여부는 미확인입니다."
+        },
+        "en": "Official CN announcement terms.",
+        "ko": "중국 공식 예고의 획득 조건입니다."
+      },
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20261030/7240fd8a-0add-4f38-8805-311eb348fb7c.jpg",
+          "width": 2880,
+          "height": 5120,
+          "bytes": 15136705,
+          "kind": "official_appearance_reference",
+          "sourceId": "cn-20261028-october30-appearances",
+          "server": "CN",
+          "visuallyInspected": true,
+          "inspectionNote": "October 31, 2026 Asia/Seoul: named article section, original photograph and optimized presentation/thumbnail inspected. Female references lead each gallery; complete standalone composition retained. No in-game availability or Global identity verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wan-lai-xuan-bing-po-0-full.webp",
+          "alt": {
+            "en": "Wan Lai · Xuan Bing Po · official CN appearance reference",
+            "ko": "만뢰·현빙파 · 중국 공식 외관 참고 사진"
+          },
+          "caption": {
+            "en": "Female rear view showing the complete ice-blue spear and its luminous circular detail. The pictured outfit is separate. Official CN development preview; final game appearance may differ. Complete source composition is retained in enlargement; original artwork remains accessible through its source link. Provisional English/Korean names.",
+            "ko": "얼음빛 창 전체와 빛나는 원형 장식을 보여 주는 여성 뒷모습입니다. 사진 속 의상은 별도입니다. 중국 공식 개발 미리보기이며 최종 게임 내 모습과 다를 수 있습니다. 확대에서 원본 구도를 유지하며 출처 링크에서 원본 사진을 확인할 수 있습니다. 영문·한국어 이름은 편의 독음입니다."
+          },
+          "attribution": "燕云十六声 / NetEase / Everstone Studio"
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20261030/1f64e940-8df7-4fd8-85f9-c602f1e928e6.png",
+          "width": 5120,
+          "height": 2880,
+          "bytes": 21833006,
+          "kind": "official_appearance_reference",
+          "sourceId": "cn-20261028-october30-appearances",
+          "server": "CN",
+          "visuallyInspected": true,
+          "inspectionNote": "October 31, 2026 Asia/Seoul: named article section, original photograph and optimized presentation/thumbnail inspected. Female references lead each gallery; complete standalone composition retained. No in-game availability or Global identity verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wan-lai-xuan-bing-po-1-full.webp",
+          "alt": {
+            "en": "Wan Lai · Xuan Bing Po · official CN appearance reference",
+            "ko": "만뢰·현빙파 · 중국 공식 외관 참고 사진"
+          },
+          "caption": {
+            "en": "Male action view showing the long ice-blue spear across a snowy landscape. The pictured outfit is separate. Official CN development preview; final game appearance may differ. Complete source composition is retained in enlargement; original artwork remains accessible through its source link. Provisional English/Korean names.",
+            "ko": "설경에서 긴 얼음빛 창을 든 남성 동작 사진입니다. 사진 속 의상은 별도입니다. 중국 공식 개발 미리보기이며 최종 게임 내 모습과 다를 수 있습니다. 확대에서 원본 구도를 유지하며 출처 링크에서 원본 사진을 확인할 수 있습니다. 영문·한국어 이름은 편의 독음입니다."
+          },
+          "attribution": "燕云十六声 / NetEase / Everstone Studio"
+        }
+      ],
+      "officialVideos": [],
+      "mediaStatus": "verified",
+      "searchAliases": [
+        "万籁·玄冰破",
+        "Wan Lai · Xuan Bing Po",
+        "만뢰·현빙파"
+      ],
+      "namingNote": {
+        "en": "Provisional readings of the official CN name; no official English/Korean name or Global counterpart verified.",
+        "ko": "중국 공식 원명의 편의 독음이며 공식 영문·한국어 이름과 글로벌 대응은 미확인입니다."
+      }
+    },
+    {
+      "id": "wan-lai-kan-qie-yu",
+      "nameOriginal": "万籁·堪切玉",
+      "romanization": "Wan Lai · Kan Qie Yu",
+      "category": "weapon_skin",
+      "sourceId": "cn-20261028-october30-appearances",
+      "acquisitionServer": "CN",
+      "mediaServer": "CN",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": "2026-10-30",
+        "precision": "day",
+        "timezone": null,
+        "contextual": false,
+        "basis": "Explicit planned listing after the October 30, 2026 update in the named CN announcement and patch poster. Actual release confirmation pending."
+      },
+      "acquisition": {
+        "kind": "shop",
+        "pricing": "fixed",
+        "amount": 1280,
+        "regularAmount": null,
+        "currencyOriginal": "长鸣珠",
+        "location": {
+          "en": "Shop",
+          "ko": "상점",
+          "original": "商店"
+        },
+        "conditions": {
+          "en": "CN sword appearance for 1,280 Echo Beads in the Shop, announced after the October 30, 2026 update. This is the individual sword price; the spear is sold separately. No sale end or timezone is stated. Actual release and current in-game availability remain unverified.",
+          "ko": "중국 상점에서 장명주 1,280개로 구매하는 검 외관이며 2026년 10월 30일 업데이트 후 출시 예고입니다. 검 1종의 개별 가격이며 창은 별도 구매입니다. 판매 종료·시간대는 미표기이고 실제 출시·현재 게임 내 획득 여부는 미확인입니다."
+        },
+        "en": "Official CN announcement terms.",
+        "ko": "중국 공식 예고의 획득 조건입니다."
+      },
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20261030/e47338d9-a6b4-46c7-a4c8-b301b5e517de.jpg",
+          "width": 2880,
+          "height": 5120,
+          "bytes": 16306829,
+          "kind": "official_appearance_reference",
+          "sourceId": "cn-20261028-october30-appearances",
+          "server": "CN",
+          "visuallyInspected": true,
+          "inspectionNote": "October 31, 2026 Asia/Seoul: named article section, original photograph and optimized presentation/thumbnail inspected. Female references lead each gallery; complete standalone composition retained. No in-game availability or Global identity verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wan-lai-kan-qie-yu-0-full.webp",
+          "alt": {
+            "en": "Wan Lai · Kan Qie Yu · official CN appearance reference",
+            "ko": "만뢰·감절옥 · 중국 공식 외관 참고 사진"
+          },
+          "caption": {
+            "en": "Female rear view showing the complete ice-blue sword and circular guard. The pictured outfit is separate. Official CN development preview; final game appearance may differ. Complete source composition is retained in enlargement; original artwork remains accessible through its source link. Provisional English/Korean names.",
+            "ko": "얼음빛 검 전체와 원형 검격을 보여 주는 여성 뒷모습입니다. 사진 속 의상은 별도입니다. 중국 공식 개발 미리보기이며 최종 게임 내 모습과 다를 수 있습니다. 확대에서 원본 구도를 유지하며 출처 링크에서 원본 사진을 확인할 수 있습니다. 영문·한국어 이름은 편의 독음입니다."
+          },
+          "attribution": "燕云十六声 / NetEase / Everstone Studio"
+        },
+        {
+          "url": "https://nie.res.netease.com/r/pic/20261030/19b4419f-12ca-460e-897f-a2586cfc65fd.jpg",
+          "width": 1440,
+          "height": 2560,
+          "bytes": 4259729,
+          "kind": "official_appearance_reference",
+          "sourceId": "cn-20261028-october30-appearances",
+          "server": "CN",
+          "visuallyInspected": true,
+          "inspectionNote": "October 31, 2026 Asia/Seoul: named article section, original photograph and optimized presentation/thumbnail inspected. Female references lead each gallery; complete standalone composition retained. No in-game availability or Global identity verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/wan-lai-kan-qie-yu-1-full.webp",
+          "alt": {
+            "en": "Wan Lai · Kan Qie Yu · official CN appearance reference",
+            "ko": "만뢰·감절옥 · 중국 공식 외관 참고 사진"
+          },
+          "caption": {
+            "en": "Male front view with the ice-blue sword held across the body. The pictured outfit is separate. Official CN development preview; final game appearance may differ. Complete source composition is retained in enlargement; original artwork remains accessible through its source link. Provisional English/Korean names.",
+            "ko": "얼음빛 검을 몸 앞에 든 남성 정면 사진입니다. 사진 속 의상은 별도입니다. 중국 공식 개발 미리보기이며 최종 게임 내 모습과 다를 수 있습니다. 확대에서 원본 구도를 유지하며 출처 링크에서 원본 사진을 확인할 수 있습니다. 영문·한국어 이름은 편의 독음입니다."
+          },
+          "attribution": "燕云十六声 / NetEase / Everstone Studio"
+        }
+      ],
+      "officialVideos": [],
+      "mediaStatus": "verified",
+      "searchAliases": [
+        "万籁·堪切玉",
+        "Wan Lai · Kan Qie Yu",
+        "만뢰·감절옥"
+      ],
+      "namingNote": {
+        "en": "Provisional readings of the official CN name; no official English/Korean name or Global counterpart verified.",
+        "ko": "중국 공식 원명의 편의 독음이며 공식 영문·한국어 이름과 글로벌 대응은 미확인입니다."
+      }
+    },
+    {
+      "id": "global-ghostlight-pumpkin",
+      "nameOriginal": "Ghostlight Pumpkin",
+      "romanization": "Ghostlight Pumpkin",
+      "category": "accessory",
+      "sourceId": "global-20261029-october29-appearance-en",
+      "acquisitionServer": "Global",
+      "mediaServer": "Global",
+      "officialNameEn": "Ghostlight Pumpkin",
+      "officialNameKo": "호박등 야행",
+      "cnRelease": {
+        "date": null,
+        "precision": "unknown",
+        "timezone": null,
+        "contextual": false,
+        "basis": "CN identity and schedule unverified."
+      },
+      "acquisition": {
+        "kind": "shop",
+        "pricing": "unknown",
+        "amount": null,
+        "regularAmount": null,
+        "currencyOriginal": null,
+        "location": {
+          "en": "Autumn Eve Whimsy Accessory Pack in the Shop",
+          "ko": "상점의 가을밤의 정취 장신구 패키지",
+          "original": "Autumn Eve Whimsy Accessory Pack in the Shop"
+        },
+        "conditions": {
+          "en": "Accessory within Autumn Eve Whimsy. The named appearance article confirms pack membership; the October 30 notice describes October 29 fixes for buying, equipping and Shop visibility of this exact pack. Pack price, separate-item purchase and sale end are unstated.",
+          "ko": "가을밤의 정취에 포함된 장신구입니다. 개별 외관 공지의 구성과 10월 30일 공지의 10월 29일 해당 패키지 구매·착용·상점 노출 오류 수정을 함께 확인했습니다. 패키지 가격·개별 구매·판매 종료는 미표기입니다."
+        },
+        "en": "Official Global item-specific terms.",
+        "ko": "글로벌 공식 공지의 해당 항목별 조건입니다."
+      },
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "images": [
+        {
+          "url": "https://r.res.easebar.com/pic/20261029/f6580cce-8aca-41fe-b894-c287bfe8ee62.png",
+          "width": 1080,
+          "height": 1350,
+          "bytes": 1576577,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceFrame": 0,
+          "sourceCrop": null,
+          "sourceId": "global-20261029-october29-appearance-en",
+          "server": "Global",
+          "inspectionNote": "Named EN/KO official section and selected source artwork visually reviewed on October 31, 2026; female-first crop and full-source composition checked. Preview, not in-game verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/global-ghostlight-pumpkin-0-full.webp",
+          "alt": {
+            "en": "Ghostlight Pumpkin · official Global appearance reference",
+            "ko": "호박등 야행 · 글로벌 공식 외관 참고 이미지"
+          },
+          "caption": {
+            "en": "A deliberate pumpkin-head crop preserves the stem, glowing carved face and shoulders. The complete paired artwork retains the companion candy-earring view.",
+            "ko": "줄기·빛나는 얼굴·어깨를 보존한 호박 머리 부분입니다. 전체 원본에서는 함께 배치된 사탕 귀걸이도 볼 수 있습니다."
+          },
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio"
+        }
+      ],
+      "officialVideos": [],
+      "mediaStatus": "verified",
+      "searchAliases": [
+        "호박등 야행",
+        "Ghostlight Pumpkin"
+      ],
+      "namingNote": {
+        "en": "Official English/Korean names read in the paired October 29 Global named appearance articles. Regional quantities and schedules remain separate from CN.",
+        "ko": "10월 29일 글로벌 영문·한국어 개별 외관 공지에서 공식명을 확인했습니다. 서버별 수량·일정은 중국 사실과 구분합니다."
+      }
+    },
+    {
+      "id": "global-fall-confection",
+      "nameOriginal": "Fall Confection",
+      "romanization": "Fall Confection",
+      "category": "accessory",
+      "sourceId": "global-20261029-october29-appearance-en",
+      "acquisitionServer": "Global",
+      "mediaServer": "Global",
+      "officialNameEn": "Fall Confection",
+      "officialNameKo": "가을 서리 사탕",
+      "cnRelease": {
+        "date": null,
+        "precision": "unknown",
+        "timezone": null,
+        "contextual": false,
+        "basis": "CN identity and schedule unverified."
+      },
+      "acquisition": {
+        "kind": "shop",
+        "pricing": "unknown",
+        "amount": null,
+        "regularAmount": null,
+        "currencyOriginal": null,
+        "location": {
+          "en": "Autumn Eve Whimsy Accessory Pack in the Shop",
+          "ko": "상점의 가을밤의 정취 장신구 패키지",
+          "original": "Autumn Eve Whimsy Accessory Pack in the Shop"
+        },
+        "conditions": {
+          "en": "Accessory within Autumn Eve Whimsy. The named appearance article confirms pack membership; the October 30 notice describes October 29 fixes for buying, equipping and Shop visibility of this exact pack. Pack price, separate-item purchase and sale end are unstated.",
+          "ko": "가을밤의 정취에 포함된 장신구입니다. 개별 외관 공지의 구성과 10월 30일 공지의 10월 29일 해당 패키지 구매·착용·상점 노출 오류 수정을 함께 확인했습니다. 패키지 가격·개별 구매·판매 종료는 미표기입니다."
+        },
+        "en": "Official Global item-specific terms.",
+        "ko": "글로벌 공식 공지의 해당 항목별 조건입니다."
+      },
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "images": [
+        {
+          "url": "https://r.res.easebar.com/pic/20261029/f6580cce-8aca-41fe-b894-c287bfe8ee62.png",
+          "width": 1080,
+          "height": 1350,
+          "bytes": 1576577,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceFrame": 0,
+          "sourceCrop": null,
+          "sourceId": "global-20261029-october29-appearance-en",
+          "server": "Global",
+          "inspectionNote": "Named EN/KO official section and selected source artwork visually reviewed on October 31, 2026; female-first crop and full-source composition checked. Preview, not in-game verification.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/global-fall-confection-0-full.webp",
+          "alt": {
+            "en": "Fall Confection · official Global appearance reference",
+            "ko": "가을 서리 사탕 · 글로벌 공식 외관 참고 이미지"
+          },
+          "caption": {
+            "en": "Female portrait crop preserves the visible gold candy earring and face. The complete paired artwork retains both accessory views.",
+            "ko": "금빛 사탕 귀걸이와 얼굴이 함께 보이는 여성 상반신을 잘랐습니다. 전체 원본에서 두 장신구 구도를 모두 볼 수 있습니다."
+          },
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio"
+        }
+      ],
+      "officialVideos": [],
+      "mediaStatus": "verified",
+      "searchAliases": [
+        "가을 서리 사탕",
+        "Fall Confection"
+      ],
+      "namingNote": {
+        "en": "Official English/Korean names read in the paired October 29 Global named appearance articles. Regional quantities and schedules remain separate from CN.",
+        "ko": "10월 29일 글로벌 영문·한국어 개별 외관 공지에서 공식명을 확인했습니다. 서버별 수량·일정은 중국 사실과 구분합니다."
+      }
     }
   ],
   "contextualOfficialVideos": [

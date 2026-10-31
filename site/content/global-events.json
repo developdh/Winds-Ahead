@@ -3637,12 +3637,14 @@
       "sourceIds": [
         "global-20261010-scarlet-whispers",
         "global-20261015-version23-en",
-        "global-20261015-version23-ko"
+        "global-20261015-version23-ko",
+        "global-20261030-october29-patch-en",
+        "global-20261030-october29-patch-ko"
       ],
       "status": "announced",
       "scope": {
-        "en": "After the October 15, 2026 update (UTC, printed on artwork); opening hour unstated. Battle Pass listing ends November 14, 2026 at 04:59:59 UTC+8. Announcement, not current in-game availability verification.",
-        "ko": "공식 이미지에 표기된 UTC 기준 2026년 10월 15일 업데이트 후 예고이며 시작 시각은 미표기입니다. 강호령 기간은 2026년 11월 14일 04:59:59 UTC+8까지입니다. 예고이며 현재 게임 내 획득 가능 여부를 확인한 기록은 아닙니다."
+        "en": "Announced after the October 15, 2026 update (UTC, printed on artwork); opening hour unstated. The October 29 patch changes the Battle Pass end to November 13, 2026 at 17:59:59 UTC+8. Korean prints the same new clock without a timezone. No current in-game availability check.",
+        "ko": "공식 이미지의 UTC 기준 2026년 10월 15일 업데이트 후 예고이며 시작 시각은 미표기입니다. 10월 29일 패치로 강호령 종료가 2026년 11월 13일 17:59:59 UTC+8로 변경되었습니다. 한국어는 같은 새 시각을 표기하지만 시간대는 미표기입니다. 현재 게임 내 획득 가능 여부는 미확인입니다."
       }
     },
     {
@@ -4073,6 +4075,219 @@
       "scope": {
         "en": "The Lucky Lantern collection route opens October 25, 2026 at 00:00 (UTC+8); the EN/KO posters print 00:00:00 / 01:00:00, and KO has no timezone label. Payout requires collecting all five styles; this calendar date is the route opening, not a guaranteed individual payout day. No in-game verification.",
         "ko": "점등 대길 수집 경로는 2026년 10월 25일 00:00(UTC+8)에 시작하며 영문·한국어 이미지는 00:00:00·01:00:00이고 한국어 시간대는 미표기입니다. 5종 수집 후 지급되며 캘린더 날짜는 경로 시작이지 개별 확정 지급일이 아닙니다. 게임 내 확인은 하지 않았습니다."
+      }
+    },
+    {
+      "id": "released-global-global-ghostlight-pumpkin-2026-10-29",
+      "cosmeticId": "global-ghostlight-pumpkin",
+      "date": "2026-10-29",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "status": "released",
+      "sourceIds": [
+        "global-20261028-october29-en",
+        "global-20261028-october29-ko",
+        "global-20261029-october29-appearance-en",
+        "global-20261029-october29-appearance-ko",
+        "global-20261030-october29-patch-en",
+        "global-20261030-october29-patch-ko"
+      ],
+      "scope": {
+        "en": "October 29 pack opening is stated as 00:00 UTC+8 in the named EN notice (KO 01:00, timezone unstated). The October 30 patch notice explicitly reports October 29 purchase/equip/Shop fixes for this exact accessory pack, supporting release by October 29. Current availability and individual-item sale terms are not checked.",
+        "ko": "개별 영문 공지는 패키지 시작을 10월 29일 00:00 UTC+8로 명시합니다(한국어 01:00, 시간대 미표기). 10월 30일 패치 공지가 해당 장신구 패키지의 10월 29일 구매·착용·상점 오류 수정을 명시하므로 10월 29일까지의 출시를 뒷받침합니다. 현재 획득 여부·개별 판매 조건은 확인하지 않았습니다."
+      }
+    },
+    {
+      "id": "released-global-global-fall-confection-2026-10-29",
+      "cosmeticId": "global-fall-confection",
+      "date": "2026-10-29",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "status": "released",
+      "sourceIds": [
+        "global-20261028-october29-en",
+        "global-20261028-october29-ko",
+        "global-20261029-october29-appearance-en",
+        "global-20261029-october29-appearance-ko",
+        "global-20261030-october29-patch-en",
+        "global-20261030-october29-patch-ko"
+      ],
+      "scope": {
+        "en": "October 29 pack opening is stated as 00:00 UTC+8 in the named EN notice (KO 01:00, timezone unstated). The October 30 patch notice explicitly reports October 29 purchase/equip/Shop fixes for this exact accessory pack, supporting release by October 29. Current availability and individual-item sale terms are not checked.",
+        "ko": "개별 영문 공지는 패키지 시작을 10월 29일 00:00 UTC+8로 명시합니다(한국어 01:00, 시간대 미표기). 10월 30일 패치 공지가 해당 장신구 패키지의 10월 29일 구매·착용·상점 오류 수정을 명시하므로 10월 29일까지의 출시를 뒷받침합니다. 현재 획득 여부·개별 판매 조건은 확인하지 않았습니다."
+      }
+    },
+    {
+      "id": "announced-global-wu-nian-ke-kao-san-nian-mo-ni-2026-10-29",
+      "cosmeticId": "wu-nian-ke-kao-san-nian-mo-ni",
+      "date": "2026-10-29",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "status": "announced",
+      "sourceIds": [
+        "global-20261028-october29-en",
+        "global-20261028-october29-ko",
+        "global-20261029-october29-appearance-en",
+        "global-20261029-october29-appearance-ko"
+      ],
+      "scope": {
+        "en": "Announced opening: 2026-10-29 00:00 UTC+8 in the October 29 named EN HTML; KO says 01:00 without a timezone. Calendar retains day precision. Actual release/current in-game availability is unverified.",
+        "ko": "10월 29일 개별 영문 본문은 2026-10-29 00:00 UTC+8 출시를 예고합니다. 한국어는 01:00이며 시간대 미표기입니다. 캘린더는 날짜 정밀도를 유지합니다. 실제 출시·현재 게임 내 획득 여부는 미확인입니다."
+      }
+    },
+    {
+      "id": "announced-global-xuan-yingyao-tai-fei-jing-2026-10-29",
+      "cosmeticId": "xuan-yingyao-tai-fei-jing",
+      "date": "2026-10-29",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "status": "announced",
+      "sourceIds": [
+        "global-20261028-october29-en",
+        "global-20261028-october29-ko",
+        "global-20261029-october29-appearance-en",
+        "global-20261029-october29-appearance-ko"
+      ],
+      "scope": {
+        "en": "Announced opening: 2026-10-29 00:00 UTC+8 in the October 29 named EN HTML; KO says 01:00 without a timezone. Calendar retains day precision. Actual release/current in-game availability is unverified. Earlier October 28 poster instead prints 05:00:00 EN / 06:00:00 KO with no timezone; retain source disagreement.",
+        "ko": "10월 29일 개별 영문 본문은 2026-10-29 00:00 UTC+8 출시를 예고합니다. 한국어는 01:00이며 시간대 미표기입니다. 캘린더는 날짜 정밀도를 유지합니다. 실제 출시·현재 게임 내 획득 여부는 미확인입니다. 앞선 10월 28일 이미지는 영문 05:00:00·한국어 06:00:00이며 시간대 미표기로, 출처 간 불일치를 보존합니다."
+      }
+    },
+    {
+      "id": "announced-global-xuan-yingyou-shi-sheng-fang-2026-10-29",
+      "cosmeticId": "xuan-yingyou-shi-sheng-fang",
+      "date": "2026-10-29",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "status": "announced",
+      "sourceIds": [
+        "global-20261028-october29-en",
+        "global-20261028-october29-ko",
+        "global-20261029-october29-appearance-en",
+        "global-20261029-october29-appearance-ko"
+      ],
+      "scope": {
+        "en": "Announced opening: 2026-10-29 00:00 UTC+8 in the October 29 named EN HTML; KO says 01:00 without a timezone. Calendar retains day precision. Actual release/current in-game availability is unverified. Earlier October 28 poster instead prints 05:00:00 EN / 06:00:00 KO with no timezone; retain source disagreement.",
+        "ko": "10월 29일 개별 영문 본문은 2026-10-29 00:00 UTC+8 출시를 예고합니다. 한국어는 01:00이며 시간대 미표기입니다. 캘린더는 날짜 정밀도를 유지합니다. 실제 출시·현재 게임 내 획득 여부는 미확인입니다. 앞선 10월 28일 이미지는 영문 05:00:00·한국어 06:00:00이며 시간대 미표기로, 출처 간 불일치를 보존합니다."
+      }
+    },
+    {
+      "id": "announced-global-gui-shou-fen-lian-2026-11-01",
+      "cosmeticId": "gui-shou-fen-lian",
+      "date": "2026-11-01",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "status": "announced",
+      "sourceIds": [
+        "global-20261028-october29-en",
+        "global-20261028-october29-ko",
+        "global-20261029-october29-appearance-en",
+        "global-20261029-october29-appearance-ko"
+      ],
+      "scope": {
+        "en": "Announced opening: 2026-11-01 00:00 UTC+8 in the October 29 named EN HTML; KO says 01:00 without a timezone. Calendar retains day precision. Actual release/current in-game availability is unverified.",
+        "ko": "10월 29일 개별 영문 본문은 2026-11-01 00:00 UTC+8 출시를 예고합니다. 한국어는 01:00이며 시간대 미표기입니다. 캘린더는 날짜 정밀도를 유지합니다. 실제 출시·현재 게임 내 획득 여부는 미확인입니다."
+      }
+    },
+    {
+      "id": "announced-global-you-ye-chen-ying-2026-11-01",
+      "cosmeticId": "you-ye-chen-ying",
+      "date": "2026-11-01",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "status": "announced",
+      "sourceIds": [
+        "global-20261028-october29-en",
+        "global-20261028-october29-ko",
+        "global-20261029-october29-appearance-en",
+        "global-20261029-october29-appearance-ko"
+      ],
+      "scope": {
+        "en": "Announced opening: 2026-11-01 00:00 UTC+8 in the October 29 named EN HTML; KO says 01:00 without a timezone. Calendar retains day precision. Actual release/current in-game availability is unverified.",
+        "ko": "10월 29일 개별 영문 본문은 2026-11-01 00:00 UTC+8 출시를 예고합니다. 한국어는 01:00이며 시간대 미표기입니다. 캘린더는 날짜 정밀도를 유지합니다. 실제 출시·현재 게임 내 획득 여부는 미확인입니다."
+      }
+    },
+    {
+      "id": "announced-global-wan-laizuo-xuan-gui-2026-11-01",
+      "cosmeticId": "wan-laizuo-xuan-gui",
+      "date": "2026-11-01",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "status": "announced",
+      "sourceIds": [
+        "global-20261028-october29-en",
+        "global-20261028-october29-ko",
+        "global-20261029-october29-appearance-en",
+        "global-20261029-october29-appearance-ko"
+      ],
+      "scope": {
+        "en": "Announced opening: 2026-11-01 00:00 UTC+8 in the October 29 named EN HTML; KO says 01:00 without a timezone. Calendar retains day precision. Actual release/current in-game availability is unverified.",
+        "ko": "10월 29일 개별 영문 본문은 2026-11-01 00:00 UTC+8 출시를 예고합니다. 한국어는 01:00이며 시간대 미표기입니다. 캘린더는 날짜 정밀도를 유지합니다. 실제 출시·현재 게임 내 획득 여부는 미확인입니다."
+      }
+    },
+    {
+      "id": "announced-global-wan-laipei-cang-long-2026-11-01",
+      "cosmeticId": "wan-laipei-cang-long",
+      "date": "2026-11-01",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "status": "announced",
+      "sourceIds": [
+        "global-20261028-october29-en",
+        "global-20261028-october29-ko",
+        "global-20261029-october29-appearance-en",
+        "global-20261029-october29-appearance-ko"
+      ],
+      "scope": {
+        "en": "Announced opening: 2026-11-01 00:00 UTC+8 in the October 29 named EN HTML; KO says 01:00 without a timezone. Calendar retains day precision. Actual release/current in-game availability is unverified.",
+        "ko": "10월 29일 개별 영문 본문은 2026-11-01 00:00 UTC+8 출시를 예고합니다. 한국어는 01:00이며 시간대 미표기입니다. 캘린더는 날짜 정밀도를 유지합니다. 실제 출시·현재 게임 내 획득 여부는 미확인입니다."
+      }
+    },
+    {
+      "id": "announced-global-lian-tai-he-2026-11-08",
+      "cosmeticId": "lian-tai-he",
+      "date": "2026-11-08",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "status": "announced",
+      "sourceIds": [
+        "global-20261028-october29-en",
+        "global-20261028-october29-ko",
+        "global-20261029-october29-appearance-en",
+        "global-20261029-october29-appearance-ko"
+      ],
+      "scope": {
+        "en": "Announced opening: 2026-11-08 00:00 UTC+8 in the October 29 named EN HTML; KO says 01:00 without a timezone. Calendar retains day precision. Actual release/current in-game availability is unverified.",
+        "ko": "10월 29일 개별 영문 본문은 2026-11-08 00:00 UTC+8 출시를 예고합니다. 한국어는 01:00이며 시간대 미표기입니다. 캘린더는 날짜 정밀도를 유지합니다. 실제 출시·현재 게임 내 획득 여부는 미확인입니다."
+      }
+    },
+    {
+      "id": "announced-global-zhi-le-er-le-2026-11-08",
+      "cosmeticId": "zhi-le-er-le",
+      "date": "2026-11-08",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "status": "announced",
+      "sourceIds": [
+        "global-20261028-october29-en",
+        "global-20261028-october29-ko",
+        "global-20261029-october29-appearance-en",
+        "global-20261029-october29-appearance-ko"
+      ],
+      "scope": {
+        "en": "Announced opening: 2026-11-08 00:00 UTC+8 in the October 29 named EN HTML; KO says 01:00 without a timezone. Calendar retains day precision. Actual release/current in-game availability is unverified.",
+        "ko": "10월 29일 개별 영문 본문은 2026-11-08 00:00 UTC+8 출시를 예고합니다. 한국어는 01:00이며 시간대 미표기입니다. 캘린더는 날짜 정밀도를 유지합니다. 실제 출시·현재 게임 내 획득 여부는 미확인입니다."
       }
     }
   ]

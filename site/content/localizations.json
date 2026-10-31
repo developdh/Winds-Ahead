@@ -266,10 +266,10 @@
     }
   },
   "lian-tai-he": {
-    "koName": "연대학",
+    "koName": "연꽃 위의 학",
     "description": {
-      "en": "White robes with blue-green lotus details.",
-      "ko": "청록 연꽃 장식과 흰 도포."
+      "en": "Outfit discounted to 300 Echo Beads (regular 680). The discount end and sale end are unstated; do not create a deadline.",
+      "ko": "의상 특가는 장명주 300개(정가 680개)입니다. 할인·판매 종료가 미표기이므로 종료 일정을 만들지 않습니다."
     }
   },
   "zi-yu-xiang-man": {
@@ -1197,10 +1197,10 @@
     }
   },
   "you-ye-chen-ying": {
-    "koName": "幽夜尘影",
+    "koName": "깊은 밤의 그림자",
     "description": {
-      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
-      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+      "en": "Purchase the outfit for 60 Echo Beads. No sale end is stated.",
+      "ko": "장명주 60개로 구매하는 의상입니다. 판매 종료는 미표기입니다."
     }
   },
   "zhong-ming-zheng-yin": {
@@ -1470,10 +1470,10 @@
     }
   },
   "zhi-le-er-le": {
-    "koName": "知乐而乐",
+    "koName": "진정한 낙",
     "description": {
-      "en": "Skill effect documented in the official CN archive. Regional availability and acquisition are recorded separately.",
-      "ko": "공식 중국 자료에서 확인한 이펙트입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+      "en": "Golden Body Mystic Skill VFX costs 60 Echo Beads during the discount, then 300. EN poster ends discount December 8, 2026 04:59:59; KO poster says 05:59:59. Neither prints a timezone for that end. The named HTML only gives the opening UTC+8. Keep discount-end timezone unknown.",
+      "ko": "불멸의 육신 비결 이펙트는 할인 중 장명주 60개이며 이후 300개입니다. 영문 이미지의 할인 종료는 2026년 12월 8일 04:59:59, 한국어는 05:59:59이며 양쪽 모두 종료 시간대를 명시하지 않았습니다. 개별 본문의 UTC+8은 시작에만 명시됩니다. 할인 종료 시간대는 미정으로 유지합니다."
     }
   },
   "xiong-you-cheng-zhu": {
@@ -1526,10 +1526,10 @@
     }
   },
   "wu-nian-ke-kao-san-nian-mo-ni": {
-    "koName": "五年科考三年模拟",
+    "koName": "과거 시험 완벽 대비",
     "description": {
-      "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
-      "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+      "en": "Fan weapon appearance purchased for 60 Echo Beads. No sale end is stated.",
+      "ko": "장명주 60개로 구매하는 부채 무기 외관입니다. 판매 종료는 미표기입니다."
     }
   },
   "yi-ju-duo-kui": {
@@ -1547,24 +1547,24 @@
     }
   },
   "gui-shou-fen-lian": {
-    "koName": "鬼手焚莲",
+    "koName": "귀수의 연화",
     "description": {
-      "en": "Outfit documented in the official CN archive. Regional availability and acquisition are recorded separately.",
-      "ko": "공식 중국 자료에서 확인한 의상입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+      "en": "Exchange 2 Harmonic Cores. Supports separate top/bottom pieces and dyeing; includes Drape, Hair Ornament, Face Ornament, Earrings, Accessory, Makeup, Victory Cutscene and Player Dynamic Avatar. Named EN listing ends February 1, 2027 04:59:59 UTC+8 (KO 05:59:59, timezone unstated).",
+      "ko": "공명 구슬 2개로 교환합니다. 상하의 분리·염색을 지원하며 외투·머리 장식·얼굴 장식·귀걸이·장신구·메이크업·결산 연출·움직이는 프로필이 포함됩니다. 개별 영문 공지의 한정 종료는 2027년 2월 1일 04:59:59 UTC+8이며 한국어는 05:59:59로 시간대 미표기입니다."
     }
   },
   "wan-laizuo-xuan-gui": {
-    "koName": "만뢰 · 탁현규",
+    "koName": "만물의 소리-현옥의 기품",
     "description": {
-      "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
-      "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+      "en": "Heng Blade appearance purchased for 1,280 Echo Beads. Price is per appearance, not a bundle. No sale end is stated.",
+      "ko": "장명주 1,280개로 구매하는 횡도 외관입니다. 묶음이 아닌 개별 가격이며 판매 종료는 미표기입니다."
     }
   },
   "wan-laipei-cang-long": {
-    "koName": "만뢰 · 패창룡",
+    "koName": "만물의 소리-푸른 청룡",
     "description": {
-      "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
-      "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+      "en": "Mo Blade appearance purchased for 1,280 Echo Beads. Price is per appearance, not a bundle. No sale end is stated.",
+      "ko": "장명주 1,280개로 구매하는 맥도 외관입니다. 묶음이 아닌 개별 가격이며 판매 종료는 미표기입니다."
     }
   },
   "shuang-yue-yin": {
@@ -1596,10 +1596,10 @@
     }
   },
   "xuan-yingyou-shi-sheng-fang": {
-    "koName": "현영 · 유석생방",
+    "koName": "흑옥-바위틈의 향기",
     "description": {
-      "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
-      "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+      "en": "Spear appearance exchanged for a limited-time price of 2 Sound Jade (regular 3). The named HTML ends its limited listing December 28, 2026 04:59:59 UTC+8; KO says 05:59:59 without timezone. Opening conflicts: October 28 EN/KO posters say 05:00:00/06:00:00; the newer October 29 named HTML says 00:00 UTC+8/01:00 timezone unstated. Keep the conflict explicit.",
+      "ko": "창 외관을 기간 한정 특가 음옥 2개(정가 3개)로 교환합니다. 개별 영문 본문은 한정 출시 종료를 2026년 12월 28일 04:59:59 UTC+8로 명시하며 한국어는 05:59:59로 시간대 미표기입니다. 시작 시각은 10월 28일 영문·한국어 이미지의 05:00:00·06:00:00와 더 최신인 10월 29일 개별 본문의 00:00 UTC+8·01:00 시간대 미표기가 다릅니다. 이 불일치를 명시적으로 보존합니다."
     }
   },
   "xuan-yinggou-yue-xian-xian": {
@@ -1792,10 +1792,10 @@
     }
   },
   "xuan-yingyao-tai-fei-jing": {
-    "koName": "玄瑛·瑶台飞镜",
+    "koName": "흑옥-달빛 거울",
     "description": {
-      "en": "Weapon appearance documented in the official CN archive. Regional availability and acquisition are recorded separately.",
-      "ko": "공식 중국 자료에서 확인한 무기 외형입니다. 서버별 출시와 획득 조건을 구분해 기록했습니다."
+      "en": "Waist Drum appearance exchanged for a limited-time price of 2 Sound Jade (regular 3). The named HTML ends its limited listing December 28, 2026 04:59:59 UTC+8; KO says 05:59:59 without timezone. Opening conflicts: October 28 EN/KO posters say 05:00:00/06:00:00; the newer October 29 named HTML says 00:00 UTC+8/01:00 timezone unstated. Keep the conflict explicit.",
+      "ko": "비단 북 외관을 기간 한정 특가 음옥 2개(정가 3개)로 교환합니다. 개별 영문 본문은 한정 출시 종료를 2026년 12월 28일 04:59:59 UTC+8로 명시하며 한국어는 05:59:59로 시간대 미표기입니다. 시작 시각은 10월 28일 영문·한국어 이미지의 05:00:00·06:00:00와 더 최신인 10월 29일 개별 본문의 00:00 UTC+8·01:00 시간대 미표기가 다릅니다. 이 불일치를 명시적으로 보존합니다."
     }
   },
   "chi-xue-liu-dan": {
@@ -5247,6 +5247,41 @@
     "description": {
       "en": "CN face accessory named in the October 23 update. A reward from the 要发要发黄金眼 event.",
       "ko": "10월 23일 중국 업데이트에 명시된 얼굴 장식입니다. 要发要发黄金眼 이벤트 보상입니다."
+    }
+  },
+  "zhu-ma-zi": {
+    "koName": "죽마자",
+    "description": {
+      "en": "Green-and-bamboo-white CN outfit with gold bamboo embroidery, braided ties and tassels; separate top/bottom and dyeing.",
+      "ko": "금빛 대나무 자수와 땋은 끈·술이 특징인 초록색과 옅은 베이지색 중국 의상입니다. 상하의 분리·염색을 지원합니다."
+    }
+  },
+  "wan-lai-xuan-bing-po": {
+    "koName": "만뢰·현빙파",
+    "description": {
+      "en": "CN spear appearance in the Wan Lai series, with a jagged ice-blue head and luminous circular detail. The pictured outfit is separate.",
+      "ko": "톱니 같은 얼음빛 창날과 빛나는 원형 장식이 특징인 중국 만뢰 시리즈 창 외관입니다. 사진 속 의상은 별도입니다."
+    }
+  },
+  "wan-lai-kan-qie-yu": {
+    "koName": "만뢰·감절옥",
+    "description": {
+      "en": "CN sword appearance in the Wan Lai series, with a narrow ice-blue blade and luminous circular guard. The pictured outfit is separate.",
+      "ko": "가늘고 긴 얼음빛 검신과 빛나는 원형 검격이 특징인 중국 만뢰 시리즈 검 외관입니다. 사진 속 의상은 별도입니다."
+    }
+  },
+  "global-ghostlight-pumpkin": {
+    "koName": "호박등 야행",
+    "description": {
+      "en": "Accessory within Autumn Eve Whimsy. The named appearance article confirms pack membership; the October 30 notice describes October 29 fixes for buying, equipping and Shop visibility of this exact pack. Pack price, separate-item purchase and sale end are unstated.",
+      "ko": "가을밤의 정취에 포함된 장신구입니다. 개별 외관 공지의 구성과 10월 30일 공지의 10월 29일 해당 패키지 구매·착용·상점 노출 오류 수정을 함께 확인했습니다. 패키지 가격·개별 구매·판매 종료는 미표기입니다."
+    }
+  },
+  "global-fall-confection": {
+    "koName": "가을 서리 사탕",
+    "description": {
+      "en": "Accessory within Autumn Eve Whimsy. The named appearance article confirms pack membership; the October 30 notice describes October 29 fixes for buying, equipping and Shop visibility of this exact pack. Pack price, separate-item purchase and sale end are unstated.",
+      "ko": "가을밤의 정취에 포함된 장신구입니다. 개별 외관 공지의 구성과 10월 30일 공지의 10월 29일 해당 패키지 구매·착용·상점 노출 오류 수정을 함께 확인했습니다. 패키지 가격·개별 구매·판매 종료는 미표기입니다."
     }
   }
 }
