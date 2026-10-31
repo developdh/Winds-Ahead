@@ -1,0 +1,48 @@
+{
+  "checkedAt": "2026-10-31",
+  "baseline": "v0.3.17 / 6c7545ffab39028206a17bddfb0e65d5794d0238",
+  "trigger": "Native Sites deployed v0.3.17 successfully, but HEAD https://windsahead.com/media/global-ghostlight-pumpkin-0-full.webp returned 404 at 2026-10-31T13:02:03Z. Local Wrangler parsed _redirects and returned 301; native publication did not apply it.",
+  "resolution": "Restore all four former paths as physical byte-identical compatibility files; remove _redirects. Current gallery references keep their shared paths and independent original URLs. No image re-encoding or visitor-data change.",
+  "restoredImages": [
+    {
+      "previousPath": "/media/xia-zhe-wu-ming-1-full.webp",
+      "sharedPath": "/media/bu-xian-shen-xian-1-full.webp",
+      "bytes": 229584,
+      "sha256": "a0d723b2258a2d6367384b94de86815ed954a9661e4db7440e476fe9a81ff241"
+    },
+    {
+      "previousPath": "/media/yu-shan-san-e-1-full.webp",
+      "sharedPath": "/media/e-de-jiang-hu-1-full.webp",
+      "bytes": 185968,
+      "sha256": "1581ce60f74da75627d25f7aca7f10afe3275013ffe0f3b2997f8974507b928a"
+    },
+    {
+      "previousPath": "/media/zhui-bu-shang-e-1-full.webp",
+      "sharedPath": "/media/yun-tou-zhuan-miao-1-full.webp",
+      "bytes": 184904,
+      "sha256": "681dd58d9372622f8247270deba9db8298e661871125c71be0da66d0a130cbb2"
+    },
+    {
+      "previousPath": "/media/global-ghostlight-pumpkin-0-full.webp",
+      "sharedPath": "/media/global-fall-confection-0-full.webp",
+      "bytes": 107582,
+      "sha256": "08a648edbf20051de0e23d1c20d836fd501f7b9d3879594f391edec95dc591b0"
+    }
+  ],
+  "restoredBytes": 708038,
+  "candidate": {
+    "expandedTarBytes": 267943936,
+    "limitBytes": 268435456,
+    "headroomBytes": 491520,
+    "packaging": "COPYFILE_DISABLE=1; tar GNU format with no xattrs, ACLs or flags"
+  },
+  "validation": {
+    "independentByteEquality": "All four physical copies equal v0.3.16 originals and current shared targets.",
+    "tests": 50,
+    "types": "passed",
+    "contentMediaReferences": "passed",
+    "forecastHistory": "unchanged",
+    "rootWorkerBuild": "passed"
+  },
+  "nativePublication": "Verify old URLs directly after deployment; local redirect behavior did not predict native behavior."
+}

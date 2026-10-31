@@ -30,6 +30,8 @@ This is part of completing each update, including updates from the existing cale
 
 ## Release notes
 
+- [0.3.18 — Preserve previous full-image URLs](releases/0.3.18.md)
+
 - [0.3.17 — Smaller deployment without changing artwork](releases/0.3.17.md)
 
 - [0.3.16 — Late October appearances and revised Battle Pass end](releases/0.3.16.md)
