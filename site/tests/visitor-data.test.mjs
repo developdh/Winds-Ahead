@@ -137,3 +137,43 @@ test('emitted JavaScript reconstructs all projected visitor data exactly', async
   assert.deepEqual(module.default, expected, 'String sharing must preserve values, arrays, unknowns and multilingual source text');
   assert.ok(Buffer.byteLength(code) < Buffer.byteLength(`export default ${JSON.stringify(expected)};`), 'Sharing repeated text must reduce the emitted module');
 });
+
+test('every visitor content import round-trips through the build transform', async () => {
+  const plugin = visitorData();
+  for (const name of [
+    'research', 'media', 'global-events', 'regional-records', 'localizations',
+    'deadlines', 'updates', 'terminology', 'magazine', 'magazine-export-metrics',
+  ]) {
+    const original = await read(name);
+    const id = new URL(`../content/${name}.json`, import.meta.url).pathname;
+    const transformed = plugin.transform('', id);
+    assert.ok(transformed, `${name} uses compact serialization`);
+    const actual = await import(`data:text/javascript;base64,${Buffer.from(transformed.code).toString('base64')}`);
+    assert.deepEqual(actual.default, projectVisitorData(name, original), name);
+  }
+  for (const name of ['forecasts', 'unrecognized']) {
+    assert.equal(plugin.transform('untouched', `/example/content/${name}.json`), null, name);
+  }
+});
+
+test('compact objects retain key order, unusual keys and independent nested values', async () => {
+  const row = JSON.parse('{"__proto__":{"safe":true},"constructor":"source","en":"한글 燕雲鏡","ko":null,"values":[false,0,""]}');
+  const expected = {
+    rows: Array.from({ length: 60 }, () => structuredClone(row)),
+    differentOrder: { ko: null, en: '한글 燕雲鏡' },
+    numericKeys: { 12: 'twelve', 2: 'two', final: 'last' },
+    oneOff: JSON.parse('{"__proto__":{"unique":true},"literalFallback":-0}'),
+  };
+  const code = serializeVisitorData(freeze(expected));
+  const actual = (await import(`data:text/javascript;base64,${Buffer.from(code).toString('base64')}`)).default;
+  assert.deepEqual(actual, expected);
+  assert.equal(JSON.stringify(actual), JSON.stringify(expected), 'Property iteration order survives');
+  assert.equal(Object.getPrototypeOf(actual.rows[0]), Object.prototype);
+  assert.ok(Object.hasOwn(actual.rows[0], '__proto__'));
+  assert.ok(Object.hasOwn(actual.oneOff, '__proto__'));
+  assert.ok(Object.is(actual.oneOff.literalFallback, -0));
+  actual.rows[0].values.push('only first row');
+  actual.rows[0].__proto__.safe = false;
+  assert.deepEqual(actual.rows[1], row, 'Factory calls must create independent objects and arrays');
+  assert.ok(Buffer.byteLength(code) < Buffer.byteLength(`export default ${JSON.stringify(expected)};`));
+});
