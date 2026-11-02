@@ -1,0 +1,1243 @@
+{
+  "checkedAt": "2026-11-02",
+  "reviewTimezone": "America/New_York",
+  "baseline": "v0.3.18 / ef184b9b80430a90dc1af338ddb97c894c58456b",
+  "environment": {
+    "os": "macOS-26.0.1-arm64-arm-64bit-Mach-O",
+    "node": "v22.22.3",
+    "browser": "Codex in-app Chromium; viewport emulation; no network/CPU throttling"
+  },
+  "archive": {
+    "baselineExpandedTarBytes": 267943936,
+    "candidateExpandedTarBytes": 265488896,
+    "savedBytes": 2455040,
+    "limitBytes": 268435456,
+    "baselineHeadroomBytes": 491520,
+    "candidateHeadroomBytes": 2946560,
+    "format": "GNU tar without AppleDouble, extended attributes, ACLs or file flags"
+  },
+  "preservedStaticFiles": {
+    "count": 3404,
+    "comparison": "SHA-256 of every media/font/magazine/wiki data file in both complete tar archives; identical path set and bytes"
+  },
+  "allClientJavaScript": {
+    "baseline": {
+      "raw": 2959649,
+      "gzip": 555943
+    },
+    "candidate": {
+      "raw": 1959470,
+      "gzip": 536110
+    },
+    "scope": "All emitted client JavaScript, including deferred chunks; gzip computed per file. Not initial page transfer, browser decode time, or Core Web Vitals."
+  },
+  "javascriptFiles": {
+    "baseline": [
+      {
+        "file": "dist/client/_next/static/6d2e7808-7833-4012-9005-979a4631aa32/_buildManifest.js",
+        "raw": 159,
+        "gzip": 121
+      },
+      {
+        "file": "dist/client/_next/static/6d2e7808-7833-4012-9005-979a4631aa32/_ssgManifest.js",
+        "raw": 76,
+        "gzip": 60
+      },
+      {
+        "file": "dist/client/_next/static/chunks/arrow-up-right-DUpsKK1q.js",
+        "raw": 170,
+        "gzip": 160
+      },
+      {
+        "file": "dist/client/_next/static/chunks/catalog-BhenKhk2.js",
+        "raw": 1396468,
+        "gzip": 235124
+      },
+      {
+        "file": "dist/client/_next/static/chunks/dist-C38B28hP.js",
+        "raw": 36336,
+        "gzip": 12059
+      },
+      {
+        "file": "dist/client/_next/static/chunks/error-CR8fjxkb.js",
+        "raw": 744,
+        "gzip": 448
+      },
+      {
+        "file": "dist/client/_next/static/chunks/framework-DTZGTDtF.js",
+        "raw": 190109,
+        "gzip": 59048
+      },
+      {
+        "file": "dist/client/_next/static/chunks/gallery-viewer-K_Sdx6mM.js",
+        "raw": 26088,
+        "gzip": 10330
+      },
+      {
+        "file": "dist/client/_next/static/chunks/hybrid-client-route-owner-ChveQrPE.js",
+        "raw": 19486,
+        "gzip": 6191
+      },
+      {
+        "file": "dist/client/_next/static/chunks/index-Ci8ESjfl.js",
+        "raw": 110397,
+        "gzip": 32525
+      },
+      {
+        "file": "dist/client/_next/static/chunks/landing-DG3ZyGoS.js",
+        "raw": 3478,
+        "gzip": 1383
+      },
+      {
+        "file": "dist/client/_next/static/chunks/language-preference-CsEreWwQ.js",
+        "raw": 2203,
+        "gzip": 1198
+      },
+      {
+        "file": "dist/client/_next/static/chunks/layout-segment-context-CnApLlGs.js",
+        "raw": 496,
+        "gzip": 346
+      },
+      {
+        "file": "dist/client/_next/static/chunks/magazine-CTmStdYR.js",
+        "raw": 19044,
+        "gzip": 6982
+      },
+      {
+        "file": "dist/client/_next/static/chunks/preference-gate-BbmugJL3.js",
+        "raw": 623,
+        "gzip": 408
+      },
+      {
+        "file": "dist/client/_next/static/chunks/query-DugiHe4Q.js",
+        "raw": 984,
+        "gzip": 485
+      },
+      {
+        "file": "dist/client/_next/static/chunks/roadmap-DmN6CmHd.js",
+        "raw": 12478,
+        "gzip": 4448
+      },
+      {
+        "file": "dist/client/_next/static/chunks/rolldown-runtime-hePW80VL.js",
+        "raw": 716,
+        "gzip": 430
+      },
+      {
+        "file": "dist/client/_next/static/chunks/site-app-YK02aaKb.js",
+        "raw": 998504,
+        "gzip": 141562
+      },
+      {
+        "file": "dist/client/_next/static/chunks/vinext-B2qeRhrH.js",
+        "raw": 132692,
+        "gzip": 39366
+      },
+      {
+        "file": "dist/client/_next/static/chunks/wiki-details-zIuCsVH5.js",
+        "raw": 8398,
+        "gzip": 3269
+      },
+      {
+        "file": "dist/server/__vinext_action_owner_manifest.js",
+        "raw": 19,
+        "gzip": 39
+      },
+      {
+        "file": "dist/server/__vinext_cacheability_manifest.js",
+        "raw": 21,
+        "gzip": 41
+      },
+      {
+        "file": "dist/server/__vite_rsc_assets_manifest.js",
+        "raw": 4371,
+        "gzip": 616
+      },
+      {
+        "file": "dist/server/_next/static/als-registry-Ca9CZnfN.js",
+        "raw": 530,
+        "gzip": 312
+      },
+      {
+        "file": "dist/server/_next/static/app-page-cache-CrbB0BlO.js",
+        "raw": 5385,
+        "gzip": 1730
+      },
+      {
+        "file": "dist/server/_next/static/app-page-cache-finalizer-CAuSH8hx.js",
+        "raw": 4695,
+        "gzip": 1661
+      },
+      {
+        "file": "dist/server/_next/static/app-page-cache-render-CuaQ9hLg.js",
+        "raw": 2065,
+        "gzip": 974
+      },
+      {
+        "file": "dist/server/_next/static/app-page-stream-DLAh_DlQ.js",
+        "raw": 10141,
+        "gzip": 3821
+      },
+      {
+        "file": "dist/server/_next/static/app-prerender-endpoints-Ar-Og9Mx.js",
+        "raw": 2396,
+        "gzip": 966
+      },
+      {
+        "file": "dist/server/_next/static/app-prerender-static-params-fbLn_moX.js",
+        "raw": 1499,
+        "gzip": 686
+      },
+      {
+        "file": "dist/server/_next/static/app-response-header-provenance-BN5QCATx.js",
+        "raw": 30222,
+        "gzip": 9838
+      },
+      {
+        "file": "dist/server/_next/static/app-route-handler-dispatch-Cxyhe3ol.js",
+        "raw": 30530,
+        "gzip": 9248
+      },
+      {
+        "file": "dist/server/_next/static/app-route-handler-response-K0xGlNKl.js",
+        "raw": 3336,
+        "gzip": 1493
+      },
+      {
+        "file": "dist/server/_next/static/app-rsc-cache-busting-DEvhzFPl.js",
+        "raw": 3476,
+        "gzip": 1451
+      },
+      {
+        "file": "dist/server/_next/static/app-segment-config-jj6h97EL.js",
+        "raw": 5540,
+        "gzip": 2095
+      },
+      {
+        "file": "dist/server/_next/static/app-static-generation-BX8cz43B.js",
+        "raw": 916,
+        "gzip": 517
+      },
+      {
+        "file": "dist/server/_next/static/base-path-Cmiu3HvG.js",
+        "raw": 315,
+        "gzip": 222
+      },
+      {
+        "file": "dist/server/_next/static/cache-control-D6NGMmR5.js",
+        "raw": 6972,
+        "gzip": 2709
+      },
+      {
+        "file": "dist/server/_next/static/cache-request-state-zYQnMq1U.js",
+        "raw": 2322,
+        "gzip": 900
+      },
+      {
+        "file": "dist/server/_next/static/cacheability-classification-D1Snlvis.js",
+        "raw": 1499,
+        "gzip": 656
+      },
+      {
+        "file": "dist/server/_next/static/cacheability-limits-BTpP4ZoO.js",
+        "raw": 56,
+        "gzip": 73
+      },
+      {
+        "file": "dist/server/_next/static/cacheability-request-CsLA3tXk.js",
+        "raw": 14763,
+        "gzip": 4684
+      },
+      {
+        "file": "dist/server/_next/static/dist-BqshKlkI.js",
+        "raw": 1585,
+        "gzip": 705
+      },
+      {
+        "file": "dist/server/_next/static/error-C1u8BNIr.js",
+        "raw": 184,
+        "gzip": 166
+      },
+      {
+        "file": "dist/server/_next/static/file-based-metadata-CAf_fWUH.js",
+        "raw": 6751,
+        "gzip": 2465
+      },
+      {
+        "file": "dist/server/_next/static/framework~index-DZTKqCUR.js",
+        "raw": 3785,
+        "gzip": 1511
+      },
+      {
+        "file": "dist/server/_next/static/framework~index~page~error~layout~loading~not-found~page~app-page-cache-render~app-page-cac~hn25ehv0-BO2z_WaE.js",
+        "raw": 5499,
+        "gzip": 2282
+      },
+      {
+        "file": "dist/server/_next/static/framework~index~page~error~page~app-route-handler-dispatch-mqz3XlId.js",
+        "raw": 53152,
+        "gzip": 15896
+      },
+      {
+        "file": "dist/server/_next/static/framework~index~page~layout~loading~not-found~page~app-page-cache-render~app-page-cache~met~fl50d38z-DKEdLlCT.js",
+        "raw": 824,
+        "gzip": 554
+      },
+      {
+        "file": "dist/server/_next/static/headers-DN_eK0hF.js",
+        "raw": 5001,
+        "gzip": 2051
+      },
+      {
+        "file": "dist/server/_next/static/headers-E6beZaf2.js",
+        "raw": 10958,
+        "gzip": 3797
+      },
+      {
+        "file": "dist/server/_next/static/http-error-responses-Ch9ZKbQ5.js",
+        "raw": 762,
+        "gzip": 339
+      },
+      {
+        "file": "dist/server/_next/static/implicit-tags-C0UGB4Qd.js",
+        "raw": 736,
+        "gzip": 439
+      },
+      {
+        "file": "dist/server/_next/static/isr-cache-BhNylOXN.js",
+        "raw": 3362,
+        "gzip": 1633
+      },
+      {
+        "file": "dist/server/_next/static/isr-decision-BSimfwsy.js",
+        "raw": 763,
+        "gzip": 365
+      },
+      {
+        "file": "dist/server/_next/static/language-preference-0NokN1Si.js",
+        "raw": 89,
+        "gzip": 100
+      },
+      {
+        "file": "dist/server/_next/static/loading-CnGmuueH.js",
+        "raw": 760,
+        "gzip": 405
+      },
+      {
+        "file": "dist/server/_next/static/magazine-aO-CF4dU.js",
+        "raw": 1141768,
+        "gzip": 195138
+      },
+      {
+        "file": "dist/server/_next/static/metadata-route-response-BksD3wEk.js",
+        "raw": 9436,
+        "gzip": 3314
+      },
+      {
+        "file": "dist/server/_next/static/metadata-routes-D626soOy.js",
+        "raw": 4156,
+        "gzip": 1506
+      },
+      {
+        "file": "dist/server/_next/static/navigation-context-state-CerKdu5C.js",
+        "raw": 930,
+        "gzip": 472
+      },
+      {
+        "file": "dist/server/_next/static/navigation.react-server-DvH2YKvW.js",
+        "raw": 649,
+        "gzip": 383
+      },
+      {
+        "file": "dist/server/_next/static/next-error-digest-5ayqyzJb.js",
+        "raw": 631,
+        "gzip": 422
+      },
+      {
+        "file": "dist/server/_next/static/page-CQU1ZrLD.js",
+        "raw": 2530,
+        "gzip": 1327
+      },
+      {
+        "file": "dist/server/_next/static/page-CiWiapJn.js",
+        "raw": 648,
+        "gzip": 438
+      },
+      {
+        "file": "dist/server/_next/static/ppr-fallback-shell-Bsn4mtxE.js",
+        "raw": 2197,
+        "gzip": 964
+      },
+      {
+        "file": "dist/server/_next/static/prerender-cache-life-header-DAvkuPVF.js",
+        "raw": 494,
+        "gzip": 295
+      },
+      {
+        "file": "dist/server/_next/static/record-BGze3w87.js",
+        "raw": 79,
+        "gzip": 93
+      },
+      {
+        "file": "dist/server/_next/static/request-pipeline-DYiKw4hL.js",
+        "raw": 3859,
+        "gzip": 1567
+      },
+      {
+        "file": "dist/server/_next/static/rolldown-runtime-hePW80VL.js",
+        "raw": 716,
+        "gzip": 430
+      },
+      {
+        "file": "dist/server/_next/static/root-params-iz8t1iI4.js",
+        "raw": 688,
+        "gzip": 420
+      },
+      {
+        "file": "dist/server/_next/static/route-pattern-DLhUQ8rN.js",
+        "raw": 2196,
+        "gzip": 819
+      },
+      {
+        "file": "dist/server/_next/static/server-CCRkqc6d.js",
+        "raw": 720,
+        "gzip": 455
+      },
+      {
+        "file": "dist/server/_next/static/text-stream-ym0UexeA.js",
+        "raw": 19641,
+        "gzip": 5787
+      },
+      {
+        "file": "dist/server/_next/static/thenable-params-DPLmuRPO.js",
+        "raw": 2410,
+        "gzip": 922
+      },
+      {
+        "file": "dist/server/_next/static/worker-prerender-discovery-BCrzOT8Z.js",
+        "raw": 831,
+        "gzip": 482
+      },
+      {
+        "file": "dist/server/index.js",
+        "raw": 337041,
+        "gzip": 77547
+      },
+      {
+        "file": "dist/server/ssr/__vite_rsc_assets_manifest.js",
+        "raw": 4371,
+        "gzip": 616
+      },
+      {
+        "file": "dist/server/ssr/_next/static/app-elements-f3sdnbDq.js",
+        "raw": 11423,
+        "gzip": 3556
+      },
+      {
+        "file": "dist/server/ssr/_next/static/app-nav-failure-handler-BW2-CIfV.js",
+        "raw": 72,
+        "gzip": 71
+      },
+      {
+        "file": "dist/server/ssr/_next/static/app-prefetch-fetch-queue-BKsfy85I.js",
+        "raw": 491,
+        "gzip": 310
+      },
+      {
+        "file": "dist/server/ssr/_next/static/app-router-scroll-DnofFVX1.js",
+        "raw": 2255,
+        "gzip": 1060
+      },
+      {
+        "file": "dist/server/ssr/_next/static/app-router-scroll-state-Ddg0JoEg.js",
+        "raw": 1085,
+        "gzip": 556
+      },
+      {
+        "file": "dist/server/ssr/_next/static/arrow-up-right-C0-w3Dk0.js",
+        "raw": 170,
+        "gzip": 159
+      },
+      {
+        "file": "dist/server/ssr/_next/static/catalog-BhenKhk2.js",
+        "raw": 1396468,
+        "gzip": 235124
+      },
+      {
+        "file": "dist/server/ssr/_next/static/dist-CKz6fges.js",
+        "raw": 36229,
+        "gzip": 11981
+      },
+      {
+        "file": "dist/server/ssr/_next/static/error-CyIE777j.js",
+        "raw": 746,
+        "gzip": 451
+      },
+      {
+        "file": "dist/server/ssr/_next/static/error-boundary-G0wSvmxq.js",
+        "raw": 5687,
+        "gzip": 1743
+      },
+      {
+        "file": "dist/server/ssr/_next/static/gallery-viewer-CwfdS1iQ.js",
+        "raw": 26076,
+        "gzip": 10319
+      },
+      {
+        "file": "dist/server/ssr/_next/static/html-limited-bots-dINqnf4n.js",
+        "raw": 2006,
+        "gzip": 969
+      },
+      {
+        "file": "dist/server/ssr/_next/static/hybrid-client-route-owner-xabwayTn.js",
+        "raw": 166,
+        "gzip": 135
+      },
+      {
+        "file": "dist/server/ssr/_next/static/jsx-runtime-NZYk81nU.js",
+        "raw": 435,
+        "gzip": 303
+      },
+      {
+        "file": "dist/server/ssr/_next/static/landing-CbsG1G6p.js",
+        "raw": 3508,
+        "gzip": 1395
+      },
+      {
+        "file": "dist/server/ssr/_next/static/language-preference-C1DmW-_p.js",
+        "raw": 2194,
+        "gzip": 1190
+      },
+      {
+        "file": "dist/server/ssr/_next/static/layout-segment-context-qLTSxH2b.js",
+        "raw": 517,
+        "gzip": 355
+      },
+      {
+        "file": "dist/server/ssr/_next/static/magazine-bz_z8mTp.js",
+        "raw": 19082,
+        "gzip": 7000
+      },
+      {
+        "file": "dist/server/ssr/_next/static/navigation-BsjMJrQo.js",
+        "raw": 3587,
+        "gzip": 1445
+      },
+      {
+        "file": "dist/server/ssr/_next/static/navigation-context-state-epLgkn2X.js",
+        "raw": 1612,
+        "gzip": 647
+      },
+      {
+        "file": "dist/server/ssr/_next/static/navigation-errors-D5mcf3ZW.js",
+        "raw": 2182,
+        "gzip": 953
+      },
+      {
+        "file": "dist/server/ssr/_next/static/navigation-server-BQcEc4lX.js",
+        "raw": 47,
+        "gzip": 67
+      },
+      {
+        "file": "dist/server/ssr/_next/static/preference-gate-D9aS2BSo.js",
+        "raw": 653,
+        "gzip": 416
+      },
+      {
+        "file": "dist/server/ssr/_next/static/react-CCoDwwN3.js",
+        "raw": 7268,
+        "gzip": 2808
+      },
+      {
+        "file": "dist/server/ssr/_next/static/react-dom-CFTqsTBy.js",
+        "raw": 3583,
+        "gzip": 1356
+      },
+      {
+        "file": "dist/server/ssr/_next/static/record-BGze3w87.js",
+        "raw": 79,
+        "gzip": 93
+      },
+      {
+        "file": "dist/server/ssr/_next/static/roadmap-BACbf6zX.js",
+        "raw": 12505,
+        "gzip": 4459
+      },
+      {
+        "file": "dist/server/ssr/_next/static/roadmap-BHsScN1R.js",
+        "raw": 721769,
+        "gzip": 63889
+      },
+      {
+        "file": "dist/server/ssr/_next/static/rolldown-runtime-hePW80VL.js",
+        "raw": 716,
+        "gzip": 430
+      },
+      {
+        "file": "dist/server/ssr/_next/static/route-matching-DJf4hNaF.js",
+        "raw": 47,
+        "gzip": 67
+      },
+      {
+        "file": "dist/server/ssr/_next/static/site-app-CiuEzMF1.js",
+        "raw": 320285,
+        "gzip": 93449
+      },
+      {
+        "file": "dist/server/ssr/_next/static/static.edge-B2WA1QpO.js",
+        "raw": 212,
+        "gzip": 163
+      },
+      {
+        "file": "dist/server/ssr/_next/static/streamed-icons-CZ_FzhwY.js",
+        "raw": 735,
+        "gzip": 471
+      },
+      {
+        "file": "dist/server/ssr/_next/static/wiki-details-_ebZSKHf.js",
+        "raw": 8428,
+        "gzip": 3274
+      },
+      {
+        "file": "dist/server/ssr/index.js",
+        "raw": 262749,
+        "gzip": 81583
+      },
+      {
+        "file": "dist/server/ssr/vinext-client-assets.js",
+        "raw": 4430,
+        "gzip": 678
+      },
+      {
+        "file": "dist/server/vinext-client-assets.js",
+        "raw": 4430,
+        "gzip": 678
+      }
+    ],
+    "candidate": [
+      {
+        "file": "dist/client/_next/static/chunks/arrow-up-right-DUpsKK1q.js",
+        "raw": 170,
+        "gzip": 160
+      },
+      {
+        "file": "dist/client/_next/static/chunks/catalog-jfc5PwPD.js",
+        "raw": 883594,
+        "gzip": 221702
+      },
+      {
+        "file": "dist/client/_next/static/chunks/dist-C38B28hP.js",
+        "raw": 36336,
+        "gzip": 12059
+      },
+      {
+        "file": "dist/client/_next/static/chunks/error-CR8fjxkb.js",
+        "raw": 744,
+        "gzip": 448
+      },
+      {
+        "file": "dist/client/_next/static/chunks/framework-DTZGTDtF.js",
+        "raw": 190109,
+        "gzip": 59048
+      },
+      {
+        "file": "dist/client/_next/static/chunks/gallery-viewer-DAAuvXBy.js",
+        "raw": 26088,
+        "gzip": 10330
+      },
+      {
+        "file": "dist/client/_next/static/chunks/hybrid-client-route-owner-B4d54oQA.js",
+        "raw": 19486,
+        "gzip": 6192
+      },
+      {
+        "file": "dist/client/_next/static/chunks/index-DjDxgDGC.js",
+        "raw": 110397,
+        "gzip": 32526
+      },
+      {
+        "file": "dist/client/_next/static/chunks/landing-DG3ZyGoS.js",
+        "raw": 3478,
+        "gzip": 1383
+      },
+      {
+        "file": "dist/client/_next/static/chunks/language-preference-CsEreWwQ.js",
+        "raw": 2203,
+        "gzip": 1198
+      },
+      {
+        "file": "dist/client/_next/static/chunks/layout-segment-context-ChBnPGXS.js",
+        "raw": 496,
+        "gzip": 346
+      },
+      {
+        "file": "dist/client/_next/static/chunks/magazine-DAnQeHsm.js",
+        "raw": 18087,
+        "gzip": 7058
+      },
+      {
+        "file": "dist/client/_next/static/chunks/preference-gate-BbmugJL3.js",
+        "raw": 623,
+        "gzip": 408
+      },
+      {
+        "file": "dist/client/_next/static/chunks/query-DugiHe4Q.js",
+        "raw": 984,
+        "gzip": 485
+      },
+      {
+        "file": "dist/client/_next/static/chunks/roadmap-HMUkRq9X.js",
+        "raw": 12478,
+        "gzip": 4449
+      },
+      {
+        "file": "dist/client/_next/static/chunks/rolldown-runtime-hePW80VL.js",
+        "raw": 716,
+        "gzip": 430
+      },
+      {
+        "file": "dist/client/_next/static/chunks/site-app-BAl91pbq.js",
+        "raw": 512156,
+        "gzip": 135072
+      },
+      {
+        "file": "dist/client/_next/static/chunks/vinext-QypPNQhS.js",
+        "raw": 132692,
+        "gzip": 39366
+      },
+      {
+        "file": "dist/client/_next/static/chunks/wiki-details-zIuCsVH5.js",
+        "raw": 8398,
+        "gzip": 3269
+      },
+      {
+        "file": "dist/client/_next/static/d3ef4af3-83a9-450c-80ed-a8119a816ec6/_buildManifest.js",
+        "raw": 159,
+        "gzip": 121
+      },
+      {
+        "file": "dist/client/_next/static/d3ef4af3-83a9-450c-80ed-a8119a816ec6/_ssgManifest.js",
+        "raw": 76,
+        "gzip": 60
+      },
+      {
+        "file": "dist/server/__vinext_action_owner_manifest.js",
+        "raw": 19,
+        "gzip": 39
+      },
+      {
+        "file": "dist/server/__vinext_cacheability_manifest.js",
+        "raw": 21,
+        "gzip": 41
+      },
+      {
+        "file": "dist/server/__vite_rsc_assets_manifest.js",
+        "raw": 4371,
+        "gzip": 615
+      },
+      {
+        "file": "dist/server/_next/static/als-registry-Ca9CZnfN.js",
+        "raw": 530,
+        "gzip": 312
+      },
+      {
+        "file": "dist/server/_next/static/app-page-cache-Bvdkmqh1.js",
+        "raw": 5385,
+        "gzip": 1731
+      },
+      {
+        "file": "dist/server/_next/static/app-page-cache-finalizer-lmKxBXy-.js",
+        "raw": 4695,
+        "gzip": 1662
+      },
+      {
+        "file": "dist/server/_next/static/app-page-cache-render-BWtdCdAc.js",
+        "raw": 2065,
+        "gzip": 974
+      },
+      {
+        "file": "dist/server/_next/static/app-page-stream-ewe40yyI.js",
+        "raw": 10141,
+        "gzip": 3821
+      },
+      {
+        "file": "dist/server/_next/static/app-prerender-endpoints-Ar-Og9Mx.js",
+        "raw": 2396,
+        "gzip": 966
+      },
+      {
+        "file": "dist/server/_next/static/app-prerender-static-params-fbLn_moX.js",
+        "raw": 1499,
+        "gzip": 686
+      },
+      {
+        "file": "dist/server/_next/static/app-response-header-provenance-BN5QCATx.js",
+        "raw": 30222,
+        "gzip": 9838
+      },
+      {
+        "file": "dist/server/_next/static/app-route-handler-dispatch-CxLU7CeM.js",
+        "raw": 30530,
+        "gzip": 9243
+      },
+      {
+        "file": "dist/server/_next/static/app-route-handler-response-K0xGlNKl.js",
+        "raw": 3336,
+        "gzip": 1493
+      },
+      {
+        "file": "dist/server/_next/static/app-rsc-cache-busting-DwBmtp-Z.js",
+        "raw": 3476,
+        "gzip": 1447
+      },
+      {
+        "file": "dist/server/_next/static/app-segment-config-jj6h97EL.js",
+        "raw": 5540,
+        "gzip": 2095
+      },
+      {
+        "file": "dist/server/_next/static/app-static-generation-BX8cz43B.js",
+        "raw": 916,
+        "gzip": 517
+      },
+      {
+        "file": "dist/server/_next/static/base-path-Cmiu3HvG.js",
+        "raw": 315,
+        "gzip": 222
+      },
+      {
+        "file": "dist/server/_next/static/cache-control-D6NGMmR5.js",
+        "raw": 6972,
+        "gzip": 2709
+      },
+      {
+        "file": "dist/server/_next/static/cache-request-state-zYQnMq1U.js",
+        "raw": 2322,
+        "gzip": 900
+      },
+      {
+        "file": "dist/server/_next/static/cacheability-classification-D1Snlvis.js",
+        "raw": 1499,
+        "gzip": 656
+      },
+      {
+        "file": "dist/server/_next/static/cacheability-limits-BTpP4ZoO.js",
+        "raw": 56,
+        "gzip": 73
+      },
+      {
+        "file": "dist/server/_next/static/cacheability-request-CsLA3tXk.js",
+        "raw": 14763,
+        "gzip": 4684
+      },
+      {
+        "file": "dist/server/_next/static/dist-BqshKlkI.js",
+        "raw": 1585,
+        "gzip": 705
+      },
+      {
+        "file": "dist/server/_next/static/error-C1u8BNIr.js",
+        "raw": 184,
+        "gzip": 166
+      },
+      {
+        "file": "dist/server/_next/static/file-based-metadata-CAf_fWUH.js",
+        "raw": 6751,
+        "gzip": 2465
+      },
+      {
+        "file": "dist/server/_next/static/framework~index-DZTKqCUR.js",
+        "raw": 3785,
+        "gzip": 1511
+      },
+      {
+        "file": "dist/server/_next/static/framework~index~page~error~layout~loading~not-found~page~app-page-cache-render~app-page-cac~hn25ehv0-BO2z_WaE.js",
+        "raw": 5499,
+        "gzip": 2282
+      },
+      {
+        "file": "dist/server/_next/static/framework~index~page~error~page~app-route-handler-dispatch-mqz3XlId.js",
+        "raw": 53152,
+        "gzip": 15896
+      },
+      {
+        "file": "dist/server/_next/static/framework~index~page~layout~loading~not-found~page~app-page-cache-render~app-page-cache~met~fl50d38z-DKEdLlCT.js",
+        "raw": 824,
+        "gzip": 554
+      },
+      {
+        "file": "dist/server/_next/static/headers-DN_eK0hF.js",
+        "raw": 5001,
+        "gzip": 2051
+      },
+      {
+        "file": "dist/server/_next/static/headers-E6beZaf2.js",
+        "raw": 10958,
+        "gzip": 3797
+      },
+      {
+        "file": "dist/server/_next/static/http-error-responses-Ch9ZKbQ5.js",
+        "raw": 762,
+        "gzip": 339
+      },
+      {
+        "file": "dist/server/_next/static/implicit-tags-C0UGB4Qd.js",
+        "raw": 736,
+        "gzip": 439
+      },
+      {
+        "file": "dist/server/_next/static/isr-cache-C80AaC_l.js",
+        "raw": 3362,
+        "gzip": 1629
+      },
+      {
+        "file": "dist/server/_next/static/isr-decision-BSimfwsy.js",
+        "raw": 763,
+        "gzip": 365
+      },
+      {
+        "file": "dist/server/_next/static/language-preference-0NokN1Si.js",
+        "raw": 89,
+        "gzip": 100
+      },
+      {
+        "file": "dist/server/_next/static/loading-CnGmuueH.js",
+        "raw": 760,
+        "gzip": 405
+      },
+      {
+        "file": "dist/server/_next/static/magazine-DsW-J_se.js",
+        "raw": 687763,
+        "gzip": 183293
+      },
+      {
+        "file": "dist/server/_next/static/metadata-route-response-CnfO2MAA.js",
+        "raw": 9436,
+        "gzip": 3313
+      },
+      {
+        "file": "dist/server/_next/static/metadata-routes-D626soOy.js",
+        "raw": 4156,
+        "gzip": 1506
+      },
+      {
+        "file": "dist/server/_next/static/navigation-context-state-CerKdu5C.js",
+        "raw": 930,
+        "gzip": 472
+      },
+      {
+        "file": "dist/server/_next/static/navigation.react-server-DvH2YKvW.js",
+        "raw": 649,
+        "gzip": 383
+      },
+      {
+        "file": "dist/server/_next/static/next-error-digest-5ayqyzJb.js",
+        "raw": 631,
+        "gzip": 422
+      },
+      {
+        "file": "dist/server/_next/static/page-CiWiapJn.js",
+        "raw": 648,
+        "gzip": 438
+      },
+      {
+        "file": "dist/server/_next/static/page-DSf4fdkH.js",
+        "raw": 2530,
+        "gzip": 1325
+      },
+      {
+        "file": "dist/server/_next/static/ppr-fallback-shell-Bsn4mtxE.js",
+        "raw": 2197,
+        "gzip": 964
+      },
+      {
+        "file": "dist/server/_next/static/prerender-cache-life-header-DAvkuPVF.js",
+        "raw": 494,
+        "gzip": 295
+      },
+      {
+        "file": "dist/server/_next/static/record-BGze3w87.js",
+        "raw": 79,
+        "gzip": 93
+      },
+      {
+        "file": "dist/server/_next/static/request-pipeline-DYiKw4hL.js",
+        "raw": 3859,
+        "gzip": 1567
+      },
+      {
+        "file": "dist/server/_next/static/rolldown-runtime-hePW80VL.js",
+        "raw": 716,
+        "gzip": 430
+      },
+      {
+        "file": "dist/server/_next/static/root-params-iz8t1iI4.js",
+        "raw": 688,
+        "gzip": 420
+      },
+      {
+        "file": "dist/server/_next/static/route-pattern-DLhUQ8rN.js",
+        "raw": 2196,
+        "gzip": 819
+      },
+      {
+        "file": "dist/server/_next/static/server-CCRkqc6d.js",
+        "raw": 720,
+        "gzip": 455
+      },
+      {
+        "file": "dist/server/_next/static/text-stream-Csfvp9y4.js",
+        "raw": 19641,
+        "gzip": 5787
+      },
+      {
+        "file": "dist/server/_next/static/thenable-params-DPLmuRPO.js",
+        "raw": 2410,
+        "gzip": 922
+      },
+      {
+        "file": "dist/server/_next/static/worker-prerender-discovery-BCrzOT8Z.js",
+        "raw": 831,
+        "gzip": 482
+      },
+      {
+        "file": "dist/server/index.js",
+        "raw": 337041,
+        "gzip": 77536
+      },
+      {
+        "file": "dist/server/ssr/__vite_rsc_assets_manifest.js",
+        "raw": 4371,
+        "gzip": 615
+      },
+      {
+        "file": "dist/server/ssr/_next/static/app-elements-f3sdnbDq.js",
+        "raw": 11423,
+        "gzip": 3556
+      },
+      {
+        "file": "dist/server/ssr/_next/static/app-nav-failure-handler-BW2-CIfV.js",
+        "raw": 72,
+        "gzip": 71
+      },
+      {
+        "file": "dist/server/ssr/_next/static/app-prefetch-fetch-queue-BKsfy85I.js",
+        "raw": 491,
+        "gzip": 310
+      },
+      {
+        "file": "dist/server/ssr/_next/static/app-router-scroll-DnofFVX1.js",
+        "raw": 2255,
+        "gzip": 1060
+      },
+      {
+        "file": "dist/server/ssr/_next/static/app-router-scroll-state-Ddg0JoEg.js",
+        "raw": 1085,
+        "gzip": 556
+      },
+      {
+        "file": "dist/server/ssr/_next/static/arrow-up-right-C0-w3Dk0.js",
+        "raw": 170,
+        "gzip": 159
+      },
+      {
+        "file": "dist/server/ssr/_next/static/catalog-jfc5PwPD.js",
+        "raw": 883594,
+        "gzip": 221702
+      },
+      {
+        "file": "dist/server/ssr/_next/static/dist-CKz6fges.js",
+        "raw": 36229,
+        "gzip": 11981
+      },
+      {
+        "file": "dist/server/ssr/_next/static/error-CyIE777j.js",
+        "raw": 746,
+        "gzip": 451
+      },
+      {
+        "file": "dist/server/ssr/_next/static/error-boundary-G0wSvmxq.js",
+        "raw": 5687,
+        "gzip": 1743
+      },
+      {
+        "file": "dist/server/ssr/_next/static/gallery-viewer-BZTk8RCJ.js",
+        "raw": 26076,
+        "gzip": 10322
+      },
+      {
+        "file": "dist/server/ssr/_next/static/html-limited-bots-dINqnf4n.js",
+        "raw": 2006,
+        "gzip": 969
+      },
+      {
+        "file": "dist/server/ssr/_next/static/hybrid-client-route-owner-DmwXsySS.js",
+        "raw": 166,
+        "gzip": 137
+      },
+      {
+        "file": "dist/server/ssr/_next/static/jsx-runtime-NZYk81nU.js",
+        "raw": 435,
+        "gzip": 303
+      },
+      {
+        "file": "dist/server/ssr/_next/static/landing-CbsG1G6p.js",
+        "raw": 3508,
+        "gzip": 1395
+      },
+      {
+        "file": "dist/server/ssr/_next/static/language-preference-C1DmW-_p.js",
+        "raw": 2194,
+        "gzip": 1190
+      },
+      {
+        "file": "dist/server/ssr/_next/static/layout-segment-context-qLTSxH2b.js",
+        "raw": 517,
+        "gzip": 355
+      },
+      {
+        "file": "dist/server/ssr/_next/static/magazine-C5JZ7dO9.js",
+        "raw": 18125,
+        "gzip": 7076
+      },
+      {
+        "file": "dist/server/ssr/_next/static/navigation-BoCA7Ihm.js",
+        "raw": 3587,
+        "gzip": 1445
+      },
+      {
+        "file": "dist/server/ssr/_next/static/navigation-context-state-epLgkn2X.js",
+        "raw": 1612,
+        "gzip": 647
+      },
+      {
+        "file": "dist/server/ssr/_next/static/navigation-errors-D5mcf3ZW.js",
+        "raw": 2182,
+        "gzip": 953
+      },
+      {
+        "file": "dist/server/ssr/_next/static/navigation-server-BQcEc4lX.js",
+        "raw": 47,
+        "gzip": 67
+      },
+      {
+        "file": "dist/server/ssr/_next/static/preference-gate-D9aS2BSo.js",
+        "raw": 653,
+        "gzip": 416
+      },
+      {
+        "file": "dist/server/ssr/_next/static/react-CCoDwwN3.js",
+        "raw": 7268,
+        "gzip": 2808
+      },
+      {
+        "file": "dist/server/ssr/_next/static/react-dom-CFTqsTBy.js",
+        "raw": 3583,
+        "gzip": 1356
+      },
+      {
+        "file": "dist/server/ssr/_next/static/record-BGze3w87.js",
+        "raw": 79,
+        "gzip": 93
+      },
+      {
+        "file": "dist/server/ssr/_next/static/roadmap-2Af4e69-.js",
+        "raw": 12505,
+        "gzip": 4461
+      },
+      {
+        "file": "dist/server/ssr/_next/static/roadmap-CqafanE7.js",
+        "raw": 261188,
+        "gzip": 57630
+      },
+      {
+        "file": "dist/server/ssr/_next/static/rolldown-runtime-hePW80VL.js",
+        "raw": 716,
+        "gzip": 430
+      },
+      {
+        "file": "dist/server/ssr/_next/static/route-matching-DJf4hNaF.js",
+        "raw": 47,
+        "gzip": 67
+      },
+      {
+        "file": "dist/server/ssr/_next/static/site-app-BDWBv3Jf.js",
+        "raw": 294155,
+        "gzip": 93268
+      },
+      {
+        "file": "dist/server/ssr/_next/static/static.edge-B2WA1QpO.js",
+        "raw": 212,
+        "gzip": 163
+      },
+      {
+        "file": "dist/server/ssr/_next/static/streamed-icons-CZ_FzhwY.js",
+        "raw": 735,
+        "gzip": 471
+      },
+      {
+        "file": "dist/server/ssr/_next/static/wiki-details-_ebZSKHf.js",
+        "raw": 8428,
+        "gzip": 3274
+      },
+      {
+        "file": "dist/server/ssr/index.js",
+        "raw": 262749,
+        "gzip": 81583
+      },
+      {
+        "file": "dist/server/ssr/vinext-client-assets.js",
+        "raw": 4430,
+        "gzip": 679
+      },
+      {
+        "file": "dist/server/vinext-client-assets.js",
+        "raw": 4430,
+        "gzip": 679
+      }
+    ]
+  },
+  "validation": {
+    "types": "passed",
+    "tests": 52,
+    "content": "passed: 755 cosmetics, 905 images, 714 regional records, 252 Global events, 78 deadlines",
+    "forecastHistory": "unchanged",
+    "build": "passed",
+    "independentReview": "No blockers; exact values, property order, JSON own __proto__ properties, independent nested objects and arrays verified."
+  },
+  "limits": [
+    "Headroom remains bounded; rerun archive budget for each update.",
+    "No physical iOS/Android, Firefox/WebKit, 200% enlargement, throttled network, or field Core Web Vitals verified.",
+    "200 KB initial JavaScript target remains unverified."
+  ],
+  "browserChecks": {
+    "runtime": "Local production Worker; Codex in-app Chromium; no throttling",
+    "viewports": [
+      {
+        "width": 1440,
+        "height": 1000
+      },
+      {
+        "width": 390,
+        "height": 844
+      }
+    ],
+    "checked": [
+      "EN romanized search returned Zhu Ma Zi, one matching record and CN 60 Echo Beads",
+      "EN detail and 4-photo gallery; next image changed image 1 to 2 and updated original URL",
+      "KO switch retained search query; KO mobile detail loaded all 7 visible images",
+      "KO mobile detail bounds: left 0, right 390, top 12, bottom 844; page scrollWidth 390",
+      "KO roadmap showed official November 8 entries, unknowns and precision-aware deadlines",
+      "KO calendar moved November to October; EN switch retained calendar mode and 2026-10",
+      "EN mobile calendar and KO desktop calendar rendered; no console errors observed"
+    ],
+    "captures": [
+      "2026-11-02-compact-ui/en-1440-detail.png",
+      "2026-11-02-compact-ui/en-390-calendar.png",
+      "2026-11-02-compact-ui/ko-1440-calendar.png",
+      "2026-11-02-compact-ui/ko-390-calendar.png",
+      "2026-11-02-compact-ui/ko-390-detail.png",
+      "2026-11-02-compact-ui/ko-390-roadmap.png"
+    ]
+  }
+}

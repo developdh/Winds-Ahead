@@ -4,7 +4,7 @@
 
 [한국어](../ko/mvp-status.md) · [README](../../README.md) · [Latest release](releasing.md)
 
-Updated October 31, 2026. [Winds Ahead](https://windsahead.com/en) and its source repository are public. The initial owner-private MVP was superseded by the [September 13 public release](public-launch.md); historical milestone counts and checks remain in their dated reports.
+Updated November 2, 2026. [Winds Ahead](https://windsahead.com/en) and its source repository are public. The initial owner-private MVP was superseded by the [September 13 public release](public-launch.md); historical milestone counts and checks remain in their dated reports.
 
 ## Implemented experience
 
@@ -43,7 +43,7 @@ Use a reviewable branch and English PR with paired English/Korean documentation.
 
 ## Verification limits
 
-Current content checks belong in [v0.3.16 notes](releases/0.3.16.md), followed by the [v0.3.17 deployment fix](releases/0.3.17.md) and [v0.3.18 URL compatibility fix](releases/0.3.18.md); earlier test counts are historical. Physical iOS/Android, Firefox/WebKit, 200% text enlargement, throttled-network performance and field Core Web Vitals still require separate coverage. The 200 KB initial JavaScript target remains unverified. The public issue tracker accepts corrections/removal requests; third-party artwork remains outside the code license with reuse permission unknown.
+The official-source review remains in [v0.3.16 notes](releases/0.3.16.md), followed by the [v0.3.17 deployment fix](releases/0.3.17.md), [v0.3.18 URL compatibility fix](releases/0.3.18.md) and [v0.3.19 lossless visitor-data compaction](releases/0.3.19.md). The latest build passes 52 tests with unchanged content and static assets; earlier test counts are historical. Physical iOS/Android, Firefox/WebKit, 200% text enlargement, throttled-network performance and field Core Web Vitals still require separate coverage. Aggregate client build-size reductions do not establish initial transfer or loading speed; the 200 KB initial JavaScript target remains unverified. The public issue tracker accepts corrections/removal requests; third-party artwork remains outside the code license with reuse permission unknown.
 
 ## Magazine · October 1, 2026
 
