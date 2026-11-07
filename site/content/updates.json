@@ -2,6 +2,31 @@
   "schemaVersion": 1,
   "entries": [
     {
+      "id": "november7-official-appearances",
+      "date": "2026-11-07",
+      "kind": {
+        "en": "Official appearance and deadline review",
+        "ko": "공식 외관·종료 일정 검토"
+      },
+      "title": {
+        "en": "Nine China appearances and five Global anniversary announcements",
+        "ko": "중국 외관 9종과 글로벌 1주년 예고 5종"
+      },
+      "body": {
+        "en": "Added nine CN appearances, including the new pass, shop and Harmony Shop listings and four reward accessories. The patch confirms three timed listing ends and the turtle event close, with timezones unstated. Matched five Global announcements for November 13 at 23:00 UTC+8 to existing identities and added thirteen checked reference images. Separate claim dates, undisclosed prices and Global Korean official names remain unknown.",
+        "ko": "새 강호령·상점·공명 상점 외관과 보상 장신구 4종 등 중국 외관 9종을 추가했습니다. 패치에 명시된 획득 종료 3건과 거북이 이벤트 종료는 시간대 미정으로 기록했습니다. 11월 13일 23:00 UTC+8 글로벌 예고 5종을 기존 외관과 대조하고 검수한 참고 이미지 13장을 추가했습니다. 별도 수령 기한, 미공개 가격, 글로벌 한국어 공식명은 미정입니다."
+      },
+      "sourceIds": [
+        "cn-20261105-november6-appearances",
+        "cn-20261106-update",
+        "cn-20261106-hotfix",
+        "global-20261105-hutuo-battle-pass",
+        "global-20261106-flowing-clarity",
+        "global-20261107-spectral-scroll",
+        "global-20261107-iris-herald"
+      ]
+    },
+    {
       "id": "october31-official-appearances",
       "date": "2026-10-31",
       "kind": {

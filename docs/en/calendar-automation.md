@@ -4,7 +4,7 @@
 
 GitHub remains canonical. The previously selected daily 9:00 AM America/New_York check keeps its timing and notification preferences. No new schedule, GPT API service or automatic merge is introduced. Editorial forecasting is discontinued as of October 2, 2026.
 
-1. Read AGENTS.md and the current policy. Inspect registered China, Global and Korean official sources, including the official Korean Cafe notice body when needed.
+1. Read AGENTS.md and the current policy. Inspect registered China, Global and Korean official sources. The [official Korean Naver Lounge](https://game.naver.com/lounge/Where_Winds_Meet/home) carries current Korean notices following the October 28 move. Use the [official Cafe](https://cafe.naver.com/ca-fe/cafes/31511138/articles/2336) for earlier notices and record any login or access limits.
 2. Verify regional identity, English/Korean names, acquisition, prices, sale/exchange/discount/event ends and usable missing photographs together. Keep server facts, community observations, date precision and unknown timezones distinct. Do not turn elapsed announcements into confirmed releases without release evidence.
 3. Fill supported gaps proactively. When no new announcement exists, inspect a bounded batch of missing galleries, prioritizing current rewards and approaching deadlines. Visually inspect named item images, prefer usable female views, retain full originals and record attribution and unknown redistribution permission.
 4. Do not create, revise, reactivate or publish forecasts. Unannounced dates stay unknown; historical forecasts and withdrawal revisions remain audit records. Do not renew their review deadlines.
