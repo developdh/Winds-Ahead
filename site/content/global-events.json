@@ -41,6 +41,58 @@
       "verifiedAt": "2026-09-29",
       "imageUrl": "https://r.res.easebar.com/pic/20260929/d72e5b7c-5433-4d31-988e-d0c5828720c0.png",
       "verificationNote": "Read both original image notices. October 4 item listings and November 3 discount end are explicit; these posters do not print a timezone. Korean image header says September 16 despite the September 30 page title; use explicit dates in the item sections. Korean outfit paragraph repeats the effect name once; outfit heading and purchase sentence agree on 홍염의 밤."
+    },
+    {
+      "id": "global-20261105-hutuo-battle-pass",
+      "url": "https://x.com/WhereWindsMeet_/status/2118357684911042887",
+      "publisher": "Where Winds Meet / NetEase (official X)",
+      "server": "Global",
+      "titleOriginal": "Frostbound Edge and Willow Breeze — Battle Pass appearance announcement",
+      "displayedPublicationDate": "2026-11-05",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": "UTC",
+      "evidenceTier": "A",
+      "verifiedAt": "2026-11-07",
+      "verificationNote": "Publisher-author metadata and attached posters were checked through the official X syndication response. The expanded post gives both time windows. The new outfit is linked by artwork. The returning outfit is retained in the intake evidence pending repair of a historical identity mismatch."
+    },
+    {
+      "id": "global-20261106-flowing-clarity",
+      "url": "https://x.com/WhereWindsMeet_/status/2118674769608585388",
+      "publisher": "Where Winds Meet / NetEase (official X)",
+      "server": "Global",
+      "titleOriginal": "Flowing Clarity — Luminous Tides and Lucent Ripples",
+      "displayedPublicationDate": "2026-11-06",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": "UTC",
+      "evidenceTier": "A",
+      "verifiedAt": "2026-11-07",
+      "verificationNote": "Publisher-author metadata and attached posters were checked through the official X syndication response. The expanded post identifies both event appearances. The date range is for the event. The individual prices, odds and later availability are unstated."
+    },
+    {
+      "id": "global-20261107-spectral-scroll",
+      "url": "https://x.com/WhereWindsMeet_/status/2119006953561329995",
+      "publisher": "Where Winds Meet / NetEase (official X)",
+      "server": "Global",
+      "titleOriginal": "Spectral Scroll — Whispered Omens",
+      "displayedPublicationDate": "2026-11-07",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": "UTC",
+      "evidenceTier": "A",
+      "verifiedAt": "2026-11-07",
+      "verificationNote": "Publisher-author metadata and attached posters were checked through the official X syndication response. The expanded post describes event quests and limited-time discounts. The posters label the set a shop appearance. Exact prices and a separate shop expiry are unstated."
+    },
+    {
+      "id": "global-20261107-iris-herald",
+      "url": "https://x.com/WhereWindsMeet_/status/2119067355129197012",
+      "publisher": "Where Winds Meet / NetEase (official X)",
+      "server": "Global",
+      "titleOriginal": "Iris Herald — Draw Hairstyle and Accessory Set",
+      "displayedPublicationDate": "2026-11-07",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": "UTC",
+      "evidenceTier": "A",
+      "verifiedAt": "2026-11-07",
+      "verificationNote": "The official X syndication response includes the complete announcement text and named posters. The draw window is explicit. Currency, cost, exchange path and official Korean label are unstated."
     }
   ],
   "events": [
@@ -4288,6 +4340,86 @@
       "scope": {
         "en": "Announced opening: 2026-11-08 00:00 UTC+8 in the October 29 named EN HTML; KO says 01:00 without a timezone. Calendar retains day precision. Actual release/current in-game availability is unverified.",
         "ko": "10월 29일 개별 영문 본문은 2026-11-08 00:00 UTC+8 출시를 예고합니다. 한국어는 01:00이며 시간대 미표기입니다. 캘린더는 날짜 정밀도를 유지합니다. 실제 출시·현재 게임 내 획득 여부는 미확인입니다."
+      }
+    },
+    {
+      "id": "announced-global-qing-feng-ying-xue-2026-11-13",
+      "cosmeticId": "qing-feng-ying-xue",
+      "date": "2026-11-13",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "status": "announced",
+      "sourceIds": [
+        "global-20261105-hutuo-battle-pass"
+      ],
+      "scope": {
+        "en": "Official announcement opens November 13, 2026 at 23:00 UTC+8. The calendar retains day precision. Actual release and in-game availability are pending.",
+        "ko": "공식 공지의 시작은 2026년 11월 13일 23:00 UTC+8입니다. 캘린더는 날짜 정밀도를 유지합니다. 실제 출시와 게임 내 획득 여부는 확인 전입니다."
+      }
+    },
+    {
+      "id": "announced-global-du-yao-jin-2026-11-13",
+      "cosmeticId": "du-yao-jin",
+      "date": "2026-11-13",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "status": "announced",
+      "sourceIds": [
+        "global-20261106-flowing-clarity"
+      ],
+      "scope": {
+        "en": "Official announcement opens November 13, 2026 at 23:00 UTC+8. The calendar retains day precision. Actual release and in-game availability are pending.",
+        "ko": "공식 공지의 시작은 2026년 11월 13일 23:00 UTC+8입니다. 캘린더는 날짜 정밀도를 유지합니다. 실제 출시와 게임 내 획득 여부는 확인 전입니다."
+      }
+    },
+    {
+      "id": "announced-global-qing-lian-2026-11-13",
+      "cosmeticId": "qing-lian",
+      "date": "2026-11-13",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "status": "announced",
+      "sourceIds": [
+        "global-20261106-flowing-clarity"
+      ],
+      "scope": {
+        "en": "Official announcement opens November 13, 2026 at 23:00 UTC+8. The calendar retains day precision. Actual release and in-game availability are pending.",
+        "ko": "공식 공지의 시작은 2026년 11월 13일 23:00 UTC+8입니다. 캘린더는 날짜 정밀도를 유지합니다. 실제 출시와 게임 내 획득 여부는 확인 전입니다."
+      }
+    },
+    {
+      "id": "announced-global-baigui-zhi-yi-2026-11-13",
+      "cosmeticId": "baigui-zhi-yi",
+      "date": "2026-11-13",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "status": "announced",
+      "sourceIds": [
+        "global-20261107-spectral-scroll"
+      ],
+      "scope": {
+        "en": "Official announcement opens November 13, 2026 at 23:00 UTC+8. The calendar retains day precision. Actual release and in-game availability are pending.",
+        "ko": "공식 공지의 시작은 2026년 11월 13일 23:00 UTC+8입니다. 캘린더는 날짜 정밀도를 유지합니다. 실제 출시와 게임 내 획득 여부는 확인 전입니다."
+      }
+    },
+    {
+      "id": "announced-global-qing-luan-yao-yin-2026-11-13",
+      "cosmeticId": "qing-luan-yao-yin",
+      "date": "2026-11-13",
+      "precision": "day",
+      "server": "Global",
+      "kind": "release",
+      "status": "announced",
+      "sourceIds": [
+        "global-20261107-iris-herald"
+      ],
+      "scope": {
+        "en": "Official announcement opens November 13, 2026 at 23:00 UTC+8. The calendar retains day precision. Actual release and in-game availability are pending.",
+        "ko": "공식 공지의 시작은 2026년 11월 13일 23:00 UTC+8입니다. 캘린더는 날짜 정밀도를 유지합니다. 실제 출시와 게임 내 획득 여부는 확인 전입니다."
       }
     }
   ]

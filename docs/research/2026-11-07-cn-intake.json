@@ -1,0 +1,284 @@
+{
+  "checkedAt": "2026-11-07",
+  "reviewTimezone": "America/New_York",
+  "baseline": "v0.3.19",
+  "sources": [
+    {
+      "id": "cn-20261105-november6-appearances",
+      "url": "https://www.yysls.cn/news/official/20261106/37780_1319026.html",
+      "titleOriginal": "DLSS 5官宣定档，福龟寻乐梦本周上线！",
+      "displayedPublicationDate": "2026-11-05",
+      "urlPathDate": "2026-11-06",
+      "dateDiscrepancyNote": "Displayed publication date is November 5; the URL directory is November 6.",
+      "sourceImageCaveat": {
+        "en": "Official development preview. Final in-game appearance may differ.",
+        "ko": "공식 개발 미리보기이며 최종 게임 내 모습과 다를 수 있습니다."
+      },
+      "verificationNote": "Named appearance and event sections reviewed. The November 6 patch supplies controlling item-specific schedules where the preview differs. Selected named artwork visually checked.",
+      "imageUrls": [
+        "https://nie.res.netease.com/r/pic/20261106/75786da9-8d5d-499b-964f-36d3bc2a83c1.jpg",
+        "https://nie.res.netease.com/r/pic/20261106/6c8ff81e-8376-4722-8b91-635ab3700241.jpg",
+        "https://nie.res.netease.com/r/pic/20261106/618adb16-75f8-4dcd-9da0-715a21e50bc0.png",
+        "https://nie.res.netease.com/r/pic/20261106/b9b0af1a-41ab-4d3a-9f7b-b103a5eb0a2e.jpg",
+        "https://nie.res.netease.com/r/pic/20261106/5fde67cd-a7a5-450a-96b2-a1ccf1825dc8.jpg"
+      ],
+      "publisher": "燕云十六声 / NetEase official website",
+      "server": "CN",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-11-07"
+    },
+    {
+      "id": "cn-20261106-update",
+      "url": "https://www.yysls.cn/news/update/20261106/40412_1318985.html",
+      "titleOriginal": "11月6日2.9.5A版本「长乐夜未央」更新公告",
+      "displayedPublicationDate": "2026-11-06",
+      "verificationNote": "Original patch posters read in relevant sections. Poster 2 supplies the Battle Pass window and named level-100 trial drops. Poster 3 supplies the event close and named shop terms. Printed clocks are kept with unknown timezones.",
+      "imageUrls": [
+        "https://nie.res.netease.com/r/pic/20261106/3c2c97e7-b103-45e5-8d95-2f5e5ce2a0b3.jpg",
+        "https://nie.res.netease.com/r/pic/20261106/157ee55f-5dc1-4c6d-8bc2-301d90c308e2.jpg",
+        "https://nie.res.netease.com/r/pic/20261106/2203fca5-eb06-4335-9655-176ff7289755.jpg",
+        "https://nie.res.netease.com/r/pic/20261106/cbb80826-c26a-4030-8bab-e4cac88ed414.jpg"
+      ],
+      "publisher": "燕云十六声 / NetEase official website",
+      "server": "CN",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-11-07"
+    },
+    {
+      "id": "cn-20261106-hotfix",
+      "url": "https://www.yysls.cn/news/update/20261106/40412_1319024.html",
+      "titleOriginal": "11月6日2.9.5A版本在线修复公告",
+      "displayedPublicationDate": "2026-11-06",
+      "verificationNote": "The November 6 online hotfix identifies outstanding display problems in the female hair and outfit for 空林蜕梦. This corroborates appearance presence by November 6. First listing time and current availability remain unverified.",
+      "publisher": "燕云十六声 / NetEase official website",
+      "server": "CN",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-11-07"
+    },
+    {
+      "id": "cn-20260924-nan-lu-xiang-he-update",
+      "url": "https://www.yysls.cn/news/update/20260924/40412_1314982.html",
+      "titleOriginal": "9月24日2.8.5版本「平澜起风波」更新公告",
+      "publisher": "燕云十六声 / NetEase official website",
+      "server": "CN",
+      "displayedPublicationDate": "2026-09-24",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-11-07",
+      "imageUrls": [
+        "https://nie.res.netease.com/r/pic/20260924/d120f84d-e5a0-45a6-be34-f4c2b9a100c2.jpg"
+      ],
+      "verificationNote": "The official second patch poster, in the 南吕相和·上 season section, prints its original close as November 6, 2026 04:59:59 with no timezone. The November 6 notice explicitly extends this CN season by one day."
+    }
+  ],
+  "sourcePosters": [
+    {
+      "index": 1,
+      "url": "https://nie.res.netease.com/r/pic/20261106/3c2c97e7-b103-45e5-8d95-2f5e5ce2a0b3.jpg",
+      "width": 2688,
+      "height": 28827,
+      "bytes": 14116038,
+      "sha256": "f73d345eb184357b94dd4d19b8b28f2e0bd745f885f42825bc22fa47a1c98b64"
+    },
+    {
+      "index": 2,
+      "url": "https://nie.res.netease.com/r/pic/20261106/157ee55f-5dc1-4c6d-8bc2-301d90c308e2.jpg",
+      "width": 2688,
+      "height": 25263,
+      "bytes": 10217490,
+      "sha256": "d6d388e1a5403a8458fedf2be46b8945aeb8fef7ffb3107ee510c707014ef217"
+    },
+    {
+      "index": 3,
+      "url": "https://nie.res.netease.com/r/pic/20261106/2203fca5-eb06-4335-9655-176ff7289755.jpg",
+      "width": 2688,
+      "height": 30362,
+      "bytes": 17540679,
+      "sha256": "77e9704f79e0344d480c45f2d7b3e69b6958e87f49015c387f20853f56858f43"
+    },
+    {
+      "index": 4,
+      "url": "https://nie.res.netease.com/r/pic/20261106/cbb80826-c26a-4030-8bab-e4cac88ed414.jpg",
+      "width": 2688,
+      "height": 41494,
+      "bytes": 13290017,
+      "sha256": "68c7def370d06ac36ed434a357ef7162cbe37d4e28e16a35166d2401a370c9e3"
+    }
+  ],
+  "priorityEvidence": [
+    {
+      "item": "食为天",
+      "preview": "November 6 after update",
+      "patch": "November 7 05:00:00 to December 25 04:59:59, timezone unknown",
+      "section": "Poster 2, 南吕相和·下"
+    },
+    {
+      "item": "要发发",
+      "preview": "福龟寻乐梦 event November 6–30",
+      "patch": "After November 6 update to December 3 04:59:59, timezone unknown. Two cumulative prayers. Separate claim deadline unstated.",
+      "section": "Poster 3, 福龟寻乐梦"
+    },
+    {
+      "item": "空林蜕梦",
+      "preview": "November 6 through December 6 at 05:00",
+      "patch": "After November 6 update to December 6 04:59:59, timezone unknown",
+      "hotfix": "Named known issue corroborates in-game presence by November 6.",
+      "section": "Poster 3, 全新外观上架"
+    },
+    {
+      "item": "醉流霞",
+      "preview": "90 days from November 6",
+      "patch": "After November 6 update to February 4, 2027 04:59:59, timezone unknown",
+      "section": "Poster 3, 全新外观上架"
+    },
+    {
+      "item": "踏雪寻春",
+      "patch": "360-day listing after November 6 update. Exact end unstated.",
+      "section": "Poster 3, 全新外观上架"
+    },
+    {
+      "item": "灵鸡一动",
+      "patch": "60 长鸣珠 after November 6 update. Exact end unstated.",
+      "section": "Poster 3, 全新外观上架"
+    },
+    {
+      "items": [
+        "何堪守",
+        "扫沉疴",
+        "定风铃"
+      ],
+      "patch": "Chance drops from named level-100 trials. The second route is announced for December 25 in 不肝商店, voucher quantity unstated. No individual item expiry.",
+      "section": "Poster 2, 多人镇守 强敌来袭"
+    }
+  ],
+  "media": [
+    {
+      "cosmeticId": "shi-wei-tian",
+      "url": "https://nie.res.netease.com/r/pic/20261106/75786da9-8d5d-499b-964f-36d3bc2a83c1.jpg",
+      "width": 1080,
+      "height": 1920,
+      "bytes": 1907998,
+      "sha256": "5750fbba22bcd79e35d4fe556a3ff4ab8efb16fe1144f1ed73ee9be5b1f7d850",
+      "displaySubject": "female"
+    },
+    {
+      "cosmeticId": "kong-lin-tui-meng",
+      "url": "https://nie.res.netease.com/r/pic/20261106/6c8ff81e-8376-4722-8b91-635ab3700241.jpg",
+      "width": 1080,
+      "height": 1920,
+      "bytes": 1887631,
+      "sha256": "34a89ac0a7c7ab17ec685c1f0a80478561930206c0a8ef701776f7d70a27e3ba",
+      "displaySubject": "female"
+    },
+    {
+      "cosmeticId": "zui-liu-xia",
+      "url": "https://nie.res.netease.com/r/pic/20261106/618adb16-75f8-4dcd-9da0-715a21e50bc0.png",
+      "width": 1080,
+      "height": 1920,
+      "bytes": 3737458,
+      "sha256": "b11ecadd919b29c24fd9dea6cf34a931f3cb15fc3d599396a3bde5383d357687",
+      "displaySubject": "female"
+    },
+    {
+      "cosmeticId": "ta-xue-xun-chun",
+      "url": "https://nie.res.netease.com/r/pic/20261106/b9b0af1a-41ab-4d3a-9f7b-b103a5eb0a2e.jpg",
+      "width": 5120,
+      "height": 2880,
+      "bytes": 5098026,
+      "sha256": "99b6c2252b37c4ea75870a4ec93882d193fe322200c68da076607a1dfdae1861",
+      "displaySubject": "item"
+    },
+    {
+      "cosmeticId": "ling-ji-yi-dong",
+      "url": "https://nie.res.netease.com/r/pic/20261106/5fde67cd-a7a5-450a-96b2-a1ccf1825dc8.jpg",
+      "width": 1440,
+      "height": 2560,
+      "bytes": 5350504,
+      "sha256": "04158ded4b0fb27ef702c8e2c04105c7c2324602ce68b942c724c111a0d9a19b",
+      "displaySubject": "item"
+    },
+    {
+      "cosmeticId": "he-kan-shou",
+      "url": "https://nie.res.netease.com/r/pic/20261106/157ee55f-5dc1-4c6d-8bc2-301d90c308e2.jpg",
+      "width": 2688,
+      "height": 25263,
+      "bytes": 10217490,
+      "sha256": "d6d388e1a5403a8458fedf2be46b8945aeb8fef7ffb3107ee510c707014ef217",
+      "sourceCrop": [
+        926,
+        7640,
+        1700,
+        8435
+      ],
+      "displaySubject": "item"
+    },
+    {
+      "cosmeticId": "sao-chen-ke",
+      "url": "https://nie.res.netease.com/r/pic/20261106/157ee55f-5dc1-4c6d-8bc2-301d90c308e2.jpg",
+      "width": 2688,
+      "height": 25263,
+      "bytes": 10217490,
+      "sha256": "d6d388e1a5403a8458fedf2be46b8945aeb8fef7ffb3107ee510c707014ef217",
+      "sourceCrop": [
+        1708,
+        7640,
+        2518,
+        8435
+      ],
+      "displaySubject": "item"
+    },
+    {
+      "cosmeticId": "ding-feng-ling",
+      "url": "https://nie.res.netease.com/r/pic/20261106/157ee55f-5dc1-4c6d-8bc2-301d90c308e2.jpg",
+      "width": 2688,
+      "height": 25263,
+      "bytes": 10217490,
+      "sha256": "d6d388e1a5403a8458fedf2be46b8945aeb8fef7ffb3107ee510c707014ef217",
+      "sourceCrop": [
+        170,
+        7640,
+        920,
+        8435
+      ],
+      "displaySubject": "item"
+    }
+  ],
+  "mediaLimits": "Gallery pending for 要发发 because no named image match was visually established. The trial rewards use named diagrams without verified worn views. Attribution and source links retain provenance; redistribution permission is unknown.",
+  "scope": "Bounded new main listings and explicitly named rewards. Other event store entries and legacy shop routes require item-by-item follow-up.",
+  "relatedEarlierPass": {
+    "cosmeticId": "hong-ye-xiao-xiao",
+    "sourceIds": [
+      "cn-20260924-nan-lu-xiang-he-update",
+      "cn-20261106-update"
+    ],
+    "originalEnd": "2026-11-06T04:59:59",
+    "precision": "second",
+    "timezone": null,
+    "originalPoster": {
+      "url": "https://nie.res.netease.com/r/pic/20260924/d120f84d-e5a0-45a6-be34-f4c2b9a100c2.jpg",
+      "width": 2688,
+      "height": 43478,
+      "sha256": "339e8d45b36e34304bd59a4066df431c5d349ed8feb057e68cac153ea246ff38",
+      "sourceCrop": [
+        120,
+        14700,
+        2510,
+        16200
+      ]
+    },
+    "officialChange": "The November 6 patch explicitly extends the preceding 南吕相和·上 pass by one day. The revised exact clock is not separately printed. The CN acquisition note records the change and the prior published time."
+  },
+  "galleryDerivatives": {
+    "totalBytes": 1552018,
+    "fullMaximumSide": 1200,
+    "selectorMaximumSide": 160,
+    "note": "Enlargement retains each full selected composition. Display and selector share the same measured crop."
+  }
+}

@@ -5283,5 +5283,68 @@
       "en": "Accessory within Autumn Eve Whimsy. The named appearance article confirms pack membership; the October 30 notice describes October 29 fixes for buying, equipping and Shop visibility of this exact pack. Pack price, separate-item purchase and sale end are unstated.",
       "ko": "가을밤의 정취에 포함된 장신구입니다. 개별 외관 공지의 구성과 10월 30일 공지의 10월 29일 해당 패키지 구매·착용·상점 노출 오류 수정을 함께 확인했습니다. 패키지 가격·개별 구매·판매 종료는 미표기입니다."
     }
+  },
+  "shi-wei-tian": {
+    "koName": "식위천",
+    "description": {
+      "en": "Red kitchen-themed Battle Pass outfit with an apron, utensils and flatbread at the waist.",
+      "ko": "앞치마와 조리 도구, 허리의 납작한 빵이 특징인 붉은색 요리 테마 배틀패스 의상입니다."
+    }
+  },
+  "kong-lin-tui-meng": {
+    "koName": "공림태몽",
+    "description": {
+      "en": "Deep purple butterfly outfit with embroidered pavilions and flowers, separate top and bottom pieces, and dye support.",
+      "ko": "누각과 꽃 자수를 넣은 짙은 보라색 나비 테마 의상입니다. 상하의 분리·염색을 지원합니다."
+    }
+  },
+  "zui-liu-xia": {
+    "koName": "취류하",
+    "description": {
+      "en": "Dyeable Harmony hairstyle with short waves on the female model and long hair on the male model.",
+      "ko": "여성은 짧은 웨이브, 남성은 긴 머리로 표현되는 염색 가능한 공명 헤어입니다."
+    }
+  },
+  "ta-xue-xun-chun": {
+    "koName": "답설심춘",
+    "description": {
+      "en": "White mechanical bird mount with two-rider flight and a dash.",
+      "ko": "2인 비행과 질주를 지원하는 하얀 기계 새 탈것입니다."
+    }
+  },
+  "ling-ji-yi-dong": {
+    "koName": "영계일동",
+    "description": {
+      "en": "Umbrella weapon skin with a fried-egg canopy and feather-like trim.",
+      "ko": "달걀 프라이 모양 우산과 깃털 장식이 특징인 무기 외관입니다."
+    }
+  },
+  "yao-fa-fa": {
+    "koName": "요발발",
+    "description": {
+      "en": "CN accessory reward for two cumulative prayers in the 福龟寻乐梦 event.",
+      "ko": "福龟寻乐梦 이벤트에서 누적 기원 2회로 획득하는 중국 장식입니다."
+    }
+  },
+  "he-kan-shou": {
+    "koName": "하감수",
+    "description": {
+      "en": "Dark green ring-shaped accessory shown in the CN patch poster.",
+      "ko": "중국 패치 포스터에 제시된 짙은 녹색 고리형 장식입니다."
+    }
+  },
+  "sao-chen-ke": {
+    "koName": "소침아",
+    "description": {
+      "en": "Broom-shaped accessory shown in the CN patch poster.",
+      "ko": "중국 패치 포스터에 제시된 빗자루 모양 장식입니다."
+    }
+  },
+  "ding-feng-ling": {
+    "koName": "정풍령",
+    "description": {
+      "en": "Red ribbon accessory shown in the CN patch poster.",
+      "ko": "중국 패치 포스터에 제시된 붉은 끈 장식입니다."
+    }
   }
 }

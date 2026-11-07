@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "reviewedAt": "2026-10-31",
+  "reviewedAt": "2026-11-07",
   "records": [
     {
       "id": "global-global-wind-s-far-shore-exchange-2026-11-18",
@@ -1503,6 +1503,172 @@
       "note": {
         "en": "EN poster discount end; neither EN nor KO poster states an end timezone. KO clock is 05:59:59. Price then returns from 60 to 300 Echo Beads; this is not a sale end. The named HTML labels only the opening UTC+8.",
         "ko": "영문 이미지의 할인 종료이며 영문·한국어 이미지 모두 종료 시간대를 명시하지 않았습니다. 한국어 시각은 05:59:59입니다. 이후 장명주 60개에서 정가 300개로 돌아가며 판매 종료는 아닙니다. 개별 본문은 시작에만 UTC+8을 명시합니다."
+      }
+    },
+    {
+      "id": "cn-shi-wei-tian-pass-2026-12-25",
+      "cosmeticId": "shi-wei-tian",
+      "server": "CN",
+      "kind": "pass",
+      "startDate": "2026-11-07",
+      "end": "2026-12-25T04:59:59",
+      "precision": "second",
+      "timezone": null,
+      "sourceIds": [
+        "cn-20261106-update",
+        "cn-20261105-november6-appearances"
+      ],
+      "verifiedAt": "2026-11-07",
+      "note": {
+        "en": "The November 6 patch gives the pass window from November 7, 2026 05:00:00 through December 25, 2026 04:59:59. Timezone unstated. The pass window is separate from individual reward levels.",
+        "ko": "11월 6일 패치에 배틀패스 운영 기간이 2026년 11월 7일 05:00:00부터 12월 25일 04:59:59까지로 명시됩니다. 시간대는 미표기입니다. 개별 보상 레벨은 별도입니다."
+      }
+    },
+    {
+      "id": "cn-kong-lin-tui-meng-sale-2026-12-06",
+      "cosmeticId": "kong-lin-tui-meng",
+      "server": "CN",
+      "kind": "sale",
+      "startDate": "2026-11-06",
+      "end": "2026-12-06T04:59:59",
+      "precision": "second",
+      "timezone": null,
+      "sourceIds": [
+        "cn-20261106-update",
+        "cn-20261105-november6-appearances"
+      ],
+      "verifiedAt": "2026-11-07",
+      "note": {
+        "en": "The November 6 patch prints the closing time as December 6, 2026 04:59:59. Timezone unstated.",
+        "ko": "11월 6일 패치에 판매 종료가 2026년 12월 6일 04:59:59로 명시됩니다. 시간대는 미표기입니다."
+      }
+    },
+    {
+      "id": "cn-zui-liu-xia-exchange-2027-02-04",
+      "cosmeticId": "zui-liu-xia",
+      "server": "CN",
+      "kind": "exchange",
+      "startDate": "2026-11-06",
+      "end": "2027-02-04T04:59:59",
+      "precision": "second",
+      "timezone": null,
+      "sourceIds": [
+        "cn-20261106-update",
+        "cn-20261105-november6-appearances"
+      ],
+      "verifiedAt": "2026-11-07",
+      "note": {
+        "en": "The February 4, 2027 04:59:59 exchange end is printed directly in the November 6 patch. Timezone unstated.",
+        "ko": "2027년 2월 4일 04:59:59 교환 종료는 11월 6일 패치에 직접 명시됩니다. 시간대는 미표기입니다."
+      }
+    },
+    {
+      "id": "cn-yao-fa-fa-event-2026-12-03",
+      "cosmeticId": "yao-fa-fa",
+      "server": "CN",
+      "kind": "event",
+      "startDate": "2026-11-06",
+      "end": "2026-12-03T04:59:59",
+      "precision": "second",
+      "timezone": null,
+      "sourceIds": [
+        "cn-20261106-update",
+        "cn-20261105-november6-appearances"
+      ],
+      "verifiedAt": "2026-11-07",
+      "note": {
+        "en": "The November 6 patch gives the event close as December 3, 2026 04:59:59, superseding the preview’s November 30 date. Timezone and separate claim deadline are unstated.",
+        "ko": "11월 6일 패치가 앞선 미리보기의 11월 30일 대신 2026년 12월 3일 04:59:59를 이벤트 종료로 명시합니다. 시간대와 별도 수령 종료는 미표기입니다."
+      }
+    },
+    {
+      "id": "global-qing-feng-ying-xue-pass-2026-12-10",
+      "cosmeticId": "qing-feng-ying-xue",
+      "server": "Global",
+      "kind": "pass",
+      "startDate": "2026-11-13",
+      "end": "2026-12-10T04:59:59",
+      "precision": "second",
+      "timezone": "UTC+8",
+      "sourceIds": [
+        "global-20261105-hutuo-battle-pass"
+      ],
+      "verifiedAt": "2026-11-07",
+      "note": {
+        "en": "Announced Battle Pass appearance window ends. Availability has yet to be verified in game.",
+        "ko": "공지된 강호령 외관 획득 기간의 종료입니다. 게임 내 획득 가능 여부는 확인 전입니다."
+      }
+    },
+    {
+      "id": "global-du-yao-jin-event-2026-12-07",
+      "cosmeticId": "du-yao-jin",
+      "server": "Global",
+      "kind": "event",
+      "startDate": "2026-11-13",
+      "end": "2026-12-07T04:59:59",
+      "precision": "second",
+      "timezone": "UTC+8",
+      "sourceIds": [
+        "global-20261106-flowing-clarity"
+      ],
+      "verifiedAt": "2026-11-07",
+      "note": {
+        "en": "The Flowing Clarity event ends. The announcement leaves any separate outfit listing or reward claim deadline unstated.",
+        "ko": "Flowing Clarity 이벤트 종료입니다. 의상의 별도 판매 종료나 보상 수령 기한은 공지에 명시되지 않았습니다."
+      }
+    },
+    {
+      "id": "global-qing-lian-event-2026-12-07",
+      "cosmeticId": "qing-lian",
+      "server": "Global",
+      "kind": "event",
+      "startDate": "2026-11-13",
+      "end": "2026-12-07T04:59:59",
+      "precision": "second",
+      "timezone": "UTC+8",
+      "sourceIds": [
+        "global-20261106-flowing-clarity"
+      ],
+      "verifiedAt": "2026-11-07",
+      "note": {
+        "en": "The Flowing Clarity event ends. The announcement leaves any separate hairstyle listing or reward claim deadline unstated.",
+        "ko": "Flowing Clarity 이벤트 종료입니다. 헤어의 별도 판매 종료나 보상 수령 기한은 공지에 명시되지 않았습니다."
+      }
+    },
+    {
+      "id": "global-baigui-zhi-yi-event-2026-11-28",
+      "cosmeticId": "baigui-zhi-yi",
+      "server": "Global",
+      "kind": "event",
+      "startDate": "2026-11-13",
+      "end": "2026-11-28T04:59:59",
+      "precision": "second",
+      "timezone": "UTC+8",
+      "sourceIds": [
+        "global-20261107-spectral-scroll"
+      ],
+      "verifiedAt": "2026-11-07",
+      "note": {
+        "en": "The Spectral Scroll event and its quest-unlocked discount opportunity end. A separate shop listing end is unstated.",
+        "ko": "Spectral Scroll 이벤트와 임무로 해금하는 할인 기회의 종료입니다. 별도 상점 판매 종료는 미표기입니다."
+      }
+    },
+    {
+      "id": "global-qing-luan-yao-yin-draw-2027-03-22",
+      "cosmeticId": "qing-luan-yao-yin",
+      "server": "Global",
+      "kind": "draw",
+      "startDate": "2026-11-13",
+      "end": "2027-03-22T04:59:59",
+      "precision": "second",
+      "timezone": "UTC+8",
+      "sourceIds": [
+        "global-20261107-iris-herald"
+      ],
+      "verifiedAt": "2026-11-07",
+      "note": {
+        "en": "Announced limited draw window for the hairstyle and accessory set ends. A separate exchange deadline is unstated.",
+        "ko": "헤어·장신구 세트의 기간 한정 공명 종료 예고입니다. 별도 교환 종료는 미표기입니다."
       }
     }
   ]

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "verifiedAt": "2026-10-31",
+  "verifiedAt": "2026-11-07",
   "scope": "Cross-server archive from individually reviewed official announcements; not a certified complete game inventory.",
   "sources": [
     {
@@ -4551,6 +4551,80 @@
       "evidenceTier": "A",
       "verifiedAt": "2026-10-31",
       "verificationNote": "Full named HTML read. EN explicitly labels UTC+8 for all eleven openings and the Wraithflame/Duskgem listing ends. Korean clocks are one hour ahead without printed timezone. Duskgem opening differs from October 28 poster. Mindful Joy discount end and Lotus Crane discount end are not supplied by this named HTML. Korean web extraction failed; the same public HTML was retrieved directly and read."
+    },
+    {
+      "id": "cn-20261105-november6-appearances",
+      "url": "https://www.yysls.cn/news/official/20261106/37780_1319026.html",
+      "titleOriginal": "DLSS 5官宣定档，福龟寻乐梦本周上线！",
+      "displayedPublicationDate": "2026-11-05",
+      "urlPathDate": "2026-11-06",
+      "dateDiscrepancyNote": "Displayed publication date is November 5; the URL directory is November 6.",
+      "sourceImageCaveat": {
+        "en": "Official development preview. Final in-game appearance may differ.",
+        "ko": "공식 개발 미리보기이며 최종 게임 내 모습과 다를 수 있습니다."
+      },
+      "verificationNote": "Named appearance and event sections reviewed. The November 6 patch supplies controlling item-specific schedules where the preview differs. Selected named artwork visually checked.",
+      "imageUrls": [
+        "https://nie.res.netease.com/r/pic/20261106/75786da9-8d5d-499b-964f-36d3bc2a83c1.jpg",
+        "https://nie.res.netease.com/r/pic/20261106/6c8ff81e-8376-4722-8b91-635ab3700241.jpg",
+        "https://nie.res.netease.com/r/pic/20261106/618adb16-75f8-4dcd-9da0-715a21e50bc0.png",
+        "https://nie.res.netease.com/r/pic/20261106/b9b0af1a-41ab-4d3a-9f7b-b103a5eb0a2e.jpg",
+        "https://nie.res.netease.com/r/pic/20261106/5fde67cd-a7a5-450a-96b2-a1ccf1825dc8.jpg"
+      ],
+      "publisher": "燕云十六声 / NetEase official website",
+      "server": "CN",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-11-07"
+    },
+    {
+      "id": "cn-20261106-update",
+      "url": "https://www.yysls.cn/news/update/20261106/40412_1318985.html",
+      "titleOriginal": "11月6日2.9.5A版本「长乐夜未央」更新公告",
+      "displayedPublicationDate": "2026-11-06",
+      "verificationNote": "Original patch posters read in relevant sections. Poster 2 supplies the Battle Pass window and named level-100 trial drops. Poster 3 supplies the event close and named shop terms. Printed clocks are kept with unknown timezones.",
+      "imageUrls": [
+        "https://nie.res.netease.com/r/pic/20261106/3c2c97e7-b103-45e5-8d95-2f5e5ce2a0b3.jpg",
+        "https://nie.res.netease.com/r/pic/20261106/157ee55f-5dc1-4c6d-8bc2-301d90c308e2.jpg",
+        "https://nie.res.netease.com/r/pic/20261106/2203fca5-eb06-4335-9655-176ff7289755.jpg",
+        "https://nie.res.netease.com/r/pic/20261106/cbb80826-c26a-4030-8bab-e4cac88ed414.jpg"
+      ],
+      "publisher": "燕云十六声 / NetEase official website",
+      "server": "CN",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-11-07"
+    },
+    {
+      "id": "cn-20261106-hotfix",
+      "url": "https://www.yysls.cn/news/update/20261106/40412_1319024.html",
+      "titleOriginal": "11月6日2.9.5A版本在线修复公告",
+      "displayedPublicationDate": "2026-11-06",
+      "verificationNote": "The November 6 online hotfix identifies outstanding display problems in the female hair and outfit for 空林蜕梦. This corroborates appearance presence by November 6. First listing time and current availability remain unverified.",
+      "publisher": "燕云十六声 / NetEase official website",
+      "server": "CN",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-11-07"
+    },
+    {
+      "id": "cn-20260924-nan-lu-xiang-he-update",
+      "url": "https://www.yysls.cn/news/update/20260924/40412_1314982.html",
+      "titleOriginal": "9月24日2.8.5版本「平澜起风波」更新公告",
+      "publisher": "燕云十六声 / NetEase official website",
+      "server": "CN",
+      "displayedPublicationDate": "2026-09-24",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-11-07",
+      "imageUrls": [
+        "https://nie.res.netease.com/r/pic/20260924/d120f84d-e5a0-45a6-be34-f4c2b9a100c2.jpg"
+      ],
+      "verificationNote": "The official second patch poster, in the 南吕相和·上 season section, prints its original close as November 6, 2026 04:59:59 with no timezone. The November 6 notice explicitly extends this CN season by one day."
     }
   ],
   "mediaRights": {
@@ -7183,7 +7257,7 @@
       "romanization": "Qing Feng Ying Xue",
       "category": "outfit",
       "sourceId": "cn-20260205-outfits",
-      "officialNameEn": null,
+      "officialNameEn": "Frostbound Edge",
       "officialNameKo": null,
       "cnRelease": {
         "date": "2026-02-06",
@@ -7239,10 +7313,38 @@
           "inspectionNote": "Image and representative upper poster panels visually reviewed; acquisition facts taken from article text.",
           "reusePermission": "unknown",
           "localCopy": null
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HWWpd-Fa4AA1gns.jpg",
+          "width": 1080,
+          "height": 1350,
+          "bytes": 1028205,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceFrame": 0,
+          "sourceCrop": null,
+          "sourceId": "global-20261105-hutuo-battle-pass",
+          "server": "Global",
+          "inspectionNote": "Named publisher attachment and matching official CN artwork inspected. Female-focused preview retains a link to the complete source composition.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/qing-feng-ying-xue-2-full.webp",
+          "alt": {
+            "en": "Frostbound Edge · official Global female reference",
+            "ko": "Frostbound Edge · 글로벌 공식 여성 외관 사진"
+          },
+          "caption": {
+            "en": "Female portrait showing the blindfold, gold embroidery and white fur shoulder. The complete named poster is available in the gallery.",
+            "ko": "안대, 금빛 자수와 흰색 모피 어깨 장식이 보이는 여성 사진입니다. 갤러리에서 이름이 표시된 전체 포스터를 볼 수 있습니다."
+          },
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio"
         }
       ],
       "officialVideos": [],
-      "wikiDetails": true
+      "wikiDetails": true,
+      "mediaStatus": "verified",
+      "searchAliases": [
+        "Frostbound Edge"
+      ]
     },
     {
       "id": "lian-du-you-luo",
@@ -17355,7 +17457,7 @@
       "sourceId": "cn-b93492c8d548",
       "acquisitionServer": "CN",
       "mediaServer": "CN",
-      "officialNameEn": null,
+      "officialNameEn": "Whispered Omens",
       "officialNameKo": null,
       "cnRelease": {
         "date": "2026-01-09",
@@ -17398,6 +17500,30 @@
           "reusePermission": "unknown",
           "localCopy": null,
           "server": "CN"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HWb5nkCbQAA9Gpa.jpg",
+          "width": 1080,
+          "height": 1350,
+          "bytes": 1159146,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceFrame": 0,
+          "sourceCrop": null,
+          "sourceId": "global-20261107-spectral-scroll",
+          "server": "Global",
+          "inspectionNote": "Named publisher attachment and matching official CN artwork inspected. Female-focused preview retains a link to the complete source composition.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/baigui-zhi-yi-1-full.webp",
+          "alt": {
+            "en": "Whispered Omens · official Global female reference",
+            "ko": "Whispered Omens · 글로벌 공식 여성 외관 사진"
+          },
+          "caption": {
+            "en": "Female portrait showing the broad hat, hanging talismans and red robe. The complete named poster is available in the gallery.",
+            "ko": "넓은 삿갓, 매달린 부적과 붉은 의복이 보이는 여성 사진입니다. 갤러리에서 이름이 표시된 전체 포스터를 볼 수 있습니다."
+          },
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio"
         }
       ],
       "officialVideos": [],
@@ -17407,7 +17533,10 @@
         "officialName": null,
         "releaseDate": null
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "searchAliases": [
+        "Whispered Omens"
+      ]
     },
     {
       "id": "hu-chi-hai-sai",
@@ -19480,7 +19609,7 @@
       "sourceId": "cn-20260226-outfits",
       "acquisitionServer": "CN",
       "mediaServer": "CN",
-      "officialNameEn": null,
+      "officialNameEn": "Iris Herald",
       "officialNameKo": null,
       "cnRelease": {
         "date": null,
@@ -19523,6 +19652,30 @@
           "reusePermission": "unknown",
           "localCopy": null,
           "server": "CN"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HWb6XTVbgAA4rN2.jpg",
+          "width": 1080,
+          "height": 1350,
+          "bytes": 988153,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceFrame": 0,
+          "sourceCrop": null,
+          "sourceId": "global-20261107-iris-herald",
+          "server": "Global",
+          "inspectionNote": "Named publisher attachment and matching official CN artwork inspected. Female-focused preview retains a link to the complete source composition.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/qing-luan-yao-yin-1-full.webp",
+          "alt": {
+            "en": "Iris Herald · official Global female reference",
+            "ko": "Iris Herald · 글로벌 공식 여성 외관 사진"
+          },
+          "caption": {
+            "en": "Female three-quarter portrait showing the bird crest, pale curls and trailing feathers. The complete named poster is available in the gallery.",
+            "ko": "새 머리 장식, 밝은 곱슬머리와 길게 늘어진 깃털이 보이는 여성 사진입니다. 갤러리에서 이름이 표시된 전체 포스터를 볼 수 있습니다."
+          },
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio"
         }
       ],
       "officialVideos": [],
@@ -19534,6 +19687,9 @@
       },
       "secondaryCategories": [
         "hair"
+      ],
+      "searchAliases": [
+        "Iris Herald"
       ]
     },
     {
@@ -22223,7 +22379,7 @@
       "sourceId": "cn-0976cf8180c3",
       "acquisitionServer": "CN",
       "mediaServer": "CN",
-      "officialNameEn": null,
+      "officialNameEn": "Luminous Tides",
       "officialNameKo": null,
       "cnRelease": {
         "date": null,
@@ -22266,6 +22422,30 @@
           "reusePermission": "unknown",
           "localCopy": null,
           "server": "CN"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HWb0g95aoAAGVWz.jpg",
+          "width": 1080,
+          "height": 1350,
+          "bytes": 1030688,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceFrame": 0,
+          "sourceCrop": null,
+          "sourceId": "global-20261106-flowing-clarity",
+          "server": "Global",
+          "inspectionNote": "Named publisher attachment and matching official CN artwork inspected. Female-focused preview retains a link to the complete source composition.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/du-yao-jin-1-full.webp",
+          "alt": {
+            "en": "Luminous Tides · official Global female reference",
+            "ko": "Luminous Tides · 글로벌 공식 여성 외관 사진"
+          },
+          "caption": {
+            "en": "Female portrait showing the luminous sleeves and blue head ornament. The complete named poster is available in the gallery.",
+            "ko": "빛나는 소매와 푸른 머리 장식이 보이는 여성 사진입니다. 갤러리에서 이름이 표시된 전체 포스터를 볼 수 있습니다."
+          },
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio"
         }
       ],
       "officialVideos": [],
@@ -22275,7 +22455,10 @@
         "officialName": null,
         "releaseDate": null
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "searchAliases": [
+        "Luminous Tides"
+      ]
     },
     {
       "id": "qing-lian",
@@ -22285,7 +22468,7 @@
       "sourceId": "cn-0976cf8180c3",
       "acquisitionServer": "CN",
       "mediaServer": "CN",
-      "officialNameEn": null,
+      "officialNameEn": "Lucent Ripples",
       "officialNameKo": null,
       "cnRelease": {
         "date": "2026-04-30",
@@ -22328,6 +22511,30 @@
           "reusePermission": "unknown",
           "localCopy": null,
           "server": "CN"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HWb0mbibUAAUMRb.jpg",
+          "width": 1080,
+          "height": 1350,
+          "bytes": 343933,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "sourceFrame": 0,
+          "sourceCrop": null,
+          "sourceId": "global-20261106-flowing-clarity",
+          "server": "Global",
+          "inspectionNote": "Named publisher attachment and matching official CN artwork inspected. Female-focused preview retains a link to the complete source composition.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/qing-lian-1-full.webp",
+          "alt": {
+            "en": "Lucent Ripples · official Global female reference",
+            "ko": "Lucent Ripples · 글로벌 공식 여성 외관 사진"
+          },
+          "caption": {
+            "en": "The female front view leads the preview. The complete poster includes a rear inset for the long hair.",
+            "ko": "미리보기에는 여성 정면 모습을 사용했습니다. 전체 포스터에는 긴 머리의 뒷모습도 포함되어 있습니다."
+          },
+          "attribution": "Where Winds Meet / NetEase / Everstone Studio"
         }
       ],
       "officialVideos": [],
@@ -22336,7 +22543,10 @@
         "status": "unknown",
         "officialName": null,
         "releaseDate": null
-      }
+      },
+      "searchAliases": [
+        "Lucent Ripples"
+      ]
     },
     {
       "id": "cang-yinxing-he-yu-shu",
@@ -52753,8 +52963,8 @@
           "original": "南吕相和·上"
         },
         "conditions": {
-          "en": "CN Elite Battle Pass outfit. Premium pass also includes the elite rewards; price and outfit reward level are unstated.",
-          "ko": "중국 정예 배틀패스 의상입니다. 상위 등급 배틀패스에도 정예 보상이 포함되며 가격·의상 보상 레벨은 미표기입니다."
+          "en": "CN Elite Battle Pass outfit. Premium pass also includes the elite rewards; price and outfit reward level are unstated. The September 24 CN patch originally scheduled the pass to close November 6, 2026 04:59:59, timezone unstated. The November 6 CN patch announced a one-day extension following temporary maintenance.",
+          "ko": "중국 정예 배틀패스 의상입니다. 상위 등급 배틀패스에도 정예 보상이 포함되며 가격·의상 보상 레벨은 미표기입니다. 9월 24일 중국 패치는 배틀패스 종료를 2026년 11월 6일 04:59:59로 처음 안내했으며 시간대는 미표기입니다. 11월 6일 중국 패치는 임시 점검으로 하루 연장한다고 안내했습니다."
         },
         "en": "See the regional official conditions.",
         "ko": "해당 서버 공식 공지의 조건을 확인하세요."
@@ -57442,6 +57652,685 @@
       "namingNote": {
         "en": "Official English/Korean names read in the paired October 29 Global named appearance articles. Regional quantities and schedules remain separate from CN.",
         "ko": "10월 29일 글로벌 영문·한국어 개별 외관 공지에서 공식명을 확인했습니다. 서버별 수량·일정은 중국 사실과 구분합니다."
+      }
+    },
+    {
+      "id": "shi-wei-tian",
+      "nameOriginal": "食为天",
+      "romanization": "Shi Wei Tian",
+      "category": "outfit",
+      "sourceId": "cn-20261105-november6-appearances",
+      "acquisitionServer": "CN",
+      "mediaServer": "CN",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": "2026-11-07",
+        "precision": "day",
+        "timezone": null,
+        "contextual": false,
+        "basis": "Official November 6 patch supersedes the feature preview and schedules the Battle Pass opening for November 7, 2026 05:00:00, timezone unstated."
+      },
+      "acquisition": {
+        "kind": "battle_pass",
+        "pricing": "pass",
+        "amount": null,
+        "regularAmount": null,
+        "currencyOriginal": null,
+        "location": {
+          "en": "Nan Lü Xiang He · Part II",
+          "ko": "남려상화·하",
+          "original": "南吕相和·下"
+        },
+        "conditions": {
+          "en": "Unlock the outfit through the CN Elite Battle Pass. The Collector Battle Pass includes Elite rewards. The November 6 patch moved the opening one day to November 7, 2026 05:00:00, with the pass ending December 25, 2026 04:59:59. Timezone, pass price and outfit reward level are unstated.",
+          "ko": "중국 정예 배틀패스를 구매해 의상을 해제합니다. 소장판에도 정예 보상이 포함됩니다. 11월 6일 패치에서 시작을 하루 미룬 2026년 11월 7일 05:00:00로 안내했으며 배틀패스는 12월 25일 04:59:59에 종료합니다. 시간대·패스 가격·의상 보상 레벨은 미표기입니다."
+        },
+        "en": "Official CN acquisition terms.",
+        "ko": "중국 공식 획득 조건입니다."
+      },
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20261106/75786da9-8d5d-499b-964f-36d3bc2a83c1.jpg",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 1907998,
+          "kind": "official_appearance_reference",
+          "sourceId": "cn-20261105-november6-appearances",
+          "server": "CN",
+          "visuallyInspected": true,
+          "inspectionNote": "Named official CN article and selected artwork visually inspected on November 7, 2026 America/New_York. Enlargement retains the entire source composition; the source links to the original image.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/shi-wei-tian-0-full.webp",
+          "alt": {
+            "en": "Female three-quarter view of the red outfit with the apron, sleeves and cooking utensils.",
+            "ko": "앞치마와 소매, 조리 도구가 보이는 붉은색 의상의 여성 사선 사진입니다."
+          },
+          "caption": {
+            "en": "Female three-quarter view of the red outfit with the apron, sleeves and cooking utensils. Official development preview. Final in-game appearance may differ. Reuse permission is unknown.",
+            "ko": "앞치마와 소매, 조리 도구가 보이는 붉은색 의상의 여성 사선 사진입니다. 공식 개발 미리보기이며 최종 게임 내 모습과 다를 수 있습니다. 재사용 허가 여부는 미확인입니다."
+          },
+          "attribution": "燕云十六声 / NetEase / Everstone Studio"
+        }
+      ],
+      "officialVideos": [],
+      "mediaStatus": "verified",
+      "searchAliases": [
+        "食为天",
+        "Shi Wei Tian",
+        "식위천"
+      ],
+      "namingNote": {
+        "en": "Provisional readings of the official CN name. Global identity, official English and Korean names, and Global schedules remain unverified.",
+        "ko": "중국 공식 원명의 편의 독음입니다. 글로벌 대응 외관, 영문·한국어 공식명, 글로벌 일정은 미확인입니다."
+      }
+    },
+    {
+      "id": "kong-lin-tui-meng",
+      "nameOriginal": "空林蜕梦",
+      "romanization": "Kong Lin Tui Meng",
+      "category": "outfit",
+      "sourceId": "cn-20261105-november6-appearances",
+      "acquisitionServer": "CN",
+      "mediaServer": "CN",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": "2026-11-06",
+        "precision": "day",
+        "timezone": null,
+        "contextual": false,
+        "basis": "November 6 is the announced opening date. A named same-day live hotfix corroborates in-game presence by November 6. Exact first listing time remains unverified."
+      },
+      "acquisition": {
+        "kind": "shop",
+        "pricing": "fixed",
+        "amount": 2580,
+        "regularAmount": null,
+        "currencyOriginal": "长鸣珠",
+        "location": {
+          "en": "Shop",
+          "ko": "상점",
+          "original": "商店"
+        },
+        "conditions": {
+          "en": "The CN shop lists the limited Miaoshuang Shiyi outfit for 2,580 Echo Beads. The November 6 patch schedules it after that update until December 6, 2026 04:59:59, timezone unstated. It supports separate top and bottom pieces and dyeing, and includes a hat, mantle, waist accessory, face accessory and player avatar.",
+          "ko": "중국 상점에서 묘쌍십일 한정 의상을 장명주 2,580개로 구매합니다. 11월 6일 패치는 해당 업데이트 후부터 2026년 12월 6일 04:59:59까지로 안내하며 시간대는 미표기입니다. 상하의 분리·염색을 지원하고 모자, 걸침 장식, 허리 장식, 얼굴 장식, 주인공 프로필을 포함합니다."
+        },
+        "en": "Official CN acquisition terms.",
+        "ko": "중국 공식 획득 조건입니다."
+      },
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20261106/6c8ff81e-8376-4722-8b91-635ab3700241.jpg",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 1887631,
+          "kind": "official_appearance_reference",
+          "sourceId": "cn-20261105-november6-appearances",
+          "server": "CN",
+          "visuallyInspected": true,
+          "inspectionNote": "Named official CN article and selected artwork visually inspected on November 7, 2026 America/New_York. Enlargement retains the entire source composition; the source links to the original image.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/kong-lin-tui-meng-0-full.webp",
+          "alt": {
+            "en": "Female full-length view showing the purple layers, butterflies and embroidered skirt.",
+            "ko": "보랏빛 겹옷과 나비 장식, 치마 자수가 보이는 여성 전신 사진입니다."
+          },
+          "caption": {
+            "en": "Female full-length view showing the purple layers, butterflies and embroidered skirt. Official development preview. Final in-game appearance may differ. Reuse permission is unknown.",
+            "ko": "보랏빛 겹옷과 나비 장식, 치마 자수가 보이는 여성 전신 사진입니다. 공식 개발 미리보기이며 최종 게임 내 모습과 다를 수 있습니다. 재사용 허가 여부는 미확인입니다."
+          },
+          "attribution": "燕云十六声 / NetEase / Everstone Studio"
+        }
+      ],
+      "officialVideos": [],
+      "mediaStatus": "verified",
+      "searchAliases": [
+        "空林蜕梦",
+        "Kong Lin Tui Meng",
+        "공림태몽"
+      ],
+      "namingNote": {
+        "en": "Provisional readings of the official CN name. Global identity, official English and Korean names, and Global schedules remain unverified.",
+        "ko": "중국 공식 원명의 편의 독음입니다. 글로벌 대응 외관, 영문·한국어 공식명, 글로벌 일정은 미확인입니다."
+      }
+    },
+    {
+      "id": "zui-liu-xia",
+      "nameOriginal": "醉流霞",
+      "romanization": "Zui Liu Xia",
+      "category": "hair",
+      "sourceId": "cn-20261105-november6-appearances",
+      "acquisitionServer": "CN",
+      "mediaServer": "CN",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": "2026-11-06",
+        "precision": "day",
+        "timezone": null,
+        "contextual": false,
+        "basis": "Named CN official patch schedules the listing after the November 6 update. Exact opening time is unstated."
+      },
+      "acquisition": {
+        "kind": "exchange_shop",
+        "pricing": "fixed",
+        "amount": 1,
+        "regularAmount": null,
+        "currencyOriginal": "八音窍",
+        "location": {
+          "en": "Harmony Shop",
+          "ko": "공명 상점",
+          "original": "和鸣商店"
+        },
+        "conditions": {
+          "en": "Exchange 1 Harmonic Core in the CN Harmony Shop. The 90-day listing runs from after the November 6 update until February 4, 2027 04:59:59, timezone unstated. Includes dyeing and an animated player avatar. The pictured outfit has a separate acquisition route.",
+          "ko": "중국 공명 상점에서 공명 구슬 1개로 교환합니다. 11월 6일 업데이트 후 90일간 진열되며 2027년 2월 4일 04:59:59에 종료합니다. 시간대는 미표기입니다. 염색과 주인공 동적 프로필을 지원합니다. 사진의 의상은 별도로 획득합니다."
+        },
+        "en": "Official CN acquisition terms.",
+        "ko": "중국 공식 획득 조건입니다."
+      },
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20261106/618adb16-75f8-4dcd-9da0-715a21e50bc0.png",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 3737458,
+          "kind": "official_appearance_reference",
+          "sourceId": "cn-20261105-november6-appearances",
+          "server": "CN",
+          "visuallyInspected": true,
+          "inspectionNote": "Named official CN article and selected artwork visually inspected on November 7, 2026 America/New_York. Enlargement retains the entire source composition; the source links to the original image.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/zui-liu-xia-0-full.webp",
+          "alt": {
+            "en": "Female front portrait showing the short peach-colored waves.",
+            "ko": "복숭아빛 짧은 웨이브를 보여 주는 여성 정면 사진입니다."
+          },
+          "caption": {
+            "en": "Female front portrait showing the short peach-colored waves. Official development preview. Final in-game appearance may differ. Reuse permission is unknown.",
+            "ko": "복숭아빛 짧은 웨이브를 보여 주는 여성 정면 사진입니다. 공식 개발 미리보기이며 최종 게임 내 모습과 다를 수 있습니다. 재사용 허가 여부는 미확인입니다."
+          },
+          "attribution": "燕云十六声 / NetEase / Everstone Studio"
+        }
+      ],
+      "officialVideos": [],
+      "mediaStatus": "verified",
+      "searchAliases": [
+        "醉流霞",
+        "Zui Liu Xia",
+        "취류하"
+      ],
+      "namingNote": {
+        "en": "Provisional readings of the official CN name. Global identity, official English and Korean names, and Global schedules remain unverified.",
+        "ko": "중국 공식 원명의 편의 독음입니다. 글로벌 대응 외관, 영문·한국어 공식명, 글로벌 일정은 미확인입니다."
+      }
+    },
+    {
+      "id": "ta-xue-xun-chun",
+      "nameOriginal": "踏雪寻春",
+      "romanization": "Ta Xue Xun Chun",
+      "category": "mount",
+      "sourceId": "cn-20261105-november6-appearances",
+      "acquisitionServer": "CN",
+      "mediaServer": "CN",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": "2026-11-06",
+        "precision": "day",
+        "timezone": null,
+        "contextual": false,
+        "basis": "Named CN official patch schedules the listing after the November 6 update. Exact opening time is unstated."
+      },
+      "acquisition": {
+        "kind": "exchange_shop",
+        "pricing": "fixed",
+        "amount": 2,
+        "regularAmount": null,
+        "currencyOriginal": "八音窍",
+        "location": {
+          "en": "Harmony Shop",
+          "ko": "공명 상점",
+          "original": "和鸣商店"
+        },
+        "conditions": {
+          "en": "Exchange 2 Harmonic Cores in the CN Harmony Shop. The announcement specifies a 360-day listing after the November 6 update. An exact closing date, clock and timezone are unstated. The mechanical bird supports two riders, flight with a dash, an ink-painting emote and immediate mounting when summoned.",
+          "ko": "중국 공명 상점에서 공명 구슬 2개로 교환합니다. 11월 6일 업데이트 후 360일 한정 진열로 안내하며 정확한 종료 날짜·시각·시간대는 미표기입니다. 기계 새 탈것으로 2인 탑승, 비행 중 질주, 수묵화 동작, 호출 즉시 탑승을 지원합니다."
+        },
+        "en": "Official CN acquisition terms.",
+        "ko": "중국 공식 획득 조건입니다."
+      },
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20261106/b9b0af1a-41ab-4d3a-9f7b-b103a5eb0a2e.jpg",
+          "width": 5120,
+          "height": 2880,
+          "bytes": 5098026,
+          "kind": "official_appearance_reference",
+          "sourceId": "cn-20261105-november6-appearances",
+          "server": "CN",
+          "visuallyInspected": true,
+          "inspectionNote": "Named official CN article and selected artwork visually inspected on November 7, 2026 America/New_York. Enlargement retains the entire source composition; the source links to the original image.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/ta-xue-xun-chun-0-full.webp",
+          "alt": {
+            "en": "The white mechanical bird in flight with its wings extended.",
+            "ko": "날개를 펼치고 비행하는 하얀 기계 새입니다."
+          },
+          "caption": {
+            "en": "The white mechanical bird in flight with its wings extended. Official development preview. Final in-game appearance may differ. Reuse permission is unknown.",
+            "ko": "날개를 펼치고 비행하는 하얀 기계 새입니다. 공식 개발 미리보기이며 최종 게임 내 모습과 다를 수 있습니다. 재사용 허가 여부는 미확인입니다."
+          },
+          "attribution": "燕云十六声 / NetEase / Everstone Studio"
+        }
+      ],
+      "officialVideos": [],
+      "mediaStatus": "verified",
+      "searchAliases": [
+        "踏雪寻春",
+        "Ta Xue Xun Chun",
+        "답설심춘"
+      ],
+      "namingNote": {
+        "en": "Provisional readings of the official CN name. Global identity, official English and Korean names, and Global schedules remain unverified.",
+        "ko": "중국 공식 원명의 편의 독음입니다. 글로벌 대응 외관, 영문·한국어 공식명, 글로벌 일정은 미확인입니다."
+      }
+    },
+    {
+      "id": "ling-ji-yi-dong",
+      "nameOriginal": "灵鸡一动",
+      "romanization": "Ling Ji Yi Dong",
+      "category": "weapon_skin",
+      "sourceId": "cn-20261105-november6-appearances",
+      "acquisitionServer": "CN",
+      "mediaServer": "CN",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": "2026-11-06",
+        "precision": "day",
+        "timezone": null,
+        "contextual": false,
+        "basis": "Named CN official patch schedules the listing after the November 6 update. Exact opening time is unstated."
+      },
+      "acquisition": {
+        "kind": "shop",
+        "pricing": "fixed",
+        "amount": 60,
+        "regularAmount": null,
+        "currencyOriginal": "长鸣珠",
+        "location": {
+          "en": "Shop",
+          "ko": "상점",
+          "original": "商店"
+        },
+        "conditions": {
+          "en": "CN Shop umbrella weapon appearance for 60 Echo Beads, scheduled after the November 6 update. No sale end or timezone is stated.",
+          "ko": "중국 상점에서 장명주 60개로 구매하는 우산 무기 외관이며 11월 6일 업데이트 후 출시 예고입니다. 판매 종료와 시간대는 미표기입니다."
+        },
+        "en": "Official CN acquisition terms.",
+        "ko": "중국 공식 획득 조건입니다."
+      },
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20261106/5fde67cd-a7a5-450a-96b2-a1ccf1825dc8.jpg",
+          "width": 1440,
+          "height": 2560,
+          "bytes": 5350504,
+          "kind": "official_appearance_reference",
+          "sourceId": "cn-20261105-november6-appearances",
+          "server": "CN",
+          "visuallyInspected": true,
+          "inspectionNote": "Named official CN article and selected artwork visually inspected on November 7, 2026 America/New_York. Enlargement retains the entire source composition; the source links to the original image.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/ling-ji-yi-dong-0-full.webp",
+          "alt": {
+            "en": "Top view of the opened umbrella, showing the egg-shaped canopy and raised yolk.",
+            "ko": "펼친 우산의 달걀 모양과 도드라진 노른자가 보이는 위쪽 사진입니다."
+          },
+          "caption": {
+            "en": "Top view of the opened umbrella, showing the egg-shaped canopy and raised yolk. Official development preview. Final in-game appearance may differ. Reuse permission is unknown.",
+            "ko": "펼친 우산의 달걀 모양과 도드라진 노른자가 보이는 위쪽 사진입니다. 공식 개발 미리보기이며 최종 게임 내 모습과 다를 수 있습니다. 재사용 허가 여부는 미확인입니다."
+          },
+          "attribution": "燕云十六声 / NetEase / Everstone Studio"
+        }
+      ],
+      "officialVideos": [],
+      "mediaStatus": "verified",
+      "searchAliases": [
+        "灵鸡一动",
+        "Ling Ji Yi Dong",
+        "영계일동"
+      ],
+      "namingNote": {
+        "en": "Provisional readings of the official CN name. Global identity, official English and Korean names, and Global schedules remain unverified.",
+        "ko": "중국 공식 원명의 편의 독음입니다. 글로벌 대응 외관, 영문·한국어 공식명, 글로벌 일정은 미확인입니다."
+      }
+    },
+    {
+      "id": "yao-fa-fa",
+      "nameOriginal": "要发发",
+      "romanization": "Yao Fa Fa",
+      "category": "accessory",
+      "sourceId": "cn-20261105-november6-appearances",
+      "acquisitionServer": "CN",
+      "mediaServer": "CN",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": null,
+        "precision": "unknown",
+        "timezone": null,
+        "contextual": true,
+        "basis": "The CN patch specifies a reward route. Individual cosmetic release and first reward date remain unverified."
+      },
+      "acquisition": {
+        "kind": "event",
+        "pricing": "unknown",
+        "amount": null,
+        "regularAmount": null,
+        "currencyOriginal": null,
+        "location": {
+          "en": "Fu Gui Xun Le Meng event",
+          "ko": "福龟寻乐梦 이벤트",
+          "original": "福龟寻乐梦"
+        },
+        "conditions": {
+          "en": "Earn the accessory after two cumulative prayers in 福龟寻乐梦. The event uses prayer pouches that players can purchase with Echo Beads. The November 6 patch gives December 3, 2026 04:59:59 as the event end. The amount per pouch, individual reward date, separate claim deadline and timezone are unstated.",
+          "ko": "福龟寻乐梦에서 누적 기원 2회로 장식을 획득합니다. 기원에는 장명주로 구입할 수 있는 이벤트 주머니를 사용합니다. 11월 6일 패치는 이벤트 종료를 2026년 12월 3일 04:59:59로 명시합니다. 주머니 가격, 개별 지급일, 별도 수령 종료, 시간대는 미표기입니다."
+        },
+        "en": "Official CN acquisition terms.",
+        "ko": "중국 공식 획득 조건입니다."
+      },
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "images": [],
+      "officialVideos": [],
+      "mediaStatus": "pending",
+      "searchAliases": [
+        "要发发",
+        "Yao Fa Fa",
+        "요발발"
+      ],
+      "namingNote": {
+        "en": "Provisional readings of the official CN name. Global identity, official English and Korean names, and Global schedules remain unverified.",
+        "ko": "중국 공식 원명의 편의 독음입니다. 글로벌 대응 외관, 영문·한국어 공식명, 글로벌 일정은 미확인입니다."
+      }
+    },
+    {
+      "id": "he-kan-shou",
+      "nameOriginal": "何堪守",
+      "romanization": "He Kan Shou",
+      "category": "accessory",
+      "sourceId": "cn-20261106-update",
+      "acquisitionServer": "CN",
+      "mediaServer": "CN",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": null,
+        "precision": "unknown",
+        "timezone": null,
+        "contextual": true,
+        "basis": "The CN patch specifies a reward route. Individual cosmetic release and first reward date remain unverified."
+      },
+      "acquisition": {
+        "kind": "milestone",
+        "pricing": "unknown",
+        "amount": null,
+        "regularAmount": null,
+        "currencyOriginal": null,
+        "location": {
+          "en": "壁影扫秋 trial",
+          "ko": "壁影扫秋 도전",
+          "original": "壁影扫秋"
+        },
+        "conditions": {
+          "en": "Chance drop from boss reward chests in the level 100, 5-player 壁影扫秋 trial. Drop odds are unstated. The November 6 patch also announces a December 25, 2026 listing in 不肝商店 → Appearance Exchange for 不肝外观券. The voucher quantity, exact exchange opening time and reward expiry are unstated.",
+          "ko": "레벨 100, 5인 壁影扫秋 도전의 우두머리 보상 상자에서 확률적으로 획득합니다. 확률은 미표기입니다. 11월 6일 패치는 2026년 12월 25일 不肝商店 → 외관 교환에서 不肝外观券으로 교환할 수 있다고 안내합니다. 교환권 수량, 정확한 교환 시작 시각, 보상 종료는 미표기입니다."
+        },
+        "en": "Official CN acquisition terms.",
+        "ko": "중국 공식 획득 조건입니다."
+      },
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20261106/157ee55f-5dc1-4c6d-8bc2-301d90c308e2.jpg",
+          "width": 774,
+          "height": 795,
+          "bytes": 10217490,
+          "kind": "official_appearance_reference",
+          "sourceId": "cn-20261106-update",
+          "server": "CN",
+          "visuallyInspected": true,
+          "sourceCrop": [
+            926,
+            7640,
+            1700,
+            8435
+          ],
+          "inspectionNote": "Named diagram read in the November 6 official CN patch poster on November 7, 2026 America/New_York. Enlargement retains the complete selected diagram; the source links to the complete poster.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/he-kan-shou-0-full.webp",
+          "alt": {
+            "en": "Named diagram of the dark green ring-shaped accessory.",
+            "ko": "이름이 붙은 짙은 녹색 고리형 장식 도해입니다."
+          },
+          "caption": {
+            "en": "Named diagram of the dark green ring-shaped accessory. Official CN patch poster extract. Reuse permission is unknown.",
+            "ko": "이름이 붙은 짙은 녹색 고리형 장식 도해입니다. 중국 공식 패치 포스터 발췌이며 재사용 허가 여부는 미확인입니다."
+          },
+          "attribution": "燕云十六声 / NetEase / Everstone Studio"
+        }
+      ],
+      "officialVideos": [],
+      "mediaStatus": "verified",
+      "searchAliases": [
+        "何堪守",
+        "He Kan Shou",
+        "하감수"
+      ],
+      "namingNote": {
+        "en": "Provisional readings of the official CN name. Global identity, official English and Korean names, and Global schedules remain unverified.",
+        "ko": "중국 공식 원명의 편의 독음입니다. 글로벌 대응 외관, 영문·한국어 공식명, 글로벌 일정은 미확인입니다."
+      }
+    },
+    {
+      "id": "sao-chen-ke",
+      "nameOriginal": "扫沉疴",
+      "romanization": "Sao Chen Ke",
+      "category": "accessory",
+      "sourceId": "cn-20261106-update",
+      "acquisitionServer": "CN",
+      "mediaServer": "CN",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": null,
+        "precision": "unknown",
+        "timezone": null,
+        "contextual": true,
+        "basis": "The CN patch specifies a reward route. Individual cosmetic release and first reward date remain unverified."
+      },
+      "acquisition": {
+        "kind": "milestone",
+        "pricing": "unknown",
+        "amount": null,
+        "regularAmount": null,
+        "currencyOriginal": null,
+        "location": {
+          "en": "壁影扫秋 trial",
+          "ko": "壁影扫秋 도전",
+          "original": "壁影扫秋"
+        },
+        "conditions": {
+          "en": "Chance drop from boss reward chests in the level 100, 5-player 壁影扫秋 trial. Drop odds are unstated. The November 6 patch also announces a December 25, 2026 listing in 不肝商店 → Appearance Exchange for 不肝外观券. The voucher quantity, exact exchange opening time and reward expiry are unstated.",
+          "ko": "레벨 100, 5인 壁影扫秋 도전의 우두머리 보상 상자에서 확률적으로 획득합니다. 확률은 미표기입니다. 11월 6일 패치는 2026년 12월 25일 不肝商店 → 외관 교환에서 不肝外观券으로 교환할 수 있다고 안내합니다. 교환권 수량, 정확한 교환 시작 시각, 보상 종료는 미표기입니다."
+        },
+        "en": "Official CN acquisition terms.",
+        "ko": "중국 공식 획득 조건입니다."
+      },
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20261106/157ee55f-5dc1-4c6d-8bc2-301d90c308e2.jpg",
+          "width": 810,
+          "height": 795,
+          "bytes": 10217490,
+          "kind": "official_appearance_reference",
+          "sourceId": "cn-20261106-update",
+          "server": "CN",
+          "visuallyInspected": true,
+          "sourceCrop": [
+            1708,
+            7640,
+            2518,
+            8435
+          ],
+          "inspectionNote": "Named diagram read in the November 6 official CN patch poster on November 7, 2026 America/New_York. Enlargement retains the complete selected diagram; the source links to the complete poster.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/sao-chen-ke-0-full.webp",
+          "alt": {
+            "en": "Named diagram of the long-handled broom accessory.",
+            "ko": "이름이 붙은 긴 손잡이 빗자루 장식 도해입니다."
+          },
+          "caption": {
+            "en": "Named diagram of the long-handled broom accessory. Official CN patch poster extract. Reuse permission is unknown.",
+            "ko": "이름이 붙은 긴 손잡이 빗자루 장식 도해입니다. 중국 공식 패치 포스터 발췌이며 재사용 허가 여부는 미확인입니다."
+          },
+          "attribution": "燕云十六声 / NetEase / Everstone Studio"
+        }
+      ],
+      "officialVideos": [],
+      "mediaStatus": "verified",
+      "searchAliases": [
+        "扫沉疴",
+        "Sao Chen Ke",
+        "소침아"
+      ],
+      "namingNote": {
+        "en": "Provisional readings of the official CN name. Global identity, official English and Korean names, and Global schedules remain unverified.",
+        "ko": "중국 공식 원명의 편의 독음입니다. 글로벌 대응 외관, 영문·한국어 공식명, 글로벌 일정은 미확인입니다."
+      }
+    },
+    {
+      "id": "ding-feng-ling",
+      "nameOriginal": "定风铃",
+      "romanization": "Ding Feng Ling",
+      "category": "accessory",
+      "sourceId": "cn-20261106-update",
+      "acquisitionServer": "CN",
+      "mediaServer": "CN",
+      "officialNameEn": null,
+      "officialNameKo": null,
+      "cnRelease": {
+        "date": null,
+        "precision": "unknown",
+        "timezone": null,
+        "contextual": true,
+        "basis": "The CN patch specifies a reward route. Individual cosmetic release and first reward date remain unverified."
+      },
+      "acquisition": {
+        "kind": "milestone",
+        "pricing": "unknown",
+        "amount": null,
+        "regularAmount": null,
+        "currencyOriginal": null,
+        "location": {
+          "en": "斜月共潮生 trial",
+          "ko": "斜月共潮生 도전",
+          "original": "斜月共潮生"
+        },
+        "conditions": {
+          "en": "Chance drop from boss reward chests in the level 100, 10-player 斜月共潮生 trial. Drop odds are unstated. The November 6 patch also announces a December 25, 2026 listing in 不肝商店 → Appearance Exchange for 不肝外观券. The voucher quantity, exact exchange opening time and reward expiry are unstated.",
+          "ko": "레벨 100, 10인 斜月共潮生 도전의 우두머리 보상 상자에서 확률적으로 획득합니다. 확률은 미표기입니다. 11월 6일 패치는 2026년 12월 25일 不肝商店 → 외관 교환에서 不肝外观券으로 교환할 수 있다고 안내합니다. 교환권 수량, 정확한 교환 시작 시각, 보상 종료는 미표기입니다."
+        },
+        "en": "Official CN acquisition terms.",
+        "ko": "중국 공식 획득 조건입니다."
+      },
+      "global": {
+        "status": "unknown",
+        "officialName": null,
+        "releaseDate": null
+      },
+      "images": [
+        {
+          "url": "https://nie.res.netease.com/r/pic/20261106/157ee55f-5dc1-4c6d-8bc2-301d90c308e2.jpg",
+          "width": 750,
+          "height": 795,
+          "bytes": 10217490,
+          "kind": "official_appearance_reference",
+          "sourceId": "cn-20261106-update",
+          "server": "CN",
+          "visuallyInspected": true,
+          "sourceCrop": [
+            170,
+            7640,
+            920,
+            8435
+          ],
+          "inspectionNote": "Named diagram read in the November 6 official CN patch poster on November 7, 2026 America/New_York. Enlargement retains the complete selected diagram; the source links to the complete poster.",
+          "reusePermission": "unknown",
+          "localCopy": "/media/ding-feng-ling-0-full.webp",
+          "alt": {
+            "en": "Named diagram of the accessory with a small hanging clasp and two red ribbons.",
+            "ko": "작은 고리와 두 갈래 붉은 끈이 달린 장식의 이름이 붙은 도해입니다."
+          },
+          "caption": {
+            "en": "Named diagram of the accessory with a small hanging clasp and two red ribbons. Official CN patch poster extract. Reuse permission is unknown.",
+            "ko": "작은 고리와 두 갈래 붉은 끈이 달린 장식의 이름이 붙은 도해입니다. 중국 공식 패치 포스터 발췌이며 재사용 허가 여부는 미확인입니다."
+          },
+          "attribution": "燕云十六声 / NetEase / Everstone Studio"
+        }
+      ],
+      "officialVideos": [],
+      "mediaStatus": "verified",
+      "searchAliases": [
+        "定风铃",
+        "Ding Feng Ling",
+        "정풍령"
+      ],
+      "namingNote": {
+        "en": "Provisional readings of the official CN name. Global identity, official English and Korean names, and Global schedules remain unverified.",
+        "ko": "중국 공식 원명의 편의 독음입니다. 글로벌 대응 외관, 영문·한국어 공식명, 글로벌 일정은 미확인입니다."
       }
     }
   ],

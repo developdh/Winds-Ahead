@@ -1,6 +1,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import fs from 'node:fs/promises';
+import { fileURLToPath } from 'node:url';
 import { projectVisitorData, serializeVisitorData, visitorData } from '../build/visitor-data.mjs';
 import { preferredMedia } from '../lib/media-domain.mjs';
 import { selectAcquisition } from '../lib/acquisition-domain.mjs';
@@ -145,7 +146,7 @@ test('every visitor content import round-trips through the build transform', asy
     'deadlines', 'updates', 'terminology', 'magazine', 'magazine-export-metrics',
   ]) {
     const original = await read(name);
-    const id = new URL(`../content/${name}.json`, import.meta.url).pathname;
+    const id = fileURLToPath(new URL(`../content/${name}.json`, import.meta.url));
     const transformed = plugin.transform('', id);
     assert.ok(transformed, `${name} uses compact serialization`);
     const actual = await import(`data:text/javascript;base64,${Buffer.from(transformed.code).toString('base64')}`);
