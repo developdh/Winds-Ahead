@@ -325,7 +325,7 @@ export function validateDeadlines(research, globalData, data) {
     schemaVersion: z.literal(1), reviewedAt: day,
     records: z.array(z.object({
       id: z.string().min(1), cosmeticId: z.string(), server: z.enum(['CN', 'Global']),
-      kind: z.enum(['sale', 'exchange', 'discount', 'event', 'draw', 'pass']),
+      kind: z.enum(['sale', 'exchange', 'discount', 'event', 'draw', 'pass', 'rerun']),
       startDate: day, end: z.string(), precision: z.enum(['day', 'minute', 'second']),
       timezone: z.enum(['UTC', 'UTC+8']).nullable(), sourceIds: z.array(z.string()).min(1),
       verifiedAt: day, note: bilingual,

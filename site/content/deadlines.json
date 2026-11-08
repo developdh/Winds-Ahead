@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "reviewedAt": "2026-11-07",
+  "reviewedAt": "2026-11-08",
   "records": [
     {
       "id": "global-global-wind-s-far-shore-exchange-2026-11-18",
@@ -1669,6 +1669,24 @@
       "note": {
         "en": "Announced limited draw window for the hairstyle and accessory set ends. A separate exchange deadline is unstated.",
         "ko": "헤어·장신구 세트의 기간 한정 공명 종료 예고입니다. 별도 교환 종료는 미표기입니다."
+      }
+    },
+    {
+      "id": "global-qing-yu-an-rerun-2027-01-29",
+      "cosmeticId": "qing-yu-an",
+      "server": "Global",
+      "kind": "rerun",
+      "startDate": "2026-11-13",
+      "end": "2027-01-29T04:59:59",
+      "precision": "second",
+      "timezone": "UTC+8",
+      "sourceIds": [
+        "global-20261105-hutuo-battle-pass"
+      ],
+      "verifiedAt": "2026-11-08",
+      "note": {
+        "en": "The announced Willow Breeze return window ends. This is separate from the new Frostbound Edge Battle Pass end on December 10. The exact purchase or redemption route is unstated.",
+        "ko": "Willow Breeze 복각 예고 기간 종료입니다. 신규 Frostbound Edge 강호령의 12월 10일 종료와 별개이며 구체적인 구매·교환 경로는 미표기입니다."
       }
     }
   ]

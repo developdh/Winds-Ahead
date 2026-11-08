@@ -6057,8 +6057,8 @@
     "presentationSubject": "female"
   },
   {
-    "cosmeticId": "qing-yu-an",
-    "index": 1,
+    "cosmeticId": "wiki-he-xin-ci",
+    "index": 0,
     "originalUrl": "https://r.res.easebar.com/pic/20260305/30e1d6c1-bef4-49c8-a897-f2e3f95759d3.png",
     "thumbnail": "/media/qing-yu-an-1-thumb.webp",
     "full": "/media/qing-yu-an-1-full.webp",
@@ -15512,5 +15512,29 @@
     "displayBytes": 35902,
     "permission": "unknown",
     "audience": "reference artwork; excluded from the code license"
+  },
+  {
+    "cosmeticId": "qing-yu-an",
+    "index": 1,
+    "originalUrl": "https://pbs.twimg.com/media/HWWpgKdacAABd2f.jpg",
+    "permission": "unknown",
+    "audience": "reference artwork; excluded from the code license",
+    "presentationSubject": "female",
+    "presentationCrop": [
+      150,
+      96,
+      838,
+      938
+    ],
+    "full": "/media/qing-yu-an-willow-breeze-20261108-full.webp",
+    "fullBytes": 136480,
+    "display": "/media/qing-yu-an-willow-breeze-20261108-display.webp",
+    "displayBytes": 87296,
+    "thumbnail": "/media/qing-yu-an-willow-breeze-20261108-thumb.webp",
+    "thumbnailBytes": 71502,
+    "preview": "/media/qing-yu-an-willow-breeze-20261108-preview.webp",
+    "previewBytes": 5284,
+    "displayWidth": 688,
+    "displayHeight": 842
   }
 ]

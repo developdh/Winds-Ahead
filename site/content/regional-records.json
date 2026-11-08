@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "verifiedAt": "2026-11-07",
+  "verifiedAt": "2026-11-08",
   "records": [
     {
       "cosmeticId": "shang-qing-yun",
@@ -233,21 +233,22 @@
     {
       "cosmeticId": "qing-yu-an",
       "server": "CN",
-      "status": "released",
+      "status": "announced",
       "sourceIds": [
         "cn-cd25a68244c9"
       ],
-      "verifiedAt": "2026-09-13",
+      "verifiedAt": "2026-11-08",
       "releaseDate": "2025-03-28",
       "precision": "day",
       "scope": {
-        "en": "Historical official listing or in-game appearance maintenance notice. This does not establish current availability or an original release date.",
-        "ko": "과거 공식 출시·외관 수정 공지 기록입니다. 현재 판매 여부와 최초 출시일을 뜻하지 않습니다."
+        "en": "The March 27, 2025 preview announces the Battle Pass outfit after the March 28 update. Actual first availability and current stock remain unverified.",
+        "ko": "2025년 3월 27일 사전 공지는 3월 28일 업데이트 후 강호령 의상을 예고합니다. 실제 최초 출시와 현재 획득 가능 여부는 미확인입니다."
       },
       "identityBasis": {
         "en": "The official regional source explicitly names this appearance and category.",
         "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
-      }
+      },
+      "confirmationPending": true
     },
     {
       "cosmeticId": "xie-xin-jiao-ying",
@@ -10968,22 +10969,22 @@
       }
     },
     {
-      "cosmeticId": "qing-yu-an",
+      "cosmeticId": "wiki-he-xin-ci",
       "server": "Global",
-      "status": "released",
+      "status": "announced",
       "sourceIds": [
         "global-0e0cbe400409"
       ],
-      "verifiedAt": "2026-09-13",
+      "verifiedAt": "2026-11-08",
       "releaseDate": "2026-03-06",
       "precision": "day",
       "scope": {
-        "en": "Historical official release listing. This does not establish current availability; no unstated time zone is assumed.",
-        "ko": "과거 공식 출시 목록입니다. 현재 판매 중이라는 뜻은 아니며 미표기 시간대는 추정하지 않습니다."
+        "en": "The March 5, 2026 overview announces Heaven-Sent Verse in the Shop after the March 6 update. It is 贺新词, not 青玉案. The preview does not confirm actual first availability or current stock.",
+        "ko": "2026년 3월 5일 미리보기는 3월 6일 업데이트 후 Heaven-Sent Verse 상점 출시를 예고합니다. 대응 외관은 青玉案이 아닌 贺新词입니다. 사전 공지로 실제 최초 출시나 현재 판매 여부를 확정하지 않습니다."
       },
       "identityBasis": {
-        "en": "Corresponding named regional artwork compared visually.",
-        "ko": "이름이 붙은 서버별 공식 이미지를 육안으로 비교했습니다."
+        "en": "Matched the female veil, silver chest ornament, gold-embroidered white jacket and dark green waist in the named Global panel and the official CN 贺新词 image.",
+        "ko": "글로벌 명칭 패널과 중국 贺新词 공식 사진에서 여성의 베일, 은색 가슴 장식, 금색 자수의 흰 겉옷과 짙은 녹색 허리 장식이 일치합니다."
       },
       "acquisition": {
         "en": "See source acquisition conditions.",
@@ -11002,7 +11003,8 @@
           "en": "The official listing establishes the acquisition route, but does not state a price for this item. Current availability is not implied.",
           "ko": "공식 목록에서 획득 경로를 확인했으나 개별 가격은 미표기입니다. 현재 판매 여부는 별도입니다."
         }
-      }
+      },
+      "confirmationPending": true
     },
     {
       "cosmeticId": "global-bactrian-camel",
@@ -17477,6 +17479,81 @@
         "ko": "글로벌 공식 공지의 획득 조건입니다."
       },
       "confirmationPending": true
+    },
+    {
+      "cosmeticId": "wiki-he-xin-ci",
+      "server": "CN",
+      "status": "announced",
+      "confirmationPending": true,
+      "sourceIds": [
+        "cn-20250513-he-xin-ci"
+      ],
+      "verifiedAt": "2026-11-08",
+      "releaseDate": "2025-05-16",
+      "precision": "day",
+      "scope": {
+        "en": "Announced after the May 16, 2025 update. The preview gives historical CN prices, with no discount end or independently verified first listing.",
+        "ko": "2025년 5월 16일 업데이트 후 예고입니다. 사전 공지에 중국 과거 가격이 명시됐으며 할인 종료와 실제 최초 출시는 미확인입니다."
+      },
+      "identityBasis": {
+        "en": "The official CN notice explicitly names 贺新词 above its male and female artwork.",
+        "ko": "중국 공식 공지가 남녀 이미지 위에 贺新词 명칭을 명시합니다."
+      },
+      "acquisition": {
+        "kind": "shop",
+        "pricing": "fixed",
+        "amount": 300,
+        "regularAmount": 680,
+        "currencyOriginal": "长鸣珠",
+        "location": {
+          "en": "Shop",
+          "ko": "상점",
+          "original": "商店"
+        },
+        "conditions": {
+          "en": "Historical CN offer announced after the May 16, 2025 update: 300 Echo Beads, regular price 680. Discount end and current availability are unknown. These are not Global prices.",
+          "ko": "2025년 5월 16일 업데이트 후 중국 상점의 과거 예고 가격은 장명주 300개, 정가는 680개입니다. 할인 종료와 현재 판매 여부는 미정이며 글로벌 가격이 아닙니다."
+        },
+        "en": "Official CN shop announcement terms",
+        "ko": "중국 공식 상점 예고의 획득 조건"
+      }
+    },
+    {
+      "cosmeticId": "qing-yu-an",
+      "server": "Global",
+      "status": "announced",
+      "sourceIds": [
+        "global-20261105-hutuo-battle-pass"
+      ],
+      "verifiedAt": "2026-11-08",
+      "releaseDate": "2026-11-13",
+      "precision": "day",
+      "scope": {
+        "en": "Returning Battle Pass appearance announced for November 13, 2026 at 23:00 through January 29, 2027 at 04:59:59 (UTC+8). This is a return window; original Global launch, price, currency and exact redemption route remain unknown.",
+        "ko": "강호령 복각 외관으로 2026년 11월 13일 23:00부터 2027년 1월 29일 04:59:59까지(UTC+8) 예고됐습니다. 복각 기간이며 글로벌 최초 출시일, 가격, 화폐와 구체적인 교환 경로는 미정입니다."
+      },
+      "identityBasis": {
+        "en": "Named Willow Breeze female artwork matches CN 青玉案: blue flower hair ornaments, cream-and-gold bodice, translucent jade sleeves, gold waist bow and hanging pearls.",
+        "ko": "Willow Breeze 여성 공식 사진과 중국 青玉案의 파란 꽃 머리 장식, 크림색·금색 상의, 반투명 녹색 소매, 금색 허리 리본과 늘어진 진주가 일치합니다."
+      },
+      "acquisition": {
+        "kind": "battle_pass",
+        "pricing": "unknown",
+        "amount": null,
+        "regularAmount": null,
+        "currencyOriginal": null,
+        "location": {
+          "en": "Returning Battle Pass appearance",
+          "ko": "강호령 외관 복각",
+          "original": "Battle Pass Appearance"
+        },
+        "conditions": {
+          "en": "Returning Battle Pass appearance announced for November 13, 2026 at 23:00 through January 29, 2027 at 04:59:59 (UTC+8). This is a return window; original Global launch, price, currency and exact redemption route remain unknown.",
+          "ko": "강호령 복각 외관으로 2026년 11월 13일 23:00부터 2027년 1월 29일 04:59:59까지(UTC+8) 예고됐습니다. 복각 기간이며 글로벌 최초 출시일, 가격, 화폐와 구체적인 교환 경로는 미정입니다."
+        },
+        "en": "Returning appearance; exact acquisition requirements unstated",
+        "ko": "복각 외관이며 구체적인 획득 요건은 미표기"
+      }
     }
   ]
 }

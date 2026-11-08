@@ -30,6 +30,8 @@ This is part of completing each update, including updates from the existing cale
 
 ## Release notes
 
+- [0.3.21 — Correct Willow Breeze and Heaven-Sent Verse identities](releases/0.3.21.md)
+
 - [0.3.20 — November CN appearances and Global anniversary announcements](releases/0.3.20.md)
 
 - [0.3.19 — More deployment headroom with unchanged visitor data](releases/0.3.19.md)

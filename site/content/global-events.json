@@ -52,8 +52,8 @@
       "publicationDatePrecision": "day",
       "publicationTimezone": "UTC",
       "evidenceTier": "A",
-      "verifiedAt": "2026-11-07",
-      "verificationNote": "Publisher-author metadata and attached posters were checked through the official X syndication response. The expanded post gives both time windows. The new outfit is linked by artwork. The returning outfit is retained in the intake evidence pending repair of a historical identity mismatch."
+      "verifiedAt": "2026-11-08",
+      "verificationNote": "Publisher-author metadata, expanded post and attached named posters were checked. Frostbound Edge and Willow Breeze have separate time windows. The November 8 comparison with official CN artwork resolves Willow Breeze as 青玉案; Heaven-Sent Verse is the distinct 贺新词 outfit. Prior mismatched records are retained in the dated review evidence."
     },
     {
       "id": "global-20261106-flowing-clarity",
@@ -2013,8 +2013,8 @@
       }
     },
     {
-      "id": "release-global-qing-yu-an",
-      "cosmeticId": "qing-yu-an",
+      "id": "release-global-wiki-he-xin-ci",
+      "cosmeticId": "wiki-he-xin-ci",
       "date": "2026-03-06",
       "precision": "day",
       "server": "Global",
@@ -2022,10 +2022,10 @@
       "sourceIds": [
         "global-0e0cbe400409"
       ],
-      "status": "released",
+      "status": "announced",
       "scope": {
-        "en": "Historical official release listing. This does not establish current availability; no unstated time zone is assumed.",
-        "ko": "과거 공식 출시 목록입니다. 현재 판매 중이라는 뜻은 아니며 미표기 시간대는 추정하지 않습니다."
+        "en": "The March 5, 2026 overview announces Heaven-Sent Verse in the Shop after the March 6 update. It is 贺新词, not 青玉案. The preview does not confirm actual first availability or current stock.",
+        "ko": "2026년 3월 5일 미리보기는 3월 6일 업데이트 후 Heaven-Sent Verse 상점 출시를 예고합니다. 대응 외관은 青玉案이 아닌 贺新词입니다. 사전 공지로 실제 최초 출시나 현재 판매 여부를 확정하지 않습니다."
       }
     },
     {
@@ -4420,6 +4420,22 @@
       "scope": {
         "en": "Official announcement opens November 13, 2026 at 23:00 UTC+8. The calendar retains day precision. Actual release and in-game availability are pending.",
         "ko": "공식 공지의 시작은 2026년 11월 13일 23:00 UTC+8입니다. 캘린더는 날짜 정밀도를 유지합니다. 실제 출시와 게임 내 획득 여부는 확인 전입니다."
+      }
+    },
+    {
+      "id": "rerun-global-qing-yu-an-2026-11-13",
+      "cosmeticId": "qing-yu-an",
+      "date": "2026-11-13",
+      "precision": "day",
+      "server": "Global",
+      "kind": "rerun",
+      "sourceIds": [
+        "global-20261105-hutuo-battle-pass"
+      ],
+      "status": "announced",
+      "scope": {
+        "en": "Returning Battle Pass appearance announced for November 13, 2026 at 23:00 through January 29, 2027 at 04:59:59 (UTC+8). This is a return window; original Global launch, price, currency and exact redemption route remain unknown.",
+        "ko": "강호령 복각 외관으로 2026년 11월 13일 23:00부터 2027년 1월 29일 04:59:59까지(UTC+8) 예고됐습니다. 복각 기간이며 글로벌 최초 출시일, 가격, 화폐와 구체적인 교환 경로는 미정입니다."
       }
     }
   ]
