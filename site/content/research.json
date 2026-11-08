@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "verifiedAt": "2026-11-07",
+  "verifiedAt": "2026-11-08",
   "scope": "Cross-server archive from individually reviewed official announcements; not a certified complete game inventory.",
   "sources": [
     {
@@ -1731,8 +1731,8 @@
       "titleOriginal": "HomeAfar · official version overview",
       "publisher": "NetEase / Where Winds Meet official website",
       "server": "Global",
-      "displayedPublicationDate": null,
-      "publicationDatePrecision": "unknown",
+      "displayedPublicationDate": "2026-03-05",
+      "publicationDatePrecision": "day",
       "publicationTimezone": null,
       "evidenceTier": "A"
     },
@@ -4625,6 +4625,18 @@
         "https://nie.res.netease.com/r/pic/20260924/d120f84d-e5a0-45a6-be34-f4c2b9a100c2.jpg"
       ],
       "verificationNote": "The official second patch poster, in the 南吕相和·上 season section, prints its original close as November 6, 2026 04:59:59 with no timezone. The November 6 notice explicitly extends this CN season by one day."
+    },
+    {
+      "id": "cn-20250513-he-xin-ci",
+      "url": "https://www.yysls.cn/news/official/20250514/37780_1234187.html",
+      "publisher": "NetEase / Where Winds Meet official website",
+      "server": "CN",
+      "titleOriginal": "凉州预告PV发布！新BOSS抢鲜预览",
+      "displayedPublicationDate": "2025-05-13",
+      "publicationDatePrecision": "day",
+      "publicationTimezone": null,
+      "evidenceTier": "A",
+      "verifiedAt": "2026-11-08"
     }
   ],
   "mediaRights": {
@@ -10455,14 +10467,14 @@
       "sourceId": "cn-cd25a68244c9",
       "acquisitionServer": "CN",
       "mediaServer": "CN",
-      "officialNameEn": "Heaven-Sent Verse",
+      "officialNameEn": "Willow Breeze",
       "officialNameKo": null,
       "cnRelease": {
         "date": "2025-03-28",
         "precision": "day",
         "timezone": null,
         "contextual": false,
-        "basis": "Explicit listing date in the source"
+        "basis": "The March 27 preview announces March 28 after the update; actual first availability is not independently confirmed."
       },
       "acquisition": {
         "kind": "battle_pass",
@@ -10500,24 +10512,21 @@
           "server": "CN"
         },
         {
-          "url": "https://r.res.easebar.com/pic/20260305/30e1d6c1-bef4-49c8-a897-f2e3f95759d3.png",
-          "width": 931,
-          "height": 352,
-          "bytes": 12202803,
+          "url": "https://pbs.twimg.com/media/HWWpgKdacAABd2f.jpg",
+          "width": 1080,
+          "height": 1350,
+          "bytes": 1144800,
           "kind": "official_appearance_reference",
           "visuallyInspected": true,
-          "description": "Named appearance reference",
-          "inspectionNote": "Individually depicted appearance and English label/date visually checked in the official March/April poster. Reframed on 2026-09-23 against the official poster: complete artwork bounds and paired figures retained; reviewed in contact sheets.",
+          "description": "Official Willow Breeze female reference",
+          "inspectionNote": "Named Global artwork visually matched with the official CN 青玉案 reference on 2026-11-08. The preview isolates the female figure; enlargement preserves the complete poster.",
           "sourceFrame": 0,
-          "sourceCrop": [
-            37,
-            2387,
-            968,
-            2739
-          ],
+          "sourceCrop": null,
           "reusePermission": "unknown",
           "localCopy": null,
-          "server": "Global"
+          "server": "Global",
+          "sourceId": "global-20261105-hutuo-battle-pass",
+          "sourceUrl": "https://x.com/WhereWindsMeet_/status/2118357684911042887"
         }
       ],
       "officialVideos": [],
@@ -10527,7 +10536,11 @@
         "officialName": null,
         "releaseDate": null
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "namingNote": {
+        "en": "Official English name verified against the November 5 publisher artwork. Official Korean name remains unverified.",
+        "ko": "11월 5일 공식 이미지로 영어 공식명을 확인했습니다. 한국어 공식명은 미확인입니다."
+      }
     },
     {
       "id": "xie-xin-jiao-ying",
@@ -44833,48 +44846,72 @@
       "nameOriginal": "贺新词",
       "romanization": "He Xin Ci",
       "category": "outfit",
-      "sourceId": "huiji-he-xin-ci",
-      "wikiOnly": true,
-      "officialNameEn": null,
+      "sourceId": "cn-20250513-he-xin-ci",
+      "officialNameEn": "Heaven-Sent Verse",
       "officialNameKo": null,
       "cnRelease": {
-        "date": null,
-        "precision": "unknown",
+        "date": "2025-05-16",
+        "precision": "day",
         "timezone": null,
         "contextual": false,
-        "basis": "Community wiki reference; official release not independently verified."
+        "basis": "The May 13 preview announces May 16 after the update; actual first availability is not independently confirmed."
       },
       "acquisition": {
-        "kind": "unknown",
-        "pricing": "unknown",
-        "amount": null,
-        "regularAmount": null,
-        "currencyOriginal": null,
-        "en": "Acquisition not independently verified.",
-        "ko": "획득 정보는 공식 자료로 확인 중입니다.",
+        "kind": "shop",
+        "pricing": "fixed",
+        "amount": 300,
+        "regularAmount": 680,
+        "currencyOriginal": "长鸣珠",
         "location": {
-          "original": "未核实",
-          "en": "Not verified",
-          "ko": "확인 중"
+          "en": "Shop",
+          "ko": "상점",
+          "original": "商店"
         },
         "conditions": {
-          "en": "Community acquisition notes, where available, appear in the wiki section.",
-          "ko": "위키에 기재된 획득 정보는 아래 참고 항목에서 확인할 수 있습니다."
-        }
+          "en": "Historical CN offer announced after the May 16, 2025 update: 300 Echo Beads, regular price 680. Discount end and current availability are unknown. These are not Global prices.",
+          "ko": "2025년 5월 16일 업데이트 후 중국 상점의 과거 예고 가격은 장명주 300개, 정가는 680개입니다. 할인 종료와 현재 판매 여부는 미정이며 글로벌 가격이 아닙니다."
+        },
+        "en": "Official CN shop announcement terms",
+        "ko": "중국 공식 상점 예고의 획득 조건"
       },
       "global": {
         "status": "unknown",
         "releaseDate": null,
         "officialName": null
       },
-      "images": [],
+      "images": [
+        {
+          "url": "https://r.res.easebar.com/pic/20260305/30e1d6c1-bef4-49c8-a897-f2e3f95759d3.png",
+          "width": 931,
+          "height": 352,
+          "bytes": 12202803,
+          "kind": "official_appearance_reference",
+          "visuallyInspected": true,
+          "description": "Named appearance reference",
+          "inspectionNote": "Reassigned on 2026-11-08: the named Heaven-Sent Verse panel matches the official CN 贺新词 female veil, silver chest ornament, white/gold jacket and dark green waist; it is distinct from 青玉案.",
+          "sourceFrame": 0,
+          "sourceCrop": [
+            37,
+            2387,
+            968,
+            2739
+          ],
+          "reusePermission": "unknown",
+          "localCopy": null,
+          "server": "Global",
+          "sourceId": "global-0e0cbe400409",
+          "sourceUrl": "https://www.wherewindsmeetgame.com/news/official/HomeAfar.html"
+        }
+      ],
       "officialVideos": [],
-      "mediaStatus": "pending",
+      "mediaStatus": "verified",
       "namingNote": {
-        "en": "Provisional reading of the Chinese identifier; an official global name has not been verified.",
-        "ko": "공식 한국어 명칭 미확인으로 중국 원명을 표기합니다."
+        "en": "Official English name matched through the named March 5 Global poster and official CN artwork. Official Korean name remains unverified.",
+        "ko": "3월 5일 글로벌 포스터와 중국 공식 사진을 대조해 영어 공식명을 확인했습니다. 한국어 공식명은 미확인입니다."
       },
-      "wikiDetails": true
+      "wikiDetails": true,
+      "acquisitionServer": "CN",
+      "mediaServer": "Global"
     },
     {
       "id": "wiki-mo-chen-dan-zhu",

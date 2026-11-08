@@ -1,0 +1,308 @@
+{
+  "reviewedAt": "2026-11-08",
+  "reviewTimezone": "America/New_York",
+  "baseline": "v0.3.20",
+  "scope": "Resolve the deferred Willow Breeze identity; do not infer unannounced regional facts.",
+  "sources": [
+    {
+      "url": "https://www.yysls.cn/news/official/20250328/37780_1223435.html",
+      "role": "Named 青玉案 artwork and March 28 CN announcement"
+    },
+    {
+      "url": "https://www.wherewindsmeetgame.com/news/official/HomeAfar.html",
+      "role": "Named Heaven-Sent Verse artwork and March 6 Global shop announcement"
+    },
+    {
+      "url": "https://www.yysls.cn/news/official/20250514/37780_1234187.html",
+      "role": "Named 贺新词 artwork; May 16 CN announcement; 300/680 CN Echo Beads"
+    },
+    {
+      "url": "https://x.com/WhereWindsMeet_/status/2118357684911042887",
+      "role": "Willow Breeze identity, return window and original photo; expanded publisher text reread through FxTwitter, author WhereWindsMeet_"
+    }
+  ],
+  "visualEvidence": [
+    {
+      "url": "https://nie.res.netease.com/r/pic/20250514/5a3d8d5a-f70e-4dc9-a0dc-b2e8626ecc4d.png",
+      "sha256": "56af9a2e25cf0b53d77c1921c15f4a1931b98dba4b71963541540b1407f7ca1b",
+      "comparison": {
+        "en": "Matched the female veil, silver chest ornament, gold-embroidered white jacket and dark green waist in the named Global panel and the official CN 贺新词 image.",
+        "ko": "글로벌 명칭 패널과 중국 贺新词 공식 사진에서 여성의 베일, 은색 가슴 장식, 금색 자수의 흰 겉옷과 짙은 녹색 허리 장식이 일치합니다."
+      }
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HWWpgKdacAABd2f.jpg",
+      "sha256": "43fc96b903984f0b79f2f7a1753ded788df7c9790b2346de23be4955560f8768",
+      "comparison": {
+        "en": "Named Willow Breeze female artwork matches CN 青玉案: blue flower hair ornaments, cream-and-gold bodice, translucent jade sleeves, gold waist bow and hanging pearls.",
+        "ko": "Willow Breeze 여성 공식 사진과 중국 青玉案의 파란 꽃 머리 장식, 크림색·금색 상의, 반투명 녹색 소매, 금색 허리 리본과 늘어진 진주가 일치합니다."
+      }
+    }
+  ],
+  "corrections": {
+    "previous": {
+      "willow": {
+        "id": "qing-yu-an",
+        "nameOriginal": "青玉案",
+        "romanization": "qing yu an",
+        "category": "outfit",
+        "sourceId": "cn-cd25a68244c9",
+        "acquisitionServer": "CN",
+        "mediaServer": "CN",
+        "officialNameEn": "Heaven-Sent Verse",
+        "officialNameKo": null,
+        "cnRelease": {
+          "date": "2025-03-28",
+          "precision": "day",
+          "timezone": null,
+          "contextual": false,
+          "basis": "Explicit listing date in the source"
+        },
+        "acquisition": {
+          "kind": "battle_pass",
+          "pricing": "pass",
+          "amount": null,
+          "regularAmount": null,
+          "currencyOriginal": null,
+          "location": {
+            "en": "Battle Pass",
+            "ko": "강호령",
+            "original": "战令"
+          },
+          "conditions": {
+            "en": "CN announcement terms; quantities are shown only when stated for this appearance. Sales, discounts and reward conditions may have ended.",
+            "ko": "중국 공지의 획득 조건입니다. 해당 외관에 명시된 수량만 기재했으며 판매·할인·보상 기간은 종료되었을 수 있습니다."
+          },
+          "en": "See the acquisition method and source conditions.",
+          "ko": "획득 방법과 출처의 조건을 확인하세요.",
+          "sourceExcerpt": "全新战令活动即将于3月28日更新后开启，夹钟并作之际，愿与各位共奏河西佳音。游侠们也可在更新后，通过战令奖励，获取包括套装「青玉案」在内的诸多奖励。"
+        },
+        "images": [
+          {
+            "url": "https://nie.res.netease.com/r/pic/20250328/5c06cd9e-0428-440a-b7c2-a0007e615b1c.jpg",
+            "width": 2514,
+            "height": 9395,
+            "bytes": 13456080,
+            "kind": "official_appearance_reference",
+            "visuallyInspected": true,
+            "description": "Named appearance reference",
+            "inspectionNote": "Long poster with green and cream garments on two figures; 青玉案 label visible.",
+            "sourceFrame": 0,
+            "sourceCrop": null,
+            "reusePermission": "unknown",
+            "localCopy": null,
+            "server": "CN"
+          },
+          {
+            "url": "https://r.res.easebar.com/pic/20260305/30e1d6c1-bef4-49c8-a897-f2e3f95759d3.png",
+            "width": 931,
+            "height": 352,
+            "bytes": 12202803,
+            "kind": "official_appearance_reference",
+            "visuallyInspected": true,
+            "description": "Named appearance reference",
+            "inspectionNote": "Individually depicted appearance and English label/date visually checked in the official March/April poster. Reframed on 2026-09-23 against the official poster: complete artwork bounds and paired figures retained; reviewed in contact sheets.",
+            "sourceFrame": 0,
+            "sourceCrop": [
+              37,
+              2387,
+              968,
+              2739
+            ],
+            "reusePermission": "unknown",
+            "localCopy": null,
+            "server": "Global"
+          }
+        ],
+        "officialVideos": [],
+        "mediaStatus": "verified",
+        "global": {
+          "status": "unknown",
+          "officialName": null,
+          "releaseDate": null
+        },
+        "wikiDetails": true
+      },
+      "heaven": {
+        "id": "wiki-he-xin-ci",
+        "nameOriginal": "贺新词",
+        "romanization": "He Xin Ci",
+        "category": "outfit",
+        "sourceId": "huiji-he-xin-ci",
+        "wikiOnly": true,
+        "officialNameEn": null,
+        "officialNameKo": null,
+        "cnRelease": {
+          "date": null,
+          "precision": "unknown",
+          "timezone": null,
+          "contextual": false,
+          "basis": "Community wiki reference; official release not independently verified."
+        },
+        "acquisition": {
+          "kind": "unknown",
+          "pricing": "unknown",
+          "amount": null,
+          "regularAmount": null,
+          "currencyOriginal": null,
+          "en": "Acquisition not independently verified.",
+          "ko": "획득 정보는 공식 자료로 확인 중입니다.",
+          "location": {
+            "original": "未核实",
+            "en": "Not verified",
+            "ko": "확인 중"
+          },
+          "conditions": {
+            "en": "Community acquisition notes, where available, appear in the wiki section.",
+            "ko": "위키에 기재된 획득 정보는 아래 참고 항목에서 확인할 수 있습니다."
+          }
+        },
+        "global": {
+          "status": "unknown",
+          "releaseDate": null,
+          "officialName": null
+        },
+        "images": [],
+        "officialVideos": [],
+        "mediaStatus": "pending",
+        "namingNote": {
+          "en": "Provisional reading of the Chinese identifier; an official global name has not been verified.",
+          "ko": "공식 한국어 명칭 미확인으로 중국 원명을 표기합니다."
+        },
+        "wikiDetails": true
+      },
+      "regional": [
+        {
+          "cosmeticId": "qing-yu-an",
+          "server": "CN",
+          "status": "released",
+          "sourceIds": [
+            "cn-cd25a68244c9"
+          ],
+          "verifiedAt": "2026-09-13",
+          "releaseDate": "2025-03-28",
+          "precision": "day",
+          "scope": {
+            "en": "Historical official listing or in-game appearance maintenance notice. This does not establish current availability or an original release date.",
+            "ko": "과거 공식 출시·외관 수정 공지 기록입니다. 현재 판매 여부와 최초 출시일을 뜻하지 않습니다."
+          },
+          "identityBasis": {
+            "en": "The official regional source explicitly names this appearance and category.",
+            "ko": "해당 서버의 공식 원문에서 외관명과 분류를 확인했습니다."
+          }
+        },
+        {
+          "cosmeticId": "qing-yu-an",
+          "server": "Global",
+          "status": "released",
+          "sourceIds": [
+            "global-0e0cbe400409"
+          ],
+          "verifiedAt": "2026-09-13",
+          "releaseDate": "2026-03-06",
+          "precision": "day",
+          "scope": {
+            "en": "Historical official release listing. This does not establish current availability; no unstated time zone is assumed.",
+            "ko": "과거 공식 출시 목록입니다. 현재 판매 중이라는 뜻은 아니며 미표기 시간대는 추정하지 않습니다."
+          },
+          "identityBasis": {
+            "en": "Corresponding named regional artwork compared visually.",
+            "ko": "이름이 붙은 서버별 공식 이미지를 육안으로 비교했습니다."
+          },
+          "acquisition": {
+            "en": "See source acquisition conditions.",
+            "ko": "원문의 획득 조건을 확인하세요.",
+            "kind": "shop",
+            "pricing": "unknown",
+            "amount": null,
+            "regularAmount": null,
+            "currencyOriginal": null,
+            "location": {
+              "en": "Shop",
+              "ko": "상점",
+              "original": "shop"
+            },
+            "conditions": {
+              "en": "The official listing establishes the acquisition route, but does not state a price for this item. Current availability is not implied.",
+              "ko": "공식 목록에서 획득 경로를 확인했으나 개별 가격은 미표기입니다. 현재 판매 여부는 별도입니다."
+            }
+          }
+        }
+      ],
+      "events": [
+        {
+          "id": "release-global-qing-yu-an",
+          "cosmeticId": "qing-yu-an",
+          "date": "2026-03-06",
+          "precision": "day",
+          "server": "Global",
+          "kind": "release",
+          "sourceIds": [
+            "global-0e0cbe400409"
+          ],
+          "status": "released",
+          "scope": {
+            "en": "Historical official release listing. This does not establish current availability; no unstated time zone is assumed.",
+            "ko": "과거 공식 출시 목록입니다. 현재 판매 중이라는 뜻은 아니며 미표기 시간대는 추정하지 않습니다."
+          }
+        }
+      ],
+      "media": [
+        {
+          "cosmeticId": "qing-yu-an",
+          "index": 0,
+          "originalUrl": "https://nie.res.netease.com/r/pic/20250328/5c06cd9e-0428-440a-b7c2-a0007e615b1c.jpg",
+          "thumbnail": "/media/qing-yu-an-0-thumb.webp",
+          "full": "/media/qing-yu-an-0-full.webp",
+          "thumbnailBytes": 28726,
+          "fullBytes": 463086,
+          "permission": "unknown",
+          "audience": "reference artwork; excluded from the code license",
+          "preview": "/media/qing-yu-an-0-preview.webp",
+          "previewBytes": 1386
+        },
+        {
+          "cosmeticId": "qing-yu-an",
+          "index": 1,
+          "originalUrl": "https://r.res.easebar.com/pic/20260305/30e1d6c1-bef4-49c8-a897-f2e3f95759d3.png",
+          "thumbnail": "/media/qing-yu-an-1-thumb.webp",
+          "full": "/media/qing-yu-an-1-full.webp",
+          "thumbnailBytes": 38088,
+          "fullBytes": 56908,
+          "permission": "unknown",
+          "audience": "reference artwork; excluded from the code license",
+          "preview": "/media/qing-yu-an-1-preview.webp",
+          "previewBytes": 4386,
+          "presentationCrop": [
+            251,
+            37,
+            466,
+            338
+          ],
+          "display": "/media/qing-yu-an-1-display.webp",
+          "displayWidth": 215,
+          "displayHeight": 301,
+          "displayBytes": 19588,
+          "presentationSubject": "female"
+        }
+      ]
+    },
+    "mediaCompatibility": "The old qing-yu-an-1 media URLs stay byte-identical, now referenced by wiki-he-xin-ci. They remain accessible; no redirects or lossy re-encoding of retained files."
+  },
+  "counts": {
+    "cosmetics": 764,
+    "images": 919,
+    "galleries": 518,
+    "regionalRecords": 730,
+    "globalEvents": 258,
+    "deadlines": 88
+  },
+  "addedAssetBytes": 300562,
+  "limits": [
+    "Official Korean names remain unverified.",
+    "Historical previews are announcements, not proof of actual release.",
+    "No current in-game stock or separate redemption requirements verified.",
+    "No media reuse permission established.",
+    "Forecast history is unchanged."
+  ]
+}

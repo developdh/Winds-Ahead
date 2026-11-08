@@ -4,7 +4,7 @@ export interface Deadline {
   id: string;
   cosmeticId: string;
   server: Server;
-  kind: 'sale' | 'exchange' | 'discount' | 'event' | 'draw' | 'pass';
+  kind: 'sale' | 'exchange' | 'discount' | 'event' | 'draw' | 'pass' | 'rerun';
   startDate: string;
   end: string;
   precision: 'day' | 'minute' | 'second';
@@ -21,6 +21,7 @@ export const deadlineKinds = {
   event: { en: 'Event ends', ko: '이벤트 종료' },
   draw: { en: 'Draw ends', ko: '추첨 종료' },
   pass: { en: 'Pass ends', ko: '강호령 종료' },
+  rerun: { en: 'Return ends', ko: '복각 종료' },
 };
 export function deadlineDate(d: Deadline, l: Locale) {
   const time = d.precision === 'day' ? '' : ` ${d.end.slice(11)}`;

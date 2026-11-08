@@ -2,6 +2,28 @@
   "schemaVersion": 1,
   "entries": [
     {
+      "id": "november8-willow-breeze-identity",
+      "date": "2026-11-08",
+      "kind": {
+        "en": "Appearance identity correction",
+        "ko": "외관 대응 정정"
+      },
+      "title": {
+        "en": "Separate Willow Breeze and Heaven-Sent Verse",
+        "ko": "Willow Breeze와 Heaven-Sent Verse 대응 정정"
+      },
+      "body": {
+        "en": "Corrected the mixed names, photos and March schedule for two different outfits. Willow Breeze matches 青玉案 and returns November 13 at 23:00 through January 29 at 04:59:59 (UTC+8). Heaven-Sent Verse matches 贺新词; its official CN announcement supplies historical shop pricing. Added an inspected female reference and a separate return deadline label. Korean official names and current stock remain unverified.",
+        "ko": "서로 다른 의상 두 종에 섞여 있던 명칭·사진·3월 일정을 바로잡았습니다. Willow Breeze는 青玉案에 대응하며 11월 13일 23:00부터 1월 29일 04:59:59까지(UTC+8) 복각 예고입니다. Heaven-Sent Verse는 贺新词에 대응하며 중국 공식 예고의 과거 상점 가격을 보완했습니다. 검수한 여성 사진과 별도 복각 종료 표시를 추가했습니다. 한국어 공식명과 현재 판매 여부는 미확인입니다."
+      },
+      "sourceIds": [
+        "cn-cd25a68244c9",
+        "cn-20250513-he-xin-ci",
+        "global-0e0cbe400409",
+        "global-20261105-hutuo-battle-pass"
+      ]
+    },
+    {
       "id": "november7-official-appearances",
       "date": "2026-11-07",
       "kind": {
