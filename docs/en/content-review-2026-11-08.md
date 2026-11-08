@@ -20,3 +20,7 @@ Willow Breeze returns November 13, 2026 at 23:00 through January 29, 2027 at 04:
 The CN 贺新词 preview announces May 16, 2025 after the update, at 300 Echo Beads, regular price 680. These are historical CN prices; the discount end and Global price are unknown. The March Global and March CN previews establish announced dates, not proof of actual first availability. Their previous released labels are corrected to pending confirmation. Source-date path segments are not substituted for displayed publication dates.
 
 The evidence file preserves the earlier mistaken records for audit. Forecasts remain untouched. Neither outfit has a verified official Korean name. Current in-game stock and artwork redistribution permission remain unverified.
+
+## Other update checks
+
+The bounded official-source review established no further actionable cosmetic announcement or verified Korean name beyond the November 7 baseline. The [Korean news index](https://www.wherewindsmeetgame.com/kr/news/) still lists October 30 as its newest dated notice. The newer Korean Lounge appearance board could not be read, so this does not establish that no newer Korean announcement exists. The [CN turtle-event feature](https://www.yysls.cn/news/official/20261106/37780_1319026.html) confirms 要发发 for two cumulative prayers, already recorded. Its separate reward images were not individually identified, so the missing accessory gallery remains unresolved.
